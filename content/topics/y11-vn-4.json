@@ -1,0 +1,125 @@
+{
+  "id": "y11-vn-4", "course": "y11", "area": "vn", "kt": "Key topic 4", "order": 34,
+  "title": "The end of the war, 1969–75",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Historical investigation A4, key topic 4." },
+  "learn": {
+    "intro": "Nixon promised 'peace with honour'. He withdrew US troops through Vietnamisation while widening the war into Cambodia and Laos. The Paris Peace Accords of 1973 ended US involvement, and Saigon fell to the North in 1975.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Nixon and Vietnamisation",
+        "blocks": [
+          { "p": "Richard Nixon became President in January 1969 promising to end the war with 'peace with honour'. His policy of Vietnamisation meant handing the fighting over to the South Vietnamese army (ARVN), which the USA would train and equip, while US troops gradually came home." },
+          { "p": "US troop numbers fell from about 540,000 in 1969 to about 24,000 by the end of 1972. Conscription was replaced by a draft lottery (1969) and ended in 1973." },
+          { "p": "Weaknesses: the ARVN had low morale and high desertion rates, and its officers were often corrupt. Without US ground troops and air power it struggled." }
+        ],
+        "terms": ["Vietnamisation", "ARVN", "peace with honour"],
+        "evidence": ["January 1969: Nixon becomes President.", "US troops: about 540,000 (1969) → about 24,000 (end of 1972)."]
+      },
+      {
+        "id": "s2", "title": "2. Widening the war: Cambodia and Laos",
+        "blocks": [
+          { "p": "To cut the Ho Chi Minh Trail and destroy communist bases, Nixon secretly bombed Cambodia from March 1969. In April 1970 US and ARVN troops invaded Cambodia. This caused huge protests in the USA, including at Kent State University, where National Guardsmen shot dead four students on 4 May 1970." },
+          { "p": "In February 1971 the ARVN invaded Laos (Operation Lam Son 719) with US air support but no US ground troops. It was a failure and showed the weakness of Vietnamisation." },
+          { "p": "In 1972 North Vietnam launched the Easter Offensive. Nixon responded with heavy bombing (Operation Linebacker), and in December 1972 the 'Christmas bombing' of Hanoi and Haiphong to push the North back to the negotiating table." }
+        ],
+        "terms": ["Cambodia", "Laos", "Kent State", "Christmas bombing"],
+        "evidence": ["March 1969: secret bombing of Cambodia.", "April 1970: invasion of Cambodia.", "4 May 1970: Kent State shootings.", "1971: ARVN invasion of Laos fails.", "December 1972: Christmas bombing."]
+      },
+      {
+        "id": "s3", "title": "3. Peace talks and the Paris Peace Accords",
+        "blocks": [
+          { "p": "Peace talks in Paris had begun in 1968. Henry Kissinger, Nixon's National Security Adviser, held secret talks with North Vietnam's Le Duc Tho. Nixon also improved relations with China and the USSR (visits in 1972), reducing their support for Hanoi." },
+          { "p": "The Paris Peace Accords were signed on 27 January 1973. There would be a ceasefire; US troops would leave within 60 days; prisoners of war would be returned; but North Vietnamese troops could stay in the South. The last US combat troops left in March 1973." }
+        ],
+        "terms": ["Paris Peace Accords", "ceasefire", "prisoners of war"],
+        "evidence": ["27 January 1973: Paris Peace Accords.", "March 1973: last US combat troops leave."]
+      },
+      {
+        "id": "s4", "title": "4. Communist victory, 1975",
+        "blocks": [
+          { "p": "The ceasefire soon broke down. Nixon resigned in August 1974 over Watergate. His successor Gerald Ford asked Congress for more aid for South Vietnam, but Congress refused; it had already cut aid and passed the War Powers Act (1973) limiting the President's power to send troops." },
+          { "p": "North Vietnam launched a final offensive in early 1975. The ARVN collapsed. Saigon fell on 30 April 1975 as the last Americans were evacuated by helicopter. Vietnam was reunified under communist rule in 1976, and Saigon was renamed Ho Chi Minh City." },
+          { "p": "Reasons for US failure: the strengths of the North (determination, guerrilla tactics, the Ho Chi Minh Trail, support from China and the USSR); the weaknesses of the US military (tactics that turned peasants against them, low morale); the unpopular and corrupt South Vietnamese governments; and opposition to the war in the USA." }
+        ],
+        "terms": ["fall of Saigon", "reunification", "War Powers Act"],
+        "evidence": ["August 1974: Nixon resigns.", "30 April 1975: fall of Saigon.", "1976: Vietnam reunified."]
+      }
+    ],
+    "timeline": [
+      { "date": "Jan 1969", "event": "Nixon becomes President; Vietnamisation" },
+      { "date": "March 1969", "event": "Secret bombing of Cambodia begins" },
+      { "date": "April 1970", "event": "Invasion of Cambodia" },
+      { "date": "4 May 1970", "event": "Kent State shootings" },
+      { "date": "Feb 1971", "event": "ARVN invasion of Laos fails" },
+      { "date": "Dec 1972", "event": "Christmas bombing" },
+      { "date": "27 Jan 1973", "event": "Paris Peace Accords" },
+      { "date": "Aug 1974", "event": "Nixon resigns; Ford becomes President" },
+      { "date": "30 April 1975", "event": "Fall of Saigon" }
+    ],
+    "people": [
+      { "name": "Richard Nixon", "role": "US President 1969–74; Vietnamisation." },
+      { "name": "Henry Kissinger", "role": "National Security Adviser; negotiated the Paris Accords." },
+      { "name": "Le Duc Tho", "role": "North Vietnam's chief negotiator in Paris." },
+      { "name": "Gerald Ford", "role": "US President 1974–77; Congress refused his aid request." }
+    ],
+    "vocab": [
+      { "term": "Vietnamisation", "def": "Handing the fighting over to the South Vietnamese army while US troops withdrew." },
+      { "term": "ARVN", "def": "Army of the Republic of Vietnam — South Vietnam's army." },
+      { "term": "Ceasefire", "def": "Agreement to stop fighting." },
+      { "term": "Reunification", "def": "Joining North and South into one country." }
+    ],
+    "misconceptions": [
+      { "wrong": "Nixon simply withdrew from the war.", "right": "He withdrew troops but widened the war with bombing and invasions of Cambodia and Laos." },
+      { "wrong": "Saigon fell when US troops left in 1973.", "right": "It fell two years later, in April 1975." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "What was Vietnamisation?", "options": ["Sending more US troops", "Handing the fighting to the ARVN while US troops withdrew", "Bombing Hanoi", "Reuniting Vietnam"], "answer": 1, "why": "Nixon from 1969." },
+      { "id": "m2", "s": "s2", "q": "What happened at Kent State in May 1970?", "options": ["A peace treaty", "Four students were shot dead by National Guardsmen", "A Vietcong attack", "Nixon resigned"], "answer": 1, "why": "Protests against the invasion of Cambodia." },
+      { "id": "m3", "s": "s2", "q": "Why did the 1971 invasion of Laos matter?", "options": ["It succeeded", "Its failure showed the weakness of Vietnamisation", "US troops led it", "It ended the war"], "answer": 1, "why": "ARVN without US ground troops." },
+      { "id": "m4", "s": "s3", "q": "When were the Paris Peace Accords signed?", "options": ["1969", "1971", "27 January 1973", "1975"], "answer": 2, "why": "Ceasefire and US withdrawal." },
+      { "id": "m5", "s": "s4", "q": "When did Saigon fall?", "options": ["1973", "30 April 1975", "1976", "1968"], "answer": 1, "why": "Final North Vietnamese offensive." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s3", "q": "Who negotiated secretly for the USA in Paris?", "accept": ["kissinger", "henry kissinger"], "answer": "Henry Kissinger" },
+      { "id": "a2", "s": "s1", "q": "What does ARVN stand for?", "accept": ["army of the republic of vietnam"], "answer": "Army of the Republic of Vietnam" },
+      { "id": "a3", "s": "s4", "q": "What was Saigon renamed?", "accept": ["ho chi minh city"], "answer": "Ho Chi Minh City" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Nixon becomes President", "Invasion of Cambodia", "ARVN invasion of Laos", "Christmas bombing", "Paris Peace Accords", "Fall of Saigon"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the person to the role", "pairs": [["Nixon", "Vietnamisation"], ["Kissinger", "Secret peace talks"], ["Le Duc Tho", "North Vietnam's negotiator"], ["Ford", "President when Saigon fell"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s1", "q": "Give precise evidence about Vietnamisation.", "keywords": [["540,000", "540000", "24,000", "24000", "arvn", "1969", "1972"]], "model": "US troops fell from about 540,000 in 1969 to about 24,000 by the end of 1972 as the ARVN took over the fighting." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Describe two features of Vietnamisation.", "a": "Training and equipping the ARVN to fight; gradual withdrawal of US troops (about 540,000 → 24,000 by 1972).", "hint": "ARVN + withdrawal." },
+    { "id": "f2", "s": "s2", "q": "Why did Nixon invade Cambodia?", "a": "To destroy communist bases and cut the Ho Chi Minh Trail.", "hint": "Trail." },
+    { "id": "f3", "s": "s3", "q": "What were the terms of the Paris Peace Accords?", "a": "Ceasefire; US troops out within 60 days; POWs returned; North Vietnamese troops could stay in the South.", "hint": "January 1973." },
+    { "id": "f4", "s": "s4", "q": "Why did South Vietnam fall in 1975?", "a": "ARVN weakness, corruption, Congress refusing more aid, and a determined Northern offensive.", "hint": "No aid." },
+    { "id": "f5", "s": "s4", "q": "Give four reasons for US failure.", "a": "Northern strengths; US tactics and morale; weak South Vietnamese governments; opposition at home.", "hint": "N, U, S, H." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "describe", "text": "I can describe Nixon's policy of Vietnamisation.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain why Nixon widened the war into Cambodia and Laos.", "sections": ["s2"] },
+    { "id": "k3", "level": "describe", "text": "I can describe the Paris Peace Accords.", "sections": ["s3"] },
+    { "id": "k4", "level": "judge", "text": "I can judge the reasons for US failure in Vietnam.", "sections": ["s4"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "p2aa", "label": "Past paper: 4HI1/02, June 2025, A4(a)", "sections": ["s1"],
+        "q": "Describe TWO features of EITHER the siege of Khe Sanh OR Nixon's policy of Vietnamisation." },
+      { "id": "q2", "qtype": "p2aa", "label": "Teacher-created practice question", "sections": ["s3", "s4"],
+        "q": "Describe TWO features of EITHER the Paris Peace Accords of 1973 OR the fall of Saigon in 1975." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Judgement", "task": "Did Nixon achieve 'peace with honour'? Use evidence from 1969–75." },
+    { "id": "t2", "kind": "Relative significance", "task": "Which reason for US failure was most important? Justify your ranking of all four." }
+  ]
+}

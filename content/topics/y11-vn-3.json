@@ -1,0 +1,124 @@
+{
+  "id": "y11-vn-3", "course": "y11", "area": "vn", "kt": "Key topic 3", "order": 33,
+  "title": "Increased US involvement in the war, 1964–68",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Historical investigation A4, key topic 3." },
+  "learn": {
+    "intro": "After the Gulf of Tonkin Resolution, President Johnson turned an advisory mission into a full-scale war. Huge US firepower could not defeat the Vietcong's guerrilla tactics, and the Tet Offensive of 1968 became the turning point.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Escalation: Rolling Thunder and US ground troops",
+        "blocks": [
+          { "p": "In February 1965, after Vietcong attacks on US bases such as Pleiku, Johnson began Operation Rolling Thunder — a sustained bombing campaign against North Vietnam that lasted until 1968. Its aims were to destroy industry and supply routes, stop the flow of men and materials south, and force Hanoi to negotiate." },
+          { "p": "In March 1965 the first US combat troops — Marines — landed at Da Nang to protect the air base. Numbers rose rapidly: about 184,000 by the end of 1965 and over 500,000 by 1968." },
+          { "p": "Rolling Thunder did not achieve its aims. North Vietnam had little industry to destroy, supplies kept moving down the Ho Chi Minh Trail, and the bombing hardened Northern resistance." }
+        ],
+        "terms": ["escalation", "Operation Rolling Thunder", "combat troops"],
+        "evidence": ["February 1965: Rolling Thunder begins (to 1968).", "March 1965: Marines land at Da Nang.", "Over 500,000 US troops by 1968."]
+      },
+      {
+        "id": "s2", "title": "2. Vietcong tactics",
+        "blocks": [
+          { "p": "The Vietcong avoided open battles with the much better-armed Americans. They used guerrilla tactics: ambushes, hit-and-run attacks, and booby traps such as punji sticks and tripwire mines, which caused many US casualties and destroyed morale." },
+          { "p": "They built huge tunnel networks, such as at Cu Chi near Saigon, with living quarters, hospitals and storerooms, so they could hide and appear behind American lines. They mixed with the villagers, so US soldiers could not tell friend from enemy." },
+          { "p": "'Hugging' tactics — fighting very close to US troops — meant the Americans could not call in air strikes or artillery without hitting their own men." }
+        ],
+        "terms": ["booby trap", "tunnels", "hugging tactics", "ambush"],
+        "evidence": ["Cu Chi tunnels near Saigon.", "Booby traps such as punji sticks."]
+      },
+      {
+        "id": "s3", "title": "3. US tactics: search and destroy, Agent Orange and napalm",
+        "blocks": [
+          { "p": "General Westmoreland's strategy was attrition: kill enemy soldiers faster than they could be replaced. Search and destroy missions sent troops, often by helicopter, to find and kill Vietcong in villages. Success was measured by 'body counts', which encouraged soldiers to count any dead Vietnamese as Vietcong and turned villagers against the USA." },
+          { "p": "Chemical weapons were used on a huge scale. Agent Orange, a defoliant, was sprayed to strip jungle cover and destroy crops; it caused long-term illness and birth defects. Napalm, a burning jelly dropped in bombs, killed and maimed civilians as well as fighters." },
+          { "p": "US troops were often young conscripts serving one-year tours, unfamiliar with the country and under constant threat. Morale fell and drug use rose." }
+        ],
+        "terms": ["attrition", "search and destroy", "body count", "Agent Orange", "napalm"],
+        "evidence": ["Westmoreland's attrition strategy.", "Agent Orange stripped jungle cover and crops.", "One-year tours of duty for US conscripts."]
+      },
+      {
+        "id": "s4", "title": "4. The Tet Offensive, 1968",
+        "blocks": [
+          { "p": "On 30–31 January 1968, during the Tet (Vietnamese New Year) holiday truce, about 80,000 Vietcong and North Vietnamese troops attacked over 100 towns and cities across South Vietnam, including Saigon, where they briefly got inside the US Embassy compound. The ancient city of Hue was held for nearly a month. The offensive followed a diversionary siege of the US base at Khe Sanh, which began on 21 January 1968." },
+          { "p": "Militarily, Tet was a defeat for the communists: they suffered very heavy losses, the Vietcong was badly weakened, and the expected popular uprising in the South did not happen." },
+          { "p": "Politically, it was a turning point. Americans had been told the war was being won; TV showed fighting in the US Embassy. Respected newsreader Walter Cronkite said the war was a stalemate. Westmoreland asked for 206,000 more troops and was refused. On 31 March 1968 Johnson announced a partial halt to the bombing and said he would not stand for re-election." },
+          { "p": "In March 1968 US soldiers killed several hundred unarmed villagers at My Lai. The massacre was covered up and only became public in November 1969, further damaging support for the war." }
+        ],
+        "terms": ["Tet Offensive", "credibility gap", "stalemate", "My Lai"],
+        "evidence": ["30–31 January 1968: Tet Offensive begins.", "Khe Sanh siege from 21 January 1968.", "31 March 1968: Johnson will not stand again.", "My Lai: March 1968; made public November 1969."]
+      }
+    ],
+    "timeline": [
+      { "date": "Feb 1965", "event": "Operation Rolling Thunder begins" },
+      { "date": "March 1965", "event": "US Marines land at Da Nang" },
+      { "date": "End 1965", "event": "About 184,000 US troops in Vietnam" },
+      { "date": "21 Jan 1968", "event": "Siege of Khe Sanh begins" },
+      { "date": "30–31 Jan 1968", "event": "Tet Offensive" },
+      { "date": "16 March 1968", "event": "My Lai massacre" },
+      { "date": "31 March 1968", "event": "Johnson halts most bombing and will not stand again" }
+    ],
+    "people": [
+      { "name": "Lyndon B. Johnson", "role": "US President 1963–69; escalated the war." },
+      { "name": "William Westmoreland", "role": "US commander in Vietnam 1964–68; attrition strategy." },
+      { "name": "Walter Cronkite", "role": "CBS newsreader who called the war a stalemate in 1968." }
+    ],
+    "vocab": [
+      { "term": "Escalation", "def": "Making a war bigger or more intense." },
+      { "term": "Attrition", "def": "Wearing the enemy down by killing more than they can replace." },
+      { "term": "Defoliant", "def": "Chemical that strips leaves from plants (e.g. Agent Orange)." },
+      { "term": "Credibility gap", "def": "Difference between what the government said and what people saw." }
+    ],
+    "misconceptions": [
+      { "wrong": "The Tet Offensive was a military victory for the communists.", "right": "It was a military defeat but a political and psychological victory." },
+      { "wrong": "Rolling Thunder cut the supply lines.", "right": "Supplies kept moving down the Ho Chi Minh Trail." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "What was Operation Rolling Thunder?", "options": ["A ground offensive", "A bombing campaign against North Vietnam", "A peace plan", "A Vietcong attack"], "answer": 1, "why": "1965–68." },
+      { "id": "m2", "s": "s1", "q": "Where did the first US combat troops land in March 1965?", "options": ["Saigon", "Hue", "Da Nang", "Hanoi"], "answer": 2, "why": "Marines, to protect the air base." },
+      { "id": "m3", "s": "s2", "q": "Why were 'hugging' tactics effective?", "options": ["They stopped US air strikes and artillery being used", "They were quieter", "They used tanks", "They avoided villages"], "answer": 0, "why": "Too close to call in fire support." },
+      { "id": "m4", "s": "s3", "q": "How did the USA measure success in search and destroy?", "options": ["Land captured", "Body counts", "Villages built", "Elections won"], "answer": 1, "why": "Encouraged killing of civilians." },
+      { "id": "m5", "s": "s4", "q": "Why was Tet a turning point?", "options": ["The communists won militarily", "It destroyed US public belief that the war was being won", "The USA withdrew immediately", "China joined the war"], "answer": 1, "why": "Political, not military, victory." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s4", "q": "In which month and year did the Tet Offensive begin?", "accept": ["january 1968", "jan 1968"], "answer": "January 1968" },
+      { "id": "a2", "s": "s3", "q": "Name the defoliant sprayed on the jungle.", "accept": ["agent orange"], "answer": "Agent Orange" },
+      { "id": "a3", "s": "s3", "q": "Who commanded US forces in Vietnam 1964–68?", "accept": ["westmoreland", "general westmoreland", "william westmoreland"], "answer": "General William Westmoreland" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Rolling Thunder begins", "Marines land at Da Nang", "Khe Sanh siege begins", "Tet Offensive", "My Lai massacre", "Johnson will not stand again"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the tactic to its description", "pairs": [["Search and destroy", "US raids on villages to kill Vietcong"], ["Cu Chi", "Vietcong tunnel network"], ["Rolling Thunder", "US bombing of the North"], ["Hugging", "Fighting too close for US air strikes"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s4", "q": "Give precise evidence about the Tet Offensive.", "keywords": [["1968", "80,000", "100", "embassy", "hue", "saigon"]], "model": "On 30–31 January 1968 about 80,000 troops attacked over 100 towns, reaching the US Embassy compound in Saigon; Hue was held for nearly a month." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Why did Rolling Thunder fail?", "a": "Little industry to destroy, supplies kept moving down the Ho Chi Minh Trail, bombing hardened resistance.", "hint": "Trail." },
+    { "id": "f2", "s": "s2", "q": "Name three Vietcong tactics.", "a": "Ambushes and hit-and-run; booby traps; tunnels (Cu Chi); mixing with villagers; hugging.", "hint": "Hide and strike." },
+    { "id": "f3", "s": "s3", "q": "Why did search and destroy backfire?", "a": "Body counts encouraged killing civilians, villages were burned, and peasants turned to the Vietcong.", "hint": "Hearts and minds." },
+    { "id": "f4", "s": "s4", "q": "What were the results of Tet?", "a": "Military defeat for the communists but a political turning point: US opinion turned, Westmoreland's troop request refused, Johnson stood down.", "hint": "Two sides." },
+    { "id": "f5", "s": "s4", "q": "What happened at My Lai?", "a": "In March 1968 US soldiers killed several hundred unarmed villagers; made public in November 1969.", "hint": "Massacre." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "describe", "text": "I can describe Johnson's escalation: Rolling Thunder and US ground troops.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain why Vietcong tactics were effective.", "sections": ["s2"] },
+    { "id": "k3", "level": "explain", "text": "I can explain US tactics and why they failed.", "sections": ["s3"] },
+    { "id": "k4", "level": "judge", "text": "I can judge the significance of the Tet Offensive.", "sections": ["s4"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "p2aa", "label": "Past paper: 4HI1/02, June 2025, A4(a)", "sections": ["s4"],
+        "q": "Describe TWO features of EITHER the siege of Khe Sanh OR Nixon's policy of Vietnamisation." },
+      { "id": "q2", "qtype": "p2aa", "label": "Teacher-created practice question", "sections": ["s2", "s3"],
+        "q": "Describe TWO features of EITHER Vietcong tactics OR the US policy of search and destroy." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Interpretations", "task": "Was Tet a defeat or a victory for the communists? Argue both sides, then decide." },
+    { "id": "t2", "kind": "Relative significance", "task": "Rank Rolling Thunder, search and destroy and chemical weapons by how much they damaged the US war effort." }
+  ]
+}

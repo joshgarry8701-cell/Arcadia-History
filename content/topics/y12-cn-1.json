@@ -1,0 +1,139 @@
+{
+  "id": "y12-cn-1", "course": "y12", "area": "cn", "kt": "Key topic 1", "order": 11,
+  "title": "Order and disorder, 1900–76",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following the IAL specification (Issue 6), Option 1B key topic 1. No class textbook for China uploaded yet; figures are widely cited textbook figures and should be checked against your resources." },
+  "learn": {
+    "intro": "China moved from imperial collapse through warlord chaos, Guomindang rule and civil war to Mao's communist 'new dynasty'. Unit 2 essays often ask whether one factor or one period was the most significant cause of disorder — or how far Mao's control was ever secure.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. The downfall of the Qing and resulting chaos, 1900–27",
+        "blocks": [
+          { "p": "Reformers and revolutionaries: after the Boxer disaster the Qing tried late reforms — the traditional civil-service examinations were abolished in 1905 and provincial assemblies were promised. But reform raised expectations it could not meet. Revolutionaries led by Sun Yat-sen formed the Tongmenghui (Revolutionary Alliance) in 1905." },
+          { "p": "The 1911–12 revolution began with an army mutiny at Wuchang on 10 October 1911; province after province declared independence. Sun Yat-sen became provisional President, but the military strongman Yuan Shikai negotiated the abdication of the child emperor Puyi (February 1912) and took the presidency himself." },
+          { "p": "The failure of Yuan Shikai: he crushed the Guomindang (GMD) after its election success (its leader Song Jiaoren was assassinated in 1913), accepted most of Japan's 21 Demands (1915), and declared himself emperor in December 1915. Provinces revolted, he abandoned the monarchy, and he died in June 1916." },
+          { "p": "The warlord era (1916–28): regional military leaders controlled their own areas, taxed peasants heavily and fought each other; the central government in Beijing had little real power." },
+          { "p": "The May 4th Movement (1919): students protested in Beijing when the Treaty of Versailles gave Germany's rights in Shandong to Japan. It became a wider movement against Confucian tradition and for science and democracy, and inspired many future communists. The Chinese Communist Party (CCP) was founded in 1921." },
+          { "p": "Sun Yat-sen and the GMD in the 1920s: Sun's Three Principles of the People were nationalism, democracy and people's livelihood. With Soviet help he reorganised the GMD, formed the First United Front with the CCP (1923–24) and set up the Whampoa Military Academy (1924) under Chiang Kai-shek. Sun died in March 1925." }
+        ],
+        "terms": ["Qing", "Tongmenghui", "warlord", "May 4th Movement", "Guomindang", "United Front"],
+        "evidence": ["10 October 1911: Wuchang uprising.", "February 1912: Puyi abdicates.", "December 1915: Yuan declares himself emperor; dies June 1916.", "4 May 1919: Beijing student protests.", "1921: CCP founded.", "1924: Whampoa Military Academy."]
+      },
+      {
+        "id": "s2", "title": "2. Chiang Kai-shek and the attempt to restore order, 1927–49",
+        "blocks": [
+          { "p": "Emergence of Chiang and the break with the Communists: Chiang led the Northern Expedition (from 1926) against the warlords. In April 1927 he turned on his allies, massacring Communists and union members in Shanghai. The GMD set up a national government at Nanjing in 1928, though many warlords only nominally accepted it." },
+          { "p": "The Communists retreated to rural bases such as the Jiangxi Soviet. Chiang launched five encirclement campaigns (1930–34); the fifth, using blockhouses and blockade, forced the CCP to break out." },
+          { "p": "The Long March (October 1934 – October 1935): roughly 80,000–90,000 set out from Jiangxi; fewer than 10,000 reached Shaanxi in the north-west. At the Zunyi Conference (January 1935) Mao Zedong gained a leading role. The March was a military disaster but became a powerful propaganda legend, and the CCP survived." },
+          { "p": "The failure to crush the Communists: in the Xi'an Incident (December 1936) Chiang was kidnapped by his own commander Zhang Xueliang and forced into a Second United Front against Japan. During the war the CCP grew from its Yan'an base through guerrilla warfare, moderate land policies and discipline." },
+          { "p": "The civil war 1946–49 and its outcome: despite US aid, the GMD lost. Reasons include GMD corruption and hyperinflation, the damage of the war against Japan, poor generalship, CCP land reform winning peasant support, CCP discipline and morale, captured Japanese weapons in Manchuria, and decisive campaigns such as Huaihai (1948–49). Mao proclaimed the People's Republic on 1 October 1949; Chiang fled to Taiwan." }
+        ],
+        "terms": ["Northern Expedition", "Shanghai massacre", "encirclement campaigns", "Long March", "Xi'an Incident", "civil war"],
+        "evidence": ["April 1927: Shanghai massacre.", "October 1934 – October 1935: Long March.", "January 1935: Zunyi Conference.", "December 1936: Xi'an Incident.", "1 October 1949: People's Republic proclaimed."]
+      },
+      {
+        "id": "s3", "title": "3. Mao and the new dynasty, 1949–76",
+        "blocks": [
+          { "p": "Establishing communist control 1949–57: land reform (1950–52) gave land to peasants and destroyed the landlord class, with mass 'speak bitterness' meetings and very many killings. The Three Antis and Five Antis campaigns (1951–52) targeted corruption among officials and businessmen. The campaign against counter-revolutionaries and the Korean War atmosphere tightened control." },
+          { "p": "The Hundred Flowers Campaign (1956–57): Mao invited criticism — 'let a hundred flowers bloom'. Intellectuals criticised the Party sharply. In June 1957 it was replaced by the Anti-Rightist Campaign, in which hundreds of thousands were labelled 'rightists' and many were sent to labour camps. Historians debate whether it was a trap or a genuine invitation that went wrong." },
+          { "p": "The Chairman and his critics: Peng Dehuai criticised the Great Leap Forward at the Lushan Conference (1959) and was purged. After the famine, Liu Shaoqi and Deng Xiaoping led recovery from 1962 and Mao stepped back. Lin Biao built Mao's cult in the army (the Little Red Book, 1964). Mao launched the Cultural Revolution (1966) to regain control: Liu died in custody (1969) and Deng was sent to work in a tractor factory." },
+          { "p": "Supporters and survivors: Lin Biao was named Mao's successor in 1969 but died in a plane crash in September 1971 after an alleged coup plot. Zhou Enlai survived every purge and managed government and diplomacy until his death in January 1976. Jiang Qing (Mao's wife) led the radical Gang of Four. Mao died on 9 September 1976; the Gang of Four were arrested a month later." }
+        ],
+        "terms": ["land reform", "Hundred Flowers", "Anti-Rightist Campaign", "Lushan Conference", "Cultural Revolution", "Gang of Four"],
+        "evidence": ["1950–52: land reform.", "1956–57: Hundred Flowers; June 1957 Anti-Rightist Campaign.", "1959: Peng Dehuai purged at Lushan.", "1966: Cultural Revolution.", "September 1971: Lin Biao dies.", "9 September 1976: Mao dies."]
+      }
+    ],
+    "timeline": [
+      { "date": "1905", "event": "Examinations abolished; Tongmenghui founded" },
+      { "date": "10 Oct 1911", "event": "Wuchang uprising" },
+      { "date": "Feb 1912", "event": "Puyi abdicates; Yuan Shikai President" },
+      { "date": "1916–28", "event": "Warlord era" },
+      { "date": "4 May 1919", "event": "May 4th Movement" },
+      { "date": "April 1927", "event": "Chiang's Shanghai massacre" },
+      { "date": "1934–35", "event": "Long March" },
+      { "date": "Dec 1936", "event": "Xi'an Incident" },
+      { "date": "1 Oct 1949", "event": "People's Republic of China proclaimed" },
+      { "date": "1956–57", "event": "Hundred Flowers and Anti-Rightist Campaign" },
+      { "date": "1966", "event": "Cultural Revolution begins" },
+      { "date": "Sept 1976", "event": "Death of Mao" }
+    ],
+    "people": [
+      { "name": "Sun Yat-sen", "role": "Revolutionary leader; founder of the GMD; Three Principles of the People." },
+      { "name": "Yuan Shikai", "role": "General who became President in 1912 and tried to become emperor." },
+      { "name": "Chiang Kai-shek", "role": "GMD leader 1927–49." },
+      { "name": "Mao Zedong", "role": "CCP leader from the 1930s; Chairman of the PRC." },
+      { "name": "Peng Dehuai", "role": "Marshal purged in 1959 for criticising the Great Leap Forward." },
+      { "name": "Liu Shaoqi", "role": "Head of State; led recovery after 1962; died in custody 1969." },
+      { "name": "Zhou Enlai", "role": "Premier 1949–76; survived every purge." },
+      { "name": "Deng Xiaoping", "role": "Led recovery with Liu; purged in the Cultural Revolution." },
+      { "name": "Lin Biao", "role": "Defence Minister; built Mao's cult; died 1971." },
+      { "name": "Jiang Qing", "role": "Mao's wife; leader of the Gang of Four." }
+    ],
+    "vocab": [
+      { "term": "Warlord", "def": "Regional military leader ruling an area by force." },
+      { "term": "United Front", "def": "Alliance between the GMD and CCP (1923–27; 1937–45)." },
+      { "term": "Rectification", "def": "Party campaign to correct members' thinking." },
+      { "term": "Rightist", "def": "Label given to critics of the Party after 1957." }
+    ],
+    "misconceptions": [
+      { "wrong": "The 1911 revolution created a stable republic.", "right": "Power passed to Yuan Shikai and then to warlords; China fragmented." },
+      { "wrong": "The Long March was a military success.", "right": "Most marchers were lost; its value was survival and propaganda." },
+      { "wrong": "Mao held unchallenged power throughout 1949–76.", "right": "He was sidelined after 1962 and used the Cultural Revolution to regain control." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "Where did the 1911 revolution begin?", "options": ["Beijing", "Wuchang", "Shanghai", "Nanjing"], "answer": 1, "why": "Army mutiny, 10 October 1911." },
+      { "id": "m2", "s": "s1", "q": "What triggered the May 4th Movement?", "options": ["Yuan's death", "Versailles giving Shandong rights to Japan", "The Boxer Rising", "The Long March"], "answer": 1, "why": "1919 student protests." },
+      { "id": "m3", "s": "s2", "q": "What happened in Shanghai in April 1927?", "options": ["A Japanese invasion", "Chiang massacred Communists and union members", "The CCP was founded", "Sun Yat-sen died"], "answer": 1, "why": "End of the First United Front." },
+      { "id": "m4", "s": "s2", "q": "What was the result of the Xi'an Incident (1936)?", "options": ["Chiang was executed", "A Second United Front against Japan", "The Long March began", "Civil war ended"], "answer": 1, "why": "Chiang kidnapped by Zhang Xueliang." },
+      { "id": "m5", "s": "s3", "q": "Who criticised the Great Leap Forward at Lushan in 1959?", "options": ["Lin Biao", "Peng Dehuai", "Jiang Qing", "Zhou Enlai"], "answer": 1, "why": "He was purged." },
+      { "id": "m6", "s": "s3", "q": "What followed the Hundred Flowers Campaign?", "options": ["The Long March", "The Anti-Rightist Campaign", "Land reform", "The Korean War"], "answer": 1, "why": "From June 1957." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s1", "q": "Who declared himself emperor in December 1915?", "accept": ["yuan shikai", "yuan"], "answer": "Yuan Shikai" },
+      { "id": "a2", "s": "s2", "q": "At which conference did Mao gain a leading role in 1935?", "accept": ["zunyi", "zunyi conference"], "answer": "Zunyi" },
+      { "id": "a3", "s": "s3", "q": "Who led the Gang of Four?", "accept": ["jiang qing"], "answer": "Jiang Qing" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Wuchang uprising", "Yuan declares himself emperor", "May 4th Movement", "Shanghai massacre", "Long March", "People's Republic proclaimed", "Hundred Flowers", "Cultural Revolution"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the person to their fate", "pairs": [["Peng Dehuai", "Purged after Lushan, 1959"], ["Liu Shaoqi", "Died in custody, 1969"], ["Lin Biao", "Died in a plane crash, 1971"], ["Jiang Qing", "Arrested with the Gang of Four, 1976"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s1", "q": "Give precise evidence that the downfall of the Qing led to chaos.", "keywords": [["1911", "1912", "yuan", "1915", "1916", "warlord"]], "model": "After Puyi abdicated in 1912, Yuan Shikai crushed the GMD and tried to become emperor (1915); after his death in 1916 the warlord era fragmented China until 1928." },
+      { "id": "e2", "s": "s3", "q": "Give precise evidence that Mao's control was challenged after 1959.", "keywords": [["lushan", "peng", "1962", "liu", "deng"]], "model": "Peng Dehuai attacked the Great Leap at Lushan (1959); after 1962 Liu Shaoqi and Deng Xiaoping ran recovery policies while Mao stepped back." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Why did Yuan Shikai fail?", "a": "He crushed parliament, accepted most of the 21 Demands and tried to become emperor (1915); provinces revolted and he died in 1916.", "hint": "Emperor." },
+    { "id": "f2", "s": "s1", "q": "Why was the May 4th Movement significant?", "a": "Nationalist anger at Versailles; attack on Confucian tradition; inspired the founding generation of the CCP.", "hint": "1919." },
+    { "id": "f3", "s": "s2", "q": "Why was the Long March significant?", "a": "The CCP survived; Mao rose (Zunyi 1935); it became a legend of heroism for propaganda.", "hint": "Survival + myth." },
+    { "id": "f4", "s": "s2", "q": "Why did the CCP win the civil war?", "a": "GMD corruption and hyperinflation; war damage; CCP land reform and peasant support; discipline; Manchurian weapons; good generalship.", "hint": "GMD weakness + CCP strength." },
+    { "id": "f5", "s": "s3", "q": "How did Mao establish control 1949–57?", "a": "Land reform, Three/Five Antis, campaigns against counter-revolutionaries, Anti-Rightist Campaign.", "hint": "Campaigns." },
+    { "id": "f6", "s": "s3", "q": "Why did Mao launch the Cultural Revolution?", "a": "To regain power from Liu and Deng, purge 'capitalist roaders' and renew revolutionary spirit.", "hint": "1966." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "explain", "text": "I can explain why the Qing fell and why chaos followed, 1900–27.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain the significance of the Long March and why Chiang failed to crush the Communists.", "sections": ["s2"] },
+    { "id": "k3", "level": "judge", "text": "I can judge the reasons for the outcome of the civil war 1946–49.", "sections": ["s2"] },
+    { "id": "k4", "level": "explain", "text": "I can explain the origins and consequences of the Hundred Flowers Campaign.", "sections": ["s3"] },
+    { "id": "k5", "level": "judge", "text": "I can judge the significance of Mao's critics and supporters, 1962–76.", "sections": ["s3"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "u2c", "label": "Past paper: WHI02/1B, May 2025, Q2", "sections": ["s1"],
+        "q": "How accurate is it to say that the downfall of the Qing dynasty in 1912 was the most significant factor causing chaos in China in the years 1900–27?" },
+      { "id": "q2", "qtype": "u2a", "label": "Past paper: WHI02/1B, January 2025, Q1(a) — question stem only; Source 1 is in the paper", "sections": ["s3"],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into responses to the Hundred Flowers Campaign? Explain your answer using the source, the information given about it and your own knowledge of the historical context." },
+      { "id": "q3", "qtype": "u2c", "label": "Teacher-created practice question", "sections": ["s2"],
+        "q": "How significant was the Long March in explaining the Communist victory in the civil war of 1946–49?" }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Relative significance", "task": "Qing collapse, Yuan Shikai or the warlords: which did most to cause disorder 1900–27? Use the department factor frame (duration, scope, effectiveness, impact)." },
+    { "id": "t2", "kind": "Historiography", "task": "Was the Hundred Flowers Campaign a deliberate trap? Outline the two interpretations and the evidence each relies on." },
+    { "id": "t3", "kind": "Synoptic", "task": "Compare the ways Chiang (1927–49) and Mao (1949–76) tried to impose order. Which was more successful, and by what criteria?" }
+  ]
+}

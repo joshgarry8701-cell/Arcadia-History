@@ -1,0 +1,127 @@
+{
+  "id": "y12-cn-2", "course": "y12", "area": "cn", "kt": "Key topic 2", "order": 12,
+  "title": "The impact of the world on China, 1900–76",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following the IAL specification (Issue 6), Option 1B key topic 2. Figures to be checked against class resources." },
+  "learn": {
+    "intro": "From the humiliation of the Boxer Protocol to Nixon's handshake with Mao, outside powers shaped China's politics and its sense of itself. Essays ask about change over time: was China always a victim, or did it learn to use the great powers?",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Weakness and humiliation, 1900–19",
+        "blocks": [
+          { "p": "The Boxer Rising (1899–1901) — origins: the Boxers (Society of Righteous and Harmonious Fists) were a peasant movement in Shandong, angered by foreign concessions, Christian missionaries and converts, and drought and floods that brought hunger. Their slogan became 'Support the Qing, destroy the foreigners'." },
+          { "p": "Impact: in June 1900 the Boxers besieged the foreign legations in Beijing and the Empress Dowager Cixi declared war on the foreign powers. An Eight-Nation Alliance relieved the legations in August 1900 and looted Beijing. The Boxer Protocol (September 1901) imposed a huge indemnity of 450 million taels and allowed foreign troops in Beijing. The Qing were humiliated, which pushed them into late reforms and strengthened revolutionaries." },
+          { "p": "British power in Shanghai and the Yangtze: Britain dominated the Shanghai International Settlement, controlled much trade and shipping in the Yangtze Valley, and ran the Chinese Maritime Customs. Foreigners had extraterritoriality — they were tried in their own courts, not Chinese ones." },
+          { "p": "Japan and the 21 Demands (January 1915): with the European powers busy in the First World War, Japan demanded control of Shandong, rights in Manchuria, and (in a final group of demands) Japanese advisers in the Chinese government. Yuan Shikai accepted most of them in May 1915, except the last group. At Versailles (1919), Germany's Shandong rights were given to Japan, triggering the May 4th Movement." }
+        ],
+        "terms": ["Boxers", "legations", "indemnity", "extraterritoriality", "21 Demands"],
+        "evidence": ["June–August 1900: siege of the legations.", "September 1901: Boxer Protocol — 450 million taels.", "January 1915: 21 Demands; most accepted May 1915.", "1919: Versailles gives Shandong rights to Japan."]
+      },
+      {
+        "id": "s2", "title": "2. Japan's impact, 1931–45",
+        "blocks": [
+          { "p": "Origins and impact of the Manchurian crisis (1931–33): Japan had railway and economic interests in Manchuria and wanted its resources. On 18 September 1931 Japanese officers staged an explosion on the South Manchuria Railway near Mukden and used it as an excuse to occupy Manchuria. In 1932 Japan created the puppet state of Manchukuo with Puyi as head. The League of Nations' Lytton Report condemned Japan, which left the League in 1933. The Tanggu Truce (May 1933) confirmed Japanese control." },
+          { "p": "Chiang's policy of 'first internal pacification, then external resistance' — fighting the Communists before Japan — was unpopular and led to the Xi'an Incident (1936)." },
+          { "p": "Full-scale war from 1937: a clash at the Marco Polo Bridge near Beijing on 7 July 1937 escalated into all-out war. Japan took Shanghai after heavy fighting and captured Nanjing in December 1937, where its troops committed a massacre of civilians and prisoners. The GMD moved its capital to Chongqing." },
+          { "p": "Initial Japanese success came from a modern army, air power and control of the coast. By 1938–39 there was stalemate: Japan held the cities and railways but could not control the vast interior, and the CCP built guerrilla bases behind Japanese lines." },
+          { "p": "The role of the USA: after Pearl Harbor (December 1941) the USA supplied the GMD by air over 'the Hump' and the Burma Road, sent General Stilwell as Chiang's chief of staff, and recognised China as one of the 'Big Four'. Friction between Stilwell and Chiang, and US frustration at GMD corruption, grew." }
+        ],
+        "terms": ["Mukden Incident", "Manchukuo", "Lytton Report", "Marco Polo Bridge", "Nanjing massacre", "stalemate"],
+        "evidence": ["18 September 1931: Mukden Incident.", "1932: Manchukuo created.", "1933: Japan leaves the League.", "7 July 1937: Marco Polo Bridge.", "December 1937: fall of Nanjing."]
+      },
+      {
+        "id": "s3", "title": "3. The impact on China of the Cold War",
+        "blocks": [
+          { "p": "The Soviet alliance: Mao visited Moscow and signed the Sino-Soviet Treaty of Friendship (February 1950). The USSR provided loans, thousands of advisers and help with around 150 major industrial projects, which were central to the First Five-Year Plan (1953–57)." },
+          { "p": "The Korean War (1950–53): when UN forces approached the Yalu River, China sent the Chinese People's Volunteers (October 1950). Losses were very heavy — Mao's own son was killed — but China fought the USA to a standstill, gaining prestige. At home the war justified mass campaigns against 'counter-revolutionaries'. The US Seventh Fleet now protected Taiwan, ending hopes of taking it." },
+          { "p": "Origins of the Sino-Soviet split: Khrushchev's 1956 'secret speech' attacking Stalin and his policy of peaceful coexistence; Soviet criticism of the Great Leap Forward; disputes over nuclear help; and rivalry for leadership of world communism. In 1960 the USSR withdrew its advisers, leaving projects unfinished. Border clashes on the Ussuri River (Zhenbao Island, March 1969) raised fears of war." },
+          { "p": "Impact and the beginnings of détente: fearing the USSR, China turned to the West. 'Ping-pong diplomacy' (April 1971) was followed by Kissinger's secret visit (July 1971), China's admission to the UN in place of Taiwan (October 1971) and President Nixon's visit in February 1972 (the Shanghai Communiqué). Other Western statesmen, such as British Prime Minister Edward Heath (1974), followed." }
+        ],
+        "terms": ["Sino-Soviet Treaty", "Chinese People's Volunteers", "Sino-Soviet split", "détente", "ping-pong diplomacy"],
+        "evidence": ["February 1950: Sino-Soviet Treaty.", "October 1950: China enters the Korean War.", "1960: Soviet advisers withdrawn.", "March 1969: Zhenbao Island clash.", "February 1972: Nixon visits China."]
+      }
+    ],
+    "timeline": [
+      { "date": "1900", "event": "Boxer siege of the Beijing legations" },
+      { "date": "1901", "event": "Boxer Protocol" },
+      { "date": "1915", "event": "Japan's 21 Demands" },
+      { "date": "1919", "event": "Versailles: Shandong to Japan" },
+      { "date": "1931", "event": "Mukden Incident; Japan occupies Manchuria" },
+      { "date": "1937", "event": "Marco Polo Bridge; full-scale war; Nanjing massacre" },
+      { "date": "1950", "event": "Sino-Soviet Treaty; China enters the Korean War" },
+      { "date": "1960", "event": "Soviet advisers withdrawn" },
+      { "date": "1969", "event": "Sino-Soviet border clashes" },
+      { "date": "1972", "event": "Nixon visits China" }
+    ],
+    "people": [
+      { "name": "Cixi", "role": "Empress Dowager; backed the Boxers in 1900." },
+      { "name": "Puyi", "role": "Last Qing emperor; head of Manchukuo from 1932." },
+      { "name": "Joseph Stilwell", "role": "US general; Chiang's chief of staff in the Second World War." },
+      { "name": "Nikita Khrushchev", "role": "Soviet leader whose policies helped cause the split." },
+      { "name": "Richard Nixon", "role": "US President who visited China in 1972." }
+    ],
+    "vocab": [
+      { "term": "Concession", "def": "Area of a Chinese city controlled by a foreign power." },
+      { "term": "Extraterritoriality", "def": "Right of foreigners to be tried under their own laws." },
+      { "term": "Puppet state", "def": "Nominally independent state controlled by another power." },
+      { "term": "Détente", "def": "Easing of tension between rivals." }
+    ],
+    "misconceptions": [
+      { "wrong": "The Sino-Soviet split happened suddenly in 1960.", "right": "Tensions built from 1956; 1960 was when advisers were withdrawn." },
+      { "wrong": "China was only ever a victim of foreign powers.", "right": "By the 1970s China used superpower rivalry to its own advantage." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "What did the Boxer Protocol impose?", "options": ["Independence for Shanghai", "A 450 million tael indemnity", "Japanese control of Manchuria", "The end of the Qing"], "answer": 1, "why": "September 1901." },
+      { "id": "m2", "s": "s1", "q": "Why did Japan issue the 21 Demands in 1915?", "options": ["Europe was distracted by the First World War", "China had attacked Japan", "The Boxers had attacked Tokyo", "The USA asked it to"], "answer": 0, "why": "Opportunity." },
+      { "id": "m3", "s": "s2", "q": "What was Manchukuo?", "options": ["A Chinese province", "Japan's puppet state in Manchuria", "A Soviet republic", "A GMD army"], "answer": 1, "why": "1932, under Puyi." },
+      { "id": "m4", "s": "s2", "q": "What began at the Marco Polo Bridge in July 1937?", "options": ["The Long March", "Full-scale war with Japan", "The civil war", "The Korean War"], "answer": 1, "why": "Escalated from a clash." },
+      { "id": "m5", "s": "s3", "q": "When did the USSR withdraw its advisers?", "options": ["1953", "1956", "1960", "1972"], "answer": 2, "why": "Projects left unfinished." },
+      { "id": "m6", "s": "s3", "q": "What did 'ping-pong diplomacy' lead to?", "options": ["War with the USA", "Nixon's visit in 1972", "The Korean War", "The Soviet alliance"], "answer": 1, "why": "Détente." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s2", "q": "Which report condemned Japan over Manchuria?", "accept": ["lytton report", "lytton", "the lytton report"], "answer": "The Lytton Report" },
+      { "id": "a2", "s": "s2", "q": "To which city did the GMD move its capital?", "accept": ["chongqing", "chungking"], "answer": "Chongqing" },
+      { "id": "a3", "s": "s3", "q": "In which year did Nixon visit China?", "accept": ["1972"], "answer": "1972" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Boxer Protocol", "21 Demands", "Mukden Incident", "Marco Polo Bridge", "Sino-Soviet Treaty", "Soviet advisers withdrawn", "Zhenbao Island clash", "Nixon's visit"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the power to its impact", "pairs": [["Britain", "Dominance in Shanghai and the Yangtze"], ["Japan", "Manchukuo and full-scale invasion"], ["USSR", "Aid for the First Five-Year Plan"], ["USA", "Détente and Nixon's 1972 visit"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s3", "q": "Give precise evidence that China's relations with the superpowers changed 1949–76.", "keywords": [["1950", "treaty", "1960", "advisers", "1969", "1971", "1972", "nixon"]], "model": "China allied with the USSR (treaty, February 1950) and fought the USA in Korea, but after Soviet advisers left in 1960 and border clashes in 1969 it welcomed Nixon in 1972." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "What were the origins of the Boxer Rising?", "a": "Anger at foreign concessions, missionaries and converts; drought and floods; hunger in Shandong.", "hint": "Foreigners + famine." },
+    { "id": "f2", "s": "s1", "q": "What was the impact of the Boxer Rising?", "a": "Foreign occupation of Beijing; Boxer Protocol indemnity; Qing humiliated and pushed into reform; revolutionaries strengthened.", "hint": "Humiliation." },
+    { "id": "f3", "s": "s2", "q": "Why did Japan succeed at first after 1937 and then reach stalemate?", "a": "Modern army, air power, control of the coast; but could not control the vast interior; CCP guerrilla bases.", "hint": "Cities vs countryside." },
+    { "id": "f4", "s": "s3", "q": "How did the Korean War affect China?", "a": "Heavy losses but prestige; justified repression at home; US protection of Taiwan.", "hint": "1950–53." },
+    { "id": "f5", "s": "s3", "q": "What caused the Sino-Soviet split?", "a": "De-Stalinisation, peaceful coexistence, Soviet criticism of the Great Leap, nuclear disputes, rivalry for leadership.", "hint": "1956 onward." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "explain", "text": "I can explain the origins and impact of the Boxer Rising.", "sections": ["s1"] },
+    { "id": "k2", "level": "describe", "text": "I can describe British influence and the significance of the 21 Demands and Versailles.", "sections": ["s1"] },
+    { "id": "k3", "level": "explain", "text": "I can explain the origins and impact of the Manchurian crisis and the war with Japan.", "sections": ["s2"] },
+    { "id": "k4", "level": "judge", "text": "I can judge how far the impact of the Cold War on China changed 1949–76.", "sections": ["s3"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "u2c", "label": "Past paper: WHI02/1B, May 2025, Q3", "sections": ["s3"],
+        "q": "How accurate is it to say that the impact of the Cold War on China changed during the years 1949–76?" },
+      { "id": "q2", "qtype": "u2c", "label": "Past paper: WHI02/1B, January 2025, Q3", "sections": ["s2"],
+        "q": "How accurate is it to say that, in the years 1931–45, the main consequence of Japanese expansion in China was the strengthening of the Chinese Communist Party?" },
+      { "id": "q3", "qtype": "u2a", "label": "Past paper: WHI02/1B, May 2025, Q1(a) — question stem only; Source 1 is in the paper", "sections": ["s2"],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into responsibility for the outbreak of the crisis in Manchuria in 1931? Explain your answer using the source, the information given about it and your own knowledge of the historical context." },
+      { "id": "q4", "qtype": "u2b", "label": "Past paper: WHI02/1B, January 2025, Q1(b) — question stem only; Source 2 is in the paper", "sections": ["s1"],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the reasons for the Boxer Rising in 1900? Explain your answer using the source, the information given about it and your own knowledge of the historical context." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Change and continuity", "task": "Draw a line graph of China's 'humiliation' from 1900 to 1976. Mark and justify each turning point." },
+    { "id": "t2", "kind": "Relative significance", "task": "Which foreign power had the greatest impact on China 1900–76? Apply the department factor frame to Japan and the USSR." }
+  ]
+}

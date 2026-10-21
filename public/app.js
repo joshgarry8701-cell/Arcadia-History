@@ -297,12 +297,13 @@ function viewCourse(c) {
       </tbody></table></div>
       ${ex.aos ? html`<details class="fold"><summary>Assessment objectives</summary><div><ul>${ex.aos.map((a) => html`<li><b>${a.ao}</b> (${a.weight}): ${a.text}</li>`)}</ul></div></details>` : ''}
       ${ex.themes ? html`<details class="fold"><summary>The five themes</summary><div><ol>${ex.themes.map((x) => html`<li>${x}</li>`)}</ol></div></details>` : ''}
+      ${ex.source_focus ? html`<details class="fold"><summary>${ex.source_focus.title}</summary><div><ul>${ex.source_focus.items.map((x) => html`<li>${x}</li>`)}</ul></div></details>` : ''}
       ${c.separation_note ? html`<p class="small muted">${c.separation_note}</p>` : ''}
       <details class="fold"><summary>Where these details come from</summary><div><ul>${(ex.sources || []).map((x) => html`<li>${x.url ? html`<a href="${x.url}" target="_blank" rel="noopener">${x.title}</a>` : x.title}${x.note ? html` <span class="muted">— ${x.note}</span>` : ''}</li>`)}</ul></div></details>
     </section>` : ''}
     ${isT && ex && (ex.conflicts || ex.open_questions) ? html`<section class="panel"><h2>For Mr Garry: to check</h2>
       ${ex.conflicts ? html`<h3>Conflicts found in the documents</h3><ul>${ex.conflicts.map((x) => html`<li>${x}</li>`)}</ul>` : ''}
-      ${ex.open_questions ? html`<h3>Open questions</h3><ul>${ex.open_questions.map((x) => html`<li>${x}</li>`)}</ul>` : ''}</section>` : ''}
+      ${ex.open_questions && ex.open_questions.length ? html`<h3>Open questions</h3><ul>${ex.open_questions.map((x) => html`<li>${x}</li>`)}</ul>` : ''}</section>` : ''}
     ${isT ? html`<section class="panel"><h2>Resources</h2>${c.resources_received && c.resources_received.length ? html`<p class="small"><b>Received:</b> ${c.resources_received.join('; ')}</p>` : ''}<h3>Still needed</h3><ul>${c.resources_needed.map((r) => html`<li>${r}</li>`)}</ul>${c.assessment ? html`<p class="small muted">${c.assessment.notes}</p>` : ''}</section>` : ''}
     </div>
   `);

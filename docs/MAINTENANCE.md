@@ -9,7 +9,7 @@
 
 Teacher area › Mark schemes. Years 11–13 have one mark scheme per **question type** (for example "Unit 1 essay" or "Paper 1 (c)"), pre-filled from Pearson's published mark schemes and your training booklet. Check the wording, then tick "I have checked this" — every question of that type then gets indicative marks. Until it is ticked, AI feedback is formative only.
 
-Source questions (Unit 3 Section A, IGCSE Paper 1 (a)) only get a mark when the sources are on the site. A past-paper source question without its sources gets formative feedback only.
+Source questions (Unit 2 and Unit 3 Section A, Unit 4 Section A, IGCSE Paper 2 (b) and (c)) only get a mark when the sources are on the site. A past-paper source question without its sources gets formative feedback only.
 
 Year 7 questions have their own individual mark schemes further down the same page.
 

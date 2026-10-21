@@ -21,7 +21,7 @@ Add students in **Teacher area › Students**. AI feedback stays off until you a
 | `server/` | Web server, sign-in, permissions, AI marking, limits, backups |
 | `public/` | The website students and you use |
 | `content/courses.json` | The six courses, verified exam structures and question-type guides with mark schemes |
-| `content/topics/*.json` | One file per topic: Year 7 (1), Year 11 (15), Year 12 (4), Year 13 (6) |
+| `content/topics/*.json` | One file per topic: Year 7 (1), Year 11 (20), Year 12 (8), Year 13 (6) |
 | `docs/CURRICULUM_MAP.md` | Curriculum map and the list of missing documents |
 | `docs/DEPLOYMENT.md` | Putting it online |
 | `docs/MAINTENANCE.md` | Adding topics, mark schemes, backups and restores |

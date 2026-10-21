@@ -1,0 +1,110 @@
+{
+  "id": "y11-vn-5", "course": "y11", "area": "vn", "kt": "Key topic 5", "order": 35,
+  "title": "Reactions to the war in the USA and Vietnam",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Historical investigation A4, key topic 5." },
+  "learn": {
+    "intro": "The war devastated Vietnamese civilians and divided American society. Media coverage, the draft and events such as My Lai fuelled a growing protest movement, while many Americans continued to support the war.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. The impact of the war on civilians in Vietnam",
+        "blocks": [
+          { "p": "More bombs were dropped on Vietnam, Laos and Cambodia than by all sides in the Second World War. Villages were destroyed by search and destroy missions, napalm and bombing. Millions of Vietnamese became refugees, many moving into crowded camps and the slums of Saigon." },
+          { "p": "Agent Orange destroyed crops and forests and caused cancers and birth defects for decades afterwards. Estimates of Vietnamese deaths vary widely, but they run into the millions, many of them civilians." },
+          { "p": "Civilians were also caught between both sides: the Vietcong used terror against officials and those who helped the government, as in the killings in Hue during Tet in 1968." }
+        ],
+        "terms": ["refugees", "civilian casualties", "Agent Orange"],
+        "evidence": ["Millions of refugees.", "Hue killings during Tet, 1968.", "Long-term effects of Agent Orange."]
+      },
+      {
+        "id": "s2", "title": "2. Opposition to the war in the USA",
+        "blocks": [
+          { "p": "The anti-war movement grew from 1965. Students held 'teach-ins' and marches; Students for a Democratic Society (SDS) organised protests. Young men burned their draft cards; the draft hit poorer and Black Americans hardest. Martin Luther King Jr spoke against the war in 1967, and the boxer Muhammad Ali refused the draft." },
+          { "p": "The media was crucial: Vietnam was the first 'television war'. Images such as the Saigon police chief executing a Vietcong prisoner during Tet (1968) and reports of My Lai (published November 1969) shocked the public." },
+          { "p": "Protest peaked in 1969–71: huge Moratorium demonstrations in October and November 1969; Kent State (May 1970); veterans throwing away their medals in 1971; and the Pentagon Papers (1971) revealing that governments had misled the public." }
+        ],
+        "terms": ["anti-war movement", "draft", "teach-in", "Moratorium", "Pentagon Papers"],
+        "evidence": ["1967: Martin Luther King speaks out.", "October–November 1969: Moratorium protests.", "1971: Pentagon Papers published."]
+      },
+      {
+        "id": "s3", "title": "3. Support for the war and the legacy",
+        "blocks": [
+          { "p": "Not all Americans opposed the war. Many saw it as a fight against communism and saw protesters as unpatriotic. Nixon appealed to the 'silent majority' in November 1969. In May 1970 construction workers attacked anti-war students in New York (the 'Hard Hat Riot')." },
+          { "p": "The war's legacy in the USA: about 58,000 Americans died; veterans often returned to a hostile or indifferent reception and many suffered long-term trauma; Congress passed the War Powers Act (1973) to limit the President's power to wage war; and trust in government fell." }
+        ],
+        "terms": ["silent majority", "Hard Hat Riot", "veterans"],
+        "evidence": ["November 1969: 'silent majority' speech.", "May 1970: Hard Hat Riot.", "About 58,000 US deaths."]
+      }
+    ],
+    "timeline": [
+      { "date": "1965", "event": "First teach-ins and large anti-war marches" },
+      { "date": "1967", "event": "Martin Luther King speaks against the war; Ali refuses the draft" },
+      { "date": "Feb 1968", "event": "Saigon execution photograph during Tet" },
+      { "date": "Oct–Nov 1969", "event": "Moratorium demonstrations" },
+      { "date": "Nov 1969", "event": "My Lai made public; 'silent majority' speech" },
+      { "date": "May 1970", "event": "Kent State shootings; Hard Hat Riot" },
+      { "date": "1971", "event": "Pentagon Papers published" },
+      { "date": "1973", "event": "War Powers Act" }
+    ],
+    "people": [
+      { "name": "Martin Luther King Jr", "role": "Civil rights leader who opposed the war from 1967." },
+      { "name": "Muhammad Ali", "role": "Boxer who refused the draft in 1967." },
+      { "name": "Richard Nixon", "role": "Appealed to the 'silent majority' (1969)." }
+    ],
+    "vocab": [
+      { "term": "Draft", "def": "Compulsory call-up for military service." },
+      { "term": "Silent majority", "def": "Nixon's term for Americans who quietly supported the war." },
+      { "term": "Television war", "def": "Vietnam was the first war shown widely on TV news." },
+      { "term": "Pentagon Papers", "def": "Secret government study leaked in 1971 showing the public had been misled." }
+    ],
+    "misconceptions": [
+      { "wrong": "All Americans opposed the war.", "right": "Many supported it; Nixon appealed to the 'silent majority'." },
+      { "wrong": "The protest movement was only students.", "right": "It included civil rights leaders, veterans, celebrities and many ordinary people." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s2", "q": "Why is Vietnam called the first 'television war'?", "options": ["It was filmed for films only", "It was shown widely on TV news", "Soldiers had TVs", "It was broadcast live in Vietnam"], "answer": 1, "why": "Images shaped opinion." },
+      { "id": "m2", "s": "s2", "q": "What did the Pentagon Papers reveal?", "options": ["Plans for D-Day", "That governments had misled the public about Vietnam", "Vietcong tunnels", "Peace terms"], "answer": 1, "why": "Published 1971." },
+      { "id": "m3", "s": "s3", "q": "Who were the 'silent majority'?", "options": ["Protesters", "Americans who quietly supported the war", "Vietnamese peasants", "Congress"], "answer": 1, "why": "Nixon, November 1969." },
+      { "id": "m4", "s": "s2", "q": "Which civil rights leader spoke out against the war in 1967?", "options": ["Malcolm X", "Martin Luther King Jr", "Rosa Parks", "Thurgood Marshall"], "answer": 1, "why": "He linked the war to poverty and racism." },
+      { "id": "m5", "s": "s1", "q": "What happened to millions of Vietnamese civilians?", "options": ["They emigrated to the USA", "They became refugees", "They joined the ARVN", "Nothing"], "answer": 1, "why": "Villages destroyed." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s3", "q": "About how many Americans died in the war?", "accept": ["58000", "58,000", "about 58,000", "58 000"], "answer": "About 58,000" },
+      { "id": "a2", "s": "s2", "q": "Which boxer refused the draft?", "accept": ["muhammad ali", "ali"], "answer": "Muhammad Ali" },
+      { "id": "a3", "s": "s2", "q": "In which year were the Pentagon Papers published?", "accept": ["1971"], "answer": "1971" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["First teach-ins", "King speaks against the war", "Moratorium demonstrations", "Kent State", "Pentagon Papers", "War Powers Act"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the event to its year", "pairs": [["Moratorium", "1969"], ["Kent State", "1970"], ["Pentagon Papers", "1971"], ["War Powers Act", "1973"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s2", "q": "Give precise evidence of opposition to the war in the USA.", "keywords": [["moratorium", "1969", "kent state", "1970", "pentagon papers", "1971", "draft"]], "model": "Millions joined the Moratorium protests in October–November 1969; four students were shot at Kent State in May 1970; the Pentagon Papers (1971) showed the public had been misled." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Describe the impact of the war on Vietnamese civilians.", "a": "Villages destroyed; millions of refugees; Agent Orange illnesses and birth defects; terror from both sides.", "hint": "Refugees." },
+    { "id": "f2", "s": "s2", "q": "Why did opposition grow in the USA?", "a": "TV images, the draft, rising US casualties, My Lai, Kent State, the Pentagon Papers.", "hint": "Media + draft." },
+    { "id": "f3", "s": "s2", "q": "Why did the draft cause anger?", "a": "It hit poorer and Black Americans hardest; students could often defer.", "hint": "Fairness." },
+    { "id": "f4", "s": "s3", "q": "Give evidence of support for the war.", "a": "Nixon's 'silent majority' speech (1969); the Hard Hat Riot (May 1970).", "hint": "Silent majority." },
+    { "id": "f5", "s": "s3", "q": "What was the War Powers Act?", "a": "A 1973 law limiting the President's power to send troops without Congress.", "hint": "1973." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "describe", "text": "I can describe the impact of the war on civilians in Vietnam.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain why opposition to the war grew in the USA.", "sections": ["s2"] },
+    { "id": "k3", "level": "judge", "text": "I can judge how far American attitudes to the war changed.", "sections": ["s2", "s3"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "p2aa", "label": "Teacher-created practice question", "sections": ["s2"],
+        "q": "Describe TWO features of EITHER the role of the media in the Vietnam War OR the Kent State shootings of 1970." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Relative significance", "task": "Did the media, the draft or rising casualties do most to turn Americans against the war?" },
+    { "id": "t2", "kind": "Source thinking", "task": "Why might a 1969 TV news report and a 'silent majority' speech give different views of American attitudes?" }
+  ]
+}
