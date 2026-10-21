@@ -1,0 +1,206 @@
+{
+  "id": "y12-de-1", "course": "y12", "area": "de", "kt": "Key topic 1", "order": 1,
+  "title": "The democratic experiment, 1918–29",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following the IAL specification (Issue 6) key topic 1. Read-more references are to Layton, From Kaiser to Führer (Access to History)." },
+  "learn": {
+    "intro": "How did Germany move from empire to democracy in 1918–19, and how did the new Weimar Republic survive crisis after crisis before enjoying its 'Golden Years'? Unit 1 essays often ask you to weigh the importance of one factor — Versailles, hyperinflation, Stresemann — against others.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Collapse of the Second Reich and creation of the Republic, 1918–19",
+        "blocks": [
+          { "p": "The 'revolution from above': on 29 September 1918 Ludendorff and Hindenburg told the Kaiser the war was lost and urged a government based on the Reichstag majority, partly so that the civilian parties, not the army, would carry the blame for seeking peace. Prince Max of Baden became Chancellor in October and the October Reforms made the Chancellor responsible to the Reichstag." },
+          { "p": "The 'revolution from below': the naval mutiny at Kiel (late October–early November) spread into workers' and soldiers' councils across Germany; Bavaria was declared a republic on 7–8 November. On 9 November the Kaiser's abdication was announced, Philipp Scheidemann proclaimed a republic, and Friedrich Ebert (SPD) became Chancellor. The armistice followed on 11 November." },
+          { "p": "Ebert's priority was order. The Ebert–Groener pact (10 November) secured army support for the government against the radical left, and the Stinnes–Legien agreement (15 November) won employers' recognition of trade unions and the eight-hour day. Critics argue this left the old elites — army officers, judges, civil servants, industrialists — in place." },
+          { "p": "The Spartacist rising in Berlin (January 1919) was crushed by regular troops and Freikorps; Rosa Luxemburg and Karl Liebknecht were murdered. Elections on 19 January 1919 gave the parties of the 'Weimar coalition' (SPD, Centre, DDP) about three-quarters of the vote. The National Assembly met at Weimar and the constitution was signed in August 1919." }
+        ],
+        "terms": ["revolution from above", "revolution from below", "Ebert–Groener pact", "Freikorps", "Weimar coalition"],
+        "evidence": ["29 September 1918: High Command admits defeat.", "9 November 1918: abdication announced; republic proclaimed.", "10 November 1918: Ebert–Groener pact.", "January 1919: Spartacist rising crushed; Luxemburg and Liebknecht killed.", "19 January 1919: National Assembly elections."],
+        "refs": ["Layton, From Kaiser to Führer, ch. 4 §3–4"]
+      },
+      {
+        "id": "s2", "title": "2. The Weimar constitution and the parties",
+        "blocks": [
+          { "p": "The constitution created a highly democratic system: a Reichstag elected every four years by proportional representation, with votes for men and women over 20; a President directly elected every seven years; a Chancellor appointed by the President but needing Reichstag support; a Reichsrat representing the states; and a long list of fundamental rights." },
+          { "p": "Its weaknesses are a classic essay theme. Proportional representation encouraged many small parties and short-lived coalitions. Article 48 let the President rule by emergency decree — used constructively by Ebert in 1923, but later by Hindenburg to bypass the Reichstag. The constitution left the old institutions of army, judiciary and civil service largely untouched." },
+          { "ul": [
+            "SPD — moderate socialists; largest party until July 1932; supported the Republic.",
+            "Centre (Zentrum) — Catholic party; in almost every coalition. BVP — its Bavarian sister party.",
+            "DDP — liberal democrats; strong in 1919, declined fast.",
+            "DVP — business-friendly liberals; Stresemann's party; accepted the Republic pragmatically.",
+            "DNVP — nationalists and monarchists; hostile to the Republic for most of the 1920s.",
+            "KPD — communists; sought a Soviet-style revolution. NSDAP — Hitler's party from 1920."
+          ] }
+        ],
+        "terms": ["proportional representation", "Article 48", "coalition government", "Reichstag", "Reichsrat"],
+        "evidence": ["Constitution signed August 1919.", "President elected every 7 years; Reichstag every 4.", "Article 48: rule by emergency decree."],
+        "refs": ["Layton, ch. 5 §1 and §6"]
+      },
+      {
+        "id": "s3", "title": "3. Crises and survival, 1919–24",
+        "blocks": [
+          { "p": "The Treaty of Versailles (signed 28 June 1919) took about 13 per cent of Germany's European territory, including Alsace-Lorraine, Posen and West Prussia (the 'Polish corridor'), and later part of Upper Silesia; removed all colonies; limited the army to 100,000 men with no conscription, tanks or air force; demilitarised the Rhineland; and through Article 231 blamed Germany for the war. Reparations were fixed in 1921 at 132 billion gold marks. Many Germans called it a Diktat, and the 'stab-in-the-back' myth attached the defeat to the 'November criminals' who founded the Republic." },
+          { "p": "The extreme left: the Spartacist rising (January 1919), the Bavarian Soviet Republic (April–May 1919), the Ruhr workers' uprising after the Kapp Putsch (1920), the March Action (1921) and the Hamburg rising (October 1923). All were crushed, usually by the army and Freikorps." },
+          { "p": "The extreme right: the Kapp Putsch (March 1920) seized Berlin; the army would not fire on the rebels, but a general strike defeated it within days. Right-wing assassins killed Matthias Erzberger (1921) and Walther Rathenau (1922); of 376 political murders in 1919–22, 354 were committed by the right, and few killers were convicted. Hitler's Munich Putsch (November 1923) failed." },
+          { "p": "Hyperinflation: the war had been paid for by borrowing and printing money; reparations and budget deficits added pressure; the Franco-Belgian occupation of the Ruhr (January 1923) and the government's policy of paying striking workers for 'passive resistance' turned inflation into hyperinflation. By November 1923 one US dollar bought about 4.2 trillion marks. Savers, pensioners and those on fixed incomes lost most; debtors and some big industrialists gained." },
+          { "p": "Why did the Republic survive? Stresemann's 'hundred days' as Chancellor (August–November 1923) ended passive resistance and introduced the Rentenmark; the army stayed loyal against the left; Ebert used Article 48 decisively; its opponents were divided and badly organised; and the Dawes Plan (1924) brought foreign money. Historians debate whether survival owed more to the Republic's strengths or to its enemies' weaknesses." }
+        ],
+        "terms": ["Diktat", "stab-in-the-back myth", "Kapp Putsch", "passive resistance", "hyperinflation", "Rentenmark"],
+        "evidence": ["Reparations: 132 billion gold marks (1921).", "Army limited to 100,000.", "376 political murders 1919–22, 354 by the right.", "Ruhr occupied January 1923.", "November 1923: $1 = about 4.2 trillion marks."],
+        "refs": ["Layton, ch. 5 §2–5; ch. 6"]
+      },
+      {
+        "id": "s4", "title": "4. The 'Golden Years', 1924–29",
+        "blocks": [
+          { "p": "Gustav Stresemann, Foreign Minister from 1923 until his death in October 1929, pursued 'fulfilment': co-operating with the Allies to win revisions. The Dawes Plan (1924) rescheduled reparations and brought American loans; the Locarno Treaties (1925) accepted Germany's western borders; Germany joined the League of Nations in 1926; it signed the Kellogg–Briand Pact (1928); and the Young Plan (1929) reduced the total owed and promised early Allied withdrawal from the Rhineland." },
+          { "p": "Paul von Hindenburg was elected President in 1925 after Ebert's death. A monarchist war hero, he acted constitutionally in the 1920s, which reassured conservatives — but his election also showed how far German voters still looked to the old order." },
+          { "p": "Prosperity rested on foreign loans, especially from the USA, a stable currency and rationalisation of industry; industrial production regained its pre-war level by 1928. Social reforms extended the welfare state, including unemployment insurance (1927), and house-building expanded. Women had the vote and constitutional equality, and more worked in offices and shops, though traditional attitudes stayed strong." },
+          { "p": "Underlying weaknesses remained. Unemployment never fell below about 1.3 million; agriculture was in depression from the late 1920s, with falling prices and rising debt; the economy depended on short-term American loans; coalitions remained fragile; and the DNVP and Nazis stayed hostile. The 'Golden Years' are often described as stability on the surface rather than real strength." }
+        ],
+        "terms": ["fulfilment", "Dawes Plan", "Locarno", "Young Plan", "rationalisation"],
+        "evidence": ["Dawes Plan 1924; Locarno 1925; League of Nations 1926; Kellogg–Briand 1928; Young Plan 1929.", "Hindenburg elected President 1925.", "Unemployment never fell below about 1.3 million.", "Stresemann died 3 October 1929."],
+        "refs": ["Layton, ch. 7 §1–3 and §5"]
+      },
+      {
+        "id": "s5", "title": "5. Weimar culture",
+        "blocks": [
+          { "p": "The relaxation of censorship and the energy of Berlin produced remarkable culture. Expressionist and 'New Objectivity' (Neue Sachlichkeit) artists such as Otto Dix and George Grosz painted war-wounded veterans, profiteers and city life with savage realism." },
+          { "p": "German cinema was among the most innovative in the world: The Cabinet of Dr Caligari (1920) and Fritz Lang's Metropolis (1927). In theatre, Bertolt Brecht and Kurt Weill's The Threepenny Opera (1928) mocked bourgeois society. The Bauhaus, founded by Walter Gropius in Weimar in 1919 and moved to Dessau in 1925, combined art, craft and industrial design." },
+          { "p": "Culture divided opinion. To many conservatives and Nazis it was 'decadent' and 'un-German' — evidence that the Republic was undermining traditional values. Its significance in essays is often how it widened the gap between modern urban Germany and conservative, rural and religious Germany." }
+        ],
+        "terms": ["Expressionism", "New Objectivity", "Bauhaus", "cultural pessimism"],
+        "evidence": ["The Cabinet of Dr Caligari (1920); Metropolis (1927).", "The Threepenny Opera (1928).", "Bauhaus: Weimar 1919, Dessau 1925."],
+        "refs": ["Layton, ch. 7 §4"]
+      }
+    ],
+    "timeline": [
+      { "date": "29 Sept 1918", "event": "Ludendorff and Hindenburg admit the war is lost" },
+      { "date": "Oct 1918", "event": "Prince Max of Baden becomes Chancellor; October Reforms" },
+      { "date": "9 Nov 1918", "event": "Kaiser's abdication announced; republic proclaimed" },
+      { "date": "10 Nov 1918", "event": "Ebert–Groener pact" },
+      { "date": "Jan 1919", "event": "Spartacist rising crushed" },
+      { "date": "28 June 1919", "event": "Treaty of Versailles signed" },
+      { "date": "Aug 1919", "event": "Weimar constitution signed" },
+      { "date": "March 1920", "event": "Kapp Putsch defeated by a general strike" },
+      { "date": "June 1922", "event": "Foreign Minister Walther Rathenau assassinated" },
+      { "date": "Jan 1923", "event": "France and Belgium occupy the Ruhr" },
+      { "date": "Nov 1923", "event": "Munich Putsch; Rentenmark introduced" },
+      { "date": "1924", "event": "Dawes Plan" },
+      { "date": "1925", "event": "Hindenburg elected President; Locarno Treaties" },
+      { "date": "1926", "event": "Germany joins the League of Nations" },
+      { "date": "1929", "event": "Young Plan; death of Stresemann" }
+    ],
+    "people": [
+      { "name": "Friedrich Ebert", "role": "SPD leader; Chancellor 1918–19; President 1919–25." },
+      { "name": "Gustav Stresemann", "role": "DVP; Chancellor Aug–Nov 1923; Foreign Minister 1923–29." },
+      { "name": "Paul von Hindenburg", "role": "War hero; President from 1925." },
+      { "name": "Wilhelm Groener", "role": "General who agreed the pact with Ebert in November 1918." },
+      { "name": "Rosa Luxemburg and Karl Liebknecht", "role": "Spartacist leaders murdered in January 1919." },
+      { "name": "Wolfgang Kapp", "role": "Led the right-wing putsch of March 1920." },
+      { "name": "Walther Rathenau", "role": "Foreign Minister assassinated by right-wing extremists, 1922." },
+      { "name": "Walter Gropius", "role": "Founder of the Bauhaus (1919)." }
+    ],
+    "vocab": [
+      { "term": "Proportional representation", "def": "Seats shared in proportion to votes — led to many parties and coalitions." },
+      { "term": "Article 48", "def": "Emergency powers letting the President rule by decree." },
+      { "term": "Diktat", "def": "A dictated peace — how many Germans saw Versailles." },
+      { "term": "Freikorps", "def": "Right-wing volunteer units of ex-soldiers used against the left." },
+      { "term": "Passive resistance", "def": "Refusing to work for the occupiers in the Ruhr, 1923." },
+      { "term": "Fulfilment", "def": "Stresemann's policy of meeting treaty terms to win revisions." },
+      { "term": "Rentenmark", "def": "Temporary currency of November 1923 that ended hyperinflation." },
+      { "term": "Neue Sachlichkeit", "def": "'New Objectivity' — realistic, critical art of the mid-1920s." }
+    ],
+    "misconceptions": [
+      { "wrong": "Hyperinflation was caused simply by reparations.", "right": "War debt and money printing began the inflation; the Ruhr occupation and passive resistance turned it into hyperinflation in 1923." },
+      { "wrong": "The Golden Years proved Weimar was secure.", "right": "Stability depended on short-term US loans; unemployment, agricultural depression and anti-republican parties remained." },
+      { "wrong": "The Kapp Putsch was defeated by the army.", "right": "The army refused to act; a general strike by workers defeated it." },
+      { "wrong": "Germany paid all the reparations it was asked for.", "right": "Payments were rescheduled by the Dawes and Young Plans and suspended in the Depression." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "What was the 'revolution from above' in 1918?", "options": ["The High Command pushing for a government based on the Reichstag", "The Kiel mutiny", "The Spartacist rising", "The Kapp Putsch"], "answer": 0, "why": "Ludendorff and Hindenburg wanted civilian politicians to take responsibility for peace." },
+      { "id": "m2", "s": "s1", "q": "What did the Ebert–Groener pact secure?", "options": ["An eight-hour day", "Army support for the new government", "Reparations reductions", "Votes for women"], "answer": 1, "why": "The army backed Ebert against the radical left; in return the officer corps kept its position." },
+      { "id": "m3", "s": "s2", "q": "Which feature of the constitution let the President rule by decree?", "options": ["Article 231", "Article 48", "The Reichsrat", "Proportional representation"], "answer": 1, "why": "Article 48 — used by Ebert in 1923 and heavily by Hindenburg from 1930." },
+      { "id": "m4", "s": "s3", "q": "How was the Kapp Putsch defeated?", "options": ["The army attacked the rebels", "A general strike", "French intervention", "Hindenburg's decree"], "answer": 1, "why": "Workers' general strike paralysed Berlin; the army would not fire on fellow soldiers." },
+      { "id": "m5", "s": "s3", "q": "What turned inflation into hyperinflation in 1923?", "options": ["The Dawes Plan", "The occupation of the Ruhr and passive resistance", "The Wall Street Crash", "The Young Plan"], "answer": 1, "why": "Lost production plus printing money to pay strikers." },
+      { "id": "m6", "s": "s3", "q": "At what level were reparations fixed in 1921?", "options": ["50 billion gold marks", "132 billion gold marks", "6 billion gold marks", "1 trillion marks"], "answer": 1, "why": "The London Schedule of Payments, 1921." },
+      { "id": "m7", "s": "s4", "q": "Which agreement accepted Germany's western borders?", "options": ["Locarno Treaties 1925", "Kellogg–Briand Pact 1928", "Treaty of Rapallo 1922", "Young Plan 1929"], "answer": 0, "why": "Locarno guaranteed the Franco-German and Belgian-German borders." },
+      { "id": "m8", "s": "s4", "q": "Which was a weakness during the 'Golden Years'?", "options": ["Hyperinflation", "Dependence on short-term US loans", "The Ruhr occupation", "The Spartacist rising"], "answer": 1, "why": "Loans could be recalled — as happened after 1929." },
+      { "id": "m9", "s": "s5", "q": "Who founded the Bauhaus?", "options": ["Fritz Lang", "Walter Gropius", "Bertolt Brecht", "Otto Dix"], "answer": 1, "why": "Gropius founded it in Weimar in 1919." },
+      { "id": "m10", "s": "s4", "q": "Who became President in 1925?", "options": ["Stresemann", "Hindenburg", "Brüning", "Ebert"], "answer": 1, "why": "Hindenburg was elected after Ebert died in February 1925." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s1", "q": "Which SPD leader became Chancellor on 9 November 1918?", "accept": ["ebert", "friedrich ebert"], "answer": "Friedrich Ebert" },
+      { "id": "a2", "s": "s3", "q": "Which article of the Treaty of Versailles is known as the 'war guilt clause'?", "accept": ["231", "article 231"], "answer": "Article 231" },
+      { "id": "a3", "s": "s3", "q": "Which new currency ended hyperinflation in November 1923?", "accept": ["rentenmark", "the rentenmark"], "answer": "The Rentenmark" },
+      { "id": "a4", "s": "s3", "q": "Which Foreign Minister was assassinated in 1922?", "accept": ["rathenau", "walther rathenau", "walter rathenau"], "answer": "Walther Rathenau" },
+      { "id": "a5", "s": "s4", "q": "Which 1924 plan rescheduled reparations and brought US loans?", "accept": ["dawes", "dawes plan", "the dawes plan"], "answer": "The Dawes Plan" },
+      { "id": "a6", "s": "s5", "q": "Name Fritz Lang's 1927 science-fiction film.", "accept": ["metropolis"], "answer": "Metropolis" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these crises in order", "items": ["Spartacist rising", "Treaty of Versailles signed", "Kapp Putsch", "Assassination of Rathenau", "Occupation of the Ruhr", "Munich Putsch"] },
+      { "id": "c2", "title": "Put Stresemann's foreign-policy achievements in order", "items": ["Dawes Plan", "Locarno Treaties", "Germany joins the League of Nations", "Kellogg–Briand Pact", "Young Plan"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the party to its description", "pairs": [["SPD", "Moderate socialists; largest party in the 1920s"], ["Centre", "Catholic party in most coalitions"], ["DVP", "Business-friendly; Stresemann's party"], ["DNVP", "Nationalists and monarchists"], ["KPD", "Communists seeking revolution"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s3", "q": "Give precise evidence that the threat from the right was treated more leniently than the threat from the left.", "keywords": [["354", "376", "convict", "judges", "lenient", "hitler", "sentence", "kapp"]], "model": "Of 376 political murders in 1919–22, 354 were by the right, yet few right-wing killers were convicted; Hitler served only about nine months after the Munich Putsch." },
+      { "id": "e2", "s": "s4", "q": "Give precise evidence of Stresemann's success in foreign policy.", "keywords": [["dawes", "locarno", "league", "kellogg", "young"]], "model": "Dawes Plan (1924), Locarno (1925), League of Nations membership (1926), Kellogg–Briand (1928) and the Young Plan (1929)." },
+      { "id": "e3", "s": "s4", "q": "Give precise evidence that the 'Golden Years' were fragile.", "keywords": [["loan", "1.3 million", "unemploy", "agricultur", "farm", "coalition"]], "model": "The economy relied on short-term American loans, unemployment never fell below about 1.3 million and agriculture was in depression." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Why did the High Command support a parliamentary government in autumn 1918?", "a": "To make civilian politicians responsible for seeking peace — laying the ground for the stab-in-the-back myth.", "hint": "Who would take the blame?" },
+    { "id": "f2", "s": "s1", "q": "What happened at Kiel in late October–early November 1918?", "a": "A naval mutiny that spread into workers' and soldiers' councils — the revolution from below.", "hint": "Sailors." },
+    { "id": "f3", "s": "s1", "q": "What did the Stinnes–Legien agreement give workers?", "a": "Recognition of trade unions and the eight-hour day (15 November 1918).", "hint": "Employers and unions." },
+    { "id": "f4", "s": "s1", "q": "Which parties made up the Weimar coalition?", "a": "SPD, Centre and DDP.", "hint": "Three parties." },
+    { "id": "f5", "s": "s2", "q": "Give two weaknesses of the Weimar constitution.", "a": "Proportional representation encouraged unstable coalitions; Article 48 allowed rule by decree; old elites left in place.", "hint": "Voting system + emergency power." },
+    { "id": "f6", "s": "s3", "q": "Give three military terms of Versailles.", "a": "Army of 100,000; no conscription, tanks or air force; Rhineland demilitarised.", "hint": "Army, weapons, region." },
+    { "id": "f7", "s": "s3", "q": "What was the stab-in-the-back myth?", "a": "The false claim that the army was undefeated and betrayed by politicians at home — the 'November criminals'.", "hint": "Dolchstoss." },
+    { "id": "f8", "s": "s3", "q": "Name three left-wing risings 1919–23.", "a": "Spartacist rising 1919; Bavarian Soviet Republic 1919; Ruhr uprising 1920; March Action 1921; Hamburg 1923.", "hint": "Berlin, Munich, Ruhr…" },
+    { "id": "f9", "s": "s3", "q": "Who gained and who lost from hyperinflation?", "a": "Lost: savers, pensioners, fixed incomes. Gained: debtors, some industrialists and those with real assets.", "hint": "Savers vs debtors." },
+    { "id": "f10", "s": "s3", "q": "Give three reasons the Republic survived 1919–24.", "a": "Army loyalty against the left; divided opponents; Stresemann's 100 days and the Rentenmark; Article 48; Dawes Plan.", "hint": "Army, enemies, Stresemann." },
+    { "id": "f11", "s": "s4", "q": "What did the Young Plan (1929) do?", "a": "Reduced the reparations total and lengthened the payment period; Allied troops to leave the Rhineland early.", "hint": "Reparations again." },
+    { "id": "f12", "s": "s4", "q": "Why was Hindenburg's election in 1925 significant?", "a": "A monarchist war hero as President reassured conservatives but showed loyalty to the old order.", "hint": "Old order." },
+    { "id": "f13", "s": "s4", "q": "Give two signs of economic weakness 1924–29.", "a": "Dependence on short-term US loans; unemployment never below about 1.3 million; agricultural depression.", "hint": "Loans, jobs, farms." },
+    { "id": "f14", "s": "s5", "q": "Why did Weimar culture matter politically?", "a": "Conservatives and Nazis saw it as decadent and un-German, deepening hostility to the Republic.", "hint": "Who hated it?" },
+    { "id": "f15", "s": "s5", "q": "Name two Weimar artists of New Objectivity.", "a": "Otto Dix and George Grosz.", "hint": "D and G." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "explain", "text": "I can explain the revolutions from above and below in 1918 and their impact.", "sections": ["s1"] },
+    { "id": "k2", "level": "judge", "text": "I can assess the strengths and weaknesses of the Weimar constitution.", "sections": ["s2"] },
+    { "id": "k3", "level": "describe", "text": "I can describe the parties and where each stood on the Republic.", "sections": ["s2"] },
+    { "id": "k4", "level": "explain", "text": "I can explain the nature and impact of the Treaty of Versailles.", "sections": ["s3"] },
+    { "id": "k5", "level": "explain", "text": "I can explain the challenges from the extreme left and right, 1919–23.", "sections": ["s3"] },
+    { "id": "k6", "level": "explain", "text": "I can explain the causes and impact of hyperinflation in 1922–23.", "sections": ["s3"] },
+    { "id": "k7", "level": "judge", "text": "I can reach a judgement on why the Republic survived 1919–24.", "sections": ["s3"] },
+    { "id": "k8", "level": "judge", "text": "I can judge how far 1924–29 were really 'Golden Years', including the roles of Stresemann and Hindenburg.", "sections": ["s4"] },
+    { "id": "k9", "level": "explain", "text": "I can explain the significance of Weimar culture, including the Bauhaus.", "sections": ["s5"] }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1", "qtype": "u1", "label": "Past paper: WHI01/1C, May 2025, Q1", "sections": ["s3"],
+        "q": "Historians differ in their judgements about the impact of the Treaty of Versailles on Germany.\n‘In the years 1919–23, the most damaging consequence of the Treaty of Versailles for Germany was territorial loss.’\nAssess this view using your own knowledge of the issue."
+      },
+      {
+        "id": "q2", "qtype": "u1", "label": "Teacher-created practice question", "sections": ["s3", "s1"],
+        "q": "Historians differ in their judgements about why the Weimar Republic survived the crises of 1919–23.\n‘The Weimar Republic survived the crises of 1919–23 mainly because of the weaknesses of its opponents.’\nAssess this view using your own knowledge of the issue.",
+        "model": [
+          { "t": "Some historians argue that the Republic survived mainly because its enemies were divided and incompetent, whilst others stress the actions of its own leaders — Ebert's use of Article 48 and the army, and Stresemann's response to 1923. In assessing the Republic's survival, the criteria of effectiveness and impact will be employed to argue that decisive government action mattered more, although it worked only because opponents could not unite.", "n": "Introduction from the department frame: both views named, criteria named, judgement given." },
+          { "t": "Despite my judgement, it could be argued that the opponents' weaknesses were most important. The Kapp Putsch of March 1920 collapsed within days when a general strike paralysed Berlin, and the Munich Putsch of November 1923 was badly planned and quickly dispersed by police.", "n": "Weaker factor: point and precise evidence (events, dates)." },
+          { "t": "However, this argument is weak when judged by effectiveness, because the left-wing risings of 1919–23 did not simply fail on their own: the Spartacists in 1919 and the Hamburg rising in 1923 were defeated by government forces. Thus we must assert that the enemies' weaknesses made survival possible, but government action made it happen.", "n": "Weakness against a named criterion, then the judgement sustained." }
+        ],
+        "model_note": "Teacher-written model extract using the department factor-question frame."
+      }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Competing arguments", "task": "Was the German Revolution of 1918–19 a 'limited revolution'? Use the Ebert–Groener pact and the survival of old elites to argue both sides, then decide." },
+    { "id": "t2", "kind": "Relative significance", "task": "Rank Versailles, hyperinflation and the constitution as threats to the Republic by 1923. Change one ranking when you judge by duration instead of immediate impact." },
+    { "id": "t3", "kind": "Causal links", "task": "Show how the Ruhr occupation, passive resistance, hyperinflation and the Munich Putsch were connected in a single chain." },
+    { "id": "t4", "kind": "Change and continuity", "task": "How much really changed for German society in the 'Golden Years'? Consider women, workers and farmers separately." }
+  ]
+}

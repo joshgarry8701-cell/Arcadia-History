@@ -1,0 +1,192 @@
+{
+  "id": "y12-de-3", "course": "y12", "area": "de", "kt": "Key topic 3", "order": 3,
+  "title": "Nazi Germany, 1933–39",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following IAL key topic 3. Read-more references are to Layton, From Kaiser to Führer." },
+  "learn": {
+    "intro": "How did the Nazis turn an appointment as Chancellor into a dictatorship within 18 months, how did they control and shape German society, and how successful were their economic policies? This key topic produces many Unit 1 questions.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Establishing the dictatorship, 1933–34",
+        "blocks": [
+          { "p": "The Enabling Act (23 March 1933) let the government make laws without the Reichstag for four years. It passed by 444 votes to 94: Communist deputies were already arrested or in hiding, SA men surrounded the building, and the Centre Party voted in favour after promises about the Catholic Church. Only the SPD voted against." },
+          { "p": "Gleichschaltung (coordination) followed. The federal states were placed under Reich governors (April 1933) and their parliaments abolished (January 1934). Trade unions were broken up on 2 May 1933 and replaced by the German Labour Front (DAF). The SPD was banned in June, other parties dissolved themselves, and on 14 July 1933 the Nazis became the only legal party." },
+          { "p": "The SA, now millions strong, wanted a 'second revolution' and Röhm hoped to merge it with the army. The army and big business were alarmed. In the Night of the Long Knives (30 June–2 July 1934) the SS murdered Röhm and other SA leaders, along with old enemies such as Schleicher, Gregor Strasser and Kahr. The army was reassured and the SS became the regime's main instrument of terror." },
+          { "p": "When Hindenburg died on 2 August 1934, Hitler merged the offices of Chancellor and President as Führer. The army swore a personal oath of loyalty to Hitler, and a plebiscite on 19 August approved the change with about 90 per cent of the vote." }
+        ],
+        "terms": ["Enabling Act", "Gleichschaltung", "second revolution", "Night of the Long Knives", "Führer"],
+        "evidence": ["23 March 1933: Enabling Act passed 444–94.", "2 May 1933: trade unions abolished.", "14 July 1933: one-party state.", "30 June–2 July 1934: Night of the Long Knives.", "2 August 1934: Hindenburg dies; army oath to Hitler."],
+        "refs": ["Layton, ch. 11 §1–2"]
+      },
+      {
+        "id": "s2", "title": "2. The nature of Nazi government, 1934–39",
+        "blocks": [
+          { "p": "Hitler's style of government was unusual. He disliked routine paperwork, spent long periods at his Bavarian retreat, and the cabinet met less and less, last meeting in 1938. Decisions were often given orally and many ministers rarely saw him." },
+          { "p": "Power was spread between competing agencies — ministries, party offices, the SS, and special plenipotentiaries such as Göring for the Four-Year Plan. Historians call this polycracy. Intentionalist historians see Hitler deliberately dividing to rule; structuralists see a chaotic system in which officials competed by 'working towards the Führer' (Ian Kershaw's phrase), radicalising policy." },
+          { "p": "The 'dual state' (Ernst Fraenkel, 1941): a 'normative state' of ordinary laws and courts continued to operate for most everyday matters, alongside a 'prerogative state' — the party, SS and police — which acted outside the law whenever the regime chose." }
+        ],
+        "terms": ["polycracy", "working towards the Führer", "dual state", "intentionalist", "structuralist"],
+        "evidence": ["Cabinet last met in 1938.", "Göring made plenipotentiary for the Four-Year Plan (1936).", "Fraenkel's 'dual state' (1941)."],
+        "refs": ["Layton, ch. 11 §3–4 and §8"]
+      },
+      {
+        "id": "s3", "title": "3. Repression and control",
+        "blocks": [
+          { "p": "Heinrich Himmler built the terror apparatus. He took control of the political police across the states in 1934 and became Chief of the German Police in June 1936, uniting the police with the SS. The Gestapo (secret state police) and the SD (the SS intelligence service under Reinhard Heydrich) watched for opponents. The first concentration camp opened at Dachau in March 1933, and thousands were held in 'protective custody'." },
+          { "p": "The Gestapo was small. Research on local records shows it relied heavily on denunciations from ordinary Germans, whose motives ranged from loyalty to personal grudges. Fear and consent overlapped." },
+          { "p": "Joseph Goebbels's Ministry of Popular Enlightenment and Propaganda (March 1933) and the Reich Chamber of Culture (September 1933) controlled the press, radio, film and the arts. Cheap 'People's Receiver' radios, the Nuremberg rallies, the 1936 Berlin Olympics and films such as Triumph of the Will (1935) spread the Hitler myth." },
+          { "p": "Opposition and dissent were limited and fragmented: underground SPD and KPD cells were broken up; the Confessing Church (Pastor Martin Niemöller) resisted Nazi control of the Protestant Church; some young people rejected the Hitler Youth; army officers plotted in 1938. Much dissent was 'non-conformity' — grumbling, listening to foreign radio, avoiding the Hitler salute — rather than active resistance." }
+        ],
+        "terms": ["Gestapo", "SD", "protective custody", "denunciation", "Reich Chamber of Culture", "non-conformity"],
+        "evidence": ["March 1933: Dachau opens.", "June 1936: Himmler Chief of the German Police.", "September 1933: Reich Chamber of Culture.", "1935: Triumph of the Will; 1936: Berlin Olympics."],
+        "refs": ["Layton, ch. 11 §5–6"]
+      },
+      {
+        "id": "s4", "title": "4. Shaping society: the Volksgemeinschaft",
+        "blocks": [
+          { "p": "The Volksgemeinschaft (people's community) was meant to replace class and religious division with racial unity and loyalty to the Führer. It was built by including 'racially valuable' Germans and excluding everyone else." },
+          { "p": "Women: Kinder, Küche, Kirche. Marriage loans (1933) were reduced for each child born; the Mother's Cross (1938) rewarded large families; women were pushed out of the higher civil service, law and medicine. Yet the demands of rearmament meant women's employment rose in the later 1930s. The Nazi women's organisations were led by Gertrud Scholtz-Klink." },
+          { "p": "Workers: Robert Ley's German Labour Front (DAF) replaced unions. Its subsidiaries Strength through Joy (KdF) offered cheap holidays, sport and the Volkswagen savings scheme, and Beauty of Labour improved workplaces — compensation for longer hours and frozen wages." },
+          { "p": "Youth and education: teachers had to join the Nazi Teachers' League; the curriculum emphasised race, history and physical education. The Hitler Youth and League of German Maidens became the official youth organisations in 1936, with membership made compulsory in 1939." },
+          { "p": "Racial policy and the churches: the sterilisation law (July 1933), the boycott of Jewish shops (1 April 1933) and the exclusion of Jews from the civil service (April 1933), the Nuremberg Laws (September 1935) and the Kristallnacht pogrom (9–10 November 1938) escalated persecution. The Concordat with the Vatican (July 1933) was soon broken; the Pope's encyclical 'With Burning Concern' (1937) criticised the regime." }
+        ],
+        "terms": ["Volksgemeinschaft", "Kinder, Küche, Kirche", "DAF", "Strength through Joy", "Nuremberg Laws", "Kristallnacht", "Concordat"],
+        "evidence": ["1933: marriage loans; 1938: Mother's Cross.", "1 April 1933: boycott; September 1935: Nuremberg Laws; 9–10 November 1938: Kristallnacht.", "July 1933: Concordat; 1937: 'With Burning Concern'.", "1936: Hitler Youth the official youth organisation; 1939: compulsory."],
+        "refs": ["Layton, ch. 13"]
+      },
+      {
+        "id": "s5", "title": "5. Economic policies",
+        "blocks": [
+          { "p": "Hjalmar Schacht (Reichsbank President from 1933, Economics Minister 1934–37) financed recovery and rearmament through deficit spending and Mefo bills, which hid the cost of rearmament. His New Plan (1934) controlled imports and made bilateral trade deals, especially with south-eastern Europe." },
+          { "p": "Unemployment fell from about 6 million in early 1933 to well under half a million by 1939, helped by public works such as the autobahns, the Reich Labour Service, conscription (from 1935), rearmament and statistical tricks that removed women and Jews from the figures." },
+          { "p": "In 1936 Göring's Four-Year Plan aimed to make Germany ready for war within four years through autarky — synthetic oil and rubber, and state-run industries such as the Hermann Göring Works. Schacht, who warned about the cost, resigned in 1937. Most targets were missed." },
+          { "p": "Living standards: jobs returned, but real wages only slowly recovered to late-1920s levels, hours were longer and food choice was limited ('guns or butter'). Farmers were promised protection through the Reich Food Estate and the Reich Entailed Farm Law (1933), but the drift from the land continued." }
+        ],
+        "terms": ["Mefo bills", "New Plan", "autarky", "Four-Year Plan", "guns or butter"],
+        "evidence": ["Unemployment about 6 million (1933) → under 0.5 million (1939).", "1934: New Plan; 1935: conscription; 1936: Four-Year Plan.", "Schacht resigned as Economics Minister in 1937."],
+        "refs": ["Layton, ch. 12"]
+      }
+    ],
+    "timeline": [
+      { "date": "23 March 1933", "event": "Enabling Act passed" },
+      { "date": "1 April 1933", "event": "Boycott of Jewish shops" },
+      { "date": "2 May 1933", "event": "Trade unions abolished; DAF set up" },
+      { "date": "14 July 1933", "event": "Germany becomes a one-party state" },
+      { "date": "July 1933", "event": "Concordat with the Vatican" },
+      { "date": "30 June 1934", "event": "Night of the Long Knives begins" },
+      { "date": "2 Aug 1934", "event": "Hindenburg dies; Hitler becomes Führer" },
+      { "date": "March 1935", "event": "Conscription reintroduced" },
+      { "date": "Sept 1935", "event": "Nuremberg Laws" },
+      { "date": "June 1936", "event": "Himmler becomes Chief of the German Police" },
+      { "date": "1936", "event": "Four-Year Plan launched under Göring" },
+      { "date": "9–10 Nov 1938", "event": "Kristallnacht" }
+    ],
+    "people": [
+      { "name": "Heinrich Himmler", "role": "Reichsführer-SS; Chief of the German Police from 1936." },
+      { "name": "Reinhard Heydrich", "role": "Head of the SD; later of the Reich Security Main Office." },
+      { "name": "Joseph Goebbels", "role": "Minister of Propaganda from March 1933." },
+      { "name": "Robert Ley", "role": "Leader of the German Labour Front (DAF)." },
+      { "name": "Hjalmar Schacht", "role": "Reichsbank President; Economics Minister 1934–37." },
+      { "name": "Hermann Göring", "role": "Prussian Interior Minister; head of the Four-Year Plan from 1936." },
+      { "name": "Ernst Röhm", "role": "SA leader killed in the Night of the Long Knives." },
+      { "name": "Martin Niemöller", "role": "Pastor; leading figure in the Confessing Church." }
+    ],
+    "vocab": [
+      { "term": "Gleichschaltung", "def": "Coordination — bringing institutions under Nazi control." },
+      { "term": "Polycracy", "def": "Many competing centres of power." },
+      { "term": "Dual state", "def": "Ordinary law alongside arbitrary party/SS power." },
+      { "term": "Volksgemeinschaft", "def": "The 'people's community' of racially valuable Germans." },
+      { "term": "Autarky", "def": "Economic self-sufficiency." },
+      { "term": "Mefo bills", "def": "Credit notes that disguised rearmament spending." },
+      { "term": "Protective custody", "def": "Detention without trial, often in camps." }
+    ],
+    "misconceptions": [
+      { "wrong": "The Gestapo had agents everywhere.", "right": "It was small and relied on denunciations from ordinary Germans." },
+      { "wrong": "Nazi policy kept women out of work.", "right": "Women were pushed out of some professions, but female employment rose in the late 1930s as rearmament needed labour." },
+      { "wrong": "Unemployment ended purely because of Nazi economic genius.", "right": "Recovery had begun before 1933; conscription, rearmament and statistical exclusions also played a part." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "Which party voted against the Enabling Act?", "options": ["Centre", "SPD", "DNVP", "DVP"], "answer": 1, "why": "Communist deputies were already excluded; the SPD alone voted no." },
+      { "id": "m2", "s": "s1", "q": "Who was killed in the Night of the Long Knives?", "options": ["Himmler", "Röhm", "Göring", "Goebbels"], "answer": 1, "why": "Röhm and other SA leaders, plus Schleicher, Strasser and Kahr." },
+      { "id": "m3", "s": "s1", "q": "What happened after Hindenburg died in August 1934?", "options": ["Papen became President", "Hitler combined the offices as Führer and the army swore an oath to him", "The Reichstag elected a new President", "The SA took control of the army"], "answer": 1, "why": "Approved by a plebiscite on 19 August." },
+      { "id": "m4", "s": "s2", "q": "What does 'working towards the Führer' describe?", "options": ["Labour service", "Officials radicalising policy to win Hitler's approval", "The Four-Year Plan", "Propaganda campaigns"], "answer": 1, "why": "Ian Kershaw's explanation of how a chaotic system produced radical policy." },
+      { "id": "m5", "s": "s3", "q": "What did the Gestapo rely on most?", "options": ["Thousands of agents", "Denunciations by ordinary Germans", "Army intelligence", "Foreign informers"], "answer": 1, "why": "Local studies show most cases began with denunciations." },
+      { "id": "m6", "s": "s4", "q": "Which organisation provided cheap holidays for workers?", "options": ["SD", "Strength through Joy (KdF)", "RAD", "NSLB"], "answer": 1, "why": "A subsidiary of Ley's DAF." },
+      { "id": "m7", "s": "s4", "q": "When were the Nuremberg Laws passed?", "options": ["1933", "1935", "1938", "1939"], "answer": 1, "why": "September 1935." },
+      { "id": "m8", "s": "s5", "q": "What were Mefo bills used for?", "options": ["Paying reparations", "Hiding the cost of rearmament", "Funding KdF", "Buying farms"], "answer": 1, "why": "Schacht's credit notes kept military spending off the books." },
+      { "id": "m9", "s": "s5", "q": "What was the aim of the Four-Year Plan?", "options": ["Free trade", "Autarky and readiness for war", "Ending conscription", "Paying reparations"], "answer": 1, "why": "Göring's plan from 1936." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s1", "q": "On what date was the Enabling Act passed?", "accept": ["23 march 1933", "23rd march 1933", "march 23 1933", "23 march"], "answer": "23 March 1933" },
+      { "id": "a2", "s": "s3", "q": "Where was the first concentration camp opened in March 1933?", "accept": ["dachau"], "answer": "Dachau" },
+      { "id": "a3", "s": "s4", "q": "Who led the German Labour Front?", "accept": ["ley", "robert ley"], "answer": "Robert Ley" },
+      { "id": "a4", "s": "s4", "q": "What 1933 agreement did the Nazis make with the Vatican?", "accept": ["concordat", "the concordat", "reich concordat"], "answer": "The Concordat" },
+      { "id": "a5", "s": "s5", "q": "Who ran the Four-Year Plan?", "accept": ["goring", "göring", "goering", "hermann goring", "hermann göring"], "answer": "Hermann Göring" },
+      { "id": "a6", "s": "s2", "q": "Which historian described the 'dual state'?", "accept": ["fraenkel", "ernst fraenkel", "frankel"], "answer": "Ernst Fraenkel" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put the steps to dictatorship in order", "items": ["Reichstag Fire Decree", "Enabling Act", "Trade unions abolished", "One-party state", "Night of the Long Knives", "Hitler becomes Führer"] },
+      { "id": "c2", "title": "Put the persecution of Jews in order", "items": ["Boycott of Jewish shops", "Jews excluded from the civil service", "Nuremberg Laws", "Kristallnacht"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the person to their role", "pairs": [["Himmler", "SS and police"], ["Goebbels", "Propaganda"], ["Ley", "German Labour Front"], ["Schacht", "Economics and Reichsbank"], ["Göring", "Four-Year Plan"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s1", "q": "Give precise evidence that the Enabling Act was passed through intimidation as well as legal means.", "keywords": [["sa", "surround", "communist", "kpd", "arrest", "444", "centre"]], "model": "SA men surrounded the Kroll Opera House, Communist deputies were arrested or in hiding, and the Centre Party was won over by promises; it passed 444–94." },
+      { "id": "e2", "s": "s5", "q": "Give precise evidence about living standards under the Nazis.", "keywords": [["real wage", "wages", "hours", "butter", "food", "kdf", "unemploy"]], "model": "Unemployment fell below 0.5 million, but real wages only slowly regained late-1920s levels and hours were longer; food choice was limited as rearmament took priority." },
+      { "id": "e3", "s": "s3", "q": "Give precise evidence of the terror apparatus.", "keywords": [["dachau", "gestapo", "sd", "himmler", "1936", "protective custody", "heydrich"]], "model": "Dachau opened in March 1933; Himmler became Chief of the German Police in June 1936; the Gestapo and Heydrich's SD watched for opponents; thousands held in protective custody." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Why did the Centre Party vote for the Enabling Act?", "a": "Hitler promised to protect the Catholic Church's rights.", "hint": "Church." },
+    { "id": "f2", "s": "s1", "q": "Name three steps of Gleichschaltung in 1933.", "a": "Reich governors over the states; unions abolished and DAF created; parties banned or dissolved; one-party law (14 July).", "hint": "States, unions, parties." },
+    { "id": "f3", "s": "s1", "q": "Why did Hitler purge the SA in 1934?", "a": "To satisfy the army and big business, remove Röhm's 'second revolution' threat and secure the presidency after Hindenburg.", "hint": "Army." },
+    { "id": "f4", "s": "s2", "q": "Intentionalist vs structuralist — what's the difference?", "a": "Intentionalists stress Hitler's plans and control; structuralists stress chaotic competition between agencies.", "hint": "Hitler's will vs system." },
+    { "id": "f5", "s": "s2", "q": "What is the 'dual state'?", "a": "A normal legal 'normative state' alongside an arbitrary 'prerogative state' of party, SS and police.", "hint": "Fraenkel." },
+    { "id": "f6", "s": "s3", "q": "Give two of Goebbels's propaganda methods.", "a": "Cheap People's Receiver radios; Nuremberg rallies; film (Triumph of the Will); control via the Reich Chamber of Culture; the 1936 Olympics.", "hint": "Radio, rallies, film." },
+    { "id": "f7", "s": "s3", "q": "What was the Confessing Church?", "a": "Protestants, including Pastor Niemöller, who resisted Nazi control of the Protestant Church.", "hint": "Niemöller." },
+    { "id": "f8", "s": "s4", "q": "How did Nazi policy try to raise the birth rate?", "a": "Marriage loans (1933) reduced for each child; the Mother's Cross (1938); propaganda for Kinder, Küche, Kirche.", "hint": "Loans and medals." },
+    { "id": "f9", "s": "s4", "q": "What did Strength through Joy offer?", "a": "Cheap holidays, cruises, sport, theatre and a Volkswagen savings scheme.", "hint": "Leisure." },
+    { "id": "f10", "s": "s4", "q": "What did the Nuremberg Laws do?", "a": "Removed Jews' citizenship and banned marriage and sexual relations between Jews and non-Jews.", "hint": "Citizenship + marriage." },
+    { "id": "f11", "s": "s5", "q": "Give three reasons unemployment fell after 1933.", "a": "Public works (autobahns); Reich Labour Service; conscription and rearmament; women and Jews removed from the figures.", "hint": "Roads, army, statistics." },
+    { "id": "f12", "s": "s5", "q": "Why did Schacht resign in 1937?", "a": "He disagreed with the cost and pace of rearmament under Göring's Four-Year Plan.", "hint": "Guns vs balance sheets." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "explain", "text": "I can explain how the dictatorship was established in 1933–34 (Enabling Act, parties, unions, states).", "sections": ["s1"] },
+    { "id": "k2", "level": "judge", "text": "I can assess the significance of the Night of the Long Knives and Hindenburg's death.", "sections": ["s1"] },
+    { "id": "k3", "level": "judge", "text": "I can evaluate the nature of Nazi government, including Hitler's role and the dual state.", "sections": ["s2"] },
+    { "id": "k4", "level": "judge", "text": "I can judge the extent of opposition and the roles of Goebbels and Himmler's terror apparatus.", "sections": ["s3"] },
+    { "id": "k5", "level": "explain", "text": "I can explain the impact of Nazi policies on women, workers, youth, churches and Jews.", "sections": ["s4"] },
+    { "id": "k6", "level": "judge", "text": "I can assess the significance of Schacht and Göring and the impact of economic policies.", "sections": ["s5"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "u1", "label": "Past paper: WHI01/1C, May 2025, Q2", "sections": ["s1"],
+        "q": "Historians differ in their judgements about the establishment of the Nazi dictatorship in the years 1933–34.\n‘In the years 1933–34, the main event in the establishment of the Nazi dictatorship was the Night of the Long Knives.’\nAssess this view using your own knowledge of the issue." },
+      { "id": "q2", "qtype": "u1", "label": "Past paper: WHI01/1C, May 2025, Q3", "sections": ["s4"],
+        "q": "Historians differ in their judgements about the nature of Volksgemeinschaft in the years 1933–39.\n‘In the years 1933–39, education was the most significant feature in the creation of a Volksgemeinschaft in Germany.’\nAssess this view using your own knowledge of the issue." },
+      { "id": "q3", "qtype": "u1", "label": "From Pearson's WHI01 exemplar pack (January 2018)", "sections": ["s1"],
+        "q": "Historians have different explanations for why the Nazis were able to establish a dictatorship in Germany in the years 1933–34.\n‘The impact of the Reichstag Fire was the main reason why the Nazis were able to establish a dictatorship in Germany in the years 1933–34.’\nAssess this view using your own knowledge of the issue.",
+        "mistakes": ["Examiner comment on a Level 2 answer: the opening did not make clear what the question was about, and knowledge of the Reichstag Fire was relevant but insecure.", "The same answer described other factors (Night of the Long Knives, Hindenburg's death) without explaining their importance or stating criteria for judgement.", "Not focusing on the exact view in the opening paragraph", "Considering other views only near the end of the essay", "A conclusion that lists factors without showing why one is more significant"] },
+      { "id": "q4", "qtype": "u1", "label": "From Pearson's WHI01 exemplar pack (January 2018)", "sections": ["s4"],
+        "q": "Historians differ in their judgements about the impact of Nazi policies on women in Germany in the years 1933–39.\n‘Nazi policies improved the life of women in Germany in the years 1933–39.’\nAssess this view using your own knowledge of the issue.",
+        "mistakes": ["Examiner comment on a Level 1 answer: it described three areas of policy but never judged whether life 'improved' — the key word of the question.", "Generalised statements without the detail expected in a depth study; weak chronology on women's employment.", "Not focusing on the exact view in the opening paragraph"] },
+      { "id": "q5", "qtype": "u1", "label": "From your Germany model-answers deck", "sections": ["s1", "s3"],
+        "q": "Historians differ in their judgements on how the Nazis consolidated power.\n‘The Nazis were able to consolidate power 1933–36 because of repression.’\nAssess this view using your own knowledge of the issue.",
+        "model": [
+          { "t": "Some historians argue that the Nazis consolidated power mainly through repression, whilst others stress legal methods such as the Enabling Act, the coordination of society and genuine popularity. In assessing consolidation in 1933–36, the criteria of scope and duration will be employed to argue that repression was most important, because it underpinned the other methods throughout the period.", "n": "Introduction: both views, criteria, judgement — focused on the exact wording." },
+          { "t": "Despite my judgement, it could be argued that legal processes were most important. The Enabling Act of 23 March 1933 gave the government power to make laws without the Reichstag, and Hindenburg's death in August 1934 let Hitler become Führer with the army's oath.", "n": "Alternative view first, with precise evidence (acts, dates)." },
+          { "t": "However, this argument is weak when judged by scope, because the 'legal' steps depended on repression: the Act passed only after the Reichstag Fire Decree had suspended civil liberties and while SA men surrounded the deputies. Thus we must assert that legality was the form, but repression the substance, of consolidation.", "n": "Weakness against a criterion; sustained judgement linking the factors." }
+        ],
+        "model_note": "Teacher-written model extract. The full student responses in your deck stay in class materials." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Competing arguments", "task": "Was Nazi Germany a 'chaotic polycracy' or a state efficient to the Führer's will? Use the Four-Year Plan and the SS as test cases." },
+    { "id": "t2", "kind": "Relative significance", "task": "Rank terror, propaganda and material benefits (jobs, KdF) as reasons for the lack of opposition by 1939. Which ranking changes if you judge workers rather than the middle classes?" },
+    { "id": "t3", "kind": "Change and continuity", "task": "How far did the Volksgemeinschaft change German society, and how far did class and religious loyalties survive?" },
+    { "id": "t4", "kind": "Evaluation", "task": "Consent or coercion? Use the evidence about denunciations to argue that the line between them was blurred." }
+  ]
+}

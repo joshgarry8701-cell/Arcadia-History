@@ -21,7 +21,7 @@ const out = `<title>Mr Garry's History Revision Hub</title>
 ${read('public/styles.css')}
 </style>
 <div id="app"><main><p style="padding:24px">Loading the Revision Hub…</p></main></div>
-<script>window.HUB_PREVIEW = ${safe(JSON.stringify({ courses, topics }))};</script>
+<script>window.HUB_PREVIEW = ${safe(JSON.stringify({ courses, topics, photo: 'data:image/webp;base64,' + fs.readFileSync(path.join(root, 'public/mr-garry.webp')).toString('base64') }))};</script>
 <script>
 ${safe(read('public/app.js'))}
 </script>

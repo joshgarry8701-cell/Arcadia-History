@@ -1,0 +1,175 @@
+{
+  "id": "y12-de-2", "course": "y12", "area": "de", "kt": "Key topic 2", "order": 2,
+  "title": "The rise of the Nazis, 1919–33",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following IAL key topic 2. Read-more references are to Layton, From Kaiser to Führer." },
+  "learn": {
+    "intro": "From a tiny Munich party in 1919 to government in 1933: why did the Nazis fail in the 1920s, break through after 1929, and how did Hitler — who never won a majority in a free election — become Chancellor?",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Origins of the NSDAP to 1923",
+        "blocks": [
+          { "p": "The German Workers' Party (DAP) was founded in Munich in January 1919 by Anton Drexler. Hitler, then an army political informant, joined in September 1919 and quickly became its star speaker. In February 1920 the party announced its 25-point programme — nationalist, anti-Semitic, anti-Versailles and vaguely anti-capitalist — and renamed itself the National Socialist German Workers' Party (NSDAP)." },
+          { "p": "In July 1921 Hitler became party leader with near-total authority. The SA (Sturmabteilung) grew from the party's stewards in 1921; Ernst Röhm, an army officer with links to the Bavarian authorities and Freikorps, was vital in building it into a paramilitary force. The party bought its own newspaper, the Völkischer Beobachter, in 1920." },
+          { "p": "The Munich (Beer Hall) Putsch of 8–9 November 1923 tried to exploit the crisis year, copying Mussolini's march on Rome. Hitler counted on the Bavarian leaders Kahr, Lossow and Seisser, but they turned against him; the march through Munich was dispersed by police gunfire and 16 Nazis were killed. The failure taught Hitler that power would have to be won through the system." }
+        ],
+        "terms": ["25-point programme", "SA", "Munich Putsch", "Führerprinzip"],
+        "evidence": ["January 1919: DAP founded by Drexler.", "February 1920: 25-point programme; renamed NSDAP.", "July 1921: Hitler becomes leader.", "8–9 November 1923: Munich Putsch."],
+        "refs": ["Layton, ch. 8 §1–3"]
+      },
+      {
+        "id": "s2", "title": "2. Failure and survival, 1924–28",
+        "blocks": [
+          { "p": "Hitler's trial (February–March 1924) gave him national publicity, and sympathetic judges gave him a five-year sentence of which he served about nine months in Landsberg prison. There he wrote Mein Kampf, setting out his ideas on race, Lebensraum and leadership, and decided on the 'legal path' to power." },
+          { "p": "The party was refounded in February 1925. At the Bamberg Conference (February 1926) Hitler defeated the northern, more socialist wing led by Gregor Strasser, establishing the Führerprinzip and his control of the programme. Joseph Goebbels switched to Hitler's side and became Gauleiter of Berlin." },
+          { "p": "A national organisation developed: regional Gaue, the Hitler Youth (1926), the SS as a personal bodyguard, and specialist groups for farmers, students and professions. But in the stable conditions of the mid-1920s the party struggled: in the Reichstag election of May 1928 it won only 2.6 per cent and 12 seats. It began to shift attention to rural, Protestant northern Germany, where agricultural depression was already hurting." }
+        ],
+        "terms": ["Mein Kampf", "legal path", "Bamberg Conference", "Gau / Gauleiter"],
+        "evidence": ["Sentence of 5 years; served about 9 months.", "Bamberg Conference, February 1926.", "May 1928: 2.6% of the vote, 12 seats."],
+        "refs": ["Layton, ch. 8 §4"]
+      },
+      {
+        "id": "s3", "title": "3. Breakthrough and Weimar's collapse, 1929–32",
+        "blocks": [
+          { "p": "In 1929 the Nazis joined Alfred Hugenberg's DNVP and other nationalists in a campaign against the Young Plan. The referendum failed, but Hugenberg's newspapers gave Hitler national publicity and respectability with the conservative right." },
+          { "p": "The Wall Street Crash (October 1929) led American lenders to recall loans. German industrial output fell sharply and unemployment reached 6.1 million by January 1932. The Grand Coalition collapsed in March 1930 over unemployment-insurance contributions; Heinrich Brüning's government then governed increasingly through Article 48 decrees, and his deflationary cuts deepened the misery." },
+          { "p": "The Nazi vote rose to 18.3 per cent (107 seats) in September 1930 and 37.3 per cent (230 seats, the largest party) in July 1932. Goebbels's propaganda, mass rallies, Hitler's flights across Germany in 1932 and targeted messages to farmers, the middle classes and young voters were combined with SA intimidation and street violence. The Nazis drew support from across society, though most heavily from Protestant, rural and middle-class Germany." },
+          { "p": "The Communist vote also grew — reaching 16.9 per cent and 100 seats in November 1932 — which frightened the middle classes, industrialists and the elites, and made the Nazis look like the barrier against Bolshevism. In the Reichstag, Nazis and Communists together formed a negative majority that made parliamentary government almost impossible." }
+        ],
+        "terms": ["presidential government", "deflation", "negative majority", "Young Plan campaign"],
+        "evidence": ["Unemployment 6.1 million, January 1932.", "Sept 1930: 18.3%, 107 seats.", "July 1932: 37.3%, 230 seats.", "Nov 1932: KPD 16.9%, 100 seats."],
+        "refs": ["Layton, ch. 9; ch. 10 §1–2"]
+      },
+      {
+        "id": "s4", "title": "4. Coming to power, November 1932–March 1933",
+        "blocks": [
+          { "p": "Hindenburg had replaced Brüning with Franz von Papen (June 1932), who lifted the ban on the SA and called the July election. Hitler refused anything less than the chancellorship. In November 1932 the Nazi vote fell to 33.1 per cent (196 seats), funds were low and the party seemed to have peaked." },
+          { "p": "General Kurt von Schleicher became Chancellor in December 1932 and tried to split the Nazis by offering Gregor Strasser the vice-chancellorship. Papen, seeking revenge, met Hitler in January 1933 and persuaded Hindenburg that a cabinet with Hitler as Chancellor, but only three Nazis, could be controlled by conservatives. Hitler was appointed on 30 January 1933." },
+          { "p": "Hitler then used state power to win support and crush opponents. On 3 February he reassured army leaders; on 20 February leading industrialists pledged money for the election campaign. Göring, as Prussian Interior Minister, enrolled SA and SS men as auxiliary police. After the Reichstag Fire (27 February), blamed on the Communist Marinus van der Lubbe, the Decree for the Protection of the People and the State (28 February) suspended civil liberties. In the election of 5 March the Nazis won 43.9 per cent (288 seats) — still not a majority without the DNVP." },
+          { "p": "The historians' debate: was Hitler's appointment the product of Nazi popularity and propaganda, of the economic crisis, of the structural weaknesses of Weimar, or — the most common emphasis — of the 'backstairs intrigue' of a small group of conservatives around Hindenburg who thought they could use him?" }
+        ],
+        "terms": ["backstairs intrigue", "auxiliary police", "Reichstag Fire Decree", "Hindenburg's camarilla"],
+        "evidence": ["Nov 1932: 33.1%, 196 seats.", "30 January 1933: Hitler appointed; three Nazis in cabinet.", "20 February 1933: industrialists fund the campaign.", "27–28 February 1933: Reichstag Fire and emergency decree.", "5 March 1933: 43.9%, 288 seats."],
+        "refs": ["Layton, ch. 10 §3–5"]
+      }
+    ],
+    "timeline": [
+      { "date": "Jan 1919", "event": "German Workers' Party (DAP) founded by Anton Drexler" },
+      { "date": "Feb 1920", "event": "25-point programme; party renamed NSDAP" },
+      { "date": "July 1921", "event": "Hitler becomes party leader" },
+      { "date": "Nov 1923", "event": "Munich Putsch fails" },
+      { "date": "Feb 1926", "event": "Bamberg Conference" },
+      { "date": "May 1928", "event": "Nazis win 2.6% and 12 seats" },
+      { "date": "Oct 1929", "event": "Wall Street Crash" },
+      { "date": "March 1930", "event": "Brüning becomes Chancellor; presidential government begins" },
+      { "date": "Sept 1930", "event": "Nazis win 18.3% and 107 seats" },
+      { "date": "July 1932", "event": "Nazis win 37.3% and 230 seats — largest party" },
+      { "date": "Nov 1932", "event": "Nazi vote falls to 33.1%" },
+      { "date": "30 Jan 1933", "event": "Hitler appointed Chancellor" },
+      { "date": "27 Feb 1933", "event": "Reichstag Fire" },
+      { "date": "5 March 1933", "event": "Nazis win 43.9% and 288 seats" }
+    ],
+    "people": [
+      { "name": "Anton Drexler", "role": "Founder of the DAP, 1919." },
+      { "name": "Ernst Röhm", "role": "Built up the SA; SA chief of staff from 1931." },
+      { "name": "Gregor Strasser", "role": "Leader of the party's northern, socialist wing; resigned December 1932." },
+      { "name": "Joseph Goebbels", "role": "Gauleiter of Berlin; head of Nazi propaganda." },
+      { "name": "Alfred Hugenberg", "role": "DNVP leader and media owner; ally against the Young Plan." },
+      { "name": "Heinrich Brüning", "role": "Chancellor 1930–32; governed by decree; deflation." },
+      { "name": "Franz von Papen", "role": "Chancellor 1932; helped persuade Hindenburg to appoint Hitler." },
+      { "name": "Kurt von Schleicher", "role": "General; Chancellor December 1932–January 1933." }
+    ],
+    "vocab": [
+      { "term": "Völkisch", "def": "Racial-nationalist ideas about the German 'people'." },
+      { "term": "Lebensraum", "def": "'Living space' — expansion into eastern Europe." },
+      { "term": "Führerprinzip", "def": "The leader principle: absolute authority of the leader." },
+      { "term": "Presidential government", "def": "Chancellors governing through the President's decrees rather than the Reichstag." },
+      { "term": "Deflation", "def": "Cutting spending and wages to cut prices — Brüning's policy." },
+      { "term": "Negative majority", "def": "Anti-republican parties together blocking any working majority." }
+    ],
+    "misconceptions": [
+      { "wrong": "Hitler was elected Chancellor.", "right": "He was appointed by Hindenburg. The Nazis never won a majority in a free election." },
+      { "wrong": "The Nazi vote kept rising until 1933.", "right": "It fell from 37.3% (July 1932) to 33.1% (November 1932)." },
+      { "wrong": "Only the unemployed voted Nazi.", "right": "Many unemployed voted KPD; Nazi support was strongest among the Protestant middle classes and rural voters." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "What did the Munich Putsch teach Hitler?", "options": ["To rely on the Bavarian leaders", "That power would have to be won legally", "To abandon anti-Semitism", "To join the DNVP"], "answer": 1, "why": "After 1924 he followed the 'legal path'." },
+      { "id": "m2", "s": "s2", "q": "What did the Bamberg Conference (1926) settle?", "options": ["Hitler's control over the party and programme", "A coalition with the DNVP", "The creation of the Gestapo", "The Young Plan"], "answer": 0, "why": "Hitler defeated Strasser's northern wing and established the leader principle." },
+      { "id": "m3", "s": "s2", "q": "What share of the vote did the Nazis win in May 1928?", "options": ["2.6%", "18.3%", "33.1%", "37.3%"], "answer": 0, "why": "12 seats — a poor result in stable times." },
+      { "id": "m4", "s": "s3", "q": "Why was the campaign against the Young Plan important for the Nazis?", "options": ["The referendum succeeded", "It gave them national publicity through Hugenberg's media", "It ended reparations", "It made Hitler Chancellor"], "answer": 1, "why": "The referendum failed but the publicity and respectability mattered." },
+      { "id": "m5", "s": "s3", "q": "How did Brüning govern?", "options": ["Through a Reichstag majority", "Mainly through Article 48 decrees", "Through the SA", "Through the Reichsrat"], "answer": 1, "why": "Presidential government began in 1930." },
+      { "id": "m6", "s": "s3", "q": "Why did the growth of the KPD help the Nazis?", "options": ["The KPD supported Hitler", "It frightened the middle classes and elites", "It ended unemployment", "It weakened the SA"], "answer": 1, "why": "The Nazis posed as the barrier against communism." },
+      { "id": "m7", "s": "s4", "q": "How many Nazis were in Hitler's first cabinet?", "options": ["One", "Three", "Eight", "All"], "answer": 1, "why": "Hitler, Frick and Göring — conservatives thought they could control him." },
+      { "id": "m8", "s": "s4", "q": "Which decree followed the Reichstag Fire?", "options": ["Enabling Act", "Decree for the Protection of the People and the State", "Nuremberg Laws", "Article 231"], "answer": 1, "why": "28 February 1933 — suspended civil liberties." },
+      { "id": "m9", "s": "s4", "q": "Who persuaded Hindenburg to appoint Hitler in January 1933?", "options": ["Brüning", "Papen", "Strasser", "Stresemann"], "answer": 1, "why": "Papen expected to control Hitler as Vice-Chancellor." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s1", "q": "Who founded the German Workers' Party in 1919?", "accept": ["drexler", "anton drexler"], "answer": "Anton Drexler" },
+      { "id": "a2", "s": "s2", "q": "What book did Hitler write in Landsberg prison?", "accept": ["mein kampf", "my struggle"], "answer": "Mein Kampf" },
+      { "id": "a3", "s": "s3", "q": "What was the peak of unemployment, in millions, in January 1932?", "accept": ["6.1", "6.1 million", "6 million", "six million"], "answer": "6.1 million" },
+      { "id": "a4", "s": "s3", "q": "How many seats did the Nazis win in July 1932?", "accept": ["230"], "answer": "230" },
+      { "id": "a5", "s": "s4", "q": "Who became Chancellor in December 1932?", "accept": ["schleicher", "von schleicher", "kurt von schleicher"], "answer": "Kurt von Schleicher" },
+      { "id": "a6", "s": "s4", "q": "Who was blamed for the Reichstag Fire?", "accept": ["van der lubbe", "marinus van der lubbe", "lubbe"], "answer": "Marinus van der Lubbe" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put the chancellors of 1930–33 in order", "items": ["Brüning", "Papen", "Schleicher", "Hitler"] },
+      { "id": "c2", "title": "Put these events in order", "items": ["25-point programme", "Munich Putsch", "Bamberg Conference", "Young Plan campaign", "Nazis become largest party", "Hitler appointed Chancellor", "Reichstag Fire"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the election to the Nazi result", "pairs": [["May 1928", "2.6%, 12 seats"], ["September 1930", "18.3%, 107 seats"], ["July 1932", "37.3%, 230 seats"], ["November 1932", "33.1%, 196 seats"], ["March 1933", "43.9%, 288 seats"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s3", "q": "Give precise evidence of the impact of the Depression on Germany.", "keywords": [["6.1", "6 million", "unemploy", "loans", "output", "brüning", "bruning", "deflation"]], "model": "US loans were recalled after October 1929, industrial output collapsed and unemployment reached 6.1 million by January 1932." },
+      { "id": "e2", "s": "s4", "q": "Give precise evidence that Hitler's appointment depended on the elites.", "keywords": [["papen", "hindenburg", "three", "schleicher", "cabinet", "intrigue"]], "model": "Papen persuaded Hindenburg in January 1933 that Hitler could be controlled in a cabinet with only three Nazis; Schleicher's attempt to split the party had failed." },
+      { "id": "e3", "s": "s4", "q": "Give precise evidence that the Nazis used state power before the March 1933 election.", "keywords": [["auxiliary", "göring", "goring", "decree", "28 february", "reichstag fire", "industrialist", "20 february"]], "model": "Göring made SA and SS men auxiliary police; the Reichstag Fire Decree of 28 February suspended civil liberties; industrialists funded the campaign on 20 February." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Name three ideas in the 25-point programme.", "a": "Overturn Versailles; union of all Germans; anti-Semitic citizenship rules; land for expansion; some anti-capitalist demands.", "hint": "Versailles, race, land." },
+    { "id": "f2", "s": "s1", "q": "Why did the Munich Putsch fail?", "a": "The Bavarian leaders Kahr, Lossow and Seisser turned against Hitler; poor planning; police fired on the march.", "hint": "Who let him down?" },
+    { "id": "f3", "s": "s2", "q": "How did Hitler benefit from his trial in 1924?", "a": "National publicity; a lenient sentence served for about nine months; time to write Mein Kampf.", "hint": "Publicity." },
+    { "id": "f4", "s": "s2", "q": "Why did the Nazis do badly in 1924–28?", "a": "Economic stability and the success of Stresemann's policies reduced the appeal of extremists.", "hint": "Golden Years." },
+    { "id": "f5", "s": "s3", "q": "What were Brüning's economic policies and their effect?", "a": "Deflation — spending and wage cuts — which deepened unemployment and earned him the name 'hunger chancellor'.", "hint": "Cuts." },
+    { "id": "f6", "s": "s3", "q": "Give three Nazi methods of winning support 1930–32.", "a": "Goebbels's propaganda; mass rallies and Hitler's flights; targeted messages to groups; SA marches and intimidation.", "hint": "Propaganda + violence." },
+    { "id": "f7", "s": "s3", "q": "Which groups voted Nazi most heavily?", "a": "Protestant, rural and middle-class Germans; but support came from across society.", "hint": "Not mainly the unemployed." },
+    { "id": "f8", "s": "s4", "q": "What was Schleicher's plan in December 1932?", "a": "To split the Nazis by offering Gregor Strasser a post and win union support — it failed.", "hint": "Split the party." },
+    { "id": "f9", "s": "s4", "q": "Why did Hindenburg finally appoint Hitler?", "a": "Persuaded by Papen and his advisers that a cabinet with only three Nazis could control him, and to end the political deadlock.", "hint": "Backstairs intrigue." },
+    { "id": "f10", "s": "s4", "q": "What happened on 3 and 20 February 1933?", "a": "3 Feb: Hitler reassured army leaders. 20 Feb: industrialists pledged money for the Nazi election campaign.", "hint": "Army; big business." },
+    { "id": "f11", "s": "s4", "q": "Why did the March 1933 election show the limits of Nazi support?", "a": "Even with terror and propaganda the Nazis won 43.9% — not a majority without the DNVP.", "hint": "Under 50%." },
+    { "id": "f12", "s": "s1", "q": "What was Röhm's role?", "a": "Built the SA into a paramilitary force using his army and Freikorps contacts.", "hint": "The SA." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "explain", "text": "I can explain the origins and growth of the NSDAP to 1923, including the 25-point programme and the SA.", "sections": ["s1"] },
+    { "id": "k2", "level": "judge", "text": "I can assess the significance of the Munich Putsch and Hitler's trial.", "sections": ["s1", "s2"] },
+    { "id": "k3", "level": "explain", "text": "I can explain the significance of Bamberg 1926 and the party's reorganisation.", "sections": ["s2"] },
+    { "id": "k4", "level": "explain", "text": "I can explain how the Depression and the Young Plan campaign helped the Nazis.", "sections": ["s3"] },
+    { "id": "k5", "level": "judge", "text": "I can judge the reasons for Nazi electoral success 1930–32, including the role of the Communists.", "sections": ["s3"] },
+    { "id": "k6", "level": "judge", "text": "I can reach a judgement on why Hitler was appointed Chancellor in January 1933.", "sections": ["s4"] },
+    { "id": "k7", "level": "describe", "text": "I can describe the events of February–March 1933 with precise dates.", "sections": ["s4"] }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1", "qtype": "u1", "label": "Teacher-created practice question", "sections": ["s4", "s3"],
+        "q": "Historians differ in their judgements about why Hitler became Chancellor in January 1933.\n‘Hitler became Chancellor in January 1933 mainly because of the political intrigue of the conservative elites.’\nAssess this view using your own knowledge of the issue.",
+        "model": [
+          { "t": "In line with my judgement, the intrigue of the conservative elites was the decisive reason. In November 1932 the Nazi vote had fallen to 33.1 per cent and the party was short of money; it was Papen's meeting with Hitler in January 1933 and his persuasion of Hindenburg that turned a declining movement into a government.", "n": "Most important factor: point linked to the judgement + precise evidence (statistic, people, date)." },
+          { "t": "A dissenting view might point to the 37.3 per cent won in July 1932, arguing that without mass support no conservative would have considered Hitler at all.", "n": "Dissenting view — the strongest counter-argument." },
+          { "t": "On the balance however, mass support gave Hitler a claim to power but not power itself: Hindenburg refused him the chancellorship in August 1932 despite that result. Judged by effectiveness, only the elites could make the appointment. Thus we must assert that intrigue was the most important reason.", "n": "Why it still wins + criterion + sustained judgement." }
+        ],
+        "model_note": "Teacher-written model extract using the department factor-question frame."
+      },
+      {
+        "id": "q2", "qtype": "u1", "label": "Teacher-created practice question", "sections": ["s3"],
+        "q": "Historians differ in their judgements about the reasons for Nazi electoral success in the years 1930–32.\n‘The main reason for Nazi electoral success in the years 1930–32 was the impact of the economic depression.’\nAssess this view using your own knowledge of the issue."
+      }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Competing arguments", "task": "'Hitler was jobbed into power.' Explain what this phrase means and assess it against the view that he was carried to power by popular support." },
+    { "id": "t2", "kind": "Counterfactual", "task": "If Schleicher had succeeded in splitting the party in December 1932, could the Nazis have recovered? Use the November 1932 results and party finances." },
+    { "id": "t3", "kind": "Causal links", "task": "Link the Depression, Brüning's deflation, presidential government and the rise of both extremes into one explanation." }
+  ]
+}

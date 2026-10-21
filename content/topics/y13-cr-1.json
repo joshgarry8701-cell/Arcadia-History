@@ -1,0 +1,141 @@
+{
+  "id": "y13-cr-1", "course": "y13", "area": "cr", "kt": "Key topic 1", "order": 1,
+  "title": "'Free at last', 1865–77",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following IAL Unit 3 Option 1D key topic 1 (specification Issue 6)." },
+  "learn": {
+    "intro": "Emancipation freed about four million people. Reconstruction brought citizenship, the vote and black officeholders — and then a violent backlash and the federal government's retreat in 1877. Section B questions often compare this period with 1883–c1900 or 1933–45.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. The Thirteenth Amendment and the realities of freedom",
+        "blocks": [
+          { "p": "The Thirteenth Amendment (ratified December 1865) abolished slavery throughout the United States, except as punishment for a crime. About four million people were freed." },
+          { "p": "Economic position: freedpeople wanted land. General Sherman's Field Order No. 15 (January 1865) set aside coastal land in South Carolina and Georgia for black families, but President Andrew Johnson restored most confiscated land to former owners in 1865. Without land or capital, most freedpeople became wage labourers or sharecroppers — farming a landowner's land for a share of the crop — and the crop-lien system tied them to debt with local merchants." },
+          { "p": "Freedom of movement mattered enormously: people travelled to find family members separated by sale, moved to towns, and left plantations. Black churches became independent centres of community life." },
+          { "p": "Education: the Freedmen's Bureau (March 1865), northern missionary societies and black communities themselves set up schools; colleges such as Fisk (1866) and Howard (1867) were founded. Literacy was valued as a mark of freedom. White Southerners often met these changes with hostility and violence." }
+        ],
+        "terms": ["Thirteenth Amendment", "Freedmen's Bureau", "sharecropping", "crop-lien system", "freedpeople"],
+        "evidence": ["December 1865: Thirteenth Amendment ratified.", "About 4 million people freed.", "March 1865: Freedmen's Bureau created.", "Fisk (1866) and Howard (1867) universities founded."]
+      },
+      {
+        "id": "s2", "title": "2. Johnson's response and the political settlement",
+        "blocks": [
+          { "p": "Andrew Johnson, a Southern Democrat who became President after Lincoln's assassination in April 1865, offered lenient terms: pardons for most Confederates, and readmission once states abolished slavery and renounced secession. He showed no interest in black political rights." },
+          { "p": "Southern legislatures passed Black Codes (1865–66) — for example in Mississippi and South Carolina — controlling black workers through vagrancy laws, annual labour contracts and restrictions on property and movement. Johnson vetoed the renewal of the Freedmen's Bureau and the Civil Rights Act of 1866; Congress overrode him. Riots in Memphis and New Orleans in 1866 killed dozens of black people and turned northern opinion towards the Radical Republicans in the 1866 elections." }
+        ],
+        "terms": ["Presidential Reconstruction", "Black Codes", "Radical Republicans", "veto"],
+        "evidence": ["April 1865: Johnson becomes President.", "1865–66: Black Codes.", "1866: Civil Rights Act passed over Johnson's veto.", "1866: Memphis and New Orleans riots."]
+      },
+      {
+        "id": "s3", "title": "3. Radical Reconstruction, 1867–77",
+        "blocks": [
+          { "p": "The Reconstruction Acts (1867) divided ten southern states into five military districts and required them to write new constitutions with black male suffrage and to ratify the Fourteenth Amendment before readmission. Johnson's opposition led to his impeachment (1868); he was acquitted by one vote." },
+          { "p": "The Fourteenth Amendment (1868) made all people born in the USA citizens and promised 'equal protection of the laws'. The Fifteenth Amendment (1870) banned denying the vote on grounds of 'race, color, or previous condition of servitude'. The Enforcement Acts (1870–71), including the Ku Klux Klan Act, let President Grant use federal force; in 1871 he suspended habeas corpus in parts of South Carolina. The Civil Rights Act of 1875 banned discrimination in public accommodations." },
+          { "p": "Black Americans held office in large numbers for the first time: Hiram Revels (1870) and Blanche K. Bruce (1875) of Mississippi sat in the US Senate, black representatives sat in Congress, and hundreds served in state legislatures. Their presence showed what political rights could achieve — and provoked fierce white resistance." }
+        ],
+        "terms": ["Radical Reconstruction", "Fourteenth Amendment", "Fifteenth Amendment", "Enforcement Acts", "Civil Rights Act 1875"],
+        "evidence": ["1867: Reconstruction Acts — five military districts.", "1868: Fourteenth Amendment.", "1870: Fifteenth Amendment; Hiram Revels enters the Senate.", "1871: Ku Klux Klan Act.", "1875: Civil Rights Act."]
+      },
+      {
+        "id": "s4", "title": "4. The backlash and the end of Reconstruction",
+        "blocks": [
+          { "p": "The Ku Klux Klan, founded in Tennessee in 1865–66, used terror against black voters, officeholders, teachers and their white allies. After the Enforcement Acts weakened the Klan, paramilitary groups such as the White League in Louisiana (1874) and the Red Shirts acted openly. At Colfax, Louisiana (April 1873), dozens of black men were massacred after a disputed election." },
+          { "p": "Northern commitment faded: the economic depression after the Panic of 1873, corruption scandals and racism made voters tired of Reconstruction. The Supreme Court narrowed federal protection in the Slaughterhouse Cases (1873) and US v Cruikshank (1876). Democrats 'redeemed' one southern state after another, using violence and fraud, as in the 'Mississippi Plan' of 1875." },
+          { "p": "The disputed presidential election of 1876 was resolved by the Compromise of 1877: Republican Rutherford B. Hayes became President and the last federal troops were withdrawn from the South. Reconstruction ended, leaving the amendments on paper but black rights in the South largely unprotected." }
+        ],
+        "terms": ["Ku Klux Klan", "White League", "Redemption", "Compromise of 1877", "lynching"],
+        "evidence": ["April 1873: Colfax massacre.", "1874: White League formed.", "1876: US v Cruikshank.", "1877: Compromise; federal troops withdrawn."]
+      }
+    ],
+    "timeline": [
+      { "date": "Jan 1865", "event": "Sherman's Field Order No. 15" },
+      { "date": "March 1865", "event": "Freedmen's Bureau created" },
+      { "date": "April 1865", "event": "Lincoln assassinated; Johnson becomes President" },
+      { "date": "Dec 1865", "event": "Thirteenth Amendment ratified" },
+      { "date": "1865–66", "event": "Black Codes passed in southern states" },
+      { "date": "1866", "event": "Civil Rights Act passed over Johnson's veto" },
+      { "date": "1867", "event": "Reconstruction Acts: military districts" },
+      { "date": "1868", "event": "Fourteenth Amendment ratified; Johnson impeached" },
+      { "date": "1870", "event": "Fifteenth Amendment; Hiram Revels first black US Senator" },
+      { "date": "1871", "event": "Ku Klux Klan Act" },
+      { "date": "April 1873", "event": "Colfax massacre" },
+      { "date": "1875", "event": "Civil Rights Act (public accommodations)" },
+      { "date": "1877", "event": "Compromise of 1877; end of Reconstruction" }
+    ],
+    "people": [
+      { "name": "Andrew Johnson", "role": "President 1865–69; lenient Presidential Reconstruction; impeached 1868." },
+      { "name": "Ulysses S. Grant", "role": "President 1869–77; enforced the Klan Act." },
+      { "name": "Thaddeus Stevens and Charles Sumner", "role": "Leading Radical Republicans in Congress." },
+      { "name": "Hiram Revels", "role": "First black US Senator (Mississippi, 1870)." },
+      { "name": "Blanche K. Bruce", "role": "Black US Senator for Mississippi from 1875." },
+      { "name": "Rutherford B. Hayes", "role": "President from 1877; withdrew federal troops." }
+    ],
+    "vocab": [
+      { "term": "Reconstruction", "def": "Rebuilding the Union and defining freedpeople's rights, 1865–77." },
+      { "term": "Black Codes", "def": "Southern laws of 1865–66 controlling black labour and movement." },
+      { "term": "Sharecropping", "def": "Farming land for a share of the crop, often trapping families in debt." },
+      { "term": "Redemption", "def": "White Democrats regaining control of southern states." },
+      { "term": "Habeas corpus", "def": "The right not to be held without trial; suspended by Grant in parts of South Carolina." }
+    ],
+    "misconceptions": [
+      { "wrong": "Freedpeople received '40 acres and a mule'.", "right": "A small number briefly received land under Sherman's order, but Johnson returned most of it to former owners." },
+      { "wrong": "Reconstruction achieved nothing.", "right": "It produced lasting constitutional amendments, black schools and churches, and hundreds of black officeholders — even though protection collapsed after 1877." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "What did the Thirteenth Amendment do?", "options": ["Gave black men the vote", "Abolished slavery", "Made freedpeople citizens", "Banned segregation"], "answer": 1, "why": "Ratified December 1865." },
+      { "id": "m2", "s": "s1", "q": "Why did most freedpeople become sharecroppers?", "options": ["They preferred it", "Johnson returned confiscated land to former owners, leaving them without land", "The Freedmen's Bureau required it", "The Fifteenth Amendment required it"], "answer": 1, "why": "Without land or capital there were few alternatives." },
+      { "id": "m3", "s": "s2", "q": "What were the Black Codes?", "options": ["Federal civil rights laws", "Southern laws controlling black workers' labour and movement", "Klan rules", "Union army orders"], "answer": 1, "why": "Passed 1865–66 under Presidential Reconstruction." },
+      { "id": "m4", "s": "s3", "q": "What did the Reconstruction Acts of 1867 do?", "options": ["Withdrew troops", "Divided the South into five military districts", "Ended the Freedmen's Bureau", "Created the KKK"], "answer": 1, "why": "Readmission required black male suffrage and ratifying the Fourteenth Amendment." },
+      { "id": "m5", "s": "s3", "q": "Which amendment promised 'equal protection of the laws'?", "options": ["Thirteenth", "Fourteenth", "Fifteenth", "First"], "answer": 1, "why": "Ratified 1868." },
+      { "id": "m6", "s": "s4", "q": "What happened at Colfax in 1873?", "options": ["A black convention", "A massacre of black men after a disputed election", "A Supreme Court case", "The end of Reconstruction"], "answer": 1, "why": "One of the bloodiest episodes of Reconstruction violence." },
+      { "id": "m7", "s": "s4", "q": "What did the Compromise of 1877 involve?", "options": ["Hayes became President and federal troops left the South", "The Fifteenth Amendment", "Johnson's impeachment", "The Civil Rights Act"], "answer": 0, "why": "It ended Reconstruction." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s3", "q": "Who was the first black US Senator?", "accept": ["revels", "hiram revels", "hiram rhodes revels"], "answer": "Hiram Revels" },
+      { "id": "a2", "s": "s3", "q": "In what year was the Fifteenth Amendment ratified?", "accept": ["1870"], "answer": "1870" },
+      { "id": "a3", "s": "s2", "q": "Which President was impeached in 1868?", "accept": ["johnson", "andrew johnson"], "answer": "Andrew Johnson" },
+      { "id": "a4", "s": "s4", "q": "Which Louisiana paramilitary group formed in 1874?", "accept": ["white league", "the white league"], "answer": "The White League" },
+      { "id": "a5", "s": "s1", "q": "Which federal agency set up schools for freedpeople from 1865?", "accept": ["freedmens bureau", "freedmen's bureau", "the freedmens bureau", "freedmen bureau"], "answer": "The Freedmen's Bureau" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Thirteenth Amendment", "Black Codes", "Reconstruction Acts", "Fourteenth Amendment", "Fifteenth Amendment", "Civil Rights Act 1875", "Compromise of 1877"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the measure to what it did", "pairs": [["Thirteenth Amendment", "Abolished slavery"], ["Fourteenth Amendment", "Citizenship and equal protection"], ["Fifteenth Amendment", "Banned racial bars to voting"], ["Klan Act 1871", "Federal force against Klan violence"], ["Civil Rights Act 1875", "Equal access to public accommodations"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s3", "q": "Give precise evidence of black political gains in Reconstruction.", "keywords": [["revels", "bruce", "senat", "legislature", "fifteenth", "1870", "office"]], "model": "Hiram Revels (1870) and Blanche K. Bruce (1875) sat in the US Senate; black representatives sat in Congress and hundreds in state legislatures, after the Fifteenth Amendment (1870)." },
+      { "id": "e2", "s": "s4", "q": "Give precise evidence of the federal retreat from Reconstruction.", "keywords": [["1877", "hayes", "troops", "cruikshank", "slaughterhouse", "1873"]], "model": "The Slaughterhouse Cases (1873) and US v Cruikshank (1876) narrowed federal protection; the Compromise of 1877 withdrew the last federal troops." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "How did the economic position of ex-slaves change after 1865?", "a": "Free but landless: most became wage labourers or sharecroppers, often trapped in debt by the crop-lien system.", "hint": "Free but poor." },
+    { "id": "f2", "s": "s1", "q": "Give two social opportunities of freedom.", "a": "Reuniting families; independent black churches; schools and colleges; freedom to move.", "hint": "Family, church, school." },
+    { "id": "f3", "s": "s2", "q": "Why did Johnson's policies anger Radical Republicans?", "a": "Lenient pardons, no black rights, tolerance of Black Codes, vetoes of the Freedmen's Bureau and Civil Rights Act 1866.", "hint": "Veto." },
+    { "id": "f4", "s": "s3", "q": "What was the significance of black officeholders in Reconstruction?", "a": "Proved black political participation was possible and effective; provoked violent white backlash.", "hint": "Revels, Bruce." },
+    { "id": "f5", "s": "s3", "q": "How did Grant fight the Klan?", "a": "Enforcement Acts and the Klan Act (1871); suspended habeas corpus in parts of South Carolina; federal prosecutions.", "hint": "1871." },
+    { "id": "f6", "s": "s4", "q": "Give three reasons Reconstruction ended.", "a": "White violence (Klan, White League); northern fatigue after the Panic of 1873; Supreme Court rulings; Compromise of 1877.", "hint": "Violence, North, Court." },
+    { "id": "f7", "s": "s4", "q": "What was 'Redemption'?", "a": "White Democrats regaining control of southern states, often by violence and fraud.", "hint": "Democrats." },
+    { "id": "f8", "s": "s3", "q": "What did the Civil Rights Act of 1875 promise?", "a": "Equal access to inns, public transport and theatres — struck down by the Supreme Court in 1883.", "hint": "Public accommodations." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "explain", "text": "I can explain the reasons for, and impact of, the Thirteenth Amendment, including sharecropping.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain the social and educational opportunities of freedom and the tensions they caused.", "sections": ["s1"] },
+    { "id": "k3", "level": "judge", "text": "I can assess Johnson's response and the need for a political settlement.", "sections": ["s2"] },
+    { "id": "k4", "level": "judge", "text": "I can assess the significance of the Fourteenth and Fifteenth Amendments, the 1875 Act and black officeholders.", "sections": ["s3"] },
+    { "id": "k5", "level": "judge", "text": "I can judge the impact of the Klan, the White League and Democrat 'Redemption' on the end of Reconstruction.", "sections": ["s4"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "u3b", "label": "Teacher-created practice question", "sections": ["s3", "s4"],
+        "q": "‘The actions of the federal government were the main reason for the advancement of black civil rights in the years 1865–77 and 1954–68.’\nHow far do you agree with this statement?" }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Competing arguments", "task": "'Reconstruction was a splendid failure.' Argue for and against this phrase using political, economic and educational evidence." },
+    { "id": "t2", "kind": "Causal links", "task": "How did economic dependence (sharecropping) make political rights harder to defend after 1870?" },
+    { "id": "t3", "kind": "Relative significance", "task": "Which ended Reconstruction more: southern violence or northern indifference? Use duration and impact." }
+  ]
+}

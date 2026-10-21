@@ -14,17 +14,31 @@
         "id": "s1",
         "title": "1. The succession crisis",
         "blocks": [
-          { "p": "Edward the Confessor died on 5 January 1066 without any children. In Anglo-Saxon England there was no fixed rule that the eldest son, or nearest relative, automatically became king. The dying king's wishes, family links, power and the support of the Witan (the council of leading nobles and churchmen) all mattered." },
-          { "p": "Four men had a claim to the throne:" },
-          { "ul": [
-            "Harold Godwinson — Earl of Wessex, the richest and most powerful noble in England, and Edward's brother-in-law. English sources say Edward named Harold as his successor on his deathbed. The Witan supported him.",
-            "William, Duke of Normandy — Edward's cousin (once removed). Norman writers claimed Edward had promised him the throne years earlier, and that Harold had sworn an oath to support William while visiting Normandy around 1064.",
-            "Harald Hardrada — King of Norway and a famous warrior. His claim came from an earlier agreement between King Magnus of Norway and King Harthacnut of England.",
-            "Edgar Ætheling — Edward's great-nephew and the closest blood relative, but a teenager with no army or powerful supporters."
-          ] },
-          { "p": "Harold was crowned on 6 January 1066, the day after Edward died. Speed mattered: it made Harold king before anyone else could act — but it also gave William a reason to say Harold had broken his oath." }
+          {
+            "p": "Edward the Confessor died on 5 January 1066 without any children. In Anglo-Saxon England there was no fixed rule that the eldest son, or nearest relative, automatically became king. The dying king's wishes, family links, power and the support of the Witan (the council of leading nobles and churchmen) all mattered."
+          },
+          {
+            "p": "Four men had a claim to the throne:"
+          },
+          {
+            "ul": [
+              "Harold Godwinson — Earl of Wessex, the richest and most powerful noble in England, and Edward's brother-in-law. English sources say Edward named Harold as his successor on his deathbed. The Witan supported him.",
+              "William, Duke of Normandy — Edward's cousin (once removed). Norman writers claimed Edward had promised him the throne years earlier, and that Harold had sworn an oath to support William while visiting Normandy around 1064.",
+              "Harald Hardrada — King of Norway and a famous warrior. His claim came from an earlier agreement between King Magnus of Norway and King Harthacnut of England.",
+              "Edgar Ætheling — Edward's great-nephew and the closest blood relative, but a teenager with no army or powerful supporters."
+            ]
+          },
+          {
+            "p": "Harold was crowned on 6 January 1066, the day after Edward died. Speed mattered: it made Harold king before anyone else could act — but it also gave William a reason to say Harold had broken his oath."
+          }
         ],
-        "terms": ["succession", "claimant", "Witan", "oath", "earl"],
+        "terms": [
+          "succession",
+          "claimant",
+          "Witan",
+          "oath",
+          "earl"
+        ],
         "evidence": [
           "Edward died 5 January 1066; Harold crowned 6 January 1066.",
           "The Witan backed Harold.",
@@ -35,12 +49,25 @@
         "id": "s2",
         "title": "2. The Viking invasion and Stamford Bridge",
         "blocks": [
-          { "p": "Harold expected William to invade from the south, so he kept an army waiting on the south coast through the summer of 1066. By early September food was running out and men were needed for the harvest, so the army was sent home." },
-          { "p": "Then the danger came from the north. Harald Hardrada landed in Yorkshire with a large fleet, joined by Tostig — Harold's own brother, who had been exiled in 1065. On 20 September they defeated the northern earls Edwin and Morcar at the Battle of Fulford, and York surrendered." },
-          { "p": "Harold marched north at great speed, covering around 185 miles in a few days. On 25 September he surprised the Norwegians at Stamford Bridge. Hardrada and Tostig were both killed. The Anglo-Saxon Chronicle records that only a small part of the invading fleet was needed to carry the survivors home." },
-          { "p": "It was a crushing victory — but Harold's army had lost men and was exhausted, and it was about 250 miles from the south coast." }
+          {
+            "p": "Harold expected William to invade from the south, so he kept an army waiting on the south coast through the summer of 1066. By early September food was running out and men were needed for the harvest, so the army was sent home."
+          },
+          {
+            "p": "Then the danger came from the north. Harald Hardrada landed in Yorkshire with a large fleet, joined by Tostig — Harold's own brother, who had been exiled in 1065. On 20 September they defeated the northern earls Edwin and Morcar at the Battle of Fulford, and York surrendered."
+          },
+          {
+            "p": "Harold marched north at great speed, covering around 185 miles in a few days. On 25 September he surprised the Norwegians at Stamford Bridge. Hardrada and Tostig were both killed. The Anglo-Saxon Chronicle records that only a small part of the invading fleet was needed to carry the survivors home."
+          },
+          {
+            "p": "It was a crushing victory — but Harold's army had lost men and was exhausted, and it was about 250 miles from the south coast."
+          }
         ],
-        "terms": ["fleet", "exile", "Battle of Fulford", "Battle of Stamford Bridge"],
+        "terms": [
+          "fleet",
+          "exile",
+          "Battle of Fulford",
+          "Battle of Stamford Bridge"
+        ],
         "evidence": [
           "Fulford: 20 September 1066 — Edwin and Morcar defeated.",
           "Stamford Bridge: 25 September 1066 — Hardrada and Tostig killed.",
@@ -51,12 +78,25 @@
         "id": "s3",
         "title": "3. William prepares and lands",
         "blocks": [
-          { "p": "William spent the spring and summer of 1066 preparing. He gathered soldiers from Normandy and neighbouring lands such as Brittany and Flanders, had a large fleet built and planned to ship horses across the Channel for his knights." },
-          { "p": "He also gained support from Pope Alexander II, who sent a papal banner. This allowed William to present the invasion as a just cause, which helped persuade men to join him." },
-          { "p": "For weeks the wind blew the wrong way and William's fleet could not sail. When the wind changed, he crossed quickly. He landed at Pevensey on 28 September 1066 — three days after Stamford Bridge, while Harold was still in the north. The south coast was undefended." },
-          { "p": "William moved to Hastings, built a wooden fort and let his men raid the surrounding countryside. Sussex was Harold's own family land, so this put pressure on Harold to come and fight quickly." }
+          {
+            "p": "William spent the spring and summer of 1066 preparing. He gathered soldiers from Normandy and neighbouring lands such as Brittany and Flanders, had a large fleet built and planned to ship horses across the Channel for his knights."
+          },
+          {
+            "p": "He also gained support from Pope Alexander II, who sent a papal banner. This allowed William to present the invasion as a just cause, which helped persuade men to join him."
+          },
+          {
+            "p": "For weeks the wind blew the wrong way and William's fleet could not sail. When the wind changed, he crossed quickly. He landed at Pevensey on 28 September 1066 — three days after Stamford Bridge, while Harold was still in the north. The south coast was undefended."
+          },
+          {
+            "p": "William moved to Hastings, built a wooden fort and let his men raid the surrounding countryside. Sussex was Harold's own family land, so this put pressure on Harold to come and fight quickly."
+          }
         ],
-        "terms": ["papal banner", "knight", "cavalry", "invasion"],
+        "terms": [
+          "papal banner",
+          "knight",
+          "cavalry",
+          "invasion"
+        ],
         "evidence": [
           "William landed at Pevensey on 28 September 1066.",
           "Pope Alexander II sent a papal banner.",
@@ -67,17 +107,35 @@
         "id": "s4",
         "title": "4. The battle: 14 October 1066",
         "blocks": [
-          { "p": "Harold hurried south, stopping in London to gather more men, and reached the Hastings area on 13 October. He did not wait for all the troops who might have joined him. The battle took place on 14 October on a ridge about seven miles from Hastings, where the town of Battle now stands." },
-          { "p": "The armies were probably roughly the same size — historians' estimates are usually somewhere between 5,000 and 8,000 men each, but nobody knows for certain." },
-          { "ul": [
-            "The English fought on foot at the top of the ridge in a shield wall. At its heart were the housecarls — professional, well-trained soldiers, many armed with long two-handed axes. With them stood the fyrd: part-time soldiers called up from the shires, often less well equipped.",
-            "The Normans had three types of soldier: archers, foot soldiers and mounted knights. William's army was split into three divisions: Bretons on the left, Normans in the centre and French and Flemish soldiers on the right."
-          ] },
-          { "p": "The fighting lasted most of the day. Early attacks uphill failed against the shield wall. When the Bretons fell back, some English soldiers broke ranks to chase them down the hill and were cut off and killed. A rumour spread that William was dead; according to Norman accounts he lifted his helmet so his men could see him — the Bayeux Tapestry shows this moment." },
-          { "p": "Norman writers say William then used feigned retreats: pretending to flee to draw more English soldiers out of the shield wall. Historians still debate whether these were deliberately planned or exaggerated later." },
-          { "p": "Late in the day Harold was killed, along with his brothers Gyrth and Leofwine. Without their leaders, the English line broke." }
+          {
+            "p": "Harold hurried south, stopping in London to gather more men, and reached the Hastings area on 13 October. He did not wait for all the troops who might have joined him. The battle took place on 14 October on a ridge about seven miles from Hastings, where the town of Battle now stands."
+          },
+          {
+            "p": "The armies were probably roughly the same size — historians' estimates are usually somewhere between 5,000 and 8,000 men each, but nobody knows for certain."
+          },
+          {
+            "ul": [
+              "The English fought on foot at the top of the ridge in a shield wall. At its heart were the housecarls — professional, well-trained soldiers, many armed with long two-handed axes. With them stood the fyrd: part-time soldiers called up from the shires, often less well equipped.",
+              "The Normans had three types of soldier: archers, foot soldiers and mounted knights. William's army was split into three divisions: Bretons on the left, Normans in the centre and French and Flemish soldiers on the right."
+            ]
+          },
+          {
+            "p": "The fighting lasted most of the day. Early attacks uphill failed against the shield wall. When the Bretons fell back, some English soldiers broke ranks to chase them down the hill and were cut off and killed. A rumour spread that William was dead; according to Norman accounts he lifted his helmet so his men could see him — the Bayeux Tapestry shows this moment."
+          },
+          {
+            "p": "Norman writers say William then used feigned retreats: pretending to flee to draw more English soldiers out of the shield wall. Historians still debate whether these were deliberately planned or exaggerated later."
+          },
+          {
+            "p": "Late in the day Harold was killed, along with his brothers Gyrth and Leofwine. Without their leaders, the English line broke."
+          }
         ],
-        "terms": ["shield wall", "housecarl", "fyrd", "feigned retreat", "Senlac"],
+        "terms": [
+          "shield wall",
+          "housecarl",
+          "fyrd",
+          "feigned retreat",
+          "Senlac"
+        ],
         "evidence": [
           "Battle of Hastings: 14 October 1066, lasted most of the day.",
           "Harold's brothers Gyrth and Leofwine were also killed.",
@@ -88,17 +146,28 @@
         "id": "s5",
         "title": "5. Explaining William's victory",
         "blocks": [
-          { "p": "Historians group the reasons for William's victory into factors. Your job is not just to list them but to show how they link together and decide which mattered most." },
-          { "ul": [
-            "William's leadership and preparation — a well-organised invasion force, ships, horses, papal support, and calm leadership during the battle (showing his face when rumours spread).",
-            "Norman army and tactics — a mix of archers, infantry and cavalry that could attack in different ways; possibly feigned retreats.",
-            "Harold's decisions — fighting quickly instead of waiting for more troops; possibly reacting to the raids on his lands.",
-            "English weaknesses — tired troops after Stamford Bridge; parts of the fyrd breaking the shield wall to chase the enemy.",
-            "Luck — the wind delaying William until Harold was in the north; Hardrada invading first; Harold being killed at a key moment."
-          ] },
-          { "p": "Factors interact. For example, Hardrada's invasion was luck for William, but it only helped because Harold then rushed back south (a decision) with exhausted men (a weakness)." }
+          {
+            "p": "Historians group the reasons for William's victory into factors. Your job is not just to list them but to show how they link together and decide which mattered most."
+          },
+          {
+            "ul": [
+              "William's leadership and preparation — a well-organised invasion force, ships, horses, papal support, and calm leadership during the battle (showing his face when rumours spread).",
+              "Norman army and tactics — a mix of archers, infantry and cavalry that could attack in different ways; possibly feigned retreats.",
+              "Harold's decisions — fighting quickly instead of waiting for more troops; possibly reacting to the raids on his lands.",
+              "English weaknesses — tired troops after Stamford Bridge; parts of the fyrd breaking the shield wall to chase the enemy.",
+              "Luck — the wind delaying William until Harold was in the north; Hardrada invading first; Harold being killed at a key moment."
+            ]
+          },
+          {
+            "p": "Factors interact. For example, Hardrada's invasion was luck for William, but it only helped because Harold then rushed back south (a decision) with exhausted men (a weakness)."
+          }
         ],
-        "terms": ["factor", "significance", "judgement", "interaction"],
+        "terms": [
+          "factor",
+          "significance",
+          "judgement",
+          "interaction"
+        ],
         "evidence": [
           "Three-day gap: Stamford Bridge (25 Sept) and William's landing (28 Sept).",
           "English broke ranks to chase retreating Bretons.",
@@ -109,10 +178,20 @@
         "id": "s6",
         "title": "6. How do we know? The sources",
         "blocks": [
-          { "p": "Almost everything we know about 1066 comes from a small number of sources, most written by or for the winners. Always ask: who made it, when, and why?" },
-          { "sources": true }
+          {
+            "p": "Almost everything we know about 1066 comes from a small number of sources, most written by or for the winners. Always ask: who made it, when, and why?"
+          },
+          {
+            "sources": true
+          }
         ],
-        "terms": ["source", "provenance", "bias", "chronicle", "reliability"],
+        "terms": [
+          "source",
+          "provenance",
+          "bias",
+          "chronicle",
+          "reliability"
+        ],
         "evidence": [
           "The Bayeux Tapestry was probably made in the 1070s, likely for Bishop Odo, William's half-brother.",
           "William of Poitiers was William's chaplain."
@@ -122,171 +201,989 @@
         "id": "s7",
         "title": "7. After the battle",
         "blocks": [
-          { "p": "Victory at Hastings did not immediately make William king. In London the Witan chose Edgar Ætheling. William marched around London, burning land as he went, until the English leaders — including Edgar — submitted to him at Berkhamsted." },
-          { "p": "William was crowned in Westminster Abbey on Christmas Day, 25 December 1066. It took years more fighting before the Normans fully controlled England." }
+          {
+            "p": "Victory at Hastings did not immediately make William king. In London the Witan chose Edgar Ætheling. William marched around London, burning land as he went, until the English leaders — including Edgar — submitted to him at Berkhamsted."
+          },
+          {
+            "p": "William was crowned in Westminster Abbey on Christmas Day, 25 December 1066. It took years more fighting before the Normans fully controlled England."
+          }
         ],
-        "terms": ["submit", "coronation"],
-        "evidence": ["William crowned 25 December 1066, Westminster Abbey."]
+        "terms": [
+          "submit",
+          "coronation"
+        ],
+        "evidence": [
+          "William crowned 25 December 1066, Westminster Abbey."
+        ]
       }
     ],
     "timeline": [
-      { "date": "c.1051", "event": "According to Norman writers, Edward promises the throne to William." },
-      { "date": "c.1064", "event": "Harold visits Normandy; Norman sources say he swears an oath to support William." },
-      { "date": "5 Jan 1066", "event": "Edward the Confessor dies without children." },
-      { "date": "6 Jan 1066", "event": "Harold Godwinson crowned king." },
-      { "date": "Apr 1066", "event": "Halley's Comet seen across Europe — later shown as an omen on the Bayeux Tapestry." },
-      { "date": "Summer 1066", "event": "Harold's army guards the south coast; William gathers his fleet." },
-      { "date": "Early Sept 1066", "event": "Harold sends his southern army home as supplies run low." },
-      { "date": "20 Sept 1066", "event": "Battle of Fulford: Hardrada and Tostig defeat Edwin and Morcar." },
-      { "date": "25 Sept 1066", "event": "Battle of Stamford Bridge: Harold defeats and kills Hardrada and Tostig." },
-      { "date": "28 Sept 1066", "event": "William lands at Pevensey." },
-      { "date": "14 Oct 1066", "event": "Battle of Hastings: Harold killed; William wins." },
-      { "date": "25 Dec 1066", "event": "William crowned at Westminster Abbey." }
+      {
+        "date": "c.1051",
+        "event": "According to Norman writers, Edward promises the throne to William."
+      },
+      {
+        "date": "c.1064",
+        "event": "Harold visits Normandy; Norman sources say he swears an oath to support William."
+      },
+      {
+        "date": "5 Jan 1066",
+        "event": "Edward the Confessor dies without children."
+      },
+      {
+        "date": "6 Jan 1066",
+        "event": "Harold Godwinson crowned king."
+      },
+      {
+        "date": "Apr 1066",
+        "event": "Halley's Comet seen across Europe — later shown as an omen on the Bayeux Tapestry."
+      },
+      {
+        "date": "Summer 1066",
+        "event": "Harold's army guards the south coast; William gathers his fleet."
+      },
+      {
+        "date": "Early Sept 1066",
+        "event": "Harold sends his southern army home as supplies run low."
+      },
+      {
+        "date": "20 Sept 1066",
+        "event": "Battle of Fulford: Hardrada and Tostig defeat Edwin and Morcar."
+      },
+      {
+        "date": "25 Sept 1066",
+        "event": "Battle of Stamford Bridge: Harold defeats and kills Hardrada and Tostig."
+      },
+      {
+        "date": "28 Sept 1066",
+        "event": "William lands at Pevensey."
+      },
+      {
+        "date": "14 Oct 1066",
+        "event": "Battle of Hastings: Harold killed; William wins."
+      },
+      {
+        "date": "25 Dec 1066",
+        "event": "William crowned at Westminster Abbey."
+      }
     ],
     "people": [
-      { "name": "Edward the Confessor", "role": "King of England 1042–1066. Died childless, triggering the succession crisis." },
-      { "name": "Harold Godwinson", "role": "Earl of Wessex, crowned January 1066. Won at Stamford Bridge; killed at Hastings." },
-      { "name": "William, Duke of Normandy", "role": "Claimed Edward promised him the throne. Invaded and won at Hastings; crowned Christmas Day 1066." },
-      { "name": "Harald Hardrada", "role": "King of Norway. Invaded the north; killed at Stamford Bridge." },
-      { "name": "Tostig Godwinson", "role": "Harold's exiled brother who joined Hardrada; killed at Stamford Bridge." },
-      { "name": "Edgar Ætheling", "role": "Edward's teenage great-nephew; chosen by the Witan after Hastings but submitted to William." },
-      { "name": "Edwin and Morcar", "role": "Northern earls defeated at Fulford." },
-      { "name": "Bishop Odo of Bayeux", "role": "William's half-brother; probably commissioned the Bayeux Tapestry." },
-      { "name": "Pope Alexander II", "role": "Gave William a papal banner, signalling support for the invasion." }
+      {
+        "name": "Edward the Confessor",
+        "role": "King of England 1042–1066. Died childless, triggering the succession crisis."
+      },
+      {
+        "name": "Harold Godwinson",
+        "role": "Earl of Wessex, crowned January 1066. Won at Stamford Bridge; killed at Hastings."
+      },
+      {
+        "name": "William, Duke of Normandy",
+        "role": "Claimed Edward promised him the throne. Invaded and won at Hastings; crowned Christmas Day 1066."
+      },
+      {
+        "name": "Harald Hardrada",
+        "role": "King of Norway. Invaded the north; killed at Stamford Bridge."
+      },
+      {
+        "name": "Tostig Godwinson",
+        "role": "Harold's exiled brother who joined Hardrada; killed at Stamford Bridge."
+      },
+      {
+        "name": "Edgar Ætheling",
+        "role": "Edward's teenage great-nephew; chosen by the Witan after Hastings but submitted to William."
+      },
+      {
+        "name": "Edwin and Morcar",
+        "role": "Northern earls defeated at Fulford."
+      },
+      {
+        "name": "Bishop Odo of Bayeux",
+        "role": "William's half-brother; probably commissioned the Bayeux Tapestry."
+      },
+      {
+        "name": "Pope Alexander II",
+        "role": "Gave William a papal banner, signalling support for the invasion."
+      }
     ],
     "vocab": [
-      { "term": "Succession", "def": "Who takes over as ruler next." },
-      { "term": "Claimant", "def": "A person who says they have the right to something — here, the throne." },
-      { "term": "Witan", "def": "The council of leading nobles and churchmen who advised the king and helped choose a new one." },
-      { "term": "Earl", "def": "A powerful Anglo-Saxon noble who governed a large region." },
-      { "term": "Housecarl", "def": "A professional, full-time soldier serving the king or an earl." },
-      { "term": "Fyrd", "def": "Part-time soldiers called up from the local area in times of war." },
-      { "term": "Shield wall", "def": "A line of soldiers standing close with overlapping shields to block attacks." },
-      { "term": "Cavalry", "def": "Soldiers who fight on horseback — the Norman knights." },
-      { "term": "Feigned retreat", "def": "Pretending to run away to trick the enemy into chasing and breaking formation." },
-      { "term": "Papal banner", "def": "A flag sent by the Pope to show the Church's support." },
-      { "term": "Provenance", "def": "Where a source comes from: who made it, when and why." },
-      { "term": "Factor", "def": "One reason or cause that helps explain an event." }
+      {
+        "term": "Succession",
+        "def": "Who takes over as ruler next."
+      },
+      {
+        "term": "Claimant",
+        "def": "A person who says they have the right to something — here, the throne."
+      },
+      {
+        "term": "Witan",
+        "def": "The council of leading nobles and churchmen who advised the king and helped choose a new one."
+      },
+      {
+        "term": "Earl",
+        "def": "A powerful Anglo-Saxon noble who governed a large region."
+      },
+      {
+        "term": "Housecarl",
+        "def": "A professional, full-time soldier serving the king or an earl."
+      },
+      {
+        "term": "Fyrd",
+        "def": "Part-time soldiers called up from the local area in times of war."
+      },
+      {
+        "term": "Shield wall",
+        "def": "A line of soldiers standing close with overlapping shields to block attacks."
+      },
+      {
+        "term": "Cavalry",
+        "def": "Soldiers who fight on horseback — the Norman knights."
+      },
+      {
+        "term": "Feigned retreat",
+        "def": "Pretending to run away to trick the enemy into chasing and breaking formation."
+      },
+      {
+        "term": "Papal banner",
+        "def": "A flag sent by the Pope to show the Church's support."
+      },
+      {
+        "term": "Provenance",
+        "def": "Where a source comes from: who made it, when and why."
+      },
+      {
+        "term": "Factor",
+        "def": "One reason or cause that helps explain an event."
+      }
     ],
     "misconceptions": [
-      { "wrong": "The battle was fought in the town of Hastings.", "right": "It was fought on a ridge about seven miles away, where the town of Battle now stands." },
-      { "wrong": "Harold definitely died from an arrow in the eye.", "right": "The Bayeux Tapestry is ambiguous and may have been altered by later repairs; one early account describes Harold being cut down by knights. We cannot be certain." },
-      { "wrong": "The English army was just untrained peasants.", "right": "The housecarls were highly trained professional soldiers. The fyrd was part-time, but many were experienced." },
-      { "wrong": "William won quickly and easily.", "right": "The battle lasted most of the day and could have gone either way." },
-      { "wrong": "William became king as soon as the battle ended.", "right": "The Witan chose Edgar Ætheling first; William was crowned on 25 December after the English leaders submitted." },
-      { "wrong": "The Normans were simply 'the French'.", "right": "Normandy was a duchy whose rulers descended from Viking settlers. The duke owed loyalty to the French king but acted largely independently." }
+      {
+        "wrong": "The battle was fought in the town of Hastings.",
+        "right": "It was fought on a ridge about seven miles away, where the town of Battle now stands."
+      },
+      {
+        "wrong": "Harold definitely died from an arrow in the eye.",
+        "right": "The Bayeux Tapestry is ambiguous and may have been altered by later repairs; one early account describes Harold being cut down by knights. We cannot be certain."
+      },
+      {
+        "wrong": "The English army was just untrained peasants.",
+        "right": "The housecarls were highly trained professional soldiers. The fyrd was part-time, but many were experienced."
+      },
+      {
+        "wrong": "William won quickly and easily.",
+        "right": "The battle lasted most of the day and could have gone either way."
+      },
+      {
+        "wrong": "William became king as soon as the battle ended.",
+        "right": "The Witan chose Edgar Ætheling first; William was crowned on 25 December after the English leaders submitted."
+      },
+      {
+        "wrong": "The Normans were simply 'the French'.",
+        "right": "Normandy was a duchy whose rulers descended from Viking settlers. The duke owed loyalty to the French king but acted largely independently."
+      }
     ],
     "sources": [
-      { "id": "bayeux", "title": "The Bayeux Tapestry", "type": "Embroidered cloth (about 70 metres long)", "date": "Probably 1070s", "origin": "Probably commissioned by Bishop Odo of Bayeux, William's half-brother; likely embroidered in England.", "purpose": "To tell the Norman story of 1066 and justify William's conquest — it emphasises Harold's oath.", "usefulness": "Detailed images of weapons, ships and armour. Shows the Norman point of view; some scenes were restored centuries later." },
-      { "id": "poitiers", "title": "William of Poitiers, 'The Deeds of William' (Gesta Guillelmi)", "type": "Written history (Latin)", "date": "c.1071–1077", "origin": "Written by William's own chaplain, a Norman who had once been a soldier. He was not at the battle.", "purpose": "To praise William and show his claim was rightful.", "usefulness": "The fullest early account of the battle, including the feigned retreats — but strongly pro-William." },
-      { "id": "asc", "title": "The Anglo-Saxon Chronicle", "type": "Year-by-year record (Old English)", "date": "Entries written during and after 1066; several versions", "origin": "Kept by English monks in different monasteries.", "purpose": "To record important events each year.", "usefulness": "An English point of view; brief on the battle itself; different versions sometimes disagree." },
-      { "id": "carmen", "title": "The Song of the Battle of Hastings (Carmen de Hastingae Proelio)", "type": "Latin poem", "date": "Possibly c.1067 — the date and author are debated", "origin": "Often linked to Guy, Bishop of Amiens.", "purpose": "To celebrate William's victory in verse.", "usefulness": "Possibly the earliest account; gives a different description of Harold's death. Poetic and uncertain in date." }
-    ]
+      {
+        "id": "bayeux",
+        "title": "The Bayeux Tapestry",
+        "type": "Embroidered cloth (about 70 metres long)",
+        "date": "Probably 1070s",
+        "origin": "Probably commissioned by Bishop Odo of Bayeux, William's half-brother; likely embroidered in England.",
+        "purpose": "To tell the Norman story of 1066 and justify William's conquest — it emphasises Harold's oath.",
+        "usefulness": "Detailed images of weapons, ships and armour. Shows the Norman point of view; some scenes were restored centuries later."
+      },
+      {
+        "id": "poitiers",
+        "title": "William of Poitiers, 'The Deeds of William' (Gesta Guillelmi)",
+        "type": "Written history (Latin)",
+        "date": "c.1071–1077",
+        "origin": "Written by William's own chaplain, a Norman who had once been a soldier. He was not at the battle.",
+        "purpose": "To praise William and show his claim was rightful.",
+        "usefulness": "The fullest early account of the battle, including the feigned retreats — but strongly pro-William."
+      },
+      {
+        "id": "asc",
+        "title": "The Anglo-Saxon Chronicle",
+        "type": "Year-by-year record (Old English)",
+        "date": "Entries written during and after 1066; several versions",
+        "origin": "Kept by English monks in different monasteries.",
+        "purpose": "To record important events each year.",
+        "usefulness": "An English point of view; brief on the battle itself; different versions sometimes disagree."
+      },
+      {
+        "id": "carmen",
+        "title": "The Song of the Battle of Hastings (Carmen de Hastingae Proelio)",
+        "type": "Latin poem",
+        "date": "Possibly c.1067 — the date and author are debated",
+        "origin": "Often linked to Guy, Bishop of Amiens.",
+        "purpose": "To celebrate William's victory in verse.",
+        "usefulness": "Possibly the earliest account; gives a different description of Harold's death. Poetic and uncertain in date."
+      }
+    ],
+    "figure": "hastings-route"
   },
-
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "When did Edward the Confessor die?", "options": ["5 January 1066", "14 October 1066", "25 December 1066", "25 September 1066"], "answer": 0, "why": "Edward died on 5 January 1066; Harold was crowned the next day." },
-      { "id": "m2", "s": "s1", "q": "What was the Witan?", "options": ["Harold's personal bodyguard", "A council of leading nobles and churchmen", "A Norman type of castle", "The Pope's messengers"], "answer": 1, "why": "The Witan advised the king and backed Harold as Edward's successor." },
-      { "id": "m3", "s": "s1", "q": "Which claimant was Edward's closest blood relative?", "options": ["Harold Godwinson", "William of Normandy", "Edgar Ætheling", "Harald Hardrada"], "answer": 2, "why": "Edgar was Edward's great-nephew, but he was a teenager without an army or powerful backers." },
-      { "id": "m4", "s": "s1", "q": "What did Norman writers claim Harold did in Normandy around 1064?", "options": ["Married William's daughter", "Swore an oath to support William", "Fought a battle against William", "Was crowned by the Pope"], "answer": 1, "why": "The oath gave William a reason to call Harold an oath-breaker — useful propaganda." },
-      { "id": "m5", "s": "s2", "q": "Who joined Harald Hardrada's invasion?", "options": ["Edwin", "Tostig", "Odo", "Edgar"], "answer": 1, "why": "Tostig was Harold's exiled brother." },
-      { "id": "m6", "s": "s2", "q": "What happened at Stamford Bridge on 25 September 1066?", "options": ["William landed in England", "Harold defeated Hardrada", "Edwin and Morcar were defeated", "William was crowned"], "answer": 1, "why": "Harold surprised the Norwegians; Hardrada and Tostig were killed." },
-      { "id": "m7", "s": "s3", "q": "Where did William land on 28 September 1066?", "options": ["Dover", "York", "Pevensey", "London"], "answer": 2, "why": "Pevensey, on the Sussex coast — three days after Stamford Bridge." },
-      { "id": "m8", "s": "s3", "q": "Why was the papal banner useful to William?", "options": ["It protected him from arrows", "It showed the Church backed his cause, helping recruitment", "It was a signal for his ships", "It made the English surrender"], "answer": 1, "why": "Church support made the invasion look just and encouraged men to join." },
-      { "id": "m9", "s": "s4", "q": "Who were the housecarls?", "options": ["Norman archers", "Part-time English farmers", "Professional English soldiers", "Viking sailors"], "answer": 2, "why": "Housecarls were full-time, well-trained soldiers — often with two-handed axes." },
-      { "id": "m10", "s": "s4", "q": "Where did the English army stand at the start of the battle?", "options": ["In a castle", "On top of a ridge", "On the beach", "Inside Hastings town"], "answer": 1, "why": "Harold's shield wall held the high ground, forcing the Normans to attack uphill." },
-      { "id": "m11", "s": "s4", "q": "What is a feigned retreat?", "options": ["Running away for real", "Pretending to flee to draw the enemy out", "Retreating to get more arrows", "A surrender"], "answer": 1, "why": "Norman writers say this pulled English soldiers out of the shield wall. Historians debate how far it was planned." },
-      { "id": "m12", "s": "s4", "q": "Why did William lift his helmet during the battle?", "options": ["To surrender", "To cool down", "To show his men he was alive", "To signal a retreat"], "answer": 2, "why": "A rumour of his death was spreading panic; showing his face steadied his army." },
-      { "id": "m13", "s": "s5", "q": "Which is the best example of LUCK helping William?", "options": ["Building a fleet", "The wind delaying him until Harold went north", "Using archers", "Getting a papal banner"], "answer": 1, "why": "The timing was outside William's control and left the south coast undefended." },
-      { "id": "m14", "s": "s6", "q": "Who probably commissioned the Bayeux Tapestry?", "options": ["Harold Godwinson", "Bishop Odo", "Edgar Ætheling", "Harald Hardrada"], "answer": 1, "why": "Odo was William's half-brother — so the Tapestry shows the Norman point of view." },
-      { "id": "m15", "s": "s7", "q": "When was William crowned?", "options": ["14 October 1066", "25 December 1066", "6 January 1066", "1 January 1067"], "answer": 1, "why": "Christmas Day 1066, Westminster Abbey." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "When did Edward the Confessor die?",
+        "options": [
+          "5 January 1066",
+          "14 October 1066",
+          "25 December 1066",
+          "25 September 1066"
+        ],
+        "answer": 0,
+        "why": "Edward died on 5 January 1066; Harold was crowned the next day."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "What was the Witan?",
+        "options": [
+          "Harold's personal bodyguard",
+          "A council of leading nobles and churchmen",
+          "A Norman type of castle",
+          "The Pope's messengers"
+        ],
+        "answer": 1,
+        "why": "The Witan advised the king and backed Harold as Edward's successor."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "Which claimant was Edward's closest blood relative?",
+        "options": [
+          "Harold Godwinson",
+          "William of Normandy",
+          "Edgar Ætheling",
+          "Harald Hardrada"
+        ],
+        "answer": 2,
+        "why": "Edgar was Edward's great-nephew, but he was a teenager without an army or powerful backers."
+      },
+      {
+        "id": "m4",
+        "s": "s1",
+        "q": "What did Norman writers claim Harold did in Normandy around 1064?",
+        "options": [
+          "Married William's daughter",
+          "Swore an oath to support William",
+          "Fought a battle against William",
+          "Was crowned by the Pope"
+        ],
+        "answer": 1,
+        "why": "The oath gave William a reason to call Harold an oath-breaker — useful propaganda."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Who joined Harald Hardrada's invasion?",
+        "options": [
+          "Edwin",
+          "Tostig",
+          "Odo",
+          "Edgar"
+        ],
+        "answer": 1,
+        "why": "Tostig was Harold's exiled brother."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "What happened at Stamford Bridge on 25 September 1066?",
+        "options": [
+          "William landed in England",
+          "Harold defeated Hardrada",
+          "Edwin and Morcar were defeated",
+          "William was crowned"
+        ],
+        "answer": 1,
+        "why": "Harold surprised the Norwegians; Hardrada and Tostig were killed."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "Where did William land on 28 September 1066?",
+        "options": [
+          "Dover",
+          "York",
+          "Pevensey",
+          "London"
+        ],
+        "answer": 2,
+        "why": "Pevensey, on the Sussex coast — three days after Stamford Bridge."
+      },
+      {
+        "id": "m8",
+        "s": "s3",
+        "q": "Why was the papal banner useful to William?",
+        "options": [
+          "It protected him from arrows",
+          "It showed the Church backed his cause, helping recruitment",
+          "It was a signal for his ships",
+          "It made the English surrender"
+        ],
+        "answer": 1,
+        "why": "Church support made the invasion look just and encouraged men to join."
+      },
+      {
+        "id": "m9",
+        "s": "s4",
+        "q": "Who were the housecarls?",
+        "options": [
+          "Norman archers",
+          "Part-time English farmers",
+          "Professional English soldiers",
+          "Viking sailors"
+        ],
+        "answer": 2,
+        "why": "Housecarls were full-time, well-trained soldiers — often with two-handed axes."
+      },
+      {
+        "id": "m10",
+        "s": "s4",
+        "q": "Where did the English army stand at the start of the battle?",
+        "options": [
+          "In a castle",
+          "On top of a ridge",
+          "On the beach",
+          "Inside Hastings town"
+        ],
+        "answer": 1,
+        "why": "Harold's shield wall held the high ground, forcing the Normans to attack uphill."
+      },
+      {
+        "id": "m11",
+        "s": "s4",
+        "q": "What is a feigned retreat?",
+        "options": [
+          "Running away for real",
+          "Pretending to flee to draw the enemy out",
+          "Retreating to get more arrows",
+          "A surrender"
+        ],
+        "answer": 1,
+        "why": "Norman writers say this pulled English soldiers out of the shield wall. Historians debate how far it was planned."
+      },
+      {
+        "id": "m12",
+        "s": "s4",
+        "q": "Why did William lift his helmet during the battle?",
+        "options": [
+          "To surrender",
+          "To cool down",
+          "To show his men he was alive",
+          "To signal a retreat"
+        ],
+        "answer": 2,
+        "why": "A rumour of his death was spreading panic; showing his face steadied his army."
+      },
+      {
+        "id": "m13",
+        "s": "s5",
+        "q": "Which is the best example of LUCK helping William?",
+        "options": [
+          "Building a fleet",
+          "The wind delaying him until Harold went north",
+          "Using archers",
+          "Getting a papal banner"
+        ],
+        "answer": 1,
+        "why": "The timing was outside William's control and left the south coast undefended."
+      },
+      {
+        "id": "m14",
+        "s": "s6",
+        "q": "Who probably commissioned the Bayeux Tapestry?",
+        "options": [
+          "Harold Godwinson",
+          "Bishop Odo",
+          "Edgar Ætheling",
+          "Harald Hardrada"
+        ],
+        "answer": 1,
+        "why": "Odo was William's half-brother — so the Tapestry shows the Norman point of view."
+      },
+      {
+        "id": "m15",
+        "s": "s7",
+        "q": "When was William crowned?",
+        "options": [
+          "14 October 1066",
+          "25 December 1066",
+          "6 January 1066",
+          "1 January 1067"
+        ],
+        "answer": 1,
+        "why": "Christmas Day 1066, Westminster Abbey."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s1", "q": "Which powerful earl was crowned king the day after Edward died?", "accept": ["harold", "harold godwinson", "harold godwineson", "harold ii", "king harold"], "answer": "Harold Godwinson" },
-      { "id": "a2", "s": "s1", "q": "Name the King of Norway who claimed the throne.", "accept": ["harald hardrada", "hardrada", "harald", "harold hardrada", "harald sigurdsson"], "answer": "Harald Hardrada" },
-      { "id": "a3", "s": "s2", "q": "In which battle did the northern earls Edwin and Morcar lose to Hardrada?", "accept": ["fulford", "battle of fulford", "gate fulford", "fulford gate"], "answer": "The Battle of Fulford" },
-      { "id": "a4", "s": "s2", "q": "Which city surrendered to Hardrada after Fulford?", "accept": ["york"], "answer": "York" },
-      { "id": "a5", "s": "s3", "q": "Which Pope sent William a banner?", "accept": ["alexander", "alexander ii", "alexander 2", "pope alexander", "pope alexander ii"], "answer": "Pope Alexander II" },
-      { "id": "a6", "s": "s4", "q": "What name do we give to English part-time soldiers?", "accept": ["fyrd", "the fyrd", "fyrdmen"], "answer": "The fyrd" },
-      { "id": "a7", "s": "s4", "q": "What defensive formation did the English use?", "accept": ["shield wall", "shieldwall", "a shield wall", "the shield wall"], "answer": "A shield wall" },
-      { "id": "a8", "s": "s4", "q": "Name one of Harold's brothers killed at Hastings.", "accept": ["gyrth", "leofwine"], "answer": "Gyrth or Leofwine" },
-      { "id": "a9", "s": "s6", "q": "William of Poitiers had a job working for William. What was it?", "accept": ["chaplain", "priest", "his chaplain", "williams chaplain"], "answer": "Chaplain (priest)" },
-      { "id": "a10", "s": "s7", "q": "Where was William crowned?", "accept": ["westminster abbey", "westminster", "westminister abbey", "westminster abby"], "answer": "Westminster Abbey" }
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Which powerful earl was crowned king the day after Edward died?",
+        "accept": [
+          "harold",
+          "harold godwinson",
+          "harold godwineson",
+          "harold ii",
+          "king harold"
+        ],
+        "answer": "Harold Godwinson"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "Name the King of Norway who claimed the throne.",
+        "accept": [
+          "harald hardrada",
+          "hardrada",
+          "harald",
+          "harold hardrada",
+          "harald sigurdsson"
+        ],
+        "answer": "Harald Hardrada"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "In which battle did the northern earls Edwin and Morcar lose to Hardrada?",
+        "accept": [
+          "fulford",
+          "battle of fulford",
+          "gate fulford",
+          "fulford gate"
+        ],
+        "answer": "The Battle of Fulford"
+      },
+      {
+        "id": "a4",
+        "s": "s2",
+        "q": "Which city surrendered to Hardrada after Fulford?",
+        "accept": [
+          "york"
+        ],
+        "answer": "York"
+      },
+      {
+        "id": "a5",
+        "s": "s3",
+        "q": "Which Pope sent William a banner?",
+        "accept": [
+          "alexander",
+          "alexander ii",
+          "alexander 2",
+          "pope alexander",
+          "pope alexander ii"
+        ],
+        "answer": "Pope Alexander II"
+      },
+      {
+        "id": "a6",
+        "s": "s4",
+        "q": "What name do we give to English part-time soldiers?",
+        "accept": [
+          "fyrd",
+          "the fyrd",
+          "fyrdmen"
+        ],
+        "answer": "The fyrd"
+      },
+      {
+        "id": "a7",
+        "s": "s4",
+        "q": "What defensive formation did the English use?",
+        "accept": [
+          "shield wall",
+          "shieldwall",
+          "a shield wall",
+          "the shield wall"
+        ],
+        "answer": "A shield wall"
+      },
+      {
+        "id": "a8",
+        "s": "s4",
+        "q": "Name one of Harold's brothers killed at Hastings.",
+        "accept": [
+          "gyrth",
+          "leofwine"
+        ],
+        "answer": "Gyrth or Leofwine"
+      },
+      {
+        "id": "a9",
+        "s": "s6",
+        "q": "William of Poitiers had a job working for William. What was it?",
+        "accept": [
+          "chaplain",
+          "priest",
+          "his chaplain",
+          "williams chaplain"
+        ],
+        "answer": "Chaplain (priest)"
+      },
+      {
+        "id": "a10",
+        "s": "s7",
+        "q": "Where was William crowned?",
+        "accept": [
+          "westminster abbey",
+          "westminster",
+          "westminister abbey",
+          "westminster abby"
+        ],
+        "answer": "Westminster Abbey"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put the events of 1066 in order", "items": ["Edward the Confessor dies", "Harold is crowned", "Battle of Fulford", "Battle of Stamford Bridge", "William lands at Pevensey", "Battle of Hastings", "William is crowned"] },
-      { "id": "c2", "title": "Put the events of the battle day in order", "items": ["English form a shield wall on the ridge", "Norman attacks uphill fail", "Bretons fall back and some English chase them", "Rumour that William is dead; he lifts his helmet", "Harold is killed", "The English line breaks"] }
+      {
+        "id": "c1",
+        "title": "Put the events of 1066 in order",
+        "items": [
+          "Edward the Confessor dies",
+          "Harold is crowned",
+          "Battle of Fulford",
+          "Battle of Stamford Bridge",
+          "William lands at Pevensey",
+          "Battle of Hastings",
+          "William is crowned"
+        ]
+      },
+      {
+        "id": "c2",
+        "title": "Put the events of the battle day in order",
+        "items": [
+          "English form a shield wall on the ridge",
+          "Norman attacks uphill fail",
+          "Bretons fall back and some English chase them",
+          "Rumour that William is dead; he lifts his helmet",
+          "Harold is killed",
+          "The English line breaks"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match each claimant to their claim", "pairs": [
-        ["Harold Godwinson", "Named by Edward on his deathbed, backed by the Witan"],
-        ["William of Normandy", "Said Edward promised him the throne and Harold swore an oath"],
-        ["Harald Hardrada", "Agreement between Magnus of Norway and Harthacnut"],
-        ["Edgar Ætheling", "Closest blood relative, but young and without an army"]
-      ] },
-      { "id": "x2", "title": "Match the term to its meaning", "pairs": [
-        ["Housecarl", "Professional English soldier"],
-        ["Fyrd", "Part-time English soldiers"],
-        ["Cavalry", "Soldiers on horseback"],
-        ["Witan", "Council of nobles and churchmen"],
-        ["Provenance", "Who made a source, when and why"]
-      ] }
+      {
+        "id": "x1",
+        "title": "Match each claimant to their claim",
+        "pairs": [
+          [
+            "Harold Godwinson",
+            "Named by Edward on his deathbed, backed by the Witan"
+          ],
+          [
+            "William of Normandy",
+            "Said Edward promised him the throne and Harold swore an oath"
+          ],
+          [
+            "Harald Hardrada",
+            "Agreement between Magnus of Norway and Harthacnut"
+          ],
+          [
+            "Edgar Ætheling",
+            "Closest blood relative, but young and without an army"
+          ]
+        ]
+      },
+      {
+        "id": "x2",
+        "title": "Match the term to its meaning",
+        "pairs": [
+          [
+            "Housecarl",
+            "Professional English soldier"
+          ],
+          [
+            "Fyrd",
+            "Part-time English soldiers"
+          ],
+          [
+            "Cavalry",
+            "Soldiers on horseback"
+          ],
+          [
+            "Witan",
+            "Council of nobles and churchmen"
+          ],
+          [
+            "Provenance",
+            "Who made a source, when and why"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s2", "q": "Give a precise piece of evidence that Harold's army was tired by October 1066.", "keywords": [["stamford", "fulford", "march", "marched", "185", "250", "north"]], "model": "They had fought at Stamford Bridge on 25 September, after marching about 185 miles north in a few days, then marched back south — about 250 miles — to face William." },
-      { "id": "e2", "s": "s3", "q": "Give a piece of evidence that William prepared carefully.", "keywords": [["fleet", "ships", "horses", "banner", "pope", "brittany", "flanders", "soldiers"]], "model": "He built a large fleet that could carry horses, gathered soldiers from Normandy, Brittany and Flanders, and won a papal banner from Pope Alexander II." },
-      { "id": "e3", "s": "s4", "q": "Give evidence that the shield wall was effective at first.", "keywords": [["uphill", "ridge", "failed", "held", "morning", "hours", "all day"]], "model": "Early Norman attacks uphill failed against it, and the battle lasted most of the day." },
-      { "id": "e4", "s": "s5", "q": "Give evidence that luck helped William.", "keywords": [["wind", "hardrada", "three days", "28", "undefended", "harold killed", "north"]], "model": "The wind kept William in Normandy until Harold was in the north fighting Hardrada; he landed unopposed on 28 September, three days after Stamford Bridge." }
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Give a precise piece of evidence that Harold's army was tired by October 1066.",
+        "keywords": [
+          [
+            "stamford",
+            "fulford",
+            "march",
+            "marched",
+            "185",
+            "250",
+            "north"
+          ]
+        ],
+        "model": "They had fought at Stamford Bridge on 25 September, after marching about 185 miles north in a few days, then marched back south — about 250 miles — to face William."
+      },
+      {
+        "id": "e2",
+        "s": "s3",
+        "q": "Give a piece of evidence that William prepared carefully.",
+        "keywords": [
+          [
+            "fleet",
+            "ships",
+            "horses",
+            "banner",
+            "pope",
+            "brittany",
+            "flanders",
+            "soldiers"
+          ]
+        ],
+        "model": "He built a large fleet that could carry horses, gathered soldiers from Normandy, Brittany and Flanders, and won a papal banner from Pope Alexander II."
+      },
+      {
+        "id": "e3",
+        "s": "s4",
+        "q": "Give evidence that the shield wall was effective at first.",
+        "keywords": [
+          [
+            "uphill",
+            "ridge",
+            "failed",
+            "held",
+            "morning",
+            "hours",
+            "all day"
+          ]
+        ],
+        "model": "Early Norman attacks uphill failed against it, and the battle lasted most of the day."
+      },
+      {
+        "id": "e4",
+        "s": "s5",
+        "q": "Give evidence that luck helped William.",
+        "keywords": [
+          [
+            "wind",
+            "hardrada",
+            "three days",
+            "28",
+            "undefended",
+            "harold killed",
+            "north"
+          ]
+        ],
+        "model": "The wind kept William in Normandy until Harold was in the north fighting Hardrada; he landed unopposed on 28 September, three days after Stamford Bridge."
+      }
     ]
   },
-
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "When did Edward the Confessor die?", "a": "5 January 1066", "hint": "The very start of the year." },
-    { "id": "f2", "s": "s1", "q": "Why was there a succession crisis in 1066?", "a": "Edward died with no children, and there was no fixed rule about who should be king next.", "hint": "Think about Edward's family." },
-    { "id": "f3", "s": "s1", "q": "What was Harold Godwinson's claim?", "a": "Edward named him on his deathbed (English sources); he was the most powerful earl and the Witan backed him.", "hint": "Deathbed + Witan." },
-    { "id": "f4", "s": "s1", "q": "What was William's claim?", "a": "Norman writers said Edward promised him the throne and that Harold swore an oath to support him around 1064.", "hint": "A promise and an oath." },
-    { "id": "f5", "s": "s1", "q": "What was Harald Hardrada's claim?", "a": "An earlier agreement between Magnus of Norway and Harthacnut of England.", "hint": "An old Scandinavian agreement." },
-    { "id": "f6", "s": "s1", "q": "Why was Edgar Ætheling not chosen in January 1066?", "a": "He was a teenager with no army or powerful supporters.", "hint": "Age and power." },
-    { "id": "f7", "s": "s1", "q": "What was the Witan?", "a": "A council of leading nobles and churchmen that advised the king.", "hint": "A council." },
-    { "id": "f8", "s": "s1", "q": "When was Harold crowned?", "a": "6 January 1066", "hint": "The day after Edward died." },
-    { "id": "f9", "s": "s2", "q": "Why did Harold send his southern army home in September?", "a": "Supplies were running out and men were needed for the harvest.", "hint": "Food and farming." },
-    { "id": "f10", "s": "s2", "q": "Who was Tostig?", "a": "Harold's exiled brother, who joined Hardrada's invasion.", "hint": "Family feud." },
-    { "id": "f11", "s": "s2", "q": "What happened at Fulford (20 Sept 1066)?", "a": "Hardrada and Tostig defeated the northern earls Edwin and Morcar.", "hint": "A Viking win." },
-    { "id": "f12", "s": "s2", "q": "What happened at Stamford Bridge (25 Sept 1066)?", "a": "Harold surprised and defeated the Norwegians; Hardrada and Tostig were killed.", "hint": "An English win." },
-    { "id": "f13", "s": "s2", "q": "How did Stamford Bridge weaken Harold for Hastings?", "a": "His army lost men, was exhausted, and had to march about 250 miles south.", "hint": "Losses + distance." },
-    { "id": "f14", "s": "s3", "q": "When and where did William land?", "a": "Pevensey, 28 September 1066", "hint": "Sussex coast, three days after Stamford Bridge." },
-    { "id": "f15", "s": "s3", "q": "Why did William's landing go unopposed?", "a": "Harold and his army were in the north after Stamford Bridge.", "hint": "Where was Harold?" },
-    { "id": "f16", "s": "s3", "q": "What did the papal banner show?", "a": "That Pope Alexander II supported William's cause.", "hint": "The Church." },
-    { "id": "f17", "s": "s3", "q": "Why did William raid Sussex?", "a": "It was Harold's family land, so it pressured Harold to fight quickly.", "hint": "Whose land was it?" },
-    { "id": "f18", "s": "s4", "q": "When was the Battle of Hastings?", "a": "14 October 1066", "hint": "Mid-October." },
-    { "id": "f19", "s": "s4", "q": "Where was the battle actually fought?", "a": "On a ridge about seven miles from Hastings, where the town of Battle now stands.", "hint": "Not in Hastings itself." },
-    { "id": "f20", "s": "s4", "q": "What were housecarls?", "a": "Professional, full-time English soldiers, often armed with two-handed axes.", "hint": "Full-time." },
-    { "id": "f21", "s": "s4", "q": "What was the fyrd?", "a": "Part-time English soldiers called up from the shires.", "hint": "Part-time." },
-    { "id": "f22", "s": "s4", "q": "What three types of soldier did William have?", "a": "Archers, foot soldiers (infantry) and mounted knights (cavalry).", "hint": "Bows, feet, horses." },
-    { "id": "f23", "s": "s4", "q": "What happened when the Bretons fell back?", "a": "Some English broke out of the shield wall to chase them and were cut off and killed.", "hint": "A gap appears." },
-    { "id": "f24", "s": "s4", "q": "What is a feigned retreat — and is it certain William used one?", "a": "Pretending to flee to draw the enemy out. Norman writers say so; historians debate it.", "hint": "Pretend." },
-    { "id": "f25", "s": "s4", "q": "Which of Harold's brothers died at Hastings?", "a": "Gyrth and Leofwine", "hint": "Two names: G and L." },
-    { "id": "f26", "s": "s5", "q": "Give two ways luck helped William.", "a": "The wind delayed him until Harold was in the north; Hardrada invaded first; Harold was killed at a key moment.", "hint": "Weather and timing." },
-    { "id": "f27", "s": "s5", "q": "Give one mistake Harold may have made.", "a": "Fighting quickly instead of waiting for more troops.", "hint": "Speed." },
-    { "id": "f28", "s": "s6", "q": "Why is the Bayeux Tapestry not a neutral source?", "a": "It was probably made for Bishop Odo, William's half-brother, to tell the Norman story.", "hint": "Who paid for it?" },
-    { "id": "f29", "s": "s6", "q": "Who wrote 'The Deeds of William' and why might it be biased?", "a": "William of Poitiers, William's chaplain — he wrote to praise William.", "hint": "His job." },
-    { "id": "f30", "s": "s7", "q": "When and where was William crowned?", "a": "25 December 1066, Westminster Abbey", "hint": "Christmas." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "When did Edward the Confessor die?",
+      "a": "5 January 1066",
+      "hint": "The very start of the year."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Why was there a succession crisis in 1066?",
+      "a": "Edward died with no children, and there was no fixed rule about who should be king next.",
+      "hint": "Think about Edward's family."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "What was Harold Godwinson's claim?",
+      "a": "Edward named him on his deathbed (English sources); he was the most powerful earl and the Witan backed him.",
+      "hint": "Deathbed + Witan."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "What was William's claim?",
+      "a": "Norman writers said Edward promised him the throne and that Harold swore an oath to support him around 1064.",
+      "hint": "A promise and an oath."
+    },
+    {
+      "id": "f5",
+      "s": "s1",
+      "q": "What was Harald Hardrada's claim?",
+      "a": "An earlier agreement between Magnus of Norway and Harthacnut of England.",
+      "hint": "An old Scandinavian agreement."
+    },
+    {
+      "id": "f6",
+      "s": "s1",
+      "q": "Why was Edgar Ætheling not chosen in January 1066?",
+      "a": "He was a teenager with no army or powerful supporters.",
+      "hint": "Age and power."
+    },
+    {
+      "id": "f7",
+      "s": "s1",
+      "q": "What was the Witan?",
+      "a": "A council of leading nobles and churchmen that advised the king.",
+      "hint": "A council."
+    },
+    {
+      "id": "f8",
+      "s": "s1",
+      "q": "When was Harold crowned?",
+      "a": "6 January 1066",
+      "hint": "The day after Edward died."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Why did Harold send his southern army home in September?",
+      "a": "Supplies were running out and men were needed for the harvest.",
+      "hint": "Food and farming."
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "Who was Tostig?",
+      "a": "Harold's exiled brother, who joined Hardrada's invasion.",
+      "hint": "Family feud."
+    },
+    {
+      "id": "f11",
+      "s": "s2",
+      "q": "What happened at Fulford (20 Sept 1066)?",
+      "a": "Hardrada and Tostig defeated the northern earls Edwin and Morcar.",
+      "hint": "A Viking win."
+    },
+    {
+      "id": "f12",
+      "s": "s2",
+      "q": "What happened at Stamford Bridge (25 Sept 1066)?",
+      "a": "Harold surprised and defeated the Norwegians; Hardrada and Tostig were killed.",
+      "hint": "An English win."
+    },
+    {
+      "id": "f13",
+      "s": "s2",
+      "q": "How did Stamford Bridge weaken Harold for Hastings?",
+      "a": "His army lost men, was exhausted, and had to march about 250 miles south.",
+      "hint": "Losses + distance."
+    },
+    {
+      "id": "f14",
+      "s": "s3",
+      "q": "When and where did William land?",
+      "a": "Pevensey, 28 September 1066",
+      "hint": "Sussex coast, three days after Stamford Bridge."
+    },
+    {
+      "id": "f15",
+      "s": "s3",
+      "q": "Why did William's landing go unopposed?",
+      "a": "Harold and his army were in the north after Stamford Bridge.",
+      "hint": "Where was Harold?"
+    },
+    {
+      "id": "f16",
+      "s": "s3",
+      "q": "What did the papal banner show?",
+      "a": "That Pope Alexander II supported William's cause.",
+      "hint": "The Church."
+    },
+    {
+      "id": "f17",
+      "s": "s3",
+      "q": "Why did William raid Sussex?",
+      "a": "It was Harold's family land, so it pressured Harold to fight quickly.",
+      "hint": "Whose land was it?"
+    },
+    {
+      "id": "f18",
+      "s": "s4",
+      "q": "When was the Battle of Hastings?",
+      "a": "14 October 1066",
+      "hint": "Mid-October."
+    },
+    {
+      "id": "f19",
+      "s": "s4",
+      "q": "Where was the battle actually fought?",
+      "a": "On a ridge about seven miles from Hastings, where the town of Battle now stands.",
+      "hint": "Not in Hastings itself."
+    },
+    {
+      "id": "f20",
+      "s": "s4",
+      "q": "What were housecarls?",
+      "a": "Professional, full-time English soldiers, often armed with two-handed axes.",
+      "hint": "Full-time."
+    },
+    {
+      "id": "f21",
+      "s": "s4",
+      "q": "What was the fyrd?",
+      "a": "Part-time English soldiers called up from the shires.",
+      "hint": "Part-time."
+    },
+    {
+      "id": "f22",
+      "s": "s4",
+      "q": "What three types of soldier did William have?",
+      "a": "Archers, foot soldiers (infantry) and mounted knights (cavalry).",
+      "hint": "Bows, feet, horses."
+    },
+    {
+      "id": "f23",
+      "s": "s4",
+      "q": "What happened when the Bretons fell back?",
+      "a": "Some English broke out of the shield wall to chase them and were cut off and killed.",
+      "hint": "A gap appears."
+    },
+    {
+      "id": "f24",
+      "s": "s4",
+      "q": "What is a feigned retreat — and is it certain William used one?",
+      "a": "Pretending to flee to draw the enemy out. Norman writers say so; historians debate it.",
+      "hint": "Pretend."
+    },
+    {
+      "id": "f25",
+      "s": "s4",
+      "q": "Which of Harold's brothers died at Hastings?",
+      "a": "Gyrth and Leofwine",
+      "hint": "Two names: G and L."
+    },
+    {
+      "id": "f26",
+      "s": "s5",
+      "q": "Give two ways luck helped William.",
+      "a": "The wind delayed him until Harold was in the north; Hardrada invaded first; Harold was killed at a key moment.",
+      "hint": "Weather and timing."
+    },
+    {
+      "id": "f27",
+      "s": "s5",
+      "q": "Give one mistake Harold may have made.",
+      "a": "Fighting quickly instead of waiting for more troops.",
+      "hint": "Speed."
+    },
+    {
+      "id": "f28",
+      "s": "s6",
+      "q": "Why is the Bayeux Tapestry not a neutral source?",
+      "a": "It was probably made for Bishop Odo, William's half-brother, to tell the Norman story.",
+      "hint": "Who paid for it?"
+    },
+    {
+      "id": "f29",
+      "s": "s6",
+      "q": "Who wrote 'The Deeds of William' and why might it be biased?",
+      "a": "William of Poitiers, William's chaplain — he wrote to praise William.",
+      "hint": "His job."
+    },
+    {
+      "id": "f30",
+      "s": "s7",
+      "q": "When and where was William crowned?",
+      "a": "25 December 1066, Westminster Abbey",
+      "hint": "Christmas."
+    }
   ],
-
   "checklist": [
-    { "id": "k1", "level": "describe", "text": "I can describe why England had a succession crisis in 1066.", "sections": ["s1"] },
-    { "id": "k2", "level": "describe", "text": "I can describe the four claimants and the basis of each claim.", "sections": ["s1"] },
-    { "id": "k3", "level": "explain", "text": "I can explain how Harold Godwinson became king.", "sections": ["s1"] },
-    { "id": "k4", "level": "describe", "text": "I can describe the main events of 1066 in the correct order with dates.", "sections": ["s2", "s3", "s4", "s7"] },
-    { "id": "k5", "level": "explain", "text": "I can explain how the Battle of Stamford Bridge affected Harold's army.", "sections": ["s2"] },
-    { "id": "k6", "level": "explain", "text": "I can explain how William prepared for his invasion.", "sections": ["s3"] },
-    { "id": "k7", "level": "describe", "text": "I can describe the two armies and the tactics used at Hastings.", "sections": ["s4"] },
-    { "id": "k8", "level": "explain", "text": "I can explain at least three reasons why William won, using precise evidence.", "sections": ["s5"] },
-    { "id": "k9", "level": "judge", "text": "I can make a supported judgement about the most important reason William won.", "sections": ["s5"] },
-    { "id": "k10", "level": "judge", "text": "I can use who made a source, when and why to judge how useful it is.", "sections": ["s6"] }
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe why England had a succession crisis in 1066.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe the four claimants and the basis of each claim.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain how Harold Godwinson became king.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "describe",
+      "text": "I can describe the main events of 1066 in the correct order with dates.",
+      "sections": [
+        "s2",
+        "s3",
+        "s4",
+        "s7"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "explain",
+      "text": "I can explain how the Battle of Stamford Bridge affected Harold's army.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "explain",
+      "text": "I can explain how William prepared for his invasion.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k7",
+      "level": "describe",
+      "text": "I can describe the two armies and the tactics used at Hastings.",
+      "sections": [
+        "s4"
+      ]
+    },
+    {
+      "id": "k8",
+      "level": "explain",
+      "text": "I can explain at least three reasons why William won, using precise evidence.",
+      "sections": [
+        "s5"
+      ]
+    },
+    {
+      "id": "k9",
+      "level": "judge",
+      "text": "I can make a supported judgement about the most important reason William won.",
+      "sections": [
+        "s5"
+      ]
+    },
+    {
+      "id": "k10",
+      "level": "judge",
+      "text": "I can use who made a source, when and why to judge how useful it is.",
+      "sections": [
+        "s6"
+      ]
+    }
   ],
-
   "exam": {
     "criteria_status": "missing",
     "criteria_note": "Department KS3 assessment criteria have not been uploaded. The success criteria below are teacher-created drafts for Mr Garry to check; AI feedback gives no marks until a verified mark scheme is added for a question.",
@@ -297,21 +1194,54 @@
         "type": "describe",
         "q": "Describe two claims to the English throne in 1066.",
         "minutes": 8,
-        "sections": ["s1"],
+        "sections": [
+          "s1"
+        ],
         "asks": "Give accurate details about two different claimants and what their claim was based on. You do not need to explain who was most likely to win.",
-        "steps": ["Pick the two claimants you know best.", "For each: name them, say who they were, and say what their claim rested on.", "Add one precise detail for each (a date, a person, an event)."],
+        "steps": [
+          "Pick the two claimants you know best.",
+          "For each: name them, say who they were, and say what their claim rested on.",
+          "Add one precise detail for each (a date, a person, an event)."
+        ],
         "plan": "1 minute planning: write two names and one detail beside each. 6 minutes writing. 1 minute checking names and dates.",
-        "success": ["Two different claimants named", "The basis of each claim stated accurately", "At least one precise supporting detail for each"],
-        "mistakes": ["Describing the battle instead of the claims", "Writing about four claimants briefly instead of two in detail", "Mixing up Harold Godwinson and Harald Hardrada"],
+        "success": [
+          "Two different claimants named",
+          "The basis of each claim stated accurately",
+          "At least one precise supporting detail for each"
+        ],
+        "mistakes": [
+          "Describing the battle instead of the claims",
+          "Writing about four claimants briefly instead of two in detail",
+          "Mixing up Harold Godwinson and Harald Hardrada"
+        ],
         "markscheme": null,
         "model": [
-          { "t": "One claim was Harold Godwinson's. He was Earl of Wessex, the most powerful noble in England, and English sources say Edward named him as successor on his deathbed in January 1066.", "n": "Names the claimant, says who he was, gives the basis of the claim with a precise date." },
-          { "t": "The Witan, the council of leading nobles and churchmen, supported him, and he was crowned on 6 January.", "n": "Extra precise detail that strengthens the description." },
-          { "t": "A second claim was William of Normandy's. Norman writers said Edward had promised him the throne, and that Harold had sworn an oath to support William while in Normandy around 1064.", "n": "A different claimant; two parts to the claim; notes these come from Norman sources." }
+          {
+            "t": "One claim was Harold Godwinson's. He was Earl of Wessex, the most powerful noble in England, and English sources say Edward named him as successor on his deathbed in January 1066.",
+            "n": "Names the claimant, says who he was, gives the basis of the claim with a precise date."
+          },
+          {
+            "t": "The Witan, the council of leading nobles and churchmen, supported him, and he was crowned on 6 January.",
+            "n": "Extra precise detail that strengthens the description."
+          },
+          {
+            "t": "A second claim was William of Normandy's. Norman writers said Edward had promised him the throne, and that Harold had sworn an oath to support William while in Normandy around 1064.",
+            "n": "A different claimant; two parts to the claim; notes these come from Norman sources."
+          }
         ],
         "frame": {
-          "full": ["One claim to the throne was made by … He was …", "His claim was based on …", "A precise detail that supports this is …", "A second claim was made by … He was …", "His claim was based on …", "A precise detail is …"],
-          "some": ["Claim 1: who + basis + detail", "Claim 2: who + basis + detail"]
+          "full": [
+            "One claim to the throne was made by … He was …",
+            "His claim was based on …",
+            "A precise detail that supports this is …",
+            "A second claim was made by … He was …",
+            "His claim was based on …",
+            "A precise detail is …"
+          ],
+          "some": [
+            "Claim 1: who + basis + detail",
+            "Claim 2: who + basis + detail"
+          ]
         }
       },
       {
@@ -320,22 +1250,62 @@
         "type": "explain",
         "q": "Explain why the Battle of Stamford Bridge was important for the outcome of the Battle of Hastings.",
         "minutes": 12,
-        "sections": ["s2", "s3", "s5"],
+        "sections": [
+          "s2",
+          "s3",
+          "s5"
+        ],
         "asks": "Show how events in the north led to consequences in the south. Each paragraph needs a reason, evidence and an explanation of how it affected Hastings.",
-        "steps": ["Identify two or three effects of Stamford Bridge (e.g. tiredness, losses, the south left undefended).", "For each, give precise evidence.", "Explain how that effect changed what happened at Hastings.", "Finish by linking the effects together."],
+        "steps": [
+          "Identify two or three effects of Stamford Bridge (e.g. tiredness, losses, the south left undefended).",
+          "For each, give precise evidence.",
+          "Explain how that effect changed what happened at Hastings.",
+          "Finish by linking the effects together."
+        ],
         "plan": "2 minutes: list effects and evidence in the planning grid. 9 minutes: two PEEJ paragraphs. 1 minute: check every paragraph links back to Hastings.",
-        "success": ["Identifies at least two consequences of Stamford Bridge", "Supports each with precise evidence", "Explains clearly how each affected Hastings", "Shows a link between the consequences"],
-        "mistakes": ["Telling the story of Stamford Bridge without linking it to Hastings", "Saying 'the army was tired' without evidence", "Forgetting dates that prove the timing"],
+        "success": [
+          "Identifies at least two consequences of Stamford Bridge",
+          "Supports each with precise evidence",
+          "Explains clearly how each affected Hastings",
+          "Shows a link between the consequences"
+        ],
+        "mistakes": [
+          "Telling the story of Stamford Bridge without linking it to Hastings",
+          "Saying 'the army was tired' without evidence",
+          "Forgetting dates that prove the timing"
+        ],
         "markscheme": null,
         "model": [
-          { "t": "Stamford Bridge was important because it left the south coast undefended when William arrived.", "n": "POINT — answers the question directly." },
-          { "t": "Harold was in the north defeating Hardrada on 25 September, and William landed at Pevensey on 28 September, just three days later.", "n": "EVIDENCE — two precise dates show the timing." },
-          { "t": "This meant William could land his army and horses safely and choose where to wait, instead of fighting on the beach while his men were still unloading.", "n": "EXPLAIN — shows the consequence for William." },
-          { "t": "So Stamford Bridge gave William a strong start before the battle even began.", "n": "JUDGEMENT/LINK — ties the paragraph back to the outcome at Hastings." }
+          {
+            "t": "Stamford Bridge was important because it left the south coast undefended when William arrived.",
+            "n": "POINT — answers the question directly."
+          },
+          {
+            "t": "Harold was in the north defeating Hardrada on 25 September, and William landed at Pevensey on 28 September, just three days later.",
+            "n": "EVIDENCE — two precise dates show the timing."
+          },
+          {
+            "t": "This meant William could land his army and horses safely and choose where to wait, instead of fighting on the beach while his men were still unloading.",
+            "n": "EXPLAIN — shows the consequence for William."
+          },
+          {
+            "t": "So Stamford Bridge gave William a strong start before the battle even began.",
+            "n": "JUDGEMENT/LINK — ties the paragraph back to the outcome at Hastings."
+          }
         ],
         "frame": {
-          "full": ["POINT: One reason Stamford Bridge mattered was …", "EVIDENCE: For example, …", "EXPLAIN: This meant that … because …", "JUDGEMENT: Therefore this helped William win at Hastings by …"],
-          "some": ["Point", "Evidence", "Explain", "Judgement / link back"]
+          "full": [
+            "POINT: One reason Stamford Bridge mattered was …",
+            "EVIDENCE: For example, …",
+            "EXPLAIN: This meant that … because …",
+            "JUDGEMENT: Therefore this helped William win at Hastings by …"
+          ],
+          "some": [
+            "Point",
+            "Evidence",
+            "Explain",
+            "Judgement / link back"
+          ]
         }
       },
       {
@@ -344,34 +1314,124 @@
         "type": "judge",
         "q": "'William won the Battle of Hastings mainly because of luck.' How far do you agree?",
         "minutes": 25,
-        "sections": ["s3", "s4", "s5"],
+        "sections": [
+          "s3",
+          "s4",
+          "s5"
+        ],
         "asks": "Weigh luck against other factors (William's leadership, Norman tactics, Harold's decisions, English weaknesses) and reach a clear judgement about which mattered most.",
-        "steps": ["Decide your judgement before you write — agree, partly agree or disagree.", "Paragraph on luck, with evidence and explanation.", "Paragraphs on one or two other factors.", "Compare: which factor mattered most and why? Use the judgement questions.", "Conclusion that answers 'how far' and explains your reasoning."],
+        "steps": [
+          "Decide your judgement before you write — agree, partly agree or disagree.",
+          "Paragraph on luck, with evidence and explanation.",
+          "Paragraphs on one or two other factors.",
+          "Compare: which factor mattered most and why? Use the judgement questions.",
+          "Conclusion that answers 'how far' and explains your reasoning."
+        ],
         "plan": "4 minutes planning grid (factor / evidence / how it helped William / how decisive). 18 minutes writing. 3 minutes conclusion and check.",
-        "success": ["Clear judgement in the introduction and conclusion", "Luck explained with precise evidence", "At least one other factor explained with precise evidence", "Factors compared directly, not just listed", "Conclusion gives a reason for the judgement"],
-        "mistakes": ["Only writing about luck", "Listing factors without comparing them", "A conclusion that sits on the fence with no reason", "Retelling the story of 1066"],
+        "success": [
+          "Clear judgement in the introduction and conclusion",
+          "Luck explained with precise evidence",
+          "At least one other factor explained with precise evidence",
+          "Factors compared directly, not just listed",
+          "Conclusion gives a reason for the judgement"
+        ],
+        "mistakes": [
+          "Only writing about luck",
+          "Listing factors without comparing them",
+          "A conclusion that sits on the fence with no reason",
+          "Retelling the story of 1066"
+        ],
         "markscheme": null,
-        "judgementPrompts": ["How long did this factor matter for? (duration)", "How much of the battle and campaign did it affect? (scope)", "How directly did it lead to the victory? (effectiveness)", "What would have happened without it? (impact)"],
+        "judgementPrompts": [
+          "How long did this factor matter for? (duration)",
+          "How much of the battle and campaign did it affect? (scope)",
+          "How directly did it lead to the victory? (effectiveness)",
+          "What would have happened without it? (impact)"
+        ],
         "model": [
-          { "t": "I partly agree: luck gave William important chances, but his leadership was what turned those chances into victory.", "n": "Introduction states a clear, balanced judgement." },
-          { "t": "Luck helped William because the wind delayed his crossing until Harold was fighting Hardrada in the north. He landed unopposed at Pevensey on 28 September, three days after Stamford Bridge.", "n": "Luck paragraph — precise evidence." },
-          { "t": "However, luck alone did not win the battle. When rumours spread that he had died, William lifted his helmet to show he was alive, stopping a panic that could have ended the battle.", "n": "Counter-factor (leadership) with evidence." },
-          { "t": "Leadership mattered more because it affected the whole day, whereas the lucky timing only decided where and when the battle started.", "n": "Direct comparison using scope and duration." }
+          {
+            "t": "I partly agree: luck gave William important chances, but his leadership was what turned those chances into victory.",
+            "n": "Introduction states a clear, balanced judgement."
+          },
+          {
+            "t": "Luck helped William because the wind delayed his crossing until Harold was fighting Hardrada in the north. He landed unopposed at Pevensey on 28 September, three days after Stamford Bridge.",
+            "n": "Luck paragraph — precise evidence."
+          },
+          {
+            "t": "However, luck alone did not win the battle. When rumours spread that he had died, William lifted his helmet to show he was alive, stopping a panic that could have ended the battle.",
+            "n": "Counter-factor (leadership) with evidence."
+          },
+          {
+            "t": "Leadership mattered more because it affected the whole day, whereas the lucky timing only decided where and when the battle started.",
+            "n": "Direct comparison using scope and duration."
+          }
         ],
         "frame": {
-          "full": ["Introduction: I agree / partly agree / disagree because …", "Luck helped William because … For example, … This meant …", "However, another important factor was … For example, … This meant …", "Comparing them, … mattered more because it lasted longer / affected more of the battle / led more directly to victory …", "Overall, …"],
-          "some": ["Judgement", "Luck: P–E–E–J", "Other factor: P–E–E–J", "Compare (duration / scope / effectiveness / impact)", "Conclusion"]
+          "full": [
+            "Introduction: I agree / partly agree / disagree because …",
+            "Luck helped William because … For example, … This meant …",
+            "However, another important factor was … For example, … This meant …",
+            "Comparing them, … mattered more because it lasted longer / affected more of the battle / led more directly to victory …",
+            "Overall, …"
+          ],
+          "some": [
+            "Judgement",
+            "Luck: P–E–E–J",
+            "Other factor: P–E–E–J",
+            "Compare (duration / scope / effectiveness / impact)",
+            "Conclusion"
+          ]
         }
       }
     ]
   },
-
   "stretch": [
-    { "id": "t1", "kind": "Causal links", "task": "Draw a chain of at least four links from 'Edward dies without children' to 'Harold is killed at Hastings'. For each arrow, write how one event caused the next." },
-    { "id": "t2", "kind": "Relative significance", "task": "Rank the five factors from most to least important. Then move your top factor to the bottom and write the strongest argument you can for why it really belongs there. Has your view changed?" },
-    { "id": "t3", "kind": "Competing arguments", "task": "Historians debate whether the feigned retreats were a deliberate tactic or a story told later by Norman writers. Using what you know about who wrote the sources, explain why we cannot be sure." },
-    { "id": "t4", "kind": "Counterfactual", "task": "If the wind had changed in August and William had landed while Harold's army was still waiting on the south coast, who would have won? Use evidence about the two armies to justify your prediction." },
-    { "id": "t5", "kind": "Source evaluation", "task": "The Bayeux Tapestry and the Anglo-Saxon Chronicle tell different stories about 1066. Using their origin and purpose, explain why they might disagree and which you would trust more for each of: Harold's oath; the course of the battle." },
-    { "id": "t6", "kind": "Change and continuity", "task": "After Hastings, the Witan still chose Edgar Ætheling. What does this tell us about how much changed on 14 October, and how much stayed the same until Christmas?" }
-  ]
+    {
+      "id": "t1",
+      "kind": "Causal links",
+      "task": "Draw a chain of at least four links from 'Edward dies without children' to 'Harold is killed at Hastings'. For each arrow, write how one event caused the next."
+    },
+    {
+      "id": "t2",
+      "kind": "Relative significance",
+      "task": "Rank the five factors from most to least important. Then move your top factor to the bottom and write the strongest argument you can for why it really belongs there. Has your view changed?"
+    },
+    {
+      "id": "t3",
+      "kind": "Competing arguments",
+      "task": "Historians debate whether the feigned retreats were a deliberate tactic or a story told later by Norman writers. Using what you know about who wrote the sources, explain why we cannot be sure."
+    },
+    {
+      "id": "t4",
+      "kind": "Counterfactual",
+      "task": "If the wind had changed in August and William had landed while Harold's army was still waiting on the south coast, who would have won? Use evidence about the two armies to justify your prediction."
+    },
+    {
+      "id": "t5",
+      "kind": "Source evaluation",
+      "task": "The Bayeux Tapestry and the Anglo-Saxon Chronicle tell different stories about 1066. Using their origin and purpose, explain why they might disagree and which you would trust more for each of: Harold's oath; the course of the battle."
+    },
+    {
+      "id": "t6",
+      "kind": "Change and continuity",
+      "task": "After Hastings, the Witan still chose Edgar Ætheling. What does this tell us about how much changed on 14 October, and how much stayed the same until Christmas?"
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: why did William win?",
+    "rows": [
+      "Luck",
+      "William's leadership",
+      "Norman tactics",
+      "Harold's decisions",
+      "English weaknesses"
+    ],
+    "cols": [
+      "Precise evidence",
+      "How it helped William",
+      "How decisive? (how long, how much, how directly)"
+    ],
+    "judgement": "My judgement: the most important factor was … because …"
+  },
+  "order": 1
 }

@@ -1,0 +1,127 @@
+{
+  "id": "y11-us-3", "course": "y11", "area": "us", "kt": "Key topic 3", "order": 13,
+  "title": "The impact of civil rights protests, 1960–74",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Depth study 7, key topic 3." },
+  "learn": {
+    "intro": "In the 1960s sit-ins, Freedom Rides and mass marches forced the federal government to pass major civil rights laws. Later in the decade, frustration led many towards Black Power.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Sit-ins, Freedom Riders and the Meredith case",
+        "blocks": [
+          { "p": "Sit-ins: on 1 February 1960 four black students sat at a whites-only lunch counter in Greensboro, North Carolina, and refused to leave. Sit-ins spread across the South, and many lunch counters desegregated. The Student Nonviolent Coordinating Committee (SNCC) was set up in April 1960." },
+          { "p": "Freedom Rides (1961): CORE sent black and white volunteers on buses through the South to test whether bus stations obeyed the law against segregation. At Anniston, Alabama, a bus was firebombed (May 1961); in Birmingham riders were beaten. The government eventually enforced desegregation of bus terminals." },
+          { "p": "Voting rights and the Meredith case: in 1962 James Meredith tried to enrol at the University of Mississippi. Riots broke out and two people were killed; President Kennedy sent federal marshals and troops, and Meredith graduated in 1963." }
+        ],
+        "terms": ["sit-in", "SNCC", "CORE", "Freedom Riders"],
+        "evidence": ["1 February 1960: Greensboro sit-in.", "May 1961: Anniston bus firebombing.", "1962: James Meredith at the University of Mississippi."]
+      },
+      {
+        "id": "s2", "title": "2. Martin Luther King's methods and campaigns",
+        "blocks": [
+          { "p": "King believed in non-violent direct action: peaceful protest that would provoke a violent response from racists, which the media would show to the world, forcing the government to act." },
+          { "p": "Birmingham, Alabama (1963): police chief 'Bull' Connor used dogs and fire hoses on protesters, including children. Television pictures shocked the nation and President Kennedy proposed a civil rights bill." },
+          { "p": "The March on Washington (28 August 1963): about 250,000 people marched; King gave his 'I have a dream' speech, showing the movement's huge support." },
+          { "p": "Mississippi Freedom Summer (1964): volunteers registered black voters; three workers — James Chaney, Andrew Goodman and Michael Schwerner — were murdered. The Civil Rights Act (July 1964) banned segregation in public places and discrimination in jobs." },
+          { "p": "Selma (1965): marchers for voting rights were attacked by police on 'Bloody Sunday' (7 March). Shocked by the pictures, Congress passed the Voting Rights Act (August 1965), banning literacy tests." }
+        ],
+        "terms": ["non-violent direct action", "March on Washington", "Freedom Summer", "Civil Rights Act 1964", "Voting Rights Act 1965"],
+        "evidence": ["1963: Birmingham campaign.", "28 August 1963: March on Washington, about 250,000.", "July 1964: Civil Rights Act.", "7 March 1965: Bloody Sunday.", "August 1965: Voting Rights Act."]
+      },
+      {
+        "id": "s3", "title": "3. The Nation of Islam, Malcolm X and Black Power",
+        "blocks": [
+          { "p": "The Nation of Islam called for black separation, not integration. Its best-known speaker, Malcolm X, criticised King's non-violence and argued black people should defend themselves 'by any means necessary'. He left the Nation of Islam in 1964 and was assassinated in February 1965." },
+          { "p": "Reasons for Black Power: slow progress in the North, poverty in the ghettos, police brutality, and anger at the violence used against peaceful protesters. In 1966 Stokely Carmichael of SNCC popularised the slogan 'Black Power', meaning black pride and black control of black communities." },
+          { "p": "Race riots: in August 1965 riots in the Watts district of Los Angeles left 34 dead; more riots followed in other cities. The Black Panthers, founded in 1966 by Bobby Seale and Huey Newton, carried guns to monitor the police and ran community programmes such as free breakfasts for children." },
+          { "p": "1968 Olympics: in Mexico City, US athletes Tommie Smith and John Carlos raised black-gloved fists on the medal podium — a Black Power salute seen around the world." }
+        ],
+        "terms": ["Nation of Islam", "Black Power", "Black Panthers", "Watts riots"],
+        "evidence": ["February 1965: Malcolm X assassinated.", "August 1965: Watts riots, 34 dead.", "1966: 'Black Power' slogan; Black Panthers founded.", "October 1968: Olympic salute."]
+      }
+    ],
+    "timeline": [
+      { "date": "Feb 1960", "event": "Greensboro sit-in" },
+      { "date": "1961", "event": "Freedom Rides; Anniston firebombing" },
+      { "date": "1962", "event": "James Meredith at the University of Mississippi" },
+      { "date": "1963", "event": "Birmingham campaign" },
+      { "date": "Aug 1963", "event": "March on Washington" },
+      { "date": "1964", "event": "Freedom Summer; Civil Rights Act" },
+      { "date": "Feb 1965", "event": "Malcolm X assassinated" },
+      { "date": "March 1965", "event": "Selma — 'Bloody Sunday'" },
+      { "date": "Aug 1965", "event": "Voting Rights Act; Watts riots" },
+      { "date": "1966", "event": "'Black Power' slogan; Black Panthers founded" },
+      { "date": "Oct 1968", "event": "Black Power salute at the Mexico City Olympics" }
+    ],
+    "people": [
+      { "name": "Martin Luther King", "role": "Leader of non-violent protest; SCLC." },
+      { "name": "James Meredith", "role": "First black student at the University of Mississippi (1962)." },
+      { "name": "Bull Connor", "role": "Birmingham police chief, 1963." },
+      { "name": "Malcolm X", "role": "Nation of Islam spokesman; assassinated 1965." },
+      { "name": "Stokely Carmichael", "role": "SNCC leader who popularised 'Black Power'." },
+      { "name": "Bobby Seale and Huey Newton", "role": "Founders of the Black Panthers." },
+      { "name": "Tommie Smith and John Carlos", "role": "Olympic athletes who gave the Black Power salute, 1968." }
+    ],
+    "vocab": [
+      { "term": "Sit-in", "def": "Occupying a segregated place peacefully as a protest." },
+      { "term": "Freedom Riders", "def": "Activists who rode buses to test desegregation." },
+      { "term": "Black Power", "def": "Black pride and self-reliance; sometimes self-defence." },
+      { "term": "Ghetto", "def": "A poor area where one group is forced to live." }
+    ],
+    "misconceptions": [
+      { "wrong": "Black Power was only about violence.", "right": "It also meant pride, culture and community programmes like the Panthers' free breakfasts." },
+      { "wrong": "Laws in 1964–65 ended racial inequality.", "right": "They ended legal segregation and voting tests, but poverty and discrimination in the North continued." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "Where did the 1960 sit-ins begin?", "options": ["Montgomery", "Greensboro", "Selma", "Birmingham"], "answer": 1, "why": "1 February 1960." },
+      { "id": "m2", "s": "s1", "q": "Which organisation ran the Freedom Rides?", "options": ["NAACP", "CORE", "Nation of Islam", "Black Panthers"], "answer": 1, "why": "1961." },
+      { "id": "m3", "s": "s2", "q": "What happened at Birmingham in 1963?", "options": ["King was assassinated", "Police used dogs and fire hoses on protesters", "The Voting Rights Act passed", "Meredith enrolled"], "answer": 1, "why": "Under Bull Connor." },
+      { "id": "m4", "s": "s2", "q": "Which law banned literacy tests?", "options": ["Civil Rights Act 1957", "Civil Rights Act 1964", "Voting Rights Act 1965", "War Powers Act"], "answer": 2, "why": "After Selma." },
+      { "id": "m5", "s": "s3", "q": "Who popularised 'Black Power' in 1966?", "options": ["Malcolm X", "Stokely Carmichael", "Bobby Seale", "King"], "answer": 1, "why": "SNCC leader." },
+      { "id": "m6", "s": "s3", "q": "Where were the 1965 riots that left 34 dead?", "options": ["Harlem", "Watts, Los Angeles", "Detroit", "Chicago"], "answer": 1, "why": "August 1965." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s1", "q": "Who tried to enrol at the University of Mississippi in 1962?", "accept": ["james meredith", "meredith"], "answer": "James Meredith" },
+      { "id": "a2", "s": "s2", "q": "Where did 'Bloody Sunday' happen in 1965?", "accept": ["selma"], "answer": "Selma" },
+      { "id": "a3", "s": "s3", "q": "Name one founder of the Black Panthers.", "accept": ["bobby seale", "seale", "huey newton", "newton"], "answer": "Bobby Seale or Huey Newton" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Greensboro sit-in", "Freedom Rides", "Meredith case", "March on Washington", "Civil Rights Act", "Voting Rights Act", "Black Panthers founded"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the protest to its result", "pairs": [["Birmingham 1963", "Kennedy proposes a civil rights bill"], ["Selma 1965", "Voting Rights Act"], ["Greensboro 1960", "Lunch counters desegregate; SNCC founded"], ["Freedom Rides 1961", "Bus terminals desegregated"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s2", "q": "Give precise evidence that protest led to new laws.", "keywords": [["birmingham", "selma", "1964", "1965", "civil rights act", "voting rights act"]], "model": "Birmingham (1963) led Kennedy to propose what became the Civil Rights Act (1964); Selma (1965) led to the Voting Rights Act (August 1965)." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "What did the sit-ins achieve?", "a": "Many lunch counters desegregated; SNCC formed; young people drawn into the movement.", "hint": "1960." },
+    { "id": "f2", "s": "s1", "q": "What happened at Anniston in 1961?", "a": "A Freedom Riders' bus was firebombed.", "hint": "Alabama." },
+    { "id": "f3", "s": "s2", "q": "How did King's non-violent methods work?", "a": "Peaceful protest provoked violent responses, the media showed them, and the government was pressured to act.", "hint": "Media." },
+    { "id": "f4", "s": "s2", "q": "What did the Civil Rights Act 1964 do?", "a": "Banned segregation in public places and discrimination in employment.", "hint": "July 1964." },
+    { "id": "f5", "s": "s3", "q": "Give three reasons for the growth of Black Power.", "a": "Slow progress in the North; ghetto poverty; police brutality; Malcolm X's ideas; violence against peaceful protesters.", "hint": "North." },
+    { "id": "f6", "s": "s3", "q": "What did the Black Panthers do?", "a": "Armed patrols to watch the police; community programmes such as free breakfasts.", "hint": "1966." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "describe", "text": "I can describe the sit-ins, Freedom Riders, Anniston and the Meredith case.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain King's methods and the Birmingham, Washington, Freedom Summer and Selma campaigns.", "sections": ["s2"] },
+    { "id": "k3", "level": "judge", "text": "I can judge the impact of protest on 1960s civil rights laws.", "sections": ["s2"] },
+    { "id": "k4", "level": "explain", "text": "I can explain the Nation of Islam, Malcolm X and the reasons for and impact of Black Power.", "sections": ["s3"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "p1c", "label": "Teacher-created practice question", "sections": ["s2", "s1"],
+        "q": "‘The main reason for the passing of civil rights laws in the 1960s was the actions of Martin Luther King.’\nHow far do you agree? Explain your answer.",
+        "prompts": ["the Birmingham campaign", "Freedom Summer"] },
+      { "id": "q2", "qtype": "p1b", "label": "Teacher-created practice question", "sections": ["s3"],
+        "q": "Explain two effects of the Black Power movement on the USA." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Competing arguments", "task": "King or Malcolm X: whose approach was more effective in the 1960s? Judge by what changed." },
+    { "id": "t2", "kind": "Causal links", "task": "Show how television linked Birmingham, Selma and the new laws." }
+  ]
+}

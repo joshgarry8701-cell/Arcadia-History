@@ -1,50 +1,69 @@
 # Curriculum map — Mr Garry's History Revision Hub
 
-Status as of 21 October 2026. **No specifications, textbooks, lessons, mark schemes or examiner reports had been uploaded when this was written.** Everything below is therefore either (a) the course titles you gave me, or (b) an explicit gap. No examination requirement has been filled in from memory.
-
-The same information lives in `content/courses.json`, which drives the course pages on the website. Edit either; keep them in step.
+Updated 21 October 2026, after the second batch of resources. Exam requirements below come only from the documents listed; nothing was filled in from memory. Topic content is original writing, marked "awaiting teacher check" on the site.
 
 ## Summary
 
-| Year | Course | Exam requirements verified? | Resources received | Platform status |
+| Year | Course | Exam requirements | Topics built | Resources used |
 |---|---|---|---|---|
-| 7 | The Norman Conquest — *Why did William win the Battle of Hastings?* | n/a (KS3) — department criteria **missing** | None | **Complete working topic.** Content is original and flagged "awaiting teacher check". AI feedback is formative only until KS3 criteria are added. |
-| 8 | *Why did Africans migrate to England?* | n/a (KS3) — criteria **missing** | None | Course page and structure only. Scope (places, dates) must come from your resources. |
-| 9 | *Why did the First World War start?* | n/a (KS3) — criteria **missing** | None | Course page and structure only. |
-| 11 | Pearson Edexcel International GCSE History — Germany, Civil Rights, Changes in medicine | **No** | None | Course page with exam fields shown as "not yet verified". |
-| 12 | Pearson Edexcel IAL History — Germany (Development of Dictatorship 1918–45, as you named it) | **No** | None | As above. Kept separate from Year 11 Germany. |
-| 13 | Pearson Edexcel IAL History — Civil Rights (1865–2009, as you named it) | **No** | None | As above. Kept separate from Year 11 Civil Rights. |
+| 7 | Norman Conquest — *Why did William win the Battle of Hastings?* | KS3 — department criteria still **missing** | 1 | None yet |
+| 8 | *Why did Africans migrate to England?* | KS3 — criteria **missing** | 0 | None yet |
+| 9 | *Why did the First World War start?* | KS3 — criteria **missing** | 0 | None yet |
+| 11 | Pearson Edexcel International GCSE History (4HI1) | **Verified**: papers, marks, question types, AO weightings. Level descriptors pre-filled (paraphrased), awaiting your tick | 15 (Germany 5, USA 5, Medicine 5) | Spec Issue 4 (uploaded); Payne IGCSE Germany textbook; Arcadia IGCSE model paragraphs; June 2025 mark schemes |
+| 12 | IAL History Unit 1, Option 1C: Germany, 1918–45 (WHI01/1C) | **Verified**: 2 × 25-mark essays, AO1 10 + AO3 15, best fit. Generic levels copied from Pearson's booklet, awaiting your tick | 4 (one per key topic) | Spec Issue 6; Layton, *From Kaiser to Führer*; WHI01 exemplars; model-answers deck; factor-question sheet; May 2025 paper and mark scheme |
+| 13 | IAL History Unit 3, Option 1D: Civil Rights and Race Relations in the USA, 1865–2009 (WHI03/1D) | **Verified**: Section A 25 (AO2, two sources); Section B one of two 25-mark essays (AO1). Generic levels pre-filled, awaiting your tick | 6 (five key topics + themes) | Spec Issue 6; Question 2 essay-steps deck; factor-question sheet; training booklet; January 2021 mark scheme and January 2022 paper |
 
-## Fields to verify for each exam course (from the uploaded specification)
+## Year 11 — 4HI1 (International GCSE)
 
-For Years 11, 12 and 13 each of these is currently `null` in `content/courses.json`:
+**Paper 1 (4HI1/01): Depth Studies** — 1 h 30, 60 marks, 50%. One 30-mark question on each of two depth studies: (a) 6 marks, AO4 (impression from an extract); (b) 8 marks, AO1 4 + AO2 4 (explain two effects); one of (c)(i)/(c)(ii) 16 marks, AO1 7 + AO2 9 (how far do you agree, two prompts + own knowledge).
+- Depth study 3: Germany: development of dictatorship, 1918–45 → topics y11-de-1 to y11-de-5 (spec key topics 1–5).
+- Depth study 7: A divided union: civil rights in the USA, 1945–74 → y11-us-1 to y11-us-5. Note this option also covers McCarthyism, student and women's movements and Watergate.
 
-- Qualification title and specification issue/version
-- Option or unit title, code and date range
-- Paper(s), duration, total marks
-- Question types and marks per question
-- Assessment objectives and how each question targets them
-- Whether AOs are marked separately or holistically (levels-based)
+**Paper 2 (4HI1/02): Investigation and Breadth Studies** — 1 h 30, 60 marks, 50%.
+- Section A historical investigation: **not built — which one?** (your model-paragraph deck suggests A4 Vietnam).
+- Section B breadth study B2: Changes in medicine, c1848–c1948 → y11-med-1 to y11-med-5. Questions: (a) 6 marks, two similarities/differences; (b) 8 marks, two causes; one of (c)(i)/(c)(ii) 16 marks across two or more key topics (themes).
 
-## Conflicts to watch for when resources arrive
+AO weightings (whole qualification): AO1 34%, AO2 36%, AO3 15%, AO4 15%.
 
-- **Date ranges.** The titles above came from you; the specification wording wins if it differs.
-- **Year 11 Civil Rights vs Year 13 Civil Rights** cover overlapping history at different levels with different question types. They are separate courses on the site and must never share question banks.
-- **Year 11 Germany vs Year 12 Germany** — same rule.
+## Year 12 — WHI01/1C
 
-## Year 7 Hastings: content-to-skill map
+Unit 1: Depth Study with Interpretations. 2 hours, 50 marks; four questions, answer two. Each essay: "Historians differ in their judgements about … ‘[view]’ Assess this view using your own knowledge of the issue." Best fit across three strands (analysis of the issues raised, knowledge, substantiated judgement).
 
-| Checklist statement ("I can…") | Thinking level | Learn section | Activities |
-|---|---|---|---|
-| describe why England had a succession crisis in 1066 | Describe | 1 | Quiz, flashcards |
-| describe the four claimants and the basis of each claim | Describe | 1 | Matching quiz, flashcards |
-| explain how Harold Godwinson became king | Explain | 1 | Quiz |
-| describe the sequence of events from January to December 1066 | Describe | 2–4, timeline | Chronology quiz |
-| explain how the Battle of Stamford Bridge affected Harold's army | Explain | 2 | Evidence recall, stretch |
-| explain how William prepared for invasion | Explain | 3 | Quiz, exam Q2 |
-| describe the armies and tactics at Hastings | Describe | 4 | Quiz, flashcards |
-| explain at least three factors behind William's victory with evidence | Explain | 5 | Exam Q2, PEEJ frame |
-| reach a supported judgement on the most important factor | Judge | 5 | Exam Q3, judgement frame |
-| use the origin and purpose of a source to weigh its usefulness | Judge | 6 | Stretch, sources section |
+| Spec key topic | Site topic | Practice questions |
+|---|---|---|
+| 1 The democratic experiment 1918–29 | y12-de-1 | May 2025 Q1 (Versailles); teacher-created (survival 1919–23) with model |
+| 2 The rise of the Nazis 1919–33 | y12-de-2 | Two teacher-created (Hitler's appointment, with model; electoral success) |
+| 3 Nazi Germany 1933–39 | y12-de-3 | May 2025 Q2 and Q3; two exemplar-pack questions; your deck's repression question with model |
+| 4 Germany at war 1939–45 | y12-de-4 | May 2025 Q4; teacher-created (defeat) |
 
-Department KS3 criteria, lesson page references and Jada's resource will be added to this map when uploaded.
+## Year 13 — WHI03/1D
+
+Unit 3: Thematic Study with Source Evaluation. 2 hours, 50 marks. Section A: Q1 compulsory, 25 marks (AO2), two sources together. Section B: one of Q2/Q3, 25 marks (AO1), essays across periods and themes.
+
+| Spec key topic | Site topic | Practice questions |
+|---|---|---|
+| 1 'Free at last', 1865–77 | y13-cr-1 | Teacher-created Section B |
+| 2 The triumph of 'Jim Crow', 1883–c1900 | y13-cr-2 | Section A with two real sources (Washington 1895, Harlan 1896) and model; your Question 2 essay with your PEEJ model |
+| 3 Roosevelt and race relations, 1933–45 | y13-cr-3 | Teacher-created Section B |
+| 4 'I have a dream', 1954–68 | y13-cr-4 | Teacher-created Section B |
+| 5 Race relations and Obama, c2000–09 | y13-cr-5 | January 2022 Q3 |
+| Themes across all five | y13-cr-6 | January 2022 Q2; January 2022 Q1 (sources not available on the site) |
+
+## Conflicts found in the documents
+
+1. **Unit 1 AO split.** The 2018 exemplar pack says AO1 20 / AO3 5; the June 2025 mark scheme and Pearson's 2024 training slides say AO1 10 / AO3 15. The site uses 10/15. Marking is best fit either way.
+2. **Unit 3 Section B levels.** The training booklet's table shows four levels (to 19–25) but its own commentary refers to Level 5; the January 2021 mark scheme has five levels (1–4, 5–8, 9–14, 15–20, 21–25). The site uses five.
+3. **SPEND vs SPEDA.** Your Question 2 deck says "PEEJ and SPEND"; your saved preference is never SPEND, and your factor sheet says SPEDA. The site uses PEEJ with SPEDA.
+4. **Option title.** "Development of dictatorship" is the IGCSE title; the IAL option is "Germany, 1918–45".
+5. **Reparations figure.** The IGCSE textbook gives 136,000 million marks (£6,600 million); many A level texts give 132 billion gold marks. Year 11 uses £6,600 million; Year 12 uses 132 billion gold marks.
+6. **Specification issue.** Your IGCSE copy is Issue 4 (2022); Pearson's site shows Issue 5 (February 2026).
+
+## Still to confirm or supply
+
+- Year 11 Paper 2 historical investigation (A4 Vietnam?) and whether Arcadia enters 4HI1 or 4WHI1.
+- Whether Year 12 also sits Unit 2 (WHI02/1C Russia, 1917–91) — your "How to answer WHI02/1C" deck suggests so.
+- Which Unit 4 option Year 13 takes.
+- Teacher-marked answers for each course, to check AI feedback against your marking.
+- Department KS3 criteria and Year 7–9 lessons.
+
+The two Pearson training documents (delegate booklet and slides) are licensed for your use only; the site uses facts and generic mark-scheme wording from them but does not republish them.

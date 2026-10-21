@@ -5,9 +5,13 @@
 - **Download a full backup** (Teacher area › Backup and export) and keep it in school storage. It contains student work, so store it securely.
 - Check **AI and limits** for the month's spend.
 
-## Adding a mark scheme (turns on indicative marks)
+## Mark schemes (turn on indicative marks)
 
-Teacher area › Mark schemes. For each question enter the source, maximum marks and level descriptors from the official or department document, then tick "I have checked this". Until that box is ticked, AI feedback is formative only and gives no mark. Tick "AOs marked separately" only if the scheme really awards separate AO marks.
+Teacher area › Mark schemes. Years 11–13 have one mark scheme per **question type** (for example "Unit 1 essay" or "Paper 1 (c)"), pre-filled from Pearson's published mark schemes and your training booklet. Check the wording, then tick "I have checked this" — every question of that type then gets indicative marks. Until it is ticked, AI feedback is formative only.
+
+Source questions (Unit 3 Section A, IGCSE Paper 1 (a)) only get a mark when the sources are on the site. A past-paper source question without its sources gets formative feedback only.
+
+Year 7 questions have their own individual mark schemes further down the same page.
 
 ## Adding a new topic
 
@@ -37,10 +41,17 @@ Edit `courses` in Teacher area › Content. Fill `specification_version`, each o
 
 Teacher area › Backup and export › Restore › choose file › confirm. Everything is replaced and everyone signs in again. Tested by the automated test suite.
 
+## Updating content files on a live site
+
+New topic files placed in `content/topics/` are added automatically when the site restarts. Files already on the site are **not** overwritten, so edits you made in the Teacher area are safe. To replace everything with the files (losing those edits), restart once with `CONTENT_RESEED=true`.
+
+Check files before uploading: `node scripts/validate-content.js`.
+
 ## Changing the code
 
 ```bash
-npm test                 # 9 API tests: permissions, saving, limits, budget ceiling, backup/restore
+npm test                 # 11 API tests: permissions, saving, limits, budget ceiling, question-type marking, backup/restore
+node scripts/validate-content.js   # checks every topic file
 npm run build:preview    # rebuilds dist/preview.html
 git add -A && git commit -m "Describe the change"
 ```

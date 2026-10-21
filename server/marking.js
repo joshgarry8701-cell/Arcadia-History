@@ -18,14 +18,25 @@ function retrieveContext(topic, question) {
     if (!ids.has(s.id)) continue;
     parts.push(`## ${s.title}\n${blocksToText(s.blocks)}\nKey evidence:\n${(s.evidence || []).map((e) => '- ' + e).join('\n')}`);
   }
-  if (ids.has('s6')) {
+  if (topic.learn.sources && topic.learn.sources.length && [...ids].some((id) => (topic.learn.sections.find((s) => s.id === id) || {}).blocks?.some((b) => b.sources))) {
     parts.push('## Sources (provenance)\n' + topic.learn.sources.map((x) => `- ${x.title}: ${x.date}; ${x.origin} Purpose: ${x.purpose}`).join('\n'));
   }
   return parts.join('\n\n');
 }
 
 function markSchemeUsable(q) {
+  if (q.requires_sources && !(Array.isArray(q.sources) && q.sources.length)) return false;
   return !!(q.markscheme && q.markscheme.verified === true && Number.isFinite(q.markscheme.max_marks));
+}
+
+// A topic question may point at a course-level question type (qtype) holding the shared
+// guidance and mark scheme. Fields on the question override the type.
+function resolveQuestion(course, q) {
+  const base = (q && q.qtype && course && course.qtypes && course.qtypes[q.qtype]) || {};
+  const out = { ...base };
+  for (const [k, v] of Object.entries(q || {})) if (v !== null && v !== undefined) out[k] = v;
+  if (q && q.markscheme === undefined && base.markscheme) out.markscheme = base.markscheme;
+  return out;
 }
 
 function buildPrompt({ course, topic, question, text, previous }) {
@@ -58,8 +69,10 @@ function buildPrompt({ course, topic, question, text, previous }) {
     `Course: ${course.year} — ${course.title}`,
     `Question (${question.label}): ${question.q}`,
     `What the question asks: ${question.asks}`,
-    `Success criteria (teacher-created): ${(question.success || []).map((s) => '- ' + s).join('\n')}`,
-    ms ? `Verified mark scheme (${ms.source || 'teacher-entered'}):\n${JSON.stringify(ms)}` : 'Mark scheme: NOT AVAILABLE.',
+    `Success criteria: ${(question.success || []).map((s) => '- ' + s).join('\n')}`,
+    question.sources && question.sources.length ? `SOURCES / EXTRACTS PROVIDED WITH THE QUESTION:\n${question.sources.map((x) => `${x.label} — ${x.provenance}\n"""${x.text}"""`).join('\n\n')}` : (question.requires_sources ? 'The sources/extracts for this question are NOT available, so do not judge how well they were used.' : ''),
+    ms ? `Verified mark scheme (${ms.source || 'teacher-entered'}):\n${JSON.stringify(ms)}` : 'Mark scheme: NOT AVAILABLE (or not yet verified by the teacher).',
+    question.frame_note ? `Department writing approach: ${question.frame_note}` : '',
     `Relevant course content:\n${retrieveContext(topic, question)}`,
     previous ? `PREVIOUS ATTEMPT (for comparison):\n"""${previous.text}"""\nPrevious feedback priorities: ${JSON.stringify((previous.ai && previous.ai.improvements) || [])}` : '',
     `STUDENT RESPONSE:\n"""${text}"""`
@@ -119,4 +132,4 @@ async function callAnthropic({ apiKey, model, system, user, maxTokens, baseUrl, 
   } finally { clearTimeout(timer); }
 }
 
-module.exports = { buildPrompt, normalise, estimateTokens, callAnthropic, markSchemeUsable, retrieveContext };
+module.exports = { buildPrompt, normalise, estimateTokens, callAnthropic, markSchemeUsable, retrieveContext, resolveQuestion };

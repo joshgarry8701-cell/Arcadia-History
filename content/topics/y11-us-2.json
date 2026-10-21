@@ -1,0 +1,122 @@
+{
+  "id": "y11-us-2", "course": "y11", "area": "us", "kt": "Key topic 2", "order": 12,
+  "title": "Civil rights in the 1950s",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Depth study 7, key topic 2. Kept separate from Year 13 IAL civil rights." },
+  "learn": {
+    "intro": "In 1950 black Americans in the South lived under segregation and most could not vote. In the 1950s the Supreme Court, ordinary people and courageous campaigns began to challenge this.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Segregation, discrimination, the courts and Congress",
+        "blocks": [
+          { "p": "In the southern states 'Jim Crow' laws segregated schools, transport, restaurants and even water fountains. Most black southerners could not vote because of literacy tests, poll taxes and intimidation. In the North there was no legal segregation, but discrimination in housing and jobs kept many black Americans in poor areas (ghettos)." },
+          { "p": "The Supreme Court could overturn unfair laws, and the NAACP used court cases to challenge segregation. Congress was slow to act, because southern Democrats held powerful positions and used the filibuster to block civil rights bills." }
+        ],
+        "terms": ["segregation", "discrimination", "Jim Crow laws", "NAACP", "filibuster"],
+        "evidence": ["Southern segregation in schools, transport and public places.", "Literacy tests and poll taxes kept black southerners from voting."]
+      },
+      {
+        "id": "s2", "title": "2. Brown v Board of Education and Emmett Till",
+        "blocks": [
+          { "p": "In 1954 the NAACP's lawyer Thurgood Marshall won Brown v Board of Education of Topeka. The Supreme Court, led by Chief Justice Earl Warren, ruled unanimously that segregated schools were unconstitutional. But in 1955 it only said desegregation should happen 'with all deliberate speed', so many southern states delayed." },
+          { "p": "In August 1955 Emmett Till, a 14-year-old black boy from Chicago, was murdered in Mississippi for supposedly whistling at a white woman. His mother insisted on an open-casket funeral, and photographs shocked the nation. His killers were found not guilty by an all-white jury and later admitted the murder. The case pushed many to act." }
+        ],
+        "terms": ["Brown v Board", "unconstitutional", "all deliberate speed"],
+        "evidence": ["1954: Brown v Board (unanimous).", "August 1955: Emmett Till murdered; killers acquitted."]
+      },
+      {
+        "id": "s3", "title": "3. Montgomery and Little Rock",
+        "blocks": [
+          { "p": "On 1 December 1955 Rosa Parks, an NAACP secretary, was arrested in Montgomery, Alabama, for refusing to give up her bus seat to a white man. Black residents boycotted the buses for 381 days, organised by the Montgomery Improvement Association led by Martin Luther King. In 1956 the Supreme Court ruled bus segregation unconstitutional. The boycott showed the power of peaceful mass protest and made King a national leader." },
+          { "p": "In September 1957 nine black students tried to attend Central High School in Little Rock, Arkansas. Governor Orval Faubus used the National Guard to keep them out and white mobs abused them. President Eisenhower sent federal troops to protect the 'Little Rock Nine' — showing the federal government would enforce the law, although it acted reluctantly." }
+        ],
+        "terms": ["boycott", "Montgomery Improvement Association", "Little Rock Nine"],
+        "evidence": ["1 December 1955: Rosa Parks arrested.", "381-day bus boycott.", "September 1957: Little Rock; Eisenhower sends troops."]
+      },
+      {
+        "id": "s4", "title": "4. The Civil Rights Act 1957 and the revival of the KKK",
+        "blocks": [
+          { "p": "The Civil Rights Act of 1957 was the first civil rights law since Reconstruction. It set up a Civil Rights Commission and a Civil Rights Division in the Justice Department to deal with voting rights. It was weakened by southern senators and did little in practice, but it was a significant start." },
+          { "p": "White resistance grew: White Citizens' Councils organised against desegregation, and the Ku Klux Klan revived, using intimidation, bombings and murder." }
+        ],
+        "terms": ["Civil Rights Act 1957", "Ku Klux Klan", "White Citizens' Councils"],
+        "evidence": ["1957: Civil Rights Act — Commission and Justice Department division."]
+      }
+    ],
+    "timeline": [
+      { "date": "May 1954", "event": "Brown v Board of Education" },
+      { "date": "Aug 1955", "event": "Murder of Emmett Till" },
+      { "date": "Dec 1955", "event": "Rosa Parks arrested; boycott begins" },
+      { "date": "Dec 1956", "event": "Montgomery buses desegregated" },
+      { "date": "Sept 1957", "event": "Little Rock crisis; Civil Rights Act" }
+    ],
+    "people": [
+      { "name": "Thurgood Marshall", "role": "NAACP lawyer in Brown v Board." },
+      { "name": "Earl Warren", "role": "Chief Justice of the Supreme Court." },
+      { "name": "Emmett Till", "role": "14-year-old murdered in Mississippi, 1955." },
+      { "name": "Rosa Parks", "role": "Her arrest began the Montgomery Bus Boycott." },
+      { "name": "Martin Luther King", "role": "Led the Montgomery Improvement Association." },
+      { "name": "Orval Faubus", "role": "Governor of Arkansas who resisted integration." },
+      { "name": "Dwight Eisenhower", "role": "President who sent troops to Little Rock." }
+    ],
+    "vocab": [
+      { "term": "Segregation", "def": "Keeping people apart by race." },
+      { "term": "Boycott", "def": "Refusing to use a service as a protest." },
+      { "term": "NAACP", "def": "National Association for the Advancement of Colored People." },
+      { "term": "Desegregation", "def": "Ending segregation." }
+    ],
+    "misconceptions": [
+      { "wrong": "Rosa Parks was simply a tired woman who refused to move.", "right": "She was an experienced NAACP activist; the boycott was carefully organised." },
+      { "wrong": "Brown v Board ended school segregation immediately.", "right": "'All deliberate speed' let southern states delay for years." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s2", "q": "What did Brown v Board (1954) rule?", "options": ["Bus segregation was illegal", "Segregated schools were unconstitutional", "Black Americans could vote", "Lynching was illegal"], "answer": 1, "why": "A unanimous decision." },
+      { "id": "m2", "s": "s3", "q": "How long did the Montgomery Bus Boycott last?", "options": ["38 days", "381 days", "3 years", "1 week"], "answer": 1, "why": "December 1955 – December 1956." },
+      { "id": "m3", "s": "s3", "q": "Who sent troops to Little Rock in 1957?", "options": ["Truman", "Eisenhower", "Kennedy", "Faubus"], "answer": 1, "why": "To protect the Little Rock Nine." },
+      { "id": "m4", "s": "s4", "q": "What did the Civil Rights Act 1957 set up?", "options": ["Desegregated schools", "A Civil Rights Commission", "The NAACP", "Voting at 18"], "answer": 1, "why": "Plus a Justice Department division." },
+      { "id": "m5", "s": "s2", "q": "Why did the Emmett Till case matter?", "options": ["It led to Brown v Board", "Photographs shocked the nation and pushed people to act", "Till became a lawyer", "The killers were jailed for life"], "answer": 1, "why": "His mother's open-casket funeral." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s3", "q": "Whose arrest began the Montgomery Bus Boycott?", "accept": ["rosa parks", "parks"], "answer": "Rosa Parks" },
+      { "id": "a2", "s": "s3", "q": "Which governor tried to stop the Little Rock Nine?", "accept": ["faubus", "orval faubus"], "answer": "Orval Faubus" },
+      { "id": "a3", "s": "s2", "q": "Which NAACP lawyer won Brown v Board?", "accept": ["thurgood marshall", "marshall"], "answer": "Thurgood Marshall" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Brown v Board", "Emmett Till murdered", "Rosa Parks arrested", "Buses desegregated", "Little Rock crisis"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the event to its place", "pairs": [["Bus boycott", "Montgomery, Alabama"], ["School crisis 1957", "Little Rock, Arkansas"], ["Emmett Till murdered", "Mississippi"], ["Brown v Board", "Topeka, Kansas"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s3", "q": "Give precise evidence of the success of the Montgomery Bus Boycott.", "keywords": [["381", "1956", "supreme court", "king", "unconstitutional"]], "model": "After 381 days the Supreme Court ruled bus segregation unconstitutional (1956), and King became a national leader." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "How was the North different from the South?", "a": "No legal segregation, but discrimination in jobs and housing created ghettos.", "hint": "De facto." },
+    { "id": "f2", "s": "s2", "q": "Why was Brown v Board important?", "a": "It made school segregation unconstitutional — but 'all deliberate speed' allowed delay.", "hint": "1954." },
+    { "id": "f3", "s": "s3", "q": "Why was the Montgomery boycott significant?", "a": "Showed peaceful mass protest could work; desegregated buses; made King a leader.", "hint": "381 days." },
+    { "id": "f4", "s": "s3", "q": "Why was Little Rock significant?", "a": "The President used federal troops to enforce desegregation — but only reluctantly.", "hint": "Eisenhower." },
+    { "id": "f5", "s": "s4", "q": "Why was the 1957 Civil Rights Act limited?", "a": "Weakened by southern senators; did little to increase black voting in practice.", "hint": "Weak but first." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "describe", "text": "I can describe segregation and discrimination in the 1950s and the roles of the Supreme Court and Congress.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain the importance of Brown v Board and the death of Emmett Till.", "sections": ["s2"] },
+    { "id": "k3", "level": "explain", "text": "I can explain the key events and significance of Montgomery and Little Rock.", "sections": ["s3"] },
+    { "id": "k4", "level": "judge", "text": "I can judge the significance of the 1957 Civil Rights Act and the revival of the KKK.", "sections": ["s4"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "p1b", "label": "Teacher-created practice question", "sections": ["s3"],
+        "q": "Explain two effects of the Montgomery Bus Boycott on the civil rights movement." },
+      { "id": "q2", "qtype": "p1c", "label": "Teacher-created practice question", "sections": ["s2", "s3", "s4"],
+        "q": "‘The most important development for civil rights in the 1950s was the Brown v Board of Education decision.’\nHow far do you agree? Explain your answer.",
+        "prompts": ["Brown v Board of Education", "the Montgomery Bus Boycott"] }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Relative significance", "task": "Courts or protest — which did more for civil rights in the 1950s?" },
+    { "id": "t2", "kind": "Evaluation", "task": "Why did the federal government act so slowly in the 1950s? Give three reasons." }
+  ]
+}

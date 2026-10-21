@@ -1,0 +1,119 @@
+{
+  "id": "y11-us-1", "course": "y11", "area": "us", "kt": "Key topic 1", "order": 11,
+  "title": "The Red Scare and McCarthyism",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Depth study 7, key topic 1. No class textbook uploaded for this option yet." },
+  "learn": {
+    "intro": "After 1945 Americans feared communism abroad and spies at home. Senator Joseph McCarthy exploited that fear — until television helped bring him down.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Reasons for the Red Scare",
+        "blocks": [
+          { "p": "The Cold War, 1945–50: the USSR took control of Eastern Europe; the Berlin Blockade (1948–49) raised tension; in 1949 the USSR tested an atomic bomb and China became communist; in June 1950 the Korean War began. Many Americans felt communism was spreading and feared enemies inside the USA." },
+          { "p": "Spy cases seemed to prove the danger. Alger Hiss, a former State Department official, was accused in 1948 of spying for the USSR and convicted of perjury (lying under oath) in 1950. Julius and Ethel Rosenberg were arrested in 1950 for passing atomic secrets and executed in 1953." },
+          { "p": "Government action: President Truman's Loyalty Program (1947) investigated millions of federal employees. The FBI under J. Edgar Hoover watched suspected communists. The House Un-American Activities Committee (HUAC) investigated Hollywood: in 1947 the 'Hollywood Ten' refused to answer its questions, were jailed and blacklisted." }
+        ],
+        "terms": ["Cold War", "Red Scare", "HUAC", "Hollywood Ten", "blacklist"],
+        "evidence": ["1947: Loyalty Program; Hollywood Ten.", "1949: Soviet atomic bomb; communist China.", "1950: Hiss convicted; Korean War.", "1953: Rosenbergs executed."]
+      },
+      {
+        "id": "s2", "title": "2. McCarthy's methods and the growth of opposition",
+        "blocks": [
+          { "p": "On 9 February 1950, in a speech at Wheeling, West Virginia, Senator Joseph McCarthy claimed to have a list of 205 communists working in the State Department. He never produced proof." },
+          { "p": "His methods: making accusations without evidence, changing his numbers, smearing opponents as 'soft on communism', bullying witnesses at hearings, and using the press to spread his claims. From 1953 he chaired a Senate investigations subcommittee. People feared that if they criticised him they would be accused next." },
+          { "p": "Opposition grew. In June 1950 Senator Margaret Chase Smith made her 'Declaration of Conscience' speech against his tactics. In March 1954 journalist Edward R. Murrow's television programme See It Now exposed McCarthy's methods." }
+        ],
+        "terms": ["McCarthyism", "smear", "Declaration of Conscience"],
+        "evidence": ["9 February 1950: Wheeling speech — '205' names.", "June 1950: Margaret Chase Smith's 'Declaration of Conscience'.", "March 1954: Murrow's See It Now."]
+      },
+      {
+        "id": "s3", "title": "3. McCarthy's downfall and the impact of McCarthyism",
+        "blocks": [
+          { "p": "McCarthy went too far when he accused the US Army of hiding communists. The Army–McCarthy hearings (April–June 1954) were shown on television to millions. Viewers saw him bully witnesses; the Army's lawyer Joseph Welch asked, 'Have you no sense of decency, sir?' His popularity collapsed. In December 1954 the Senate voted to censure him. He died in 1957." },
+          { "p": "Impact: thousands lost their jobs; blacklists damaged careers in film, education and government; loyalty oaths spread; people were afraid to express opinions or join organisations, and free speech suffered. It also made anti-communism a central part of US politics for decades." }
+        ],
+        "terms": ["Army–McCarthy hearings", "censure", "loyalty oath"],
+        "evidence": ["April–June 1954: televised Army–McCarthy hearings.", "December 1954: Senate censures McCarthy.", "1957: McCarthy dies."]
+      }
+    ],
+    "timeline": [
+      { "date": "1947", "event": "Truman's Loyalty Program; HUAC and the Hollywood Ten" },
+      { "date": "1948", "event": "Alger Hiss accused of spying" },
+      { "date": "1949", "event": "Soviet atomic bomb; China becomes communist" },
+      { "date": "Feb 1950", "event": "McCarthy's Wheeling speech" },
+      { "date": "June 1950", "event": "Korean War begins; 'Declaration of Conscience'" },
+      { "date": "1953", "event": "Rosenbergs executed" },
+      { "date": "March 1954", "event": "Murrow's See It Now attacks McCarthy" },
+      { "date": "April–June 1954", "event": "Army–McCarthy hearings televised" },
+      { "date": "Dec 1954", "event": "Senate censures McCarthy" }
+    ],
+    "people": [
+      { "name": "Joseph McCarthy", "role": "Republican Senator for Wisconsin." },
+      { "name": "J. Edgar Hoover", "role": "Director of the FBI." },
+      { "name": "Alger Hiss", "role": "Former State Department official convicted of perjury in 1950." },
+      { "name": "Julius and Ethel Rosenberg", "role": "Executed in 1953 for passing atomic secrets." },
+      { "name": "Edward R. Murrow", "role": "TV journalist who exposed McCarthy." },
+      { "name": "Joseph Welch", "role": "Army lawyer at the 1954 hearings." },
+      { "name": "Margaret Chase Smith", "role": "Senator who spoke out in 1950." }
+    ],
+    "vocab": [
+      { "term": "Red Scare", "def": "Fear of communism in the USA." },
+      { "term": "HUAC", "def": "House Un-American Activities Committee." },
+      { "term": "Blacklist", "def": "A list of people refused work because of suspected communism." },
+      { "term": "Censure", "def": "Formal criticism by the Senate." }
+    ],
+    "misconceptions": [
+      { "wrong": "McCarthy started the Red Scare.", "right": "It began before him — the Loyalty Program and HUAC date from 1947." },
+      { "wrong": "McCarthy's accusations were based on solid evidence.", "right": "He never proved his claims and changed his numbers." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "Which 1949 events increased American fear of communism?", "options": ["Korean War and Watergate", "Soviet atomic bomb and communist China", "Berlin Wall and Cuba", "Hiss and Rosenbergs executed"], "answer": 1, "why": "Both in 1949." },
+      { "id": "m2", "s": "s1", "q": "Who were the Hollywood Ten?", "options": ["Film stars who supported McCarthy", "Writers and directors jailed for refusing to answer HUAC", "FBI agents", "Soviet spies"], "answer": 1, "why": "1947; they were blacklisted." },
+      { "id": "m3", "s": "s2", "q": "How many communists did McCarthy claim were in the State Department in 1950?", "options": ["12", "57", "205", "1,000"], "answer": 2, "why": "Wheeling speech, February 1950." },
+      { "id": "m4", "s": "s3", "q": "What turned public opinion against McCarthy?", "options": ["The Korean War", "The televised Army–McCarthy hearings", "The Rosenberg trial", "The Hollywood Ten"], "answer": 1, "why": "Millions saw his bullying." },
+      { "id": "m5", "s": "s3", "q": "What did the Senate do in December 1954?", "options": ["Promote McCarthy", "Censure McCarthy", "Ban the Communist Party", "Abolish HUAC"], "answer": 1, "why": "A formal condemnation." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s2", "q": "Which journalist exposed McCarthy on See It Now?", "accept": ["murrow", "edward murrow", "edward r murrow", "ed murrow"], "answer": "Edward R. Murrow" },
+      { "id": "a2", "s": "s1", "q": "Who led the FBI?", "accept": ["hoover", "j edgar hoover", "edgar hoover"], "answer": "J. Edgar Hoover" },
+      { "id": "a3", "s": "s1", "q": "Which couple were executed in 1953 for spying?", "accept": ["rosenbergs", "the rosenbergs", "julius and ethel rosenberg", "rosenberg"], "answer": "Julius and Ethel Rosenberg" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Hollywood Ten", "Soviet atomic bomb", "Wheeling speech", "Rosenbergs executed", "Army–McCarthy hearings", "McCarthy censured"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the person to their role", "pairs": [["McCarthy", "Senator who made accusations"], ["Murrow", "TV journalist"], ["Welch", "Army lawyer"], ["Hoover", "FBI director"], ["Hiss", "Accused State Department official"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s3", "q": "Give precise evidence of the media's role in McCarthy's downfall.", "keywords": [["murrow", "see it now", "television", "televised", "hearings", "welch", "1954"]], "model": "Murrow's See It Now (March 1954) and the televised Army–McCarthy hearings (April–June 1954) showed millions his methods." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Give three Cold War reasons for the Red Scare.", "a": "Soviet control of Eastern Europe; Soviet atomic bomb 1949; communist China 1949; Korean War 1950.", "hint": "1949." },
+    { "id": "f2", "s": "s1", "q": "What was HUAC?", "a": "The House Un-American Activities Committee, which investigated suspected communists, including in Hollywood.", "hint": "Committee." },
+    { "id": "f3", "s": "s2", "q": "Describe two of McCarthy's methods.", "a": "Accusations without evidence; changing numbers; bullying witnesses; smearing opponents; using the press.", "hint": "Smear." },
+    { "id": "f4", "s": "s3", "q": "Give two reasons for McCarthy's downfall.", "a": "He attacked the army; televised hearings exposed him; Murrow's programme; Senate censure.", "hint": "Army + TV." },
+    { "id": "f5", "s": "s3", "q": "Give two effects of McCarthyism.", "a": "Lost jobs and blacklists; loyalty oaths; fear and conformity; anti-communism central to politics.", "hint": "Fear." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "explain", "text": "I can explain the reasons for the Red Scare, including the Cold War, Hiss, the Rosenbergs, the FBI and HUAC.", "sections": ["s1"] },
+    { "id": "k2", "level": "describe", "text": "I can describe McCarthy's methods and the growth of opposition.", "sections": ["s2"] },
+    { "id": "k3", "level": "explain", "text": "I can explain the reasons for McCarthy's downfall.", "sections": ["s3"] },
+    { "id": "k4", "level": "judge", "text": "I can judge the overall impact of McCarthyism on the USA.", "sections": ["s3"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "p1c", "label": "Past paper: 4HI1/01, June 2025, Q7(c)(i)", "sections": ["s2", "s3"],
+        "q": "‘The main reason for the downfall of McCarthy was the media.’\nHow far do you agree? Explain your answer.",
+        "prompts": ["the media", "the army"] },
+      { "id": "q2", "qtype": "p1b", "label": "Teacher-created practice question", "sections": ["s3"],
+        "q": "Explain two effects of McCarthyism on the USA." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Competing arguments", "task": "Was McCarthy the cause of McCarthyism or a symptom of the Red Scare? Use dates to argue." },
+    { "id": "t2", "kind": "Relative significance", "task": "Media, the army or McCarthy himself — which mattered most to his downfall?" }
+  ]
+}

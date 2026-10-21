@@ -1,0 +1,158 @@
+{
+  "id": "y13-cr-2", "course": "y13", "area": "cr", "kt": "Key topic 2", "order": 2,
+  "title": "The triumph of 'Jim Crow', 1883–c1900",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following IAL Unit 3 Option 1D key topic 2. Section A sources are real documents with checked provenance, shortened." },
+  "learn": {
+    "intro": "Between 1883 and about 1900 the Supreme Court removed federal protection, southern states built a legal system of segregation, and black men were stripped of the vote. How did black Americans respond?",
+    "sections": [
+      {
+        "id": "s1", "title": "1. The role of the Supreme Court",
+        "blocks": [
+          { "p": "The Civil Rights Cases (1883) struck down the public-accommodation sections of the Civil Rights Act of 1875 by eight votes to one. The Court ruled that the Fourteenth Amendment restricted discrimination by states, not by private individuals and businesses. Justice John Marshall Harlan dissented." },
+          { "p": "Plessy v Ferguson (1896) upheld Louisiana's Separate Car Act of 1890. Homer Plessy, who was seven-eighths white, deliberately sat in a whites-only carriage in 1892 to test the law. The Court ruled 7–1 that 'separate but equal' facilities did not breach the Fourteenth Amendment. Harlan again dissented. Plessy gave constitutional approval to segregation until 1954." },
+          { "p": "Williams v Mississippi (1898) upheld Mississippi's poll tax and literacy test because the laws did not mention race on their face — even though they were designed to exclude black voters. Cumming v Richmond County Board of Education (1899) allowed a Georgia county to close its black high school while keeping white schools open, showing that 'equal' would not be enforced." }
+        ],
+        "terms": ["Civil Rights Cases", "separate but equal", "state action", "Plessy v Ferguson"],
+        "evidence": ["1883: Civil Rights Cases, 8–1.", "1896: Plessy v Ferguson, 7–1; Harlan dissents.", "1898: Williams v Mississippi.", "1899: Cumming v Richmond County Board of Education."]
+      },
+      {
+        "id": "s2", "title": "2. The spread of Jim Crow laws",
+        "blocks": [
+          { "p": "Florida required separate railway carriages in 1887; other southern states followed, including Mississippi (1888) and Louisiana (1890). After Plessy, segregation spread from trains to stations, streetcars, schools, hospitals, parks, theatres and cemeteries, and from state to state. 'Jim Crow' — the name of a racist minstrel character — came to mean the whole system." },
+          { "p": "Pressure from white southern groups drove the laws: Democratic 'Redeemer' politicians, and later politicians who exploited racial fears to defeat the interracial potential of the Populist movement in the 1890s. Lynching was used to enforce the racial order; it peaked in the early 1890s, when well over a hundred black Americans were lynched in some single years." },
+          { "p": "Impact on opportunity: black schools received far less funding per pupil than white schools; most black southerners remained sharecroppers, tenant farmers or labourers trapped in debt; convict leasing forced prisoners, mostly black, to work for private companies. A modest drift to northern and western cities began, foreshadowing the Great Migration after 1915." }
+        ],
+        "terms": ["Jim Crow", "convict leasing", "lynching", "Populists"],
+        "evidence": ["1887: Florida separate railway carriages.", "1890: Louisiana Separate Car Act.", "Early 1890s: peak of lynching."]
+      },
+      {
+        "id": "s3", "title": "3. Excluding black voters",
+        "blocks": [
+          { "p": "Mississippi's constitution of 1890 introduced a poll tax, a literacy test with an 'understanding clause' that white registrars applied selectively, and long residency requirements. Other states copied this 'Mississippi Plan'." },
+          { "p": "Louisiana's constitution of 1898 added a 'grandfather clause': men whose fathers or grandfathers had been able to vote before 1867 were exempt from the literacy and property tests — which in practice exempted poor white men only. Registered black voters in Louisiana fell from about 130,000 in 1896 to about 5,000 by 1900." },
+          { "p": "By the early twentieth century every former Confederate state had disfranchised most black men through poll taxes, literacy tests, white primaries and intimidation. Without votes, black southerners could not elect officials who might challenge segregation or unequal school funding." }
+        ],
+        "terms": ["disfranchisement", "poll tax", "literacy test", "grandfather clause", "white primary"],
+        "evidence": ["1890: Mississippi constitution.", "1898: Louisiana grandfather clause.", "Louisiana black registered voters: about 130,000 (1896) → about 5,000 (1900)."]
+      },
+      {
+        "id": "s4", "title": "4. The black response",
+        "blocks": [
+          { "p": "Booker T. Washington, head of the Tuskegee Institute (founded 1881), argued for economic self-help and vocational education rather than immediate agitation for political and social equality. His Atlanta Exposition address of 1895 — called the 'Atlanta Compromise' by critics — won white support and funding." },
+          { "p": "Others challenged segregation directly. Ida B. Wells exposed lynching in Southern Horrors (1892) and campaigned internationally; Homer Plessy and the New Orleans Citizens' Committee organised a legal test case; the National Afro-American League (1890) campaigned for rights. W. E. B. Du Bois would soon criticise Washington's approach in The Souls of Black Folk (1903)." }
+        ],
+        "terms": ["accommodationism", "Atlanta Compromise", "self-help", "anti-lynching campaign"],
+        "evidence": ["1881: Tuskegee Institute founded.", "1892: Ida B. Wells, Southern Horrors.", "18 September 1895: Washington's Atlanta address."]
+      }
+    ],
+    "timeline": [
+      { "date": "1881", "event": "Tuskegee Institute founded" },
+      { "date": "1883", "event": "Civil Rights Cases strike down the 1875 Act's accommodation clauses" },
+      { "date": "1887", "event": "Florida requires separate railway carriages" },
+      { "date": "1890", "event": "Mississippi constitution disfranchises black voters; Louisiana Separate Car Act" },
+      { "date": "1892", "event": "Ida B. Wells publishes Southern Horrors; Plessy arrested" },
+      { "date": "Sept 1895", "event": "Booker T. Washington's Atlanta address" },
+      { "date": "May 1896", "event": "Plessy v Ferguson" },
+      { "date": "1898", "event": "Louisiana grandfather clause; Williams v Mississippi" },
+      { "date": "1899", "event": "Cumming v Richmond County Board of Education" }
+    ],
+    "people": [
+      { "name": "John Marshall Harlan", "role": "Supreme Court justice; lone dissenter in 1883 and 1896." },
+      { "name": "Homer Plessy", "role": "Tested Louisiana's Separate Car Act in 1892." },
+      { "name": "Booker T. Washington", "role": "Tuskegee principal; Atlanta address 1895." },
+      { "name": "Ida B. Wells", "role": "Journalist; led the anti-lynching campaign." },
+      { "name": "W. E. B. Du Bois", "role": "Scholar who challenged Washington's approach (1903)." }
+    ],
+    "vocab": [
+      { "term": "Jim Crow", "def": "The system of legal segregation in the South." },
+      { "term": "Separate but equal", "def": "Plessy doctrine allowing segregation if facilities were supposedly equal." },
+      { "term": "Disfranchisement", "def": "Removing the right to vote." },
+      { "term": "Grandfather clause", "def": "Exemption from voting tests for descendants of pre-1867 voters." },
+      { "term": "Accommodationism", "def": "Accepting segregation for now while building economic strength." }
+    ],
+    "misconceptions": [
+      { "wrong": "Plessy v Ferguson created segregation.", "right": "It approved segregation laws that states were already passing (e.g. Florida 1887, Louisiana 1890)." },
+      { "wrong": "Booker T. Washington accepted inequality.", "right": "He tactically accepted segregation while privately funding legal challenges; critics like Du Bois still saw his public stance as damaging." }
+    ],
+    "sources": [
+      { "id": "btw", "title": "Booker T. Washington, Atlanta Exposition address", "quote": "In all things that are purely social we can be as separate as the fingers, yet one as the hand in all things essential to mutual progress.", "type": "Public speech", "date": "18 September 1895", "origin": "Washington, principal of Tuskegee Institute, speaking to a largely white audience at the Cotton States and International Exposition.", "purpose": "To reassure white southern and northern elites and win support for black economic progress.", "usefulness": "Shows the strategy of a leading black spokesman and what white audiences would accept; not necessarily the private views of Washington or of most black Americans." },
+      { "id": "harlan", "title": "Justice Harlan, dissent in Plessy v Ferguson", "quote": "Our Constitution is color-blind, and neither knows nor tolerates classes among citizens.", "type": "Supreme Court dissenting opinion", "date": "18 May 1896", "origin": "John Marshall Harlan, a former slaveholder from Kentucky, the only justice to dissent.", "purpose": "To argue that segregation breached the Fourteenth Amendment and to put that argument on the legal record.", "usefulness": "A powerful legal argument against segregation, but a minority view on the Court; Harlan also wrote that the white race was 'dominant' in the country." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "What did the Civil Rights Cases (1883) rule?", "options": ["Segregation was unconstitutional", "The Fourteenth Amendment did not cover private discrimination", "Black men could vote", "Schools must be equal"], "answer": 1, "why": "It struck down the public-accommodation clauses of the 1875 Act." },
+      { "id": "m2", "s": "s1", "q": "What doctrine did Plessy v Ferguson establish?", "options": ["Equal protection", "Separate but equal", "Grandfather clause", "All deliberate speed"], "answer": 1, "why": "1896, by 7 votes to 1." },
+      { "id": "m3", "s": "s1", "q": "Why did Williams v Mississippi (1898) uphold Mississippi's voting rules?", "options": ["They applied only to white voters", "They did not mention race on their face", "Congress approved them", "Black voters supported them"], "answer": 1, "why": "Apparently race-neutral laws designed to exclude black voters." },
+      { "id": "m4", "s": "s2", "q": "Which state passed an early separate railway carriage law in 1887?", "options": ["Louisiana", "Florida", "Alabama", "Georgia"], "answer": 1, "why": "Named in the specification." },
+      { "id": "m5", "s": "s3", "q": "What did a grandfather clause do?", "options": ["Exempted poor white men from voting tests", "Gave pensions to veterans", "Banned lynching", "Desegregated trains"], "answer": 0, "why": "Louisiana 1898: exemptions for descendants of pre-1867 voters." },
+      { "id": "m6", "s": "s4", "q": "What did Booker T. Washington emphasise?", "options": ["Immediate political protest", "Economic self-help and vocational education", "Emigration to Africa", "Armed self-defence"], "answer": 1, "why": "Atlanta address, 1895." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s1", "q": "Which justice dissented in Plessy v Ferguson?", "accept": ["harlan", "john marshall harlan", "justice harlan"], "answer": "John Marshall Harlan" },
+      { "id": "a2", "s": "s3", "q": "Which state's 1890 constitution became a model for disfranchisement?", "accept": ["mississippi"], "answer": "Mississippi" },
+      { "id": "a3", "s": "s4", "q": "Who wrote Southern Horrors (1892)?", "accept": ["ida b wells", "ida wells", "ida b. wells", "wells"], "answer": "Ida B. Wells" },
+      { "id": "a4", "s": "s4", "q": "Which institute did Booker T. Washington lead?", "accept": ["tuskegee", "tuskegee institute"], "answer": "Tuskegee Institute" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Civil Rights Cases", "Florida railway law", "Mississippi constitution", "Atlanta address", "Plessy v Ferguson", "Louisiana grandfather clause", "Cumming v Richmond County"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the case to its effect", "pairs": [["Civil Rights Cases 1883", "Private discrimination allowed"], ["Plessy v Ferguson 1896", "Separate but equal"], ["Williams v Mississippi 1898", "Voting tests upheld"], ["Cumming v Richmond County 1899", "Unequal schooling allowed"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s3", "q": "Give precise evidence of the impact of disfranchisement.", "keywords": [["130", "5,000", "5000", "louisiana", "grandfather", "1898", "1890", "mississippi"]], "model": "After Louisiana's 1898 grandfather clause, registered black voters fell from about 130,000 (1896) to about 5,000 (1900)." },
+      { "id": "e2", "s": "s1", "q": "Give precise evidence of the Supreme Court's role in Jim Crow.", "keywords": [["1883", "plessy", "1896", "williams", "cumming", "civil rights cases"]], "model": "Civil Rights Cases (1883), Plessy v Ferguson (1896), Williams v Mississippi (1898), Cumming v Richmond County (1899)." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Why did the Civil Rights Cases matter?", "a": "They left private discrimination outside federal law, opening the way for segregation in businesses and transport.", "hint": "State vs private." },
+    { "id": "f2", "s": "s1", "q": "What happened to 'equal' after Plessy?", "a": "It was not enforced — Cumming (1899) let a county close its black high school.", "hint": "Cumming." },
+    { "id": "f3", "s": "s2", "q": "Name four areas segregation spread to after 1896.", "a": "Stations, streetcars, schools, hospitals, parks, theatres, cemeteries.", "hint": "Everywhere." },
+    { "id": "f4", "s": "s2", "q": "How did Jim Crow affect economic opportunity?", "a": "Most black southerners stayed in sharecropping or labouring; underfunded schools; convict leasing; some drift north and west.", "hint": "Land, schools, prison labour." },
+    { "id": "f5", "s": "s3", "q": "Name three methods of disfranchisement.", "a": "Poll taxes, literacy tests with 'understanding clauses', grandfather clauses, white primaries, intimidation.", "hint": "Tax, test, grandfather." },
+    { "id": "f6", "s": "s4", "q": "Why did critics call Washington's speech the 'Atlanta Compromise'?", "a": "He appeared to accept segregation and political inequality in return for economic opportunity.", "hint": "Fingers and hand." },
+    { "id": "f7", "s": "s4", "q": "How did Ida B. Wells challenge Jim Crow?", "a": "Investigative journalism exposing lynching (Southern Horrors, 1892) and an international campaign.", "hint": "Lynching." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "judge", "text": "I can assess the impact of the Supreme Court cases of 1883, 1896, 1898 and 1899.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain how Jim Crow laws spread and their impact on education and economic opportunity.", "sections": ["s2"] },
+    { "id": "k3", "level": "explain", "text": "I can explain how black voters were excluded in Mississippi, Louisiana and across the South.", "sections": ["s3"] },
+    { "id": "k4", "level": "judge", "text": "I can evaluate black responses to segregation, including Booker T. Washington.", "sections": ["s4"] },
+    { "id": "k5", "level": "judge", "text": "I can use provenance and context to judge how far two sources can be used together.", "sections": ["s4", "s1"] }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1", "qtype": "u3a", "label": "Teacher-created Section A practice (real sources, shortened)", "sections": ["s1", "s4"],
+        "q": "How far could the historian make use of Sources 1 and 2 together to investigate attitudes towards racial segregation in the USA in the years 1895–96?\nExplain your answer, using both sources, the information given about them and your own knowledge of the historical context.",
+        "sources": [
+          { "label": "Source 1", "provenance": "From a speech by Booker T. Washington, principal of the Tuskegee Institute, at the Cotton States and International Exposition, Atlanta, 18 September 1895. His audience was largely white.", "text": "The wisest among my race understand that the agitation of questions of social equality is the extremest folly, and that progress in the enjoyment of all the privileges that will come to us must be the result of severe and constant struggle rather than of artificial forcing. … In all things that are purely social we can be as separate as the fingers, yet one as the hand in all things essential to mutual progress." },
+          { "label": "Source 2", "provenance": "From the dissenting opinion of Justice John Marshall Harlan in the Supreme Court case Plessy v Ferguson, 18 May 1896. Harlan was the only one of the justices to disagree with the Court's decision.", "text": "The white race deems itself to be the dominant race in this country. And so it is, in prestige, in achievements, in education, in wealth, and in power. … But in view of the Constitution, in the eye of the law, there is in this country no superior, dominant, ruling class of citizens. There is no caste here. Our Constitution is color-blind, and neither knows nor tolerates classes among citizens. … The thin disguise of 'equal' accommodations for passengers in railroad coaches will not mislead anyone, nor atone for the wrong this day done." }
+        ],
+        "sources_note": "Shortened extracts (… marks omitted text). Real exam sources are longer.",
+        "model": [
+          { "t": "Together, the sources are valuable for investigating attitudes to segregation because they show two very different responses from figures with influence in the mid-1890s, although neither represents the majority white southern view that was then being written into law.", "n": "Opening judgement focused on the enquiry ('attitudes … 1895–96') and on using them together." },
+          { "t": "Source 1 suggests that a leading black spokesman was prepared to accept social separation, describing agitation for 'social equality' as 'the extremest folly'. However, its value as evidence of black opinion is limited by its purpose: Washington was addressing a largely white audience whose goodwill and funding Tuskegee depended on, so the speech reveals what he judged acceptable to white listeners as much as what he believed.", "n": "Inference + provenance (audience, purpose) used to weigh the evidence." },
+          { "t": "Source 2 complements this by showing principled opposition within the federal government itself: Harlan calls the Constitution 'color-blind'. Yet he still describes the white race as 'dominant … in power', which reveals that even opposition to legal segregation could coexist with assumptions of white superiority — and as a lone dissent it shows how isolated that opposition was on the Court.", "n": "Using the sources together; distinguishing claim from opinion; context (7–1 decision)." }
+        ],
+        "model_note": "Teacher-written model extract."
+      },
+      { "id": "q2", "qtype": "u3b", "label": "From your Civil Rights Question 2 essay-steps deck", "sections": ["s2", "s3"],
+        "q": "‘The main problems facing black Americans, in the years 1865–77 and 1883–1900, were economic rather than political.’\nHow far do you agree with this judgement?",
+        "model": [
+          { "t": "Political problems became particularly serious in 1883–1900 because Black Americans increasingly lost the means to challenge their economic position.", "n": "P — Point: answers the question and names the period." },
+          { "t": "Mississippi's constitution of 1890 imposed voting barriers, including a poll tax and literacy requirements. The Civil Rights Cases of 1883 also removed federal public-accommodation protections against private discrimination.", "n": "E — Evidence: precise examples (acts, dates)." },
+          { "t": "Reduced access to the vote weakened Black influence over lawmakers. Weaker legal protection made discrimination harder to challenge, so economic disadvantage became more difficult to remedy.", "n": "E — Explain: links political power with economic circumstances." },
+          { "t": "Sharecropping and debt remained immediate threats to livelihoods. However, political exclusion was more fundamental when judged by the ability to secure reform, because it weakened the routes through which those hardships could be challenged.", "n": "J — Judgement: compares the two problems using a stated criterion." }
+        ],
+        "model_note": "PEEJ model paragraph from your Question 2 essay-steps deck." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Competing arguments", "task": "Washington or Wells: whose strategy was more realistic in the 1890s? Judge by what each could achieve at the time." },
+    { "id": "t2", "kind": "Relative significance", "task": "Was the Supreme Court or southern state legislatures more responsible for Jim Crow? Use effectiveness and scope." },
+    { "id": "t3", "kind": "Source evaluation", "task": "Rewrite Source 1's provenance so that it would be more valuable for investigating black opinion. What would you want to know about the author, audience or date?" }
+  ]
+}

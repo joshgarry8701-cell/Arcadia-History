@@ -24,12 +24,15 @@ function createApp(opts = {}) {
   let reservedUsd = 0; // in-flight worst-case AI spend, so parallel requests cannot overshoot the ceiling
 
   // ---------- bootstrap ----------
+  // Content files are loaded into the database. New files are added on every start;
+  // files already in the database are only overwritten when CONTENT_RESEED=true,
+  // so edits made in the Teacher area are not lost on restart.
   function seedContent(force = false) {
-    const has = db.prepare('SELECT COUNT(*) n FROM content').get().n;
-    if (has && !force) return;
     const courses = JSON.parse(fs.readFileSync(path.join(CONTENT, 'courses.json'), 'utf8'));
-    const put = db.prepare(`INSERT INTO content(id,kind,json,status,updated_at) VALUES(?,?,?,?,?)
+    const upsert = db.prepare(`INSERT INTO content(id,kind,json,status,updated_at) VALUES(?,?,?,?,?)
       ON CONFLICT(id) DO UPDATE SET json=excluded.json, status=excluded.status, updated_at=excluded.updated_at`);
+    const insert = db.prepare('INSERT OR IGNORE INTO content(id,kind,json,status,updated_at) VALUES(?,?,?,?,?)');
+    const put = force ? upsert : insert;
     put.run('courses', 'courses', JSON.stringify(courses), 'published', now());
     const dir = path.join(CONTENT, 'topics');
     for (const f of fs.readdirSync(dir).filter((x) => x.endsWith('.json'))) {
@@ -37,7 +40,7 @@ function createApp(opts = {}) {
       put.run('topic:' + t.id, 'topic', JSON.stringify(t), t.status === 'published' ? 'published' : 'draft', now());
     }
   }
-  seedContent();
+  seedContent(env.CONTENT_RESEED === 'true');
 
   if (!db.prepare("SELECT 1 FROM users WHERE role='teacher'").get()) {
     if (env.TEACHER_PASSWORD) {
@@ -120,7 +123,7 @@ function createApp(opts = {}) {
     for (const r of rows) {
       if (req.user.role !== 'teacher' && r.status !== 'published') continue;
       const t = JSON.parse(r.json);
-      topics[t.id] = { id: t.id, course: t.course, title: t.title, status: r.status, review: t.review };
+      topics[t.id] = { id: t.id, course: t.course, area: t.area || null, kt: t.kt || null, order: t.order || 0, title: t.title, status: r.status, review: t.review };
     }
     return { courses, topics, ai: aiStatus() };
   });
@@ -227,8 +230,8 @@ function createApp(opts = {}) {
     if (depth > s.max_resubmissions) throw new HttpError(429, `You have reached the redraft limit (${s.max_resubmissions}) for this question. Ask Mr Garry to review it.`);
 
     const topic = getContent('topic:' + r.topic_id).data;
-    const question = topic.exam.questions.find((q) => q.id === r.question_id);
     const course = findCourse(topic.course);
+    const question = M.resolveQuestion(course, topic.exam.questions.find((q) => q.id === r.question_id));
     const prompt = M.buildPrompt({ course, topic, question, text: r.text, previous });
 
     const worst = (M.estimateTokens(prompt.system + prompt.user) * s.price_input_per_mtok + s.max_output_tokens * s.price_output_per_mtok) / 1e6;
@@ -409,7 +412,7 @@ function createApp(opts = {}) {
   });
 
   // ---------- http plumbing ----------
-  const MIME = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css; charset=utf-8', '.svg': 'image/svg+xml', '.png': 'image/png', '.json': 'application/json', '.ico': 'image/x-icon', '.webmanifest': 'application/manifest+json' };
+  const MIME = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css; charset=utf-8', '.svg': 'image/svg+xml', '.png': 'image/png', '.json': 'application/json', '.ico': 'image/x-icon', '.webp': 'image/webp', '.webmanifest': 'application/manifest+json' };
 
   function security(res) {
     res.setHeader('X-Content-Type-Options', 'nosniff');

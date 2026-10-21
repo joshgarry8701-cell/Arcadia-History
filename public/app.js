@@ -59,7 +59,7 @@ function LocalStore() {
     logout: async () => {},
     catalog: async () => {
       const topics = {};
-      for (const t of Object.values(H.topics)) topics[t.id] = { id: t.id, course: t.course, title: t.title, status: 'published', review: t.review };
+      for (const t of Object.values(H.topics)) topics[t.id] = { id: t.id, course: t.course, area: t.area || null, kt: t.kt || null, order: t.order || 0, title: t.title, status: 'published', review: t.review };
       return { courses: H.courses, topics, ai: { available: false, reasons: [AI_REASON] } };
     },
     topic: async (id) => JSON.parse(JSON.stringify(H.topics[id])),
@@ -76,6 +76,7 @@ function LocalStore() {
 }
 
 const Store = PREVIEW ? LocalStore() : ApiStore();
+const PHOTO = (window.HUB_PREVIEW && window.HUB_PREVIEW.photo) || 'mr-garry.webp';
 
 // ---------- state ----------
 const S = { user: null, catalog: null, topics: {}, progress: {}, subs: null, ai: null, ui: {}, save: 'saved', teacher: {} };
@@ -232,12 +233,14 @@ function viewLogin(err) {
 
 function viewHome() {
   const cs = S.catalog.courses.courses;
-  const anyTopic = Object.keys(S.catalog.topics).length > 0;
   return shell(html`
-    <section class="hero">
-      <p class="eyebrow">History · Key Stage 3 to International A Level</p>
-      <h1>Choose your year</h1>
-      <p>Learn the content, test your memory, practise your writing and act on feedback.</p>
+    <section class="hero hero-photo">
+      <img class="teacher" src="${PHOTO}" alt="Mr Garry" width="132" height="132">
+      <div>
+        <p class="eyebrow">History · Key Stage 3 to International A Level</p>
+        <h1>Choose your year</h1>
+        <p>Learn the content, test your memory, practise your writing and act on feedback.</p>
+      </div>
     </section>
     <section class="years" aria-label="Year groups">
       ${cs.map((c) => {
@@ -250,13 +253,22 @@ function viewHome() {
         </button>`;
       })}
     </section>
-    ${anyTopic ? html`<section class="panel"><div class="row" style="justify-content:space-between"><div><h2>Mixed retrieval quiz</h2><p class="muted">Ten questions drawn from every topic you can access.</p></div><button class="btn primary" data-act="go" data-to="mixed">Start</button></div></section>` : ''}
   `);
 }
 
+function topicCard(t) {
+  const full = S.topics[t.id]; const st = full ? topicStats(full) : null;
+  return html`<button class="act" data-act="go" data-to="${t.id}"><span class="eyebrow">${t.kt || 'Topic'}</span><b>${t.title}</b>
+    ${t.status !== 'published' ? html`<span class="chip warn">Draft — students cannot see this</span>` : ''}
+    ${st ? html`<span class="small muted">${st.mastered}/${st.cards} cards mastered · quiz ${st.quiz == null ? '—' : st.quiz + '%'}</span><div class="meter" aria-hidden="true"><i style="width:${st.cards ? Math.round(100 * st.mastered / st.cards) : 0}%"></i></div>` : ''}
+  </button>`;
+}
+const courseTopics = (c) => Object.values(S.catalog.topics).filter((t) => t.course === c.id).sort((a, b) => (a.order || 0) - (b.order || 0) || a.id.localeCompare(b.id));
 function viewCourse(c) {
-  const topics = Object.values(S.catalog.topics).filter((t) => t.course === c.id);
+  const topics = courseTopics(c);
   const ex = c.exam;
+  const areas = c.areas && c.areas.length ? c.areas : [{ id: null, title: null }];
+  const isT = S.user.role === 'teacher';
   return shell(html`
     ${crumbs([{ label: c.year }])}
     <section class="course-head" style="--course:${c.accent}">
@@ -264,27 +276,84 @@ function viewCourse(c) {
       <h1>${c.title}</h1>
       <p class="muted">${c.enquiry}</p>
     </section>
-    ${topics.length ? html`<section class="acts" style="--course:${c.accent}">${topics.map((t) => {
-      const full = S.topics[t.id]; const st = full ? topicStats(full) : null;
-      return html`<button class="act" data-act="go" data-to="${t.id}"><span class="eyebrow">Topic</span><b>${t.title}</b>
-        ${t.status !== 'published' ? html`<span class="chip warn">Draft — students cannot see this</span>` : ''}
-        ${st ? html`<span class="small muted">${st.mastered}/${st.cards} cards mastered · quiz ${st.quiz == null ? '—' : st.quiz + '%'}</span><div class="meter" aria-hidden="true"><i style="width:${Math.round(100 * st.mastered / st.cards)}%"></i></div>` : ''}
-      </button>`;
-    })}</section>`
-    : html`<div class="notice">Revision topics for this course are being prepared. They will appear here once Mr Garry has added the course resources.</div>`}
+    <div style="--course:${c.accent}; display:grid; gap:18px; min-width:0">
+    ${topics.length ? html`<section class="acts">
+      ${c.qtypes ? html`<button class="act" data-act="go" data-to="${c.id}.guide"><span class="eyebrow">Exam</span><b>Exam guide</b><span class="small muted">Every question type: what to do, timings, mark scheme levels, frames and models</span></button>` : ''}
+      <button class="act" data-act="go" data-to="${c.id}.mixed"><span class="eyebrow">Retrieval</span><b>Mixed quiz</b><span class="small muted">Questions from every topic in this course</span></button>
+      <button class="act" data-act="go" data-to="${c.id}.dates"><span class="eyebrow">Retrieval</span><b>Key dates quiz</b><span class="small muted">Match events and dates from the timelines</span></button>
+    </section>` : ''}
+    ${topics.length ? areas.map((a) => {
+      const list = topics.filter((t) => !a.id || t.area === a.id);
+      return html`<section style="display:grid;gap:10px">${a.title ? html`<div><p class="eyebrow">${a.paper || ''}</p><h2>${a.title}</h2></div>` : ''}
+        ${list.length ? html`<div class="acts">${list.map(topicCard)}</div>` : html`<div class="notice">Topics for this part of the course are being prepared.</div>`}</section>`;
+    }) : html`<div class="notice">Revision topics for this course are being prepared. They will appear here once Mr Garry has added the course resources.</div>`}
     ${ex ? html`<section class="panel"><h2>About the exam</h2>
-      ${ex.verified ? '' : html`<div class="notice">These details have not yet been checked against the official specification. Mr Garry will confirm them — don't rely on anything marked "to be confirmed".</div>`}
+      ${ex.verified ? '' : html`<div class="notice">These details have not yet been checked against the official specification.</div>`}
       <div class="scroll-x"><table class="data"><tbody>
         <tr><th scope="row">Exam board</th><td>${ex.board}</td></tr>
-        <tr><th scope="row">Qualification</th><td>${ex.qualification}</td></tr>
+        <tr><th scope="row">Qualification</th><td>${ex.qualification}${ex.codes ? html`<br><span class="small muted">${ex.codes}</span>` : ''}</td></tr>
         <tr><th scope="row">Specification</th><td>${ex.specification_version || html`<span class="muted">To be confirmed</span>`}</td></tr>
-        ${ex.options.map((o) => html`<tr><th scope="row">${o.area}</th><td>${o.title || html`<span class="muted">Title and code to be confirmed</span>`}${o.code ? ' · ' + o.code : ''}</td></tr>`)}
-        <tr><th scope="row">Papers, questions and marks</th><td>${ex.papers ? JSON.stringify(ex.papers) : html`<span class="muted">To be confirmed</span>`}</td></tr>
+        ${(ex.papers || []).map((pp) => html`<tr><th scope="row">${pp.title}</th><td>${pp.duration} · ${pp.marks} marks${pp.weighting ? ' · ' + pp.weighting : ''}<br><span class="small">${pp.structure}</span></td></tr>`)}
       </tbody></table></div>
+      ${ex.aos ? html`<details class="fold"><summary>Assessment objectives</summary><div><ul>${ex.aos.map((a) => html`<li><b>${a.ao}</b> (${a.weight}): ${a.text}</li>`)}</ul></div></details>` : ''}
+      ${ex.themes ? html`<details class="fold"><summary>The five themes</summary><div><ol>${ex.themes.map((x) => html`<li>${x}</li>`)}</ol></div></details>` : ''}
       ${c.separation_note ? html`<p class="small muted">${c.separation_note}</p>` : ''}
+      <details class="fold"><summary>Where these details come from</summary><div><ul>${(ex.sources || []).map((x) => html`<li>${x.url ? html`<a href="${x.url}" target="_blank" rel="noopener">${x.title}</a>` : x.title}${x.note ? html` <span class="muted">— ${x.note}</span>` : ''}</li>`)}</ul></div></details>
     </section>` : ''}
-    ${S.user.role === 'teacher' ? html`<section class="panel"><h2>Resources still needed</h2><ul>${c.resources_needed.map((r) => html`<li>${r}</li>`)}</ul>${c.assessment ? html`<p class="small muted">${c.assessment.notes}</p>` : ''}</section>` : ''}
+    ${isT && ex && (ex.conflicts || ex.open_questions) ? html`<section class="panel"><h2>For Mr Garry: to check</h2>
+      ${ex.conflicts ? html`<h3>Conflicts found in the documents</h3><ul>${ex.conflicts.map((x) => html`<li>${x}</li>`)}</ul>` : ''}
+      ${ex.open_questions ? html`<h3>Open questions</h3><ul>${ex.open_questions.map((x) => html`<li>${x}</li>`)}</ul>` : ''}</section>` : ''}
+    ${isT ? html`<section class="panel"><h2>Resources</h2>${c.resources_received && c.resources_received.length ? html`<p class="small"><b>Received:</b> ${c.resources_received.join('; ')}</p>` : ''}<h3>Still needed</h3><ul>${c.resources_needed.map((r) => html`<li>${r}</li>`)}</ul>${c.assessment ? html`<p class="small muted">${c.assessment.notes}</p>` : ''}</section>` : ''}
+    </div>
   `);
+}
+
+// ---------- question types and exam guide ----------
+function resolveQ(course, q) {
+  const base = (q && q.qtype && course && course.qtypes && course.qtypes[q.qtype]) || {};
+  const out = { ...base };
+  for (const [k, v] of Object.entries(q || {})) if (v !== null && v !== undefined) out[k] = v;
+  if (q && q.markscheme === undefined && base.markscheme) out.markscheme = base.markscheme;
+  if (!out.frames && out.frame) out.frames = [{ name: 'Writing frame', full: out.frame.full, some: out.frame.some }];
+  if (q && q.model && q.model.length) out.model_note = q.model_note || null;
+  return out;
+}
+function levelsTable(ms) {
+  if (!ms || !ms.levels || !ms.levels.length) return '';
+  return html`<div class="scroll-x"><table class="data levels"><thead><tr><th>Level</th><th>Marks</th><th>Descriptor</th></tr></thead><tbody>${ms.levels.map((l) => html`<tr><td>${l.level}</td><td class="mono">${l.marks}</td><td>${l.descriptor}</td></tr>`)}</tbody></table></div>
+    ${ms.notes ? html`<p class="small">${ms.notes}</p>` : ''}
+    <p class="small muted">${ms.verified ? 'Checked by Mr Garry. ' : 'Mr Garry is checking this wording against the official mark scheme. '}Source: ${ms.source || '—'}</p>`;
+}
+function modelBlock(q) {
+  if (!q.model || !q.model.length) return '';
+  return html`<div class="model">${q.model.map((m) => html`<div class="seg"><p>${m.t}</p><em>${m.n}</em></div>`)}${q.model_note ? html`<p class="small muted">${q.model_note}</p>` : html`<p class="small muted">An example, not the only way to answer.</p>`}</div>`;
+}
+function qtypeGuide(c, key, qt) {
+  const past = [];
+  for (const t of courseTopics(c)) { const full = S.topics[t.id]; if (!full) continue; for (const q of full.exam.questions) if (q.qtype === key) past.push({ t: full, q }); }
+  return html`<article class="panel" id="sec-${key}">
+    <div class="row" style="gap:6px"><span class="chip">${qt.paper}</span><span class="chip mono">${qt.marks} marks</span><span class="chip mono">~${qt.minutes} min</span><span class="chip">${qt.ao}</span></div>
+    <h3>${qt.label}</h3>
+    ${qt.template ? html`<p class="frame"><span class="eyebrow">How the question is worded</span>${qt.template}</p>` : ''}
+    <details class="fold" open><summary>What it asks you to do</summary><div><p>${qt.asks}</p></div></details>
+    <details class="fold"><summary>Step-by-step approach</summary><div><ol>${qt.steps.map((x) => html`<li>${x}</li>`)}</ol></div></details>
+    <details class="fold"><summary>Planning and timing</summary><div><p>${qt.plan}</p></div></details>
+    <details class="fold"><summary>Assessment criteria and mark scheme levels</summary><div><ul>${qt.success.map((x) => html`<li>${x}</li>`)}</ul>${levelsTable(qt.markscheme)}${qt.criteria_list ? html`<p class="eyebrow">Judgement criteria</p><ul>${qt.criteria_list.map((x) => html`<li>${x}</li>`)}</ul>` : ''}${qt.evidence_tip ? html`<p class="small">${qt.evidence_tip}</p>` : ''}</div></details>
+    <details class="fold"><summary>Common mistakes</summary><div><ul>${qt.mistakes.map((x) => html`<li>${x}</li>`)}</ul></div></details>
+    <details class="fold"><summary>Writing frame${(qt.frames || []).length > 1 ? 's' : ''}</summary><div>${(qt.frames || (qt.frame ? [{ name: 'Writing frame', ...qt.frame }] : [])).map((f) => html`<div class="frame"><span class="eyebrow">${f.name}</span><ol>${f.full.map((l) => html`<li>${l}</li>`)}</ol></div>`)}</div></details>
+    ${qt.model ? html`<details class="fold"><summary>Annotated model</summary><div>${modelBlock(qt)}</div></details>` : ''}
+    ${qt.requires_sources ? html`<p class="small muted">This question type needs the sources or extracts from the paper. Practise with past papers from Pearson's website or the questions Mr Garry adds.</p>` : ''}
+    ${past.length ? html`<div><p class="eyebrow">Practise this question type</p><ul>${past.map(({ t, q }) => html`<li><button class="btn sm" data-act="go" data-to="${t.id}.exam.${q.id}" style="text-align:left">${q.q}</button> <span class="small muted">${q.label}</span></li>`)}</ul></div>` : ''}
+  </article>`;
+}
+function viewGuide(c) {
+  const ex = c.exam || {};
+  return shell(html`${crumbs([{ label: c.year, to: c.id }, { label: 'Exam guide' }])}
+    <section class="course-head" style="--course:${c.accent}"><p class="eyebrow">${c.year} · ${ex.qualification || c.title}</p><h1>Exam guide</h1><p class="muted">${ex.codes || ''}</p></section>
+    <div style="--course:${c.accent}; display:grid; gap:18px; min-width:0">
+    ${(ex.papers || []).map((pp) => html`<section style="display:grid;gap:12px"><div><h2>${pp.title}</h2><p class="muted">${pp.duration} · ${pp.marks} marks. ${pp.structure}</p></div>
+      ${(pp.qtypes || []).map((k) => c.qtypes[k] ? qtypeGuide(c, k, c.qtypes[k]) : '')}</section>`)}
+    </div>`);
 }
 
 // ---------- topic ----------
@@ -294,7 +363,7 @@ function topicFrame(t, tab, inner) {
   return shell(html`
     ${crumbs([{ label: c.year, to: c.id }, { label: t.title, to: tab ? t.id : null }, ...(tab ? [{ label: TABS.find((x) => x[0] === tab)[1] }] : [])])}
     <div style="--course:${c.accent}; display:grid; gap:18px; min-width:0">
-      <section class="course-head"><p class="eyebrow">${c.year} · ${c.title}</p><h1>${t.title}</h1></section>
+      <section class="course-head"><p class="eyebrow">${c.year} · ${t.kt ? t.kt + ' · ' : ''}${(c.areas || []).find((a) => a.id === t.area)?.title || c.title}</p><h1>${t.title}</h1></section>
       <nav class="tabs" aria-label="Topic sections">${TABS.map(([k, l]) => html`<button data-act="go" data-to="${t.id}${k ? '.' + k : ''}" ${k === tab ? raw('aria-current="page"') : ''}>${l}</button>`)}</nav>
       ${t.review && t.review.state === 'awaiting-teacher-check' ? html`<div class="notice small">Written for this site and awaiting Mr Garry's check against class lessons.</div>` : ''}
       ${inner}
@@ -328,7 +397,7 @@ function blocks(bs, t) {
   return bs.map((b) => b.p ? html`<p>${b.p}</p>` : b.ul ? html`<ul>${b.ul.map((x) => html`<li>${x}</li>`)}</ul>` : b.sources ? html`<div class="grid2">${t.learn.sources.map(sourceCard)}</div>` : '');
 }
 function sourceCard(s) {
-  return html`<article class="source"><h3>${s.title}</h3><dl><dt>Type</dt><dd>${s.type}</dd><dt>Date</dt><dd>${s.date}</dd><dt>Made by</dt><dd>${s.origin}</dd><dt>Purpose</dt><dd>${s.purpose}</dd><dt>Use with care</dt><dd>${s.usefulness}</dd></dl></article>`;
+  return html`<article class="source"><h3>${s.title}</h3>${s.quote ? html`<blockquote>“${s.quote}”</blockquote>` : ''}<dl><dt>Type</dt><dd>${s.type}</dd><dt>Date</dt><dd>${s.date}</dd><dt>Made by</dt><dd>${s.origin}</dd><dt>Purpose</dt><dd>${s.purpose}</dd><dt>Use with care</dt><dd>${s.usefulness}</dd></dl></article>`;
 }
 function routeFigure() {
   return raw(`<figure class="figure" style="margin:0"><svg viewBox="0 0 640 420" role="img" aria-labelledby="mapt mapd">
@@ -358,39 +427,59 @@ function routeFigure() {
 
 function viewLearn(t) {
   const L = t.learn;
-  const toc = [['tl', 'Timeline and map'], ...L.sections.map((s) => [s.id, s.title]), ['people', 'Key people'], ['vocab', 'Key words'], ['myths', 'Common misconceptions']];
+  const toc = [['tl', L.figure ? 'Timeline and map' : 'Timeline'], ...L.sections.map((s) => [s.id, s.title]), ['people', 'Key people'], ['vocab', 'Key words'], ...(L.sources && L.sources.length && !L.sections.some((s) => s.blocks.some((b) => b.sources)) ? [['srcs', 'Sources to know']] : []), ['myths', 'Common misconceptions']];
   return topicFrame(t, 'learn', html`
     <div class="learn">
       <nav class="toc" aria-label="On this page">${toc.map(([id, l]) => html`<button data-act="scroll" data-id="${id}">${l}</button>`)}</nav>
       <div style="display:grid;gap:26px;min-width:0">
-        <section class="section" id="sec-tl"><h2>Timeline and map</h2>
+        <section class="section" id="sec-tl"><h2>${L.figure ? 'Timeline and map' : 'Timeline'}</h2>
           <ol class="timeline">${L.timeline.map((e) => html`<li><span class="d">${e.date}</span><span>${e.event}</span></li>`)}</ol>
-          ${routeFigure()}
+          ${L.figure === 'hastings-route' ? routeFigure() : ''}
         </section>
         ${L.sections.map((s) => html`<section class="section" id="sec-${s.id}"><h2>${s.title}</h2><div class="prose">${blocks(s.blocks, t)}</div>
           ${s.evidence && s.evidence.length ? html`<div class="evidence"><span class="eyebrow">Precise evidence to use</span><ul>${s.evidence.map((e) => html`<li>${e}</li>`)}</ul></div>` : ''}
-          <div class="terms">${(s.terms || []).map((x) => html`<span class="chip">${x}</span>`)}</div></section>`)}
+          <div class="terms">${(s.terms || []).map((x) => html`<span class="chip">${x}</span>`)}</div>
+          ${s.refs && s.refs.length ? html`<p class="small muted">Read more: ${s.refs.join('; ')}</p>` : ''}</section>`)}
         <section class="section" id="sec-people"><h2>Key people</h2><div class="people">${L.people.map((p) => html`<div><b>${p.name}</b><span class="muted">${p.role}</span></div>`)}</div></section>
         <section class="section" id="sec-vocab"><h2>Key words</h2><div class="vocab">${L.vocab.map((v) => html`<div><b>${v.term}</b><span class="muted">${v.def}</span></div>`)}</div></section>
+        ${L.sources && L.sources.length && !L.sections.some((s) => s.blocks.some((b) => b.sources)) ? html`<section class="section" id="sec-srcs"><h2>Sources to know</h2><div class="grid2">${L.sources.map(sourceCard)}</div></section>` : ''}
         <section class="section" id="sec-myths"><h2>Common misconceptions</h2>${L.misconceptions.map((m) => html`<div class="myth"><div class="w"><span class="eyebrow">Myth</span><p>${m.wrong}</p></div><div class="r"><span class="eyebrow">Better</span><p>${m.right}</p></div></div>`)}</section>
       </div>
     </div>`);
 }
 
 // ---------- quizzes ----------
-const QMODES = [['mcq', 'Multiple choice'], ['short', 'Short answer'], ['chronology', 'Chronology'], ['matching', 'Matching'], ['evidence', 'Evidence recall'], ['mixed', 'Mixed (this topic)']];
+const QMODES = [['mcq', 'Multiple choice'], ['short', 'Short answer'], ['chronology', 'Chronology'], ['matching', 'Matching'], ['evidence', 'Evidence recall'], ['dates', 'Key dates'], ['mixed', 'Mixed (this topic)']];
 function buildQuiz(topics, mode, n) {
   const items = [];
   for (const t of topics) {
     const Q = t.quizzes;
-    const add = (type, arr) => arr.forEach((it) => items.push({ type, it, tid: t.id }));
+    const add = (type, arr) => (arr || []).forEach((it) => items.push({ type, it, tid: t.id }));
     if (mode === 'mcq' || mode === 'mixed' || mode === 'global') add('mcq', Q.mcq);
     if (mode === 'short' || mode === 'mixed' || mode === 'global') add('short', Q.short);
     if (mode === 'chronology' || mode === 'mixed') add('chronology', Q.chronology);
     if (mode === 'matching' || mode === 'mixed') add('matching', Q.matching);
     if (mode === 'evidence' || mode === 'mixed') add('evidence', Q.evidence);
   }
+  if (mode === 'dates') items.push(...dateItems(topics));
   return shuffle(items).slice(0, n || items.length).map(prepItem);
+}
+function dateItems(topics) {
+  const pool = [];
+  for (const t of topics) for (const [i, e] of (t.learn.timeline || []).entries()) pool.push({ ...e, tid: t.id, i });
+  const out = [];
+  for (const e of pool) {
+    const others = shuffle(pool.filter((o) => o.date !== e.date));
+    if (others.length < 3) continue;
+    if (Math.random() < 0.5) {
+      const ds = [e.date, ...[...new Set(others.map((o) => o.date))].slice(0, 3)];
+      out.push({ type: 'mcq', tid: e.tid, it: { id: `dt-${e.i}-a`, q: `When did this happen? ${e.event}`, options: ds, answer: 0, why: `${e.date}: ${e.event}` } });
+    } else {
+      const evs = [e.event, ...others.filter((o) => o.event !== e.event).slice(0, 3).map((o) => o.event)];
+      out.push({ type: 'mcq', tid: e.tid, it: { id: `dt-${e.i}-b`, q: `What happened in ${e.date}?`, options: evs, answer: 0, why: `${e.date}: ${e.event}` } });
+    }
+  }
+  return out;
 }
 function prepItem(x) {
   if (x.type === 'mcq') x.order = shuffle(x.it.options.map((_, i) => i));
@@ -406,10 +495,10 @@ function viewQuizHome(t) {
   if (qs) return topicFrame(t, 'quiz', quizRunner(qs));
   return topicFrame(t, 'quiz', html`
     <section class="panel"><h2>Choose a quiz</h2><p class="muted">Answers and explanations appear after each question. Missed questions can be retried at the end.</p>
-      <div class="acts">${QMODES.map(([m, l]) => html`<button class="act" data-act="quiz-start" data-mode="${m}"><b>${l}</b><span class="small muted">${quizCount(t, m)} items</span></button>`)}</div>
+      <div class="acts">${QMODES.filter(([m]) => quizCount(t, m) > 0).map(([m, l]) => html`<button class="act" data-act="quiz-start" data-mode="${m}"><b>${l}</b><span class="small muted">${quizCount(t, m)} items</span></button>`)}</div>
     </section>`);
 }
-const quizCount = (t, m) => m === 'mixed' ? Object.values(t.quizzes).reduce((a, b) => a + b.length, 0) : t.quizzes[m].length;
+const quizCount = (t, m) => m === 'mixed' ? Object.values(t.quizzes).reduce((a, b) => a + b.length, 0) : m === 'dates' ? (t.learn.timeline || []).length : (t.quizzes[m] || []).length;
 
 function quizRunner(qs) {
   if (qs.i >= qs.items.length) {
@@ -522,17 +611,33 @@ function viewCheck(t) {
 
 // ---------- exam practice ----------
 const QTYPE = { describe: 'Describe', explain: 'Explain', judge: 'Judgement' };
+function qChips(q) {
+  return html`${q.type ? html`<span class="chip lvl-${q.type}">${QTYPE[q.type]}</span>` : ''}${q.qtype ? html`<span class="chip">${q.label_short || q.paper || ''}</span>` : ''}${q.marks ? html`<span class="chip mono">${q.marks} marks</span>` : ''}<span class="chip mono">${q.minutes} min</span>`;
+}
 function viewExamList(t) {
+  const c = courseOf(t.course);
+  const qs = t.exam.questions.map((q) => resolveQ(c, q));
   return topicFrame(t, 'exam', html`
-    ${t.exam.criteria_status !== 'verified' ? html`<div class="notice">${t.exam.criteria_note}</div>` : ''}
-    <section class="acts">${t.exam.questions.map((q) => html`<button class="act" data-act="go" data-to="${t.id}.exam.${q.id}"><span class="row" style="gap:6px"><span class="chip lvl-${q.type}">${QTYPE[q.type]}</span><span class="chip mono">${q.minutes} min</span></span><b>${q.q}</b><span class="small muted">${q.label}</span></button>`)}</section>`);
+    ${t.exam.criteria_note && t.exam.criteria_status !== 'verified' ? html`<div class="notice">${t.exam.criteria_note}</div>` : ''}
+    ${c.qtypes ? html`<div class="row"><button class="btn sm" data-act="go" data-to="${c.id}.guide">Open the ${c.year} exam guide</button></div>` : ''}
+    <section class="acts">${qs.map((q) => html`<button class="act" data-act="go" data-to="${t.id}.exam.${q.id}"><span class="row" style="gap:6px">${qChips(q)}</span><b>${q.q}</b><span class="small muted">${q.label}</span></button>`)}</section>`);
 }
 
-function frameBlock(q, level) {
+function frameBlock(q, level, fi) {
   if (level === 'none') return html`<p class="small muted">No frame — independent practice. Plan first, then write.</p>`;
-  const lines = level === 'full' ? q.frame.full : q.frame.some;
-  return html`<div class="frame"><span class="eyebrow">${level === 'full' ? 'Sentence starters' : 'Paragraph headings'}</span><ol>${lines.map((l) => html`<li>${l}</li>`)}</ol>
-    ${q.judgementPrompts && level !== 'none' ? html`<span class="eyebrow" style="margin-top:6px">Judgement questions</span><ul style="margin:0;padding-left:1.1em">${q.judgementPrompts.map((x) => html`<li>${x}</li>`)}</ul>` : ''}</div>`;
+  const frames = q.frames || (q.frame ? [{ name: 'Writing frame', ...q.frame }] : []);
+  if (!frames.length) return '';
+  const f = frames[Math.min(fi || 0, frames.length - 1)];
+  const lines = level === 'full' ? f.full : f.some;
+  const prompts = q.judgementPrompts || q.criteria_list;
+  return html`<div class="frame"><span class="eyebrow">${frames.length > 1 ? f.name + ' · ' : ''}${level === 'full' ? 'Sentence starters' : 'Paragraph headings'}</span><ol>${lines.map((l) => html`<li>${l}</li>`)}</ol>
+    ${prompts ? html`<span class="eyebrow" style="margin-top:6px">Judgement criteria</span><ul style="margin:0;padding-left:1.1em">${prompts.map((x) => html`<li>${x}</li>`)}</ul>` : ''}
+    ${q.evidence_tip ? html`<p class="small">${q.evidence_tip}</p>` : ''}</div>`;
+}
+function frameChooser(q, cur, act) {
+  const frames = q.frames || [];
+  if (frames.length < 2) return '';
+  return html`<div class="seg-ctl" role="group" aria-label="Choose a frame">${frames.map((f, i) => html`<button data-act="${act}" data-v="${i}" aria-pressed="${(cur || 0) === i}">${f.name}</button>`)}</div>`;
 }
 
 function feedbackView(s, all) {
@@ -563,26 +668,31 @@ function feedbackView(s, all) {
   </article>`;
 }
 
-function viewExamQ(t, q) {
+function viewExamQ(t, rawQ) {
+  const c = courseOf(t.course);
+  const q = resolveQ(c, rawQ);
   const key = `${t.id}.${q.id}`;
   const ui = S.ui.exam && S.ui.exam.key === key ? S.ui.exam : (S.ui.exam = { key, level: 'full', mode: 'supported', subId: null, parentId: null, text: lsGet('hub-draft-' + key, '') });
   const mine = (S.subs || []).filter((s) => s.topic_id === t.id && s.question_id === q.id);
   const ai = S.ai || { available: false, reasons: ['Checking…'] };
   return topicFrame(t, 'exam', html`
     <div><button class="btn sm" data-act="go" data-to="${t.id}.exam">← All practice questions</button></div>
-    <section class="panel"><div class="row" style="gap:6px"><span class="chip lvl-${q.type}">${QTYPE[q.type]}</span><span class="chip mono">${q.minutes} min</span><span class="chip">${q.label}</span></div><h2>${q.q}</h2></section>
+    <section class="panel"><div class="row" style="gap:6px">${qChips(q)}<span class="chip">${q.label}</span></div><h2 style="white-space:pre-line">${q.q}</h2>
+      ${q.prompts ? html`<p class="small">You may use the following in your answer: <b>${q.prompts.join('; ')}</b>. You must also use information of your own.</p>` : ''}</section>
+    ${q.sources && q.sources.length ? html`<section class="panel"><h2>Sources</h2>${q.sources.map((x) => html`<article class="source"><h3>${x.label}</h3><p class="small muted">${x.provenance}</p><blockquote>${x.text}</blockquote></article>`)}${q.sources_note ? html`<p class="small muted">${q.sources_note}</p>` : ''}</section>`
+      : q.requires_sources ? html`<div class="notice">This question needs sources or extracts that are not on the site yet. You can still practise the structure; AI feedback will not judge how you used the sources.</div>` : ''}
     <section style="display:grid;gap:8px">
       <details class="fold" open><summary>What the question asks</summary><div><p>${q.asks}</p></div></details>
       <details class="fold"><summary>Step-by-step approach</summary><div><ol>${q.steps.map((s) => html`<li>${s}</li>`)}</ol></div></details>
       <details class="fold"><summary>Planning and timing</summary><div><p>${q.plan}</p></div></details>
-      <details class="fold"><summary>Success criteria${q.markscheme && q.markscheme.verified ? '' : ' (draft)'}</summary><div>${q.markscheme && q.markscheme.verified ? '' : html`<p class="small muted">Teacher-created draft — department criteria not yet added.</p>`}<ul>${q.success.map((s) => html`<li>${s}</li>`)}</ul></div></details>
+      <details class="fold"><summary>${q.qtype ? 'Assessment criteria and mark scheme' : 'Success criteria' + (q.markscheme && q.markscheme.verified ? '' : ' (draft)')}</summary><div>${!q.qtype && !(q.markscheme && q.markscheme.verified) ? html`<p class="small muted">Teacher-created draft — department criteria not yet added.</p>` : ''}<ul>${q.success.map((s) => html`<li>${s}</li>`)}</ul>${q.qtype ? levelsTable(q.markscheme) : ''}</div></details>
       <details class="fold"><summary>Common mistakes</summary><div><ul>${q.mistakes.map((s) => html`<li>${s}</li>`)}</ul></div></details>
-      <details class="fold"><summary>Annotated model answer (teacher-written)</summary><div class="model">${q.model.map((m) => html`<div class="seg"><p>${m.t}</p><em>${m.n}</em></div>`)}<p class="small muted">An example extract, not the only way to answer.</p></div></details>
+      ${q.model && q.model.length ? html`<details class="fold"><summary>Annotated model${rawQ.model ? ' for this question' : ' (this question type)'}</summary><div>${modelBlock(q)}</div></details>` : ''}
     </section>
     <section class="panel" id="practice">
       <div class="row" style="justify-content:space-between"><h2>${ui.parentId ? 'Redraft' : 'Practice'}</h2>
         <div class="seg-ctl" role="group" aria-label="Practice mode">${[['supported', 'Supported'], ['independent', 'Independent']].map(([k, l]) => html`<button data-act="exam-mode" data-v="${k}" aria-pressed="${ui.mode === k}">${l}</button>`)}</div></div>
-      ${ui.mode === 'supported' ? html`<div class="row"><span class="small muted">Support:</span><div class="seg-ctl" role="group" aria-label="Amount of support">${[['full', 'Sentence starters'], ['some', 'Headings only'], ['none', 'None']].map(([k, l]) => html`<button data-act="exam-level" data-v="${k}" aria-pressed="${ui.level === k}">${l}</button>`)}</div></div>${frameBlock(q, ui.level)}`
+      ${ui.mode === 'supported' ? html`<div class="row"><span class="small muted">Support:</span><div class="seg-ctl" role="group" aria-label="Amount of support">${[['full', 'Sentence starters'], ['some', 'Headings only'], ['none', 'None']].map(([k, l]) => html`<button data-act="exam-level" data-v="${k}" aria-pressed="${ui.level === k}">${l}</button>`)}</div>${frameChooser(q, ui.frame, 'exam-frame')}</div>${frameBlock(q, ui.level, ui.frame)}`
         : html`<div class="row"><span class="small muted">Work without support, in the time you'd have in a test.</span><button class="btn sm" data-act="timer" data-min="${q.minutes}">${S.ui.timer && S.ui.timer.key === key ? 'Restart timer' : `Start ${q.minutes}-minute timer`}</button><span id="timer" class="mono" aria-live="off"></span></div>`}
       <label for="answer">${ui.parentId ? 'Improve your answer using the feedback' : 'Your answer'}<textarea id="answer" data-key="${key}" spellcheck="true">${ui.text}</textarea></label>
       <div class="row" style="justify-content:space-between"><span class="small muted" id="wc">${wordsIn(ui.text)} words · draft kept on this device as you type</span>
@@ -596,25 +706,42 @@ function viewExamQ(t, q) {
 
 // ---------- frames & stretch ----------
 function viewFrames(t) {
+  const c = courseOf(t.course);
   const plan = P(['notes', t.id, 'plan']);
   const lvl = S.ui.frameLevel || 'full';
+  const seen = new Set(); const qs = [];
+  for (const raw of t.exam.questions) { const q = resolveQ(c, raw); const k = q.qtype || q.id; if (seen.has(k)) continue; seen.add(k); qs.push(q); }
+  const pg = t.planning || { title: 'Essay planning grid', rows: ['', '', '', ''], cols: ['Precise evidence (SPEDA)', 'Impact — what it led to', 'Weakness against the criteria', 'Rank'], editableRows: true };
   return topicFrame(t, 'frames', html`
     <section class="panel"><div class="row" style="justify-content:space-between"><h2>Writing frames</h2>
       <div class="seg-ctl" role="group" aria-label="Amount of support">${[['full', 'Sentence starters'], ['some', 'Headings only']].map(([k, l]) => html`<button data-act="frame-level" data-v="${k}" aria-pressed="${lvl === k}">${l}</button>`)}</div></div>
       <p class="muted">Each question type needs a different shape. Start with sentence starters, then switch to headings only as you get more confident.</p>
-      <div class="grid2">${t.exam.questions.map((q) => html`<div style="display:grid;gap:8px"><span class="row" style="gap:6px"><span class="chip lvl-${q.type}">${QTYPE[q.type]}</span></span><b>${q.q}</b>${frameBlock(q, lvl)}</div>`)}</div>
+      <div class="grid2">${qs.map((q) => html`<div style="display:grid;gap:8px;min-width:0"><span class="row" style="gap:6px">${qChips(q)}</span><b>${q.qtype ? q.label_short || (c.qtypes[q.qtype] || {}).label : q.q}</b>${(q.frames || [null]).map((_, i) => frameBlock(q, lvl, i))}</div>`)}</div>
     </section>
-    <section class="panel"><h2>Planning grid: why did William win?</h2><p class="muted">Fill one row per factor, then decide which mattered most. Saved automatically.</p>
-      <div class="scroll-x"><table class="grid-plan"><thead><tr><th>Factor</th><th>Precise evidence</th><th>How it helped William</th><th>How decisive? (how long, how much, how directly)</th></tr></thead><tbody>
-      ${['Luck', "William's leadership", 'Norman tactics', "Harold's decisions", 'English weaknesses'].map((f, i) => html`<tr><th scope="row">${f}</th>${['e', 'h', 'd'].map((k) => html`<td><label class="sr" for="pl-${i}-${k}">${f} ${k}</label><textarea id="pl-${i}-${k}" data-plan="${i}-${k}">${plan[i + '-' + k] || ''}</textarea></td>`)}</tr>`)}
+    <section class="panel"><h2>${pg.title}</h2><p class="muted">${pg.editableRows ? 'Write one factor per row, then rank them. ' : 'Fill one row per factor, then decide which mattered most. '}Saved automatically.</p>
+      <div class="scroll-x"><table class="grid-plan"><thead><tr><th>Factor</th>${pg.cols.map((x) => html`<th>${x}</th>`)}</tr></thead><tbody>
+      ${pg.rows.map((f, i) => html`<tr><th scope="row">${pg.editableRows ? html`<label class="sr" for="pl-${i}-f">Factor ${i + 1}</label><textarea id="pl-${i}-f" data-plan="${i}-f" placeholder="Factor ${i + 1}">${plan[i + '-f'] || ''}</textarea>` : f}</th>${pg.cols.map((col, j) => { const k = ['e', 'h', 'd', 'r', 'x'][j]; return html`<td><label class="sr" for="pl-${i}-${k}">${f || 'Factor ' + (i + 1)}: ${col}</label><textarea id="pl-${i}-${k}" data-plan="${i}-${k}">${plan[i + '-' + k] || ''}</textarea></td>`; })}</tr>`)}
       </tbody></table></div>
-      <label for="pl-j">My judgement: the most important factor was … because …<textarea id="pl-j" data-plan="j" style="min-height:90px">${plan.j || ''}</textarea></label>
+      <label for="pl-j">${pg.judgement || 'My judgement: the most important factor was … because … (use duration, scope, effectiveness or impact)'}<textarea id="pl-j" data-plan="j" style="min-height:90px">${plan.j || ''}</textarea></label>
     </section>`);
 }
 function viewStretch(t) {
   const notes = P(['notes', t.id, 'stretch']);
   return topicFrame(t, 'stretch', html`
     <section style="display:grid;gap:12px">${t.stretch.map((s) => html`<article class="panel"><span class="eyebrow">${s.kind}</span><p>${s.task}</p><label for="st-${s.id}" class="sr">My response</label><textarea id="st-${s.id}" data-stretch="${s.id}" style="min-height:120px" placeholder="Your thinking — saved automatically">${notes[s.id] || ''}</textarea></article>`)}</section>`);
+}
+
+// ---------- course-level retrieval ----------
+function viewCourseQuiz(c, mode) {
+  const scope = `course:${c.id}:${mode}`;
+  const qs = S.ui.quiz && S.ui.quiz.scope === scope ? S.ui.quiz : null;
+  const title = mode === 'dates' ? 'Key dates quiz' : 'Mixed quiz';
+  return shell(html`${crumbs([{ label: c.year, to: c.id }, { label: title }])}
+    <div style="--course:${c.accent}; display:grid; gap:18px; min-width:0">
+    <section class="course-head"><p class="eyebrow">${c.year} · ${c.title}</p><h1>${title}</h1></section>
+    ${qs ? quizRunner(qs) : html`<section class="panel"><p class="muted">${mode === 'dates' ? 'Dates and events from the timelines of every topic in this course.' : 'Questions from every topic in this course, in random order — the best way to keep earlier topics fresh.'}</p>
+      <div class="row"><button class="btn primary" data-act="course-quiz" data-c="${c.id}" data-mode="${mode}" data-n="10">10 questions</button><button class="btn" data-act="course-quiz" data-c="${c.id}" data-mode="${mode}" data-n="20">20 questions</button></div></section>`}
+    </div>`);
 }
 
 // ---------- mixed retrieval ----------
@@ -649,7 +776,7 @@ function searchIndex() {
 function openSearch() {
   const ov = document.createElement('div');
   ov.className = 'overlay'; ov.setAttribute('role', 'dialog'); ov.setAttribute('aria-modal', 'true'); ov.setAttribute('aria-label', 'Search');
-  ov.innerHTML = '<div class="box"><label for="q" class="sr">Search</label><input type="text" id="q" placeholder="Search people, dates, key words…" autocomplete="off"><div class="results" id="res"><p class="small muted">Try: Witan, Pevensey, housecarl, Hardrada</p></div></div>';
+  ov.innerHTML = '<div class="box"><label for="q" class="sr">Search</label><input type="text" id="q" placeholder="Search people, dates, key words…" autocomplete="off"><div class="results" id="res"><p class="small muted">Search people, dates, key words and flashcards across every topic.</p></div></div>';
   document.body.appendChild(ov);
   const idx = searchIndex();
   const input = ov.querySelector('#q'), res = ov.querySelector('#res');
@@ -709,14 +836,20 @@ function viewTeacher(tab, arg) {
       </tbody></table></div>` : html`<p class="muted">No students yet.</p>`}</section>`);
   }
   if (tab === 'schemes') {
-    return teacherFrame(tab, html`<section class="panel"><h2>Mark schemes</h2><p class="muted">AI feedback gives an indicative mark only for questions with a verified mark scheme. Without one it gives formative feedback and no mark. Enter the department's criteria exactly; do not add separate AO marks unless your scheme awards them.</p></section>
-      ${Object.values(S.topics).map((t) => t.exam.questions.map((q) => { const m = q.markscheme || {}; const id = t.id + '|' + q.id; return html`<form class="panel" data-form="scheme" data-t="${t.id}" data-q="${q.id}"><span class="eyebrow">${t.title}</span><h3>${q.q}</h3>
-        <div class="grid2"><label for="ms-s-${id}">Source of criteria<input type="text" id="ms-s-${id}" name="source" value="${m.source || ''}" placeholder="e.g. Arcadia KS3 History criteria 2026"></label><label for="ms-x-${id}">Maximum marks<input type="number" id="ms-x-${id}" name="max" value="${m.max_marks ?? ''}"></label></div>
-        <label for="ms-l-${id}">Levels — one per line: <span class="mono">Level | marks | descriptor</span><textarea id="ms-l-${id}" name="levels" style="min-height:120px">${(m.levels || []).map((l) => `${l.level} | ${l.marks} | ${l.descriptor}`).join('\n')}</textarea></label>
-        <label for="ms-i-${id}">Indicative content (optional, one per line)<textarea id="ms-i-${id}" name="indicative" style="min-height:80px">${(m.indicative_content || []).join('\n')}</textarea></label>
+    const form = (m, attrs, eyebrow, title, id) => html`<form class="panel" data-form="scheme" ${raw(attrs)}><span class="eyebrow">${eyebrow}</span><h3>${title}</h3>
+        ${m.verified ? html`<span class="chip ok">Verified — AI gives indicative marks</span>` : html`<span class="chip warn">Not verified — AI gives formative feedback only</span>`}
+        <div class="grid2"><label for="ms-s-${id}">Source of criteria<input type="text" id="ms-s-${id}" name="source" value="${m.source || ''}"></label><label for="ms-x-${id}">Maximum marks<input type="number" id="ms-x-${id}" name="max" value="${m.max_marks ?? ''}"></label></div>
+        <label for="ms-l-${id}">Levels — one per line: <span class="mono">Level | marks | descriptor</span><textarea id="ms-l-${id}" name="levels" style="min-height:160px">${(m.levels || []).map((l) => `${l.level} | ${l.marks} | ${l.descriptor}`).join('\n')}</textarea></label>
+        <label for="ms-n-${id}">Notes (caps, best-fit rules)<input type="text" id="ms-n-${id}" name="notes" value="${m.notes || ''}"></label>
+        <label for="ms-i-${id}">Indicative content (optional, one per line)<textarea id="ms-i-${id}" name="indicative" style="min-height:70px">${(m.indicative_content || []).join('\n')}</textarea></label>
         <label class="row" style="font-weight:400"><input type="checkbox" name="ao" style="width:auto;min-height:0" ${m.ao_separate ? raw('checked') : ''}> Assessment objectives are marked separately in this scheme</label>
         <label class="row" style="font-weight:400"><input type="checkbox" name="verified" style="width:auto;min-height:0" ${m.verified ? raw('checked') : ''}> I have checked this against the official or department document (enables indicative marks)</label>
-        <button class="btn primary" type="submit">Save mark scheme</button></form>`; }))}`);
+        <button class="btn primary" type="submit">Save mark scheme</button></form>`;
+    const courses = S.catalog.courses.courses;
+    return teacherFrame(tab, html`<section class="panel"><h2>Mark schemes</h2><p class="muted">AI feedback gives an indicative mark only where the mark scheme is ticked as verified. Exam-course question types are pre-filled from Pearson's published mark schemes and your training booklet — check the wording, then tick. Questions that use a question type share its mark scheme.</p></section>
+      ${courses.filter((c) => c.qtypes).map((c) => html`<h2>${c.year} — ${c.title}</h2>${Object.entries(c.qtypes).map(([k, qt]) => form(qt.markscheme || {}, `data-c="${c.id}" data-k="${k}"`, `${c.year} · ${qt.paper} · ${qt.marks} marks`, qt.label, c.id + '-' + k))}`)}
+      <h2>Individual questions</h2>
+      ${Object.values(S.topics).map((t) => t.exam.questions.filter((q) => !q.qtype).map((q) => form(q.markscheme || {}, `data-t="${t.id}" data-q="${q.id}"`, t.title, q.q, t.id + '-' + q.id)))}`);
   }
   if (tab === 'content') {
     const d = S.teacher.content; if (!d || d === 'loading') { tload('content', '/api/teacher/content'); return teacherFrame(tab, loading); }
@@ -780,7 +913,7 @@ function render() {
     else if (r.a === 'mixed') out = viewMixed();
     else if (r.a === 'account') out = viewAccount();
     else if (r.a === 'teacher' && S.user.role === 'teacher') out = viewTeacher(r.b, r.c);
-    else if (courseOf(r.a)) out = viewCourse(courseOf(r.a));
+    else if (courseOf(r.a)) { const c = courseOf(r.a); out = r.b === 'guide' && c.qtypes ? viewGuide(c) : (r.b === 'mixed' || r.b === 'dates') ? viewCourseQuiz(c, r.b) : viewCourse(c); }
     else if (S.catalog.topics[r.a]) {
       const t = S.topics[r.a];
       if (!t) { ensureTopic(r.a).then(render, (e) => toast(e.message)); out = shell(html`<p class="muted">Loading…</p>`); }
@@ -803,6 +936,7 @@ function render() {
   if (S.ui.focus) { const el = document.getElementById(S.ui.focus); S.ui.focus = null; if (el) el.focus(); }
 }
 async function loadSubs() {
+  if (S.user && S.user.role === 'teacher') { S.subs = []; S.ai = { available: false, reasons: ['You are signed in as the teacher — students write and request feedback here; their work appears in the Teacher area.'] }; render(); return; }
   try { const r = await Store.submissions(); S.subs = r.submissions; S.ai = r.ai; } catch (e) { S.subs = []; S.ai = { available: false, reasons: [e.message] }; }
   render();
 }
@@ -830,8 +964,10 @@ const A = {
   scroll: (el) => { const s = document.getElementById('sec-' + el.dataset.id); if (s) { s.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); s.setAttribute('tabindex', '-1'); s.focus({ preventScroll: true }); } },
   'quiz-start': (el) => startQuiz(curTopic().id, [curTopic()], el.dataset.mode),
   'mixed-start': (el) => startQuiz('global', Object.values(S.topics), 'global', +el.dataset.n),
+  'course-quiz': (el) => { const c = courseOf(el.dataset.c); const ts = courseTopics(c).map((t) => S.topics[t.id]).filter(Boolean); startQuiz(`course:${c.id}:${el.dataset.mode}`, ts, el.dataset.mode === 'dates' ? 'dates' : 'global', +el.dataset.n); },
+  'exam-frame': (el) => { S.ui.exam.frame = +el.dataset.v; render(); },
   'quiz-exit': () => { S.ui.quiz = null; render(); },
-  'quiz-again': () => { const q = S.ui.quiz; S.ui.quiz = null; if (q.scope === 'global') startQuiz('global', Object.values(S.topics), 'global', q.items.length); else render(); },
+  'quiz-again': () => { const q = S.ui.quiz; S.ui.quiz = null; if (q.scope === 'global') startQuiz('global', Object.values(S.topics), 'global', q.items.length); else if (q.scope.startsWith('course:')) { const [, cid, mode] = q.scope.split(':'); const ts = courseTopics(courseOf(cid)).map((t) => S.topics[t.id]).filter(Boolean); startQuiz(q.scope, ts, mode === 'dates' ? 'dates' : 'global', q.items.length); } else render(); },
   'quiz-retry': () => { const q = S.ui.quiz; q.items = q.items.filter((x) => !x.ok).map((x) => prepItem({ type: x.type, it: x.it, tid: x.tid })); q.i = 0; render(); },
   'quiz-next': () => { S.ui.quiz.i++; S.ui.focus = 'nextfocus'; render(); const f = document.querySelector('.qcard .opt, .qcard input, .qcard textarea, .qcard select, .qcard .btn'); if (f) f.focus(); },
   mcq: (el) => { const x = S.ui.quiz.items[S.ui.quiz.i]; x.pick = +el.dataset.i; answerItem(x, x.pick === x.it.answer); render(); focusNext(); },
@@ -998,8 +1134,27 @@ document.addEventListener('submit', async (e) => {
     try { const r = await Store.call('POST', '/api/teacher/students', { students }); S.teacher.made = r.created; S.teacher.students = null; render(); } catch (err) { tmsg(err.message, true); }
   }
   if (kind === 'scheme') {
-    const t = S.topics[f.dataset.t]; const q = t.exam.questions.find((x) => x.id === f.dataset.q);
     const get = (n) => f.querySelector(`[name="${n}"]`);
+    const parseScheme = () => {
+      const levels = get('levels').value.split('\n').map((l) => l.split('|').map((x) => x.trim())).filter((x) => x[0]).map(([level, marks, ...d]) => ({ level, marks, descriptor: d.join(' | ') }));
+      const max = get('max').value === '' ? null : +get('max').value;
+      const verified = get('verified').checked;
+      if (verified && (!Number.isFinite(max) || max <= 0 || !levels.length)) { tmsg('A verified mark scheme needs a maximum mark and at least one level.', true); return undefined; }
+      const empty = !get('source').value && max == null && !levels.length;
+      return empty ? null : { verified, source: get('source').value, max_marks: max, levels, notes: get('notes').value || undefined, indicative_content: get('indicative').value.split('\n').map((x) => x.trim()).filter(Boolean), ao_separate: get('ao').checked };
+    };
+    if (f.dataset.c) {
+      const ms = parseScheme(); if (ms === undefined) return;
+      try {
+        const cur = await Store.call('GET', '/api/teacher/content/courses');
+        const course = cur.data.courses.find((x) => x.id === f.dataset.c);
+        course.qtypes[f.dataset.k].markscheme = ms;
+        await Store.call('PUT', '/api/teacher/content/courses', { data: cur.data, status: cur.status });
+        S.catalog = await Store.catalog(); render(); tmsg('Mark scheme saved.'); window.scrollTo(0, 0);
+      } catch (err) { tmsg(err.message, true); }
+      return;
+    }
+    const t = S.topics[f.dataset.t]; const q = t.exam.questions.find((x) => x.id === f.dataset.q);
     const levels = get('levels').value.split('\n').map((l) => l.split('|').map((x) => x.trim())).filter((x) => x[0]).map(([level, marks, ...d]) => ({ level, marks, descriptor: d.join(' | ') }));
     const max = get('max').value === '' ? null : +get('max').value;
     const verified = get('verified').checked;

@@ -1,5 +1,5 @@
 {
-  "_note": "Course register. Examination fields stay null until verified from an uploaded specification. Never fill them from memory.",
+  "_note": "Course register. Exam fields come only from the documents listed in each course's exam.sources. Mark schemes on question types stay verified:false until Mr Garry ticks them in Teacher › Mark schemes.",
   "courses": [
     {
       "id": "y7",
@@ -7,22 +7,18 @@
       "title": "The Norman Conquest",
       "enquiry": "Why did William win the Battle of Hastings?",
       "stage": "KS3",
-      "icon": "shield",
       "accent": "#b4532a",
       "assessment": {
         "type": "KS3 department criteria",
         "criteria_status": "missing",
         "notes": "Department KS3 assessment criteria not yet uploaded. Practice questions are teacher-created drafts; AI feedback is formative only (no marks) until criteria are added in the Teacher area."
       },
-      "topics": [
-        { "id": "y7-hastings", "title": "Why did William win the Battle of Hastings?", "status": "built" }
-      ],
       "resources_received": [],
       "resources_needed": [
-        "Year 7 Hastings lesson PowerPoints (to align explanations and page references)",
-        "KS3 History assessment criteria / success criteria used by the department",
-        "Jada's teaching resource (optional, to guide scaffolding)",
-        "Any teacher-marked Year 7 answers (to check AI feedback against)"
+        "Year 7 Hastings lesson PowerPoints",
+        "KS3 History assessment criteria used by the department",
+        "Jada's teaching resource (optional)",
+        "Teacher-marked Year 7 answers (to check AI feedback against)"
       ]
     },
     {
@@ -31,14 +27,12 @@
       "title": "African migration to England",
       "enquiry": "Why did Africans migrate to England?",
       "stage": "KS3",
-      "icon": "compass",
       "accent": "#2f6f5e",
       "assessment": {
         "type": "KS3 department criteria",
         "criteria_status": "missing",
         "notes": "Geographical and chronological scope must come from the teacher's resources. Distinguish voluntary and forced movement; represent African individuals' experiences and agency accurately."
       },
-      "topics": [],
       "resources_received": [],
       "resources_needed": [
         "Year 8 scheme of work / lessons defining the period and places covered",
@@ -52,111 +46,487 @@
       "title": "Causes of the First World War",
       "enquiry": "Why did the First World War start?",
       "stage": "KS3",
-      "icon": "spark",
       "accent": "#5b4a9e",
       "assessment": {
         "type": "KS3 department criteria",
         "criteria_status": "missing",
         "notes": "Focus: long-term causes, their interaction, the immediate trigger and relative significance."
       },
-      "topics": [],
       "resources_received": [],
       "resources_needed": [
         "Year 9 lessons and any source packs",
         "KS3 assessment criteria and the end-of-unit task"
       ]
     },
+
     {
       "id": "y11",
       "year": "Year 11",
       "title": "International GCSE History",
-      "enquiry": "Germany · Civil Rights · Changes in medicine",
+      "enquiry": "Germany 1918–45 · Civil rights in the USA 1945–74 · Changes in medicine c1848–c1948",
       "stage": "International GCSE",
-      "icon": "book",
       "accent": "#1f5f8b",
+      "separation_note": "Year 11 Germany is the International GCSE depth study. It is kept separate from Year 12 Germany (International A Level Unit 1), which has different questions and mark schemes.",
+      "areas": [
+        { "id": "de", "title": "Germany: development of dictatorship, 1918–45", "paper": "Paper 1 · Depth study 3" },
+        { "id": "us", "title": "A divided union: civil rights in the USA, 1945–74", "paper": "Paper 1 · Depth study 7" },
+        { "id": "med", "title": "Changes in medicine, c1848–c1948", "paper": "Paper 2 · Breadth study B2" }
+      ],
       "exam": {
+        "verified": true,
         "board": "Pearson Edexcel",
-        "qualification": "International GCSE History",
-        "specification_version": null,
-        "papers": null,
-        "options": [
-          { "area": "Germany", "title": null, "code": null, "date_range": null },
-          { "area": "Civil Rights", "title": null, "code": null, "date_range": null },
-          { "area": "Changes in medicine", "title": "Changes in medicine c1848–c1948 (title as given by teacher; verify against specification)", "code": null, "date_range": "c1848–c1948 (to verify)" }
+        "qualification": "International GCSE in History (9–1)",
+        "codes": "4HI1 · Paper 1 4HI1/01 · Paper 2 4HI1/02",
+        "specification_version": "Issue 4, March 2022 (your uploaded copy). Pearson's website now shows Issue 5, February 2026 — check what changed.",
+        "papers": [
+          { "code": "4HI1/01", "title": "Paper 1: Depth Studies", "duration": "1 hour 30 minutes", "marks": 60, "weighting": "50%", "structure": "One 30-mark question on each of two depth studies (about 45 minutes each). Each question has parts (a) 6 marks, (b) 8 marks and a choice of (c)(i) or (c)(ii) 16 marks.", "qtypes": ["p1a", "p1b", "p1c"] },
+          { "code": "4HI1/02", "title": "Paper 2: Investigation and Breadth Studies", "duration": "1 hour 30 minutes", "marks": 60, "weighting": "50%", "structure": "Section A: one historical investigation (30 marks). Section B: one breadth study in change (30 marks): (a) 6, (b) 8 and a choice of (c)(i) or (c)(ii) 16. Breadth-study (c) questions focus on the themes and normally draw on two or more key topics.", "qtypes": ["p2ba", "p2bb", "p2bc"] }
         ],
-        "question_types": null,
-        "marks": null,
-        "assessment_objectives": null,
-        "verified": false
+        "aos": [
+          { "ao": "AO1", "text": "Demonstrate knowledge and understanding of the key features and characteristics of the periods studied", "weight": "34% (Paper 1 18%, Paper 2 16%)" },
+          { "ao": "AO2", "text": "Explain, analyse and make judgements about historical events and periods studied using second-order historical concepts", "weight": "36% (Paper 1 22%, Paper 2 14%)" },
+          { "ao": "AO3", "text": "Use a range of source material to comprehend, interpret and cross-refer sources", "weight": "15% (Paper 2 only)" },
+          { "ao": "AO4", "text": "Analyse and evaluate historical interpretations in the context of historical events studied", "weight": "15% (Paper 1 10%, Paper 2 5%)" }
+        ],
+        "sources": [
+          { "title": "Pearson Edexcel International GCSE in History (4HI1) specification, Issue 4, March 2022", "note": "Uploaded by Mr Garry — content, papers, AO weightings" },
+          { "title": "Specification Issue 5, February 2026 (Pearson website)", "url": "https://qualifications.pearson.com/content/dam/pdf/International GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf" },
+          { "title": "4HI1/01 mark scheme, June 2025 — question structure and level ranges", "url": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20MS%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf" },
+          { "title": "4HI1/02 mark scheme, June 2025 — breadth study structure and level ranges", "url": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20MS%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf" },
+          { "title": "Arcadia IGCSE model paragraphs (uploaded)", "note": "Department paragraph models used in the question-type guides" }
+        ],
+        "open_questions": [
+          "Which Paper 2 Section A historical investigation does the class take? Your model-paragraph deck includes Vietnam (A4) questions, so it may be A4: The Vietnam Conflict, 1945–75. Not built until confirmed.",
+          "Pearson also publishes 4WHI1 papers. Confirm which entry code Arcadia uses (4HI1 assumed).",
+          "The (c)(i)/(c)(ii) choice is inferred from the marks (6 + 8 + 16 = 30 per question); confirm on a current paper's rubric."
+        ]
       },
-      "separation_note": "Kept separate from Year 12 Germany and Year 13 Civil Rights.",
-      "topics": [],
-      "resources_received": [],
+      "qtypes": {
+        "p1a": {
+          "label": "Paper 1 (a) — interpretation impression", "paper": "Paper 1", "marks": 6, "minutes": 8, "ao": "AO4",
+          "requires_sources": true,
+          "template": "What impression does the author give about …? You must use Extract X to explain your answer.",
+          "asks": "Work out the overall impression (the author's view or tone) about the named issue, then prove it with two pieces of the extract's wording or detail and explain what each shows.",
+          "steps": ["Read the question focus and underline it.", "Read the extract twice; decide the overall impression in a few words (e.g. 'well-organised and controlled').", "Pick two short quotations or details that create that impression.", "For each: quote it, then explain how the word choice or detail creates the impression.", "Finish with one sentence restating the impression."],
+          "plan": "About 8 minutes: 1 minute deciding the impression, 6 minutes writing, 1 minute checking you used the extract.",
+          "success": ["States a clear impression that answers the question", "Supports it with selected words or details from the extract", "Explains how those details create the impression (analysis of the author's language/choice of detail)"],
+          "mistakes": ["Summarising the extract instead of identifying an impression", "Bringing in lots of own knowledge — this question rewards analysis of the extract", "Quoting long passages without explaining them"],
+          "frame": { "full": ["The author gives the impression that …", "Firstly, the extract says “…”, which suggests that …", "Also, the author describes … as “…”, which shows …", "Therefore, the impression the author gives is that …"], "some": ["Impression", "Quote 1 + what it suggests", "Quote 2 + what it shows", "Restate the impression"] },
+          "model": [
+            { "t": "The author gives the impression that life in Nazi Germany was extremely well-organised and controlled.", "n": "Topic sentence with the impression stated (department model)." },
+            { "t": "Firstly, the extract describes people who “marched in neat rows at the rally”, which suggests the Nazis created a disciplined and united image.", "n": "Quotation + explanation of what the detail suggests." },
+            { "t": "Therefore, the impression the author gives is that Nazi Germany appeared united, disciplined and loyal to Hitler.", "n": "Restates the impression to close." }
+          ],
+          "model_note": "Adapted from the Arcadia IGCSE model paragraphs. The quoted words illustrate the technique; they are not from a real published extract.",
+          "markscheme": {
+            "verified": false, "source": "Paraphrased from the 4HI1/01 June 2025 mark scheme (generic levels for (a)). Check the wording against your copy, then tick verified.", "max_marks": 6, "ao_separate": false,
+            "levels": [
+              { "level": "1", "marks": "1–2", "descriptor": "A simple impression is identified, with little or no support from the extract." },
+              { "level": "2", "marks": "3–4", "descriptor": "An impression is identified and supported with some relevant detail from the extract, with some analysis of how it is created." },
+              { "level": "3", "marks": "5–6", "descriptor": "The impression is clearly analysed, supported by well-selected detail from the extract, showing how the author's choices create it." }
+            ]
+          }
+        },
+        "p1b": {
+          "label": "Paper 1 (b) — explain two effects", "paper": "Paper 1", "marks": 8, "minutes": 12, "ao": "AO1 (4) + AO2 (4)",
+          "template": "Explain two effects of … on …",
+          "asks": "Explain two different consequences of the event. Each needs precise knowledge and an explanation of how the event led to that effect.",
+          "steps": ["Underline the event and what it affected (e.g. 'on the Nazi Party').", "Choose two clearly different effects.", "Paragraph 1: name the effect, give precise evidence (date, number, name, law), explain how the event caused it.", "Paragraph 2: same pattern for a second effect.", "Keep each paragraph on 'effect' — not a story of the event."],
+          "plan": "About 12 minutes: 1 minute planning two effects, 5 minutes per paragraph, 1 minute checking.",
+          "success": ["Two different effects identified", "Each supported with accurate, specific knowledge", "Each explained — how the event led to the effect"],
+          "mistakes": ["Writing only one effect (the mark scheme caps this at 4 marks, with no access to Level 3)", "Describing the event instead of its effects", "Two effects that are really the same point"],
+          "frame": { "full": ["One important effect of … was … For example, … As a result, …", "Another important effect of … was … For instance, … This meant that …"], "some": ["Effect 1: name it + evidence + 'as a result'", "Effect 2: name it + evidence + 'this meant'"] },
+          "model": [
+            { "t": "One important effect of the Wall Street Crash was mass unemployment.", "n": "Topic sentence naming the effect." },
+            { "t": "By 1932 over 6 million Germans were unemployed.", "n": "Precise evidence (statistic)." },
+            { "t": "As a result, many people lost faith in the Weimar government because it seemed unable to solve the crisis.", "n": "Explaining connective + consequence." }
+          ],
+          "model_note": "From the Arcadia IGCSE model paragraphs. A full answer needs a second effect in the same pattern.",
+          "markscheme": {
+            "verified": false, "source": "Paraphrased from the 4HI1/01 June 2025 mark scheme (generic levels for (b)). Check, then tick verified.", "max_marks": 8, "ao_separate": false,
+            "levels": [
+              { "level": "1", "marks": "1–2", "descriptor": "A simple or generalised answer, lacking development; limited knowledge of the topic." },
+              { "level": "2", "marks": "3–5", "descriptor": "Features of the period are analysed to explain at least one effect; some accurate and relevant knowledge supports it. Maximum 4 marks if only one effect is explained." },
+              { "level": "3", "marks": "6–8", "descriptor": "Two effects are explained with developed analysis; accurate and relevant knowledge shows good understanding. Level 3 is not available if only one effect is explained." }
+            ],
+            "notes": "One effect only: maximum 4 marks, no access to Level 3."
+          }
+        },
+        "p1c": {
+          "label": "Paper 1 (c) — how far do you agree", "paper": "Paper 1", "marks": 16, "minutes": 24, "ao": "AO1 (7) + AO2 (9)",
+          "template": "‘[Statement].’ How far do you agree? Explain your answer. You may use the following in your answer: [two prompts]. You must also use information of your own.",
+          "asks": "Weigh the factor in the statement against others and reach a supported judgement. You must go beyond the two prompts with at least one point of your own.",
+          "steps": ["Underline the factor in the statement and the dates.", "Plan three paragraphs: the stated factor, the second prompt, and one point of your own.", "Open with your judgement ('To a large/some/limited extent …').", "Write each paragraph: point, precise evidence, explanation, link back to the statement.", "Conclude by comparing the factors using a criterion (e.g. which lasted longest, affected most people, caused the most change)."],
+          "plan": "About 24 minutes: 3 minutes planning three aspects, 18 minutes writing, 3 minutes conclusion and check.",
+          "success": ["Covers three aspects including one beyond the prompts", "Precise, accurate knowledge throughout", "Analysis explains how each aspect relates to the statement", "Clear judgement with a reason in the conclusion"],
+          "mistakes": ["Only using the two prompts (caps the mark: Level 2 max 6, Level 3 max 10, no Level 4)", "Describing instead of explaining how the factor mattered", "Ending without a judgement or with 'they were all important'"],
+          "frame": { "full": ["Introduction: I agree to a large / some / limited extent that … because …", "The most significant reason … was … Firstly, in [date], … This meant that … This was highly significant because …", "However, another important reason was … For example, … This shows that …", "Furthermore, [your own point] … For instance, … As a result, …", "Overall, … was the most important because it lasted longest / affected the most people / caused the biggest change, whereas …"], "some": ["Judgement", "Factor in the statement", "Second prompt", "Your own point", "Conclusion using a criterion"] },
+          "model": [
+            { "t": "The most significant reason life was difficult for German Jews was the impact of the Nuremberg Laws.", "n": "Topic sentence with a qualifier." },
+            { "t": "Firstly, in 1935 these laws banned marriages between Jews and non-Jews and stripped Jews of German citizenship.", "n": "Time connective + precisely selected evidence." },
+            { "t": "This meant that Jews were legally excluded from German society and lost protection under the law.", "n": "Explaining connective." },
+            { "t": "This was highly significant because it created long-term legal discrimination, so the Nuremberg Laws were a turning point because they made discrimination official government policy.", "n": "Criteria to justify (duration, impact)." }
+          ],
+          "model_note": "Adapted from the Arcadia IGCSE model paragraphs (last sentence lightly corrected).",
+          "markscheme": {
+            "verified": false, "source": "Paraphrased from the 4HI1/01 June 2025 mark scheme (generic levels for (c)). Check, then tick verified.", "max_marks": 16, "ao_separate": false,
+            "levels": [
+              { "level": "1", "marks": "1–4", "descriptor": "A simple or generalised answer with limited analysis; limited knowledge; judgement asserted." },
+              { "level": "2", "marks": "5–8", "descriptor": "An explanation is given, showing limited analysis and organisation; some accurate knowledge; an overall judgement is given but its justification is undeveloped. Maximum 6 marks if it does not go beyond the aspects in the prompts." },
+              { "level": "3", "marks": "9–12", "descriptor": "An explanation is given, showing some analysis, generally directed at the question; accurate and relevant knowledge; overall judgement given with some justification. Maximum 10 marks if it does not go beyond the prompts." },
+              { "level": "4", "marks": "13–16", "descriptor": "An analytical explanation directed consistently at the question; accurate, relevant knowledge used to support it; criteria for the judgement are justified and applied. Not available if the answer does not go beyond the prompts." }
+            ],
+            "notes": "Three aspects needed (at least one beyond the prompts) to reach Level 4."
+          }
+        },
+        "p2ba": {
+          "label": "Paper 2 B (a) — explain two similarities or differences", "paper": "Paper 2 Section B", "marks": 6, "minutes": 9, "ao": "AO1 (2) + AO2 (4)",
+          "template": "Explain TWO ways in which … was similar to / different from …",
+          "asks": "Compare two named situations or periods and explain two specific similarities or differences, with evidence from both sides of the comparison.",
+          "steps": ["Underline both things being compared and the dates.", "Choose two clear similarities (or differences).", "For each: state it, give evidence for BOTH sides, explain why that is a similarity/difference.", "Keep it to two developed points — no introduction needed."],
+          "plan": "About 9 minutes: 1 minute choosing two points, 4 minutes per point.",
+          "success": ["Two distinct similarities/differences", "Evidence from both sides of each comparison", "Explanation of the similarity/difference"],
+          "mistakes": ["Describing one period, then the other, without comparing", "Only one similarity/difference (maximum 3 marks)", "Using evidence outside the dates"],
+          "frame": { "full": ["One way in which … was different from … was … In [period 1], … whereas in [period 2], … This shows that …", "A second difference was … In [period 1], … However, by [period 2], … Therefore …"], "some": ["Comparison 1: both sides + explanation", "Comparison 2: both sides + explanation"] },
+          "markscheme": {
+            "verified": false, "source": "Paraphrased from the 4HI1/02 June 2025 mark scheme (breadth study (a)). Check, then tick verified.", "max_marks": 6, "ao_separate": false,
+            "levels": [
+              { "level": "1", "marks": "1–2", "descriptor": "Simple or generalised comment; limited knowledge." },
+              { "level": "2", "marks": "3–4", "descriptor": "Similarity/difference explained with some analysis and supporting knowledge. Maximum 3 marks if only one is explained." },
+              { "level": "3", "marks": "5–6", "descriptor": "Two similarities/differences explained with developed analysis, supported by accurate, relevant knowledge." }
+            ]
+          }
+        },
+        "p2bb": {
+          "label": "Paper 2 B (b) — explain two causes", "paper": "Paper 2 Section B", "marks": 8, "minutes": 12, "ao": "AO1 (4) + AO2 (4)",
+          "template": "Explain TWO causes of …",
+          "asks": "Explain two different reasons why something happened, each supported by precise evidence and an explanation of how it caused the outcome.",
+          "steps": ["Underline the outcome and the dates.", "Choose two distinct causes.", "For each: name the cause, give precise evidence, then explain how it led to the outcome ('As a result…').", "Do not tell the story of the outcome itself."],
+          "plan": "About 12 minutes: 1 minute planning, 5 minutes per cause, 1 minute checking.",
+          "success": ["Two different causes", "Precise supporting knowledge for each", "Clear explanation of how each caused the outcome"],
+          "mistakes": ["Only one cause (maximum 4 marks, no Level 3)", "Describing events without saying how they caused the outcome", "Using a cause outside the date range"],
+          "frame": { "full": ["One important cause of … was … Firstly, in [date], … As a result, … because …", "A second cause was … For example, … This led to … because …"], "some": ["Cause 1 + evidence + how it caused the outcome", "Cause 2 + evidence + how it caused the outcome"] },
+          "markscheme": {
+            "verified": false, "source": "Paraphrased from the 4HI1/02 June 2025 mark scheme (breadth study (b)). Check, then tick verified.", "max_marks": 8, "ao_separate": false,
+            "levels": [
+              { "level": "1", "marks": "1–2", "descriptor": "Simple or generalised answer; limited knowledge." },
+              { "level": "2", "marks": "3–5", "descriptor": "At least one cause explained with some analysis and supporting knowledge. Maximum 4 marks for one cause." },
+              { "level": "3", "marks": "6–8", "descriptor": "Two causes explained with developed analysis, supported by accurate and relevant knowledge. Not available for one cause." }
+            ]
+          }
+        },
+        "p2bc": {
+          "label": "Paper 2 B (c) — how far (themes)", "paper": "Paper 2 Section B", "marks": 16, "minutes": 24, "ao": "AO1 (7) + AO2 (9)",
+          "template": "How far … in the years …? Explain your answer. You may use the following in your answer: [two prompts]. You must also use information of your own.",
+          "asks": "Make a judgement about change, continuity or the importance of a factor across a long period, using the two prompts and at least one point of your own from a different part of the period.",
+          "steps": ["Underline the concept (change, turning point, main reason) and the dates.", "Plan three aspects spread across the date range — at least one beyond the prompts.", "Open with a judgement.", "In each paragraph, explain how far that aspect shows change (or importance), with precise evidence.", "Conclude with a criterion-based judgement across the whole period."],
+          "plan": "About 24 minutes: 3 minutes planning, 18 minutes writing, 3 minutes conclusion and check.",
+          "success": ["Three aspects across the period, one beyond the prompts", "Precise knowledge, correctly dated", "Analysis of change/continuity or significance", "Supported overall judgement"],
+          "mistakes": ["Covering only the start of the period", "Only using the prompts (caps the mark)", "Narrative with no judgement"],
+          "frame": { "full": ["To a large / some / limited extent … because …", "Firstly, [prompt 1, with date] … This shows … because …", "Secondly, [prompt 2] … However, … which suggests …", "Furthermore, [own point from a different part of the period] …", "Overall, … because [criterion: how much changed, how many people were affected, how long it lasted]."], "some": ["Judgement", "Aspect 1", "Aspect 2", "Own aspect", "Conclusion with criterion"] },
+          "model": [
+            { "t": "The discovery of penicillin was a turning point to a large extent because it transformed the treatment of infection.", "n": "Topic sentence with qualifier." },
+            { "t": "Firstly, Alexander Fleming identified penicillin in 1928, the first effective antibiotic. This shows that treatment could now kill bacteria rather than just manage symptoms.", "n": "Time connective + precise evidence + explanation." },
+            { "t": "Secondly, in the 1940s Florey and Chain developed ways to mass-produce penicillin, which saved thousands of lives during the Second World War.", "n": "Second piece of evidence, later in the period." },
+            { "t": "This was significant because it marked a permanent change in the treatment of disease, making bacterial infections curable rather than fatal.", "n": "Criteria to justify (impact, duration)." }
+          ],
+          "model_note": "From the Arcadia IGCSE model paragraphs.",
+          "markscheme": {
+            "verified": false, "source": "Paraphrased from the 4HI1/02 June 2025 mark scheme (breadth study (c)). Check, then tick verified.", "max_marks": 16, "ao_separate": false,
+            "levels": [
+              { "level": "1", "marks": "1–4", "descriptor": "Simple or generalised answer with limited analysis; limited knowledge; judgement asserted." },
+              { "level": "2", "marks": "5–8", "descriptor": "Limited analysis and organisation; some accurate knowledge; judgement with undeveloped justification. Maximum 6 marks if it does not go beyond the prompts." },
+              { "level": "3", "marks": "9–12", "descriptor": "Some analysis directed at the question; accurate, relevant knowledge; judgement with some justification. Maximum 10 marks if it does not go beyond the prompts." },
+              { "level": "4", "marks": "13–16", "descriptor": "Analytical explanation consistently directed at the question; accurate knowledge supports it; justified criteria applied to the judgement. Requires going beyond the prompts." }
+            ]
+          }
+        }
+      },
+      "resources_received": ["Specification Issue 4 (PDF)", "Arcadia IGCSE model paragraphs (PPTX)"],
       "resources_needed": [
-        "Current Pearson Edexcel International GCSE History specification (issue number)",
-        "Sample assessment materials and mark schemes for each paper taken",
-        "Examiner reports",
-        "Textbooks / lessons for Germany, Civil Rights and Medicine (GCSEPod references optional)"
+        "Confirmation of the Paper 2 historical investigation (A4 Vietnam?)",
+        "Class textbook or lesson decks for Germany, USA 1945–74 and Medicine (to align explanations and page references)",
+        "Recent 4HI1 mark schemes you use in class (to tick the question-type mark schemes as verified)",
+        "Teacher-marked Year 11 answers (to check AI feedback)"
       ]
     },
+
     {
       "id": "y12",
       "year": "Year 12",
       "title": "International A Level History — Germany",
-      "enquiry": "Germany: Development of Dictatorship 1918–45",
-      "stage": "International A Level",
-      "icon": "column",
+      "enquiry": "Unit 1 · Depth Study with Interpretations · Option 1C: Germany, 1918–45",
+      "stage": "International A Level (IAS)",
       "accent": "#7a2e3a",
+      "separation_note": "This is IAL Unit 1. Year 11 Germany (International GCSE) is a separate course with different questions.",
+      "areas": [
+        { "id": "de", "title": "Option 1C: Germany, 1918–45", "paper": "Unit 1 (WHI01/1C)" }
+      ],
       "exam": {
+        "verified": true,
         "board": "Pearson Edexcel",
-        "qualification": "International Advanced Level History",
-        "specification_version": null,
-        "papers": null,
-        "options": [
-          { "area": "Germany", "title": "Germany: Development of Dictatorship 1918–45 (title as given by teacher; verify)", "code": null, "date_range": "1918–45 (to verify)" }
+        "qualification": "International Advanced Subsidiary / Advanced Level in History (XHI01 / YHI01)",
+        "codes": "Unit 1: WHI01/1C",
+        "specification_version": "Issue 6, July 2021",
+        "papers": [
+          { "code": "WHI01/1C", "title": "Unit 1: Depth Study with Interpretations — Option 1C: Germany, 1918–45", "duration": "2 hours", "marks": 50, "weighting": "50% of IAS; 25% of IAL", "structure": "Four questions; answer TWO 25-mark essays. Each assesses AO1 (10 marks) and AO3 (15 marks) together with one set of levels (best fit). About 60 minutes per essay.", "qtypes": ["u1"] }
         ],
-        "question_types": null,
-        "marks": null,
-        "assessment_objectives": null,
-        "verified": false
+        "aos": [
+          { "ao": "AO1", "text": "Demonstrate, organise and communicate knowledge and understanding to analyse and evaluate the key features related to the periods studied, making substantiated judgements and exploring concepts of cause, consequence, change, continuity, similarity, difference and significance", "weight": "10 of 25 marks per Unit 1 essay" },
+          { "ao": "AO3", "text": "Analyse and evaluate, in relation to the historical context, different ways in which aspects of the past have been interpreted", "weight": "15 of 25 marks per Unit 1 essay" }
+        ],
+        "sources": [
+          { "title": "IAL History specification, Issue 6, July 2021", "url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/specification-and-sample-assessments/IAL-History-Specification.pdf" },
+          { "title": "WHI01/1C question paper, 15 May 2025", "url": "https://pmt.physicsandmathstutor.com/download/History/A-level/Past-Papers/Edexcel-IAL/Paper-1/Option-1C/QP/June%202025%20(IAL)%20QP%201C.pdf" },
+          { "title": "WHI01/1C mark scheme, June 2025 (AO1 10 + AO3 15, best fit)", "url": "https://pmt.physicsandmathstutor.com/download/History/A-level/Past-Papers/Edexcel-IAL/Paper-1/Option-1C/MS/June%202025%20(IAL)%20MS%201C.pdf" },
+          { "title": "Getting Ready to Teach IAL History Module 2 delegate booklet (uploaded) — generic Unit 1 mark scheme" },
+          { "title": "WHI01 exemplars with examiner commentaries, Issue 1, January 2018 (uploaded) — three marking strands" },
+          { "title": "Factor-question structure sheet and Germany model-answers deck (uploaded)" }
+        ],
+        "conflicts": [
+          "AO split: the 2018 exemplar pack says Unit 1 assesses AO1 20 marks and AO3 5 marks. The June 2025 mark scheme and Pearson's 2024 training slides give AO1 10 and AO3 15. The site uses the newer figures. Both mark the essay with one best-fit level, so this does not change how answers are marked.",
+          "Your model-answers deck shows AO1 20% and AO3 30%: these match the AO weightings for the whole IAS (AO1 45%, AO2 25%, AO3 30%) only loosely; treat the 10/15 split as correct for each Unit 1 essay.",
+          "Option title: the specification calls it 'Germany, 1918–45'. 'Development of dictatorship' is the International GCSE title."
+        ],
+        "open_questions": [
+          "Your WHI02/1C deck suggests Year 12 may also sit Unit 2, Option 1C: Russia, 1917–91: From Lenin to Yeltsin (needed for the IAS). Should I add it?"
+        ]
       },
-      "separation_note": "Kept separate from Year 11 Germany.",
-      "topics": [],
-      "resources_received": [],
+      "qtypes": {
+        "u1": {
+          "label": "Unit 1 essay — assess this view (interpretations)", "paper": "Unit 1", "marks": 25, "minutes": 60, "ao": "AO1 (10) + AO3 (15), marked together",
+          "template": "Historians differ in their judgements about … ‘[Statement].’ Assess this view using your own knowledge of the issue.",
+          "asks": "Treat the statement as one historian's interpretation. Explore it, explore the alternative views, and reach a substantiated judgement on which view is most convincing, using valid criteria.",
+          "steps": [
+            "Plan (10 minutes): underline the stated view, the concept (cause, consequence, significance) and the dates. List the stated factor plus 2–3 alternatives.",
+            "Introduction: 'Some historians argue that … whilst others argue that …' Name your criteria (duration, scope, effectiveness, impact) and give your judgement.",
+            "Explore the stated view first, with precise evidence (statistics, key people, events, dates, acts/laws).",
+            "Make sure about half the essay explores other views — each paragraph weighs its factor against your criteria.",
+            "Link back to the wording of the question in every paragraph.",
+            "Conclusion: rank the factors and show why one view is more convincing than the others, using your criteria."
+          ],
+          "plan": "60 minutes per essay: 10 minutes planning, about 45 minutes writing, 5 minutes checking. You answer two essays in 2 hours.",
+          "success": [
+            "Strand 1 — key issues raised by the view are analysed and explored as issues of interpretation",
+            "Strand 2 — sufficient, accurate knowledge meets most of the question's demands",
+            "Strand 3 — valid criteria are established and applied to reach a supported overall judgement"
+          ],
+          "mistakes": [
+            "Not focusing on the exact view in the opening paragraph (examiners note this in Level 2 answers)",
+            "Considering other views only near the end of the essay",
+            "Narrative description of events instead of analysis of their importance",
+            "A conclusion that lists factors ('… was important too') without showing why one is more significant",
+            "Going outside the dates in the question"
+          ],
+          "frames": [
+            {
+              "name": "Department factor-question frame",
+              "full": [
+                "Introduction: Some historians argue that … Whilst others argue that … In assessing [topic], key criteria such as [duration / scope / effectiveness / impact] will be employed to argue that … [your judgement]",
+                "Not the most important factor: Despite my judgement, it could be argued that X was the most important … For example, … This meant that … (2–3 pieces of evidence) However, this argument is weak because … [against a criterion] Thus we must assert that …",
+                "Most important factor: In line with my judgement, … For example, … This meant that … (2–3 pieces of evidence) A dissenting view might point to … because … On the balance however, … Thus we must assert that …",
+                "Conclusion: In conclusion, I agree/disagree with the view that … The most important reason was … because … The second most important was … because … it is less important than the first because … The least important was … because …"
+              ],
+              "some": ["Introduction: views + criteria + judgement", "Factor not most important: point, evidence + impact ×2–3, weakness against criteria, sustain judgement", "Most important factor: point, evidence + impact ×2–3, dissenting view, why it still wins, sustain judgement", "Conclusion: ranked factors linked to criteria"]
+            }
+          ],
+          "criteria_list": ["Duration — which factor was important for the longest time?", "Scope — which factor affected the most people or things?", "Effectiveness — which factor achieved most?", "Impact — which factor led to the most fundamental change?"],
+          "evidence_tip": "When selecting evidence think SPEDA: statistics, key people, events, dates and acts/laws.",
+          "frame_note": "The department expects the factor-question frame: introduction with views and criteria (duration, scope, effectiveness, impact), paragraphs on weaker factors that weigh them against the criteria, a paragraph on the strongest factor with a dissenting view, and a conclusion that ranks factors and links back to the criteria. Evidence: statistics, key people, events, dates and acts/laws.",
+          "markscheme": {
+            "verified": false,
+            "source": "Pearson generic mark scheme for Unit 1 (copied from the Getting Ready to Teach Module 2 delegate booklet; matches the June 2025 WHI01 mark scheme ranges). Tick verified once you are happy.",
+            "max_marks": 25, "ao_separate": false,
+            "levels": [
+              { "level": "1", "marks": "1–6", "descriptor": "Simple or generalised statements are made about the view presented in the question. Some accurate and relevant knowledge is included, but it lacks range and depth and does not directly address the issue in the question. Judgement on the view is assertive, with little supporting evidence." },
+              { "level": "2", "marks": "7–12", "descriptor": "Some understanding of the issue raised by the question is shown and analysis is attempted by describing some points that are relevant. Mostly accurate knowledge is included, but it lacks range or depth and only has implicit links to issues relevant to the question. A judgement on the view is given, but with limited support and the criteria for judgement are left implicit." },
+              { "level": "3", "marks": "13–18", "descriptor": "Understanding and some analysis of the issue raised by the question is shown by selecting and explaining some key points of view that are relevant. Knowledge is included to demonstrate some understanding of the issues raised by the question, but material lacks range or depth. Attempts are made to establish criteria for judgement on the view and to relate the overall judgement to them, although with weak substantiation." },
+              { "level": "4", "marks": "19–25", "descriptor": "Key issues relevant to the question are explored by analysing and explaining the issues of interpretation raised by the claim. Sufficient knowledge is deployed to demonstrate understanding of the issues raised by the question and to meet most of its demands. Valid criteria by which the view can be judged are established and applied in the process of coming to a judgement. Although some of the evaluations may only be partly substantiated, the overall judgement is supported." }
+            ],
+            "notes": "Best fit across three strands: (1) analysis of the issues raised by the view, (2) selection and deployment of knowledge, (3) substantiated evaluation and judgement. One mark out of 25 — AO1 and AO3 are not marked separately."
+          }
+        }
+      },
+      "resources_received": ["Factor-question structure sheet (DOCX)", "Germany model-answers deck (PPTX)", "WHI01 exemplars with examiner commentaries (PDF)", "Getting Ready to Teach IAL History Module 2 booklet and slides", "How to answer WHI02/1C (PPTX)"],
       "resources_needed": [
-        "Pearson Edexcel IAL History specification (issue number) and the unit code",
-        "Sample assessment materials, mark schemes, examiner reports",
-        "Textbook / lessons (Massolit lecture list optional)"
+        "Class textbook or lesson decks for Unit 1 Germany (to align explanations and add page references)",
+        "Confirmation of whether Year 12 also sits Unit 2 (WHI02/1C Russia)",
+        "Teacher-marked Year 12 essays (to check AI feedback)"
       ]
     },
+
     {
       "id": "y13",
       "year": "Year 13",
       "title": "International A Level History — Civil Rights",
-      "enquiry": "Civil Rights 1865–2009",
-      "stage": "International A Level",
-      "icon": "scales",
+      "enquiry": "Unit 3 · Thematic Study with Source Evaluation · Option 1D: Civil Rights and Race Relations in the USA, 1865–2009",
+      "stage": "International A Level (IA2)",
       "accent": "#8a6a12",
+      "separation_note": "This is IAL Unit 3. Year 11 civil rights (International GCSE, 1945–74) is a separate course with different questions.",
+      "areas": [
+        { "id": "cr", "title": "Option 1D: Civil Rights and Race Relations in the USA, 1865–2009", "paper": "Unit 3 (WHI03/1D)" }
+      ],
       "exam": {
+        "verified": true,
         "board": "Pearson Edexcel",
-        "qualification": "International Advanced Level History",
-        "specification_version": null,
-        "papers": null,
-        "options": [
-          { "area": "Civil Rights", "title": "Civil Rights 1865–2009 (title as given by teacher; verify)", "code": null, "date_range": "1865–2009 (to verify)" }
+        "qualification": "International Advanced Level in History (YHI01)",
+        "codes": "Unit 3: WHI03/1D",
+        "specification_version": "Issue 6, July 2021",
+        "papers": [
+          { "code": "WHI03/1D", "title": "Unit 3: Thematic Study with Source Evaluation — Option 1D", "duration": "2 hours", "marks": 50, "weighting": "50% of IA2; 25% of IAL", "structure": "Section A: Question 1, compulsory, 25 marks (AO2) — use two sources together. Section B: answer ONE of Questions 2 and 3, 25 marks (AO1) — essays across the themes and periods.", "qtypes": ["u3a", "u3b"] }
         ],
-        "question_types": null,
-        "marks": null,
-        "assessment_objectives": null,
-        "verified": false
+        "themes": [
+          "The role of Congress, the presidency and the Supreme Court",
+          "Pressure groups and individuals campaigning for civil rights",
+          "Forces resisting civil rights",
+          "Changing economic and educational opportunities for black Americans",
+          "Changing patterns of settlement and housing"
+        ],
+        "aos": [
+          { "ao": "AO1", "text": "Demonstrate, organise and communicate knowledge and understanding to analyse and evaluate the key features related to the periods studied, making substantiated judgements", "weight": "Section B (25 marks)" },
+          { "ao": "AO2", "text": "Analyse and evaluate appropriate source material, primary and/or contemporary to the period, within its historical context", "weight": "Section A (25 marks)" }
+        ],
+        "sources": [
+          { "title": "IAL History specification, Issue 6, July 2021", "url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/specification-and-sample-assessments/IAL-History-Specification.pdf" },
+          { "title": "WHI03/1D question paper, January 2022", "url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI03_1D_que_20220108.pdf" },
+          { "title": "WHI03/1D mark scheme, January 2021", "url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI03_1D_msc_20210304.pdf" },
+          { "title": "Getting Ready to Teach IAL History Module 2 delegate booklet (uploaded) — generic Unit 3 mark schemes" },
+          { "title": "Civil Rights Question 2 essay steps (uploaded)" }
+        ],
+        "conflicts": [
+          "Section B levels: the training booklet's Unit 3 Section B table shows four levels (1–6 … 19–25), but its own examiner commentary refers to Level 5, and the January 2021 WHI03/1D mark scheme has five levels (1–4, 5–8, 9–14, 15–20, 21–25). The site uses the five-level ranges from the published mark scheme.",
+          "Your Question 2 deck says 'Use the PEEJ writing frame and SPEND throughout'. Your saved preference is PEEJ, never SPEND, and your factor sheet uses SPEDA (statistics, key people, events, dates, acts/laws). The site uses PEEJ with SPEDA — tell me if you want SPEND instead."
+        ],
+        "open_questions": [
+          "The International A Level also needs Unit 4 in Year 13. Which Unit 4 option does the class take? Not built until confirmed."
+        ]
       },
-      "separation_note": "Kept separate from Year 11 Civil Rights.",
-      "topics": [],
-      "resources_received": [],
+      "qtypes": {
+        "u3a": {
+          "label": "Section A — use two sources together", "paper": "Unit 3 Section A", "marks": 25, "minutes": 60, "ao": "AO2",
+          "requires_sources": true,
+          "template": "How far could the historian make use of Sources 1 and 2 together to investigate …? Explain your answer, using both sources, the information given about them and your own knowledge of the historical context.",
+          "asks": "Judge how useful the two sources are, together, for the specific enquiry. Interrogate what each source shows (inference), test it against context, weigh the provenance, and explain how the sources complement or limit each other.",
+          "steps": [
+            "Decode the enquiry (5 minutes): underline exactly what the historian is investigating and the dates.",
+            "Read both sources and their provenance; annotate who, when, why, for whom.",
+            "Source 1: make 2–3 developed inferences relevant to the enquiry; support or challenge each with precise context.",
+            "Source 2: the same, then show how it adds to, confirms or contradicts Source 1.",
+            "Evaluate weight: how do nature, purpose, audience and the author's position affect how far each can be trusted for this enquiry? Separate information from claim or opinion.",
+            "Judgement: how far the sources together can be used, and with what degree of certainty."
+          ],
+          "plan": "About 60 minutes: 10 minutes reading and planning, 45 minutes writing, 5 minutes checking.",
+          "success": [
+            "Interrogates both sources with reasoned inferences, separating information from claim or opinion",
+            "Uses precise contextual knowledge to illuminate and test the sources' limitations",
+            "Shows understanding of the values and concerns of the society the sources come from",
+            "Evaluates with justified criteria, weighing the evidence and the degree of certainty it supports"
+          ],
+          "mistakes": [
+            "Summarising or paraphrasing the sources instead of making inferences",
+            "Adding context as a separate block instead of applying it to the sources",
+            "Stereotypical provenance comments ('it's biased because he was there')",
+            "Treating the sources separately with no comment on using them together",
+            "Drifting into answering the history question instead of judging the sources"
+          ],
+          "frames": [
+            {
+              "name": "Two-source frame",
+              "full": [
+                "Introduction: Together, Sources 1 and 2 are useful to a large / some / limited extent for investigating … because …",
+                "Source 1 suggests that … (inference). This is supported / challenged by [context] … The author, …, writing in … for …, means that …",
+                "Source 2 adds that … This is reliable for … because … However, its purpose was …, so the claim that … should be treated with caution.",
+                "Using them together: Source 1 shows …, whereas Source 2 reveals … Together they … but neither shows …",
+                "Judgement: Overall, the historian can use the sources together with confidence for … but less for … because …"
+              ],
+              "some": ["Overall judgement on the enquiry", "Source 1: inference + context + provenance", "Source 2: inference + context + provenance", "Together: complement / contradict / gaps", "Judgement with degree of certainty"]
+            }
+          ],
+          "markscheme": {
+            "verified": false,
+            "source": "Pearson generic mark scheme for Unit 3 Section A (training booklet; ranges match the January 2021 WHI03/1D mark scheme). Tick verified once you are happy.",
+            "max_marks": 25, "ao_separate": false,
+            "levels": [
+              { "level": "1", "marks": "1–4", "descriptor": "Demonstrates surface level comprehension of the source material without analysis, selecting some material relevant to the question, but in the form of direct quotations or paraphrases. Some relevant contextual knowledge is included, but presented as information rather than applied to the source material. Evaluation of the source material is assertive with little or no supporting evidence. Concepts of reliability or utility may be addressed, but by making stereotypical judgements." },
+              { "level": "2", "marks": "5–8", "descriptor": "Demonstrates some understanding of the source material and attempts analysis by selecting and summarising information and making inferences relevant to the question. Contextual knowledge is added to information from the source material, but mainly to expand, confirm or challenge matters of detail. Evaluation of the source material is related to the specified enquiry but with limited support for judgement. Concepts of reliability or utility are addressed mainly by noting aspects of source provenance and some judgements may be based on questionable assumptions." },
+              { "level": "3", "marks": "9–14", "descriptor": "Demonstrates understanding of the source material and shows some analysis by selecting key points relevant to the question, explaining their meaning and selecting material to support valid developed inferences. Detailed knowledge of the historical context is deployed to explain or support inferences as well as to expand, confirm or challenge matters of detail. Evaluation of the source material is related to the specified enquiry and explanation of utility takes into account relevant considerations such as nature or purpose of the source material or the position of the author. Judgements are based on valid criteria with some justification." },
+              { "level": "4", "marks": "15–20", "descriptor": "Analyses the source material, interrogating the evidence to make reasoned inferences and to show a range of ways the material can be used, for example by distinguishing between information and claim or opinion, although treatment of the two sources may be uneven. Deploys well-selected knowledge of the historical context, but mainly to illuminate or discuss the limitations of what can be gained from the content of the source material. Displays some understanding of the need to interpret source material in the context of the values and concerns of the society from which it is drawn. Evaluation of the source material uses valid criteria which are justified and applied, although some of the evaluation may not be fully substantiated. Evaluation takes into account the weight the evidence will bear as part of coming to a judgement." },
+              { "level": "5", "marks": "21–25", "descriptor": "Interrogates the evidence of both sources with confidence and discrimination, making reasoned inferences and showing a range of ways the material can be used, for example by distinguishing between information and claim or opinion. Deploys knowledge of the historical context with precision to illuminate and discuss the limitations of what can be gained from the content of the source material, displaying secure understanding of the need to interpret source material in the context of the values and concerns of the society from which it is drawn. Evaluation of the source material uses valid criteria which are justified and fully applied. Evaluation takes into account the weight the evidence will bear as part of coming to a judgement and, where appropriate, distinguishes between the degree of certainty with which aspects of it can be used as the basis for claims." }
+            ],
+            "notes": "Best fit; one mark out of 25 (AO2)."
+          }
+        },
+        "u3b": {
+          "label": "Section B — thematic essay across periods", "paper": "Unit 3 Section B", "marks": 25, "minutes": 60, "ao": "AO1",
+          "template": "‘[Statement about two or more periods, or the whole period].’ How far do you agree with this statement?",
+          "asks": "Make a sustained, criteria-based judgement across the named periods or themes. Compare periods and factors rather than treating each in isolation.",
+          "steps": [
+            "Decode (3 minutes): underline the claim, the comparison and EVERY date range. Define what would make something 'main' or 'most significant'.",
+            "Plan (7 minutes): plan four PEEJ paragraphs — e.g. stated factor and alternative in period 1, then in period 2 — with two precise examples each.",
+            "Introduce (5 minutes): define the debate and criteria; give a provisional answer that can differ between periods.",
+            "Develop (about 32 minutes): four PEEJ paragraphs — specific evidence, its effect, and a comparative judgement at the end of each.",
+            "Conclude (8 minutes) and check (5 minutes): answer 'how far' across BOTH periods using your criteria; check dates and comparisons."
+          ],
+          "plan": "About 60 minutes: 55 minutes writing time (decode 3, plan 7, introduce 5, develop 32, conclude 8) + 5 minutes checking — from the department Question 2 essay-steps guide.",
+          "success": [
+            "Sustained analysis of the relationships between key features of the periods",
+            "Precisely selected knowledge from every period named",
+            "Valid criteria established, applied and weighed to reach the judgement",
+            "Logical, coherent, precise argument throughout"
+          ],
+          "mistakes": [
+            "Covering only one of the named periods, or drifting outside the dates",
+            "Narrating each period in turn without comparing them",
+            "Assuming every black American's experience was identical (most examples concern the South)",
+            "A conclusion that repeats evidence instead of weighing it with criteria"
+          ],
+          "frames": [
+            {
+              "name": "PEEJ two-period frame (department)",
+              "full": [
+                "Introduction: [Factor A] affected black Americans through … while [factor B] involved … I will judge which mattered most by severity, persistence and effect on the ability to secure change. Overall, I agree to a … extent, although the balance changed between the periods because …",
+                "PEEJ 1 — [Factor A], period 1: P: '… was especially serious in … because …' E: two precise examples. E: 'This limited … because …' J: 'Compared with …, this was more/less significant because …'",
+                "PEEJ 2 — [Factor B], period 1: P: 'However, … also …' E: … E: 'This undermined …' J: 'By [date] …, making … more/less serious than … because …'",
+                "PEEJ 3 — [Factor A], period 2: P / E / E / J",
+                "PEEJ 4 — [Factor B], period 2: P / E / E / J",
+                "Conclusion: Overall, I agree to a large/some/limited extent because … The claim is stronger for … because … In …, the balance shifted/remained because … Judged by …, but judged by …, … was ultimately more significant because …"
+              ],
+              "some": ["Introduction: definitions, criteria, provisional judgement", "PEEJ: factor A, period 1", "PEEJ: factor B, period 1", "PEEJ: factor A, period 2", "PEEJ: factor B, period 2", "Conclusion across both periods"]
+            },
+            {
+              "name": "Department factor-question frame",
+              "full": [
+                "Introduction: Some historians argue that … Whilst others argue that … In assessing [topic], key criteria such as [duration / scope / effectiveness / impact] will be employed to argue that …",
+                "Not the most important factor: Despite my judgement, it could be argued that … For example, … This meant that … However, this argument is weak because … Thus we must assert that …",
+                "Most important factor: In line with my judgement, … For example, … A dissenting view might point to … On the balance however, … Thus we must assert that …",
+                "Conclusion: rank the factors and link each back to the criteria."
+              ],
+              "some": ["Introduction", "Weaker factor(s)", "Strongest factor", "Conclusion with criteria"]
+            }
+          ],
+          "criteria_list": ["Duration — which factor mattered for longest?", "Scope — which affected the most people or places?", "Effectiveness — which achieved most?", "Impact — which led to the most fundamental change?", "From the Question 2 guide: severity, persistence, ability to secure change"],
+          "evidence_tip": "When selecting evidence think SPEDA: statistics, key people, events, dates and acts/laws.",
+          "frame_note": "Department approach: PEEJ paragraphs (Point, Evidence, Explain, Judgement) organised by factor and period, criteria stated in the introduction (duration, scope, effectiveness, impact; or severity, persistence, ability to secure change), comparative judgement at the end of every paragraph, conclusion weighing both periods. Evidence: statistics, key people, events, dates and acts/laws.",
+          "markscheme": {
+            "verified": false,
+            "source": "Level ranges from the January 2021 WHI03/1D mark scheme; descriptor wording from Pearson's generic Unit 3 Section B mark scheme in the training booklet (Levels 1–4) and its Level 5 description. Tick verified once checked.",
+            "max_marks": 25, "ao_separate": false,
+            "levels": [
+              { "level": "1", "marks": "1–4", "descriptor": "Simple or generalised statements are made about the topic. Some accurate and relevant knowledge is included, but it lacks range and depth and does not directly address the question. The overall judgement is missing or asserted. There is little, if any, evidence of attempts to structure the answer, and the answer overall lacks coherence and precision." },
+              { "level": "2", "marks": "5–8", "descriptor": "There is some analysis of some key features of the period relevant to the question, but descriptive passages are included that are not clearly shown to relate to the focus of the question. Mostly accurate and relevant knowledge is included but lacks range or depth and has only implicit links to the demands and conceptual focus of the question. An overall judgement is given but with limited support and the criteria for judgement are left implicit. The answer shows some attempts at organisation, but most of the answer is lacking in coherence, clarity and precision." },
+              { "level": "3", "marks": "9–14", "descriptor": "There is some analysis of, and attempt to explain links between, the relevant key features of the period and the question, although some mainly descriptive passages may be included. Mostly accurate and relevant knowledge is included to demonstrate some understanding of the demands and conceptual focus of the question, but material lacks range or depth. Attempts are made to establish criteria for judgement and to relate the overall judgement to them, although with weak substantiation. The answer shows some organisation. The general trend of the argument is clear, but parts of it lack logic, coherence or precision." },
+              { "level": "4", "marks": "15–20", "descriptor": "Key issues relevant to the question are explored by an analysis of the relationships between key features of the period. Sufficient knowledge is deployed to demonstrate understanding of the demands and conceptual focus of the question and to meet most of its demands. Valid criteria by which the question can be judged are established and applied in the process of coming to a judgement. Although some of the evaluations may be only partly substantiated, the overall judgement is supported. The answer is generally well organised. The argument is logical and is communicated with clarity, although in a few places it may lack coherence or precision." },
+              { "level": "5", "marks": "21–25", "descriptor": "Key issues relevant to the question are explored by a sustained analysis and discussion of the relationships between key features of the period. Sufficient knowledge is precisely selected and deployed to demonstrate understanding of the demands and conceptual focus of the question, and to respond fully to its demands. Valid criteria by which the question can be judged are established and applied and their relative significance evaluated in the process of reaching and substantiating the overall judgement. The answer is well organised. The argument is logical and coherent throughout and is communicated with clarity and precision." }
+            ],
+            "notes": "Best fit; one mark out of 25 (AO1)."
+          }
+        }
+      },
+      "resources_received": ["Civil Rights Question 2 essay steps (PPTX)", "Factor-question structure sheet (DOCX)", "Getting Ready to Teach IAL History Module 2 booklet and slides"],
       "resources_needed": [
-        "Pearson Edexcel IAL History specification (issue number) and the unit code",
-        "Sample assessment materials, mark schemes, examiner reports",
-        "Textbook / lessons"
+        "Class textbook or lesson decks for Unit 3 (to align explanations and add page references)",
+        "Which Unit 4 option the class takes",
+        "Teacher-marked Year 13 essays and source answers (to check AI feedback)"
       ]
     }
   ]

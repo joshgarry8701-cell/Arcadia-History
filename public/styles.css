@@ -245,3 +245,11 @@ pre.code { white-space: pre-wrap; font-family: var(--mono); font-size: .85rem; b
   .flash, .opt, .btn, .act, .year { transition: background-color .15s, border-color .15s, transform .15s; }
   .act:hover, .year:hover { transform: translateY(-1px); }
 }
+
+/* ---------- additions: teacher photo, quotations, level tables ---------- */
+.hero-photo { grid-template-columns: auto minmax(0, 1fr); align-items: center; gap: 20px; }
+.hero-photo > div { display: grid; gap: 8px; min-width: 0; }
+.teacher { width: 132px; height: 132px; border-radius: 50%; object-fit: cover; object-position: 50% 20%; background: var(--sunk); border: 3px solid var(--surface); box-shadow: 0 0 0 1px var(--line); }
+@media (max-width: 560px) { .hero-photo { grid-template-columns: 1fr; } .teacher { width: 96px; height: 96px; } }
+blockquote { margin: 0; padding: 10px 14px; border-left: 4px solid var(--course); background: var(--sunk); border-radius: 0 6px 6px 0; font-size: .97rem; white-space: pre-line; }
+table.levels td:first-child, table.levels td:nth-child(2) { white-space: nowrap; }

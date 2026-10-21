@@ -1,0 +1,162 @@
+{
+  "id": "y13-cr-6", "course": "y13", "area": "cr", "kt": "Themes", "order": 6,
+  "title": "The five themes across 1865–2009",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Synoptic revision for Section B. Draws on key topics 1–5." },
+  "learn": {
+    "intro": "Section B essays ask you to compare periods and judge change over time. Use this topic to see each of the five specification themes across all five key topics, with the strongest comparative evidence.",
+    "sections": [
+      {
+        "id": "s1", "title": "Theme 1: Congress, the presidency and the Supreme Court",
+        "blocks": [
+          { "ul": [
+            "1865–77: Congress drove change (Reconstruction Acts, 14th and 15th Amendments, Civil Rights Act 1875); Johnson obstructed, Grant enforced; the Court began narrowing protection (Slaughterhouse 1873, Cruikshank 1876).",
+            "1883–c1900: the Court enabled Jim Crow (Civil Rights Cases 1883, Plessy 1896, Williams 1898, Cumming 1899); Congress and presidents did nothing.",
+            "1933–45: Roosevelt gave relief but avoided civil rights; southern Democrats blocked anti-lynching bills; Executive Order 8802 (1941); the Court began to turn (Gaines 1938, Smith v Allwright 1944).",
+            "1954–68: the Court led (Brown 1954); Johnson and Congress delivered the 1964, 1965 and 1968 Acts.",
+            "c2000–09: a black President elected; federal law now protected voting and civil rights, though enforcement and outcomes varied."
+          ] },
+          { "p": "Judgement prompt: federal institutions were most decisive when all three branches moved together (1865–70, 1964–68) and most damaging when the Court acted alone against black rights (1883–1899)." }
+        ],
+        "terms": ["three branches", "federal enforcement"],
+        "evidence": ["Plessy 1896 vs Brown 1954: the Court reversing itself.", "Civil Rights Act 1875 struck down 1883 vs Civil Rights Act 1964 upheld."]
+      },
+      {
+        "id": "s2", "title": "Theme 2: Pressure groups and individuals",
+        "blocks": [
+          { "ul": [
+            "1865–77: black officeholders (Revels, Bruce) and Radical Republicans in Congress.",
+            "1883–c1900: Booker T. Washington's accommodationism; Ida B. Wells against lynching; Plessy's test case.",
+            "1933–45: NAACP legal campaign and anti-lynching work; Randolph's March on Washington Movement; CORE (1942); Double V.",
+            "1954–68: NAACP, SCLC, SNCC, CORE, King, Malcolm X, Black Power.",
+            "c2000–09: black politicians and voters; Obama's campaign organisation."
+          ] },
+          { "p": "Judgement prompt: pressure groups achieved most when they forced federal action (1941, 1963–65); on their own, as in the 1890s, they could not overcome hostile state governments." }
+        ],
+        "terms": ["direct action", "legal strategy"],
+        "evidence": ["1941: threat of a march → Executive Order 8802.", "Selma 1965 → Voting Rights Act."]
+      },
+      {
+        "id": "s3", "title": "Theme 3: Forces resisting civil rights",
+        "blocks": [
+          { "ul": [
+            "1865–77: Black Codes, Ku Klux Klan, White League, Redeemer Democrats.",
+            "1883–c1900: state legislatures, disfranchisement, lynching at its peak.",
+            "1933–45: southern Democrats in Congress (seniority, filibusters); race riots (Detroit 1943).",
+            "1954–68: massive resistance, Citizens' Councils, the Klan, northern white backlash.",
+            "c2000–09: continuing tensions over policing; hostility after 2008 (birther theory)."
+          ] },
+          { "p": "Judgement prompt: resistance was most effective when it controlled state governments and Congress (1877–1945); it was weakened when federal power was used against it." }
+        ],
+        "terms": ["southern Democrats", "white backlash"],
+        "evidence": ["Southern Democrats blocked anti-lynching bills 1934–38.", "Southern Manifesto 1956."]
+      },
+      {
+        "id": "s4", "title": "Theme 4: Economic and educational opportunities",
+        "blocks": [
+          { "ul": [
+            "1865–77: freedom but landlessness; sharecropping and crop liens; Freedmen's Bureau schools, black colleges.",
+            "1883–c1900: underfunded segregated schools (Cumming 1899); debt peonage, convict leasing; Tuskegee.",
+            "1933–45: New Deal relief and jobs (WPA, PWA) but AAA evictions and NRA wage differentials; war-industry jobs.",
+            "1954–68: Brown v Board; rising incomes and college enrolment for some; ghettos persist; Civil Rights Act 1964 bans job discrimination.",
+            "c2000–09: a substantial black middle class but wide wealth and poverty gaps."
+          ] }
+        ],
+        "terms": ["sharecropping", "black middle class"],
+        "evidence": ["Cumming 1899 vs Brown 1954.", "AAA evictions (1930s) vs EEOC (1964)."]
+      },
+      {
+        "id": "s5", "title": "Theme 5: Settlement and housing",
+        "blocks": [
+          { "ul": [
+            "1865–77: freedom of movement; most freedpeople stayed in the rural South.",
+            "1883–c1900: a modest drift north and west; most black Americans still southern and rural.",
+            "1933–45: Great Migration earlier in the century created northern urban communities; renewed migration to war industries; ghettos, restrictive covenants.",
+            "1954–68: urban ghettos; riots (Watts 1965); Fair Housing Act 1968.",
+            "c2000–09: more than half of black Americans in the South again; suburbanisation of the middle class."
+          ] }
+        ],
+        "terms": ["Great Migration", "ghetto", "suburbanisation"],
+        "evidence": ["Watts 1965; Fair Housing Act 1968.", "2000: over half of black Americans live in the South."]
+      }
+    ],
+    "timeline": [
+      { "date": "1865", "event": "Thirteenth Amendment abolishes slavery" },
+      { "date": "1870", "event": "Fifteenth Amendment" },
+      { "date": "1877", "event": "End of Reconstruction" },
+      { "date": "1883", "event": "Civil Rights Cases" },
+      { "date": "1896", "event": "Plessy v Ferguson" },
+      { "date": "1909", "event": "NAACP founded" },
+      { "date": "1941", "event": "Executive Order 8802" },
+      { "date": "1954", "event": "Brown v Board of Education" },
+      { "date": "1964", "event": "Civil Rights Act" },
+      { "date": "1965", "event": "Voting Rights Act" },
+      { "date": "1968", "event": "Fair Housing Act; King assassinated" },
+      { "date": "2008", "event": "Obama elected President" }
+    ],
+    "people": [
+      { "name": "John Marshall Harlan", "role": "Dissented in 1883 and 1896 — his 'color-blind' view was vindicated in 1954." },
+      { "name": "Booker T. Washington / W. E. B. Du Bois", "role": "Contrasting strategies around 1900." },
+      { "name": "Franklin and Eleanor Roosevelt", "role": "Relief and symbolism without legislation." },
+      { "name": "Lyndon Johnson", "role": "Delivered the 1964, 1965 and 1968 Acts." },
+      { "name": "Barack Obama", "role": "First black President, elected 2008." }
+    ],
+    "vocab": [
+      { "term": "Synoptic", "def": "Linking several periods in one argument." },
+      { "term": "Turning point", "def": "A moment after which the direction of change altered." },
+      { "term": "Continuity", "def": "What stayed the same across periods." }
+    ],
+    "misconceptions": [
+      { "wrong": "Progress was steady from 1865 to 2009.", "right": "Rights were won, lost after 1877 and in the 1890s, and only restored after 1954." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "In which period did the Supreme Court do most to advance civil rights?", "options": ["1883–c1900", "1954–68", "1865–77", "1933–45"], "answer": 1, "why": "Brown v Board (1954) and backing for desegregation." },
+      { "id": "m2", "s": "s3", "q": "What was the main obstacle to civil rights in Congress in 1933–45?", "options": ["The Ku Klux Klan", "Southern Democrats", "The NAACP", "The Supreme Court"], "answer": 1, "why": "Seniority and filibusters." },
+      { "id": "m3", "s": "s2", "q": "Which pressure produced Executive Order 8802?", "options": ["Montgomery boycott", "Randolph's threatened March on Washington", "Selma march", "Freedom Rides"], "answer": 1, "why": "1941." },
+      { "id": "m4", "s": "s4", "q": "Which case shows 'equal' was not enforced in education before Brown?", "options": ["Cumming v Richmond County 1899", "Smith v Allwright 1944", "Civil Rights Cases 1883", "Browder v Gayle 1956"], "answer": 0, "why": "A black high school closed while white ones stayed open." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s1", "q": "Which 1954 case reversed Plessy in education?", "accept": ["brown v board", "brown v board of education", "brown", "brown vs board"], "answer": "Brown v Board of Education" },
+      { "id": "a2", "s": "s5", "q": "Which 1968 Act targeted housing discrimination?", "accept": ["fair housing act", "civil rights act 1968", "civil rights act of 1968", "fair housing"], "answer": "The Fair Housing Act (Civil Rights Act 1968)" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put the Supreme Court decisions in order", "items": ["Slaughterhouse Cases", "Civil Rights Cases", "Plessy v Ferguson", "Cumming v Richmond County", "Smith v Allwright", "Brown v Board"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the period to its main resisting force", "pairs": [["1865–77", "Klan and White League violence"], ["1883–c1900", "State disfranchisement laws"], ["1933–45", "Southern Democrats in Congress"], ["1954–68", "Massive resistance"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s1", "q": "Give two pieces of evidence that the Supreme Court both hindered and helped civil rights.", "keywords": [["plessy", "1883", "1896", "civil rights cases", "williams"], ["brown", "1954", "smith", "allwright", "gaines"]], "model": "Hindered: Civil Rights Cases (1883), Plessy (1896). Helped: Smith v Allwright (1944), Brown (1954)." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "When did all three branches of federal government support civil rights together?", "a": "Briefly in 1867–70 and again in 1964–68.", "hint": "Two windows." },
+    { "id": "f2", "s": "s2", "q": "When were pressure groups most effective?", "a": "When they forced federal action — 1941 (Executive Order 8802), 1963–65 (Birmingham, Selma).", "hint": "Forcing Washington." },
+    { "id": "f3", "s": "s3", "q": "What links resistance across 1877–1945?", "a": "White southern control of state governments and, through seniority, of key congressional committees.", "hint": "Southern Democrats." },
+    { "id": "f4", "s": "s4", "q": "What was the main economic continuity from 1865 to 1945?", "a": "Most black southerners remained poor agricultural workers — sharecroppers and tenants — with limited education.", "hint": "The land." },
+    { "id": "f5", "s": "s5", "q": "How did black settlement change 1865–2009?", "a": "Rural South → northern cities (Great Migration) → many back to a now-urban South; middle-class suburbanisation.", "hint": "South–North–South." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "judge", "text": "I can compare the role of Congress, the presidency and the Supreme Court across at least two periods.", "sections": ["s1"] },
+    { "id": "k2", "level": "judge", "text": "I can compare the impact of pressure groups and individuals across periods.", "sections": ["s2"] },
+    { "id": "k3", "level": "judge", "text": "I can compare the forces resisting civil rights across periods.", "sections": ["s3"] },
+    { "id": "k4", "level": "explain", "text": "I can explain change and continuity in economic and educational opportunity.", "sections": ["s4"] },
+    { "id": "k5", "level": "explain", "text": "I can explain changing patterns of settlement and housing.", "sections": ["s5"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "u3b", "label": "Past paper: WHI03/1D, January 2022, Q2", "sections": ["s3", "s1"],
+        "q": "‘The influence of southern Democrats was the chief cause of the failure to successfully advance the civil rights of black Americans in the years 1865–77 and 1933–45.’\nHow far do you agree with this statement?" },
+      { "id": "q2", "qtype": "u3a", "label": "Past paper: WHI03/1D, January 2022, Q1 (sources in the paper's Sources Booklet)", "sections": ["s1"],
+        "q": "How far could the historian make use of Sources 1 and 2 together to investigate the impact of the civil rights judgements of 1883 by the US Supreme Court?\nExplain your answer, using both sources, the information given about them and your own knowledge of the historical context.",
+        "plan": "About 60 minutes. You need the January 2022 WHI03/1D Sources Booklet — ask Mr Garry for a copy." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Turning points", "task": "Choose the single biggest turning point in 1865–2009. Defend it against two rivals using impact and duration." },
+    { "id": "t2", "kind": "Change and continuity", "task": "'The years 1883–1945 saw more continuity than change for black Americans.' Plan a four-paragraph PEEJ answer." },
+    { "id": "t3", "kind": "Competing arguments", "task": "Was the federal government more of a help or a hindrance across the whole period? Judge each period, then the whole." }
+  ]
+}

@@ -177,7 +177,7 @@ test('drafts are hidden from students; deletion and export work', async () => {
   const c = await t.get('/api/teacher/content/' + encodeURIComponent('topic:y7-hastings'));
   await t.put('/api/teacher/content/' + encodeURIComponent('topic:y7-hastings'), { data: c.body.data, status: 'draft' });
   assert.equal((await a.get('/api/topics/y7-hastings')).status, 404);
-  assert.equal(Object.keys((await a.get('/api/catalog')).body.topics).length, 0);
+  assert.ok(!('y7-hastings' in (await a.get('/api/catalog')).body.topics), 'draft topic hidden from catalog');
   await t.put('/api/teacher/content/' + encodeURIComponent('topic:y7-hastings'), { data: c.body.data, status: 'published' });
   await a.put('/api/progress', { progress: { checklist: { k2: 'amber' } } });
   const mine = await a.get('/api/my-data');
@@ -215,4 +215,43 @@ test('students can send work to the teacher without AI; drafts stay private', as
   assert.equal(sent.body.submission.status, 'submitted');
   assert.equal((await t.get('/api/teacher/submissions')).body.submissions.length, 1);
   assert.equal((await a.put('/api/submissions/' + s.body.submission.id, { text: 'changed' })).status, 409, 'sent work is locked');
+});
+
+test('question types: shared mark scheme gives indicative marks; source questions need their sources', async () => {
+  let lastPrompt = '';
+  const { a, t } = await setup(async ({ user }) => { lastPrompt = user; return { text: JSON.stringify({ mark: 17, level: 'Level 3', improvements: ['x'] }), usage: { input_tokens: 100, output_tokens: 100 } }; });
+  await t.put('/api/teacher/settings', { price_input_per_mtok: 3, price_output_per_mtok: 15, cooldown_seconds: 0, daily_marks_per_student: 50 });
+  const essay = 'Some historians argue that territorial loss was the most damaging consequence of Versailles, whilst others argue that reparations did more damage because they led to the Ruhr occupation and hyperinflation in 1923.';
+  // Unverified course mark scheme → formative
+  let s = await a.post('/api/submissions', { topic_id: 'y12-de-1', question_id: 'q1', text: essay });
+  let fb = await a.post('/api/submissions/' + s.body.submission.id + '/feedback');
+  assert.equal(fb.status, 200, JSON.stringify(fb.body));
+  assert.equal(fb.body.submission.ai.mode, 'formative');
+  assert.match(lastPrompt, /Assess this view/);
+  // Teacher verifies the shared Unit 1 scheme
+  const c = await t.get('/api/teacher/content/courses');
+  const y12 = c.body.data.courses.find((x) => x.id === 'y12');
+  y12.qtypes.u1.markscheme.verified = true;
+  assert.equal((await t.put('/api/teacher/content/courses', { data: c.body.data, status: 'published' })).status, 200);
+  s = await a.post('/api/submissions', { topic_id: 'y12-de-1', question_id: 'q1', text: essay });
+  fb = await a.post('/api/submissions/' + s.body.submission.id + '/feedback');
+  assert.equal(fb.body.submission.ai.mode, 'indicative');
+  assert.equal(fb.body.submission.ai.mark, 17);
+  assert.equal(fb.body.submission.ai.max, 25);
+  assert.match(lastPrompt, /Level 4|19–25/);
+  assert.match(lastPrompt, /duration, scope, effectiveness, impact/, 'department frame passed to the marker');
+  // Section A: verify scheme; question with sources → indicative and sources in prompt
+  const y13 = c.body.data.courses.find((x) => x.id === 'y13');
+  y13.qtypes.u3a.markscheme.verified = true;
+  await t.put('/api/teacher/content/courses', { data: c.body.data, status: 'published' });
+  s = await a.post('/api/submissions', { topic_id: 'y13-cr-2', question_id: 'q1', text: essay });
+  fb = await a.post('/api/submissions/' + s.body.submission.id + '/feedback');
+  assert.equal(fb.body.submission.ai.mode, 'indicative');
+  assert.match(lastPrompt, /color-blind/, 'source text sent to the marker');
+  // Past-paper Section A without its sources → formative only
+  s = await a.post('/api/submissions', { topic_id: 'y13-cr-6', question_id: 'q2', text: essay });
+  fb = await a.post('/api/submissions/' + s.body.submission.id + '/feedback');
+  assert.equal(fb.body.submission.ai.mode, 'formative');
+  assert.equal(fb.body.submission.ai.mark, null);
+  assert.match(lastPrompt, /NOT available/);
 });

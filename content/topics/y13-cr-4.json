@@ -1,0 +1,139 @@
+{
+  "id": "y13-cr-4", "course": "y13", "area": "cr", "kt": "Key topic 4", "order": 4,
+  "title": "'I have a dream', 1954–68",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following IAL Unit 3 Option 1D key topic 4." },
+  "learn": {
+    "intro": "From Brown v Board to the Civil Rights Act of 1968: how pressure from below, the courts, the media and Lyndon Johnson combined to end legal segregation and protect voting — and why the movement then divided.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Pressure for change, 1954–65",
+        "blocks": [
+          { "p": "Brown v Board of Education (17 May 1954): the NAACP's Thurgood Marshall argued that segregated schools were inherently unequal, and Chief Justice Earl Warren secured a unanimous decision overturning Plessy in education. Brown II (1955) ordered desegregation 'with all deliberate speed', which the South exploited to delay." },
+          { "p": "The Montgomery Bus Boycott (December 1955–December 1956), sparked by Rosa Parks's arrest and organised by the Montgomery Improvement Association under Martin Luther King, lasted 381 days and ended after the Supreme Court ruling in Browder v Gayle. It showed the power of mass non-violent action and made King a national figure. The Southern Christian Leadership Conference (SCLC) followed in 1957." },
+          { "p": "Student and direct action: sit-ins began at Greensboro in February 1960 and SNCC was founded in April 1960; CORE's Freedom Rides (1961) tested desegregation of interstate bus terminals and met violence, including the firebombing of a bus at Anniston. King's Birmingham campaign (1963) provoked Bull Connor's use of dogs and fire hoses against children, and the March on Washington (28 August 1963) drew about 250,000 people. Freedom Summer (1964) registered voters in Mississippi; Selma ('Bloody Sunday', 7 March 1965) led directly to the Voting Rights Act." },
+          { "p": "The media, especially television, carried images of peaceful protesters being attacked into homes across the USA and the world, shifting northern opinion and embarrassing the government during the Cold War." },
+          { "p": "Economic and educational opportunity improved for some — black college enrolment and incomes rose — but northern ghettos persisted, with poor housing, unemployment and de facto segregation. The white backlash included 'massive resistance', the Southern Manifesto (1956), White Citizens' Councils, the Little Rock crisis (1957), bombings such as Birmingham's 16th Street Baptist Church (September 1963), and growing northern resentment." }
+        ],
+        "terms": ["Brown v Board", "non-violent direct action", "sit-in", "Freedom Rides", "massive resistance", "de facto segregation"],
+        "evidence": ["17 May 1954: Brown v Board (unanimous).", "1955–56: Montgomery Bus Boycott, 381 days.", "February 1960: Greensboro sit-ins; April 1960: SNCC.", "1963: Birmingham; March on Washington (about 250,000).", "7 March 1965: Bloody Sunday, Selma."]
+      },
+      {
+        "id": "s2", "title": "2. Landmark legislation and Lyndon Johnson",
+        "blocks": [
+          { "p": "The Civil Rights Act (2 July 1964) banned segregation in public places and discrimination in employment, created the Equal Employment Opportunity Commission and let the government cut federal funds to segregated programmes such as schools." },
+          { "p": "The Voting Rights Act (6 August 1965) banned literacy tests and sent federal examiners to register voters in areas with low registration. Black registration in Mississippi rose from under 7 per cent in 1964 to about 60 per cent by 1968." },
+          { "p": "The Civil Rights Act of 1968 (Fair Housing Act), passed a week after King's assassination, banned discrimination in the sale and rental of housing, though enforcement was weak." },
+          { "p": "Lyndon Johnson, a Texan former Senate Majority Leader who had steered the 1957 Act through the Senate, used his political skill and the national mood after Kennedy's assassination to break a Senate filibuster lasting about two months in 1964. His 'We Shall Overcome' speech (March 1965) identified the presidency with the movement." }
+        ],
+        "terms": ["Civil Rights Act 1964", "Voting Rights Act 1965", "Fair Housing Act 1968", "EEOC"],
+        "evidence": ["2 July 1964: Civil Rights Act.", "6 August 1965: Voting Rights Act.", "Mississippi black registration: under 7% (1964) → about 60% (1968).", "April 1968: Civil Rights Act (Fair Housing)."]
+      },
+      {
+        "id": "s3", "title": "3. Divisions in the movement and Black Power",
+        "blocks": [
+          { "p": "Malcolm X, the Nation of Islam's leading voice, rejected integration and non-violence, stressed black pride and self-defence, and criticised King. He left the Nation of Islam in 1964 and was assassinated in February 1965; his ideas strongly influenced the next generation." },
+          { "p": "Frustration with slow change in the northern ghettos fuelled riots — Watts, Los Angeles (August 1965), 34 deaths — and King's Chicago campaign (1966) failed to win much against housing segregation. On the Meredith March (1966) Stokely Carmichael popularised the slogan 'Black Power'." },
+          { "p": "SNCC voted to expel white members in December 1966 and CORE also abandoned interracialism, breaking with the coalition that had won the legislation. The Black Panther Party, founded in Oakland in October 1966 by Huey Newton and Bobby Seale, combined armed patrols against police brutality with community programmes such as free breakfasts." },
+          { "p": "King's public opposition to the Vietnam War (April 1967) cost him support from Johnson and moderate allies. His assassination in Memphis on 4 April 1968 was followed by riots in more than 100 cities." }
+        ],
+        "terms": ["Black Power", "Nation of Islam", "Black Panther Party", "Watts riot"],
+        "evidence": ["21 February 1965: Malcolm X assassinated.", "August 1965: Watts riot.", "June 1966: 'Black Power' on the Meredith March.", "October 1966: Black Panthers founded.", "4 April 1968: King assassinated."]
+      }
+    ],
+    "timeline": [
+      { "date": "17 May 1954", "event": "Brown v Board of Education" },
+      { "date": "Dec 1955", "event": "Montgomery Bus Boycott begins" },
+      { "date": "1957", "event": "SCLC founded; Little Rock crisis; Civil Rights Act 1957" },
+      { "date": "Feb 1960", "event": "Greensboro sit-ins" },
+      { "date": "1961", "event": "Freedom Rides" },
+      { "date": "1963", "event": "Birmingham campaign; March on Washington" },
+      { "date": "2 July 1964", "event": "Civil Rights Act" },
+      { "date": "Feb 1965", "event": "Malcolm X assassinated" },
+      { "date": "March 1965", "event": "Selma marches; 'Bloody Sunday'" },
+      { "date": "6 Aug 1965", "event": "Voting Rights Act" },
+      { "date": "Aug 1965", "event": "Watts riot" },
+      { "date": "Oct 1966", "event": "Black Panther Party founded" },
+      { "date": "4 April 1968", "event": "Martin Luther King assassinated" },
+      { "date": "April 1968", "event": "Civil Rights Act (Fair Housing)" }
+    ],
+    "people": [
+      { "name": "Earl Warren", "role": "Chief Justice; secured the unanimous Brown decision." },
+      { "name": "Thurgood Marshall", "role": "NAACP lawyer who argued Brown." },
+      { "name": "Rosa Parks", "role": "NAACP activist whose arrest began the Montgomery boycott." },
+      { "name": "Martin Luther King Jr", "role": "SCLC leader; non-violent direct action." },
+      { "name": "Lyndon B. Johnson", "role": "President 1963–69; passed the 1964, 1965 and 1968 Acts." },
+      { "name": "Malcolm X", "role": "Nation of Islam spokesman; black nationalism." },
+      { "name": "Stokely Carmichael", "role": "SNCC leader; 'Black Power' (1966)." },
+      { "name": "Huey Newton and Bobby Seale", "role": "Founders of the Black Panther Party." }
+    ],
+    "vocab": [
+      { "term": "De jure segregation", "def": "Segregation by law — the southern system." },
+      { "term": "De facto segregation", "def": "Segregation in practice, e.g. northern housing and schools." },
+      { "term": "Massive resistance", "def": "Southern white campaign to block desegregation." },
+      { "term": "Black Power", "def": "Black pride, self-reliance and self-defence." },
+      { "term": "Filibuster", "def": "Talking a bill to death in the Senate." }
+    ],
+    "misconceptions": [
+      { "wrong": "Brown v Board quickly desegregated southern schools.", "right": "'All deliberate speed' allowed delay; very few southern black children attended integrated schools by 1964." },
+      { "wrong": "The movement was led only by King.", "right": "NAACP lawyers, SNCC students, CORE, local leaders and ordinary people drove it; King was one leader among many." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "Who was Chief Justice in Brown v Board?", "options": ["Thurgood Marshall", "Earl Warren", "John Harlan", "Hugo Black"], "answer": 1, "why": "Warren secured a unanimous 9–0 decision." },
+      { "id": "m2", "s": "s1", "q": "How long did the Montgomery Bus Boycott last?", "options": ["38 days", "381 days", "3 months", "5 years"], "answer": 1, "why": "December 1955 – December 1956." },
+      { "id": "m3", "s": "s1", "q": "What did the Freedom Rides test?", "options": ["Voting rights", "Desegregation of interstate bus travel and terminals", "School integration", "Housing laws"], "answer": 1, "why": "Organised by CORE in 1961." },
+      { "id": "m4", "s": "s2", "q": "What did the Voting Rights Act (1965) ban?", "options": ["Segregated schools", "Literacy tests", "Housing discrimination", "Black Power"], "answer": 1, "why": "And sent federal examiners to register voters." },
+      { "id": "m5", "s": "s2", "q": "Which Act banned housing discrimination?", "options": ["Civil Rights Act 1957", "Civil Rights Act 1964", "Voting Rights Act 1965", "Civil Rights Act 1968"], "answer": 3, "why": "Passed a week after King's death." },
+      { "id": "m6", "s": "s3", "q": "Who popularised the slogan 'Black Power' in 1966?", "options": ["Malcolm X", "Stokely Carmichael", "Huey Newton", "Bayard Rustin"], "answer": 1, "why": "On the Meredith March." },
+      { "id": "m7", "s": "s3", "q": "Where was the Black Panther Party founded?", "options": ["Chicago", "Oakland", "Harlem", "Watts"], "answer": 1, "why": "October 1966." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s1", "q": "In which city did the sit-ins begin in February 1960?", "accept": ["greensboro"], "answer": "Greensboro" },
+      { "id": "a2", "s": "s1", "q": "Which Birmingham police chief used dogs and hoses in 1963?", "accept": ["bull connor", "connor", "eugene connor"], "answer": "Bull Connor" },
+      { "id": "a3", "s": "s2", "q": "On what date was the Civil Rights Act signed in 1964?", "accept": ["2 july 1964", "2 july", "july 2 1964", "2nd july 1964"], "answer": "2 July 1964" },
+      { "id": "a4", "s": "s3", "q": "Which Los Angeles district rioted in August 1965?", "accept": ["watts"], "answer": "Watts" },
+      { "id": "a5", "s": "s1", "q": "Which organisation was founded by students in April 1960?", "accept": ["sncc", "student nonviolent coordinating committee", "student non-violent coordinating committee"], "answer": "SNCC" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Brown v Board", "Montgomery Bus Boycott", "Greensboro sit-ins", "Freedom Rides", "March on Washington", "Civil Rights Act", "Voting Rights Act", "King assassinated"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the organisation to its description", "pairs": [["NAACP", "Legal challenges such as Brown"], ["SCLC", "King's church-based organisation"], ["SNCC", "Student activists; later Black Power"], ["CORE", "Organised the Freedom Rides"], ["Black Panthers", "Armed patrols and community programmes"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s2", "q": "Give precise evidence of the impact of the Voting Rights Act.", "keywords": [["mississippi", "7", "60", "examiner", "literacy", "registration"]], "model": "It banned literacy tests and sent federal examiners; black registration in Mississippi rose from under 7% (1964) to about 60% (1968)." },
+      { "id": "e2", "s": "s3", "q": "Give precise evidence of divisions in the movement.", "keywords": [["sncc", "expel", "carmichael", "black power", "panther", "malcolm", "watts", "vietnam"]], "model": "Carmichael's 'Black Power' (1966); SNCC expelled whites (December 1966); the Black Panthers (1966); King's Vietnam stance (1967) split allies." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Why was Brown v Board significant?", "a": "It overturned Plessy in education and gave the movement constitutional backing — but 'all deliberate speed' allowed delay.", "hint": "Plessy reversed." },
+    { "id": "f2", "s": "s1", "q": "What did the Montgomery boycott achieve?", "a": "Desegregated buses after Browder v Gayle; showed mass non-violent action worked; made King a leader; led to the SCLC.", "hint": "381 days." },
+    { "id": "f3", "s": "s1", "q": "Why was the Birmingham campaign (1963) a turning point?", "a": "TV images of police attacking children shocked the nation and pushed Kennedy to propose a civil rights bill.", "hint": "Bull Connor." },
+    { "id": "f4", "s": "s1", "q": "How did the media help the movement?", "a": "Television showed violence against peaceful protesters, changing northern opinion and embarrassing the USA abroad.", "hint": "TV." },
+    { "id": "f5", "s": "s2", "q": "What did the Civil Rights Act 1964 do?", "a": "Banned segregation in public places and employment discrimination; created the EEOC; allowed cutting funds to segregated programmes.", "hint": "Public places + jobs." },
+    { "id": "f6", "s": "s2", "q": "Why was Johnson effective on civil rights?", "a": "Senate experience and skill, southern credibility, the mood after Kennedy's death; broke the 1964 filibuster.", "hint": "Master of the Senate." },
+    { "id": "f7", "s": "s3", "q": "Why did Black Power emerge?", "a": "Frustration with slow change in the North, police brutality, Malcolm X's ideas, the limits of non-violence.", "hint": "Ghettos." },
+    { "id": "f8", "s": "s3", "q": "Why did King's Vietnam stance matter?", "a": "It broke his alliance with Johnson and alienated moderates, though it linked civil rights to poverty and peace.", "hint": "1967." },
+    { "id": "f9", "s": "s1", "q": "What was the white backlash?", "a": "Massive resistance, Southern Manifesto 1956, Citizens' Councils, Little Rock 1957, church bombing 1963, northern resentment.", "hint": "South and North." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "judge", "text": "I can assess the significance of the NAACP, Brown v Board and Earl Warren.", "sections": ["s1"] },
+    { "id": "k2", "level": "judge", "text": "I can evaluate the work and impact of King, SCLC, SNCC and CORE, 1957–65, and the role of the media.", "sections": ["s1"] },
+    { "id": "k3", "level": "explain", "text": "I can explain changing economic and educational opportunities, the ghettos and the white backlash.", "sections": ["s1"] },
+    { "id": "k4", "level": "judge", "text": "I can assess the significance of the Civil Rights Acts 1964 and 1968, the Voting Rights Act 1965 and Johnson's role.", "sections": ["s2"] },
+    { "id": "k5", "level": "explain", "text": "I can explain the divisions in the movement, Black Power, Malcolm X and the Black Panthers.", "sections": ["s3"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "u3b", "label": "Teacher-created practice question", "sections": ["s1", "s2"],
+        "q": "‘Pressure groups and individual campaigners were more important than the federal government in advancing civil rights in the years 1933–45 and 1954–68.’\nHow far do you agree with this statement?" }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Relative significance", "task": "Rank King, Johnson, the NAACP's lawyers and the media for the passage of the 1964 Act. Which ranking changes for the 1965 Act?" },
+    { "id": "t2", "kind": "Competing arguments", "task": "Did Black Power strengthen or weaken the movement by 1968? Use scope (who was affected) and impact." },
+    { "id": "t3", "kind": "Change and continuity", "task": "What changed more by 1968: the South or the North? Use de jure and de facto segregation." }
+  ]
+}

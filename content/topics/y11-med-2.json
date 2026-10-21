@@ -1,0 +1,118 @@
+{
+  "id": "y11-med-2", "course": "y11", "area": "med", "kt": "Key topic 2", "order": 22,
+  "title": "Discovery and development, 1860–75: Lister and Pasteur",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Breadth study B2, key topic 2." },
+  "learn": {
+    "intro": "Pasteur's germ theory transformed understanding of disease. Lister used it to fight infection in surgery, Parliament passed a compulsory Public Health Act, and Elizabeth Garrett broke into the male world of medicine.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Pasteur and the germ theory",
+        "blocks": [
+          { "p": "Louis Pasteur, a French chemist, was asked to find out why wine and beer went sour. He showed that microbes (germs) in the air caused decay. In 1861, using swan-necked flasks, he showed that liquid stayed fresh when microbes from the air could not reach it — disproving spontaneous generation." },
+          { "p": "Effects: germ theory showed that microbes cause decay and, as later work proved, disease. It gave a scientific reason for cleanliness, led to antiseptics in surgery, and made identifying specific germs and developing vaccines possible. Many doctors were slow to accept it." }
+        ],
+        "terms": ["germ theory", "microbe", "spontaneous generation"],
+        "evidence": ["1861: Pasteur's germ theory published."]
+      },
+      {
+        "id": "s2", "title": "2. Lister and antiseptics",
+        "blocks": [
+          { "p": "Joseph Lister, a surgeon in Glasgow, read Pasteur's work and thought germs might cause infection in wounds. In 1865 he used carbolic acid on the wound of an 11-year-old boy, James Greenlees, who had a compound fracture; the wound healed without infection." },
+          { "p": "Lister soaked dressings and instruments in carbolic acid and sprayed it in the air during operations. He published his results in 1867: death rates in his operations fell sharply. There was opposition: carbolic acid irritated skin, the methods slowed operations, and many surgeons did not accept germ theory." }
+        ],
+        "terms": ["antiseptic", "carbolic acid", "compound fracture"],
+        "evidence": ["1865: Lister treats James Greenlees with carbolic acid.", "1867: Lister publishes his results."]
+      },
+      {
+        "id": "s3", "title": "3. The Public Health Act 1875",
+        "blocks": [
+          { "p": "By the 1870s attitudes were changing: working men in towns had the vote from 1867, so politicians needed their support; germ theory and Snow's work showed the link between dirt and disease; and Bazalgette's new London sewers (built after the 'Great Stink' of 1858) showed what could be done." },
+          { "p": "The Public Health Act of 1875 was compulsory. Councils had to provide clean water, remove sewage, and appoint a Medical Officer of Health and sanitary inspectors. It marked the end of laissez-faire in public health." }
+        ],
+        "terms": ["compulsory", "Medical Officer of Health", "Great Stink"],
+        "evidence": ["1858: the Great Stink.", "1867: more working men get the vote.", "1875: Public Health Act (compulsory)."]
+      },
+      {
+        "id": "s4", "title": "4. Hospitals, nursing and women in medicine",
+        "blocks": [
+          { "p": "Nightingale's influence continued: trained nurses spread, and new hospitals used her pavilion design with light, airy, easily cleaned wards." },
+          { "p": "Elizabeth Garrett was refused entry to medical schools because she was a woman. She found a loophole: the Society of Apothecaries had not banned women, and in 1865 she gained its licence, becoming the first woman to qualify in Britain. She opened a dispensary for women in London and later gained a medical degree in Paris (1870). The Medical Act of 1876 allowed women to qualify as doctors." }
+        ],
+        "terms": ["Society of Apothecaries", "Medical Act 1876"],
+        "evidence": ["1865: Garrett qualifies through the Society of Apothecaries.", "1870: Garrett's medical degree from Paris.", "1876: Medical Act lets women qualify."]
+      }
+    ],
+    "timeline": [
+      { "date": "1858", "event": "The 'Great Stink' in London" },
+      { "date": "1861", "event": "Pasteur publishes his germ theory" },
+      { "date": "1865", "event": "Lister uses carbolic acid; Garrett qualifies" },
+      { "date": "1867", "event": "Lister publishes his results" },
+      { "date": "1870", "event": "Garrett gains her medical degree in Paris" },
+      { "date": "1875", "event": "Public Health Act" },
+      { "date": "1876", "event": "Medical Act allows women to become doctors" }
+    ],
+    "people": [
+      { "name": "Louis Pasteur", "role": "French chemist; germ theory (1861)." },
+      { "name": "Joseph Lister", "role": "Surgeon; carbolic acid antiseptics (1865)." },
+      { "name": "Elizabeth Garrett", "role": "First woman to qualify as a doctor in Britain (1865)." },
+      { "name": "Joseph Bazalgette", "role": "Engineer of London's sewers." }
+    ],
+    "vocab": [
+      { "term": "Antiseptic", "def": "Chemical that kills germs on wounds and instruments." },
+      { "term": "Germ theory", "def": "The idea that microbes cause decay and disease." },
+      { "term": "Medical Officer of Health", "def": "Official responsible for a town's health." }
+    ],
+    "misconceptions": [
+      { "wrong": "Everyone accepted Lister's antiseptics quickly.", "right": "Many surgeons resisted: carbolic was unpleasant and germ theory was doubted." },
+      { "wrong": "Pasteur proved germs caused human disease in 1861.", "right": "He showed microbes caused decay; the link to specific diseases was proved later, especially by Koch." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "What did Pasteur's swan-necked flask experiment disprove?", "options": ["Germ theory", "Spontaneous generation", "Anaesthesia", "Miasma"], "answer": 1, "why": "1861." },
+      { "id": "m2", "s": "s2", "q": "What did Lister use as an antiseptic?", "options": ["Chloroform", "Carbolic acid", "Penicillin", "Ether"], "answer": 1, "why": "From 1865." },
+      { "id": "m3", "s": "s3", "q": "What made the 1875 Public Health Act different from 1848?", "options": ["It was compulsory", "It was permissive", "It only covered London", "It created the NHS"], "answer": 0, "why": "Councils had to act." },
+      { "id": "m4", "s": "s4", "q": "How did Elizabeth Garrett qualify?", "options": ["Through a London medical school", "Through the Society of Apothecaries", "Through the army", "Through Nightingale's school"], "answer": 1, "why": "A loophole in 1865." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s2", "q": "Which boy did Lister treat with carbolic acid in 1865?", "accept": ["james greenlees", "greenlees"], "answer": "James Greenlees" },
+      { "id": "a2", "s": "s3", "q": "What was the 1858 London smell crisis called?", "accept": ["great stink", "the great stink"], "answer": "The Great Stink" },
+      { "id": "a3", "s": "s4", "q": "Which 1876 Act allowed women to qualify as doctors?", "accept": ["medical act", "the medical act", "medical act 1876"], "answer": "The Medical Act" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Great Stink", "Germ theory", "Lister's carbolic acid", "Garrett's Paris degree", "Public Health Act 1875", "Medical Act 1876"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the person to their achievement", "pairs": [["Pasteur", "Germ theory"], ["Lister", "Antiseptic surgery"], ["Garrett", "First qualified woman doctor in Britain"], ["Bazalgette", "London sewers"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s3", "q": "Give precise evidence of what the 1875 Public Health Act required.", "keywords": [["clean water", "sewage", "medical officer", "compulsory", "inspector"]], "model": "Councils had to provide clean water, remove sewage and appoint a Medical Officer of Health." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "What did germ theory change?", "a": "It explained decay and disease scientifically, leading to antiseptics, bacteriology and vaccines.", "hint": "Microbes." },
+    { "id": "f2", "s": "s2", "q": "How did Lister use carbolic acid?", "a": "On wounds, dressings and instruments, and as a spray in the air during operations.", "hint": "Spray." },
+    { "id": "f3", "s": "s2", "q": "Why did some surgeons oppose Lister?", "a": "Carbolic irritated skin and slowed operations; many doubted germ theory.", "hint": "Unpleasant + doubt." },
+    { "id": "f4", "s": "s3", "q": "Give two causes of the 1875 Public Health Act.", "a": "Working men's votes (1867); germ theory and Snow's evidence; successful sewers; continued epidemics.", "hint": "Votes + science." },
+    { "id": "f5", "s": "s4", "q": "Why was Elizabeth Garrett significant?", "a": "First woman to qualify in Britain (1865); opened a dispensary; paved the way for the 1876 Act.", "hint": "Apothecaries." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "explain", "text": "I can explain Pasteur's germ theory and its effects.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain Lister's work and the impact of antiseptics.", "sections": ["s2"] },
+    { "id": "k3", "level": "judge", "text": "I can judge the significance of the Public Health Act 1875.", "sections": ["s3"] },
+    { "id": "k4", "level": "describe", "text": "I can describe continuing improvements in hospitals and nursing and Elizabeth Garrett's progress.", "sections": ["s4"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "p2ba", "label": "Teacher-created practice question", "sections": ["s3"],
+        "q": "Explain TWO ways in which the Public Health Act of 1875 was different from the Public Health Act of 1848." },
+      { "id": "q2", "qtype": "p2bb", "label": "Teacher-created practice question", "sections": ["s2"],
+        "q": "Explain TWO causes of the fall in deaths after surgery in the years 1865–75." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Relative significance", "task": "Pasteur or Lister — who was more important for surgery? Explain why one depended on the other." },
+    { "id": "t2", "kind": "Change and continuity", "task": "How much had changed for women in medicine between 1854 and 1876?" }
+  ]
+}
