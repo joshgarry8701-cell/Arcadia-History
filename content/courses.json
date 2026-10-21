@@ -1,0 +1,163 @@
+{
+  "_note": "Course register. Examination fields stay null until verified from an uploaded specification. Never fill them from memory.",
+  "courses": [
+    {
+      "id": "y7",
+      "year": "Year 7",
+      "title": "The Norman Conquest",
+      "enquiry": "Why did William win the Battle of Hastings?",
+      "stage": "KS3",
+      "icon": "shield",
+      "accent": "#b4532a",
+      "assessment": {
+        "type": "KS3 department criteria",
+        "criteria_status": "missing",
+        "notes": "Department KS3 assessment criteria not yet uploaded. Practice questions are teacher-created drafts; AI feedback is formative only (no marks) until criteria are added in the Teacher area."
+      },
+      "topics": [
+        { "id": "y7-hastings", "title": "Why did William win the Battle of Hastings?", "status": "built" }
+      ],
+      "resources_received": [],
+      "resources_needed": [
+        "Year 7 Hastings lesson PowerPoints (to align explanations and page references)",
+        "KS3 History assessment criteria / success criteria used by the department",
+        "Jada's teaching resource (optional, to guide scaffolding)",
+        "Any teacher-marked Year 7 answers (to check AI feedback against)"
+      ]
+    },
+    {
+      "id": "y8",
+      "year": "Year 8",
+      "title": "African migration to England",
+      "enquiry": "Why did Africans migrate to England?",
+      "stage": "KS3",
+      "icon": "compass",
+      "accent": "#2f6f5e",
+      "assessment": {
+        "type": "KS3 department criteria",
+        "criteria_status": "missing",
+        "notes": "Geographical and chronological scope must come from the teacher's resources. Distinguish voluntary and forced movement; represent African individuals' experiences and agency accurately."
+      },
+      "topics": [],
+      "resources_received": [],
+      "resources_needed": [
+        "Year 8 scheme of work / lessons defining the period and places covered",
+        "Named individuals and sources used in lessons",
+        "KS3 assessment criteria and the end-of-unit task"
+      ]
+    },
+    {
+      "id": "y9",
+      "year": "Year 9",
+      "title": "Causes of the First World War",
+      "enquiry": "Why did the First World War start?",
+      "stage": "KS3",
+      "icon": "spark",
+      "accent": "#5b4a9e",
+      "assessment": {
+        "type": "KS3 department criteria",
+        "criteria_status": "missing",
+        "notes": "Focus: long-term causes, their interaction, the immediate trigger and relative significance."
+      },
+      "topics": [],
+      "resources_received": [],
+      "resources_needed": [
+        "Year 9 lessons and any source packs",
+        "KS3 assessment criteria and the end-of-unit task"
+      ]
+    },
+    {
+      "id": "y11",
+      "year": "Year 11",
+      "title": "International GCSE History",
+      "enquiry": "Germany · Civil Rights · Changes in medicine",
+      "stage": "International GCSE",
+      "icon": "book",
+      "accent": "#1f5f8b",
+      "exam": {
+        "board": "Pearson Edexcel",
+        "qualification": "International GCSE History",
+        "specification_version": null,
+        "papers": null,
+        "options": [
+          { "area": "Germany", "title": null, "code": null, "date_range": null },
+          { "area": "Civil Rights", "title": null, "code": null, "date_range": null },
+          { "area": "Changes in medicine", "title": "Changes in medicine c1848–c1948 (title as given by teacher; verify against specification)", "code": null, "date_range": "c1848–c1948 (to verify)" }
+        ],
+        "question_types": null,
+        "marks": null,
+        "assessment_objectives": null,
+        "verified": false
+      },
+      "separation_note": "Kept separate from Year 12 Germany and Year 13 Civil Rights.",
+      "topics": [],
+      "resources_received": [],
+      "resources_needed": [
+        "Current Pearson Edexcel International GCSE History specification (issue number)",
+        "Sample assessment materials and mark schemes for each paper taken",
+        "Examiner reports",
+        "Textbooks / lessons for Germany, Civil Rights and Medicine (GCSEPod references optional)"
+      ]
+    },
+    {
+      "id": "y12",
+      "year": "Year 12",
+      "title": "International A Level History — Germany",
+      "enquiry": "Germany: Development of Dictatorship 1918–45",
+      "stage": "International A Level",
+      "icon": "column",
+      "accent": "#7a2e3a",
+      "exam": {
+        "board": "Pearson Edexcel",
+        "qualification": "International Advanced Level History",
+        "specification_version": null,
+        "papers": null,
+        "options": [
+          { "area": "Germany", "title": "Germany: Development of Dictatorship 1918–45 (title as given by teacher; verify)", "code": null, "date_range": "1918–45 (to verify)" }
+        ],
+        "question_types": null,
+        "marks": null,
+        "assessment_objectives": null,
+        "verified": false
+      },
+      "separation_note": "Kept separate from Year 11 Germany.",
+      "topics": [],
+      "resources_received": [],
+      "resources_needed": [
+        "Pearson Edexcel IAL History specification (issue number) and the unit code",
+        "Sample assessment materials, mark schemes, examiner reports",
+        "Textbook / lessons (Massolit lecture list optional)"
+      ]
+    },
+    {
+      "id": "y13",
+      "year": "Year 13",
+      "title": "International A Level History — Civil Rights",
+      "enquiry": "Civil Rights 1865–2009",
+      "stage": "International A Level",
+      "icon": "scales",
+      "accent": "#8a6a12",
+      "exam": {
+        "board": "Pearson Edexcel",
+        "qualification": "International Advanced Level History",
+        "specification_version": null,
+        "papers": null,
+        "options": [
+          { "area": "Civil Rights", "title": "Civil Rights 1865–2009 (title as given by teacher; verify)", "code": null, "date_range": "1865–2009 (to verify)" }
+        ],
+        "question_types": null,
+        "marks": null,
+        "assessment_objectives": null,
+        "verified": false
+      },
+      "separation_note": "Kept separate from Year 11 Civil Rights.",
+      "topics": [],
+      "resources_received": [],
+      "resources_needed": [
+        "Pearson Edexcel IAL History specification (issue number) and the unit code",
+        "Sample assessment materials, mark schemes, examiner reports",
+        "Textbook / lessons"
+      ]
+    }
+  ]
+}

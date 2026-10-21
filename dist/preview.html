@@ -1,0 +1,1303 @@
+<title>Mr Garry's History Revision Hub</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+/* Layout: one centred reading column (max 1040px) under a sticky bar; course colour carried by each year's accent.
+   Faces: Bricolage Grotesque for display, Atkinson Hyperlegible for reading (designed for legibility), IBM Plex Mono for dates. */
+:root {
+  --bg: #f3f5f9;
+  --surface: #ffffff;
+  --sunk: #e9edf4;
+  --ink: #17202f;
+  --muted: #566176;
+  --line: #d9dee8;
+  --accent: #22468e;
+  --accent-ink: #ffffff;
+  --course: #22468e;
+  --red: #b83227;
+  --amber: #a8670c;
+  --green: #2c7a4b;
+  --red-bg: #fbe9e7;
+  --amber-bg: #fdf1dc;
+  --green-bg: #e3f3e9;
+  --focus: #f0a400;
+  --display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --radius: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f131b; --surface: #171d28; --sunk: #1d2433; --ink: #e7ebf2; --muted: #a0aabb; --line: #2b3446;
+    --accent: #8eb0f2; --accent-ink: #0f131b; --course: #8eb0f2;
+    --red: #f08a7e; --amber: #f0b45a; --green: #74c99a; --red-bg: #3a1d1b; --amber-bg: #3a2c14; --green-bg: #17331f;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f131b; --surface: #171d28; --sunk: #1d2433; --ink: #e7ebf2; --muted: #a0aabb; --line: #2b3446;
+  --accent: #8eb0f2; --accent-ink: #0f131b; --course: #8eb0f2;
+  --red: #f08a7e; --amber: #f0b45a; --green: #74c99a; --red-bg: #3a1d1b; --amber-bg: #3a2c14; --green-bg: #17331f;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.6 var(--body); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+h1, h2, h3, h4 { font-family: var(--display); line-height: 1.15; text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+h1 { font-size: clamp(1.8rem, 4.5vw, 2.6rem); font-weight: 700; }
+h2 { font-size: 1.45rem; font-weight: 650; }
+h3 { font-size: 1.15rem; font-weight: 650; }
+p { margin: 0; }
+a { color: var(--accent); }
+button, input, select, textarea { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
+.mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.muted { color: var(--muted); }
+.small { font-size: .88rem; }
+.eyebrow { font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--muted); }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------- top bar ---------- */
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: var(--surface); border-bottom: 1px solid var(--line); }
+.bar-in { max-width: 1072px; margin: 0 auto; display: flex; align-items: center; gap: 10px; padding-block: 10px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); min-width: 0; margin-right: auto; background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
+.brand svg { flex: none; }
+.brand b { font-family: var(--display); font-size: 1.05rem; line-height: 1.1; display: block; }
+.iconbtn { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; height: 40px; min-width: 40px; padding: 0 10px; display: inline-flex; align-items: center; justify-content: center; gap: 6px; cursor: pointer; }
+.iconbtn:hover { background: var(--sunk); }
+.brand span { font-size: .78rem; color: var(--muted); display: block; font-weight: 700; }
+.brand i { font-style: normal; font-weight: 400; }
+@media (max-width: 560px) { .hide-sm { display: none; } .brand b { font-size: 1rem; } }
+
+main { max-width: 1072px; margin: 0 auto; padding-block: 20px 64px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: grid; gap: 22px; }
+.notice { border: 1px solid var(--line); border-left: 4px solid var(--amber); background: var(--amber-bg); border-radius: 8px; padding: 10px 14px; font-size: .92rem; }
+.notice.info { border-left-color: var(--accent); background: var(--sunk); }
+.notice.bad { border-left-color: var(--red); background: var(--red-bg); }
+
+.crumbs { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: .9rem; color: var(--muted); }
+.crumbs button { background: none; border: 0; padding: 4px 2px; color: var(--accent); cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+
+/* ---------- home ---------- */
+.hero { display: grid; gap: 8px; padding-block: 8px 4px; }
+.hero p { max-width: 62ch; color: var(--muted); }
+.years { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 14px; }
+.year { --course: var(--accent); display: grid; grid-template-columns: auto 1fr; gap: 4px 16px; align-items: start; text-align: left; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; cursor: pointer; color: inherit; }
+.year:hover { border-color: var(--course); }
+.year .num { grid-row: span 3; font-family: var(--display); font-weight: 800; font-size: 3.2rem; line-height: .9; color: var(--course); font-variant-numeric: tabular-nums; min-width: 2.1ch; }
+.year h3 { font-size: 1.05rem; }
+.year .enq { color: var(--muted); font-size: .92rem; }
+.chip { display: inline-flex; align-items: center; gap: 6px; font-size: .78rem; font-weight: 700; padding: 3px 9px; border-radius: 999px; background: var(--sunk); color: var(--muted); width: fit-content; }
+.chip.ok { background: var(--green-bg); color: var(--green); }
+.chip.warn { background: var(--amber-bg); color: var(--amber); }
+.chip.bad { background: var(--red-bg); color: var(--red); }
+.chip.lvl-describe { background: var(--red-bg); color: var(--red); }
+.chip.lvl-explain { background: var(--amber-bg); color: var(--amber); }
+.chip.lvl-judge { background: var(--green-bg); color: var(--green); }
+
+/* ---------- panels ---------- */
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; display: grid; gap: 14px; min-width: 0; }
+.panel.flat { background: transparent; border: 0; padding: 0; }
+.row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 14px; }
+.course-head { display: grid; gap: 6px; border-left: 6px solid var(--course); padding-left: 16px; }
+
+.acts { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr)); gap: 12px; }
+.act { display: grid; gap: 6px; text-align: left; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; cursor: pointer; color: inherit; }
+.act:hover { border-color: var(--course); }
+.act b { font-family: var(--display); font-size: 1.08rem; }
+.act .meter { margin-top: 6px; }
+
+.meter { height: 8px; border-radius: 99px; background: var(--sunk); overflow: hidden; }
+.meter > i { display: block; height: 100%; background: var(--course); border-radius: 99px; }
+.stat { display: grid; gap: 2px; }
+.stat b { font-family: var(--display); font-size: 1.6rem; font-variant-numeric: tabular-nums; }
+
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 8px 16px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; font-weight: 700; text-decoration: none; color: var(--ink); }
+.btn:hover { background: var(--sunk); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.btn.primary:hover { filter: brightness(1.08); }
+.btn.good { background: var(--green-bg); border-color: var(--green); color: var(--green); }
+.btn.bad { background: var(--red-bg); border-color: var(--red); color: var(--red); }
+.btn[disabled] { opacity: .5; cursor: not-allowed; }
+.btn.sm { min-height: 36px; padding: 4px 12px; font-size: .9rem; }
+
+/* ---------- topic tabs ---------- */
+.tabs { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin; }
+.tabs button { flex: none; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 8px 14px; cursor: pointer; font-weight: 700; font-size: .92rem; color: var(--muted); }
+.tabs button[aria-current="page"] { background: var(--course); border-color: var(--course); color: var(--accent-ink); }
+
+/* ---------- learn ---------- */
+.learn { display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 24px; align-items: start; }
+.toc { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 76px); display: grid; gap: 2px; font-size: .92rem; }
+.toc button { text-align: left; background: none; border: 0; padding: 6px 10px; border-left: 3px solid var(--line); cursor: pointer; color: var(--muted); }
+.toc button:hover { color: var(--ink); border-left-color: var(--course); }
+@media (max-width: 820px) { .learn { grid-template-columns: minmax(0, 1fr); } .toc { position: static; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); } }
+.prose { display: grid; gap: 12px; max-width: 68ch; }
+.prose ul { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; }
+.section { display: grid; gap: 12px; scroll-margin-top: 90px; padding-bottom: 22px; border-bottom: 1px solid var(--line); }
+.terms { display: flex; flex-wrap: wrap; gap: 6px; }
+.evidence { background: var(--sunk); border-radius: 8px; padding: 12px 14px; display: grid; gap: 6px; font-size: .95rem; }
+.evidence ul { margin: 0; padding-left: 1.1em; }
+.timeline { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.timeline li { display: grid; grid-template-columns: 8.5em 1fr; gap: 14px; padding: 8px 0; border-bottom: 1px dashed var(--line); }
+.timeline .d { font-family: var(--mono); font-size: .88rem; color: var(--course); font-weight: 600; font-variant-numeric: tabular-nums; }
+@media (max-width: 480px) { .timeline li { grid-template-columns: 1fr; gap: 0; } }
+.people, .vocab { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr)); gap: 10px; }
+.people > div, .vocab > div { border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; display: grid; gap: 2px; font-size: .93rem; }
+.myth { display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; font-size: .93rem; }
+.myth > div { padding: 10px 12px; }
+.myth .w { background: var(--red-bg); } .myth .r { background: var(--green-bg); }
+@media (max-width: 560px) { .myth { grid-template-columns: 1fr; } }
+.source { border: 1px solid var(--line); border-radius: 8px; padding: 14px; display: grid; gap: 6px; font-size: .93rem; }
+.source dl { display: grid; grid-template-columns: 7em 1fr; gap: 4px 10px; margin: 0; }
+.source dt { font-weight: 700; color: var(--muted); }
+.source dd { margin: 0; }
+.figure { border: 1px solid var(--line); border-radius: 8px; padding: 10px; overflow-x: auto; background: var(--surface); }
+.figure svg { display: block; width: 100%; min-width: 520px; height: auto; }
+.figure svg text { fill: var(--ink); font-family: var(--body); }
+.figure .route-h { stroke: var(--red); } .figure .route-w { stroke: var(--accent); }
+.figure .place { fill: var(--surface); stroke: var(--ink); }
+.figure .sea { fill: var(--sunk); }
+
+/* ---------- quiz & cards ---------- */
+.qcard { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; display: grid; gap: 14px; }
+.qcard .q { font-size: 1.15rem; font-weight: 700; }
+.opts { display: grid; gap: 8px; }
+.opt { text-align: left; border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 12px 14px; cursor: pointer; min-height: 48px; }
+.opt:hover { background: var(--sunk); }
+.opt.right { background: var(--green-bg); border-color: var(--green); }
+.opt.wrong { background: var(--red-bg); border-color: var(--red); }
+.feedback { border-radius: 8px; padding: 10px 14px; font-size: .95rem; }
+.feedback.right { background: var(--green-bg); }
+.feedback.wrong { background: var(--red-bg); }
+input[type=text], input[type=password], input[type=number], textarea, select { width: 100%; border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 10px 12px; min-height: 44px; }
+textarea { min-height: 220px; line-height: 1.6; resize: vertical; }
+label { font-weight: 700; font-size: .92rem; display: grid; gap: 6px; }
+.order { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.order li { display: flex; gap: 8px; align-items: center; border: 1px solid var(--line); border-radius: 8px; padding: 6px 8px 6px 12px; background: var(--surface); }
+.order li span { flex: 1; min-width: 0; }
+.order li.right { border-color: var(--green); background: var(--green-bg); }
+.order li.wrong { border-color: var(--red); background: var(--red-bg); }
+.match { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); gap: 8px 12px; align-items: center; }
+@media (max-width: 560px) { .match { grid-template-columns: 1fr; } }
+
+.flash { min-height: 260px; display: grid; place-items: center; text-align: center; background: var(--surface); border: 1px solid var(--line); border-top: 6px solid var(--course); border-radius: var(--radius); padding: 28px 22px; cursor: pointer; }
+.flash .face { display: grid; gap: 12px; max-width: 46ch; }
+.flash .face b { font-family: var(--display); font-size: 1.35rem; line-height: 1.25; }
+.flash .ans { font-size: 1.12rem; }
+.pin { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 6px 10px; cursor: pointer; font-size: .9rem; }
+.pin[aria-pressed="true"] { background: var(--amber-bg); border-color: var(--amber); color: var(--amber); font-weight: 700; }
+
+/* ---------- checklist ---------- */
+.check { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px 16px; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.check .txt { display: grid; gap: 4px; }
+.rag { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.rag button { border: 0; background: var(--surface); padding: 8px 12px; cursor: pointer; font-weight: 700; font-size: .85rem; min-height: 40px; color: var(--muted); }
+.rag button + button { border-left: 1px solid var(--line); }
+.rag button[aria-pressed="true"][data-v="red"] { background: var(--red); color: #fff; }
+.rag button[aria-pressed="true"][data-v="amber"] { background: var(--amber); color: #fff; }
+.rag button[aria-pressed="true"][data-v="green"] { background: var(--green); color: #fff; }
+@media (max-width: 560px) { .check { grid-template-columns: 1fr; } }
+
+/* ---------- exam ---------- */
+details.fold { border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+details.fold > summary { cursor: pointer; padding: 12px 14px; font-weight: 700; list-style-position: inside; }
+details.fold > div { padding: 0 14px 14px; display: grid; gap: 8px; }
+details.fold ul, details.fold ol { margin: 0; padding-left: 1.2em; display: grid; gap: 4px; }
+.model { display: grid; gap: 10px; }
+.model .seg { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 12px; }
+.model .seg p { background: var(--sunk); padding: 8px 12px; border-radius: 6px; }
+.model .seg em { font-style: normal; font-size: .88rem; color: var(--muted); border-left: 3px solid var(--course); padding-left: 10px; }
+@media (max-width: 640px) { .model .seg { grid-template-columns: 1fr; } }
+.frame { display: grid; gap: 6px; background: var(--sunk); border-radius: 8px; padding: 12px 14px; font-size: .95rem; }
+.frame ol { margin: 0; padding-left: 1.2em; display: grid; gap: 4px; }
+.seg-ctl { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg-ctl button { border: 0; background: var(--surface); padding: 8px 12px; cursor: pointer; font-weight: 700; font-size: .88rem; }
+.seg-ctl button + button { border-left: 1px solid var(--line); }
+.seg-ctl button[aria-pressed="true"] { background: var(--course); color: var(--accent-ink); }
+.grid-plan { width: 100%; border-collapse: collapse; font-size: .92rem; }
+.grid-plan th, .grid-plan td { border: 1px solid var(--line); padding: 6px; vertical-align: top; text-align: left; }
+.grid-plan textarea { min-height: 70px; border: 0; padding: 4px; background: transparent; }
+.scroll-x { overflow-x: auto; }
+.fb { display: grid; gap: 12px; border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; background: var(--surface); }
+.fb h4 { font-size: 1rem; }
+.fb ul, .fb ol { margin: 0; padding-left: 1.2em; display: grid; gap: 4px; }
+.markbox { display: flex; flex-wrap: wrap; gap: 12px; align-items: baseline; }
+.markbox b { font-family: var(--display); font-size: 2rem; font-variant-numeric: tabular-nums; }
+.compare { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.compare > div { background: var(--sunk); border-radius: 8px; padding: 10px 12px; white-space: pre-wrap; font-size: .92rem; min-width: 0; }
+@media (max-width: 640px) { .compare { grid-template-columns: 1fr; } }
+
+/* ---------- search overlay ---------- */
+.overlay { position: fixed; inset: 0; z-index: 40; background: color-mix(in srgb, var(--ink) 45%, transparent); display: grid; place-items: start center; padding-top: calc(env(safe-area-inset-top, 0px) + 60px); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.overlay .box { width: min(640px, 100%); background: var(--surface); border-radius: var(--radius); border: 1px solid var(--line); padding: 14px; display: grid; gap: 10px; max-height: 75vh; overflow: auto; }
+.results { display: grid; gap: 4px; }
+.results button { text-align: left; border: 0; background: none; padding: 8px 10px; border-radius: 6px; cursor: pointer; display: grid; gap: 2px; }
+.results button:hover, .results button:focus-visible { background: var(--sunk); }
+
+/* ---------- tables (teacher) ---------- */
+table.data { width: 100%; border-collapse: collapse; font-size: .92rem; }
+table.data th, table.data td { padding: 8px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+table.data th { font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+pre.code { white-space: pre-wrap; font-family: var(--mono); font-size: .85rem; background: var(--sunk); padding: 10px; border-radius: 6px; margin: 0; }
+.toast { position: fixed; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); left: 50%; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 10px 16px; border-radius: 8px; z-index: 50; font-weight: 700; max-width: calc(100% - 32px); }
+.login { max-width: 420px; margin: 6vh auto 0; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .flash, .opt, .btn, .act, .year { transition: background-color .15s, border-color .15s, transform .15s; }
+  .act:hover, .year:hover { transform: translateY(-1px); }
+}
+
+</style>
+<div id="app"><main><p style="padding:24px">Loading the Revision Hub…</p></main></div>
+<script>window.HUB_PREVIEW = {"courses":{"_note":"Course register. Examination fields stay null until verified from an uploaded specification. Never fill them from memory.","courses":[{"id":"y7","year":"Year 7","title":"The Norman Conquest","enquiry":"Why did William win the Battle of Hastings?","stage":"KS3","icon":"shield","accent":"#b4532a","assessment":{"type":"KS3 department criteria","criteria_status":"missing","notes":"Department KS3 assessment criteria not yet uploaded. Practice questions are teacher-created drafts; AI feedback is formative only (no marks) until criteria are added in the Teacher area."},"topics":[{"id":"y7-hastings","title":"Why did William win the Battle of Hastings?","status":"built"}],"resources_received":[],"resources_needed":["Year 7 Hastings lesson PowerPoints (to align explanations and page references)","KS3 History assessment criteria / success criteria used by the department","Jada's teaching resource (optional, to guide scaffolding)","Any teacher-marked Year 7 answers (to check AI feedback against)"]},{"id":"y8","year":"Year 8","title":"African migration to England","enquiry":"Why did Africans migrate to England?","stage":"KS3","icon":"compass","accent":"#2f6f5e","assessment":{"type":"KS3 department criteria","criteria_status":"missing","notes":"Geographical and chronological scope must come from the teacher's resources. Distinguish voluntary and forced movement; represent African individuals' experiences and agency accurately."},"topics":[],"resources_received":[],"resources_needed":["Year 8 scheme of work / lessons defining the period and places covered","Named individuals and sources used in lessons","KS3 assessment criteria and the end-of-unit task"]},{"id":"y9","year":"Year 9","title":"Causes of the First World War","enquiry":"Why did the First World War start?","stage":"KS3","icon":"spark","accent":"#5b4a9e","assessment":{"type":"KS3 department criteria","criteria_status":"missing","notes":"Focus: long-term causes, their interaction, the immediate trigger and relative significance."},"topics":[],"resources_received":[],"resources_needed":["Year 9 lessons and any source packs","KS3 assessment criteria and the end-of-unit task"]},{"id":"y11","year":"Year 11","title":"International GCSE History","enquiry":"Germany · Civil Rights · Changes in medicine","stage":"International GCSE","icon":"book","accent":"#1f5f8b","exam":{"board":"Pearson Edexcel","qualification":"International GCSE History","specification_version":null,"papers":null,"options":[{"area":"Germany","title":null,"code":null,"date_range":null},{"area":"Civil Rights","title":null,"code":null,"date_range":null},{"area":"Changes in medicine","title":"Changes in medicine c1848–c1948 (title as given by teacher; verify against specification)","code":null,"date_range":"c1848–c1948 (to verify)"}],"question_types":null,"marks":null,"assessment_objectives":null,"verified":false},"separation_note":"Kept separate from Year 12 Germany and Year 13 Civil Rights.","topics":[],"resources_received":[],"resources_needed":["Current Pearson Edexcel International GCSE History specification (issue number)","Sample assessment materials and mark schemes for each paper taken","Examiner reports","Textbooks / lessons for Germany, Civil Rights and Medicine (GCSEPod references optional)"]},{"id":"y12","year":"Year 12","title":"International A Level History — Germany","enquiry":"Germany: Development of Dictatorship 1918–45","stage":"International A Level","icon":"column","accent":"#7a2e3a","exam":{"board":"Pearson Edexcel","qualification":"International Advanced Level History","specification_version":null,"papers":null,"options":[{"area":"Germany","title":"Germany: Development of Dictatorship 1918–45 (title as given by teacher; verify)","code":null,"date_range":"1918–45 (to verify)"}],"question_types":null,"marks":null,"assessment_objectives":null,"verified":false},"separation_note":"Kept separate from Year 11 Germany.","topics":[],"resources_received":[],"resources_needed":["Pearson Edexcel IAL History specification (issue number) and the unit code","Sample assessment materials, mark schemes, examiner reports","Textbook / lessons (Massolit lecture list optional)"]},{"id":"y13","year":"Year 13","title":"International A Level History — Civil Rights","enquiry":"Civil Rights 1865–2009","stage":"International A Level","icon":"scales","accent":"#8a6a12","exam":{"board":"Pearson Edexcel","qualification":"International Advanced Level History","specification_version":null,"papers":null,"options":[{"area":"Civil Rights","title":"Civil Rights 1865–2009 (title as given by teacher; verify)","code":null,"date_range":"1865–2009 (to verify)"}],"question_types":null,"marks":null,"assessment_objectives":null,"verified":false},"separation_note":"Kept separate from Year 11 Civil Rights.","topics":[],"resources_received":[],"resources_needed":["Pearson Edexcel IAL History specification (issue number) and the unit code","Sample assessment materials, mark schemes, examiner reports","Textbook / lessons"]}]},"topics":{"y7-hastings":{"id":"y7-hastings","course":"y7","title":"Why did William win the Battle of Hastings?","status":"published","review":{"state":"awaiting-teacher-check","note":"Original content written without uploaded Year 7 lessons. Check against your lessons; add lesson page references in the Teacher area."},"learn":{"intro":"In 1066 England had three different kings in one year. This topic follows how William, Duke of Normandy, ended the year wearing the crown — and asks you to decide why he won.","sections":[{"id":"s1","title":"1. The succession crisis","blocks":[{"p":"Edward the Confessor died on 5 January 1066 without any children. In Anglo-Saxon England there was no fixed rule that the eldest son, or nearest relative, automatically became king. The dying king's wishes, family links, power and the support of the Witan (the council of leading nobles and churchmen) all mattered."},{"p":"Four men had a claim to the throne:"},{"ul":["Harold Godwinson — Earl of Wessex, the richest and most powerful noble in England, and Edward's brother-in-law. English sources say Edward named Harold as his successor on his deathbed. The Witan supported him.","William, Duke of Normandy — Edward's cousin (once removed). Norman writers claimed Edward had promised him the throne years earlier, and that Harold had sworn an oath to support William while visiting Normandy around 1064.","Harald Hardrada — King of Norway and a famous warrior. His claim came from an earlier agreement between King Magnus of Norway and King Harthacnut of England.","Edgar Ætheling — Edward's great-nephew and the closest blood relative, but a teenager with no army or powerful supporters."]},{"p":"Harold was crowned on 6 January 1066, the day after Edward died. Speed mattered: it made Harold king before anyone else could act — but it also gave William a reason to say Harold had broken his oath."}],"terms":["succession","claimant","Witan","oath","earl"],"evidence":["Edward died 5 January 1066; Harold crowned 6 January 1066.","The Witan backed Harold.","Norman sources describe Harold's oath to William (c.1064); the Bayeux Tapestry shows an oath scene."]},{"id":"s2","title":"2. The Viking invasion and Stamford Bridge","blocks":[{"p":"Harold expected William to invade from the south, so he kept an army waiting on the south coast through the summer of 1066. By early September food was running out and men were needed for the harvest, so the army was sent home."},{"p":"Then the danger came from the north. Harald Hardrada landed in Yorkshire with a large fleet, joined by Tostig — Harold's own brother, who had been exiled in 1065. On 20 September they defeated the northern earls Edwin and Morcar at the Battle of Fulford, and York surrendered."},{"p":"Harold marched north at great speed, covering around 185 miles in a few days. On 25 September he surprised the Norwegians at Stamford Bridge. Hardrada and Tostig were both killed. The Anglo-Saxon Chronicle records that only a small part of the invading fleet was needed to carry the survivors home."},{"p":"It was a crushing victory — but Harold's army had lost men and was exhausted, and it was about 250 miles from the south coast."}],"terms":["fleet","exile","Battle of Fulford","Battle of Stamford Bridge"],"evidence":["Fulford: 20 September 1066 — Edwin and Morcar defeated.","Stamford Bridge: 25 September 1066 — Hardrada and Tostig killed.","Harold's men marched roughly 185 miles north in a few days."]},{"id":"s3","title":"3. William prepares and lands","blocks":[{"p":"William spent the spring and summer of 1066 preparing. He gathered soldiers from Normandy and neighbouring lands such as Brittany and Flanders, had a large fleet built and planned to ship horses across the Channel for his knights."},{"p":"He also gained support from Pope Alexander II, who sent a papal banner. This allowed William to present the invasion as a just cause, which helped persuade men to join him."},{"p":"For weeks the wind blew the wrong way and William's fleet could not sail. When the wind changed, he crossed quickly. He landed at Pevensey on 28 September 1066 — three days after Stamford Bridge, while Harold was still in the north. The south coast was undefended."},{"p":"William moved to Hastings, built a wooden fort and let his men raid the surrounding countryside. Sussex was Harold's own family land, so this put pressure on Harold to come and fight quickly."}],"terms":["papal banner","knight","cavalry","invasion"],"evidence":["William landed at Pevensey on 28 September 1066.","Pope Alexander II sent a papal banner.","William's army included Normans, Bretons and Flemish/French soldiers."]},{"id":"s4","title":"4. The battle: 14 October 1066","blocks":[{"p":"Harold hurried south, stopping in London to gather more men, and reached the Hastings area on 13 October. He did not wait for all the troops who might have joined him. The battle took place on 14 October on a ridge about seven miles from Hastings, where the town of Battle now stands."},{"p":"The armies were probably roughly the same size — historians' estimates are usually somewhere between 5,000 and 8,000 men each, but nobody knows for certain."},{"ul":["The English fought on foot at the top of the ridge in a shield wall. At its heart were the housecarls — professional, well-trained soldiers, many armed with long two-handed axes. With them stood the fyrd: part-time soldiers called up from the shires, often less well equipped.","The Normans had three types of soldier: archers, foot soldiers and mounted knights. William's army was split into three divisions: Bretons on the left, Normans in the centre and French and Flemish soldiers on the right."]},{"p":"The fighting lasted most of the day. Early attacks uphill failed against the shield wall. When the Bretons fell back, some English soldiers broke ranks to chase them down the hill and were cut off and killed. A rumour spread that William was dead; according to Norman accounts he lifted his helmet so his men could see him — the Bayeux Tapestry shows this moment."},{"p":"Norman writers say William then used feigned retreats: pretending to flee to draw more English soldiers out of the shield wall. Historians still debate whether these were deliberately planned or exaggerated later."},{"p":"Late in the day Harold was killed, along with his brothers Gyrth and Leofwine. Without their leaders, the English line broke."}],"terms":["shield wall","housecarl","fyrd","feigned retreat","Senlac"],"evidence":["Battle of Hastings: 14 October 1066, lasted most of the day.","Harold's brothers Gyrth and Leofwine were also killed.","The Bayeux Tapestry shows William lifting his helmet to show he was alive."]},{"id":"s5","title":"5. Explaining William's victory","blocks":[{"p":"Historians group the reasons for William's victory into factors. Your job is not just to list them but to show how they link together and decide which mattered most."},{"ul":["William's leadership and preparation — a well-organised invasion force, ships, horses, papal support, and calm leadership during the battle (showing his face when rumours spread).","Norman army and tactics — a mix of archers, infantry and cavalry that could attack in different ways; possibly feigned retreats.","Harold's decisions — fighting quickly instead of waiting for more troops; possibly reacting to the raids on his lands.","English weaknesses — tired troops after Stamford Bridge; parts of the fyrd breaking the shield wall to chase the enemy.","Luck — the wind delaying William until Harold was in the north; Hardrada invading first; Harold being killed at a key moment."]},{"p":"Factors interact. For example, Hardrada's invasion was luck for William, but it only helped because Harold then rushed back south (a decision) with exhausted men (a weakness)."}],"terms":["factor","significance","judgement","interaction"],"evidence":["Three-day gap: Stamford Bridge (25 Sept) and William's landing (28 Sept).","English broke ranks to chase retreating Bretons.","Harold's death late in the day ended English resistance."]},{"id":"s6","title":"6. How do we know? The sources","blocks":[{"p":"Almost everything we know about 1066 comes from a small number of sources, most written by or for the winners. Always ask: who made it, when, and why?"},{"sources":true}],"terms":["source","provenance","bias","chronicle","reliability"],"evidence":["The Bayeux Tapestry was probably made in the 1070s, likely for Bishop Odo, William's half-brother.","William of Poitiers was William's chaplain."]},{"id":"s7","title":"7. After the battle","blocks":[{"p":"Victory at Hastings did not immediately make William king. In London the Witan chose Edgar Ætheling. William marched around London, burning land as he went, until the English leaders — including Edgar — submitted to him at Berkhamsted."},{"p":"William was crowned in Westminster Abbey on Christmas Day, 25 December 1066. It took years more fighting before the Normans fully controlled England."}],"terms":["submit","coronation"],"evidence":["William crowned 25 December 1066, Westminster Abbey."]}],"timeline":[{"date":"c.1051","event":"According to Norman writers, Edward promises the throne to William."},{"date":"c.1064","event":"Harold visits Normandy; Norman sources say he swears an oath to support William."},{"date":"5 Jan 1066","event":"Edward the Confessor dies without children."},{"date":"6 Jan 1066","event":"Harold Godwinson crowned king."},{"date":"Apr 1066","event":"Halley's Comet seen across Europe — later shown as an omen on the Bayeux Tapestry."},{"date":"Summer 1066","event":"Harold's army guards the south coast; William gathers his fleet."},{"date":"Early Sept 1066","event":"Harold sends his southern army home as supplies run low."},{"date":"20 Sept 1066","event":"Battle of Fulford: Hardrada and Tostig defeat Edwin and Morcar."},{"date":"25 Sept 1066","event":"Battle of Stamford Bridge: Harold defeats and kills Hardrada and Tostig."},{"date":"28 Sept 1066","event":"William lands at Pevensey."},{"date":"14 Oct 1066","event":"Battle of Hastings: Harold killed; William wins."},{"date":"25 Dec 1066","event":"William crowned at Westminster Abbey."}],"people":[{"name":"Edward the Confessor","role":"King of England 1042–1066. Died childless, triggering the succession crisis."},{"name":"Harold Godwinson","role":"Earl of Wessex, crowned January 1066. Won at Stamford Bridge; killed at Hastings."},{"name":"William, Duke of Normandy","role":"Claimed Edward promised him the throne. Invaded and won at Hastings; crowned Christmas Day 1066."},{"name":"Harald Hardrada","role":"King of Norway. Invaded the north; killed at Stamford Bridge."},{"name":"Tostig Godwinson","role":"Harold's exiled brother who joined Hardrada; killed at Stamford Bridge."},{"name":"Edgar Ætheling","role":"Edward's teenage great-nephew; chosen by the Witan after Hastings but submitted to William."},{"name":"Edwin and Morcar","role":"Northern earls defeated at Fulford."},{"name":"Bishop Odo of Bayeux","role":"William's half-brother; probably commissioned the Bayeux Tapestry."},{"name":"Pope Alexander II","role":"Gave William a papal banner, signalling support for the invasion."}],"vocab":[{"term":"Succession","def":"Who takes over as ruler next."},{"term":"Claimant","def":"A person who says they have the right to something — here, the throne."},{"term":"Witan","def":"The council of leading nobles and churchmen who advised the king and helped choose a new one."},{"term":"Earl","def":"A powerful Anglo-Saxon noble who governed a large region."},{"term":"Housecarl","def":"A professional, full-time soldier serving the king or an earl."},{"term":"Fyrd","def":"Part-time soldiers called up from the local area in times of war."},{"term":"Shield wall","def":"A line of soldiers standing close with overlapping shields to block attacks."},{"term":"Cavalry","def":"Soldiers who fight on horseback — the Norman knights."},{"term":"Feigned retreat","def":"Pretending to run away to trick the enemy into chasing and breaking formation."},{"term":"Papal banner","def":"A flag sent by the Pope to show the Church's support."},{"term":"Provenance","def":"Where a source comes from: who made it, when and why."},{"term":"Factor","def":"One reason or cause that helps explain an event."}],"misconceptions":[{"wrong":"The battle was fought in the town of Hastings.","right":"It was fought on a ridge about seven miles away, where the town of Battle now stands."},{"wrong":"Harold definitely died from an arrow in the eye.","right":"The Bayeux Tapestry is ambiguous and may have been altered by later repairs; one early account describes Harold being cut down by knights. We cannot be certain."},{"wrong":"The English army was just untrained peasants.","right":"The housecarls were highly trained professional soldiers. The fyrd was part-time, but many were experienced."},{"wrong":"William won quickly and easily.","right":"The battle lasted most of the day and could have gone either way."},{"wrong":"William became king as soon as the battle ended.","right":"The Witan chose Edgar Ætheling first; William was crowned on 25 December after the English leaders submitted."},{"wrong":"The Normans were simply 'the French'.","right":"Normandy was a duchy whose rulers descended from Viking settlers. The duke owed loyalty to the French king but acted largely independently."}],"sources":[{"id":"bayeux","title":"The Bayeux Tapestry","type":"Embroidered cloth (about 70 metres long)","date":"Probably 1070s","origin":"Probably commissioned by Bishop Odo of Bayeux, William's half-brother; likely embroidered in England.","purpose":"To tell the Norman story of 1066 and justify William's conquest — it emphasises Harold's oath.","usefulness":"Detailed images of weapons, ships and armour. Shows the Norman point of view; some scenes were restored centuries later."},{"id":"poitiers","title":"William of Poitiers, 'The Deeds of William' (Gesta Guillelmi)","type":"Written history (Latin)","date":"c.1071–1077","origin":"Written by William's own chaplain, a Norman who had once been a soldier. He was not at the battle.","purpose":"To praise William and show his claim was rightful.","usefulness":"The fullest early account of the battle, including the feigned retreats — but strongly pro-William."},{"id":"asc","title":"The Anglo-Saxon Chronicle","type":"Year-by-year record (Old English)","date":"Entries written during and after 1066; several versions","origin":"Kept by English monks in different monasteries.","purpose":"To record important events each year.","usefulness":"An English point of view; brief on the battle itself; different versions sometimes disagree."},{"id":"carmen","title":"The Song of the Battle of Hastings (Carmen de Hastingae Proelio)","type":"Latin poem","date":"Possibly c.1067 — the date and author are debated","origin":"Often linked to Guy, Bishop of Amiens.","purpose":"To celebrate William's victory in verse.","usefulness":"Possibly the earliest account; gives a different description of Harold's death. Poetic and uncertain in date."}]},"quizzes":{"mcq":[{"id":"m1","s":"s1","q":"When did Edward the Confessor die?","options":["5 January 1066","14 October 1066","25 December 1066","25 September 1066"],"answer":0,"why":"Edward died on 5 January 1066; Harold was crowned the next day."},{"id":"m2","s":"s1","q":"What was the Witan?","options":["Harold's personal bodyguard","A council of leading nobles and churchmen","A Norman type of castle","The Pope's messengers"],"answer":1,"why":"The Witan advised the king and backed Harold as Edward's successor."},{"id":"m3","s":"s1","q":"Which claimant was Edward's closest blood relative?","options":["Harold Godwinson","William of Normandy","Edgar Ætheling","Harald Hardrada"],"answer":2,"why":"Edgar was Edward's great-nephew, but he was a teenager without an army or powerful backers."},{"id":"m4","s":"s1","q":"What did Norman writers claim Harold did in Normandy around 1064?","options":["Married William's daughter","Swore an oath to support William","Fought a battle against William","Was crowned by the Pope"],"answer":1,"why":"The oath gave William a reason to call Harold an oath-breaker — useful propaganda."},{"id":"m5","s":"s2","q":"Who joined Harald Hardrada's invasion?","options":["Edwin","Tostig","Odo","Edgar"],"answer":1,"why":"Tostig was Harold's exiled brother."},{"id":"m6","s":"s2","q":"What happened at Stamford Bridge on 25 September 1066?","options":["William landed in England","Harold defeated Hardrada","Edwin and Morcar were defeated","William was crowned"],"answer":1,"why":"Harold surprised the Norwegians; Hardrada and Tostig were killed."},{"id":"m7","s":"s3","q":"Where did William land on 28 September 1066?","options":["Dover","York","Pevensey","London"],"answer":2,"why":"Pevensey, on the Sussex coast — three days after Stamford Bridge."},{"id":"m8","s":"s3","q":"Why was the papal banner useful to William?","options":["It protected him from arrows","It showed the Church backed his cause, helping recruitment","It was a signal for his ships","It made the English surrender"],"answer":1,"why":"Church support made the invasion look just and encouraged men to join."},{"id":"m9","s":"s4","q":"Who were the housecarls?","options":["Norman archers","Part-time English farmers","Professional English soldiers","Viking sailors"],"answer":2,"why":"Housecarls were full-time, well-trained soldiers — often with two-handed axes."},{"id":"m10","s":"s4","q":"Where did the English army stand at the start of the battle?","options":["In a castle","On top of a ridge","On the beach","Inside Hastings town"],"answer":1,"why":"Harold's shield wall held the high ground, forcing the Normans to attack uphill."},{"id":"m11","s":"s4","q":"What is a feigned retreat?","options":["Running away for real","Pretending to flee to draw the enemy out","Retreating to get more arrows","A surrender"],"answer":1,"why":"Norman writers say this pulled English soldiers out of the shield wall. Historians debate how far it was planned."},{"id":"m12","s":"s4","q":"Why did William lift his helmet during the battle?","options":["To surrender","To cool down","To show his men he was alive","To signal a retreat"],"answer":2,"why":"A rumour of his death was spreading panic; showing his face steadied his army."},{"id":"m13","s":"s5","q":"Which is the best example of LUCK helping William?","options":["Building a fleet","The wind delaying him until Harold went north","Using archers","Getting a papal banner"],"answer":1,"why":"The timing was outside William's control and left the south coast undefended."},{"id":"m14","s":"s6","q":"Who probably commissioned the Bayeux Tapestry?","options":["Harold Godwinson","Bishop Odo","Edgar Ætheling","Harald Hardrada"],"answer":1,"why":"Odo was William's half-brother — so the Tapestry shows the Norman point of view."},{"id":"m15","s":"s7","q":"When was William crowned?","options":["14 October 1066","25 December 1066","6 January 1066","1 January 1067"],"answer":1,"why":"Christmas Day 1066, Westminster Abbey."}],"short":[{"id":"a1","s":"s1","q":"Which powerful earl was crowned king the day after Edward died?","accept":["harold","harold godwinson","harold godwineson","harold ii","king harold"],"answer":"Harold Godwinson"},{"id":"a2","s":"s1","q":"Name the King of Norway who claimed the throne.","accept":["harald hardrada","hardrada","harald","harold hardrada","harald sigurdsson"],"answer":"Harald Hardrada"},{"id":"a3","s":"s2","q":"In which battle did the northern earls Edwin and Morcar lose to Hardrada?","accept":["fulford","battle of fulford","gate fulford","fulford gate"],"answer":"The Battle of Fulford"},{"id":"a4","s":"s2","q":"Which city surrendered to Hardrada after Fulford?","accept":["york"],"answer":"York"},{"id":"a5","s":"s3","q":"Which Pope sent William a banner?","accept":["alexander","alexander ii","alexander 2","pope alexander","pope alexander ii"],"answer":"Pope Alexander II"},{"id":"a6","s":"s4","q":"What name do we give to English part-time soldiers?","accept":["fyrd","the fyrd","fyrdmen"],"answer":"The fyrd"},{"id":"a7","s":"s4","q":"What defensive formation did the English use?","accept":["shield wall","shieldwall","a shield wall","the shield wall"],"answer":"A shield wall"},{"id":"a8","s":"s4","q":"Name one of Harold's brothers killed at Hastings.","accept":["gyrth","leofwine"],"answer":"Gyrth or Leofwine"},{"id":"a9","s":"s6","q":"William of Poitiers had a job working for William. What was it?","accept":["chaplain","priest","his chaplain","williams chaplain"],"answer":"Chaplain (priest)"},{"id":"a10","s":"s7","q":"Where was William crowned?","accept":["westminster abbey","westminster","westminister abbey","westminster abby"],"answer":"Westminster Abbey"}],"chronology":[{"id":"c1","title":"Put the events of 1066 in order","items":["Edward the Confessor dies","Harold is crowned","Battle of Fulford","Battle of Stamford Bridge","William lands at Pevensey","Battle of Hastings","William is crowned"]},{"id":"c2","title":"Put the events of the battle day in order","items":["English form a shield wall on the ridge","Norman attacks uphill fail","Bretons fall back and some English chase them","Rumour that William is dead; he lifts his helmet","Harold is killed","The English line breaks"]}],"matching":[{"id":"x1","title":"Match each claimant to their claim","pairs":[["Harold Godwinson","Named by Edward on his deathbed, backed by the Witan"],["William of Normandy","Said Edward promised him the throne and Harold swore an oath"],["Harald Hardrada","Agreement between Magnus of Norway and Harthacnut"],["Edgar Ætheling","Closest blood relative, but young and without an army"]]},{"id":"x2","title":"Match the term to its meaning","pairs":[["Housecarl","Professional English soldier"],["Fyrd","Part-time English soldiers"],["Cavalry","Soldiers on horseback"],["Witan","Council of nobles and churchmen"],["Provenance","Who made a source, when and why"]]}],"evidence":[{"id":"e1","s":"s2","q":"Give a precise piece of evidence that Harold's army was tired by October 1066.","keywords":[["stamford","fulford","march","marched","185","250","north"]],"model":"They had fought at Stamford Bridge on 25 September, after marching about 185 miles north in a few days, then marched back south — about 250 miles — to face William."},{"id":"e2","s":"s3","q":"Give a piece of evidence that William prepared carefully.","keywords":[["fleet","ships","horses","banner","pope","brittany","flanders","soldiers"]],"model":"He built a large fleet that could carry horses, gathered soldiers from Normandy, Brittany and Flanders, and won a papal banner from Pope Alexander II."},{"id":"e3","s":"s4","q":"Give evidence that the shield wall was effective at first.","keywords":[["uphill","ridge","failed","held","morning","hours","all day"]],"model":"Early Norman attacks uphill failed against it, and the battle lasted most of the day."},{"id":"e4","s":"s5","q":"Give evidence that luck helped William.","keywords":[["wind","hardrada","three days","28","undefended","harold killed","north"]],"model":"The wind kept William in Normandy until Harold was in the north fighting Hardrada; he landed unopposed on 28 September, three days after Stamford Bridge."}]},"flashcards":[{"id":"f1","s":"s1","q":"When did Edward the Confessor die?","a":"5 January 1066","hint":"The very start of the year."},{"id":"f2","s":"s1","q":"Why was there a succession crisis in 1066?","a":"Edward died with no children, and there was no fixed rule about who should be king next.","hint":"Think about Edward's family."},{"id":"f3","s":"s1","q":"What was Harold Godwinson's claim?","a":"Edward named him on his deathbed (English sources); he was the most powerful earl and the Witan backed him.","hint":"Deathbed + Witan."},{"id":"f4","s":"s1","q":"What was William's claim?","a":"Norman writers said Edward promised him the throne and that Harold swore an oath to support him around 1064.","hint":"A promise and an oath."},{"id":"f5","s":"s1","q":"What was Harald Hardrada's claim?","a":"An earlier agreement between Magnus of Norway and Harthacnut of England.","hint":"An old Scandinavian agreement."},{"id":"f6","s":"s1","q":"Why was Edgar Ætheling not chosen in January 1066?","a":"He was a teenager with no army or powerful supporters.","hint":"Age and power."},{"id":"f7","s":"s1","q":"What was the Witan?","a":"A council of leading nobles and churchmen that advised the king.","hint":"A council."},{"id":"f8","s":"s1","q":"When was Harold crowned?","a":"6 January 1066","hint":"The day after Edward died."},{"id":"f9","s":"s2","q":"Why did Harold send his southern army home in September?","a":"Supplies were running out and men were needed for the harvest.","hint":"Food and farming."},{"id":"f10","s":"s2","q":"Who was Tostig?","a":"Harold's exiled brother, who joined Hardrada's invasion.","hint":"Family feud."},{"id":"f11","s":"s2","q":"What happened at Fulford (20 Sept 1066)?","a":"Hardrada and Tostig defeated the northern earls Edwin and Morcar.","hint":"A Viking win."},{"id":"f12","s":"s2","q":"What happened at Stamford Bridge (25 Sept 1066)?","a":"Harold surprised and defeated the Norwegians; Hardrada and Tostig were killed.","hint":"An English win."},{"id":"f13","s":"s2","q":"How did Stamford Bridge weaken Harold for Hastings?","a":"His army lost men, was exhausted, and had to march about 250 miles south.","hint":"Losses + distance."},{"id":"f14","s":"s3","q":"When and where did William land?","a":"Pevensey, 28 September 1066","hint":"Sussex coast, three days after Stamford Bridge."},{"id":"f15","s":"s3","q":"Why did William's landing go unopposed?","a":"Harold and his army were in the north after Stamford Bridge.","hint":"Where was Harold?"},{"id":"f16","s":"s3","q":"What did the papal banner show?","a":"That Pope Alexander II supported William's cause.","hint":"The Church."},{"id":"f17","s":"s3","q":"Why did William raid Sussex?","a":"It was Harold's family land, so it pressured Harold to fight quickly.","hint":"Whose land was it?"},{"id":"f18","s":"s4","q":"When was the Battle of Hastings?","a":"14 October 1066","hint":"Mid-October."},{"id":"f19","s":"s4","q":"Where was the battle actually fought?","a":"On a ridge about seven miles from Hastings, where the town of Battle now stands.","hint":"Not in Hastings itself."},{"id":"f20","s":"s4","q":"What were housecarls?","a":"Professional, full-time English soldiers, often armed with two-handed axes.","hint":"Full-time."},{"id":"f21","s":"s4","q":"What was the fyrd?","a":"Part-time English soldiers called up from the shires.","hint":"Part-time."},{"id":"f22","s":"s4","q":"What three types of soldier did William have?","a":"Archers, foot soldiers (infantry) and mounted knights (cavalry).","hint":"Bows, feet, horses."},{"id":"f23","s":"s4","q":"What happened when the Bretons fell back?","a":"Some English broke out of the shield wall to chase them and were cut off and killed.","hint":"A gap appears."},{"id":"f24","s":"s4","q":"What is a feigned retreat — and is it certain William used one?","a":"Pretending to flee to draw the enemy out. Norman writers say so; historians debate it.","hint":"Pretend."},{"id":"f25","s":"s4","q":"Which of Harold's brothers died at Hastings?","a":"Gyrth and Leofwine","hint":"Two names: G and L."},{"id":"f26","s":"s5","q":"Give two ways luck helped William.","a":"The wind delayed him until Harold was in the north; Hardrada invaded first; Harold was killed at a key moment.","hint":"Weather and timing."},{"id":"f27","s":"s5","q":"Give one mistake Harold may have made.","a":"Fighting quickly instead of waiting for more troops.","hint":"Speed."},{"id":"f28","s":"s6","q":"Why is the Bayeux Tapestry not a neutral source?","a":"It was probably made for Bishop Odo, William's half-brother, to tell the Norman story.","hint":"Who paid for it?"},{"id":"f29","s":"s6","q":"Who wrote 'The Deeds of William' and why might it be biased?","a":"William of Poitiers, William's chaplain — he wrote to praise William.","hint":"His job."},{"id":"f30","s":"s7","q":"When and where was William crowned?","a":"25 December 1066, Westminster Abbey","hint":"Christmas."}],"checklist":[{"id":"k1","level":"describe","text":"I can describe why England had a succession crisis in 1066.","sections":["s1"]},{"id":"k2","level":"describe","text":"I can describe the four claimants and the basis of each claim.","sections":["s1"]},{"id":"k3","level":"explain","text":"I can explain how Harold Godwinson became king.","sections":["s1"]},{"id":"k4","level":"describe","text":"I can describe the main events of 1066 in the correct order with dates.","sections":["s2","s3","s4","s7"]},{"id":"k5","level":"explain","text":"I can explain how the Battle of Stamford Bridge affected Harold's army.","sections":["s2"]},{"id":"k6","level":"explain","text":"I can explain how William prepared for his invasion.","sections":["s3"]},{"id":"k7","level":"describe","text":"I can describe the two armies and the tactics used at Hastings.","sections":["s4"]},{"id":"k8","level":"explain","text":"I can explain at least three reasons why William won, using precise evidence.","sections":["s5"]},{"id":"k9","level":"judge","text":"I can make a supported judgement about the most important reason William won.","sections":["s5"]},{"id":"k10","level":"judge","text":"I can use who made a source, when and why to judge how useful it is.","sections":["s6"]}],"exam":{"criteria_status":"missing","criteria_note":"Department KS3 assessment criteria have not been uploaded. The success criteria below are teacher-created drafts for Mr Garry to check; AI feedback gives no marks until a verified mark scheme is added for a question.","questions":[{"id":"q1","label":"Teacher-created practice question","type":"describe","q":"Describe two claims to the English throne in 1066.","minutes":8,"sections":["s1"],"asks":"Give accurate details about two different claimants and what their claim was based on. You do not need to explain who was most likely to win.","steps":["Pick the two claimants you know best.","For each: name them, say who they were, and say what their claim rested on.","Add one precise detail for each (a date, a person, an event)."],"plan":"1 minute planning: write two names and one detail beside each. 6 minutes writing. 1 minute checking names and dates.","success":["Two different claimants named","The basis of each claim stated accurately","At least one precise supporting detail for each"],"mistakes":["Describing the battle instead of the claims","Writing about four claimants briefly instead of two in detail","Mixing up Harold Godwinson and Harald Hardrada"],"markscheme":null,"model":[{"t":"One claim was Harold Godwinson's. He was Earl of Wessex, the most powerful noble in England, and English sources say Edward named him as successor on his deathbed in January 1066.","n":"Names the claimant, says who he was, gives the basis of the claim with a precise date."},{"t":"The Witan, the council of leading nobles and churchmen, supported him, and he was crowned on 6 January.","n":"Extra precise detail that strengthens the description."},{"t":"A second claim was William of Normandy's. Norman writers said Edward had promised him the throne, and that Harold had sworn an oath to support William while in Normandy around 1064.","n":"A different claimant; two parts to the claim; notes these come from Norman sources."}],"frame":{"full":["One claim to the throne was made by … He was …","His claim was based on …","A precise detail that supports this is …","A second claim was made by … He was …","His claim was based on …","A precise detail is …"],"some":["Claim 1: who + basis + detail","Claim 2: who + basis + detail"]}},{"id":"q2","label":"Teacher-created practice question","type":"explain","q":"Explain why the Battle of Stamford Bridge was important for the outcome of the Battle of Hastings.","minutes":12,"sections":["s2","s3","s5"],"asks":"Show how events in the north led to consequences in the south. Each paragraph needs a reason, evidence and an explanation of how it affected Hastings.","steps":["Identify two or three effects of Stamford Bridge (e.g. tiredness, losses, the south left undefended).","For each, give precise evidence.","Explain how that effect changed what happened at Hastings.","Finish by linking the effects together."],"plan":"2 minutes: list effects and evidence in the planning grid. 9 minutes: two PEEJ paragraphs. 1 minute: check every paragraph links back to Hastings.","success":["Identifies at least two consequences of Stamford Bridge","Supports each with precise evidence","Explains clearly how each affected Hastings","Shows a link between the consequences"],"mistakes":["Telling the story of Stamford Bridge without linking it to Hastings","Saying 'the army was tired' without evidence","Forgetting dates that prove the timing"],"markscheme":null,"model":[{"t":"Stamford Bridge was important because it left the south coast undefended when William arrived.","n":"POINT — answers the question directly."},{"t":"Harold was in the north defeating Hardrada on 25 September, and William landed at Pevensey on 28 September, just three days later.","n":"EVIDENCE — two precise dates show the timing."},{"t":"This meant William could land his army and horses safely and choose where to wait, instead of fighting on the beach while his men were still unloading.","n":"EXPLAIN — shows the consequence for William."},{"t":"So Stamford Bridge gave William a strong start before the battle even began.","n":"JUDGEMENT/LINK — ties the paragraph back to the outcome at Hastings."}],"frame":{"full":["POINT: One reason Stamford Bridge mattered was …","EVIDENCE: For example, …","EXPLAIN: This meant that … because …","JUDGEMENT: Therefore this helped William win at Hastings by …"],"some":["Point","Evidence","Explain","Judgement / link back"]}},{"id":"q3","label":"Teacher-created practice question (central enquiry)","type":"judge","q":"'William won the Battle of Hastings mainly because of luck.' How far do you agree?","minutes":25,"sections":["s3","s4","s5"],"asks":"Weigh luck against other factors (William's leadership, Norman tactics, Harold's decisions, English weaknesses) and reach a clear judgement about which mattered most.","steps":["Decide your judgement before you write — agree, partly agree or disagree.","Paragraph on luck, with evidence and explanation.","Paragraphs on one or two other factors.","Compare: which factor mattered most and why? Use the judgement questions.","Conclusion that answers 'how far' and explains your reasoning."],"plan":"4 minutes planning grid (factor / evidence / how it helped William / how decisive). 18 minutes writing. 3 minutes conclusion and check.","success":["Clear judgement in the introduction and conclusion","Luck explained with precise evidence","At least one other factor explained with precise evidence","Factors compared directly, not just listed","Conclusion gives a reason for the judgement"],"mistakes":["Only writing about luck","Listing factors without comparing them","A conclusion that sits on the fence with no reason","Retelling the story of 1066"],"markscheme":null,"judgementPrompts":["How long did this factor matter for? (duration)","How much of the battle and campaign did it affect? (scope)","How directly did it lead to the victory? (effectiveness)","What would have happened without it? (impact)"],"model":[{"t":"I partly agree: luck gave William important chances, but his leadership was what turned those chances into victory.","n":"Introduction states a clear, balanced judgement."},{"t":"Luck helped William because the wind delayed his crossing until Harold was fighting Hardrada in the north. He landed unopposed at Pevensey on 28 September, three days after Stamford Bridge.","n":"Luck paragraph — precise evidence."},{"t":"However, luck alone did not win the battle. When rumours spread that he had died, William lifted his helmet to show he was alive, stopping a panic that could have ended the battle.","n":"Counter-factor (leadership) with evidence."},{"t":"Leadership mattered more because it affected the whole day, whereas the lucky timing only decided where and when the battle started.","n":"Direct comparison using scope and duration."}],"frame":{"full":["Introduction: I agree / partly agree / disagree because …","Luck helped William because … For example, … This meant …","However, another important factor was … For example, … This meant …","Comparing them, … mattered more because it lasted longer / affected more of the battle / led more directly to victory …","Overall, …"],"some":["Judgement","Luck: P–E–E–J","Other factor: P–E–E–J","Compare (duration / scope / effectiveness / impact)","Conclusion"]}}]},"stretch":[{"id":"t1","kind":"Causal links","task":"Draw a chain of at least four links from 'Edward dies without children' to 'Harold is killed at Hastings'. For each arrow, write how one event caused the next."},{"id":"t2","kind":"Relative significance","task":"Rank the five factors from most to least important. Then move your top factor to the bottom and write the strongest argument you can for why it really belongs there. Has your view changed?"},{"id":"t3","kind":"Competing arguments","task":"Historians debate whether the feigned retreats were a deliberate tactic or a story told later by Norman writers. Using what you know about who wrote the sources, explain why we cannot be sure."},{"id":"t4","kind":"Counterfactual","task":"If the wind had changed in August and William had landed while Harold's army was still waiting on the south coast, who would have won? Use evidence about the two armies to justify your prediction."},{"id":"t5","kind":"Source evaluation","task":"The Bayeux Tapestry and the Anglo-Saxon Chronicle tell different stories about 1066. Using their origin and purpose, explain why they might disagree and which you would trust more for each of: Harold's oath; the course of the battle."},{"id":"t6","kind":"Change and continuity","task":"After Hastings, the Witan still chose Edgar Ætheling. What does this tell us about how much changed on 14 October, and how much stayed the same until Christmas?"}]}}};</script>
+<script>
+/* Mr Garry's History Revision Hub — client.
+   Runs in two modes:
+   - server mode (normal website): talks to /api, sign-in required, progress saved on the server.
+   - preview mode (window.HUB_PREVIEW set): content bundled in the page, progress saved in this browser only,
+     no sign-in, no teacher tools, no AI feedback. */
+(() => {
+'use strict';
+const PREVIEW = !!window.HUB_PREVIEW;
+const root = document.getElementById('app');
+
+// ---------- tiny templating with escaping ----------
+class Raw { constructor(s) { this.s = s; } }
+const raw = (s) => new Raw(s);
+const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const fmt = (v) => v instanceof Raw ? v.s : Array.isArray(v) ? v.map(fmt).join('') : (v == null || v === false) ? '' : esc(v);
+function html(strings, ...vals) { let o = ''; strings.forEach((s, i) => { o += s; if (i < vals.length) o += fmt(vals[i]); }); return raw(o); }
+const shuffle = (a) => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const today = () => new Date().toISOString().slice(0, 10);
+const pct = (r, w) => (r + w ? Math.round((100 * r) / (r + w)) : null);
+const wordsIn = (t) => (String(t).trim().match(/\S+/g) || []).length;
+const lsGet = (k, d) => { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } };
+const lsSet = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); return true; } catch { return false; } };
+
+// ---------- data stores ----------
+function ApiStore() {
+  const call = async (method, url, body) => {
+    const r = await fetch(url, { method, credentials: 'same-origin', headers: { 'content-type': 'application/json', 'x-hub': '1' }, body: body === undefined ? undefined : JSON.stringify(body) });
+    let j = {}; try { j = await r.json(); } catch {}
+    if (!r.ok) { const e = new Error(j.error || `Request failed (${r.status})`); e.status = r.status; throw e; }
+    return j;
+  };
+  return {
+    call,
+    me: async () => (await call('GET', '/api/me')).user,
+    login: async (u, s) => (await call('POST', '/api/login', { username: u, secret: s })).user,
+    logout: () => call('POST', '/api/logout'),
+    catalog: () => call('GET', '/api/catalog'),
+    topic: async (id) => (await call('GET', '/api/topics/' + id)).topic,
+    loadProgress: async () => (await call('GET', '/api/progress')).progress,
+    saveProgress: (p) => call('PUT', '/api/progress', { progress: p }),
+    submissions: () => call('GET', '/api/submissions'),
+    submitSub: async (id) => (await call('POST', '/api/submissions/' + id + '/submit')).submission,
+    createSub: async (b) => (await call('POST', '/api/submissions', b)).submission,
+    updateSub: async (id, text) => (await call('PUT', '/api/submissions/' + id, { text })).submission,
+    feedback: async (id) => (await call('POST', '/api/submissions/' + id + '/feedback')).submission,
+    deleteSub: (id) => call('DELETE', '/api/submissions/' + id),
+    myData: () => call('GET', '/api/my-data')
+  };
+}
+
+function LocalStore() {
+  const H = window.HUB_PREVIEW;
+  const AI_REASON = 'AI feedback is not part of this preview. It works on the full website once a school API key is added.';
+  const subs = () => lsGet('hub-preview-subs', []);
+  const putSubs = (s) => { if (!lsSet('hub-preview-subs', s)) throw new Error('This browser blocked saving, so your writing was not saved. Copy it somewhere safe.'); };
+  return {
+    me: async () => ({ id: 'preview', username: 'preview', role: 'student', display: 'Preview' }),
+    login: async () => { throw new Error('Sign-in is not available in the preview.'); },
+    logout: async () => {},
+    catalog: async () => {
+      const topics = {};
+      for (const t of Object.values(H.topics)) topics[t.id] = { id: t.id, course: t.course, title: t.title, status: 'published', review: t.review };
+      return { courses: H.courses, topics, ai: { available: false, reasons: [AI_REASON] } };
+    },
+    topic: async (id) => JSON.parse(JSON.stringify(H.topics[id])),
+    loadProgress: async () => lsGet('hub-preview-progress', {}),
+    saveProgress: async (p) => { if (!lsSet('hub-preview-progress', p)) throw new Error('Browser storage is blocked'); return { ok: true }; },
+    submissions: async () => ({ submissions: subs(), ai: { available: false, reasons: [AI_REASON] } }),
+    createSub: async (b) => { const s = { id: 'p' + Date.now(), status: 'draft', created_at: new Date().toISOString(), updated_at: new Date().toISOString(), ai: null, teacher: null, ...b }; putSubs([s, ...subs()]); return s; },
+    updateSub: async (id, text) => { const all = subs(); const s = all.find((x) => x.id === id); s.text = text; s.updated_at = new Date().toISOString(); putSubs(all); return s; },
+    feedback: async () => { throw new Error(AI_REASON + ' Your writing is saved in this browser.'); },
+    submitSub: async () => { throw new Error('Sending work to Mr Garry needs the full website. Your writing is saved in this browser.'); },
+    deleteSub: async (id) => { putSubs(subs().filter((x) => x.id !== id)); },
+    myData: async () => ({ exported_at: new Date().toISOString(), progress: lsGet('hub-preview-progress', {}), submissions: subs() })
+  };
+}
+
+const Store = PREVIEW ? LocalStore() : ApiStore();
+
+// ---------- state ----------
+const S = { user: null, catalog: null, topics: {}, progress: {}, subs: null, ai: null, ui: {}, save: 'saved', teacher: {} };
+
+// ---------- progress ----------
+function P(path, init) { // get-or-create nested object in progress
+  let o = S.progress;
+  for (const k of path) { if (!o[k] || typeof o[k] !== 'object') o[k] = {}; o = o[k]; }
+  return o;
+}
+function daily() {
+  const d = S.progress.daily;
+  if (!d || d.date !== today()) S.progress.daily = { date: today(), cards: 0, answers: 0 };
+  return S.progress.daily;
+}
+let saveTimer = null;
+function persist() {
+  if (S.user && S.user.role === 'teacher') return;
+  S.save = 'pending'; paintSave();
+  clearTimeout(saveTimer);
+  saveTimer = setTimeout(async () => {
+    S.save = 'saving'; paintSave();
+    try { await Store.saveProgress(S.progress); S.save = 'saved'; }
+    catch (e) { S.save = 'error'; S.saveError = e.message; setTimeout(persist, 10000); }
+    paintSave();
+  }, 700);
+}
+function paintSave() {
+  const el = document.getElementById('savestate'); if (!el) return;
+  const map = { saved: PREVIEW ? 'Saved in this browser' : 'Progress saved', pending: 'Saving…', saving: 'Saving…', error: 'Not saved — retrying' };
+  el.textContent = map[S.save] || '';
+  el.className = 'small hide-sm ' + (S.save === 'error' ? '' : 'muted');
+  el.style.color = S.save === 'error' ? 'var(--red)' : '';
+}
+window.addEventListener('beforeunload', (e) => { if (S.save === 'pending' || S.save === 'saving') { e.preventDefault(); e.returnValue = ''; } });
+
+// Leitner-style scheduling (days until next review per box)
+const BOX_DAYS = [0, 1, 3, 7, 14, 30];
+function cardState(tid, cid) { return P(['flash', tid])[cid] || null; }
+function setCard(tid, cid, patch) { const f = P(['flash', tid]); f[cid] = { box: 0, due: 0, got: 0, miss: 0, pinned: false, ...(f[cid] || {}), ...patch }; persist(); }
+function isDue(st) { return !st || !st.seen || st.due <= Date.now(); }
+
+function recordAnswer(tid, id, ok) {
+  const q = P(['quiz', tid]);
+  const r = q[id] || { r: 0, w: 0 };
+  ok ? r.r++ : r.w++;
+  r.last = ok ? 1 : 0; r.at = Date.now();
+  q[id] = r; daily().answers++; persist();
+}
+function sectionAccuracy(t, sid) {
+  const q = (S.progress.quiz || {})[t.id] || {};
+  let r = 0, w = 0;
+  const all = [...t.quizzes.mcq, ...t.quizzes.short, ...t.quizzes.evidence];
+  for (const it of all) if (it.s === sid && q[it.id]) { r += q[it.id].r; w += q[it.id].w; }
+  return { r, w, p: pct(r, w) };
+}
+function topicStats(t) {
+  const q = (S.progress.quiz || {})[t.id] || {};
+  let r = 0, w = 0; for (const v of Object.values(q)) { r += v.r; w += v.w; }
+  const f = (S.progress.flash || {})[t.id] || {};
+  const mastered = t.flashcards.filter((c) => f[c.id] && f[c.id].box >= 3).length;
+  const due = t.flashcards.filter((c) => isDue(f[c.id])).length;
+  const ck = (S.progress.check || {})[t.id] || {};
+  const rag = { red: 0, amber: 0, green: 0 }; for (const v of Object.values(ck)) if (rag[v] != null) rag[v]++;
+  return { quiz: pct(r, w), answered: r + w, mastered, due, cards: t.flashcards.length, rag, rated: rag.red + rag.amber + rag.green };
+}
+function recommendations(t) {
+  const ck = (S.progress.check || {})[t.id] || {};
+  const out = [];
+  for (const k of t.checklist) {
+    const conf = ck[k.id];
+    const acc = k.sections.map((s) => sectionAccuracy(t, s)).reduce((a, b) => ({ r: a.r + b.r, w: a.w + b.w }), { r: 0, w: 0 });
+    const p = pct(acc.r, acc.w);
+    let score = 0, why = '';
+    if (conf === 'red') { score += 3; why = 'you rated it red'; }
+    else if (conf === 'amber') { score += 2; why = 'you rated it amber'; }
+    else if (!conf) { score += 1; why = 'not rated yet'; }
+    if (p !== null && p < 60) { score += 2; why += (why ? ' and ' : '') + `quiz accuracy is ${p}%`; }
+    if (conf === 'green' && p !== null && p < 60) why = `rated green, but quiz accuracy is only ${p}% — check it`;
+    if (score >= 2 || (conf === 'green' && p !== null && p < 60)) out.push({ k, score, why });
+  }
+  return out.sort((a, b) => b.score - a.score).slice(0, 3);
+}
+
+// ---------- answer matching ----------
+function norm(s) {
+  return String(s).toLowerCase().replace(/æ/g, 'ae').normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim().replace(/^(the|a|an) /, '');
+}
+function lev(a, b) {
+  const m = a.length, n = b.length; if (!m) return n; if (!n) return m;
+  let prev = Array.from({ length: n + 1 }, (_, i) => i);
+  for (let i = 1; i <= m; i++) { const cur = [i]; for (let j = 1; j <= n; j++) cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)); prev = cur; }
+  return prev[n];
+}
+function shortMatch(given, accept) {
+  const g = norm(given); if (!g) return false;
+  return accept.some((a) => { const n = norm(a); const tol = n.length <= 4 ? 0 : n.length <= 7 ? 1 : 2; return g === n || lev(g, n) <= tol || (n.length > 3 && (` ${g} `).includes(` ${n} `)); });
+}
+
+// ---------- routing ----------
+function parseRoute() {
+  const h = decodeURIComponent(location.hash.replace(/^#/, ''));
+  const parts = h.split('.').filter(Boolean);
+  return { parts, a: parts[0] || '', b: parts[1] || '', c: parts[2] || '' };
+}
+function go(token) { if (('#' + token) === location.hash || (!token && !location.hash)) render(); else location.hash = token; }
+window.addEventListener('hashchange', () => { S.ui.scrollTop = true; render(); });
+
+// ---------- icons ----------
+const ICON = {
+  search: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>',
+  moon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>',
+  user: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg>',
+  mark: '<svg width="34" height="34" viewBox="0 0 34 34" aria-hidden="true"><rect x="1" y="1" width="32" height="32" rx="8" fill="var(--accent)"/><path d="M9 25V10l8 9 8-9v15" fill="none" stroke="var(--accent-ink)" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/><path d="M9 27h16" stroke="var(--accent-ink)" stroke-width="1.6" stroke-linecap="round" opacity=".7"/></svg>'
+};
+
+// ---------- shell ----------
+function shell(inner, opts = {}) {
+  const u = S.user;
+  return html`
+  <header class="bar"><div class="bar-in">
+    <button class="brand" data-act="go" data-to="" aria-label="Home">${raw(ICON.mark)}<div><span>Mr Garry's<i class="hide-sm"> · Arcadia British School Dubai</i></span><b>History Revision Hub</b></div></button>
+    <span id="savestate" class="small muted hide-sm" aria-live="polite"></span>
+    ${u ? html`<button class="iconbtn" data-act="search" aria-label="Search (press /)">${raw(ICON.search)}<span class="hide-sm">Search</span></button>` : ''}
+    <button class="iconbtn" data-act="theme" aria-label="Switch light or dark mode">${raw(ICON.moon)}</button>
+    ${u && !PREVIEW ? html`<button class="iconbtn" data-act="go" data-to="${u.role === 'teacher' ? 'teacher' : 'account'}" aria-label="${u.role === 'teacher' ? 'Teacher area' : 'My account'}">${raw(ICON.user)}<span class="hide-sm">${u.role === 'teacher' ? 'Teacher' : u.username}</span></button>` : ''}
+    ${PREVIEW ? html`<button class="iconbtn" data-act="go" data-to="account" aria-label="Preview settings">${raw(ICON.user)}<span class="hide-sm">Preview</span></button>` : ''}
+  </div></header>
+  <main id="main" tabindex="-1">
+    ${PREVIEW && !opts.noPreviewNote ? html`<div class="notice info">Preview: everything works here except sign-in, teacher tools and AI feedback. Your progress is saved in this browser only.</div>` : ''}
+    ${inner}
+  </main>`;
+}
+function crumbs(list) {
+  return html`<nav class="crumbs" aria-label="Breadcrumb"><button data-act="go" data-to="">Home</button>${list.map((c) => html`<span aria-hidden="true">›</span>${c.to != null ? html`<button data-act="go" data-to="${c.to}">${c.label}</button>` : html`<span>${c.label}</span>`}`)}</nav>`;
+}
+const courseOf = (id) => S.catalog.courses.courses.find((c) => c.id === id);
+const yearNum = (c) => c.year.replace(/\D/g, '');
+
+// ---------- views: login / home / course ----------
+function viewLogin(err) {
+  return html`<header class="bar"><div class="bar-in"><span class="brand">${raw(ICON.mark)}<div><span>Mr Garry's<i class="hide-sm"> · Arcadia British School Dubai</i></span><b>History Revision Hub</b></div></span><button class="iconbtn" data-act="theme" aria-label="Switch light or dark mode">${raw(ICON.moon)}</button></div></header>
+  <main><form class="panel login" id="loginform">
+    <h1>Sign in</h1>
+    <p class="muted">Use the username and code Mr Garry gave you.</p>
+    <label for="lu">Username<input type="text" id="lu" autocomplete="username" required autocapitalize="none" spellcheck="false"></label>
+    <label for="ls">Code or password<input type="password" id="ls" autocomplete="current-password" required></label>
+    ${err ? html`<div class="notice bad" role="alert">${err}</div>` : ''}
+    <button class="btn primary" type="submit">Sign in</button>
+    <p class="small muted">Lost your code? Ask Mr Garry to reset it.</p>
+  </form></main>`;
+}
+
+function viewHome() {
+  const cs = S.catalog.courses.courses;
+  const anyTopic = Object.keys(S.catalog.topics).length > 0;
+  return shell(html`
+    <section class="hero">
+      <p class="eyebrow">History · Key Stage 3 to International A Level</p>
+      <h1>Choose your year</h1>
+      <p>Learn the content, test your memory, practise your writing and act on feedback.</p>
+    </section>
+    <section class="years" aria-label="Year groups">
+      ${cs.map((c) => {
+        const built = Object.values(S.catalog.topics).filter((t) => t.course === c.id).length;
+        return html`<button class="year" style="--course:${c.accent}" data-act="go" data-to="${c.id}">
+          <span class="num">${yearNum(c)}</span>
+          <h3>${c.title}</h3>
+          <span class="enq">${c.enquiry}</span>
+          ${built ? html`<span class="chip ok">${built} topic${built > 1 ? 's' : ''} ready</span>` : html`<span class="chip warn">Coming soon</span>`}
+        </button>`;
+      })}
+    </section>
+    ${anyTopic ? html`<section class="panel"><div class="row" style="justify-content:space-between"><div><h2>Mixed retrieval quiz</h2><p class="muted">Ten questions drawn from every topic you can access.</p></div><button class="btn primary" data-act="go" data-to="mixed">Start</button></div></section>` : ''}
+  `);
+}
+
+function viewCourse(c) {
+  const topics = Object.values(S.catalog.topics).filter((t) => t.course === c.id);
+  const ex = c.exam;
+  return shell(html`
+    ${crumbs([{ label: c.year }])}
+    <section class="course-head" style="--course:${c.accent}">
+      <p class="eyebrow">${c.year} · ${c.stage}</p>
+      <h1>${c.title}</h1>
+      <p class="muted">${c.enquiry}</p>
+    </section>
+    ${topics.length ? html`<section class="acts" style="--course:${c.accent}">${topics.map((t) => {
+      const full = S.topics[t.id]; const st = full ? topicStats(full) : null;
+      return html`<button class="act" data-act="go" data-to="${t.id}"><span class="eyebrow">Topic</span><b>${t.title}</b>
+        ${t.status !== 'published' ? html`<span class="chip warn">Draft — students cannot see this</span>` : ''}
+        ${st ? html`<span class="small muted">${st.mastered}/${st.cards} cards mastered · quiz ${st.quiz == null ? '—' : st.quiz + '%'}</span><div class="meter" aria-hidden="true"><i style="width:${Math.round(100 * st.mastered / st.cards)}%"></i></div>` : ''}
+      </button>`;
+    })}</section>`
+    : html`<div class="notice">Revision topics for this course are being prepared. They will appear here once Mr Garry has added the course resources.</div>`}
+    ${ex ? html`<section class="panel"><h2>About the exam</h2>
+      ${ex.verified ? '' : html`<div class="notice">These details have not yet been checked against the official specification. Mr Garry will confirm them — don't rely on anything marked "to be confirmed".</div>`}
+      <div class="scroll-x"><table class="data"><tbody>
+        <tr><th scope="row">Exam board</th><td>${ex.board}</td></tr>
+        <tr><th scope="row">Qualification</th><td>${ex.qualification}</td></tr>
+        <tr><th scope="row">Specification</th><td>${ex.specification_version || html`<span class="muted">To be confirmed</span>`}</td></tr>
+        ${ex.options.map((o) => html`<tr><th scope="row">${o.area}</th><td>${o.title || html`<span class="muted">Title and code to be confirmed</span>`}${o.code ? ' · ' + o.code : ''}</td></tr>`)}
+        <tr><th scope="row">Papers, questions and marks</th><td>${ex.papers ? JSON.stringify(ex.papers) : html`<span class="muted">To be confirmed</span>`}</td></tr>
+      </tbody></table></div>
+      ${c.separation_note ? html`<p class="small muted">${c.separation_note}</p>` : ''}
+    </section>` : ''}
+    ${S.user.role === 'teacher' ? html`<section class="panel"><h2>Resources still needed</h2><ul>${c.resources_needed.map((r) => html`<li>${r}</li>`)}</ul>${c.assessment ? html`<p class="small muted">${c.assessment.notes}</p>` : ''}</section>` : ''}
+  `);
+}
+
+// ---------- topic ----------
+const TABS = [['', 'Overview'], ['learn', 'Learn'], ['quiz', 'Quizzes'], ['flash', 'Flashcards'], ['check', 'Checklist'], ['exam', 'Exam practice'], ['frames', 'Writing frames'], ['stretch', 'Stretch']];
+function topicFrame(t, tab, inner) {
+  const c = courseOf(t.course);
+  return shell(html`
+    ${crumbs([{ label: c.year, to: c.id }, { label: t.title, to: tab ? t.id : null }, ...(tab ? [{ label: TABS.find((x) => x[0] === tab)[1] }] : [])])}
+    <div style="--course:${c.accent}; display:grid; gap:18px; min-width:0">
+      <section class="course-head"><p class="eyebrow">${c.year} · ${c.title}</p><h1>${t.title}</h1></section>
+      <nav class="tabs" aria-label="Topic sections">${TABS.map(([k, l]) => html`<button data-act="go" data-to="${t.id}${k ? '.' + k : ''}" ${k === tab ? raw('aria-current="page"') : ''}>${l}</button>`)}</nav>
+      ${t.review && t.review.state === 'awaiting-teacher-check' ? html`<div class="notice small">Written for this site and awaiting Mr Garry's check against class lessons.</div>` : ''}
+      ${inner}
+    </div>`);
+}
+
+function viewOverview(t) {
+  const st = topicStats(t);
+  const rec = recommendations(t);
+  const d = daily();
+  const cards = [
+    ['learn', 'Learn', `${t.learn.sections.length} sections, timeline, key people and sources`],
+    ['quiz', 'Quizzes', st.quiz == null ? 'Not started' : `${st.quiz}% correct over ${st.answered} answers`],
+    ['flash', 'Flashcards', `${st.due} due now · ${st.mastered}/${st.cards} mastered`],
+    ['check', 'Checklist', st.rated ? `${st.rag.green} green · ${st.rag.amber} amber · ${st.rag.red} red` : 'Rate your confidence'],
+    ['exam', 'Exam practice', `${t.exam.questions.length} practice questions with feedback`],
+    ['frames', 'Writing frames', 'Sentence starters and planning grids'],
+    ['stretch', 'Stretch and challenge', `${t.stretch.length} harder tasks`]
+  ];
+  return topicFrame(t, '', html`
+    <p class="prose">${t.learn.intro}</p>
+    <section class="grid2">
+      <div class="panel"><span class="eyebrow">Today</span><div class="row" style="gap:28px"><div class="stat"><b>${d.cards}</b><span class="small muted">cards reviewed</span></div><div class="stat"><b>${d.answers}</b><span class="small muted">questions answered</span></div></div><p class="small muted">Today's counts reset tomorrow. Your long-term progress stays.</p></div>
+      <div class="panel"><span class="eyebrow">Revise next</span>${rec.length ? html`<ul style="margin:0;padding-left:1.1em;display:grid;gap:6px">${rec.map((r) => html`<li><button class="btn sm" data-act="go" data-to="${t.id}.learn" data-scroll="${r.k.sections[0]}" style="text-align:left">${r.k.text.replace(/^I can /, '')}</button> <span class="small muted">— ${r.why}</span></li>`)}</ul>` : html`<p class="muted">Rate yourself on the checklist and do a quiz — suggestions will appear here.</p>`}</div>
+    </section>
+    <section class="acts">${cards.map(([k, l, s]) => html`<button class="act" data-act="go" data-to="${t.id}.${k}"><b>${l}</b><span class="small muted">${s}</span></button>`)}</section>
+  `);
+}
+
+function blocks(bs, t) {
+  return bs.map((b) => b.p ? html`<p>${b.p}</p>` : b.ul ? html`<ul>${b.ul.map((x) => html`<li>${x}</li>`)}</ul>` : b.sources ? html`<div class="grid2">${t.learn.sources.map(sourceCard)}</div>` : '');
+}
+function sourceCard(s) {
+  return html`<article class="source"><h3>${s.title}</h3><dl><dt>Type</dt><dd>${s.type}</dd><dt>Date</dt><dd>${s.date}</dd><dt>Made by</dt><dd>${s.origin}</dd><dt>Purpose</dt><dd>${s.purpose}</dd><dt>Use with care</dt><dd>${s.usefulness}</dd></dl></article>`;
+}
+function routeFigure() {
+  return raw(`<figure class="figure" style="margin:0"><svg viewBox="0 0 640 420" role="img" aria-labelledby="mapt mapd">
+  <title id="mapt">Movements of 1066 (schematic)</title><desc id="mapd">Harold marches north from London to Stamford Bridge near York, then back south to Hastings. William crosses the Channel from Normandy to Pevensey.</desc>
+  <defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10z" fill="currentColor"/></marker></defs>
+  <rect class="sea" x="0" y="330" width="640" height="90" rx="8"/>
+  <text x="470" y="405" font-size="13" opacity=".7">English Channel</text>
+  <g font-size="14">
+    <circle class="place" cx="330" cy="60" r="7" stroke-width="2"/><text x="345" y="56">York</text>
+    <circle class="place" cx="370" cy="78" r="7" stroke-width="2"/><text x="385" y="90">Stamford Bridge · 25 Sept</text>
+    <circle class="place" cx="318" cy="86" r="6" stroke-width="2"/><text x="190" y="104">Fulford · 20 Sept</text>
+    <circle class="place" cx="370" cy="240" r="7" stroke-width="2"/><text x="385" y="245">London</text>
+    <circle class="place" cx="420" cy="312" r="7" stroke-width="2"/><text x="300" y="300">Hastings · 14 Oct</text>
+    <circle class="place" cx="450" cy="318" r="6" stroke-width="2"/><text x="465" y="314">Pevensey · 28 Sept</text>
+    <circle class="place" cx="470" cy="395" r="7" stroke-width="2"/><text x="330" y="392">Normandy</text>
+  </g>
+  <g fill="none" stroke-width="3" stroke-linecap="round">
+    <path class="route-h" style="color:var(--red)" d="M362 232 C 390 170, 395 130, 372 90" marker-end="url(#ah)"/>
+    <path class="route-h" style="color:var(--red)" d="M360 92 C 330 140, 330 200, 362 236 S 400 290, 414 304" stroke-dasharray="7 6" marker-end="url(#ah)"/>
+    <path class="route-w" style="color:var(--accent)" d="M470 386 C 470 360, 462 340, 454 326" marker-end="url(#ah)"/>
+  </g>
+  <g font-size="13"><rect x="16" y="14" width="14" height="4" fill="var(--red)"/><text x="38" y="20">Harold north (solid), then south (dashed)</text>
+  <rect x="16" y="34" width="14" height="4" fill="var(--accent)"/><text x="38" y="40">William's crossing</text>
+  <text x="16" y="62" opacity=".7">Schematic — positions not to scale</text></g>
+</svg></figure>`);
+}
+
+function viewLearn(t) {
+  const L = t.learn;
+  const toc = [['tl', 'Timeline and map'], ...L.sections.map((s) => [s.id, s.title]), ['people', 'Key people'], ['vocab', 'Key words'], ['myths', 'Common misconceptions']];
+  return topicFrame(t, 'learn', html`
+    <div class="learn">
+      <nav class="toc" aria-label="On this page">${toc.map(([id, l]) => html`<button data-act="scroll" data-id="${id}">${l}</button>`)}</nav>
+      <div style="display:grid;gap:26px;min-width:0">
+        <section class="section" id="sec-tl"><h2>Timeline and map</h2>
+          <ol class="timeline">${L.timeline.map((e) => html`<li><span class="d">${e.date}</span><span>${e.event}</span></li>`)}</ol>
+          ${routeFigure()}
+        </section>
+        ${L.sections.map((s) => html`<section class="section" id="sec-${s.id}"><h2>${s.title}</h2><div class="prose">${blocks(s.blocks, t)}</div>
+          ${s.evidence && s.evidence.length ? html`<div class="evidence"><span class="eyebrow">Precise evidence to use</span><ul>${s.evidence.map((e) => html`<li>${e}</li>`)}</ul></div>` : ''}
+          <div class="terms">${(s.terms || []).map((x) => html`<span class="chip">${x}</span>`)}</div></section>`)}
+        <section class="section" id="sec-people"><h2>Key people</h2><div class="people">${L.people.map((p) => html`<div><b>${p.name}</b><span class="muted">${p.role}</span></div>`)}</div></section>
+        <section class="section" id="sec-vocab"><h2>Key words</h2><div class="vocab">${L.vocab.map((v) => html`<div><b>${v.term}</b><span class="muted">${v.def}</span></div>`)}</div></section>
+        <section class="section" id="sec-myths"><h2>Common misconceptions</h2>${L.misconceptions.map((m) => html`<div class="myth"><div class="w"><span class="eyebrow">Myth</span><p>${m.wrong}</p></div><div class="r"><span class="eyebrow">Better</span><p>${m.right}</p></div></div>`)}</section>
+      </div>
+    </div>`);
+}
+
+// ---------- quizzes ----------
+const QMODES = [['mcq', 'Multiple choice'], ['short', 'Short answer'], ['chronology', 'Chronology'], ['matching', 'Matching'], ['evidence', 'Evidence recall'], ['mixed', 'Mixed (this topic)']];
+function buildQuiz(topics, mode, n) {
+  const items = [];
+  for (const t of topics) {
+    const Q = t.quizzes;
+    const add = (type, arr) => arr.forEach((it) => items.push({ type, it, tid: t.id }));
+    if (mode === 'mcq' || mode === 'mixed' || mode === 'global') add('mcq', Q.mcq);
+    if (mode === 'short' || mode === 'mixed' || mode === 'global') add('short', Q.short);
+    if (mode === 'chronology' || mode === 'mixed') add('chronology', Q.chronology);
+    if (mode === 'matching' || mode === 'mixed') add('matching', Q.matching);
+    if (mode === 'evidence' || mode === 'mixed') add('evidence', Q.evidence);
+  }
+  return shuffle(items).slice(0, n || items.length).map(prepItem);
+}
+function prepItem(x) {
+  if (x.type === 'mcq') x.order = shuffle(x.it.options.map((_, i) => i));
+  if (x.type === 'chronology') { let o; do { o = shuffle(x.it.items); } while (o.length > 2 && o.every((v, i) => v === x.it.items[i])); x.cur = o; }
+  if (x.type === 'matching') x.rights = shuffle(x.it.pairs.map((p) => p[1]));
+  x.done = false; x.ok = null;
+  return x;
+}
+function startQuiz(scope, topics, mode, n) { S.ui.quiz = { scope, mode, items: buildQuiz(topics, mode, n), i: 0 }; render(); }
+
+function viewQuizHome(t) {
+  const qs = S.ui.quiz && S.ui.quiz.scope === t.id ? S.ui.quiz : null;
+  if (qs) return topicFrame(t, 'quiz', quizRunner(qs));
+  return topicFrame(t, 'quiz', html`
+    <section class="panel"><h2>Choose a quiz</h2><p class="muted">Answers and explanations appear after each question. Missed questions can be retried at the end.</p>
+      <div class="acts">${QMODES.map(([m, l]) => html`<button class="act" data-act="quiz-start" data-mode="${m}"><b>${l}</b><span class="small muted">${quizCount(t, m)} items</span></button>`)}</div>
+    </section>`);
+}
+const quizCount = (t, m) => m === 'mixed' ? Object.values(t.quizzes).reduce((a, b) => a + b.length, 0) : t.quizzes[m].length;
+
+function quizRunner(qs) {
+  if (qs.i >= qs.items.length) {
+    const right = qs.items.filter((x) => x.ok).length;
+    const missed = qs.items.filter((x) => !x.ok);
+    return html`<section class="qcard" aria-live="polite"><h2>Quiz complete</h2><p class="stat"><b>${right} / ${qs.items.length}</b><span class="muted">correct</span></p>
+      <div class="row">${missed.length ? html`<button class="btn primary" data-act="quiz-retry">Retry the ${missed.length} I missed</button>` : html`<span class="chip ok">Full marks</span>`}<button class="btn" data-act="quiz-again">New quiz</button><button class="btn" data-act="quiz-exit">Back</button></div>
+      ${missed.length ? html`<details class="fold"><summary>See the questions I missed</summary><div><ul>${missed.map((x) => html`<li>${itemPrompt(x)} — <b>${itemAnswer(x)}</b></li>`)}</ul></div></details>` : ''}
+    </section>`;
+  }
+  const x = qs.items[qs.i];
+  return html`<div class="row" style="justify-content:space-between"><span class="eyebrow">Question ${qs.i + 1} of ${qs.items.length}</span><button class="btn sm" data-act="quiz-exit">End quiz</button></div>
+    <div class="meter" aria-hidden="true"><i style="width:${Math.round(100 * qs.i / qs.items.length)}%"></i></div>
+    ${renderItem(x)}`;
+}
+const itemPrompt = (x) => x.type === 'chronology' || x.type === 'matching' ? x.it.title : x.it.q;
+const itemAnswer = (x) => x.type === 'mcq' ? x.it.options[x.it.answer] : x.type === 'short' ? x.it.answer : x.type === 'chronology' ? x.it.items.join(' → ') : x.type === 'matching' ? x.it.pairs.map((p) => p[0] + ': ' + p[1]).join('; ') : x.it.model;
+
+function renderItem(x) {
+  const next = x.done ? html`<button class="btn primary" data-act="quiz-next" id="nextbtn">Next</button>` : '';
+  if (x.type === 'mcq') {
+    return html`<section class="qcard"><p class="q" id="qq">${x.it.q}</p><div class="opts" role="group" aria-labelledby="qq">
+      ${x.order.map((i) => { const cls = x.done ? (i === x.it.answer ? 'right' : i === x.pick ? 'wrong' : '') : ''; return html`<button class="opt ${cls}" data-act="mcq" data-i="${i}" ${x.done ? raw('disabled') : ''}>${x.it.options[i]}</button>`; })}
+      </div>${x.done ? html`<div class="feedback ${x.ok ? 'right' : 'wrong'}" role="status"><b>${x.ok ? 'Correct.' : 'Not quite.'}</b> ${x.it.why}</div>` : ''}${next}</section>`;
+  }
+  if (x.type === 'short') {
+    return html`<form class="qcard" data-form="short"><label for="sa" class="q">${x.it.q}</label>
+      <input type="text" id="sa" autocomplete="off" ${x.done ? raw('disabled') : ''} value="${x.given || ''}">
+      ${x.done ? html`<div class="feedback ${x.ok ? 'right' : 'wrong'}" role="status"><b>${x.ok ? 'Correct.' : 'Not quite.'}</b> Answer: ${x.it.answer}</div>${next}` : html`<div class="row"><button class="btn primary" type="submit">Check</button><button class="btn" type="button" data-act="short-skip">I don't know</button></div>`}</form>`;
+  }
+  if (x.type === 'chronology') {
+    return html`<section class="qcard"><p class="q">${x.it.title}</p><p class="small muted">Earliest at the top. Use the arrows to move events.</p>
+      <ol class="order">${x.cur.map((ev, i) => html`<li class="${x.done ? (ev === x.it.items[i] ? 'right' : 'wrong') : ''}"><span>${ev}</span>${x.done ? '' : html`<button class="btn sm" data-act="move" data-i="${i}" data-d="-1" aria-label="Move ${ev} up" ${i === 0 ? raw('disabled') : ''}>↑</button><button class="btn sm" data-act="move" data-i="${i}" data-d="1" aria-label="Move ${ev} down" ${i === x.cur.length - 1 ? raw('disabled') : ''}>↓</button>`}</li>`)}</ol>
+      ${x.done ? html`<div class="feedback ${x.ok ? 'right' : 'wrong'}" role="status"><b>${x.ok ? 'All in order.' : 'Some are out of place.'}</b> Correct order: ${x.it.items.join(' → ')}</div>${next}` : html`<button class="btn primary" data-act="chrono-check">Check order</button>`}</section>`;
+  }
+  if (x.type === 'matching') {
+    return html`<form class="qcard" data-form="match"><p class="q">${x.it.title}</p><div class="match">
+      ${x.it.pairs.map((p, i) => html`<label for="m${i}">${p[0]}</label><select id="m${i}" ${x.done ? raw('disabled') : ''}><option value="">Choose…</option>${x.rights.map((r) => html`<option ${x.picks && x.picks[i] === r ? raw('selected') : ''}>${r}</option>`)}</select>
+        ${x.done && x.picks[i] !== p[1] ? html`<span></span><span class="small" style="color:var(--red)">Correct: ${p[1]}</span>` : ''}`)}
+      </div>${x.done ? html`<div class="feedback ${x.ok ? 'right' : 'wrong'}" role="status"><b>${x.ok ? 'All matched.' : `${x.score} of ${x.it.pairs.length} matched.`}</b></div>${next}` : html`<button class="btn primary" type="submit">Check</button>`}</form>`;
+  }
+  // evidence recall
+  return html`<form class="qcard" data-form="evidence"><label for="ev" class="q">${x.it.q}</label>
+    <textarea id="ev" style="min-height:110px" ${x.done || x.revealed ? raw('disabled') : ''}>${x.given || ''}</textarea>
+    ${x.revealed ? html`<div class="feedback ${x.hit ? 'right' : 'wrong'}"><b>${x.hit ? 'You used a key piece of evidence.' : 'Check your answer against the model.'}</b><br>Model: ${x.it.model}</div>
+      ${x.done ? next : html`<p class="small">Did your answer include precise, accurate evidence like the model?</p><div class="row"><button class="btn good" type="button" data-act="ev-mark" data-ok="1">Yes, I had it</button><button class="btn bad" type="button" data-act="ev-mark" data-ok="0">No, I missed it</button></div>`}`
+      : html`<button class="btn primary" type="submit">Check</button>`}</form>`;
+}
+function answerItem(x, ok) { x.done = true; x.ok = ok; recordAnswer(x.tid, x.it.id, ok); }
+
+// ---------- flashcards ----------
+function viewFlash(t) {
+  const fs = S.ui.flash && S.ui.flash.tid === t.id ? S.ui.flash : null;
+  if (fs) return topicFrame(t, 'flash', flashRunner(t, fs));
+  const st = P(['flash', t.id]);
+  const due = t.flashcards.filter((c) => isDue(st[c.id]));
+  const pinned = t.flashcards.filter((c) => st[c.id] && st[c.id].pinned);
+  const missed = t.flashcards.filter((c) => st[c.id] && st[c.id].lastMiss);
+  const next = t.flashcards.map((c) => st[c.id]).filter((s) => s && s.seen && s.due > Date.now()).map((s) => s.due).sort()[0];
+  return topicFrame(t, 'flash', html`
+    <section class="panel"><h2>Flashcards</h2>
+      <p class="muted">Say the answer in your head, reveal, then be honest. Cards you get right come back later (1, 3, 7, 14, then 30 days). Cards you miss come back in the same session.</p>
+      <div class="row" style="gap:28px"><div class="stat"><b>${due.length}</b><span class="small muted">due now</span></div><div class="stat"><b>${topicStats(t).mastered}</b><span class="small muted">mastered (box 3+)</span></div><div class="stat"><b>${pinned.length}</b><span class="small muted">pinned</span></div></div>
+      ${!due.length && next ? html`<p class="small muted">Next card due ${new Date(next).toLocaleDateString(undefined, { weekday: 'long', day: 'numeric', month: 'short' })}.</p>` : ''}
+      <label class="row" style="font-weight:400"><input type="checkbox" id="hintsOn" ${S.ui.hints !== false ? raw('checked') : ''} style="width:auto;min-height:0"> Show hint button</label>
+      <div class="row">
+        <button class="btn primary" data-act="flash-start" data-set="due" ${due.length ? '' : raw('disabled')}>Start (${Math.min(due.length, 20)} cards)</button>
+        <button class="btn" data-act="flash-start" data-set="pinned" ${pinned.length ? '' : raw('disabled')}>Review pinned</button>
+        <button class="btn" data-act="flash-start" data-set="missed" ${missed.length ? '' : raw('disabled')}>Review last missed (${missed.length})</button>
+        <button class="btn" data-act="flash-start" data-set="all">Drill all ${t.flashcards.length}</button>
+      </div>
+    </section>`);
+}
+function flashRunner(t, fs) {
+  if (fs.i >= fs.queue.length) {
+    return html`<section class="qcard" aria-live="polite"><h2>Session complete</h2><div class="row" style="gap:28px"><div class="stat"><b>${fs.got}</b><span class="small muted">got it</span></div><div class="stat"><b>${fs.missed}</b><span class="small muted">missed (then repeated)</span></div></div>
+      <div class="row"><button class="btn primary" data-act="flash-exit">Finish</button></div></section>`;
+  }
+  const c = t.flashcards.find((x) => x.id === fs.queue[fs.i]);
+  const st = cardState(t.id, c.id) || {};
+  return html`
+    <div class="row" style="justify-content:space-between"><span class="eyebrow">Card ${fs.i + 1} of ${fs.queue.length}</span>
+      <div class="row"><button class="pin" data-act="pin" data-id="${c.id}" aria-pressed="${st.pinned ? 'true' : 'false'}">${st.pinned ? 'Pinned' : 'Pin card'}</button><button class="btn sm" data-act="flash-exit">End</button></div></div>
+    <div class="flash" data-act="flip" role="button" tabindex="0" aria-label="${fs.flipped ? 'Answer shown' : 'Show answer'}">
+      <div class="face"><b>${c.q}</b>${fs.flipped ? html`<p class="ans">${c.a}</p>` : fs.hint ? html`<p class="muted">Hint: ${c.hint}</p>` : html`<p class="small muted">Tap or press Space to reveal</p>`}</div>
+    </div>
+    <div class="row" style="justify-content:center">
+      ${fs.flipped ? html`<button class="btn bad" data-act="flash-mark" data-ok="0">Missed</button><button class="btn good" data-act="flash-mark" data-ok="1" id="gotbtn">Got it</button>`
+      : html`${S.ui.hints !== false && c.hint ? html`<button class="btn" data-act="hint">Hint</button>` : ''}<button class="btn primary" data-act="flip" id="flipbtn">Reveal answer</button>`}
+    </div>`;
+}
+
+// ---------- checklist ----------
+const LEVEL = { describe: 'Describe', explain: 'Explain', judge: 'Make a judgement' };
+function viewCheck(t) {
+  const ck = P(['check', t.id]);
+  const rec = recommendations(t);
+  return topicFrame(t, 'check', html`
+    <section class="panel"><h2>Personal learning checklist</h2>
+      <p class="muted">Rate how confident you feel. Your quiz results are shown separately, so you can see if your confidence matches what you remember.</p>
+      ${rec.length ? html`<div class="notice info"><b>Revise next:</b> ${rec.map((r, i) => html`${i ? '; ' : ''}${r.k.text.replace(/^I can /, '')} (${r.why})`)}</div>` : ''}
+      <div>${t.checklist.map((k) => {
+        const acc = k.sections.map((s) => sectionAccuracy(t, s)).reduce((a, b) => ({ r: a.r + b.r, w: a.w + b.w }), { r: 0, w: 0 });
+        const p = pct(acc.r, acc.w);
+        return html`<div class="check"><div class="txt"><span>${k.text}</span><span class="row" style="gap:8px"><span class="chip lvl-${k.level}">${LEVEL[k.level]}</span><span class="small muted">Quiz: ${p == null ? 'no answers yet' : `${p}% of ${acc.r + acc.w}`}</span><button class="btn sm" data-act="go" data-to="${t.id}.learn" data-scroll="${k.sections[0]}">Revise</button></span></div>
+          <div class="rag" role="group" aria-label="Confidence for: ${k.text}">${['red', 'amber', 'green'].map((v) => html`<button data-act="rag" data-id="${k.id}" data-v="${v}" aria-pressed="${ck[k.id] === v ? 'true' : 'false'}">${v[0].toUpperCase() + v.slice(1)}</button>`)}</div></div>`;
+      })}</div>
+    </section>`);
+}
+
+// ---------- exam practice ----------
+const QTYPE = { describe: 'Describe', explain: 'Explain', judge: 'Judgement' };
+function viewExamList(t) {
+  return topicFrame(t, 'exam', html`
+    ${t.exam.criteria_status !== 'verified' ? html`<div class="notice">${t.exam.criteria_note}</div>` : ''}
+    <section class="acts">${t.exam.questions.map((q) => html`<button class="act" data-act="go" data-to="${t.id}.exam.${q.id}"><span class="row" style="gap:6px"><span class="chip lvl-${q.type}">${QTYPE[q.type]}</span><span class="chip mono">${q.minutes} min</span></span><b>${q.q}</b><span class="small muted">${q.label}</span></button>`)}</section>`);
+}
+
+function frameBlock(q, level) {
+  if (level === 'none') return html`<p class="small muted">No frame — independent practice. Plan first, then write.</p>`;
+  const lines = level === 'full' ? q.frame.full : q.frame.some;
+  return html`<div class="frame"><span class="eyebrow">${level === 'full' ? 'Sentence starters' : 'Paragraph headings'}</span><ol>${lines.map((l) => html`<li>${l}</li>`)}</ol>
+    ${q.judgementPrompts && level !== 'none' ? html`<span class="eyebrow" style="margin-top:6px">Judgement questions</span><ul style="margin:0;padding-left:1.1em">${q.judgementPrompts.map((x) => html`<li>${x}</li>`)}</ul>` : ''}</div>`;
+}
+
+function feedbackView(s, all) {
+  const ai = s.ai, tr = s.teacher;
+  const parent = s.parent_id ? all.find((x) => x.id === s.parent_id) : null;
+  return html`<article class="fb">
+    <div class="row" style="justify-content:space-between"><span class="eyebrow">${parent ? 'Redraft' : 'Attempt'} · ${new Date(s.created_at).toLocaleString()}</span><span class="chip ${s.status === 'marked' ? 'ok' : s.status === 'error' ? 'bad' : ''}">${{ draft: 'Saved draft (private)', submitted: 'Sent to Mr Garry', marked: 'Feedback ready', error: 'Feedback failed', marking: 'Preparing feedback' }[s.status] || s.status}</span></div>
+    ${tr ? html`<div class="notice info"><b>Mr Garry's review${tr.overrides_ai ? ' (replaces the AI mark)' : ''}:</b> ${tr.mark != null ? html`<span class="mono">${tr.mark}${tr.max ? '/' + tr.max : ''}</span>${tr.level ? ' · ' + tr.level : ''} — ` : ''}${tr.comment}</div>` : ''}
+    ${s.status === 'error' ? html`<div class="notice bad">${s.ai_error || 'Feedback failed.'} Your writing is saved.</div>` : ''}
+    ${parent ? html`<div class="compare"><div><span class="eyebrow">Before</span>\n${parent.text}</div><div><span class="eyebrow">After</span>\n${s.text}</div></div>` : html`<details class="fold"><summary>My response (${wordsIn(s.text)} words)</summary><div><p style="white-space:pre-wrap">${s.text}</p></div></details>`}
+    ${ai ? html`
+      <div class="markbox">${ai.mode === 'indicative' && ai.mark != null ? html`<b>${ai.mark}/${ai.max}</b><span>${ai.level || ''}</span><span class="chip warn">Indicative AI mark — Mr Garry may change it</span>` : html`<span class="chip">Formative feedback — no mark</span>`}</div>
+      ${ai.comparison ? html`<div><h4>What changed since your last draft</h4><p>${ai.comparison}</p></div>` : ''}
+      ${ai.judgement_evidence.length ? html`<div><h4>Evidence from your answer</h4><ul>${ai.judgement_evidence.map((e) => html`<li>"${e.quote}" — ${e.comment}</li>`)}</ul></div>` : ''}
+      ${ai.ao_feedback.length ? html`<div><h4>Assessment objectives</h4><ul>${ai.ao_feedback.map((a) => html`<li><b>${a.ao}:</b> ${a.comment}</li>`)}</ul></div>` : ''}
+      ${ai.strengths.length ? html`<div><h4>Strengths</h4><ul>${ai.strengths.map((x) => html`<li>${x}</li>`)}</ul></div>` : ''}
+      ${ai.corrections.length ? html`<div><h4>Factual corrections</h4><ul>${ai.corrections.map((c) => html`<li>You wrote: ${c.error} → ${c.correction}</li>`)}</ul></div>` : ''}
+      ${ai.improvements.length ? html`<div><h4>Improve next (most important first)</h4><ol>${ai.improvements.map((x) => html`<li>${x}</li>`)}</ol></div>` : ''}
+      ${ai.example_improvement ? html`<div><h4>Example improvement</h4><div class="compare"><div><span class="eyebrow">Yours</span>\n${ai.example_improvement.original}</div><div><span class="eyebrow">Improved</span>\n${ai.example_improvement.improved}</div></div></div>` : ''}
+      ${ai.redraft_task ? html`<div class="notice info"><b>Redraft task:</b> ${ai.redraft_task}</div>` : ''}
+      ${ai.missing && ai.missing.length ? html`<p class="small muted">${ai.missing.join(' ')}</p>` : ''}
+      <p class="small muted">Feedback by ${ai.provider || 'AI'} (${ai.model || ''}). It can make mistakes — check it against your notes.</p>` : ''}
+    <div class="row">
+      ${s.status === 'draft' || s.status === 'error' ? html`<button class="btn" data-act="sub-load" data-id="${s.id}">Edit this draft</button>` : ''}
+      ${s.status === 'marked' || s.status === 'submitted' ? html`<button class="btn primary" data-act="sub-redraft" data-id="${s.id}">Redraft using this feedback</button>` : ''}
+      <button class="btn sm" data-act="sub-del" data-id="${s.id}">${S.ui.confirmDel === s.id ? 'Tap again to delete' : 'Delete'}</button>
+    </div>
+  </article>`;
+}
+
+function viewExamQ(t, q) {
+  const key = `${t.id}.${q.id}`;
+  const ui = S.ui.exam && S.ui.exam.key === key ? S.ui.exam : (S.ui.exam = { key, level: 'full', mode: 'supported', subId: null, parentId: null, text: lsGet('hub-draft-' + key, '') });
+  const mine = (S.subs || []).filter((s) => s.topic_id === t.id && s.question_id === q.id);
+  const ai = S.ai || { available: false, reasons: ['Checking…'] };
+  return topicFrame(t, 'exam', html`
+    <div><button class="btn sm" data-act="go" data-to="${t.id}.exam">← All practice questions</button></div>
+    <section class="panel"><div class="row" style="gap:6px"><span class="chip lvl-${q.type}">${QTYPE[q.type]}</span><span class="chip mono">${q.minutes} min</span><span class="chip">${q.label}</span></div><h2>${q.q}</h2></section>
+    <section style="display:grid;gap:8px">
+      <details class="fold" open><summary>What the question asks</summary><div><p>${q.asks}</p></div></details>
+      <details class="fold"><summary>Step-by-step approach</summary><div><ol>${q.steps.map((s) => html`<li>${s}</li>`)}</ol></div></details>
+      <details class="fold"><summary>Planning and timing</summary><div><p>${q.plan}</p></div></details>
+      <details class="fold"><summary>Success criteria${q.markscheme && q.markscheme.verified ? '' : ' (draft)'}</summary><div>${q.markscheme && q.markscheme.verified ? '' : html`<p class="small muted">Teacher-created draft — department criteria not yet added.</p>`}<ul>${q.success.map((s) => html`<li>${s}</li>`)}</ul></div></details>
+      <details class="fold"><summary>Common mistakes</summary><div><ul>${q.mistakes.map((s) => html`<li>${s}</li>`)}</ul></div></details>
+      <details class="fold"><summary>Annotated model answer (teacher-written)</summary><div class="model">${q.model.map((m) => html`<div class="seg"><p>${m.t}</p><em>${m.n}</em></div>`)}<p class="small muted">An example extract, not the only way to answer.</p></div></details>
+    </section>
+    <section class="panel" id="practice">
+      <div class="row" style="justify-content:space-between"><h2>${ui.parentId ? 'Redraft' : 'Practice'}</h2>
+        <div class="seg-ctl" role="group" aria-label="Practice mode">${[['supported', 'Supported'], ['independent', 'Independent']].map(([k, l]) => html`<button data-act="exam-mode" data-v="${k}" aria-pressed="${ui.mode === k}">${l}</button>`)}</div></div>
+      ${ui.mode === 'supported' ? html`<div class="row"><span class="small muted">Support:</span><div class="seg-ctl" role="group" aria-label="Amount of support">${[['full', 'Sentence starters'], ['some', 'Headings only'], ['none', 'None']].map(([k, l]) => html`<button data-act="exam-level" data-v="${k}" aria-pressed="${ui.level === k}">${l}</button>`)}</div></div>${frameBlock(q, ui.level)}`
+        : html`<div class="row"><span class="small muted">Work without support, in the time you'd have in a test.</span><button class="btn sm" data-act="timer" data-min="${q.minutes}">${S.ui.timer && S.ui.timer.key === key ? 'Restart timer' : `Start ${q.minutes}-minute timer`}</button><span id="timer" class="mono" aria-live="off"></span></div>`}
+      <label for="answer">${ui.parentId ? 'Improve your answer using the feedback' : 'Your answer'}<textarea id="answer" data-key="${key}" spellcheck="true">${ui.text}</textarea></label>
+      <div class="row" style="justify-content:space-between"><span class="small muted" id="wc">${wordsIn(ui.text)} words · draft kept on this device as you type</span>
+        <div class="row"><button class="btn" data-act="sub-save">Save draft</button>${PREVIEW ? '' : html`<button class="btn" data-act="sub-send">Send to Mr Garry</button>`}<button class="btn primary" data-act="sub-feedback" ${ai.available ? '' : raw('aria-describedby="ainote"')}>Save and get AI feedback</button></div></div>
+      ${!ai.available ? html`<p class="small muted" id="ainote">AI feedback is unavailable right now: ${ai.reasons.join(' ')} You can still save your answer${PREVIEW ? '' : ' or send it to Mr Garry'}.</p>` : html`<p class="small muted">Feedback is generated by ${ai.provider}. Limits apply each day.</p>`}
+      <div id="exammsg" aria-live="polite"></div>
+    </section>
+    ${mine.length ? html`<section style="display:grid;gap:12px"><h2>My attempts</h2>${mine.map((s) => feedbackView(s, mine))}</section>` : ''}
+  `);
+}
+
+// ---------- frames & stretch ----------
+function viewFrames(t) {
+  const plan = P(['notes', t.id, 'plan']);
+  const lvl = S.ui.frameLevel || 'full';
+  return topicFrame(t, 'frames', html`
+    <section class="panel"><div class="row" style="justify-content:space-between"><h2>Writing frames</h2>
+      <div class="seg-ctl" role="group" aria-label="Amount of support">${[['full', 'Sentence starters'], ['some', 'Headings only']].map(([k, l]) => html`<button data-act="frame-level" data-v="${k}" aria-pressed="${lvl === k}">${l}</button>`)}</div></div>
+      <p class="muted">Each question type needs a different shape. Start with sentence starters, then switch to headings only as you get more confident.</p>
+      <div class="grid2">${t.exam.questions.map((q) => html`<div style="display:grid;gap:8px"><span class="row" style="gap:6px"><span class="chip lvl-${q.type}">${QTYPE[q.type]}</span></span><b>${q.q}</b>${frameBlock(q, lvl)}</div>`)}</div>
+    </section>
+    <section class="panel"><h2>Planning grid: why did William win?</h2><p class="muted">Fill one row per factor, then decide which mattered most. Saved automatically.</p>
+      <div class="scroll-x"><table class="grid-plan"><thead><tr><th>Factor</th><th>Precise evidence</th><th>How it helped William</th><th>How decisive? (how long, how much, how directly)</th></tr></thead><tbody>
+      ${['Luck', "William's leadership", 'Norman tactics', "Harold's decisions", 'English weaknesses'].map((f, i) => html`<tr><th scope="row">${f}</th>${['e', 'h', 'd'].map((k) => html`<td><label class="sr" for="pl-${i}-${k}">${f} ${k}</label><textarea id="pl-${i}-${k}" data-plan="${i}-${k}">${plan[i + '-' + k] || ''}</textarea></td>`)}</tr>`)}
+      </tbody></table></div>
+      <label for="pl-j">My judgement: the most important factor was … because …<textarea id="pl-j" data-plan="j" style="min-height:90px">${plan.j || ''}</textarea></label>
+    </section>`);
+}
+function viewStretch(t) {
+  const notes = P(['notes', t.id, 'stretch']);
+  return topicFrame(t, 'stretch', html`
+    <section style="display:grid;gap:12px">${t.stretch.map((s) => html`<article class="panel"><span class="eyebrow">${s.kind}</span><p>${s.task}</p><label for="st-${s.id}" class="sr">My response</label><textarea id="st-${s.id}" data-stretch="${s.id}" style="min-height:120px" placeholder="Your thinking — saved automatically">${notes[s.id] || ''}</textarea></article>`)}</section>`);
+}
+
+// ---------- mixed retrieval ----------
+function viewMixed() {
+  const qs = S.ui.quiz && S.ui.quiz.scope === 'global' ? S.ui.quiz : null;
+  return shell(html`${crumbs([{ label: 'Mixed retrieval quiz' }])}<h1>Mixed retrieval quiz</h1>
+    ${qs ? quizRunner(qs) : html`<section class="panel"><p class="muted">Multiple-choice and short-answer questions from every topic you can access, in random order.</p><div class="row"><button class="btn primary" data-act="mixed-start" data-n="10">10 questions</button><button class="btn" data-act="mixed-start" data-n="20">20 questions</button></div></section>`}`);
+}
+
+// ---------- account ----------
+function viewAccount() {
+  return shell(html`${crumbs([{ label: PREVIEW ? 'Preview settings' : 'My account' }])}<section class="panel"><h1>${PREVIEW ? 'Preview' : S.user.username}</h1>
+    ${PREVIEW ? html`<p class="muted">Progress in this preview is saved in this browser only.</p>` : html`<p class="muted">Your progress and answers are private: only you and Mr Garry can see them.</p>`}
+    <div class="row"><button class="btn" data-act="mydata">Download my data</button>
+    ${PREVIEW ? html`<button class="btn bad" data-act="reset-preview">${S.ui.confirmReset ? 'Tap again to erase' : 'Erase preview progress'}</button>` : html`<button class="btn" data-act="logout">Sign out</button>`}</div>
+    <p class="small muted">${PREVIEW ? '' : 'AI feedback on written answers is generated by Anthropic\'s Claude API. Only your answer text and the question are sent — not your name.'}</p></section>`);
+}
+
+// ---------- search ----------
+function searchIndex() {
+  const out = [];
+  for (const t of Object.values(S.topics)) {
+    out.push({ label: 'Topic', title: t.title, text: t.learn.intro, to: t.id });
+    for (const s of t.learn.sections) out.push({ label: 'Learn', title: s.title, text: s.blocks.map((b) => b.p || (b.ul || []).join(' ')).join(' ') + ' ' + (s.terms || []).join(' '), to: t.id + '.learn', scroll: s.id });
+    for (const v of t.learn.vocab) out.push({ label: 'Key word', title: v.term, text: v.def, to: t.id + '.learn', scroll: 'vocab' });
+    for (const p of t.learn.people) out.push({ label: 'Person', title: p.name, text: p.role, to: t.id + '.learn', scroll: 'people' });
+    for (const e of t.learn.timeline) out.push({ label: 'Date', title: e.date, text: e.event, to: t.id + '.learn', scroll: 'tl' });
+    for (const c of t.flashcards) out.push({ label: 'Flashcard', title: c.q, text: c.a, to: t.id + '.flash' });
+  }
+  return out;
+}
+function openSearch() {
+  const ov = document.createElement('div');
+  ov.className = 'overlay'; ov.setAttribute('role', 'dialog'); ov.setAttribute('aria-modal', 'true'); ov.setAttribute('aria-label', 'Search');
+  ov.innerHTML = '<div class="box"><label for="q" class="sr">Search</label><input type="text" id="q" placeholder="Search people, dates, key words…" autocomplete="off"><div class="results" id="res"><p class="small muted">Try: Witan, Pevensey, housecarl, Hardrada</p></div></div>';
+  document.body.appendChild(ov);
+  const idx = searchIndex();
+  const input = ov.querySelector('#q'), res = ov.querySelector('#res');
+  const close = () => { ov.remove(); document.removeEventListener('keydown', onKey); };
+  const onKey = (e) => { if (e.key === 'Escape') close(); };
+  document.addEventListener('keydown', onKey);
+  ov.addEventListener('click', (e) => { if (e.target === ov) close(); const b = e.target.closest('[data-to]'); if (b) { close(); S.ui.scrollTo = b.dataset.scroll || null; go(b.dataset.to); } });
+  input.addEventListener('input', () => {
+    const q = norm(input.value); if (q.length < 2) { res.innerHTML = ''; return; }
+    const terms = q.split(' ');
+    const hits = idx.filter((x) => { const h = norm(x.title + ' ' + x.text); return terms.every((w) => h.includes(w)); }).slice(0, 12);
+    res.innerHTML = hits.length ? hits.map((h) => fmt(html`<button data-to="${h.to}" data-scroll="${h.scroll || ''}"><span class="eyebrow">${h.label}</span><b>${h.title}</b><span class="small muted">${h.text.slice(0, 110)}${h.text.length > 110 ? '…' : ''}</span></button>`)).join('') : '<p class="small muted">No matches.</p>';
+  });
+  input.focus();
+}
+
+// ---------- teacher ----------
+const TT = [['', 'Submissions'], ['students', 'Students'], ['schemes', 'Mark schemes'], ['content', 'Content'], ['settings', 'AI and limits'], ['backup', 'Backup and export']];
+function teacherFrame(tab, inner) {
+  return shell(html`${crumbs([{ label: 'Teacher area' }])}<h1>Teacher area</h1>
+    <nav class="tabs" aria-label="Teacher sections">${TT.map(([k, l]) => html`<button data-act="go" data-to="teacher${k ? '.' + k : ''}" ${k === tab ? raw('aria-current="page"') : ''}>${l}</button>`)}</nav>
+    <div id="tmsg" aria-live="polite"></div>${inner}
+    <div class="row"><button class="btn sm" data-act="logout">Sign out</button></div>`);
+}
+async function tload(key, url) { if (!S.teacher[key]) { S.teacher[key] = 'loading'; try { S.teacher[key] = await Store.call('GET', url); } catch (e) { S.teacher[key] = { error: e.message }; } render(); } return S.teacher[key]; }
+const loading = html`<p class="muted">Loading…</p>`;
+
+function viewTeacher(tab, arg) {
+  if (tab === 'sub') { tab = ''; } else arg = null;
+  if (tab === '') {
+    const d = S.teacher.subs; if (!d || d === 'loading') { tload('subs', '/api/teacher/submissions'); return teacherFrame(tab, loading); }
+    if (arg) {
+      const s = d.submissions.find((x) => x.id === arg); if (!s) return teacherFrame(tab, html`<p>Not found.</p>`);
+      const tr = s.teacher || {};
+      return teacherFrame(tab, html`<button class="btn sm" data-act="go" data-to="teacher">← All submissions</button>
+        <section class="panel"><span class="eyebrow">${s.username} · ${s.class || ''} · ${s.topic_id} ${s.question_id}</span>${feedbackView({ ...s, teacher: null }, d.submissions)}</section>
+        <form class="panel" data-form="review" data-id="${s.id}"><h2>Your review</h2><p class="small muted">The student sees your review above the AI feedback. Tick "replaces AI mark" to override.</p>
+          <div class="grid2"><label for="rv-m">Mark<input type="number" id="rv-m" value="${tr.mark ?? ''}"></label><label for="rv-x">Out of<input type="number" id="rv-x" value="${tr.max ?? (s.ai && s.ai.max) ?? ''}"></label><label for="rv-l">Level<input type="text" id="rv-l" value="${tr.level || ''}"></label></div>
+          <label for="rv-c">Comment<textarea id="rv-c" style="min-height:120px">${tr.comment || ''}</textarea></label>
+          <label class="row" style="font-weight:400"><input type="checkbox" id="rv-o" style="width:auto;min-height:0" ${tr.overrides_ai || !s.ai ? raw('checked') : ''}> My review replaces the AI mark</label>
+          <button class="btn primary" type="submit">Save review</button></form>`);
+    }
+    return teacherFrame(tab, html`<section class="panel"><div class="row" style="justify-content:space-between"><h2>Submissions</h2><button class="btn sm" data-act="trefresh" data-k="subs">Refresh</button></div>
+      ${d.submissions.length ? html`<div class="scroll-x"><table class="data"><thead><tr><th>Student</th><th>Question</th><th>Status</th><th>AI</th><th>You</th><th></th></tr></thead><tbody>
+      ${d.submissions.map((s) => html`<tr><td>${s.username}<br><span class="small muted">${s.class || ''}</span></td><td>${s.question_id}${s.parent_id ? ' (redraft)' : ''}</td><td>${s.status}</td><td class="mono">${s.ai ? (s.ai.mark != null ? s.ai.mark + '/' + s.ai.max : 'formative') : '—'}</td><td class="mono">${s.teacher ? (s.teacher.mark != null ? s.teacher.mark : '✓') : '—'}</td><td><button class="btn sm" data-act="go" data-to="teacher.sub.${s.id}">Open</button></td></tr>`)}
+      </tbody></table></div>` : html`<p class="muted">No submitted work yet. Drafts that students have not sent for feedback stay private to them until they ask for feedback.</p>`}</section>`);
+  }
+  if (tab === 'students') {
+    const d = S.teacher.students; if (!d || d === 'loading') { tload('students', '/api/teacher/students'); return teacherFrame(tab, loading); }
+    const made = S.teacher.made;
+    return teacherFrame(tab, html`
+      <form class="panel" data-form="mkstudents"><h2>Add students</h2><p class="muted">One per line: <span class="mono">username, class</span>. Use pseudonymous usernames (for example <span class="mono">7a.amira.k</span>); no emails are stored.</p>
+        <label for="mk">Students<textarea id="mk" style="min-height:120px" placeholder="7a.amira.k, 7A&#10;7a.ben.t, 7A"></textarea></label><button class="btn primary" type="submit">Create accounts</button></form>
+      ${made ? html`<section class="panel"><h2>New sign-in codes</h2><div class="notice">Shown once. Copy them now and give each student their own.</div><pre class="code" id="codes">${made.map((m) => `${m.username}\t${m.code}\t${m.class || ''}`).join('\n')}</pre><button class="btn" data-act="copy" data-src="codes">Copy all</button></section>` : ''}
+      <section class="panel"><h2>Students (${d.students.length})</h2>${d.students.length ? html`<div class="scroll-x"><table class="data"><thead><tr><th>Username</th><th>Class</th><th>Last active</th><th>Answers</th><th></th></tr></thead><tbody>
+      ${d.students.map((s) => html`<tr><td>${s.username}</td><td>${s.class || ''}</td><td class="small">${s.last_active ? new Date(s.last_active).toLocaleDateString() : '—'}</td><td class="mono">${s.submissions}</td><td class="row" style="gap:6px"><button class="btn sm" data-act="reset-code" data-id="${s.id}">New code</button><button class="btn sm" data-act="export-student" data-id="${s.id}" data-u="${s.username}">Export</button><button class="btn sm bad" data-act="del-student" data-id="${s.id}">${S.ui.confirmDel === s.id ? 'Tap again: delete all data' : 'Delete'}</button></td></tr>`)}
+      </tbody></table></div>` : html`<p class="muted">No students yet.</p>`}</section>`);
+  }
+  if (tab === 'schemes') {
+    return teacherFrame(tab, html`<section class="panel"><h2>Mark schemes</h2><p class="muted">AI feedback gives an indicative mark only for questions with a verified mark scheme. Without one it gives formative feedback and no mark. Enter the department's criteria exactly; do not add separate AO marks unless your scheme awards them.</p></section>
+      ${Object.values(S.topics).map((t) => t.exam.questions.map((q) => { const m = q.markscheme || {}; const id = t.id + '|' + q.id; return html`<form class="panel" data-form="scheme" data-t="${t.id}" data-q="${q.id}"><span class="eyebrow">${t.title}</span><h3>${q.q}</h3>
+        <div class="grid2"><label for="ms-s-${id}">Source of criteria<input type="text" id="ms-s-${id}" name="source" value="${m.source || ''}" placeholder="e.g. Arcadia KS3 History criteria 2026"></label><label for="ms-x-${id}">Maximum marks<input type="number" id="ms-x-${id}" name="max" value="${m.max_marks ?? ''}"></label></div>
+        <label for="ms-l-${id}">Levels — one per line: <span class="mono">Level | marks | descriptor</span><textarea id="ms-l-${id}" name="levels" style="min-height:120px">${(m.levels || []).map((l) => `${l.level} | ${l.marks} | ${l.descriptor}`).join('\n')}</textarea></label>
+        <label for="ms-i-${id}">Indicative content (optional, one per line)<textarea id="ms-i-${id}" name="indicative" style="min-height:80px">${(m.indicative_content || []).join('\n')}</textarea></label>
+        <label class="row" style="font-weight:400"><input type="checkbox" name="ao" style="width:auto;min-height:0" ${m.ao_separate ? raw('checked') : ''}> Assessment objectives are marked separately in this scheme</label>
+        <label class="row" style="font-weight:400"><input type="checkbox" name="verified" style="width:auto;min-height:0" ${m.verified ? raw('checked') : ''}> I have checked this against the official or department document (enables indicative marks)</label>
+        <button class="btn primary" type="submit">Save mark scheme</button></form>`; }))}`);
+  }
+  if (tab === 'content') {
+    const d = S.teacher.content; if (!d || d === 'loading') { tload('content', '/api/teacher/content'); return teacherFrame(tab, loading); }
+    const ed = S.teacher.editing;
+    return teacherFrame(tab, html`<section class="panel"><h2>Content</h2><p class="muted">Edit any course or topic as JSON. Draft topics are hidden from students. Changes save to the server; use Backup and export for copies.</p>
+      <table class="data"><thead><tr><th>Item</th><th>Status</th><th>Updated</th><th></th></tr></thead><tbody>${d.items.map((c) => html`<tr><td class="mono">${c.id}</td><td><span class="chip ${c.status === 'published' ? 'ok' : 'warn'}">${c.status}</span></td><td class="small">${new Date(c.updated_at).toLocaleString()}</td><td><button class="btn sm" data-act="edit-content" data-id="${c.id}">Edit</button></td></tr>`)}</tbody></table>
+      <div class="row"><label for="imp" class="btn">Import a topic or course file<input type="file" id="imp" accept=".json,application/json" class="sr"></label><button class="btn" data-act="export-content">Download all content</button></div></section>
+      ${ed ? html`<form class="panel" data-form="content" data-id="${ed.id}"><h2>Editing <span class="mono">${ed.id}</span></h2><label for="cj">JSON<textarea id="cj" style="min-height:420px;font-family:var(--mono);font-size:.85rem">${JSON.stringify(ed.data, null, 2)}</textarea></label>
+        <label for="cs">Status<select id="cs"><option value="draft" ${ed.status === 'draft' ? raw('selected') : ''}>Draft (hidden from students)</option><option value="published" ${ed.status === 'published' ? raw('selected') : ''}>Published</option></select></label>
+        <div class="row"><button class="btn primary" type="submit">Validate and save</button><button class="btn" type="button" data-act="edit-close">Close</button></div></form>` : ''}`);
+  }
+  if (tab === 'settings') {
+    const d = S.teacher.settings; if (!d || d === 'loading') { tload('settings', '/api/teacher/settings'); return teacherFrame(tab, loading); }
+    const u = S.teacher.usage; if (!u) tload('usage', '/api/teacher/usage');
+    const s = d.settings;
+    const f = (k, l, help, step = '1') => html`<label for="set-${k}">${l}<input type="number" step="${step}" id="set-${k}" name="${k}" value="${s[k] ?? ''}">${help ? html`<span class="small muted" style="font-weight:400">${help}</span>` : ''}</label>`;
+    return teacherFrame(tab, html`
+      <section class="panel"><h2>AI feedback status</h2>${d.ai.available ? html`<div class="notice info">Available — ${d.ai.provider}, model <span class="mono">${d.ai.model}</span>.</div>` : html`<div class="notice">Unavailable: ${d.ai.reasons.join(' ')}</div>`}
+        <p>This month: <b class="mono">$${d.ai.spent_usd.toFixed(2)}</b> of <b class="mono">$${d.ai.budget_usd}</b>.</p>
+        ${u && u !== 'loading' && u.by_day ? html`<details class="fold"><summary>Usage by day</summary><div><table class="data"><thead><tr><th>Day</th><th>Requests</th><th>Cost (USD)</th></tr></thead><tbody>${u.by_day.map((r) => html`<tr><td class="mono">${r.day}</td><td class="mono">${r.requests}</td><td class="mono">${r.usd.toFixed(4)}</td></tr>`)}</tbody></table></div></details>` : ''}</section>
+      <form class="panel" data-form="settings"><h2>AI and limits</h2>
+        <label class="row" style="font-weight:400"><input type="checkbox" name="ai_enabled" style="width:auto;min-height:0" ${s.ai_enabled ? raw('checked') : ''}> AI feedback switched on</label>
+        <label for="set-ai_model">Model<input type="text" id="set-ai_model" name="ai_model" value="${s.ai_model}"></label>
+        <div class="grid2">
+          ${f('price_input_per_mtok', 'Input price (USD per million tokens)', 'Copy from the provider\'s pricing page. Required.', '0.01')}
+          ${f('price_output_per_mtok', 'Output price (USD per million tokens)', 'Required.', '0.01')}
+          ${f('monthly_budget_usd', 'Monthly ceiling (USD)', 'Requests that could exceed this are refused before they are sent.', '0.5')}
+          ${f('max_output_tokens', 'Longest AI reply (tokens)')}
+          ${f('max_words', 'Longest student answer (words)')}
+          ${f('daily_marks_per_student', 'Feedback requests per student per day')}
+          ${f('cooldown_seconds', 'Seconds between requests (per student)')}
+          ${f('max_resubmissions', 'Redrafts allowed per answer')}
+        </div>
+        <p class="small muted">The ceiling is enforced by this website using the prices you enter. Also set a spending limit in your Anthropic Console account as a second safeguard.</p>
+        <button class="btn primary" type="submit">Save settings</button></form>
+      <form class="panel" data-form="password"><h2>Change your password</h2><div class="grid2"><label for="pw1">Current<input type="password" id="pw1" autocomplete="current-password"></label><label for="pw2">New (10+ characters)<input type="password" id="pw2" autocomplete="new-password"></label></div><button class="btn" type="submit">Change password</button></form>`);
+  }
+  if (tab === 'backup') {
+    return teacherFrame(tab, html`<section class="panel"><h2>Backup</h2><p class="muted">A full backup contains all accounts, content, progress, submissions and settings. Keep it somewhere secure — it includes students' work.</p>
+      <div class="row"><button class="btn primary" data-act="backup">Download full backup</button><button class="btn" data-act="export-progress">Download all progress</button><button class="btn" data-act="export-content">Download all content</button></div></section>
+      <section class="panel"><h2>Restore</h2><div class="notice bad">Restoring replaces everything on this site with the backup, and signs everyone out.</div>
+      <label for="restore" class="btn">Choose backup file<input type="file" id="restore" accept=".json,application/json" class="sr"></label>
+      ${S.teacher.pendingRestore ? html`<p>Ready to restore backup from <b>${S.teacher.pendingRestore.created_at}</b> (${S.teacher.pendingRestore.users.length} accounts).</p><div class="row"><button class="btn bad" data-act="restore-go">Replace everything with this backup</button><button class="btn" data-act="restore-cancel">Cancel</button></div>` : ''}</section>`);
+  }
+  return teacherFrame(tab, html`<p>Unknown section.</p>`);
+}
+
+// ---------- render ----------
+let lastTopicPromise = {};
+async function ensureTopic(id) {
+  if (S.topics[id]) return S.topics[id];
+  if (!lastTopicPromise[id]) lastTopicPromise[id] = Store.topic(id).then((t) => { S.topics[id] = t; return t; }).catch((e) => { delete lastTopicPromise[id]; throw e; });
+  return lastTopicPromise[id];
+}
+function render() {
+  if (!S.user) { root.innerHTML = viewLogin(S.ui.loginError).s; return; }
+  const r = parseRoute();
+  let out;
+  try {
+    if (!r.a) out = viewHome();
+    else if (r.a === 'mixed') out = viewMixed();
+    else if (r.a === 'account') out = viewAccount();
+    else if (r.a === 'teacher' && S.user.role === 'teacher') out = viewTeacher(r.b, r.c);
+    else if (courseOf(r.a)) out = viewCourse(courseOf(r.a));
+    else if (S.catalog.topics[r.a]) {
+      const t = S.topics[r.a];
+      if (!t) { ensureTopic(r.a).then(render, (e) => toast(e.message)); out = shell(html`<p class="muted">Loading…</p>`); }
+      else if (!r.b) out = viewOverview(t);
+      else if (r.b === 'learn') out = viewLearn(t);
+      else if (r.b === 'quiz') out = viewQuizHome(t);
+      else if (r.b === 'flash') out = viewFlash(t);
+      else if (r.b === 'check') out = viewCheck(t);
+      else if (r.b === 'exam') { const q = t.exam.questions.find((x) => x.id === r.c); out = q ? viewExamQ(t, q) : viewExamList(t); if (q && !S.subs) loadSubs(); }
+      else if (r.b === 'frames') out = viewFrames(t);
+      else if (r.b === 'stretch') out = viewStretch(t);
+    }
+    if (!out) out = shell(html`<section class="panel"><h1>Page not found</h1><button class="btn" data-act="go" data-to="">Go home</button></section>`);
+  } catch (e) { console.error(e); out = shell(html`<div class="notice bad">Something went wrong showing this page: ${e.message}</div>`); }
+  const y = window.scrollY;
+  root.innerHTML = out.s;
+  paintSave();
+  if (S.ui.scrollTo) { const el = document.getElementById('sec-' + S.ui.scrollTo); S.ui.scrollTo = null; if (el) { el.scrollIntoView(); S.ui.scrollTop = false; return; } }
+  if (S.ui.scrollTop) { window.scrollTo(0, 0); S.ui.scrollTop = false; const m = document.getElementById('main'); if (m) m.focus({ preventScroll: true }); } else window.scrollTo(0, y);
+  if (S.ui.focus) { const el = document.getElementById(S.ui.focus); S.ui.focus = null; if (el) el.focus(); }
+}
+async function loadSubs() {
+  try { const r = await Store.submissions(); S.subs = r.submissions; S.ai = r.ai; } catch (e) { S.subs = []; S.ai = { available: false, reasons: [e.message] }; }
+  render();
+}
+function toast(msg) {
+  const t = document.createElement('div'); t.className = 'toast'; t.setAttribute('role', 'status'); t.textContent = msg;
+  document.body.appendChild(t); setTimeout(() => t.remove(), 3500);
+}
+function download(name, data) {
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click();
+  setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+}
+function examMsg(m, bad) { const el = document.getElementById('exammsg'); if (el) el.innerHTML = fmt(html`<div class="notice ${bad ? 'bad' : 'info'}">${m}</div>`); }
+function tmsg(m, bad) { const el = document.getElementById('tmsg'); if (el) el.innerHTML = fmt(html`<div class="notice ${bad ? 'bad' : 'info'}">${m}</div>`); else toast(m); }
+
+// ---------- actions ----------
+const curTopic = () => S.topics[parseRoute().a];
+const A = {
+  go: (el) => { if (el.dataset.scroll) S.ui.scrollTo = el.dataset.scroll; S.ui.quiz = null; S.ui.flash = null; go(el.dataset.to); },
+  theme: () => {
+    const cur = document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    const next = cur === 'dark' ? 'light' : 'dark'; document.documentElement.dataset.theme = next; lsSet('hub-theme', next);
+  },
+  search: () => openSearch(),
+  scroll: (el) => { const s = document.getElementById('sec-' + el.dataset.id); if (s) { s.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); s.setAttribute('tabindex', '-1'); s.focus({ preventScroll: true }); } },
+  'quiz-start': (el) => startQuiz(curTopic().id, [curTopic()], el.dataset.mode),
+  'mixed-start': (el) => startQuiz('global', Object.values(S.topics), 'global', +el.dataset.n),
+  'quiz-exit': () => { S.ui.quiz = null; render(); },
+  'quiz-again': () => { const q = S.ui.quiz; S.ui.quiz = null; if (q.scope === 'global') startQuiz('global', Object.values(S.topics), 'global', q.items.length); else render(); },
+  'quiz-retry': () => { const q = S.ui.quiz; q.items = q.items.filter((x) => !x.ok).map((x) => prepItem({ type: x.type, it: x.it, tid: x.tid })); q.i = 0; render(); },
+  'quiz-next': () => { S.ui.quiz.i++; S.ui.focus = 'nextfocus'; render(); const f = document.querySelector('.qcard .opt, .qcard input, .qcard textarea, .qcard select, .qcard .btn'); if (f) f.focus(); },
+  mcq: (el) => { const x = S.ui.quiz.items[S.ui.quiz.i]; x.pick = +el.dataset.i; answerItem(x, x.pick === x.it.answer); render(); focusNext(); },
+  'short-skip': () => { const x = S.ui.quiz.items[S.ui.quiz.i]; x.given = ''; answerItem(x, false); render(); focusNext(); },
+  move: (el) => { const x = S.ui.quiz.items[S.ui.quiz.i]; const i = +el.dataset.i, j = i + +el.dataset.d; [x.cur[i], x.cur[j]] = [x.cur[j], x.cur[i]]; render(); const b = document.querySelectorAll('.order li')[j]?.querySelector(`[data-d="${el.dataset.d}"]`) || document.querySelectorAll('.order li')[j]?.querySelector('button'); if (b) b.focus(); },
+  'chrono-check': () => { const x = S.ui.quiz.items[S.ui.quiz.i]; answerItem(x, x.cur.every((v, i) => v === x.it.items[i])); render(); focusNext(); },
+  'ev-mark': (el) => { const x = S.ui.quiz.items[S.ui.quiz.i]; answerItem(x, el.dataset.ok === '1'); render(); focusNext(); },
+  'flash-start': (el) => {
+    const t = curTopic(); const st = P(['flash', t.id]); const set = el.dataset.set;
+    let ids = t.flashcards.map((c) => c.id);
+    if (set === 'due') ids = shuffle(ids.filter((id) => isDue(st[id]))).slice(0, 20);
+    if (set === 'pinned') ids = ids.filter((id) => st[id] && st[id].pinned);
+    if (set === 'missed') ids = ids.filter((id) => st[id] && st[id].lastMiss);
+    if (set === 'all') ids = shuffle(ids);
+    const h = document.getElementById('hintsOn'); if (h) S.ui.hints = h.checked;
+    S.ui.flash = { tid: t.id, queue: ids, i: 0, flipped: false, hint: false, got: 0, missed: 0, missedOnce: {} }; render(); document.getElementById('flipbtn')?.focus();
+  },
+  'flash-exit': () => { S.ui.flash = null; render(); },
+  flip: () => { const f = S.ui.flash; if (!f || f.flipped) return; f.flipped = true; render(); document.getElementById('gotbtn')?.focus(); },
+  hint: () => { S.ui.flash.hint = true; render(); document.getElementById('flipbtn')?.focus(); },
+  'flash-mark': (el) => {
+    const f = S.ui.flash; const t = curTopic(); const id = f.queue[f.i]; const st = cardState(t.id, id) || { box: 0 };
+    const ok = el.dataset.ok === '1';
+    if (ok) {
+      const box = f.missedOnce[id] ? 1 : Math.min((st.box || 0) + 1, 5);
+      setCard(t.id, id, { box, due: Date.now() + BOX_DAYS[box] * 864e5 - 3600e3, got: (st.got || 0) + 1, seen: true, lastMiss: !!f.missedOnce[id] });
+      if (!f.missedOnce[id]) f.got++;
+    } else {
+      setCard(t.id, id, { box: 0, due: Date.now(), miss: (st.miss || 0) + 1, seen: true, lastMiss: true });
+      if (!f.missedOnce[id]) f.missed++;
+      f.missedOnce[id] = true; f.queue.push(id);
+    }
+    daily().cards++; persist();
+    f.i++; f.flipped = false; f.hint = false; render(); document.getElementById('flipbtn')?.focus();
+  },
+  pin: (el) => { const t = curTopic(); const st = cardState(t.id, el.dataset.id) || {}; setCard(t.id, el.dataset.id, { pinned: !st.pinned }); render(); document.querySelector('.pin')?.focus(); },
+  rag: (el) => { const t = curTopic(); const ck = P(['check', t.id]); ck[el.dataset.id] = ck[el.dataset.id] === el.dataset.v ? undefined : el.dataset.v; if (!ck[el.dataset.id]) delete ck[el.dataset.id]; persist(); render(); document.querySelector(`[data-act="rag"][data-id="${el.dataset.id}"][data-v="${el.dataset.v}"]`)?.focus(); },
+  'exam-mode': (el) => { S.ui.exam.mode = el.dataset.v; render(); },
+  'exam-level': (el) => { S.ui.exam.level = el.dataset.v; render(); },
+  'frame-level': (el) => { S.ui.frameLevel = el.dataset.v; render(); },
+  timer: (el) => {
+    clearInterval(S.ui.timerId); const end = Date.now() + +el.dataset.min * 60e3; S.ui.timer = { key: S.ui.exam.key, end };
+    const tick = () => { const sp = document.getElementById('timer'); if (!sp) { clearInterval(S.ui.timerId); return; } const left = Math.max(0, end - Date.now()); sp.textContent = left ? `${Math.floor(left / 60000)}:${String(Math.floor(left / 1000) % 60).padStart(2, '0')} left` : 'Time is up — finish your sentence.'; if (!left) clearInterval(S.ui.timerId); };
+    S.ui.timerId = setInterval(tick, 1000); tick();
+  },
+  'sub-save': () => saveAnswer(false),
+  'sub-send': () => saveAnswer('send'),
+  'sub-feedback': () => saveAnswer(true),
+  'sub-load': (el) => { const s = S.subs.find((x) => x.id === el.dataset.id); Object.assign(S.ui.exam, { subId: s.id, parentId: s.parent_id, text: s.text }); render(); document.getElementById('answer')?.focus(); },
+  'sub-redraft': (el) => { const s = S.subs.find((x) => x.id === el.dataset.id); Object.assign(S.ui.exam, { subId: null, parentId: s.id, text: s.text, mode: 'supported' }); render(); const a = document.getElementById('practice'); a?.scrollIntoView(); document.getElementById('answer')?.focus(); },
+  'sub-del': async (el) => {
+    const id = el.dataset.id; if (S.ui.confirmDel !== id) { S.ui.confirmDel = id; render(); return; }
+    S.ui.confirmDel = null;
+    try { await Store.deleteSub(id); S.subs = S.subs.filter((x) => x.id !== id); if (S.ui.exam && S.ui.exam.subId === id) S.ui.exam.subId = null; render(); toast('Deleted'); } catch (e) { toast(e.message); }
+  },
+  mydata: async () => { try { download('my-history-hub-data.json', await Store.myData()); } catch (e) { toast(e.message); } },
+  'reset-preview': () => { if (!S.ui.confirmReset) { S.ui.confirmReset = true; render(); return; } S.ui.confirmReset = false; S.progress = {}; S.subs = []; try { localStorage.removeItem('hub-preview-progress'); localStorage.removeItem('hub-preview-subs'); } catch {} render(); toast('Preview progress erased'); },
+  logout: async () => { try { await Store.logout(); } catch {} S.user = null; S.progress = {}; S.subs = null; S.teacher = {}; S.topics = {}; lastTopicPromise = {}; history.replaceState(null, '', location.pathname); render(); },
+  // teacher
+  trefresh: (el) => { S.teacher[el.dataset.k] = null; render(); },
+  copy: async (el) => { const t = document.getElementById(el.dataset.src).textContent; try { await navigator.clipboard.writeText(t); toast('Copied'); } catch { const r = document.createRange(); r.selectNodeContents(document.getElementById(el.dataset.src)); getSelection().removeAllRanges(); getSelection().addRange(r); toast('Selected — press Ctrl+C to copy'); } },
+  'reset-code': async (el) => { try { const r = await Store.call('POST', `/api/teacher/students/${el.dataset.id}/reset-code`); S.teacher.made = [r]; render(); } catch (e) { tmsg(e.message, true); } },
+  'export-student': async (el) => { try { download(`student-${el.dataset.u}.json`, await Store.call('GET', `/api/teacher/students/${el.dataset.id}/export`)); } catch (e) { tmsg(e.message, true); } },
+  'del-student': async (el) => {
+    const id = el.dataset.id; if (S.ui.confirmDel !== id) { S.ui.confirmDel = id; render(); return; }
+    S.ui.confirmDel = null; try { await Store.call('DELETE', `/api/teacher/students/${id}`); S.teacher.students = null; S.teacher.subs = null; render(); toast('Student and all their data deleted'); } catch (e) { tmsg(e.message, true); }
+  },
+  'edit-content': async (el) => { try { const r = await Store.call('GET', '/api/teacher/content/' + encodeURIComponent(el.dataset.id)); S.teacher.editing = r; render(); document.getElementById('cj')?.focus(); } catch (e) { tmsg(e.message, true); } },
+  'edit-close': () => { S.teacher.editing = null; render(); },
+  'export-content': async () => {
+    try { const list = await Store.call('GET', '/api/teacher/content'); const items = []; for (const c of list.items) items.push(await Store.call('GET', '/api/teacher/content/' + encodeURIComponent(c.id))); download(`history-hub-content-${today()}.json`, { format: 'history-hub-content', exported_at: new Date().toISOString(), items }); } catch (e) { tmsg(e.message, true); }
+  },
+  'export-progress': async () => { try { download(`history-hub-progress-${today()}.json`, await Store.call('GET', '/api/teacher/progress')); } catch (e) { tmsg(e.message, true); } },
+  backup: async () => { try { download(`history-hub-backup-${today()}.json`, await Store.call('GET', '/api/teacher/backup')); } catch (e) { tmsg(e.message, true); } },
+  'restore-cancel': () => { S.teacher.pendingRestore = null; render(); },
+  'restore-go': async () => { try { await Store.call('POST', '/api/teacher/restore', S.teacher.pendingRestore); S.teacher = {}; S.user = null; S.ui.loginError = 'Backup restored. Please sign in again.'; render(); } catch (e) { tmsg(e.message, true); } }
+};
+function focusNext() { document.getElementById('nextbtn')?.focus(); }
+
+async function saveAnswer(withFeedback) {
+  const ui = S.ui.exam; const [tid, , qid] = [parseRoute().a, null, parseRoute().c];
+  const text = document.getElementById('answer').value;
+  if (!text.trim()) { examMsg('Write your answer first.', true); return; }
+  try {
+    let sub;
+    const existing = ui.subId && S.subs.find((x) => x.id === ui.subId);
+    if (existing && (existing.status === 'draft' || existing.status === 'error')) sub = await Store.updateSub(ui.subId, text);
+    else sub = await Store.createSub({ topic_id: tid, question_id: qid, text, parent_id: ui.parentId || undefined });
+    S.subs = [sub, ...S.subs.filter((x) => x.id !== sub.id)];
+    ui.subId = sub.id; ui.text = text;
+    if (!withFeedback) { render(); examMsg(PREVIEW ? 'Saved in this browser.' : 'Draft saved. Only you can see it until you send it or ask for feedback.'); return; }
+    if (withFeedback === 'send') {
+      try { const sent = await Store.submitSub(sub.id); S.subs = [sent, ...S.subs.filter((x) => x.id !== sent.id)]; ui.subId = null; ui.parentId = null; ui.text = ''; lsSet('hub-draft-' + ui.key, ''); render(); examMsg('Sent to Mr Garry.'); }
+      catch (e) { render(); examMsg(e.message, true); }
+      return;
+    }
+    examMsg('Preparing feedback… this can take up to a minute. Your answer is already saved.');
+    const btns = document.querySelectorAll('[data-act="sub-feedback"],[data-act="sub-save"]'); btns.forEach((b) => b.disabled = true);
+    try {
+      const marked = await Store.feedback(sub.id);
+      S.subs = [marked, ...S.subs.filter((x) => x.id !== marked.id)];
+      ui.subId = null; ui.parentId = null; ui.text = ''; lsSet('hub-draft-' + ui.key, '');
+      render(); document.querySelector('.fb')?.scrollIntoView();
+    } catch (e) {
+      try { const r = await Store.submissions(); S.subs = r.submissions; S.ai = r.ai; } catch {}
+      render(); examMsg(e.message, true);
+    }
+  } catch (e) { examMsg('Not saved: ' + e.message + ' Your text is still kept on this device.', true); }
+}
+
+document.addEventListener('click', (e) => {
+  const el = e.target.closest('[data-act]'); if (!el || !root.contains(el) && !el.closest('.overlay')) return;
+  const fn = A[el.dataset.act]; if (fn) { e.preventDefault(); fn(el, e); }
+});
+document.addEventListener('keydown', (e) => {
+  const tag = (e.target.tagName || '').toLowerCase(); const typing = tag === 'input' || tag === 'textarea' || tag === 'select';
+  if (e.key === '/' && !typing && S.user && !document.querySelector('.overlay')) { e.preventDefault(); openSearch(); }
+  if (S.ui.flash && !typing && (e.key === ' ' || e.key === 'Enter') && e.target.classList.contains('flash')) { e.preventDefault(); A.flip(); }
+});
+let typeTimer = null;
+document.addEventListener('input', (e) => {
+  const el = e.target;
+  if (el.id === 'answer') {
+    S.ui.exam.text = el.value; lsSet('hub-draft-' + el.dataset.key, el.value);
+    const wc = document.getElementById('wc'); if (wc) wc.textContent = `${wordsIn(el.value)} words · draft kept on this device as you type`;
+  } else if (el.dataset.plan) { P(['notes', curTopic().id, 'plan'])[el.dataset.plan] = el.value; clearTimeout(typeTimer); typeTimer = setTimeout(persist, 600); }
+  else if (el.dataset.stretch) { P(['notes', curTopic().id, 'stretch'])[el.dataset.stretch] = el.value; clearTimeout(typeTimer); typeTimer = setTimeout(persist, 600); }
+  else if (el.id === 'hintsOn') S.ui.hints = el.checked;
+});
+document.addEventListener('change', async (e) => {
+  const el = e.target;
+  if (el.id === 'hintsOn') S.ui.hints = el.checked;
+  if (el.id === 'imp' && el.files[0]) {
+    try {
+      const data = JSON.parse(await el.files[0].text());
+      let id; if (Array.isArray(data.courses)) id = 'courses'; else if (data.id && data.course) id = 'topic:' + data.id; else throw new Error('This file is not a topic or course file.');
+      await Store.call('PUT', '/api/teacher/content/' + encodeURIComponent(id), { data, status: 'draft' });
+      S.teacher.content = null; render(); tmsg(`Imported ${id} as a draft. Publish it when ready.`);
+    } catch (err) { tmsg('Import failed: ' + err.message, true); }
+  }
+  if (el.id === 'restore' && el.files[0]) {
+    try { const b = JSON.parse(await el.files[0].text()); if (b.format !== 'history-hub-backup') throw new Error('Not a Revision Hub backup.'); S.teacher.pendingRestore = b; render(); } catch (err) { tmsg(err.message, true); }
+  }
+});
+document.addEventListener('submit', async (e) => {
+  const f = e.target; e.preventDefault();
+  if (f.id === 'loginform') {
+    try { S.user = await Store.login(f.querySelector('#lu').value, f.querySelector('#ls').value); S.ui.loginError = null; await boot(); }
+    catch (err) { S.ui.loginError = err.message; render(); document.getElementById('lu')?.focus(); }
+    return;
+  }
+  const kind = f.dataset.form; const qs = S.ui.quiz;
+  if (kind === 'short') { const x = qs.items[qs.i]; x.given = f.querySelector('#sa').value; if (!x.given.trim()) return; answerItem(x, shortMatch(x.given, x.it.accept)); render(); focusNext(); }
+  if (kind === 'match') { const x = qs.items[qs.i]; x.picks = x.it.pairs.map((_, i) => f.querySelector('#m' + i).value); x.score = x.it.pairs.filter((p, i) => x.picks[i] === p[1]).length; answerItem(x, x.score === x.it.pairs.length); render(); focusNext(); }
+  if (kind === 'evidence') { const x = qs.items[qs.i]; x.given = f.querySelector('#ev').value; if (!x.given.trim()) return; const g = ' ' + norm(x.given) + ' '; x.hit = x.it.keywords.every((grp) => grp.some((k) => g.includes(norm(k)))); x.revealed = true; render(); document.querySelector('[data-act="ev-mark"]')?.focus(); }
+  if (kind === 'review') {
+    try {
+      await Store.call('PUT', `/api/teacher/submissions/${f.dataset.id}/review`, { mark: f.querySelector('#rv-m').value, max: f.querySelector('#rv-x').value, level: f.querySelector('#rv-l').value, comment: f.querySelector('#rv-c').value, overrides_ai: f.querySelector('#rv-o').checked });
+      S.teacher.subs = null; go('teacher'); toast('Review saved');
+    } catch (err) { tmsg(err.message, true); }
+  }
+  if (kind === 'mkstudents') {
+    const students = f.querySelector('#mk').value.split('\n').map((l) => l.split(',').map((x) => x.trim())).filter((x) => x[0]).map(([username, cls]) => ({ username, class: cls }));
+    try { const r = await Store.call('POST', '/api/teacher/students', { students }); S.teacher.made = r.created; S.teacher.students = null; render(); } catch (err) { tmsg(err.message, true); }
+  }
+  if (kind === 'scheme') {
+    const t = S.topics[f.dataset.t]; const q = t.exam.questions.find((x) => x.id === f.dataset.q);
+    const get = (n) => f.querySelector(`[name="${n}"]`);
+    const levels = get('levels').value.split('\n').map((l) => l.split('|').map((x) => x.trim())).filter((x) => x[0]).map(([level, marks, ...d]) => ({ level, marks, descriptor: d.join(' | ') }));
+    const max = get('max').value === '' ? null : +get('max').value;
+    const verified = get('verified').checked;
+    if (verified && (!Number.isFinite(max) || max <= 0 || !levels.length)) { tmsg('A verified mark scheme needs a maximum mark and at least one level.', true); return; }
+    const empty = !get('source').value && max == null && !levels.length;
+    q.markscheme = empty ? null : { verified, source: get('source').value, max_marks: max, levels, indicative_content: get('indicative').value.split('\n').map((x) => x.trim()).filter(Boolean), ao_separate: get('ao').checked };
+    if (q.markscheme && verified) t.exam.criteria_status = t.exam.questions.every((x) => x.markscheme && x.markscheme.verified) ? 'verified' : t.exam.criteria_status;
+    try {
+      const cur = await Store.call('GET', '/api/teacher/content/' + encodeURIComponent('topic:' + t.id));
+      await Store.call('PUT', '/api/teacher/content/' + encodeURIComponent('topic:' + t.id), { data: t, status: cur.status });
+      tmsg('Mark scheme saved.'); window.scrollTo(0, 0);
+    } catch (err) { tmsg(err.message, true); }
+  }
+  if (kind === 'content') {
+    let data; try { data = JSON.parse(f.querySelector('#cj').value); } catch (err) { tmsg('That is not valid JSON: ' + err.message, true); return; }
+    try { await Store.call('PUT', '/api/teacher/content/' + encodeURIComponent(f.dataset.id), { data, status: f.querySelector('#cs').value }); S.teacher.content = null; S.teacher.editing = null; S.topics = {}; lastTopicPromise = {}; S.catalog = await Store.catalog(); await loadAllTopics(); render(); tmsg('Saved.'); } catch (err) { tmsg(err.message, true); }
+  }
+  if (kind === 'settings') {
+    const b = {}; f.querySelectorAll('input[name]').forEach((i) => { b[i.name] = i.type === 'checkbox' ? i.checked : i.type === 'number' ? (i.value === '' ? null : +i.value) : i.value; });
+    try { S.teacher.settings = await Store.call('PUT', '/api/teacher/settings', b); render(); tmsg('Settings saved.'); } catch (err) { tmsg(err.message, true); }
+  }
+  if (kind === 'password') {
+    try { await Store.call('POST', '/api/teacher/password', { current: f.querySelector('#pw1').value, next: f.querySelector('#pw2').value }); f.reset(); tmsg('Password changed.'); } catch (err) { tmsg(err.message, true); }
+  }
+});
+
+// ---------- boot ----------
+async function loadAllTopics() { await Promise.all(Object.keys(S.catalog.topics).map((id) => ensureTopic(id).catch(() => null))); }
+async function boot() {
+  try {
+    if (!S.user) S.user = await Store.me();
+    if (!S.user) { render(); return; }
+    S.catalog = await Store.catalog(); S.ai = S.catalog.ai;
+    if (S.user.role === 'student') S.progress = (await Store.loadProgress()) || {};
+    await loadAllTopics();
+    render();
+  } catch (e) {
+    root.innerHTML = fmt(html`<main><div class="notice bad">The Revision Hub could not load: ${e.message}. Check your connection and refresh.</div></main>`);
+  }
+}
+const th = lsGet('hub-theme', null); if (th) document.documentElement.dataset.theme = th;
+boot();
+})();
+
+</script>

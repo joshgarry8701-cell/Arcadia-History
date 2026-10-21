@@ -1,0 +1,13 @@
+{
+  "name": "mr-garry-history-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mr Garry's History Revision Hub — Arcadia British School Dubai",
+  "license": "UNLICENSED",
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node --no-warnings server/index.js",
+    "test": "node --no-warnings --test test/*.test.js",
+    "build:preview": "node scripts/build-preview.js"
+  }
+}
