@@ -20,8 +20,8 @@ Add students in **Teacher area › Students**. AI feedback stays off until you a
 |---|---|
 | `server/` | Web server, sign-in, permissions, AI marking, limits, backups |
 | `public/` | The website students and you use |
-| `content/courses.json` | The six courses, verified exam structures and question-type guides with mark schemes |
-| `content/topics/*.json` | One file per topic: Year 7 (1), Year 11 (20), Year 12 (8), Year 13 (6) |
+| `content/courses.json` | The seven courses, verified exam structures and question-type guides with mark schemes |
+| `content/topics/*.json` | One file per topic: Year 7 (1), Year 10 (10), Year 11 (10), Year 12 (8), Year 13 (10) |
 | `docs/CURRICULUM_MAP.md` | Curriculum map and the list of missing documents |
 | `docs/DEPLOYMENT.md` | Putting it online |
 | `docs/MAINTENANCE.md` | Adding topics, mark schemes, backups and restores |
@@ -29,4 +29,7 @@ Add students in **Teacher area › Students**. AI feedback stays off until you a
 | `test/` | Automated tests (`npm test`) |
 | `scripts/build-preview.js` | Builds the one-page preview (`npm run build:preview`) |
 | `scripts/validate-content.js` | Checks topic files for mistakes |
+| `scripts/build-handbook.js` | Writes the readable content handbook and one combined data file |
+| `scripts/build-pack.sh` | Builds the Lovable / Google AI Studio build pack (`npm run build:pack`) |
+| `docs/ai-builders/` | Prompts and product spec for rebuilding the site with AI builders |
 | `public/mr-garry.webp` | Photo on the home page |

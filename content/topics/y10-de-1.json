@@ -1,0 +1,619 @@
+{
+  "id": "y10-de-1",
+  "course": "y10",
+  "area": "de",
+  "kt": "Key topic 1",
+  "order": 1,
+  "title": "The establishment of the Weimar Republic and its early problems",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following 4HI1 Depth study 3, key topic 1. Read more: Payne, Pearson Edexcel International GCSE Germany, chapter 1 (pp. 2–23)."
+  },
+  "learn": {
+    "intro": "In November 1918 the Kaiser abdicated and Germany became a democracy. Within five years the new Weimar Republic faced a hated peace treaty, uprisings from left and right, a French invasion of the Ruhr and hyperinflation.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. The Kaiser's abdication and the German Revolution, 1918–19",
+        "blocks": [
+          {
+            "p": "By autumn 1918 Germany was losing the war and its people were starving because of the British naval blockade. In late October sailors at Kiel mutinied rather than sail on a final mission. Workers' and soldiers' councils took control in many cities."
+          },
+          {
+            "p": "On 9 November 1918 Kaiser Wilhelm II abdicated and fled to the Netherlands. Friedrich Ebert, leader of the Social Democrats (SPD), became head of government and a republic was declared. Two days later, on 11 November, the new government signed the armistice ending the fighting."
+          },
+          {
+            "p": "Elections in January 1919 chose a National Assembly. Because Berlin was dangerous, it met in the quiet town of Weimar — giving the Republic its name."
+          }
+        ],
+        "terms": [
+          "abdication",
+          "armistice",
+          "Social Democrats (SPD)",
+          "National Assembly"
+        ],
+        "evidence": [
+          "Late October 1918: Kiel mutiny.",
+          "9 November 1918: Kaiser abdicates.",
+          "11 November 1918: armistice signed.",
+          "January 1919: National Assembly elected; meets at Weimar."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 1"
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. The Weimar Constitution: strengths and weaknesses",
+        "blocks": [
+          {
+            "ul": [
+              "Strength: very democratic — men and women over 20 could vote; the Reichstag was elected every four years.",
+              "Strength: a Bill of Rights guaranteed freedoms such as free speech and religion.",
+              "Weakness: proportional representation meant many small parties, so governments were coalitions that often collapsed.",
+              "Weakness: Article 48 let the President rule by decree in an emergency — later used to bypass the Reichstag.",
+              "Weakness: judges, army officers and civil servants from the Kaiser's time stayed in their jobs, and many disliked the Republic."
+            ]
+          }
+        ],
+        "terms": [
+          "constitution",
+          "proportional representation",
+          "coalition",
+          "Article 48"
+        ],
+        "evidence": [
+          "Votes for men and women over 20.",
+          "President elected every 7 years; Article 48 emergency powers."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 1"
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Reactions to the Treaty of Versailles",
+        "blocks": [
+          {
+            "p": "The Treaty of Versailles was signed on 28 June 1919. Germany lost about 13 per cent of its land, including Alsace-Lorraine and land given to Poland, and all its colonies. Its army was limited to 100,000 men, with no tanks, air force or submarines, and the Rhineland was demilitarised. Under the 'war guilt' clause (Article 231) Germany accepted blame for the war, and in 1921 reparations were set at £6,600 million."
+          },
+          {
+            "p": "Germans were furious. They called it a Diktat — a dictated peace — because they had not been allowed to negotiate. The politicians who signed it were called the 'November criminals', and many believed the 'stab in the back' myth that the army had been betrayed by politicians. The Republic was linked with humiliation from the start."
+          }
+        ],
+        "terms": [
+          "Treaty of Versailles",
+          "Diktat",
+          "war guilt clause",
+          "reparations",
+          "November criminals",
+          "stab in the back"
+        ],
+        "evidence": [
+          "28 June 1919: Treaty signed.",
+          "Army limited to 100,000.",
+          "Reparations £6,600 million (1921)."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 1"
+        ]
+      },
+      {
+        "id": "s4",
+        "title": "4. Challenges from the Left and Right",
+        "blocks": [
+          {
+            "p": "Left: in January 1919 the communist Spartacists, led by Rosa Luxemburg and Karl Liebknecht, tried to seize power in Berlin. Ebert used the army and the Freikorps — ex-soldiers who hated communism — to crush the rising. Luxemburg and Liebknecht were murdered."
+          },
+          {
+            "p": "Right: in March 1920 Wolfgang Kapp led Freikorps units into Berlin in the Kapp Putsch. The army refused to stop them and the government fled. Workers in Berlin called a general strike; with the city at a standstill, Kapp gave up within days."
+          },
+          {
+            "p": "Right-wing extremists also murdered politicians, including Matthias Erzberger (1921) and Foreign Minister Walther Rathenau (1922). Judges often gave right-wing offenders light sentences."
+          }
+        ],
+        "terms": [
+          "Spartacists",
+          "Freikorps",
+          "putsch",
+          "general strike"
+        ],
+        "evidence": [
+          "January 1919: Spartacist rising.",
+          "March 1920: Kapp Putsch defeated by a general strike.",
+          "1922: Rathenau assassinated."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 1"
+        ]
+      },
+      {
+        "id": "s5",
+        "title": "5. The Ruhr occupation and hyperinflation, 1923",
+        "blocks": [
+          {
+            "p": "When Germany failed to make a reparations payment, French and Belgian troops occupied the Ruhr, Germany's main industrial area, in January 1923, to take goods instead. The government told workers to use passive resistance — to go on strike — and kept paying them by printing more money."
+          },
+          {
+            "p": "Causes of hyperinflation: the government had already printed money to pay for the war; reparations drained gold and goods; the Ruhr occupation cut production while the government printed even more money. By November 1923 a loaf of bread cost about 200 billion marks."
+          },
+          {
+            "p": "Effects: savers, pensioners and people on fixed incomes were ruined; wages could not keep up with prices; some people bartered goods. But some gained: people who had borrowed money paid off debts cheaply, and some businessmen bought up property. Many middle-class Germans blamed the Republic."
+          }
+        ],
+        "terms": [
+          "Ruhr",
+          "passive resistance",
+          "hyperinflation",
+          "fixed income"
+        ],
+        "evidence": [
+          "January 1923: French and Belgian troops occupy the Ruhr.",
+          "November 1923: a loaf of bread cost about 200 billion marks."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 1"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "Oct–Nov 1918",
+        "event": "Kiel mutiny and revolution spread"
+      },
+      {
+        "date": "9 Nov 1918",
+        "event": "Kaiser Wilhelm II abdicates"
+      },
+      {
+        "date": "11 Nov 1918",
+        "event": "Armistice signed"
+      },
+      {
+        "date": "Jan 1919",
+        "event": "Spartacist rising crushed"
+      },
+      {
+        "date": "28 June 1919",
+        "event": "Treaty of Versailles signed"
+      },
+      {
+        "date": "March 1920",
+        "event": "Kapp Putsch"
+      },
+      {
+        "date": "1922",
+        "event": "Walther Rathenau assassinated"
+      },
+      {
+        "date": "Jan 1923",
+        "event": "French and Belgian troops occupy the Ruhr"
+      },
+      {
+        "date": "Nov 1923",
+        "event": "Hyperinflation at its worst"
+      }
+    ],
+    "people": [
+      {
+        "name": "Kaiser Wilhelm II",
+        "role": "German Emperor; abdicated 9 November 1918."
+      },
+      {
+        "name": "Friedrich Ebert",
+        "role": "SPD leader; first President of the Republic."
+      },
+      {
+        "name": "Rosa Luxemburg and Karl Liebknecht",
+        "role": "Spartacist leaders, killed January 1919."
+      },
+      {
+        "name": "Wolfgang Kapp",
+        "role": "Led the right-wing putsch of 1920."
+      },
+      {
+        "name": "Walther Rathenau",
+        "role": "Foreign Minister murdered by right-wing extremists in 1922."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Republic",
+        "def": "A country with an elected head of state instead of a monarch."
+      },
+      {
+        "term": "Reparations",
+        "def": "Payments for war damage."
+      },
+      {
+        "term": "Putsch",
+        "def": "An attempt to seize power by force."
+      },
+      {
+        "term": "Hyperinflation",
+        "def": "Extremely rapid price rises; money becomes almost worthless."
+      },
+      {
+        "term": "Freikorps",
+        "def": "Armed volunteer units of ex-soldiers."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Hyperinflation was caused only by reparations.",
+        "right": "Money printing during the war and in 1923 to pay striking Ruhr workers were also key causes."
+      },
+      {
+        "wrong": "Everyone lost out from hyperinflation.",
+        "right": "Borrowers and some businessmen gained."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "When did the Kaiser abdicate?",
+        "options": [
+          "11 November 1918",
+          "9 November 1918",
+          "28 June 1919",
+          "January 1919"
+        ],
+        "answer": 1,
+        "why": "Two days before the armistice."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Why did the National Assembly meet in Weimar?",
+        "options": [
+          "It was the capital",
+          "Berlin was too dangerous",
+          "The Kaiser lived there",
+          "The French demanded it"
+        ],
+        "answer": 1,
+        "why": "Unrest in Berlin."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Which was a weakness of the constitution?",
+        "options": [
+          "Votes for women",
+          "Proportional representation led to unstable coalitions",
+          "A Bill of Rights",
+          "Elections every four years"
+        ],
+        "answer": 1,
+        "why": "Many small parties."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "What was the size limit on the German army?",
+        "options": [
+          "10,000",
+          "100,000",
+          "500,000",
+          "1 million"
+        ],
+        "answer": 1,
+        "why": "Plus no tanks, air force or submarines."
+      },
+      {
+        "id": "m5",
+        "s": "s4",
+        "q": "How was the Kapp Putsch defeated?",
+        "options": [
+          "By the army",
+          "By a general strike",
+          "By the French",
+          "By the Freikorps"
+        ],
+        "answer": 1,
+        "why": "Workers brought Berlin to a halt."
+      },
+      {
+        "id": "m6",
+        "s": "s5",
+        "q": "Why did France and Belgium occupy the Ruhr?",
+        "options": [
+          "To stop the Spartacists",
+          "Germany failed to pay reparations",
+          "To protect the Kaiser",
+          "To help the Weimar government"
+        ],
+        "answer": 1,
+        "why": "They took goods instead — January 1923."
+      },
+      {
+        "id": "m7",
+        "s": "s5",
+        "q": "Who gained from hyperinflation?",
+        "options": [
+          "Pensioners",
+          "Savers",
+          "People with debts to pay off",
+          "Workers on fixed wages"
+        ],
+        "answer": 2,
+        "why": "Debts became worthless."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Who led the SPD and became President?",
+        "accept": [
+          "ebert",
+          "friedrich ebert"
+        ],
+        "answer": "Friedrich Ebert"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "Which article let the President rule by decree?",
+        "accept": [
+          "48",
+          "article 48"
+        ],
+        "answer": "Article 48"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "What word did Germans use for the 'dictated' treaty?",
+        "accept": [
+          "diktat"
+        ],
+        "answer": "Diktat"
+      },
+      {
+        "id": "a4",
+        "s": "s4",
+        "q": "Which communist group rose in January 1919?",
+        "accept": [
+          "spartacists",
+          "spartacist",
+          "spartacus league",
+          "the spartacists"
+        ],
+        "answer": "The Spartacists"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these events in order",
+        "items": [
+          "Kaiser abdicates",
+          "Armistice",
+          "Spartacist rising",
+          "Treaty of Versailles",
+          "Kapp Putsch",
+          "Ruhr occupied"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the term to its meaning",
+        "pairs": [
+          [
+            "Diktat",
+            "A peace imposed without negotiation"
+          ],
+          [
+            "Freikorps",
+            "Ex-soldier volunteer units"
+          ],
+          [
+            "Passive resistance",
+            "Refusing to work for the occupiers"
+          ],
+          [
+            "Hyperinflation",
+            "Money becomes almost worthless"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s5",
+        "q": "Give precise evidence of how bad hyperinflation became.",
+        "keywords": [
+          [
+            "200 billion",
+            "billion",
+            "bread",
+            "november 1923",
+            "trillion"
+          ]
+        ],
+        "model": "By November 1923 a loaf of bread cost about 200 billion marks."
+      },
+      {
+        "id": "e2",
+        "s": "s3",
+        "q": "Give two precise terms of the Treaty of Versailles.",
+        "keywords": [
+          [
+            "100,000",
+            "100000",
+            "alsace",
+            "colonies",
+            "231",
+            "6,600",
+            "rhineland",
+            "13"
+          ]
+        ],
+        "model": "Army limited to 100,000; reparations of £6,600 million; loss of Alsace-Lorraine and colonies; Article 231 war guilt."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "What happened at Kiel in 1918?",
+      "a": "Sailors mutinied; revolution spread across Germany.",
+      "hint": "Navy."
+    },
+    {
+      "id": "f2",
+      "s": "s2",
+      "q": "Give two strengths of the Weimar Constitution.",
+      "a": "Votes for men and women over 20; Bill of Rights; regular elections.",
+      "hint": "Democratic."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "Give two weaknesses of the Weimar Constitution.",
+      "a": "Proportional representation → weak coalitions; Article 48; old elites kept their jobs.",
+      "hint": "PR + 48."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "Why did Germans hate Versailles?",
+      "a": "No negotiation (Diktat); war guilt; land, army and reparations losses; seen as humiliation.",
+      "hint": "Blame and loss."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "What was the 'stab in the back' myth?",
+      "a": "The false belief that the army had been betrayed by politicians at home.",
+      "hint": "November criminals."
+    },
+    {
+      "id": "f6",
+      "s": "s4",
+      "q": "How did Ebert defeat the Spartacists?",
+      "a": "He used the army and Freikorps.",
+      "hint": "Ex-soldiers."
+    },
+    {
+      "id": "f7",
+      "s": "s5",
+      "q": "Give three causes of hyperinflation.",
+      "a": "War debts and printing money; reparations; the Ruhr occupation and paying strikers.",
+      "hint": "War, reparations, Ruhr."
+    },
+    {
+      "id": "f8",
+      "s": "s5",
+      "q": "Give two effects of hyperinflation.",
+      "a": "Savers and pensioners ruined; wages lagged behind prices; middle classes blamed the Republic; debtors gained.",
+      "hint": "Winners and losers."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe the Kaiser's abdication and the revolution of 1918–19.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain the strengths and weaknesses of the Weimar Constitution.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain why Germans reacted angrily to the Treaty of Versailles.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "describe",
+      "text": "I can describe the challenges from the Left and Right, including the Spartacists and the Kapp Putsch.",
+      "sections": [
+        "s4"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "explain",
+      "text": "I can explain the causes and effects of hyperinflation, including the Ruhr occupation.",
+      "sections": [
+        "s5"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge which was the biggest problem for the Weimar governments in 1919–23.",
+      "sections": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2025, Q3(c)(i)",
+        "sections": [
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "q": "‘Hyperinflation was the main reason why the governments of the Weimar Republic had problems in the years 1919–23.’\nHow far do you agree? Explain your answer.",
+        "prompts": [
+          "hyperinflation",
+          "the Treaty of Versailles"
+        ]
+      },
+      {
+        "id": "q2",
+        "qtype": "p1b",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s5"
+        ],
+        "q": "Explain two effects of hyperinflation on the German people in 1923."
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Rank Versailles, the Kapp Putsch and hyperinflation as threats to the Republic. Use how long each problem lasted and how many people it affected."
+    },
+    {
+      "id": "t2",
+      "kind": "Causal links",
+      "task": "Draw a chain linking Versailles → reparations → the Ruhr → hyperinflation. Explain each arrow."
+    },
+    {
+      "id": "t3",
+      "kind": "Competing arguments",
+      "task": "'The Weimar Republic was doomed from the start.' Write one paragraph for and one against."
+    }
+  ]
+}

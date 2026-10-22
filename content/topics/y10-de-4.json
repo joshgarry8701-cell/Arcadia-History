@@ -1,0 +1,607 @@
+{
+  "id": "y10-de-4",
+  "course": "y10",
+  "area": "de",
+  "kt": "Key topic 4",
+  "order": 4,
+  "title": "Nazi Germany, 1933–39",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following 4HI1 Depth study 3, key topic 4. Figures checked against Payne, Pearson Edexcel International GCSE Germany, chapter 4 (pp. 60–92)."
+  },
+  "learn": {
+    "intro": "How did Hitler turn his position as Chancellor into a dictatorship, how did the Nazis control Germany, and how did their policies affect young people, women, the Churches, Jews and workers?",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Setting up the dictatorship",
+        "blocks": [
+          {
+            "p": "The Reichstag Fire (27 February 1933): a Dutch communist, Marinus van der Lubbe, was arrested. Hitler claimed a communist plot; Hindenburg signed an emergency decree suspending civil rights, and thousands of communists were arrested before the March election."
+          },
+          {
+            "p": "The Enabling Act (23 March 1933) gave Hitler the power to make laws without the Reichstag for four years. Communist deputies were banned and the SA intimidated others. Trade unions were banned in May 1933 and by July 1933 the Nazis were the only legal party."
+          },
+          {
+            "p": "The Night of the Long Knives (30 June 1934): Hitler had Ernst Röhm and other SA leaders, plus political rivals, killed by the SS. The SA, which had over 2 million members, had threatened the army and wanted a 'second revolution'. The army was reassured."
+          },
+          {
+            "p": "When Hindenburg died on 2 August 1934, Hitler combined the posts of Chancellor and President as Führer. The army swore an oath of personal loyalty to him."
+          }
+        ],
+        "terms": [
+          "Reichstag Fire",
+          "Enabling Act",
+          "Night of the Long Knives",
+          "Führer"
+        ],
+        "evidence": [
+          "27 February 1933: Reichstag Fire.",
+          "23 March 1933: Enabling Act.",
+          "30 June 1934: Night of the Long Knives.",
+          "2 August 1934: Hitler becomes Führer."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 4"
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Methods of control",
+        "blocks": [
+          {
+            "p": "The police state: the SS, led by Heinrich Himmler, and the Gestapo (secret police) arrested opponents; informers reported on neighbours; concentration camps such as Dachau (1933) held political prisoners; judges had to follow Nazi ideas."
+          },
+          {
+            "p": "Propaganda and censorship: Joseph Goebbels controlled newspapers, radio, films, books and art. Cheap radios spread Hitler's speeches; huge rallies at Nuremberg showed Nazi power; books by Jewish or 'un-German' writers were burned in 1933; the 1936 Berlin Olympics showed off Germany."
+          },
+          {
+            "p": "How successful? There was little open opposition, but some continued: Pastor Martin Niemöller and the Confessing Church, some young people who rejected the Hitler Youth, and underground communist and socialist groups. Many Germans conformed through fear, while others supported the regime because it brought jobs and order."
+          }
+        ],
+        "terms": [
+          "police state",
+          "Gestapo",
+          "censorship",
+          "propaganda"
+        ],
+        "evidence": [
+          "1933: Dachau opens; book burnings.",
+          "1936: Berlin Olympics."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 4"
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Young people, education, women and the Churches",
+        "blocks": [
+          {
+            "p": "Young people: boys joined the Hitler Youth and girls the League of German Maidens, with camping, sport, marching and Nazi ideas. By 1939 8 million young people were members, and membership became compulsory in 1939. In schools, teachers had to join the Nazi Teachers' League; subjects such as history and biology taught Nazi ideas about race."
+          },
+          {
+            "p": "Women: the Nazis wanted women to focus on 'children, kitchen, church'. Marriage loans encouraged women to leave work and have children; the Mother's Cross rewarded large families; women were removed from jobs such as doctors, lawyers and civil servants."
+          },
+          {
+            "p": "The Churches: Hitler signed a Concordat with the Pope in 1933, promising not to interfere with the Catholic Church, but later broke it. The Nazis set up a Reich Church for Protestants; Pastor Niemöller's Confessing Church opposed it, and Niemöller was sent to a concentration camp."
+          }
+        ],
+        "terms": [
+          "Hitler Youth",
+          "League of German Maidens",
+          "Kinder, Küche, Kirche",
+          "Concordat",
+          "Confessing Church"
+        ],
+        "evidence": [
+          "8 million young people in Nazi youth groups by 1939.",
+          "1933: Concordat with the Pope.",
+          "Marriage loans; Mother's Cross."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 4"
+        ]
+      },
+      {
+        "id": "s4",
+        "title": "4. Racial policy and the persecution of Jews",
+        "blocks": [
+          {
+            "p": "The Nazis believed in an 'Aryan' master race and treated Jews as enemies. Persecution increased step by step:"
+          },
+          {
+            "ul": [
+              "April 1933: a boycott of Jewish shops; Jews dismissed from the civil service.",
+              "September 1935: the Nuremberg Laws took away Jews' German citizenship and banned marriages between Jews and non-Jews.",
+              "9–10 November 1938: Kristallnacht ('Night of Broken Glass') — synagogues, shops and homes attacked; around 100 Jews killed and about 30,000 Jewish men sent to concentration camps. Jews were then fined 1 billion marks."
+            ]
+          }
+        ],
+        "terms": [
+          "Aryan",
+          "boycott",
+          "Nuremberg Laws",
+          "Kristallnacht"
+        ],
+        "evidence": [
+          "April 1933: boycott.",
+          "September 1935: Nuremberg Laws.",
+          "November 1938: Kristallnacht; 1 billion mark fine."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 4"
+        ]
+      },
+      {
+        "id": "s5",
+        "title": "5. Reducing unemployment and controlling workers",
+        "blocks": [
+          {
+            "p": "When Hitler came to power 6 million Germans were unemployed; by 1939 this was reduced to about half a million. Methods: the National Labour Service (RAD) gave young men work on projects such as autobahns; rearmament created jobs in factories; conscription (from 1935) took nearly 1 million men into the armed forces; and women and Jews dismissed from jobs were not counted ('invisible unemployment')."
+          },
+          {
+            "p": "Trade unions were replaced by the German Labour Front (DAF), which controlled wages and hours. Strength Through Joy (KdF) offered cheap holidays, concerts and sport, and a scheme to save for a Volkswagen 'people's car'. Workers had jobs, but longer hours and no right to strike."
+          }
+        ],
+        "terms": [
+          "National Labour Service (RAD)",
+          "German Labour Front (DAF)",
+          "Strength Through Joy (KdF)",
+          "invisible unemployment"
+        ],
+        "evidence": [
+          "Unemployment 6 million (1933) → half a million (1939).",
+          "1935: conscription."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 4"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "27 Feb 1933",
+        "event": "Reichstag Fire"
+      },
+      {
+        "date": "23 March 1933",
+        "event": "Enabling Act"
+      },
+      {
+        "date": "April 1933",
+        "event": "Boycott of Jewish shops"
+      },
+      {
+        "date": "July 1933",
+        "event": "Nazis the only legal party; Concordat with the Pope"
+      },
+      {
+        "date": "30 June 1934",
+        "event": "Night of the Long Knives"
+      },
+      {
+        "date": "Aug 1934",
+        "event": "Hitler becomes Führer"
+      },
+      {
+        "date": "1935",
+        "event": "Conscription; Nuremberg Laws"
+      },
+      {
+        "date": "1936",
+        "event": "Berlin Olympics"
+      },
+      {
+        "date": "Nov 1938",
+        "event": "Kristallnacht"
+      },
+      {
+        "date": "1939",
+        "event": "Hitler Youth membership compulsory"
+      }
+    ],
+    "people": [
+      {
+        "name": "Heinrich Himmler",
+        "role": "Leader of the SS and police."
+      },
+      {
+        "name": "Joseph Goebbels",
+        "role": "Minister of Propaganda."
+      },
+      {
+        "name": "Ernst Röhm",
+        "role": "SA leader killed in 1934."
+      },
+      {
+        "name": "Martin Niemöller",
+        "role": "Protestant pastor who opposed Nazi control of the Church."
+      },
+      {
+        "name": "Marinus van der Lubbe",
+        "role": "Dutch communist arrested for the Reichstag Fire."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Dictatorship",
+        "def": "Rule by one person or party with no opposition allowed."
+      },
+      {
+        "term": "Gestapo",
+        "def": "The Nazi secret police."
+      },
+      {
+        "term": "Censorship",
+        "def": "Controlling what people can read, hear and see."
+      },
+      {
+        "term": "Kristallnacht",
+        "def": "'Night of Broken Glass' — attacks on Jews, November 1938."
+      },
+      {
+        "term": "Autobahn",
+        "def": "Motorway — built to create jobs."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Nobody opposed the Nazis.",
+        "right": "Some did — Niemöller, the Confessing Church and some young people — but opposition was small and dangerous."
+      },
+      {
+        "wrong": "All unemployed people got real jobs.",
+        "right": "Women and Jews removed from work were simply not counted."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What did the Enabling Act allow Hitler to do?",
+        "options": [
+          "Become President",
+          "Make laws without the Reichstag",
+          "Ban the army",
+          "Join the League"
+        ],
+        "answer": 1,
+        "why": "For four years, from March 1933."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Why did Hitler purge the SA in 1934?",
+        "options": [
+          "It was too small",
+          "It threatened the army and wanted a second revolution",
+          "It supported the communists",
+          "It was run by Himmler"
+        ],
+        "answer": 1,
+        "why": "Night of the Long Knives, 30 June 1934."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Who controlled Nazi propaganda?",
+        "options": [
+          "Himmler",
+          "Goebbels",
+          "Röhm",
+          "Göring"
+        ],
+        "answer": 1,
+        "why": "Minister of Propaganda."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "How many young people were in Nazi youth groups by 1939?",
+        "options": [
+          "800,000",
+          "2 million",
+          "8 million",
+          "20 million"
+        ],
+        "answer": 2,
+        "why": "Membership became compulsory in 1939."
+      },
+      {
+        "id": "m5",
+        "s": "s4",
+        "q": "What did the Nuremberg Laws do?",
+        "options": [
+          "Banned the SA",
+          "Took away Jews' citizenship and banned mixed marriages",
+          "Created the Gestapo",
+          "Ended unemployment"
+        ],
+        "answer": 1,
+        "why": "September 1935."
+      },
+      {
+        "id": "m6",
+        "s": "s5",
+        "q": "What was Strength Through Joy?",
+        "options": [
+          "A propaganda film",
+          "Cheap holidays and leisure for workers",
+          "A youth group",
+          "A police unit"
+        ],
+        "answer": 1,
+        "why": "Part of the DAF."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Who was blamed for the Reichstag Fire?",
+        "accept": [
+          "van der lubbe",
+          "marinus van der lubbe",
+          "communists",
+          "a communist"
+        ],
+        "answer": "Marinus van der Lubbe (a communist)"
+      },
+      {
+        "id": "a2",
+        "s": "s4",
+        "q": "What is the English name for Kristallnacht?",
+        "accept": [
+          "night of broken glass",
+          "the night of broken glass"
+        ],
+        "answer": "Night of Broken Glass"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "Which pastor led opposition in the Protestant Church?",
+        "accept": [
+          "niemoller",
+          "niemöller",
+          "martin niemoller",
+          "martin niemöller",
+          "niemoeller"
+        ],
+        "answer": "Martin Niemöller"
+      },
+      {
+        "id": "a4",
+        "s": "s5",
+        "q": "What replaced trade unions in 1933?",
+        "accept": [
+          "daf",
+          "german labour front",
+          "the german labour front",
+          "labour front"
+        ],
+        "answer": "The German Labour Front (DAF)"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put the steps to dictatorship in order",
+        "items": [
+          "Reichstag Fire",
+          "Enabling Act",
+          "Trade unions banned",
+          "Only one legal party",
+          "Night of the Long Knives",
+          "Hitler becomes Führer"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the group to the Nazi policy",
+        "pairs": [
+          [
+            "Young people",
+            "Hitler Youth and League of German Maidens"
+          ],
+          [
+            "Women",
+            "Marriage loans and the Mother's Cross"
+          ],
+          [
+            "Workers",
+            "German Labour Front and Strength Through Joy"
+          ],
+          [
+            "Jews",
+            "Nuremberg Laws"
+          ],
+          [
+            "Catholic Church",
+            "Concordat of 1933"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s5",
+        "q": "Give precise evidence of the fall in unemployment.",
+        "keywords": [
+          [
+            "6 million",
+            "half a million",
+            "500,000",
+            "0.5"
+          ]
+        ],
+        "model": "Unemployment fell from 6 million in 1933 to about half a million by 1939."
+      },
+      {
+        "id": "e2",
+        "s": "s4",
+        "q": "Give precise evidence of increasing persecution of Jews.",
+        "keywords": [
+          [
+            "1933",
+            "boycott",
+            "1935",
+            "nuremberg",
+            "1938",
+            "kristallnacht",
+            "30,000",
+            "1 billion"
+          ]
+        ],
+        "model": "April 1933 boycott; Nuremberg Laws (1935); Kristallnacht (November 1938), with about 30,000 Jewish men sent to camps."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "How did Hitler use the Reichstag Fire?",
+      "a": "Claimed a communist plot; emergency decree suspended civil rights; thousands of communists arrested.",
+      "hint": "Blame the communists."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "What happened when Hindenburg died?",
+      "a": "Hitler became Führer (Chancellor and President); the army swore loyalty to him.",
+      "hint": "August 1934."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "Name three parts of the Nazi police state.",
+      "a": "SS, Gestapo, concentration camps, informers, Nazi-controlled courts.",
+      "hint": "Himmler."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "Give three propaganda methods.",
+      "a": "Radio, Nuremberg rallies, films, posters, book burning, the 1936 Olympics.",
+      "hint": "Goebbels."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "How did the Nazis control education?",
+      "a": "Teachers joined the Nazi Teachers' League; the curriculum taught Nazi race ideas; Hitler Youth outside school.",
+      "hint": "Teachers + subjects."
+    },
+    {
+      "id": "f6",
+      "s": "s3",
+      "q": "What did the Nazis expect of women?",
+      "a": "Children, kitchen, church — marry, have children and stay at home.",
+      "hint": "Three Ks."
+    },
+    {
+      "id": "f7",
+      "s": "s4",
+      "q": "What happened on Kristallnacht?",
+      "a": "Attacks on synagogues, shops and homes; around 100 Jews killed; about 30,000 men to camps; a 1 billion mark fine on Jews.",
+      "hint": "November 1938."
+    },
+    {
+      "id": "f8",
+      "s": "s5",
+      "q": "How did the Nazis reduce unemployment?",
+      "a": "Labour Service (autobahns), rearmament, conscription, and not counting women and Jews.",
+      "hint": "Roads, weapons, army."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe how Hitler set up the dictatorship (Reichstag Fire, Enabling Act, Night of the Long Knives, Führer).",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "judge",
+      "text": "I can judge how successful Nazi methods of control were (police state, censorship, propaganda).",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain Nazi policies towards education, women, young people and the Churches and their impact.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain Nazi racial policy and the increasing persecution of Jews.",
+      "sections": [
+        "s4"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "explain",
+      "text": "I can explain policies to reduce unemployment, the Labour Service, the Labour Front and Strength Through Joy.",
+      "sections": [
+        "s5"
+      ]
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, June 2025, Q3(b)",
+        "sections": [
+          "s1"
+        ],
+        "q": "Explain two effects of the Reichstag Fire on the Nazi Party."
+      },
+      {
+        "id": "q2",
+        "qtype": "p1c",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s2",
+          "s3",
+          "s5"
+        ],
+        "q": "‘The main reason why there was little opposition to the Nazis in the years 1933–39 was the police state.’\nHow far do you agree? Explain your answer.",
+        "prompts": [
+          "the Gestapo",
+          "Strength Through Joy"
+        ]
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Competing arguments",
+      "task": "Fear or support? Use evidence about workers and young people to decide why most Germans did not oppose the Nazis."
+    },
+    {
+      "id": "t2",
+      "kind": "Change and continuity",
+      "task": "How far did life change for German women in 1933–39? Think about what the Nazis wanted and what actually happened."
+    }
+  ]
+}

@@ -73,6 +73,7 @@ function buildPrompt({ course, topic, question, text, previous }) {
     question.sources && question.sources.length ? `SOURCES / EXTRACTS PROVIDED WITH THE QUESTION:\n${question.sources.map((x) => `${x.label} — ${x.provenance}\n"""${x.text}"""`).join('\n\n')}` : (question.requires_sources ? 'The sources/extracts for this question are NOT available, so do not judge how well they were used.' : ''),
     ms ? `Verified mark scheme (${ms.source || 'teacher-entered'}):\n${JSON.stringify(ms)}` : 'Mark scheme: NOT AVAILABLE (or not yet verified by the teacher).',
     question.frame_note ? `Department writing approach: ${question.frame_note}` : '',
+    question.examiner && question.examiner.length ? `What Pearson examiners reported (use to target feedback, never to award marks outside the mark scheme):\n${question.examiner.map((r) => [...(r.strong || []).map((x) => '+ ' + x), ...(r.weak || []).map((x) => '- ' + x)].join('\n')).join('\n')}` : '',
     `Relevant course content:\n${retrieveContext(topic, question)}`,
     previous ? `PREVIOUS ATTEMPT (for comparison):\n"""${previous.text}"""\nPrevious feedback priorities: ${JSON.stringify((previous.ai && previous.ai.improvements) || [])}` : '',
     `STUDENT RESPONSE:\n"""${text}"""`

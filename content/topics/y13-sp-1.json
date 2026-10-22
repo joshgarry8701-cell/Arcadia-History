@@ -1,0 +1,142 @@
+{
+  "id": "y13-sp-1", "course": "y13", "area": "sp", "kt": "Key topic 1", "order": 21,
+  "title": "Historical interpretations: what explains the outbreak and development of the Cold War, 1943–53?",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following the IAL specification (Issue 6), Unit 4 Option 1C key topic 1. Historiography summarised in my own words; check against your class reading." },
+  "learn": {
+    "intro": "Section A of Unit 4 is a debate. Two historians' extracts disagree about why the Cold War began and developed between 1943 and 1953, and you judge a view using both extracts and your own knowledge. You need secure knowledge of the events AND of the four broad explanations in the specification: personalities, ideology, economics, and security/hegemony.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. The events you will use to test any view, 1943–53",
+        "blocks": [
+          { "p": "Wartime conferences: at Tehran (November 1943) and Yalta (February 1945) the 'Big Three' — Roosevelt, Churchill and Stalin — agreed on a second front, a divided and occupied Germany, Soviet entry into the war with Japan, the United Nations, and 'free elections' in liberated Europe, including Poland. The vague wording on Poland stored up conflict. At Potsdam (July–August 1945) Truman and Attlee replaced Roosevelt and Churchill; there was disagreement over reparations and Poland's borders, and Truman told Stalin of a powerful new weapon." },
+          { "p": "1946 — words harden: Kennan's 'Long Telegram' from Moscow (February 1946) described Soviet expansionism and argued for firm resistance; Churchill's 'Iron Curtain' speech at Fulton, Missouri (March 1946) described a divided Europe; the Soviet ambassador Novikov's telegram (September 1946) portrayed the USA as seeking world domination." },
+          { "p": "1947 — containment: the Truman Doctrine (March 1947) promised support for 'free peoples' resisting subjugation, starting with aid to Greece and Turkey. The Marshall Plan was announced in June 1947. Molotov walked out of the Paris talks in July; the USSR and its satellites refused aid and Czechoslovakia was made to withdraw its acceptance. Cominform was set up (September 1947), and Zhdanov described the world as divided into two camps." },
+          { "p": "1948–49 — division of Europe: a communist coup in Czechoslovakia (February 1948); Western currency reform in Germany led to the Berlin Blockade (June 1948 – May 1949), defeated by the Berlin Airlift; COMECON (January 1949); NATO (April 1949); the Federal Republic of Germany (September 1949) and German Democratic Republic (October 1949). The USSR tested its first atomic bomb in August 1949." },
+          { "p": "Asia and globalisation: the communist victory in China (October 1949) and the Sino-Soviet Treaty (February 1950); NSC-68 (April 1950) called for a massive US military build-up; the Korean War (June 1950 – July 1953) militarised containment. Stalin died in March 1953, opening the way to new leadership." }
+        ],
+        "terms": ["Yalta", "Potsdam", "Long Telegram", "Truman Doctrine", "Marshall Plan", "Cominform", "Berlin Blockade", "NATO", "NSC-68"],
+        "evidence": ["February 1945: Yalta.", "February 1946: Long Telegram; March 1946: Iron Curtain speech.", "March 1947: Truman Doctrine; June 1947: Marshall Plan announced.", "June 1948 – May 1949: Berlin Blockade.", "April 1949: NATO; August 1949: Soviet atomic bomb.", "June 1950: Korean War begins."]
+      },
+      {
+        "id": "s2", "title": "2. The clash and role of personalities",
+        "blocks": [
+          { "p": "Stalin: driven by security after invasions of 1914 and 1941, ideological hostility to capitalism and opportunism. Historians disagree whether he had a plan for expansion or reacted to Western moves; post-1991 archive work (e.g. Gaddis, 'We Now Know', 1997) gave him a larger share of responsibility." },
+          { "p": "Molotov: Stalin's Foreign Minister, blunt and uncompromising in negotiations; his walk-out over the Marshall Plan in July 1947 symbolised the division of Europe." },
+          { "p": "Roosevelt: believed in personal diplomacy and the UN, and was willing to accept a Soviet sphere in practice; his death (April 1945) removed a figure who might have sustained cooperation." },
+          { "p": "Truman: inexperienced in foreign policy, more suspicious of Stalin and more willing to use American power; revisionists stress his 'atomic diplomacy' and confrontational style." },
+          { "p": "Churchill and Bevin: Churchill warned early against Soviet expansion (the Iron Curtain speech, made when out of office). Bevin, Britain's Foreign Secretary 1945–51, organised the European response to Marshall Aid, the Brussels Treaty (1948) and the push for NATO — showing that Western Europe pulled the USA into commitment as well as being pushed." },
+          { "p": "Mao: his victory in 1949 and alliance with Stalin, and his support for North Korea, extended the Cold War into Asia." }
+        ],
+        "terms": ["personal diplomacy", "atomic diplomacy"],
+        "evidence": ["April 1945: Roosevelt dies.", "July 1947: Molotov leaves the Paris talks.", "1948: Brussels Treaty."]
+      },
+      {
+        "id": "s3", "title": "3. Rival ideologies, propaganda and economic interests",
+        "blocks": [
+          { "p": "Ideology: Marxism-Leninism predicted conflict with capitalism; American leaders saw communism as a threat to freedom and democracy. Each side's speeches (the Truman Doctrine; Zhdanov's 'two camps') framed the conflict as a struggle for hearts and minds, and propaganda hardened public opinion on both sides." },
+          { "p": "Economic issues: the USA emerged from the war as the dominant economic power and wanted open markets and a recovered Western Europe to trade with. Revisionist historians (e.g. William Appleman Williams, Gabriel and Joyce Kolko) argued that this 'open door' economic expansion drove US policy, and that the Marshall Plan was designed partly to secure American economic interests. The USSR, devastated by war, wanted reparations from Germany and to control the economies of Eastern Europe; it created COMECON in response to Marshall Aid." }
+        ],
+        "terms": ["ideology", "propaganda", "open door", "revisionist", "COMECON"],
+        "evidence": ["September 1947: Zhdanov's 'two camps'.", "January 1949: COMECON founded."]
+      },
+      {
+        "id": "s4", "title": "4. Hegemony, national security, and the historians' debate",
+        "blocks": [
+          { "p": "Security and hegemony: Stalin wanted a buffer zone of friendly states in Eastern Europe; the USA wanted bases and influence to prevent any hostile power dominating Europe or Asia. Military and geopolitical decisions — the atomic monopoly to 1949, NATO, NSC-68, Korea — turned political rivalry into an armed confrontation. Melvyn Leffler ('A Preponderance of Power', 1992) emphasised US national-security thinking." },
+          { "p": "The debate in outline: orthodox (traditional) historians writing in the late 1940s–50s blamed Soviet expansionism; revisionists in the 1960s–70s blamed US economic and atomic power; post-revisionists from the 1970s (e.g. John Lewis Gaddis, 1972) stressed mutual misunderstanding and security fears on both sides; after the Soviet archives opened in the 1990s some historians put more weight back on Stalin and ideology." },
+          { "p": "How to use this in the exam: you are NOT asked to evaluate the historians as people. Identify each extract's argument, test it with your own knowledge, and use criteria to judge how far the view in the question explains the Cold War." }
+        ],
+        "terms": ["hegemony", "national security", "orthodox", "revisionist", "post-revisionist"],
+        "evidence": ["1949: end of the US atomic monopoly.", "April 1950: NSC-68."]
+      }
+    ],
+    "timeline": [
+      { "date": "Nov 1943", "event": "Tehran Conference" },
+      { "date": "Feb 1945", "event": "Yalta Conference" },
+      { "date": "July 1945", "event": "Potsdam Conference" },
+      { "date": "Feb–March 1946", "event": "Long Telegram; Iron Curtain speech" },
+      { "date": "March 1947", "event": "Truman Doctrine" },
+      { "date": "June 1947", "event": "Marshall Plan announced" },
+      { "date": "Feb 1948", "event": "Communist coup in Czechoslovakia" },
+      { "date": "June 1948", "event": "Berlin Blockade begins" },
+      { "date": "April 1949", "event": "NATO founded" },
+      { "date": "Aug 1949", "event": "First Soviet atomic test" },
+      { "date": "Oct 1949", "event": "People's Republic of China" },
+      { "date": "June 1950", "event": "Korean War begins" },
+      { "date": "March 1953", "event": "Death of Stalin" }
+    ],
+    "people": [
+      { "name": "Joseph Stalin", "role": "Soviet leader to 1953." },
+      { "name": "Vyacheslav Molotov", "role": "Soviet Foreign Minister 1939–49 and 1953–56." },
+      { "name": "Franklin D. Roosevelt", "role": "US President to April 1945." },
+      { "name": "Harry S. Truman", "role": "US President 1945–53; Truman Doctrine." },
+      { "name": "Winston Churchill", "role": "British PM to 1945; Iron Curtain speech 1946." },
+      { "name": "Ernest Bevin", "role": "British Foreign Secretary 1945–51; organised Western response." },
+      { "name": "Mao Zedong", "role": "Leader of the People's Republic of China from 1949." }
+    ],
+    "vocab": [
+      { "term": "Containment", "def": "US policy of stopping the spread of communism." },
+      { "term": "Orthodox view", "def": "Interpretation blaming Soviet expansionism for the Cold War." },
+      { "term": "Revisionist view", "def": "Interpretation blaming US economic and atomic power." },
+      { "term": "Post-revisionist view", "def": "Interpretation stressing mutual misunderstanding and security fears." }
+    ],
+    "misconceptions": [
+      { "wrong": "Section A asks you to evaluate the historians' backgrounds.", "right": "Examiners say this wastes time: assess the arguments, not the authors." },
+      { "wrong": "The Cold War was a fixed result of 1945.", "right": "It developed in stages; 1946–49 hardened division, and Korea militarised it." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "What did the Long Telegram (1946) argue?", "options": ["The USSR wanted peace", "Soviet expansion should be firmly resisted", "The USA should leave Europe", "Germany should be reunited"], "answer": 1, "why": "Kennan, February 1946." },
+      { "id": "m2", "s": "s1", "q": "What triggered the Berlin Blockade?", "options": ["NATO's creation", "Western currency reform in Germany", "The Korean War", "The Truman Doctrine"], "answer": 1, "why": "June 1948." },
+      { "id": "m3", "s": "s3", "q": "Which historians are linked with the revisionist economic view?", "options": ["Gaddis", "W. A. Williams and the Kolkos", "Leffler", "Feis"], "answer": 1, "why": "'Open door' interpretation." },
+      { "id": "m4", "s": "s4", "q": "Post-revisionists stress…", "options": ["Soviet guilt only", "US guilt only", "Mutual misunderstanding and security fears", "Economic factors only"], "answer": 2, "why": "From the 1970s." },
+      { "id": "m5", "s": "s2", "q": "Who organised Western Europe's response to Marshall Aid?", "options": ["Molotov", "Bevin", "Truman", "Mao"], "answer": 1, "why": "British Foreign Secretary." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s1", "q": "In which year was NATO founded?", "accept": ["1949"], "answer": "1949" },
+      { "id": "a2", "s": "s1", "q": "What was the Soviet answer to the Marshall Plan called?", "accept": ["comecon", "molotov plan"], "answer": "COMECON (earlier the Molotov Plan)" },
+      { "id": "a3", "s": "s4", "q": "Which 1950 US document called for a massive military build-up?", "accept": ["nsc-68", "nsc 68", "nsc68"], "answer": "NSC-68" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Yalta", "Potsdam", "Iron Curtain speech", "Truman Doctrine", "Marshall Plan", "Berlin Blockade", "NATO", "Korean War"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the explanation to its focus", "pairs": [["Orthodox", "Soviet expansionism"], ["Revisionist", "US economic power"], ["Post-revisionist", "Mutual misunderstanding"], ["National security (Leffler)", "US security thinking"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s1", "q": "Give precise evidence that economics shaped the division of Europe 1947–49.", "keywords": [["marshall", "1947", "molotov", "comecon", "1949", "currency"]], "model": "The Marshall Plan (June 1947) was rejected by Molotov and the satellites; Western currency reform (1948) triggered the Berlin Blockade; COMECON followed in January 1949." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "Why did Yalta store up conflict?", "a": "Vague promises of 'free elections' in Eastern Europe, especially Poland, which Stalin interpreted as Soviet-friendly governments.", "hint": "Poland." },
+    { "id": "f2", "s": "s2", "q": "Why does Truman's personality matter?", "a": "More suspicious and confrontational than Roosevelt; revisionists stress 'atomic diplomacy'.", "hint": "April 1945." },
+    { "id": "f3", "s": "s3", "q": "What is the revisionist economic argument?", "a": "US 'open door' economic expansion and the Marshall Plan drove division; the USA used its economic power to dominate.", "hint": "Williams, Kolko." },
+    { "id": "f4", "s": "s4", "q": "What is the national-security explanation?", "a": "Both sides sought security: Stalin a buffer zone, the USA bases and influence to prevent a hostile power dominating Eurasia.", "hint": "Leffler." },
+    { "id": "f5", "s": "s4", "q": "What do examiners want in Section A?", "a": "Read both extracts fully, explain each argument, test with own knowledge, reach a judgement — don't evaluate the authors.", "hint": "Interpretations, not sources." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "describe", "text": "I can describe the key events 1943–53 accurately and in order.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain the role of Stalin, Molotov, Roosevelt, Truman, Churchill, Bevin and Mao.", "sections": ["s2"] },
+    { "id": "k3", "level": "explain", "text": "I can explain the ideological, propaganda and economic explanations of the Cold War.", "sections": ["s3"] },
+    { "id": "k4", "level": "judge", "text": "I can judge competing interpretations using extracts and my own knowledge.", "sections": ["s4"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "u4a", "label": "Past paper: WHI04/1C, January 2025, Q1 (Extracts 1 and 2 are in the extracts booklet)", "sections": ["s3", "s4"],
+        "q": "How far do you agree with the view that the Cold War began as a result of a propaganda war that developed between the United States and the Soviet Union after the Second World War?\nExplain your answer using Extracts 1 and 2 and your knowledge of the issues related to this controversy." },
+      { "id": "q2", "qtype": "u4a", "label": "Past paper: WHI04/1C, June 2024, Q1 (Extracts 1 and 2 are in the extracts booklet)", "sections": ["s3"],
+        "q": "How far do you agree that the US decision to exploit its economic power primarily explains the post-1945 development of the Cold War?\nExplain your answer using Extracts 1 and 2 and your knowledge of the issues related to this controversy." },
+      { "id": "q3", "qtype": "u4a", "label": "Past paper: WHI04/1C, June 2023, Q1 (Extracts 1 and 2 are in the extracts booklet)", "sections": ["s4"],
+        "q": "How far do you agree with the view that the power of the USSR was greatly threatened by the US monopoly of the atomic bomb in the years 1945–49?\nExplain your answer using Extracts 1 and 2 and your knowledge of the issues related to this controversy." },
+      { "id": "q4", "qtype": "u4a", "label": "Past paper: WHI04/1C, June 2022, Q1 (Extracts 1 and 2 are in the extracts booklet)", "sections": ["s3"],
+        "q": "How far do you agree with the view that, in the years 1946–47, the development of US Cold War policies was influenced mainly by economic factors?\nExplain your answer using Extracts 1 and 2 and your knowledge of the issues related to this controversy." }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Historiography", "task": "Write one paragraph each in the voice of an orthodox, a revisionist and a post-revisionist historian explaining the Berlin Blockade." },
+    { "id": "t2", "kind": "Relative significance", "task": "Apply the department factor frame (duration, scope, effectiveness, impact) to personalities, ideology, economics and security. Which explains most?" },
+    { "id": "t3", "kind": "Turning points", "task": "Was 1947 or 1950 the more important turning point in the development of the Cold War?" }
+  ]
+}

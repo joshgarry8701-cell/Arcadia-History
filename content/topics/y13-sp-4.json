@@ -1,0 +1,542 @@
+{
+  "id": "y13-sp-4",
+  "course": "y13",
+  "area": "sp",
+  "kt": "Key topic 4",
+  "order": 24,
+  "title": "Renewed confrontation and resolution, 1979–90",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following the IAL specification (Issue 6), Unit 4 Option 1C key topic 4."
+  },
+  "learn": {
+    "intro": "The 'Second Cold War' of the early 1980s brought Afghanistan, new missiles in Europe, Solidarity and Reagan's SDI. Then Gorbachev, facing a failing economy, transformed relations: summits, the INF Treaty, the end of Soviet control in Eastern Europe and German reunification in 1990.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Personalities and summits",
+        "blocks": [
+          {
+            "p": "Soviet leadership: Brezhnev died in November 1982; Andropov (1982–84) and Chernenko (1984–85) were old and ill. Gromyko remained Foreign Minister until 1985. Gorbachev became leader in March 1985 and, with Foreign Minister Shevardnadze, pursued 'new thinking' in foreign policy."
+          },
+          {
+            "p": "Western leaders: Reagan (President 1981–89) called the USSR an 'evil empire' (1983) and built up US forces, but later negotiated with Gorbachev. Thatcher was a close ally of Reagan who said after meeting Gorbachev (December 1984) that he was someone the West could do business with. Pope John Paul II (elected 1978), a Pole, visited Poland in 1979 and inspired opposition to communism. Deng Xiaoping led China from the late 1970s, opening its economy and improving relations with the USA (formal diplomatic relations, 1979)."
+          },
+          {
+            "p": "Summits: Geneva (November 1985) built personal trust; Reykjavik (October 1986) nearly agreed to abolish nuclear weapons but broke down over SDI; Washington (December 1987) signed the INF Treaty; Moscow (1988); Malta (December 1989), often described as marking the end of the Cold War."
+          }
+        ],
+        "terms": [
+          "new thinking",
+          "evil empire",
+          "summit",
+          "INF Treaty"
+        ],
+        "evidence": [
+          "March 1985: Gorbachev becomes leader.",
+          "November 1985: Geneva.",
+          "October 1986: Reykjavik.",
+          "December 1987: INF Treaty.",
+          "December 1989: Malta."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Heightened tensions in the early 1980s",
+        "blocks": [
+          {
+            "p": "Afghanistan: the USSR invaded in December 1979 to prop up a communist government. The USA responded with the Carter Doctrine, a grain embargo and a boycott of the 1980 Moscow Olympics, and supplied the mujahideen. The war became costly for the USSR."
+          },
+          {
+            "p": "New missiles in Europe: Soviet SS-20 missiles led NATO to its 'dual-track' decision (December 1979) to deploy US Pershing II and cruise missiles while negotiating. Deployment from late 1983 caused mass peace protests in Western Europe. The shooting down of the airliner KAL 007 (September 1983) and the NATO exercise Able Archer (November 1983) raised tension further."
+          },
+          {
+            "p": "Solidarity: the independent trade union led by Lech Wałęsa grew out of the Gdańsk strikes (August 1980). Martial law was declared in Poland in December 1981. Solidarity's survival underground showed the weakness of communist legitimacy."
+          },
+          {
+            "p": "Reagan and SDI: Reagan increased defence spending and in March 1983 announced the Strategic Defense Initiative ('Star Wars'), a space-based missile shield. Moscow feared it could neither match it technologically nor afford to try."
+          }
+        ],
+        "terms": [
+          "Afghanistan",
+          "SS-20",
+          "Pershing II",
+          "cruise missiles",
+          "Solidarity",
+          "SDI"
+        ],
+        "evidence": [
+          "December 1979: Afghanistan invaded; NATO dual-track decision.",
+          "August 1980: Gdańsk strikes; Solidarity.",
+          "December 1981: martial law in Poland.",
+          "March 1983: SDI announced.",
+          "1983: Pershing II and cruise deployed."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. The economics of the Cold War in the 1980s",
+        "blocks": [
+          {
+            "p": "US technology and spending: computer and electronics advances underpinned precision weapons and SDI research; a large defence build-up was funded by borrowing."
+          },
+          {
+            "p": "Soviet economic problems: stagnation under Brezhnev, inefficient central planning, falling productivity, the cost of the arms race and of Afghanistan, and subsidies to allies. The collapse in world oil prices (1986) cut export earnings; the Chernobyl disaster (April 1986) exposed technological and political failings. Gorbachev's reforms — perestroika (economic restructuring) and glasnost (openness) — needed lower military spending and better relations with the West."
+          }
+        ],
+        "terms": [
+          "stagnation",
+          "perestroika",
+          "glasnost"
+        ],
+        "evidence": [
+          "1986: oil price collapse.",
+          "April 1986: Chernobyl."
+        ]
+      },
+      {
+        "id": "s4",
+        "title": "4. The breakdown of the USSR and Soviet control of Eastern Europe",
+        "blocks": [
+          {
+            "p": "Gorbachev abandoned the Brezhnev Doctrine: Eastern European states could choose their own path (sometimes called the 'Sinatra Doctrine'). Soviet troops completed withdrawal from Afghanistan in February 1989."
+          },
+          {
+            "p": "1989 in Eastern Europe: Hungary began dismantling its border fence with Austria (from May 1989), opening an escape route; Poland held partly free elections (June 1989) and Solidarity won; the Berlin Wall was opened on 9 November 1989; Czechoslovakia's 'Velvet Revolution' (November–December 1989) ended communist rule."
+          },
+          {
+            "p": "Nationalism inside the USSR: Soviet troops killed protesters in Tbilisi, Georgia (April 1989); the Baltic states organised the 'Baltic Way' human chain (August 1989) and Lithuania declared independence in March 1990."
+          },
+          {
+            "p": "German reunification: after free elections in East Germany (March 1990) and the Two Plus Four Treaty (September 1990), Germany was reunified on 3 October 1990 inside NATO — a decisive sign that the Cold War division of Europe was over."
+          }
+        ],
+        "terms": [
+          "Brezhnev Doctrine",
+          "Sinatra Doctrine",
+          "Velvet Revolution",
+          "Baltic Way",
+          "reunification"
+        ],
+        "evidence": [
+          "February 1989: withdrawal from Afghanistan complete.",
+          "June 1989: Polish elections.",
+          "9 November 1989: Berlin Wall opened.",
+          "March 1990: Lithuania declares independence.",
+          "3 October 1990: German reunification."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "Dec 1979",
+        "event": "Afghanistan invaded; NATO dual-track decision"
+      },
+      {
+        "date": "Aug 1980",
+        "event": "Solidarity founded"
+      },
+      {
+        "date": "Jan 1981",
+        "event": "Reagan becomes President"
+      },
+      {
+        "date": "Dec 1981",
+        "event": "Martial law in Poland"
+      },
+      {
+        "date": "March 1983",
+        "event": "'Evil empire' speech; SDI announced"
+      },
+      {
+        "date": "Nov 1983",
+        "event": "Pershing II and cruise deployed; Able Archer"
+      },
+      {
+        "date": "March 1985",
+        "event": "Gorbachev becomes leader"
+      },
+      {
+        "date": "Oct 1986",
+        "event": "Reykjavik Summit"
+      },
+      {
+        "date": "Dec 1987",
+        "event": "INF Treaty"
+      },
+      {
+        "date": "9 Nov 1989",
+        "event": "Berlin Wall opened"
+      },
+      {
+        "date": "Dec 1989",
+        "event": "Malta Summit"
+      },
+      {
+        "date": "3 Oct 1990",
+        "event": "German reunification"
+      }
+    ],
+    "people": [
+      {
+        "name": "Yuri Andropov",
+        "role": "Soviet leader 1982–84."
+      },
+      {
+        "name": "Andrei Gromyko",
+        "role": "Soviet Foreign Minister to 1985."
+      },
+      {
+        "name": "Mikhail Gorbachev",
+        "role": "Soviet leader from 1985; new thinking."
+      },
+      {
+        "name": "Deng Xiaoping",
+        "role": "Chinese leader; economic opening and US relations."
+      },
+      {
+        "name": "Ronald Reagan",
+        "role": "US President 1981–89; SDI; INF Treaty."
+      },
+      {
+        "name": "Margaret Thatcher",
+        "role": "British PM 1979–90; Reagan's ally."
+      },
+      {
+        "name": "Pope John Paul II",
+        "role": "Polish Pope; inspired opposition in Poland."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "SDI",
+        "def": "Strategic Defense Initiative — proposed space-based missile defence (1983)."
+      },
+      {
+        "term": "INF Treaty",
+        "def": "1987 treaty abolishing intermediate-range nuclear missiles."
+      },
+      {
+        "term": "Perestroika",
+        "def": "Gorbachev's economic restructuring."
+      },
+      {
+        "term": "Glasnost",
+        "def": "Gorbachev's policy of openness."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Glasnost and perestroika mean the same thing.",
+        "right": "Glasnost = openness; perestroika = restructuring. Examiners report frequent confusion."
+      },
+      {
+        "wrong": "Gorbachev was in power from 1980.",
+        "right": "He became leader in March 1985."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s2",
+        "q": "What was NATO's response to the SS-20s?",
+        "options": [
+          "Withdrawal from Europe",
+          "The dual-track decision",
+          "SALT II",
+          "The Brezhnev Doctrine"
+        ],
+        "answer": 1,
+        "why": "Deploy and negotiate."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Which summit nearly agreed to abolish nuclear weapons?",
+        "options": [
+          "Geneva",
+          "Reykjavik",
+          "Washington",
+          "Malta"
+        ],
+        "answer": 1,
+        "why": "Broke down over SDI."
+      },
+      {
+        "id": "m3",
+        "s": "s3",
+        "q": "What is perestroika?",
+        "options": [
+          "Openness",
+          "Economic restructuring",
+          "A missile",
+          "A treaty"
+        ],
+        "answer": 1,
+        "why": "Don't confuse with glasnost."
+      },
+      {
+        "id": "m4",
+        "s": "s4",
+        "q": "When was Germany reunified?",
+        "options": [
+          "9 November 1989",
+          "3 October 1990",
+          "1991",
+          "1985"
+        ],
+        "answer": 1,
+        "why": "Within NATO."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Who led Solidarity?",
+        "options": [
+          "Jaruzelski",
+          "Lech Wałęsa",
+          "Gorbachev",
+          "Havel"
+        ],
+        "answer": 1,
+        "why": "Gdańsk 1980."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Which 1987 treaty abolished intermediate-range missiles?",
+        "accept": [
+          "inf",
+          "inf treaty",
+          "intermediate-range nuclear forces treaty"
+        ],
+        "answer": "The INF Treaty"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "In which year did Gorbachev become leader?",
+        "accept": [
+          "1985"
+        ],
+        "answer": "1985"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "What was Reagan's 'Star Wars' programme officially called?",
+        "accept": [
+          "sdi",
+          "strategic defense initiative",
+          "strategic defence initiative"
+        ],
+        "answer": "Strategic Defense Initiative (SDI)"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Afghanistan invaded",
+          "Solidarity founded",
+          "SDI announced",
+          "Gorbachev becomes leader",
+          "Reykjavik",
+          "INF Treaty",
+          "Berlin Wall opened",
+          "German reunification"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the leader to the role",
+        "pairs": [
+          [
+            "Reagan",
+            "SDI and the INF Treaty"
+          ],
+          [
+            "Gorbachev",
+            "New thinking"
+          ],
+          [
+            "John Paul II",
+            "Inspired Polish opposition"
+          ],
+          [
+            "Thatcher",
+            "Reagan's closest ally"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s3",
+        "q": "Give precise evidence of Soviet economic problems in the 1980s.",
+        "keywords": [
+          [
+            "afghanistan",
+            "oil",
+            "1986",
+            "chernobyl",
+            "stagnation",
+            "arms"
+          ]
+        ],
+        "model": "The cost of the arms race and Afghanistan, stagnation, the 1986 oil price collapse and the Chernobyl disaster (April 1986)."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s2",
+      "q": "Why did tension rise in the early 1980s?",
+      "a": "Afghanistan, SS-20s vs Pershing II/cruise, Solidarity and martial law, Reagan's rhetoric and SDI, KAL 007, Able Archer.",
+      "hint": "Second Cold War."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Why were the summits of 1985–89 significant?",
+      "a": "Built trust (Geneva), nearly abolished weapons (Reykjavik), INF Treaty (Washington), end of Cold War (Malta).",
+      "hint": "Four summits."
+    },
+    {
+      "id": "f3",
+      "s": "s3",
+      "q": "How did economics help end the Cold War?",
+      "a": "The USSR could not afford the arms race or match US technology; Gorbachev needed lower military spending for reform.",
+      "hint": "Link to the ending, not just collapse."
+    },
+    {
+      "id": "f4",
+      "s": "s4",
+      "q": "Key events of 1989 in Eastern Europe?",
+      "a": "Hungary opens border; Polish elections; Berlin Wall opened; Velvet Revolution.",
+      "hint": "Domino effect."
+    },
+    {
+      "id": "f5",
+      "s": "s4",
+      "q": "Why did German reunification matter for superpower relations?",
+      "a": "It ended the division of Europe; a united Germany stayed in NATO with Soviet agreement.",
+      "hint": "3 October 1990."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the role of Andropov, Gromyko, Gorbachev, Deng, Reagan, Thatcher and John Paul II.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain the causes of heightened tension in the early 1980s.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "judge",
+      "text": "I can judge the significance of economics in ending the Cold War.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "describe",
+      "text": "I can describe the breakdown of Soviet control in Eastern Europe and German reunification.",
+      "sections": [
+        "s4"
+      ]
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, January 2025, Q3",
+        "sections": [
+          "s3",
+          "s1"
+        ],
+        "q": "How far do you agree that, in the years 1985–90, the most significant factor in bringing the Cold War to an end was the impact of economic problems within the USSR?",
+        "model": [
+          {
+            "t": "Economic problems within the USSR were a crucial factor in ending the Cold War in 1985–90 because they forced Gorbachev to reduce the cost of confrontation. However, Gorbachev's 'new thinking', Reagan's willingness to negotiate and the collapse of communist rule in Eastern Europe also explain how it ended. Judged by impact, economic problems were the most significant underlying factor, but Gorbachev's choices turned them into an ending.",
+            "n": "Introduction: focuses on HOW the Cold War ended (examiners warn against explaining only why the USSR collapsed), names alternatives and criteria."
+          },
+          {
+            "t": "Point: Soviet economic weakness had a fundamental impact because the USSR could no longer afford the arms race.",
+            "n": "P — links the factor to a criterion (impact)."
+          },
+          {
+            "t": "Evidence: by the mid-1980s the economy was stagnating; the war in Afghanistan was costly; the fall in world oil prices in 1986 cut export earnings; and Chernobyl (April 1986) exposed technological failings while the USA was investing in SDI.",
+            "n": "E — precise, accurate and dated (watch the chronology — Gorbachev only from March 1985)."
+          },
+          {
+            "t": "Explain: as a result Gorbachev needed to cut military spending to fund perestroika, which led him to seek arms reductions such as the INF Treaty (1987) and to withdraw from Afghanistan (completed February 1989).",
+            "n": "E — explicitly connects economics to the ENDING of the Cold War."
+          },
+          {
+            "t": "Judge: however, economic problems alone did not decide the outcome — earlier leaders faced stagnation without ending the Cold War — so their significance depended on Gorbachev's decision to abandon the Brezhnev Doctrine.",
+            "n": "J — weighs the factor against another, using a valid comparison."
+          },
+          {
+            "t": "Conclusion: Overall, economic problems were the most significant factor in terms of impact and duration because they created the pressure for change, but they ended the Cold War only in combination with Gorbachev's new thinking and the events of 1989–90.",
+            "n": "Conclusion: ranked judgement using criteria; avoids just listing factors."
+          }
+        ],
+        "model_note": "Illustrative model written for this site (introduction, one PEEJ paragraph and conclusion), following the department factor frame and the January 2025 examiner advice. It is not a Pearson exemplar."
+      },
+      {
+        "id": "q2",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2024, Q3",
+        "sections": [
+          "s1"
+        ],
+        "q": "How far do you agree that Reagan was more influential than Gorbachev in the developments in the 1980s leading to the end of the Cold War?"
+      },
+      {
+        "id": "q3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2022, Q3",
+        "sections": [
+          "s2"
+        ],
+        "q": "How far do you agree that the most significant factor in heightening Cold War tensions in the early 1980s was the deployment of new missile systems in Europe?"
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Reagan, Gorbachev, economics or people power in Eastern Europe: which ended the Cold War? Use the department factor frame."
+    },
+    {
+      "id": "t2",
+      "kind": "Precision",
+      "task": "Write a one-line definition of glasnost, perestroika, new thinking and the Sinatra Doctrine without looking. Then check."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "y13-sp-2", "course": "y13", "area": "sp", "kt": "Key topic 2", "order": 22,
+  "title": "Conciliation and confrontation, 1953–64",
+  "status": "published",
+  "review": { "state": "awaiting-teacher-check", "note": "Original content following the IAL specification (Issue 6), Unit 4 Option 1C key topic 2." },
+  "learn": {
+    "intro": "After Stalin's death, a 'thaw' and Khrushchev's peaceful co-existence alternated with dangerous crises over Hungary, Berlin and Cuba. By 1964 the hot-line and Test Ban Treaty showed lessons had been learned — but China was now a nuclear power and a rival to Moscow.",
+    "sections": [
+      {
+        "id": "s1", "title": "1. Personalities, summits and peaceful co-existence",
+        "blocks": [
+          { "p": "Eisenhower (US President 1953–61) and his Secretary of State John Foster Dulles (to 1959) combined a hard line — 'massive retaliation' (1954) and brinkmanship — with willingness to talk. Khrushchev emerged as Soviet leader after 1953 and at the 20th Party Congress (February 1956) denounced Stalin and promoted 'peaceful co-existence': competition with the West without war." },
+          { "p": "Summits: Geneva (July 1955) produced little agreement but a friendlier 'spirit of Geneva'. Khrushchev visited the USA in September 1959 (Camp David). The Paris Summit (May 1960) collapsed after an American U-2 spy plane was shot down over the USSR on 1 May 1960. Kennedy's first meeting with Khrushchev at Vienna (June 1961) went badly and preceded the Berlin Wall." },
+          { "p": "Kennedy (1961–63) promised 'flexible response' instead of all-or-nothing nuclear threats, but also suffered the failed Bay of Pigs invasion (April 1961). Macmillan, British Prime Minister 1957–63, visited Moscow in 1959 and pressed for a test ban. Mao increasingly rejected peaceful co-existence as betrayal of revolution." }
+        ],
+        "terms": ["peaceful co-existence", "massive retaliation", "brinkmanship", "flexible response", "summit"],
+        "evidence": ["July 1955: Geneva Summit.", "February 1956: Khrushchev's 'secret speech'.", "1 May 1960: U-2 shot down; Paris Summit collapses.", "June 1961: Vienna Summit."]
+      },
+      {
+        "id": "s2", "title": "2. Developments along the Iron Curtain",
+        "blocks": [
+          { "p": "Austria: the Austrian State Treaty (May 1955) ended four-power occupation; Soviet troops withdrew and Austria became neutral. Reasons: to show peaceful co-existence in action, to encourage a neutral Germany, and because Austria was of limited strategic value. Impact: an early sign of the thaw, but also the creation of the Warsaw Pact (May 1955) the same month." },
+          { "p": "Hungary 1956: inspired by de-Stalinisation, Hungarians rose in October 1956. Imre Nagy announced Hungary would leave the Warsaw Pact; Soviet tanks crushed the rising from 4 November, with thousands killed. The West, distracted by Suez and unwilling to risk war, did not intervene — showing that the USA accepted the Soviet sphere in practice despite talk of 'rolling back' communism." },
+          { "p": "Berlin 1958–61: millions of East Germans fled to the West through Berlin, a 'brain drain'. In November 1958 Khrushchev issued an ultimatum demanding Western troops leave within six months; it lapsed. On 13 August 1961 East Germany sealed the border and built the Berlin Wall. Tank stand-off at Checkpoint Charlie (October 1961). The Wall stopped the exodus and, ironically, stabilised the crisis; Kennedy visited West Berlin in June 1963." }
+        ],
+        "terms": ["Austrian State Treaty", "Warsaw Pact", "Hungarian Rising", "Berlin ultimatum", "Berlin Wall"],
+        "evidence": ["May 1955: Austrian State Treaty; Warsaw Pact.", "October–November 1956: Hungarian Rising.", "November 1958: Berlin ultimatum.", "13 August 1961: Berlin Wall."]
+      },
+      {
+        "id": "s3", "title": "3. The shadow of the bomb",
+        "blocks": [
+          { "p": "Weapons and delivery: the USA tested a hydrogen bomb in 1952 and the USSR in 1953. The Soviet Sputnik satellite (October 1957) showed it could build long-range rockets, causing American fears of a 'missile gap' (in fact the USA had more missiles). Intercontinental ballistic missiles (ICBMs), long-range bombers and, from 1960, US Polaris submarine missiles made nuclear war faster and harder to defend against." },
+          { "p": "The Cuban Missile Crisis (October 1962): after the Bay of Pigs, the USSR secretly placed nuclear missiles on Cuba. US U-2 photographs revealed them on 14 October; Kennedy imposed a naval 'quarantine'. After thirteen days, Khrushchev agreed to remove the missiles in return for a US pledge not to invade Cuba, with a secret promise to remove US Jupiter missiles from Turkey." },
+          { "p": "Significance: both sides recognised how close they had come. The Washington–Moscow 'hot-line' was agreed in June 1963 for direct communication; the Partial Test Ban Treaty (August 1963) banned tests in the atmosphere, in space and under water. But China refused to sign and exploded its first atomic bomb in October 1964." }
+        ],
+        "terms": ["hydrogen bomb", "Sputnik", "missile gap", "ICBM", "Cuban Missile Crisis", "hot-line", "Test Ban Treaty"],
+        "evidence": ["October 1957: Sputnik.", "14–28 October 1962: Cuban Missile Crisis.", "June 1963: hot-line agreed.", "August 1963: Partial Test Ban Treaty.", "October 1964: China's first nuclear test."]
+      },
+      {
+        "id": "s4", "title": "4. The beginnings of the Sino-Soviet split",
+        "blocks": [
+          { "p": "Reasons: Mao resented Khrushchev's attack on Stalin and his peaceful co-existence; disputes over Soviet nuclear help (withdrawn in 1959); Soviet criticism of the Great Leap Forward; rivalry for leadership of world communism; Khrushchev's climb-down in Cuba, which Mao mocked. In 1960 the USSR withdrew its advisers from China." },
+          { "p": "Impact on East–West relations: the communist world was no longer a single bloc. Moscow had new reasons to stabilise relations with the West, while China's hostility to both superpowers and its bomb (1964) made the Cold War a three-cornered contest — preparing the ground for later US approaches to China." }
+        ],
+        "terms": ["Sino-Soviet split", "revisionism", "triangular diplomacy"],
+        "evidence": ["1959: Soviet nuclear help withdrawn.", "1960: Soviet advisers withdrawn from China."]
+      }
+    ],
+    "timeline": [
+      { "date": "March 1953", "event": "Stalin dies" },
+      { "date": "1954", "event": "Dulles announces 'massive retaliation'" },
+      { "date": "May 1955", "event": "Austrian State Treaty; Warsaw Pact" },
+      { "date": "July 1955", "event": "Geneva Summit" },
+      { "date": "Feb 1956", "event": "Khrushchev's 'secret speech'" },
+      { "date": "Oct–Nov 1956", "event": "Hungarian Rising crushed" },
+      { "date": "Oct 1957", "event": "Sputnik" },
+      { "date": "Nov 1958", "event": "Berlin ultimatum" },
+      { "date": "May 1960", "event": "U-2 incident; Paris Summit fails" },
+      { "date": "Aug 1961", "event": "Berlin Wall built" },
+      { "date": "Oct 1962", "event": "Cuban Missile Crisis" },
+      { "date": "1963", "event": "Hot-line and Partial Test Ban Treaty" },
+      { "date": "Oct 1964", "event": "China's first nuclear test; Khrushchev removed" }
+    ],
+    "people": [
+      { "name": "Dwight Eisenhower", "role": "US President 1953–61." },
+      { "name": "John Foster Dulles", "role": "US Secretary of State 1953–59; brinkmanship." },
+      { "name": "Nikita Khrushchev", "role": "Soviet leader c1955–64; peaceful co-existence." },
+      { "name": "John F. Kennedy", "role": "US President 1961–63; flexible response; Cuba." },
+      { "name": "Mao Zedong", "role": "Chinese leader; rejected peaceful co-existence." },
+      { "name": "Harold Macmillan", "role": "British PM 1957–63; pressed for a test ban." }
+    ],
+    "vocab": [
+      { "term": "Peaceful co-existence", "def": "Khrushchev's policy of competition with the West without war." },
+      { "term": "Brinkmanship", "def": "Pushing a crisis to the edge of war to force the other side to back down." },
+      { "term": "Missile gap", "def": "Mistaken US belief that the USSR had more missiles." },
+      { "term": "Hot-line", "def": "Direct communication link between Washington and Moscow (1963)." }
+    ],
+    "misconceptions": [
+      { "wrong": "Peaceful co-existence meant the end of rivalry.", "right": "It meant competition without war — crises over Berlin and Cuba still happened." },
+      { "wrong": "The USA tried to help Hungary in 1956.", "right": "It did not intervene, showing acceptance of the Soviet sphere." }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      { "id": "m1", "s": "s1", "q": "Why did the Paris Summit (1960) collapse?", "options": ["The Berlin Wall", "The U-2 incident", "The Hungarian Rising", "Cuba"], "answer": 1, "why": "Plane shot down 1 May 1960." },
+      { "id": "m2", "s": "s2", "q": "What did the Austrian State Treaty (1955) do?", "options": ["Divided Austria", "Ended occupation and made Austria neutral", "Put Austria in NATO", "Joined Austria to Germany"], "answer": 1, "why": "Soviet troops withdrew." },
+      { "id": "m3", "s": "s2", "q": "Why was the Berlin Wall built?", "options": ["To stop a Western invasion", "To stop East Germans fleeing to the West", "To celebrate Soviet victory", "On Kennedy's demand"], "answer": 1, "why": "Brain drain." },
+      { "id": "m4", "s": "s3", "q": "What was secretly agreed in the Cuban Missile Crisis?", "options": ["US missiles removed from Turkey", "Berlin reunited", "China admitted to the UN", "A test ban"], "answer": 0, "why": "Jupiter missiles." },
+      { "id": "m5", "s": "s4", "q": "When did the USSR withdraw its advisers from China?", "options": ["1956", "1960", "1963", "1969"], "answer": 1, "why": "Sino-Soviet split." }
+    ],
+    "short": [
+      { "id": "a1", "s": "s2", "q": "On what date was the Berlin border sealed?", "accept": ["13 august 1961", "13th august 1961", "august 13 1961"], "answer": "13 August 1961" },
+      { "id": "a2", "s": "s3", "q": "Which 1957 Soviet satellite caused fears of a missile gap?", "accept": ["sputnik", "sputnik 1"], "answer": "Sputnik" },
+      { "id": "a3", "s": "s1", "q": "Who was US Secretary of State associated with brinkmanship?", "accept": ["dulles", "john foster dulles"], "answer": "John Foster Dulles" }
+    ],
+    "chronology": [
+      { "id": "c1", "title": "Put these in order", "items": ["Austrian State Treaty", "Geneva Summit", "Hungarian Rising", "Sputnik", "U-2 incident", "Berlin Wall", "Cuban Missile Crisis", "Test Ban Treaty"] }
+    ],
+    "matching": [
+      { "id": "x1", "title": "Match the event to its significance", "pairs": [["Austrian State Treaty", "Peaceful co-existence in action"], ["Hungary 1956", "West accepts the Soviet sphere"], ["Berlin Wall", "Stopped the exodus, stabilised Berlin"], ["Hot-line", "Lesson learned from Cuba"]] }
+    ],
+    "evidence": [
+      { "id": "e1", "s": "s3", "q": "Give precise evidence that the Cuban Missile Crisis improved relations.", "keywords": [["hot-line", "hotline", "1963", "test ban", "turkey"]], "model": "A Washington–Moscow hot-line was agreed in June 1963 and the Partial Test Ban Treaty was signed in August 1963." }
+    ]
+  },
+  "flashcards": [
+    { "id": "f1", "s": "s1", "q": "What was peaceful co-existence?", "a": "Khrushchev's policy (from 1956) of competition with the West without war.", "hint": "20th Congress." },
+    { "id": "f2", "s": "s2", "q": "Why did the USSR withdraw from Austria?", "a": "To show peaceful co-existence, encourage a neutral Germany, limited strategic value.", "hint": "1955." },
+    { "id": "f3", "s": "s2", "q": "Significance of the Hungarian Rising?", "a": "Showed the USSR would use force to keep its satellites; the West would not intervene.", "hint": "Suez distraction." },
+    { "id": "f4", "s": "s3", "q": "Significance of the Cuban Missile Crisis?", "a": "Closest to nuclear war; led to the hot-line and Partial Test Ban Treaty; damaged Khrushchev.", "hint": "13 days." },
+    { "id": "f5", "s": "s4", "q": "How did the Sino-Soviet split affect East–West relations?", "a": "Ended a single communist bloc; three-cornered Cold War; Moscow had reasons to stabilise relations with the West.", "hint": "Triangle." }
+  ],
+  "checklist": [
+    { "id": "k1", "level": "explain", "text": "I can explain the role of Eisenhower, Dulles, Kennedy, Khrushchev, Mao and Macmillan, and the impact of summits.", "sections": ["s1"] },
+    { "id": "k2", "level": "explain", "text": "I can explain developments in Austria, Hungary and Berlin 1955–61.", "sections": ["s2"] },
+    { "id": "k3", "level": "judge", "text": "I can judge the significance of the Cuban Missile Crisis and the agreements that followed.", "sections": ["s3"] },
+    { "id": "k4", "level": "explain", "text": "I can explain the reasons for the Sino-Soviet split and its impact on East–West relations.", "sections": ["s4"] }
+  ],
+  "exam": {
+    "questions": [
+      { "id": "q1", "qtype": "u4b", "label": "Past paper: WHI04/1C, January 2025, Q2", "sections": ["s1", "s3"],
+        "q": "How accurate is it to say that under President Kennedy (1961–63) there was a significant change in US-Soviet relations from the US-Soviet relations that existed under President Eisenhower (1953–60)?" },
+      { "id": "q2", "qtype": "u4b", "label": "Past paper: WHI04/1C, June 2023, Q2", "sections": ["s2"],
+        "q": "How accurate is it to say that the Soviet Union implemented an aggressive foreign policy along the European Iron Curtain throughout the years 1953–64?" },
+      { "id": "q3", "qtype": "u4b", "label": "Teacher-created practice question (focus of the Summer 2025 Q2, which examiners reported on)", "sections": ["s1"],
+        "q": "To what extent was Khrushchev successful in achieving peaceful co-existence with the USA in the years 1953–64?" }
+    ]
+  },
+  "stretch": [
+    { "id": "t1", "kind": "Comparison", "task": "Compare Eisenhower and Kennedy: did the change of President matter more than the change in weapons technology?" },
+    { "id": "t2", "kind": "Turning points", "task": "Was Cuba (1962) a turning point or the climax of a pattern? Use Berlin and Hungary as comparisons." }
+  ]
+}

@@ -59,13 +59,13 @@
       ]
     },
     {
-      "id": "y11",
-      "year": "Year 11",
-      "title": "International GCSE History",
-      "enquiry": "Germany 1918–45 · Civil rights in the USA 1945–74 · The Vietnam Conflict 1945–75 · Changes in medicine c1848–c1948",
+      "id": "y10",
+      "year": "Year 10",
+      "title": "International GCSE History — Paper 1 Depth Studies",
+      "enquiry": "Germany: development of dictatorship 1918–45 · A divided union: civil rights in the USA 1945–74",
       "stage": "International GCSE",
-      "accent": "#1f5f8b",
-      "separation_note": "Year 11 Germany is the International GCSE depth study. It is kept separate from Year 12 Germany (International A Level Unit 1), which has different questions and mark schemes.",
+      "accent": "#2c6e63",
+      "separation_note": "Year 10 Germany and Civil Rights are the International GCSE depth studies (Paper 1). They are kept separate from Year 12 Germany and Year 13 Civil Rights (International A Level), which have different questions and mark schemes. Year 11 completes the course with Paper 2.",
       "areas": [
         {
           "id": "de",
@@ -76,16 +76,6 @@
           "id": "us",
           "title": "A divided union: civil rights in the USA, 1945–74",
           "paper": "Paper 1 · Depth study 7"
-        },
-        {
-          "id": "vn",
-          "title": "A4: The Vietnam Conflict, 1945–75",
-          "paper": "Paper 2 · Section A historical investigation"
-        },
-        {
-          "id": "med",
-          "title": "Changes in medicine, c1848–c1948",
-          "paper": "Paper 2 · Breadth study B2"
         }
       ],
       "exam": {
@@ -106,22 +96,6 @@
               "p1a",
               "p1b",
               "p1c"
-            ]
-          },
-          {
-            "code": "4HI1/02",
-            "title": "Paper 2: Investigation and Breadth Studies",
-            "duration": "1 hour 30 minutes",
-            "marks": 60,
-            "weighting": "50%",
-            "structure": "Section A: historical investigation A4 Vietnam (30 marks): (a) 6, (b) 8, (c) 16 — sources and an extract are in the paper. Section B: breadth study B2 Medicine (30 marks): (a) 6, (b) 8 and a choice of (c)(i) or (c)(ii) 16. Breadth-study (c) questions focus on the themes and normally draw on two or more key topics.",
-            "qtypes": [
-              "p2aa",
-              "p2ab",
-              "p2ac",
-              "p2ba",
-              "p2bb",
-              "p2bc"
             ]
           }
         ],
@@ -159,14 +133,6 @@
           {
             "title": "4HI1/01 mark scheme, June 2025 — question structure and level ranges",
             "url": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20MS%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
-          },
-          {
-            "title": "4HI1/02 mark scheme, June 2025 — Section A investigation structure and level ranges (same document as above)",
-            "note": "(a) describe two features; (b) how far does Source A support Source B; (c) Extract C interpretation"
-          },
-          {
-            "title": "4HI1/02 mark scheme, June 2025 — breadth study structure and level ranges",
-            "url": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20MS%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
           },
           {
             "title": "Arcadia IGCSE model paragraphs (uploaded)",
@@ -257,7 +223,20 @@
                 "descriptor": "The impression is clearly analysed, supported by well-selected detail from the extract, showing how the author's choices create it."
               }
             ]
-          }
+          },
+          "examiner": [
+            {
+              "series": "4HI1/01 November 2024 and Summer 2025",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-01-pef-20250821.pdf",
+              "strong": [
+                "Pick ONE clear impression, then explain HOW the author creates it — word choice, tone, emphasis, choice of evidence, or what is left out (e.g. a Rosa Parks extract that ignores Claudette Colvin)."
+              ],
+              "weak": [
+                "Identifying an impression and quoting supporting evidence only — this stays in Level 2.",
+                "Listing several impressions instead of developing one."
+              ]
+            }
+          ]
         },
         "p1b": {
           "label": "Paper 1 (b) — explain two effects",
@@ -333,7 +312,21 @@
               }
             ],
             "notes": "One effect only: maximum 4 marks, no access to Level 3."
-          }
+          },
+          "examiner": [
+            {
+              "series": "4HI1/01 November 2024 and Summer 2025",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-01-pef-20250821.pdf",
+              "strong": [
+                "Explain HOW the issue led to each effect, and say what the effect was on.",
+                "Accurate, specific knowledge (e.g. effects of the Reichstag Fire on Nazi power; effects of Watergate on trust in the presidency)."
+              ],
+              "weak": [
+                "Knowing the effect but not explaining the link.",
+                "General detail without specific examples."
+              ]
+            }
+          ]
         },
         "p1c": {
           "label": "Paper 1 (c) — how far do you agree",
@@ -425,8 +418,129 @@
               }
             ],
             "notes": "Three aspects needed (at least one beyond the prompts) to reach Level 4."
-          }
+          },
+          "examiner": [
+            {
+              "series": "4HI1/01 November 2024 and Summer 2025",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-01-pef-20250821.pdf",
+              "strong": [
+                "Focus on the question’s issue, second-order concept (cause, consequence, significance) and date range from the first paragraph.",
+                "Judge at the end of each paragraph, then weigh the factors in the conclusion.",
+                "Analyse relative importance and how factors interacted (e.g. hyperinflation against Versailles, the Ruhr and constitutional weakness)."
+              ],
+              "weak": [
+                "Describing events without explaining how they caused the outcome.",
+                "Drifting outside the date range or the topic (e.g. into the Eastern Front for a home-front question; into how Hitler became Chancellor for a question on the Party’s growth to 1928).",
+                "Confusing groups (e.g. Catholics and Protestants)."
+              ]
+            }
+          ]
+        }
+      },
+      "resources_received": [
+        "Specification Issue 4 (PDF)",
+        "Arcadia IGCSE model paragraphs (PPTX)"
+      ],
+      "resources_needed": [
+        "Class textbook or lesson decks for Germany and USA 1945–74 (to align explanations and page references)",
+        "Recent 4HI1/01 mark schemes you use in class (to tick the question-type mark schemes as verified)",
+        "Teacher-marked Year 10 answers (to check AI feedback)"
+      ]
+    },
+    {
+      "id": "y11",
+      "year": "Year 11",
+      "title": "International GCSE History — Paper 2 Investigation and Breadth Study",
+      "enquiry": "A4: The Vietnam Conflict 1945–75 · Changes in medicine c1848–c1948",
+      "stage": "International GCSE",
+      "accent": "#1f5f8b",
+      "separation_note": "Year 11 completes the International GCSE with Paper 2. Paper 1 (Germany and Civil Rights) was studied in Year 10 — use the Year 10 pages to revise it for the final exams.",
+      "areas": [
+        {
+          "id": "vn",
+          "title": "A4: The Vietnam Conflict, 1945–75",
+          "paper": "Paper 2 · Section A historical investigation"
         },
+        {
+          "id": "med",
+          "title": "Changes in medicine, c1848–c1948",
+          "paper": "Paper 2 · Breadth study B2"
+        }
+      ],
+      "exam": {
+        "verified": true,
+        "board": "Pearson Edexcel",
+        "qualification": "International GCSE in History (9–1)",
+        "codes": "4HI1 · Paper 1 4HI1/01 · Paper 2 4HI1/02",
+        "specification_version": "Issue 4, March 2022 (your uploaded copy). Pearson's website now shows Issue 5, February 2026 — check what changed.",
+        "papers": [
+          {
+            "code": "4HI1/02",
+            "title": "Paper 2: Investigation and Breadth Studies",
+            "duration": "1 hour 30 minutes",
+            "marks": 60,
+            "weighting": "50%",
+            "structure": "Section A: historical investigation A4 Vietnam (30 marks): (a) 6, (b) 8, (c) 16 — sources and an extract are in the paper. Section B: breadth study B2 Medicine (30 marks): (a) 6, (b) 8 and a choice of (c)(i) or (c)(ii) 16. Breadth-study (c) questions focus on the themes and normally draw on two or more key topics.",
+            "qtypes": [
+              "p2aa",
+              "p2ab",
+              "p2ac",
+              "p2ba",
+              "p2bb",
+              "p2bc"
+            ]
+          }
+        ],
+        "aos": [
+          {
+            "ao": "AO1",
+            "text": "Demonstrate knowledge and understanding of the key features and characteristics of the periods studied",
+            "weight": "34% (Paper 1 18%, Paper 2 16%)"
+          },
+          {
+            "ao": "AO2",
+            "text": "Explain, analyse and make judgements about historical events and periods studied using second-order historical concepts",
+            "weight": "36% (Paper 1 22%, Paper 2 14%)"
+          },
+          {
+            "ao": "AO3",
+            "text": "Use a range of source material to comprehend, interpret and cross-refer sources",
+            "weight": "15% (Paper 2 only)"
+          },
+          {
+            "ao": "AO4",
+            "text": "Analyse and evaluate historical interpretations in the context of historical events studied",
+            "weight": "15% (Paper 1 10%, Paper 2 5%)"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Pearson Edexcel International GCSE in History (4HI1) specification, Issue 4, March 2022",
+            "note": "Uploaded by Mr Garry — content, papers, AO weightings"
+          },
+          {
+            "title": "Specification Issue 5, February 2026 (Pearson website)",
+            "url": "https://qualifications.pearson.com/content/dam/pdf/International GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf"
+          },
+          {
+            "title": "4HI1/02 mark scheme, June 2025 — Section A investigation structure and level ranges (same document as above)",
+            "note": "(a) describe two features; (b) how far does Source A support Source B; (c) Extract C interpretation"
+          },
+          {
+            "title": "4HI1/02 mark scheme, June 2025 — breadth study structure and level ranges",
+            "url": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20MS%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
+          },
+          {
+            "title": "Arcadia IGCSE model paragraphs (uploaded)",
+            "note": "Department paragraph models used in the question-type guides"
+          }
+        ],
+        "open_questions": [
+          "Pearson also publishes 4WHI1 papers. Confirm which entry code Arcadia uses (4HI1 assumed).",
+          "The (c)(i)/(c)(ii) choice is inferred from the marks (6 + 8 + 16 = 30 per question); confirm on a current paper's rubric."
+        ]
+      },
+      "qtypes": {
         "p2ba": {
           "label": "Paper 2 B (a) — explain two similarities or differences",
           "paper": "Paper 2 Section B",
@@ -704,7 +818,20 @@
               }
             ],
             "notes": "One feature only: maximum 3 marks."
-          }
+          },
+          "examiner": [
+            {
+              "series": "4HI1 Paper 2A June 2022 and November 2021",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/exam-materials/4hi1-2a-pef-20220825.pdf",
+              "strong": [
+                "Signpost two separate features (\"One feature… A second feature…\").",
+                "Concise answers — Level 3 is reachable in well under a side."
+              ],
+              "weak": [
+                "Over-long answers that waste time for the 16-mark question."
+              ]
+            }
+          ]
         },
         "p2ab": {
           "label": "Paper 2 A (b) — how far does Source A support Source B",
@@ -770,7 +897,22 @@
               }
             ],
             "notes": "Both agreement and difference are needed for 5 marks or more."
-          }
+          },
+          "examiner": [
+            {
+              "series": "4HI1 Paper 2A June 2022 and November 2021",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/exam-materials/4hi1-2a-pef-20220825.pdf",
+              "strong": [
+                "Show agreement AND difference, supported by quoting or paraphrasing both sources.",
+                "Judge the overall extent of support, including tone and overall message, not just details (e.g. both sources agreed Rolling Thunder caused damage but was not a complete success)."
+              ],
+              "weak": [
+                "Similarity and difference asserted without support.",
+                "Not explaining where the sources differ or what one source says that the other does not.",
+                "Commenting on reliability — it is not credited here."
+              ]
+            }
+          ]
         },
         "p2ac": {
           "label": "Paper 2 A (c) — how far do you agree with Extract C",
@@ -856,7 +998,23 @@
                 "descriptor": "Sustained evaluation of the interpretation, integrating the extract, both sources and precise knowledge; well-justified judgement."
               }
             ]
-          }
+          },
+          "examiner": [
+            {
+              "series": "4HI1 Paper 2A June 2022 and November 2021",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/exam-materials/4hi1-2a-pef-20220825.pdf",
+              "strong": [
+                "State a judgement early and sustain it.",
+                "Use the sources AND the extract AND own knowledge for both sides; use contradictory material in the counter-argument.",
+                "Notice subtleties in the extract (e.g. a US \"victory\" that was not a real success)."
+              ],
+              "weak": [
+                "One-sided answers or a source-by-source audit.",
+                "Using the extract to prove its own claim.",
+                "Leaving the judgement to a brief conclusion, or not concluding."
+              ]
+            }
+          ]
         }
       },
       "resources_received": [
@@ -865,7 +1023,7 @@
       ],
       "resources_needed": [
         "Vietnam source packs or past-paper source booklets (Sources A–B and Extract C) so source questions can be marked",
-        "Class textbook or lesson decks for Germany, USA 1945–74 and Medicine (to align explanations and page references)",
+        "Class textbook or lesson decks for Vietnam and Medicine (to align explanations and page references)",
         "Recent 4HI1 mark schemes you use in class (to tick the question-type mark schemes as verified)",
         "Teacher-marked Year 11 answers (to check AI feedback)"
       ]
@@ -877,7 +1035,7 @@
       "enquiry": "Unit 1 · Germany, 1918–45 · Unit 2 · China, 1900–76",
       "stage": "International A Level (IAS)",
       "accent": "#7a2e3a",
-      "separation_note": "Unit 1 Germany here is the IAL course; Year 11 Germany (International GCSE) is separate. Unit 2 Russia (1C) was taken by last year's cohort and is not included.",
+      "separation_note": "Unit 1 Germany here is the IAL course; Year 10 Germany (International GCSE) is separate. Unit 2 Russia (1C) was taken by last year's cohort and is not included.",
       "areas": [
         {
           "id": "de",
@@ -1081,7 +1239,24 @@
               }
             ],
             "notes": "Best fit across three strands: (1) analysis of the issues raised by the view, (2) selection and deployment of knowledge, (3) substantiated evaluation and judgement. One mark out of 25 — AO1 and AO3 are not marked separately."
-          }
+          },
+          "examiner": [
+            {
+              "series": "WHI01/1C January 2020",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI01_1C_pef_20200305.pdf",
+              "strong": [
+                "Engage with the stated view throughout, not just in the conclusion.",
+                "Test the view with a range of issues and set out clear criteria for the judgement.",
+                "Plan before writing — planned answers scored higher."
+              ],
+              "weak": [
+                "Ignoring the stated view or mentioning it only at the end (limits the answer to Level 1).",
+                "Narrating or listing reasons instead of evaluating the view.",
+                "Answering a related but different question, or writing everything known on the topic.",
+                "Judgements without valid criteria."
+              ]
+            }
+          ]
         },
         "u2a": {
           "label": "Section A (a) — value of a source",
@@ -1149,7 +1324,22 @@
               }
             ],
             "notes": "Limitations are not rewarded in (a)."
-          }
+          },
+          "examiner": [
+            {
+              "series": "WHI02/1B Summer 2022 (via an online copy of Pearson’s report)",
+              "url": "https://papers.xtremepape.rs/Edexcel/Advanced%20Level/History/2022%20Jun/Examiner-report/Examinerreport-Unit2B-June2022.pdf",
+              "strong": [
+                "Make valid inferences from the content, not paraphrase.",
+                "Use context to develop and test those inferences."
+              ],
+              "weak": [
+                "Writing only about provenance without engaging with the content.",
+                "Free-standing context not tied to inferences.",
+                "Discussing limitations — they earn no credit in (a)."
+              ]
+            }
+          ]
         },
         "u2b": {
           "label": "Section A (b) — weight of a source",
@@ -1222,7 +1412,22 @@
                 "descriptor": "Analyses the source material, interrogating the evidence to make reasoned inferences and to show a range of ways the material can be used, for example by distinguishing between information and claim or opinion. Deploys well-selected knowledge of the historical context, but mainly to illuminate or discuss the limitations of what can be gained from the content of the source material. Displays some understanding of the need to interpret source material in the context of the values and concerns of the society from which it is drawn. Evaluation of the source material uses valid criteria which are justified and applied, although some of the evaluation may not be fully substantiated. Evaluation takes into account the weight the evidence will bear as part of coming to a judgement."
               }
             ]
-          }
+          },
+          "examiner": [
+            {
+              "series": "WHI02/1B Summer 2022 (via an online copy of Pearson’s report)",
+              "url": "https://papers.xtremepape.rs/Edexcel/Advanced%20Level/History/2022%20Jun/Examiner-report/Examinerreport-Unit2B-June2022.pdf",
+              "strong": [
+                "Weigh strengths and limitations, considering author, audience, purpose and when it was published.",
+                "Reach a judgement about weight."
+              ],
+              "weak": [
+                "\"Adding and subtracting\" weight rather than judging it.",
+                "Rigid three-part structures that leave knowledge disconnected from inferences.",
+                "Saying a source is weak because it omits events."
+              ]
+            }
+          ]
         },
         "u2c": {
           "label": "Section B — breadth essay",
@@ -1304,7 +1509,22 @@
                 "descriptor": "Key issues relevant to the question are explored by an analysis of the relationships between key features of the period. Sufficient knowledge is deployed to demonstrate understanding of the demands and conceptual focus of the question and to meet most of its demands. Valid criteria by which the question can be judged are established and applied in the process of coming to a judgement. Although some of the evaluations may be only partly substantiated, the overall judgement is supported. The answer is generally well organised. The argument is logical and is communicated with clarity, although in a few places it may lack coherence or precision."
               }
             ]
-          }
+          },
+          "examiner": [
+            {
+              "series": "WHI02/1B Summer 2022 (via an online copy of Pearson’s report)",
+              "url": "https://papers.xtremepape.rs/Edexcel/Advanced%20Level/History/2022%20Jun/Examiner-report/Examinerreport-Unit2B-June2022.pdf",
+              "strong": [
+                "Tight focus on the second-order concept (causation, significance, change) and the date range.",
+                "Plan; choose three or four key themes and link them into an integrated argument."
+              ],
+              "weak": [
+                "Straying outside the date range (e.g. into Qing rule for a later question).",
+                "Covering only part of the date range.",
+                "Imprecise knowledge and description rather than analysis."
+              ]
+            }
+          ]
         }
       },
       "resources_received": [
@@ -1326,10 +1546,10 @@
       "id": "y13",
       "year": "Year 13",
       "title": "International A Level History — Civil Rights and Superpowers",
-      "enquiry": "Unit 3 · Civil Rights 1865–2009 · Unit 4 · Superpower Relations 1943–90 (to confirm)",
+      "enquiry": "Unit 3 · Civil Rights 1865–2009 · Unit 4 · Superpower Relations 1943–90",
       "stage": "International A Level (IA2)",
       "accent": "#8a6a12",
-      "separation_note": "This is IAL Unit 3. Year 11 civil rights (International GCSE, 1945–74) is a separate course with different questions.",
+      "separation_note": "This is IAL Unit 3. Year 10 civil rights (International GCSE, 1945–74) is a separate course with different questions.",
       "areas": [
         {
           "id": "cr",
@@ -1338,7 +1558,7 @@
         },
         {
           "id": "sp",
-          "title": "Option 1C: The World Divided: Superpower Relations, 1943–90 (to confirm)",
+          "title": "Option 1C: The World Divided: Superpower Relations, 1943–90",
           "paper": "Unit 4 (WHI04/1C)"
         }
       ],
@@ -1346,7 +1566,7 @@
         "verified": true,
         "board": "Pearson Edexcel",
         "qualification": "International Advanced Level in History (YHI01)",
-        "codes": "Unit 3: WHI03/1D · Unit 4: WHI04/1C (to confirm)",
+        "codes": "Unit 3: WHI03/1D · Unit 4: WHI04/1C",
         "specification_version": "Issue 6, July 2021",
         "papers": [
           {
@@ -1429,9 +1649,7 @@
           "Section B levels: the training booklet's Unit 3 Section B table shows four levels (1–6 … 19–25), but its own examiner commentary refers to Level 5, and the January 2021 WHI03/1D mark scheme has five levels (1–4, 5–8, 9–14, 15–20, 21–25). The site uses the five-level ranges from the published mark scheme.",
           "Your Question 2 deck says 'Use the PEEJ writing frame and SPEND throughout'. Your saved preference is PEEJ, never SPEND, and your factor sheet uses SPEDA (statistics, key people, events, dates, acts/laws). The site uses PEEJ with SPEDA — tell me if you want SPEND instead."
         ],
-        "open_questions": [
-          "You said the class probably takes Unit 4 Superpowers. The exam guide is ready; I will write the four topics once you confirm."
-        ]
+        "open_questions": []
       },
       "qtypes": {
         "u3a": {
@@ -1517,7 +1735,23 @@
               }
             ],
             "notes": "Best fit; one mark out of 25 (AO2)."
-          }
+          },
+          "examiner": [
+            {
+              "series": "WHI03/1D Summer 2025",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International-Advanced-Level/History/2015/Exam-materials/whi03-1d-pef-20250814.pdf",
+              "strong": [
+                "Use the two sources together; draw supported inferences.",
+                "Weigh provenance and context to judge strengths and limits of each."
+              ],
+              "weak": [
+                "Paraphrasing with few inferences.",
+                "Using knowledge only to confirm or challenge details.",
+                "Judging sources by omissions or unsupported claims of bias.",
+                "Treating the sources separately, or knowledge without source reference."
+              ]
+            }
+          ]
         },
         "u3b": {
           "label": "Section B — thematic essay across periods",
@@ -1625,7 +1859,22 @@
               }
             ],
             "notes": "Best fit; one mark out of 25 (AO1)."
-          }
+          },
+          "examiner": [
+            {
+              "series": "WHI03/1D Summer 2025",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International-Advanced-Level/History/2015/Exam-materials/whi03-1d-pef-20250814.pdf",
+              "strong": [
+                "Wide-ranging evidence, a sustained argument weighing both sides, clear overall judgement.",
+                "Cover every period named in the question with accurate dates."
+              ],
+              "weak": [
+                "Narrative or generalised answers; one-sided arguments.",
+                "Treating several events (e.g. the 1883 Supreme Court decisions) as one block.",
+                "Thin coverage of one of the named periods."
+              ]
+            }
+          ]
         },
         "u4a": {
           "label": "Unit 4 Section A — evaluating two interpretations",
@@ -1708,7 +1957,26 @@
               }
             ],
             "notes": "Best fit; AO1 5 + AO3 20 marked together. Provenance of the extracts is not credited."
-          }
+          },
+          "examiner": [
+            {
+              "series": "WHI04/1C January 2025 and Summer 2025",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International-Advanced-Level/History/2015/Exam-materials/whi04-1c-pef-20250814.pdf",
+              "strong": [
+                "Read both extracts fully and set out each historian’s argument, naming them.",
+                "Treat extracts as interpretations to assess, not sources to evaluate for provenance.",
+                "Test the views with precise knowledge (e.g. Truman Doctrine, Marshall Aid, Berlin Blockade, NATO, COMECON, East Germany).",
+                "Reach an overall judgement on the view in the question."
+              ],
+              "weak": [
+                "Evaluating authors’ backgrounds, nationality or bias.",
+                "Writing a Section B-style essay that uses the extracts as evidence.",
+                "Reading only part of a sentence and misreading the author’s view.",
+                "Long background narratives from 1917 or after 1953.",
+                "Giving one extract less attention than the other."
+              ]
+            }
+          ]
         },
         "u4b": {
           "label": "Unit 4 Section B — essay on 1953–90",
@@ -1815,7 +2083,24 @@
               }
             ],
             "notes": "Best fit; one mark out of 25 (AO1)."
-          }
+          },
+          "examiner": [
+            {
+              "series": "WHI04/1C January 2025 and Summer 2025",
+              "url": "https://qualifications.pearson.com/content/dam/pdf/International-Advanced-Level/History/2015/Exam-materials/whi04-1c-pef-20250306.pdf",
+              "strong": [
+                "Cover the whole period in the question; a thematic structure (arms control, proxy wars, economics, China) works well.",
+                "Compare periods or leaders properly (e.g. Eisenhower as well as Kennedy).",
+                "Link causes explicitly to the outcome asked about (e.g. how Soviet economic weakness ended the Cold War, not why the USSR collapsed)."
+              ],
+              "weak": [
+                "Chronology errors (Kennedy in the 1970s, Gorbachev before 1985, détente in the 1950s).",
+                "Drifting outside the dates (e.g. Cuba in a 1964–79 question).",
+                "Describing rather than analysing; mentioning other factors without weighing them.",
+                "Confusing glasnost and perestroika."
+              ]
+            }
+          ]
         }
       },
       "resources_received": [
@@ -1824,9 +2109,10 @@
         "Getting Ready to Teach IAL History Module 2 booklet and slides"
       ],
       "resources_needed": [
-        "Confirmation of the Unit 4 option (Superpowers assumed)",
         "Class textbook or lesson decks for Unit 3 (to align explanations and add page references)",
-        "Teacher-marked Year 13 essays and source answers (to check AI feedback)"
+        "Teacher-marked Year 13 essays and source answers (to check AI feedback)",
+        "Extract booklets for WHI04/1C past papers (so Section A practice can be marked)",
+        "Class reading or lesson decks for Superpowers (to add page references)"
       ]
     }
   ]

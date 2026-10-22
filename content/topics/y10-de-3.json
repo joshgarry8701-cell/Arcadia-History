@@ -1,0 +1,586 @@
+{
+  "id": "y10-de-3",
+  "course": "y10",
+  "area": "de",
+  "kt": "Key topic 3",
+  "order": 3,
+  "title": "The rise of Hitler and the Nazis to January 1933",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following 4HI1 Depth study 3, key topic 3. Read more: Payne, Pearson Edexcel International GCSE Germany, chapter 3 (pp. 39–59)."
+  },
+  "learn": {
+    "intro": "How did a small Munich party become the largest in Germany, and how did Hitler become Chancellor in January 1933 without ever winning a majority?",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Hitler and the early party, 1919–22",
+        "blocks": [
+          {
+            "p": "Hitler joined the German Workers' Party (DAP), led by Anton Drexler, in September 1919. He was a powerful speaker and soon became its leading figure. In 1920 the party published its 25-Point Programme and renamed itself the National Socialist German Workers' Party (NSDAP), or Nazi Party."
+          },
+          {
+            "p": "Changes 1920–22: Hitler became party leader in 1921; the party adopted the swastika symbol and bought a newspaper, the Völkischer Beobachter; and the SA (stormtroopers or 'Brownshirts') was set up in 1921, led by Ernst Röhm, to protect Nazi meetings and disrupt opponents'."
+          }
+        ],
+        "terms": [
+          "NSDAP",
+          "25-Point Programme",
+          "SA",
+          "swastika"
+        ],
+        "evidence": [
+          "September 1919: Hitler joins the DAP.",
+          "1920: 25-Point Programme; renamed NSDAP.",
+          "1921: Hitler becomes leader; SA set up."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 3"
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. The Munich Putsch, 1923",
+        "blocks": [
+          {
+            "p": "Causes: Germans were angry about the Ruhr occupation and hyperinflation; Hitler wanted to copy Mussolini's March on Rome; and the Bavarian government was right-wing, so he hoped its leaders would join him."
+          },
+          {
+            "p": "Events: on 8 November 1923 Hitler and the SA burst into a meeting at a Munich beer hall and forced the Bavarian leaders Kahr, Lossow and Seisser to support him. They later changed their minds. On 9 November Hitler, with the war hero General Ludendorff, marched into Munich; police opened fire and 16 Nazis were killed."
+          },
+          {
+            "p": "Results: the Nazi Party was banned and Hitler was put on trial. The trial gave him national publicity; the judge sentenced him to five years but he served only nine months in Landsberg prison, where he wrote Mein Kampf. He decided to win power legally, through elections."
+          }
+        ],
+        "terms": [
+          "putsch",
+          "Mein Kampf",
+          "Landsberg"
+        ],
+        "evidence": [
+          "8–9 November 1923: Munich Putsch; 16 Nazis killed.",
+          "Sentenced to 5 years; served 9 months."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 3"
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Reorganisation and the Depression",
+        "blocks": [
+          {
+            "p": "Reorganisation 1924–28: Hitler refounded the party in 1925 and set up branches across Germany run by Gauleiters; the SS was formed as his bodyguard; the Hitler Youth was set up; Joseph Goebbels ran propaganda. But in the stable 'Golden Years' the Nazis won only 12 seats in 1928."
+          },
+          {
+            "p": "The Great Depression: after the Wall Street Crash (October 1929), American banks recalled their loans. German businesses closed and unemployment rose to 6 million by 1932. Coalition governments could not agree what to do, so Chancellor Brüning ruled by decree using Article 48 and cut spending, which made people suffer more."
+          },
+          {
+            "p": "Many Germans turned to extreme parties. The Nazis rose from 12 seats (1928) to 107 (1930) and 230 (July 1932), becoming the largest party. The Communists grew too, which frightened the middle classes and business owners."
+          }
+        ],
+        "terms": [
+          "Great Depression",
+          "Wall Street Crash",
+          "unemployment",
+          "rule by decree"
+        ],
+        "evidence": [
+          "October 1929: Wall Street Crash.",
+          "Unemployment 6 million by 1932.",
+          "Nazi seats: 12 (1928), 107 (1930), 230 (July 1932)."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 3"
+        ]
+      },
+      {
+        "id": "s4",
+        "title": "4. Nazi methods and the role of the SA",
+        "blocks": [
+          {
+            "ul": [
+              "Propaganda: Goebbels used posters, newspapers, radio, rallies and films with simple slogans such as 'Work and Bread'.",
+              "Hitler's image: a strong leader who would make Germany great again; in 1932 he flew around Germany to speak at rallies.",
+              "Promises to everyone: jobs for workers, protection for farmers and small businesses, action against communists for the middle classes and industrialists.",
+              "Scapegoats: blaming Jews, communists and the 'November criminals' for Germany's problems.",
+              "The SA: hundreds of thousands of Brownshirts marched, protected Nazi meetings and attacked opponents, especially communists, giving an image of order and strength — while causing violence on the streets."
+            ]
+          }
+        ],
+        "terms": [
+          "propaganda",
+          "scapegoat",
+          "Brownshirts"
+        ],
+        "evidence": [
+          "1932: Hitler's flights to rallies across Germany.",
+          "SA street violence against communists."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 3"
+        ]
+      },
+      {
+        "id": "s5",
+        "title": "5. From 1932 to January 1933",
+        "blocks": [
+          {
+            "p": "In the presidential election of 1932 Hitler won about 13 million votes but lost to Hindenburg. Brüning was replaced by Franz von Papen in May 1932. After the July 1932 election the Nazis were the largest party, but Hindenburg refused to make Hitler Chancellor."
+          },
+          {
+            "p": "In the November 1932 election the Nazis lost seats (196) and money was running short. Hindenburg appointed General Kurt von Schleicher as Chancellor in December, but he could not win support in the Reichstag."
+          },
+          {
+            "p": "Papen persuaded Hindenburg to appoint Hitler as Chancellor with Papen as Vice-Chancellor, believing that with only three Nazis in the cabinet they could control him. Hitler became Chancellor on 30 January 1933."
+          }
+        ],
+        "terms": [
+          "Chancellor",
+          "Vice-Chancellor",
+          "backstairs deal"
+        ],
+        "evidence": [
+          "1932: Hitler wins about 13 million votes in the presidential election.",
+          "November 1932: Nazis fall to 196 seats.",
+          "30 January 1933: Hitler appointed Chancellor."
+        ],
+        "refs": [
+          "Payne, IGCSE Germany, ch. 3"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "Sept 1919",
+        "event": "Hitler joins the German Workers' Party"
+      },
+      {
+        "date": "1920",
+        "event": "25-Point Programme; party renamed NSDAP"
+      },
+      {
+        "date": "1921",
+        "event": "Hitler becomes leader; SA set up"
+      },
+      {
+        "date": "Nov 1923",
+        "event": "Munich Putsch"
+      },
+      {
+        "date": "1925",
+        "event": "Party refounded; SS formed"
+      },
+      {
+        "date": "1928",
+        "event": "Nazis win only 12 seats"
+      },
+      {
+        "date": "Oct 1929",
+        "event": "Wall Street Crash"
+      },
+      {
+        "date": "1930",
+        "event": "Nazis win 107 seats"
+      },
+      {
+        "date": "July 1932",
+        "event": "Nazis win 230 seats — the largest party"
+      },
+      {
+        "date": "Nov 1932",
+        "event": "Nazis fall to 196 seats"
+      },
+      {
+        "date": "Dec 1932",
+        "event": "Schleicher becomes Chancellor"
+      },
+      {
+        "date": "30 Jan 1933",
+        "event": "Hitler becomes Chancellor"
+      }
+    ],
+    "people": [
+      {
+        "name": "Anton Drexler",
+        "role": "Founder of the German Workers' Party."
+      },
+      {
+        "name": "Ernst Röhm",
+        "role": "Leader of the SA."
+      },
+      {
+        "name": "Joseph Goebbels",
+        "role": "Nazi propaganda chief."
+      },
+      {
+        "name": "Heinrich Brüning",
+        "role": "Chancellor 1930–32; ruled by decree."
+      },
+      {
+        "name": "Franz von Papen",
+        "role": "Chancellor 1932; persuaded Hindenburg to appoint Hitler."
+      },
+      {
+        "name": "Kurt von Schleicher",
+        "role": "Chancellor December 1932–January 1933."
+      },
+      {
+        "name": "Paul von Hindenburg",
+        "role": "President who appointed Hitler."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "SA",
+        "def": "Stormtroopers or Brownshirts — the Nazi private army."
+      },
+      {
+        "term": "SS",
+        "def": "Hitler's elite bodyguard, formed 1925."
+      },
+      {
+        "term": "Propaganda",
+        "def": "Information designed to persuade people."
+      },
+      {
+        "term": "Depression",
+        "def": "A severe economic slump with mass unemployment."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Hitler was voted in as Chancellor.",
+        "right": "Hindenburg appointed him; the Nazis never had a majority of votes."
+      },
+      {
+        "wrong": "The Munich Putsch was a total failure for Hitler.",
+        "right": "It failed as a revolt but the trial made him famous and changed his strategy."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Who led the SA?",
+        "options": [
+          "Goebbels",
+          "Röhm",
+          "Himmler",
+          "Drexler"
+        ],
+        "answer": 1,
+        "why": "Ernst Röhm."
+      },
+      {
+        "id": "m2",
+        "s": "s2",
+        "q": "What did Hitler write in prison?",
+        "options": [
+          "The 25-Point Programme",
+          "Mein Kampf",
+          "The Völkischer Beobachter",
+          "The Nuremberg Laws"
+        ],
+        "answer": 1,
+        "why": "In Landsberg prison, 1924."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "How many Nazis were killed in the Munich Putsch?",
+        "options": [
+          "2",
+          "16",
+          "60",
+          "400"
+        ],
+        "answer": 1,
+        "why": "Police opened fire on 9 November 1923."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "How many unemployed were there in Germany by 1932?",
+        "options": [
+          "1 million",
+          "3 million",
+          "6 million",
+          "10 million"
+        ],
+        "answer": 2,
+        "why": "After US loans were recalled."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "How many seats did the Nazis win in July 1932?",
+        "options": [
+          "12",
+          "107",
+          "196",
+          "230"
+        ],
+        "answer": 3,
+        "why": "The largest party."
+      },
+      {
+        "id": "m6",
+        "s": "s5",
+        "q": "Who persuaded Hindenburg to appoint Hitler?",
+        "options": [
+          "Brüning",
+          "Papen",
+          "Schleicher",
+          "Stresemann"
+        ],
+        "answer": 1,
+        "why": "Papen became Vice-Chancellor."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "What was the German Workers' Party renamed in 1920?",
+        "accept": [
+          "nsdap",
+          "nazi party",
+          "national socialist german workers party",
+          "national socialist german workers' party"
+        ],
+        "answer": "NSDAP (Nazi Party)"
+      },
+      {
+        "id": "a2",
+        "s": "s4",
+        "q": "Who ran Nazi propaganda?",
+        "accept": [
+          "goebbels",
+          "joseph goebbels"
+        ],
+        "answer": "Joseph Goebbels"
+      },
+      {
+        "id": "a3",
+        "s": "s5",
+        "q": "On what date did Hitler become Chancellor?",
+        "accept": [
+          "30 january 1933",
+          "30th january 1933",
+          "january 30 1933",
+          "30 january"
+        ],
+        "answer": "30 January 1933"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Hitler joins the DAP",
+          "SA set up",
+          "Munich Putsch",
+          "Wall Street Crash",
+          "Nazis become largest party",
+          "Schleicher becomes Chancellor",
+          "Hitler becomes Chancellor"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the election to Nazi seats",
+        "pairs": [
+          [
+            "1928",
+            "12 seats"
+          ],
+          [
+            "1930",
+            "107 seats"
+          ],
+          [
+            "July 1932",
+            "230 seats"
+          ],
+          [
+            "November 1932",
+            "196 seats"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s3",
+        "q": "Give precise evidence that the Depression helped the Nazis.",
+        "keywords": [
+          [
+            "6 million",
+            "six million",
+            "12",
+            "107",
+            "230",
+            "loans"
+          ]
+        ],
+        "model": "Unemployment rose to 6 million by 1932 and Nazi seats rose from 12 (1928) to 230 (July 1932)."
+      },
+      {
+        "id": "e2",
+        "s": "s5",
+        "q": "Give precise evidence that Hitler came to power through a deal.",
+        "keywords": [
+          [
+            "papen",
+            "hindenburg",
+            "three",
+            "vice"
+          ]
+        ],
+        "model": "Papen persuaded Hindenburg to appoint Hitler with Papen as Vice-Chancellor and only three Nazis in the cabinet."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Name two changes to the party in 1920–22.",
+      "a": "Renamed NSDAP; 25-Point Programme; swastika; own newspaper; SA set up; Hitler as leader.",
+      "hint": "Name, flag, paper, army."
+    },
+    {
+      "id": "f2",
+      "s": "s2",
+      "q": "Give two causes of the Munich Putsch.",
+      "a": "Anger at the Ruhr occupation and hyperinflation; copying Mussolini; hoping Bavarian leaders would join.",
+      "hint": "1923 crisis."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "Give two results of the Munich Putsch.",
+      "a": "Party banned; Hitler's trial gave him publicity; Mein Kampf; decision to use elections.",
+      "hint": "Trial."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "How did the party reorganise 1924–28?",
+      "a": "Gauleiters ran regional branches; SS and Hitler Youth set up; Goebbels's propaganda.",
+      "hint": "Branches."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "How did the Depression affect Germany?",
+      "a": "US loans recalled; businesses closed; 6 million unemployed by 1932; rule by decree.",
+      "hint": "1929."
+    },
+    {
+      "id": "f6",
+      "s": "s4",
+      "q": "Give three Nazi methods of winning support.",
+      "a": "Propaganda; Hitler's image and rallies; promises to each group; scapegoats; SA marches and violence.",
+      "hint": "Goebbels."
+    },
+    {
+      "id": "f7",
+      "s": "s5",
+      "q": "Why did Papen and Hindenburg appoint Hitler?",
+      "a": "They thought they could control him with only three Nazis in the cabinet, and needed Reichstag support.",
+      "hint": "Control."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe Hitler's early career and changes to the party in 1920–22.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain the causes, events and results of the Munich Putsch.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain how the party was reorganised in 1924–28.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain the impact of the Great Depression and Nazi methods, including the SA.",
+      "sections": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge why Hitler became Chancellor in January 1933, including the roles of Papen, Schleicher and Hindenburg.",
+      "sections": [
+        "s5"
+      ]
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1",
+        "qtype": "p1b",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s2"
+        ],
+        "q": "Explain two effects of the Munich Putsch on the Nazi Party."
+      },
+      {
+        "id": "q2",
+        "qtype": "p1c",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "q": "‘The main reason why Hitler became Chancellor in January 1933 was the Great Depression.’\nHow far do you agree? Explain your answer.",
+        "prompts": [
+          "the Great Depression",
+          "Nazi propaganda"
+        ]
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Rank the Depression, propaganda, the SA and the actions of Papen and Hindenburg. Which was necessary for Hitler to become Chancellor?"
+    },
+    {
+      "id": "t2",
+      "kind": "Counterfactual",
+      "task": "If the Wall Street Crash had not happened, would Hitler have become Chancellor? Use the 1928 election result."
+    }
+  ]
+}

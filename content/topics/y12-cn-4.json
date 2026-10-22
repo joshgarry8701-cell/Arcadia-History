@@ -1,120 +1,488 @@
 {
-  "id": "y12-cn-4", "course": "y12", "area": "cn", "kt": "Key topic 4", "order": 14,
+  "id": "y12-cn-4",
+  "course": "y12",
+  "area": "cn",
+  "kt": "Key topic 4",
+  "order": 14,
   "title": "Social and cultural changes, 1900–76",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following the IAL specification (Issue 6), Option 1B key topic 4. Figures to be checked against class resources." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following the IAL specification (Issue 6), Option 1B key topic 4. Figures to be checked against class resources."
+  },
   "learn": {
     "intro": "Women's lives, health, education, belief and culture all changed between 1900 and 1976 — first through Western influence and the May 4th generation, then through the Communist regime's campaigns. Essays often ask how far change reached the countryside, or how significant one reform was.",
     "sections": [
       {
-        "id": "s1", "title": "1. The changing status of women",
+        "id": "s1",
+        "title": "1. The changing status of women",
         "blocks": [
-          { "p": "Early 20th century: Western ideas, missionary schools and girls' education spread new views. Anti-foot-binding societies grew, and the new Republic discouraged the practice after 1912, though it continued in rural areas for years. The May 4th generation attacked arranged marriages and Confucian rules that made women subordinate to fathers and husbands." },
-          { "p": "The Communist regime 1949–66: the Marriage Law of 1 May 1950 banned arranged marriages, child marriage, concubinage and the sale of brides, and gave women the right to divorce and to own property. Many women used it to escape bad marriages — divorce cases rose sharply in the early 1950s — but there was violent resistance in some villages, and many women were killed or took their own lives in disputes." },
-          { "p": "Patterns of change 1950–76: women joined the workforce in large numbers, especially during the Great Leap Forward, and Mao's slogan said 'women hold up half the sky'. But women usually earned fewer work points, still did most housework, and were rare in senior Party posts. Change was much faster in cities than in the countryside, where traditional family structures persisted." }
+          {
+            "p": "Early 20th century: Western ideas, missionary schools and girls' education spread new views. Anti-foot-binding societies grew, and the new Republic discouraged the practice after 1912, though it continued in rural areas for years. The May 4th generation attacked arranged marriages and Confucian rules that made women subordinate to fathers and husbands."
+          },
+          {
+            "p": "The Communist regime 1949–66: the Marriage Law of 1 May 1950 banned arranged marriages, child marriage, concubinage and the sale of brides, and gave women the right to divorce and to own property. Many women used it to escape bad marriages — divorce cases rose sharply in the early 1950s — but there was violent resistance in some villages, and many women were killed or took their own lives in disputes."
+          },
+          {
+            "p": "Patterns of change 1950–76: women joined the workforce in large numbers, especially during the Great Leap Forward, and Mao's slogan said 'women hold up half the sky'. But women usually earned fewer work points, still did most housework, and were rare in senior Party posts. Change was much faster in cities than in the countryside, where traditional family structures persisted."
+          }
         ],
-        "terms": ["foot binding", "arranged marriage", "Marriage Law 1950", "concubinage", "work points"],
-        "evidence": ["1 May 1950: Marriage Law.", "Divorce cases rose sharply in the early 1950s.", "Urban–rural differences persisted to 1976."]
+        "terms": [
+          "foot binding",
+          "arranged marriage",
+          "Marriage Law 1950",
+          "concubinage",
+          "work points"
+        ],
+        "evidence": [
+          "1 May 1950: Marriage Law.",
+          "Divorce cases rose sharply in the early 1950s.",
+          "Urban–rural differences persisted to 1976."
+        ]
       },
       {
-        "id": "s2", "title": "2. Education and health provision",
+        "id": "s2",
+        "title": "2. Education and health provision",
         "blocks": [
-          { "p": "Early 20th century: missionaries founded schools, universities and hospitals that spread Western medicine and educational ideas; the Rockefeller-funded Peking Union Medical College opened in 1917. The abolition of the imperial examinations (1905) opened the way to modern schools. But provision was concentrated in cities and coastal areas." },
-          { "p": "Growth of literacy after 1949: mass literacy campaigns, winter schools for peasants, simplified characters (from 1956) and pinyin romanisation (1958) helped literacy rise substantially. Education was used for political indoctrination, and the Cultural Revolution closed universities from 1966, with entrance exams not restored until after Mao's death." },
-          { "p": "Health: Patriotic Health Campaigns attacked disease through mass sanitation and the 'Four Pests' campaign (1958) — killing sparrows contributed to insect damage to crops. From 1965 Mao demanded more rural healthcare, and 'barefoot doctors' — peasants with a few months' training — gave basic treatment, vaccinations and hygiene advice. Life expectancy rose sharply between 1949 and 1976. Failures: limited training, shortages of medicine, and the famine of 1959–61." }
+          {
+            "p": "Early 20th century: missionaries founded schools, universities and hospitals that spread Western medicine and educational ideas; the Rockefeller-funded Peking Union Medical College opened in 1917. The abolition of the imperial examinations (1905) opened the way to modern schools. But provision was concentrated in cities and coastal areas."
+          },
+          {
+            "p": "Growth of literacy after 1949: mass literacy campaigns, winter schools for peasants, simplified characters (from 1956) and pinyin romanisation (1958) helped literacy rise substantially. Education was used for political indoctrination, and the Cultural Revolution closed universities from 1966, with entrance exams not restored until after Mao's death."
+          },
+          {
+            "p": "Health: Patriotic Health Campaigns attacked disease through mass sanitation and the 'Four Pests' campaign (1958) — killing sparrows contributed to insect damage to crops. From 1965 Mao demanded more rural healthcare, and 'barefoot doctors' — peasants with a few months' training — gave basic treatment, vaccinations and hygiene advice. Life expectancy rose sharply between 1949 and 1976. Failures: limited training, shortages of medicine, and the famine of 1959–61."
+          }
         ],
-        "terms": ["missionaries", "literacy campaign", "simplified characters", "barefoot doctors", "Patriotic Health Campaign"],
-        "evidence": ["1917: Peking Union Medical College.", "1956: simplified characters; 1958: pinyin.", "1958: Four Pests campaign.", "From 1965: barefoot doctors."]
+        "terms": [
+          "missionaries",
+          "literacy campaign",
+          "simplified characters",
+          "barefoot doctors",
+          "Patriotic Health Campaign"
+        ],
+        "evidence": [
+          "1917: Peking Union Medical College.",
+          "1956: simplified characters; 1958: pinyin.",
+          "1958: Four Pests campaign.",
+          "From 1965: barefoot doctors."
+        ]
       },
       {
-        "id": "s3", "title": "3. Cultural and religious change",
+        "id": "s3",
+        "title": "3. Cultural and religious change",
         "blocks": [
-          { "p": "Christianity spread through missionary schools, hospitals and converts in the early 20th century; leading figures such as Sun Yat-sen and Chiang Kai-shek were Christians. Marxism spread after the Russian Revolution and May 4th; the CCP was founded in 1921." },
-          { "p": "The May 4th generation and the New Culture Movement (e.g. Chen Duxiu's magazine New Youth) rejected Confucian thought as the cause of China's weakness, calling for 'Mr Science and Mr Democracy' and writing in vernacular Chinese." },
-          { "p": "American culture influenced cities like Shanghai in the 1930s and 40s — Hollywood films, jazz, fashion and consumer goods — alongside a lively Chinese film and publishing industry." },
-          { "p": "Attacks on religion under the Communists: foreign missionaries were expelled in the early 1950s, churches were placed under state-controlled bodies such as the Three-Self Patriotic Movement, Buddhist and Daoist institutions were restricted, and Tibet was occupied in 1950, with the Dalai Lama fleeing in 1959." },
-          { "p": "The Cultural Revolution 1966–76 and its significance: Red Guards attacked the 'Four Olds' (old customs, culture, habits and ideas), destroying temples, books and art and persecuting teachers and intellectuals. Jiang Qing allowed only a few 'model operas'. From 1968 millions of urban youth were sent 'up to the mountains and down to the countryside'. Its significance: a 'lost generation' of education, deep distrust of the Party, and the destruction of much cultural heritage." }
+          {
+            "p": "Christianity spread through missionary schools, hospitals and converts in the early 20th century; leading figures such as Sun Yat-sen and Chiang Kai-shek were Christians. Marxism spread after the Russian Revolution and May 4th; the CCP was founded in 1921."
+          },
+          {
+            "p": "The May 4th generation and the New Culture Movement (e.g. Chen Duxiu's magazine New Youth) rejected Confucian thought as the cause of China's weakness, calling for 'Mr Science and Mr Democracy' and writing in vernacular Chinese."
+          },
+          {
+            "p": "American culture influenced cities like Shanghai in the 1930s and 40s — Hollywood films, jazz, fashion and consumer goods — alongside a lively Chinese film and publishing industry."
+          },
+          {
+            "p": "Attacks on religion under the Communists: foreign missionaries were expelled in the early 1950s, churches were placed under state-controlled bodies such as the Three-Self Patriotic Movement, Buddhist and Daoist institutions were restricted, and Tibet was occupied in 1950, with the Dalai Lama fleeing in 1959."
+          },
+          {
+            "p": "The Cultural Revolution 1966–76 and its significance: Red Guards attacked the 'Four Olds' (old customs, culture, habits and ideas), destroying temples, books and art and persecuting teachers and intellectuals. Jiang Qing allowed only a few 'model operas'. From 1968 millions of urban youth were sent 'up to the mountains and down to the countryside'. Its significance: a 'lost generation' of education, deep distrust of the Party, and the destruction of much cultural heritage."
+          }
         ],
-        "terms": ["Christianity", "Marxism", "New Culture Movement", "Confucianism", "Four Olds", "Red Guards"],
-        "evidence": ["1915 onward: New Youth magazine.", "1921: CCP founded.", "Early 1950s: missionaries expelled.", "1966: Red Guards attack the Four Olds.", "From 1968: 'up to the mountains and down to the countryside'."]
+        "terms": [
+          "Christianity",
+          "Marxism",
+          "New Culture Movement",
+          "Confucianism",
+          "Four Olds",
+          "Red Guards"
+        ],
+        "evidence": [
+          "1915 onward: New Youth magazine.",
+          "1921: CCP founded.",
+          "Early 1950s: missionaries expelled.",
+          "1966: Red Guards attack the Four Olds.",
+          "From 1968: 'up to the mountains and down to the countryside'."
+        ]
       }
     ],
     "timeline": [
-      { "date": "1905", "event": "Imperial examinations abolished" },
-      { "date": "1912", "event": "Republic discourages foot binding" },
-      { "date": "1915", "event": "New Youth magazine; New Culture Movement" },
-      { "date": "1917", "event": "Peking Union Medical College opens" },
-      { "date": "1921", "event": "CCP founded" },
-      { "date": "1 May 1950", "event": "Marriage Law" },
-      { "date": "Early 1950s", "event": "Foreign missionaries expelled" },
-      { "date": "1956–58", "event": "Simplified characters and pinyin" },
-      { "date": "1965", "event": "Barefoot doctors expanded" },
-      { "date": "1966", "event": "Cultural Revolution: attack on the Four Olds" }
+      {
+        "date": "1905",
+        "event": "Imperial examinations abolished"
+      },
+      {
+        "date": "1912",
+        "event": "Republic discourages foot binding"
+      },
+      {
+        "date": "1915",
+        "event": "New Youth magazine; New Culture Movement"
+      },
+      {
+        "date": "1917",
+        "event": "Peking Union Medical College opens"
+      },
+      {
+        "date": "1921",
+        "event": "CCP founded"
+      },
+      {
+        "date": "1 May 1950",
+        "event": "Marriage Law"
+      },
+      {
+        "date": "Early 1950s",
+        "event": "Foreign missionaries expelled"
+      },
+      {
+        "date": "1956–58",
+        "event": "Simplified characters and pinyin"
+      },
+      {
+        "date": "1965",
+        "event": "Barefoot doctors expanded"
+      },
+      {
+        "date": "1966",
+        "event": "Cultural Revolution: attack on the Four Olds"
+      }
     ],
     "people": [
-      { "name": "Chen Duxiu", "role": "Editor of New Youth; co-founder of the CCP." },
-      { "name": "Jiang Qing", "role": "Controlled culture during the Cultural Revolution; model operas." },
-      { "name": "Mao Zedong", "role": "'Women hold up half the sky'; launched the Cultural Revolution." }
+      {
+        "name": "Chen Duxiu",
+        "role": "Editor of New Youth; co-founder of the CCP."
+      },
+      {
+        "name": "Jiang Qing",
+        "role": "Controlled culture during the Cultural Revolution; model operas."
+      },
+      {
+        "name": "Mao Zedong",
+        "role": "'Women hold up half the sky'; launched the Cultural Revolution."
+      }
     ],
     "vocab": [
-      { "term": "Foot binding", "def": "Tradition of tightly binding girls' feet to keep them small." },
-      { "term": "Barefoot doctor", "def": "Peasant with basic medical training serving rural areas." },
-      { "term": "Four Olds", "def": "Old customs, culture, habits and ideas — targets of the Red Guards." },
-      { "term": "Confucianism", "def": "Traditional ethical system stressing hierarchy, family duty and order." }
+      {
+        "term": "Foot binding",
+        "def": "Tradition of tightly binding girls' feet to keep them small."
+      },
+      {
+        "term": "Barefoot doctor",
+        "def": "Peasant with basic medical training serving rural areas."
+      },
+      {
+        "term": "Four Olds",
+        "def": "Old customs, culture, habits and ideas — targets of the Red Guards."
+      },
+      {
+        "term": "Confucianism",
+        "def": "Traditional ethical system stressing hierarchy, family duty and order."
+      }
     ],
     "misconceptions": [
-      { "wrong": "The Marriage Law brought immediate equality.", "right": "It met resistance, especially in rural areas, and inequality persisted." },
-      { "wrong": "Barefoot doctors were trained physicians.", "right": "They had only a few months' training and gave basic care." }
+      {
+        "wrong": "The Marriage Law brought immediate equality.",
+        "right": "It met resistance, especially in rural areas, and inequality persisted."
+      },
+      {
+        "wrong": "Barefoot doctors were trained physicians.",
+        "right": "They had only a few months' training and gave basic care."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "What did the 1950 Marriage Law ban?", "options": ["Divorce", "Arranged marriages and concubinage", "Women working", "Education for girls"], "answer": 1, "why": "Also gave women the right to divorce." },
-      { "id": "m2", "s": "s1", "q": "Where was change for women slowest?", "options": ["Shanghai", "Beijing", "Rural areas", "Universities"], "answer": 2, "why": "Traditional families persisted." },
-      { "id": "m3", "s": "s2", "q": "Who were barefoot doctors?", "options": ["Western missionaries", "Peasants with basic medical training", "Army surgeons", "Soviet advisers"], "answer": 1, "why": "Expanded from 1965." },
-      { "id": "m4", "s": "s3", "q": "What did the May 4th generation reject?", "options": ["Science", "Confucian thought", "Nationalism", "Vernacular Chinese"], "answer": 1, "why": "Blamed for China's weakness." },
-      { "id": "m5", "s": "s3", "q": "What were the 'Four Olds'?", "options": ["Four elderly leaders", "Old customs, culture, habits and ideas", "Four ancient cities", "Four religions"], "answer": 1, "why": "Red Guard targets." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What did the 1950 Marriage Law ban?",
+        "options": [
+          "Divorce",
+          "Arranged marriages and concubinage",
+          "Women working",
+          "Education for girls"
+        ],
+        "answer": 1,
+        "why": "Also gave women the right to divorce."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Where was change for women slowest?",
+        "options": [
+          "Shanghai",
+          "Beijing",
+          "Rural areas",
+          "Universities"
+        ],
+        "answer": 2,
+        "why": "Traditional families persisted."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Who were barefoot doctors?",
+        "options": [
+          "Western missionaries",
+          "Peasants with basic medical training",
+          "Army surgeons",
+          "Soviet advisers"
+        ],
+        "answer": 1,
+        "why": "Expanded from 1965."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "What did the May 4th generation reject?",
+        "options": [
+          "Science",
+          "Confucian thought",
+          "Nationalism",
+          "Vernacular Chinese"
+        ],
+        "answer": 1,
+        "why": "Blamed for China's weakness."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "What were the 'Four Olds'?",
+        "options": [
+          "Four elderly leaders",
+          "Old customs, culture, habits and ideas",
+          "Four ancient cities",
+          "Four religions"
+        ],
+        "answer": 1,
+        "why": "Red Guard targets."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s1", "q": "In what year was the Marriage Law passed?", "accept": ["1950"], "answer": "1950" },
-      { "id": "a2", "s": "s3", "q": "Who edited New Youth?", "accept": ["chen duxiu"], "answer": "Chen Duxiu" },
-      { "id": "a3", "s": "s2", "q": "Which romanisation system was introduced in 1958?", "accept": ["pinyin"], "answer": "Pinyin" }
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "In what year was the Marriage Law passed?",
+        "accept": [
+          "1950"
+        ],
+        "answer": "1950"
+      },
+      {
+        "id": "a2",
+        "s": "s3",
+        "q": "Who edited New Youth?",
+        "accept": [
+          "chen duxiu"
+        ],
+        "answer": "Chen Duxiu"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "Which romanisation system was introduced in 1958?",
+        "accept": [
+          "pinyin"
+        ],
+        "answer": "Pinyin"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these in order", "items": ["Examinations abolished", "New Youth founded", "Peking Union Medical College", "Marriage Law", "Pinyin introduced", "Barefoot doctors expanded", "Attack on the Four Olds"] }
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Examinations abolished",
+          "New Youth founded",
+          "Peking Union Medical College",
+          "Marriage Law",
+          "Pinyin introduced",
+          "Barefoot doctors expanded",
+          "Attack on the Four Olds"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the change to its period", "pairs": [["Missionary hospitals and schools", "Early 20th century"], ["Hollywood films in Shanghai", "1930s–40s"], ["Marriage Law", "1950"], ["Red Guards", "1966"]] }
+      {
+        "id": "x1",
+        "title": "Match the change to its period",
+        "pairs": [
+          [
+            "Missionary hospitals and schools",
+            "Early 20th century"
+          ],
+          [
+            "Hollywood films in Shanghai",
+            "1930s–40s"
+          ],
+          [
+            "Marriage Law",
+            "1950"
+          ],
+          [
+            "Red Guards",
+            "1966"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s2", "q": "Give precise evidence about barefoot doctors and health provision.", "keywords": [["1965", "barefoot", "vaccination", "life expectancy", "training"]], "model": "From 1965 barefoot doctors with a few months' training gave basic care and vaccinations in rural areas; life expectancy rose sharply between 1949 and 1976." }
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Give precise evidence about barefoot doctors and health provision.",
+        "keywords": [
+          [
+            "1965",
+            "barefoot",
+            "vaccination",
+            "life expectancy",
+            "training"
+          ]
+        ],
+        "model": "From 1965 barefoot doctors with a few months' training gave basic care and vaccinations in rural areas; life expectancy rose sharply between 1949 and 1976."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "What did the Marriage Law of 1950 do?", "a": "Banned arranged and child marriage, concubinage and bride sales; allowed divorce and property rights for women.", "hint": "1 May 1950." },
-    { "id": "f2", "s": "s1", "q": "How far did women's status change 1950–76?", "a": "More work and legal rights, but fewer work points, housework burden, few senior posts; slower change in rural areas.", "hint": "Half the sky?" },
-    { "id": "f3", "s": "s2", "q": "Successes and failures of healthcare under Mao?", "a": "Successes: sanitation campaigns, barefoot doctors, rising life expectancy. Failures: limited training, shortages, the famine.", "hint": "Both sides." },
-    { "id": "f4", "s": "s3", "q": "How did the Communists attack religion?", "a": "Expelled missionaries; state-controlled churches (Three-Self); restricted Buddhism and Daoism; Red Guards destroyed temples.", "hint": "Control + destruction." },
-    { "id": "f5", "s": "s3", "q": "What was the significance of the Cultural Revolution?", "a": "Destroyed heritage, closed universities, sent youth to the countryside, created a 'lost generation' and distrust of the Party.", "hint": "1966–76." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "What did the Marriage Law of 1950 do?",
+      "a": "Banned arranged and child marriage, concubinage and bride sales; allowed divorce and property rights for women.",
+      "hint": "1 May 1950."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "How far did women's status change 1950–76?",
+      "a": "More work and legal rights, but fewer work points, housework burden, few senior posts; slower change in rural areas.",
+      "hint": "Half the sky?"
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "Successes and failures of healthcare under Mao?",
+      "a": "Successes: sanitation campaigns, barefoot doctors, rising life expectancy. Failures: limited training, shortages, the famine.",
+      "hint": "Both sides."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "How did the Communists attack religion?",
+      "a": "Expelled missionaries; state-controlled churches (Three-Self); restricted Buddhism and Daoism; Red Guards destroyed temples.",
+      "hint": "Control + destruction."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "What was the significance of the Cultural Revolution?",
+      "a": "Destroyed heritage, closed universities, sent youth to the countryside, created a 'lost generation' and distrust of the Party.",
+      "hint": "1966–76."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "judge", "text": "I can judge how far the status of women changed 1900–76, including the Marriage Law.", "sections": ["s1"] },
-    { "id": "k2", "level": "explain", "text": "I can explain changes in education and literacy 1900–76.", "sections": ["s2"] },
-    { "id": "k3", "level": "judge", "text": "I can judge the significance of barefoot doctors in health provision.", "sections": ["s2"] },
-    { "id": "k4", "level": "explain", "text": "I can explain cultural and religious change, including the Cultural Revolution.", "sections": ["s3"] }
+    {
+      "id": "k1",
+      "level": "judge",
+      "text": "I can judge how far the status of women changed 1900–76, including the Marriage Law.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain changes in education and literacy 1900–76.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "judge",
+      "text": "I can judge the significance of barefoot doctors in health provision.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain cultural and religious change, including the Cultural Revolution.",
+      "sections": [
+        "s3"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "u2c", "label": "Past paper: WHI02/1B, May 2025, Q4", "sections": ["s2"],
-        "q": "How significant were barefoot doctors in the development of health provision in China in the years 1949–76?" },
-      { "id": "q2", "qtype": "u2c", "label": "Past paper: WHI02/1B, January 2025, Q4", "sections": ["s3"],
-        "q": "How accurate is it to say that the main consequence of the Cultural Revolution (1966–76) was the strengthening of Mao's control over China?" },
-      { "id": "q3", "qtype": "u2c", "label": "Teacher-created practice question", "sections": ["s1"],
-        "q": "How far did the status of women in China change in the years 1900–76?" }
+      {
+        "id": "q1",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, May 2025, Q4",
+        "sections": [
+          "s2"
+        ],
+        "q": "How significant were barefoot doctors in the development of health provision in China in the years 1949–76?",
+        "model": [
+          {
+            "t": "Barefoot doctors were significant in the development of health provision in China in 1949–76 because they took basic medicine to the countryside for the first time. However, the mass Patriotic Health Campaigns and the expansion of urban hospitals also mattered. Judged by scope and impact, barefoot doctors were the most significant development after 1965, but earlier campaigns did more to cut deaths from infectious disease.",
+            "n": "Introduction: answers the question directly, names the other developments, sets criteria (scope, impact) and gives a qualified judgement."
+          },
+          {
+            "t": "Point: Barefoot doctors had very wide scope because they reached rural communes where most Chinese people lived.",
+            "n": "P — topic sentence on the factor in the question, linked to a criterion."
+          },
+          {
+            "t": "Evidence: from 1965, after Mao attacked the Ministry of Health for serving only the cities, peasants were given a few months' training to give vaccinations, basic treatment and hygiene advice; by the mid-1970s there were well over a million of them.",
+            "n": "E — precise, dated evidence (SPEDA: event, person, statistic). Check the figure against your class notes."
+          },
+          {
+            "t": "Explain: this meant that for the first time millions of villagers had regular access to some medical care, which helped raise life expectancy.",
+            "n": "E — explains HOW the evidence shows significance."
+          },
+          {
+            "t": "Judge: however, their impact was limited by short training and shortages of medicine, so in terms of effectiveness they were less significant than the earlier campaigns against disease.",
+            "n": "J — weighs the factor against a criterion (effectiveness) — this is what lifts the paragraph to Level 3–4."
+          },
+          {
+            "t": "Conclusion: Overall, barefoot doctors were highly significant in widening the scope of health provision after 1965, but the Patriotic Health Campaigns of the 1950s had a greater impact on reducing disease, so they were significant without being the single most important development across 1949–76.",
+            "n": "Conclusion: ranks the developments against the criteria and covers the whole date range."
+          }
+        ],
+        "model_note": "Illustrative model written for this site (introduction, one PEEJ paragraph and conclusion), following the department factor frame. It is not a Pearson exemplar."
+      },
+      {
+        "id": "q2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2025, Q4",
+        "sections": [
+          "s3"
+        ],
+        "q": "How accurate is it to say that the main consequence of the Cultural Revolution (1966–76) was the strengthening of Mao's control over China?"
+      },
+      {
+        "id": "q3",
+        "qtype": "u2c",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s1"
+        ],
+        "q": "How far did the status of women in China change in the years 1900–76?"
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Change and continuity", "task": "Urban vs rural: create a two-column comparison of women's lives in 1976. Where was change real?" },
-    { "id": "t2", "kind": "Synoptic", "task": "Link the Cultural Revolution to key topic 1 (Mao's control) and key topic 3 (economic chaos). Which consequence was most significant?" }
+    {
+      "id": "t1",
+      "kind": "Change and continuity",
+      "task": "Urban vs rural: create a two-column comparison of women's lives in 1976. Where was change real?"
+    },
+    {
+      "id": "t2",
+      "kind": "Synoptic",
+      "task": "Link the Cultural Revolution to key topic 1 (Mao's control) and key topic 3 (economic chaos). Which consequence was most significant?"
+    }
   ]
 }

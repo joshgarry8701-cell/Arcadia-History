@@ -8,6 +8,8 @@
   "scripts": {
     "start": "node --no-warnings server/index.js",
     "test": "node --no-warnings --test test/*.test.js",
-    "build:preview": "node scripts/build-preview.js"
+    "build:preview": "node scripts/build-preview.js",
+    "build:handbook": "node scripts/build-handbook.js",
+    "build:pack": "bash scripts/build-pack.sh"
   }
 }

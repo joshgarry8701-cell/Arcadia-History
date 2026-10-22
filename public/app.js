@@ -329,6 +329,14 @@ function modelBlock(q) {
   if (!q.model || !q.model.length) return '';
   return html`<div class="model">${q.model.map((m) => html`<div class="seg"><p>${m.t}</p><em>${m.n}</em></div>`)}${q.model_note ? html`<p class="small muted">${q.model_note}</p>` : html`<p class="small muted">An example, not the only way to answer.</p>`}</div>`;
 }
+function examinerBlock(qt) {
+  if (!qt.examiner || !qt.examiner.length) return '';
+  return html`<details class="fold"><summary>What examiners said</summary><div>${qt.examiner.map((r) => html`<p class="eyebrow">${r.series}</p>
+    ${r.strong && r.strong.length ? html`<p class="small"><strong>Strong answers</strong></p><ul>${r.strong.map((x) => html`<li>${x}</li>`)}</ul>` : ''}
+    ${r.weak && r.weak.length ? html`<p class="small"><strong>Common weaknesses</strong></p><ul>${r.weak.map((x) => html`<li>${x}</li>`)}</ul>` : ''}
+    ${r.url ? html`<p class="small muted"><a href="${r.url}" target="_blank" rel="noopener">Read the full report</a></p>` : ''}`)}
+    <p class="small muted">Paraphrased from Pearson's published examiner reports.</p></div></details>`;
+}
 function qtypeGuide(c, key, qt) {
   const past = [];
   for (const t of courseTopics(c)) { const full = S.topics[t.id]; if (!full) continue; for (const q of full.exam.questions) if (q.qtype === key) past.push({ t: full, q }); }
@@ -341,6 +349,7 @@ function qtypeGuide(c, key, qt) {
     <details class="fold"><summary>Planning and timing</summary><div><p>${qt.plan}</p></div></details>
     <details class="fold"><summary>Assessment criteria and mark scheme levels</summary><div><ul>${qt.success.map((x) => html`<li>${x}</li>`)}</ul>${levelsTable(qt.markscheme)}${qt.criteria_list ? html`<p class="eyebrow">Judgement criteria</p><ul>${qt.criteria_list.map((x) => html`<li>${x}</li>`)}</ul>` : ''}${qt.evidence_tip ? html`<p class="small">${qt.evidence_tip}</p>` : ''}</div></details>
     <details class="fold"><summary>Common mistakes</summary><div><ul>${qt.mistakes.map((x) => html`<li>${x}</li>`)}</ul></div></details>
+    ${examinerBlock(qt)}
     <details class="fold"><summary>Writing frame${(qt.frames || []).length > 1 ? 's' : ''}</summary><div>${(qt.frames || (qt.frame ? [{ name: 'Writing frame', ...qt.frame }] : [])).map((f) => html`<div class="frame"><span class="eyebrow">${f.name}</span><ol>${f.full.map((l) => html`<li>${l}</li>`)}</ol></div>`)}</div></details>
     ${qt.model ? html`<details class="fold"><summary>Annotated model</summary><div>${modelBlock(qt)}</div></details>` : ''}
     ${qt.requires_sources ? html`<p class="small muted">This question type needs the sources or extracts from the paper. Practise with past papers from Pearson's website or the questions Mr Garry adds.</p>` : ''}
@@ -688,6 +697,7 @@ function viewExamQ(t, rawQ) {
       <details class="fold"><summary>Planning and timing</summary><div><p>${q.plan}</p></div></details>
       <details class="fold"><summary>${q.qtype ? 'Assessment criteria and mark scheme' : 'Success criteria' + (q.markscheme && q.markscheme.verified ? '' : ' (draft)')}</summary><div>${!q.qtype && !(q.markscheme && q.markscheme.verified) ? html`<p class="small muted">Teacher-created draft — department criteria not yet added.</p>` : ''}<ul>${q.success.map((s) => html`<li>${s}</li>`)}</ul>${q.qtype ? levelsTable(q.markscheme) : ''}</div></details>
       <details class="fold"><summary>Common mistakes</summary><div><ul>${q.mistakes.map((s) => html`<li>${s}</li>`)}</ul></div></details>
+      ${examinerBlock(q)}
       ${q.model && q.model.length ? html`<details class="fold"><summary>Annotated model${rawQ.model ? ' for this question' : ' (this question type)'}</summary><div>${modelBlock(q)}</div></details>` : ''}
     </section>
     <section class="panel" id="practice">

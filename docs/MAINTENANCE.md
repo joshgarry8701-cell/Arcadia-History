@@ -25,7 +25,7 @@ Rules that keep content accurate:
 - Practice questions you write are labelled "Teacher-created". Call a question a past-paper question only when you can name the paper.
 - Sources need real provenance (who, when, why). Label any invented practice extract as teacher-created; never present it as a real quotation.
 - Write content in your own words; don't paste textbook passages.
-- Year 11 Germany / Civil Rights are separate topic files from Year 12 Germany and Year 13 Civil Rights. Never share question banks between them.
+- Year 10 Germany / Civil Rights are separate topic files from Year 12 Germany and Year 13 Civil Rights. Never share question banks between them.
 
 ## Exam details for Years 11–13
 
@@ -53,6 +53,7 @@ Check files before uploading: `node scripts/validate-content.js`.
 npm test                 # 11 API tests: permissions, saving, limits, budget ceiling, question-type marking, backup/restore
 node scripts/validate-content.js   # checks every topic file
 npm run build:preview    # rebuilds dist/preview.html
+npm run build:pack       # rebuilds the content handbook and the Lovable / AI Studio build pack
 git add -A && git commit -m "Describe the change"
 ```
 

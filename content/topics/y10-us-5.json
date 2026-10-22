@@ -1,0 +1,418 @@
+{
+  "id": "y10-us-5",
+  "course": "y10",
+  "area": "us",
+  "kt": "Key topic 5",
+  "order": 15,
+  "title": "Nixon and Watergate",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following 4HI1 Depth study 7, key topic 5."
+  },
+  "learn": {
+    "intro": "A break-in at the Democratic Party's offices in 1972 grew into a scandal that forced President Nixon to resign in 1974 — the only US President ever to do so — and led to new laws limiting presidential power.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Reasons for and key features of the scandal",
+        "blocks": [
+          {
+            "p": "Nixon was secretive and suspicious of opponents; he kept an 'enemies list' and his Committee for the Re-election of the President (nicknamed CREEP) used dirty tricks. On 17 June 1972 five men were arrested breaking into the Democratic National Committee's offices in the Watergate building in Washington, DC. They were linked to CREEP."
+          },
+          {
+            "p": "Nixon won a landslide re-election in November 1972, but Washington Post journalists Bob Woodward and Carl Bernstein, helped by a secret source ('Deep Throat'), kept investigating. A Senate committee held televised hearings in 1973. White House counsel John Dean testified that Nixon was involved in a cover-up, and an aide revealed that Nixon secretly taped conversations in his office."
+          },
+          {
+            "p": "Nixon refused to hand over the tapes. In October 1973 he had the special prosecutor, Archibald Cox, sacked (the 'Saturday Night Massacre'). In July 1974 the Supreme Court ruled unanimously in US v Nixon that he must release them, and the House Judiciary Committee approved articles of impeachment. One tape — the 'smoking gun' — showed he had ordered the cover-up. Nixon resigned on 9 August 1974."
+          }
+        ],
+        "terms": [
+          "CREEP",
+          "cover-up",
+          "impeachment",
+          "smoking gun"
+        ],
+        "evidence": [
+          "17 June 1972: Watergate break-in.",
+          "November 1972: Nixon re-elected.",
+          "October 1973: Saturday Night Massacre.",
+          "July 1974: US v Nixon.",
+          "9 August 1974: Nixon resigns."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Impact on Nixon, US politics and new laws",
+        "blocks": [
+          {
+            "p": "Nixon became the first President to resign. Gerald Ford became President. On 8 September 1974 Ford gave Nixon a full pardon for any crimes — many Americans were angry, and it probably helped Ford lose the 1976 election."
+          },
+          {
+            "p": "Trust in government fell sharply. Democrats made big gains in the 1974 congressional elections. The media's investigative role grew."
+          },
+          {
+            "ul": [
+              "War Powers Act (1973): limited the President's power to send troops into action without Congress's approval.",
+              "Election Campaign Act (1974): limits on campaign donations and spending; a Federal Election Commission.",
+              "Privacy Act (1974): limited how the government could collect and use information about individuals.",
+              "Congressional Budget and Impoundment Control Act (1974): stopped the President refusing to spend money Congress had approved."
+            ]
+          }
+        ],
+        "terms": [
+          "pardon",
+          "War Powers Act",
+          "Federal Election Commission"
+        ],
+        "evidence": [
+          "8 September 1974: Ford pardons Nixon.",
+          "1973: War Powers Act.",
+          "1974: Election Campaign Act; Privacy Act; Budget Control Act."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "17 June 1972",
+        "event": "Watergate break-in"
+      },
+      {
+        "date": "Nov 1972",
+        "event": "Nixon re-elected in a landslide"
+      },
+      {
+        "date": "May 1973",
+        "event": "Senate Watergate hearings begin on television"
+      },
+      {
+        "date": "July 1973",
+        "event": "Secret White House tapes revealed"
+      },
+      {
+        "date": "Oct 1973",
+        "event": "Saturday Night Massacre"
+      },
+      {
+        "date": "Nov 1973",
+        "event": "War Powers Act passed"
+      },
+      {
+        "date": "July 1974",
+        "event": "US v Nixon; impeachment articles approved"
+      },
+      {
+        "date": "9 Aug 1974",
+        "event": "Nixon resigns; Ford becomes President"
+      },
+      {
+        "date": "8 Sept 1974",
+        "event": "Ford pardons Nixon"
+      }
+    ],
+    "people": [
+      {
+        "name": "Richard Nixon",
+        "role": "President 1969–74; resigned."
+      },
+      {
+        "name": "Gerald Ford",
+        "role": "President 1974–77; pardoned Nixon."
+      },
+      {
+        "name": "Bob Woodward and Carl Bernstein",
+        "role": "Washington Post reporters."
+      },
+      {
+        "name": "John Dean",
+        "role": "White House counsel who testified against Nixon."
+      },
+      {
+        "name": "Archibald Cox",
+        "role": "Special prosecutor sacked in October 1973."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Impeachment",
+        "def": "Formal charges against a President by Congress."
+      },
+      {
+        "term": "Cover-up",
+        "def": "Hiding wrongdoing."
+      },
+      {
+        "term": "Pardon",
+        "def": "Official forgiveness of a crime."
+      },
+      {
+        "term": "Special prosecutor",
+        "def": "Independent lawyer investigating the government."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Nixon was impeached and removed.",
+        "right": "He resigned before the full House voted on impeachment."
+      },
+      {
+        "wrong": "Nixon planned the break-in personally.",
+        "right": "The proven offence was his role in the cover-up."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Whose offices were broken into at the Watergate building?",
+        "options": [
+          "The FBI",
+          "The Democratic National Committee",
+          "The Washington Post",
+          "CREEP"
+        ],
+        "answer": 1,
+        "why": "17 June 1972."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "What did US v Nixon (1974) decide?",
+        "options": [
+          "Nixon could keep the tapes",
+          "Nixon must release the tapes",
+          "Nixon was guilty of burglary",
+          "Ford must resign"
+        ],
+        "answer": 1,
+        "why": "A unanimous Supreme Court ruling."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "What did the War Powers Act do?",
+        "options": [
+          "Increased presidential power",
+          "Limited the President's power to send troops without Congress",
+          "Ended the draft",
+          "Created the CIA"
+        ],
+        "answer": 1,
+        "why": "1973."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "What did Ford do in September 1974?",
+        "options": [
+          "Impeached Nixon",
+          "Pardoned Nixon",
+          "Resigned",
+          "Released the tapes"
+        ],
+        "answer": 1,
+        "why": "Many Americans were angry."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Name one Washington Post reporter who investigated Watergate.",
+        "accept": [
+          "woodward",
+          "bob woodward",
+          "bernstein",
+          "carl bernstein"
+        ],
+        "answer": "Bob Woodward or Carl Bernstein"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "On what date did Nixon resign?",
+        "accept": [
+          "9 august 1974",
+          "9th august 1974",
+          "august 9 1974",
+          "9 august"
+        ],
+        "answer": "9 August 1974"
+      },
+      {
+        "id": "a3",
+        "s": "s1",
+        "q": "What does CREEP stand for?",
+        "accept": [
+          "committee to re-elect the president",
+          "committee to reelect the president",
+          "committee for the re-election of the president",
+          "committee for the reelection of the president"
+        ],
+        "answer": "Committee for the Re-election of the President"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Break-in",
+          "Nixon re-elected",
+          "Tapes revealed",
+          "Saturday Night Massacre",
+          "US v Nixon",
+          "Nixon resigns",
+          "Ford pardons Nixon"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the law to what it did",
+        "pairs": [
+          [
+            "War Powers Act",
+            "Limited sending troops without Congress"
+          ],
+          [
+            "Election Campaign Act",
+            "Limited donations; Federal Election Commission"
+          ],
+          [
+            "Privacy Act",
+            "Protected personal information"
+          ],
+          [
+            "Budget Control Act",
+            "Stopped the President refusing to spend approved money"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Give precise evidence of the effects of Watergate on US politics.",
+        "keywords": [
+          [
+            "war powers",
+            "1973",
+            "1974",
+            "election campaign",
+            "privacy",
+            "pardon",
+            "trust",
+            "resign"
+          ]
+        ],
+        "model": "Nixon resigned (9 August 1974); the War Powers Act (1973) and Election Campaign Act (1974) limited presidential power and campaign funding; trust in government fell."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Why did the Watergate scandal happen?",
+      "a": "Nixon's secrecy and suspicion of opponents; CREEP's dirty tricks; the attempted cover-up.",
+      "hint": "Enemies list."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "How was the cover-up exposed?",
+      "a": "Woodward and Bernstein's reporting; the Senate hearings; John Dean's evidence; the secret tapes; US v Nixon.",
+      "hint": "Press, Senate, tapes."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "What was the Saturday Night Massacre?",
+      "a": "October 1973: Nixon had special prosecutor Archibald Cox sacked.",
+      "hint": "Cox."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "Give two effects of Watergate on US politics.",
+      "a": "Nixon resigned; trust in government fell; Democrats gained in 1974; new laws limited presidential power.",
+      "hint": "Trust and laws."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Why was Ford's pardon controversial?",
+      "a": "Nixon was never tried; many saw it as a deal; it damaged Ford.",
+      "hint": "1974."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the reasons for and key features of the Watergate scandal.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain the impact of Watergate on Nixon and US politics.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "describe",
+      "text": "I can describe the new laws of 1973–74 and Ford's pardon.",
+      "sections": [
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, June 2025, Q7(b)",
+        "sections": [
+          "s2"
+        ],
+        "q": "Explain two effects of the Watergate scandal on US politics."
+      },
+      {
+        "id": "q2",
+        "qtype": "p1c",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s1"
+        ],
+        "q": "‘The main reason why Nixon resigned in 1974 was the work of the media.’\nHow far do you agree? Explain your answer.",
+        "prompts": [
+          "the Washington Post",
+          "the White House tapes"
+        ]
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Press, Congress or the Supreme Court — which did most to bring Nixon down?"
+    },
+    {
+      "id": "t2",
+      "kind": "Change and continuity",
+      "task": "How far did the 1973–74 laws really limit presidential power?"
+    }
+  ]
+}
