@@ -3,3 +3,5 @@ data/
 *.sqlite-*
 .env
 node_modules/
+dist/build-pack/
+dist/build-pack.zip
