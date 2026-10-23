@@ -432,6 +432,278 @@
           "Brown v Board of Education",
           "the Montgomery Bus Boycott"
         ]
+      },
+      {
+        "id": "pp-4hi101-june2025-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, June 2025, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2025",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the contribution of Rosa Parks to the Montgomery Bus Boycott?",
+        "ms": {
+          "points": [
+            "Parks's stand is presented as important — she took 'great personal risks'",
+            "language such as 'courageous' and 'remarkable unity'"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/01 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-01-pef-20250821.pdf",
+          "strong": [
+            "Stronger responses showed how phrasing and omissions (e.g. ignoring Claudette Colvin) shaped the impression of Rosa Parks."
+          ],
+          "weak": []
+        }
+      },
+      {
+        "id": "pp-4hi101-june2024-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, June 2024, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2024",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of Martin Luther King’s actions on civil rights in the 1950s.",
+        "ms": {
+          "points": [
+            "Montgomery Bus Boycott and the Supreme Court ruling against bus segregation",
+            "his speeches drew national attention to non-violence",
+            "founding the SCLC (1957)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-november2023-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, November 2023, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2023",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of the Emmett Till case on civil rights in the 1950s.",
+        "ms": {
+          "points": [
+            "The acquittal sparked protests and calls for federal action",
+            "Jet and the Chicago Defender galvanised outrage",
+            "NAACP action encouraged others"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2022-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2022, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2022",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main consequence in the 1950s of civil rights protests was desegregation within education.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "desegregation within education",
+          "the Civil Rights Act 1957"
+        ],
+        "ms": {
+          "support": [
+            "Brown v Board (1954)",
+            "Brown II (1955) 'with all deliberate speed'",
+            "Little Rock (1957) triggered federal intervention"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-november2021-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, November 2021, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2021",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of Supreme Court decisions on civil rights in the 1950s.",
+        "ms": {
+          "points": [
+            "Brown v Board (1954) and federal intervention",
+            "Brown challenged 'separate but equal' and backed wider campaigns",
+            "transport rulings such as Browder v Gayle (1956)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2021-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, June 2021, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2021",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of the Montgomery Bus Boycott on civil rights in the 1950s.",
+        "ms": {
+          "points": [
+            "Ended bus segregation in Montgomery",
+            "created the Montgomery Improvement Association",
+            "brought King to national prominence"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2020-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2020, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2020",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main reason why progress was made in civil rights in the 1950s was the influence of the Supreme Court.’\nHow far do you agree?\nExplain your answer.",
+        "ms": {
+          "support": [
+            "Sweatt v Painter (1950) weakened 'separate but equal'",
+            "Brown v Board (1954) ruled segregated education unconstitutional",
+            "Browder v Gayle (1956)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2025-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2025, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2025",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The main consequence, in the 1950s, of civil rights protests was desegregation within transport.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "desegregation within transport",
+          "education"
+        ],
+        "ms": {
+          "support": [
+            "The Montgomery Bus Boycott desegregated buses",
+            "Browder v Gayle (1956)",
+            "Keys v Carolina Coach (1955)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2024-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2024, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2024",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main reason why progress was made in the civil rights of black Americans in the 1950s was the influence of the Supreme Court.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "the Supreme Court",
+          "President Eisenhower"
+        ],
+        "ms": {
+          "support": [
+            "Warren as Chief Justice (1953)",
+            "Sweatt v Painter and McLaurin (1950)",
+            "Brown v Topeka (1954)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2023-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2023, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2023",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The most significant event in increasing support for civil rights in the 1950s was the death of Emmett Till.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "Emmett Till",
+          "the Montgomery Bus Boycott"
+        ],
+        "ms": {
+          "support": [
+            "The acquittal galvanised opinion",
+            "Jet published graphic images",
+            "it inspired activists including Rosa Parks"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2022-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01R, June 2022, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2022",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about segregation in the South?",
+        "ms": {
+          "points": [
+            "Ending segregation faced strong opposition — 'much more difficult'",
+            "successes in housing and transport are omitted"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2020-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01R, June 2020, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2020",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the activities of the Ku Klux Klan? You must use Extract G to explain your answer.",
+        "ms": {
+          "points": [
+            "Klan violence is shown as going unchecked",
+            "crimes went unpunished because local authorities had 'close links' with the Klan"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2019-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2019, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2019",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The most significant development in civil rights in the 1950s was the Montgomery Bus Boycott.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "the Montgomery Bus Boycott",
+          "Brown versus Topeka (1954)"
+        ],
+        "ms": {
+          "support": [
+            "The Boycott ended bus segregation in Montgomery",
+            "it created the MIA",
+            "it brought King to national prominence"
+          ]
+        }
       }
     ]
   },

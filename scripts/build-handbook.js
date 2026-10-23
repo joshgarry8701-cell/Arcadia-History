@@ -145,6 +145,8 @@ for (const c of courses) {
         p(`  ${String(q.q).replace(/\n/g, ' ')}`);
         if (q.prompts) p(`  Prompts: ${q.prompts.join('; ')}`);
         for (const s of q.sources || []) p(`  > **${s.label}** — ${s.provenance}: ${s.text}`);
+        if (q.ms) { const m = q.ms; const L = (k, l) => (m[k] || []).length && p(`  ${l}: ${m[k].join('; ')}`); if (m.extract1) p(`  Extract 1 argues: ${m.extract1}`); if (m.extract2) p(`  Extract 2 argues: ${m.extract2}`); L('points', 'Mark scheme points'); L('context', 'Context'); L('support', 'Supports the view'); L('challenge', 'Challenges the view'); }
+        if (q.exq) { p(`  Examiner (${q.exq.series}) — strong: ${(q.exq.strong || []).join('; ') || 'n/a'}; weak: ${(q.exq.weak || []).join('; ') || 'n/a'}`); }
       }
       p();
       for (const q of t.exam.questions) {

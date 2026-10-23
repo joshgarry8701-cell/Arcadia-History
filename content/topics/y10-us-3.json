@@ -484,6 +484,255 @@
           "s3"
         ],
         "q": "Explain two effects of the Black Power movement on the USA."
+      },
+      {
+        "id": "pp-4hi101-june2024-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, June 2024, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2024",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the experiences of the Freedom Riders?",
+        "ms": {
+          "points": [
+            "Freedom Riders faced brutality — 'some suffered serious injuries'",
+            "phrases such as 'badly beaten' and 'savage and violent attacks'"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-november2023-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, November 2023, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2023",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The main reason for the growth of Black Power in the 1960s was disappointment with the achievements of previous civil rights campaigns.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "previous civil rights campaigns",
+          "Stokely Carmichael"
+        ],
+        "ms": {
+          "support": [
+            "Legislation did little for social and economic inequality",
+            "slow integration encouraged self-determination",
+            "the failure of King's northern campaign"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2023-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2023, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2023",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main reason why progress was made in the civil rights of black Americans in the 1950s and 1960s was federal government action.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "federal government action",
+          "Martin Luther King"
+        ],
+        "ms": {
+          "support": [
+            "Brown v Board and federal intervention",
+            "Eisenhower's troops at Little Rock and the Civil Rights Act (1957)",
+            "the Civil Rights Act (1964) and Voting Rights Act (1965)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2022-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2022, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2022",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The main reason why civil rights legislation was passed in the 1960s was because of the efforts of Martin Luther King.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "Martin Luther King",
+          "SNCC"
+        ],
+        "ms": {
+          "support": [
+            "King's oratory, e.g. Washington (1963)",
+            "SCLC leadership",
+            "Birmingham (1963) drew media attention"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-november2021-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, November 2021, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2021",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main reason why progress was made in the civil rights of black Americans in the 1960s was the influence of Martin Luther King.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "Martin Luther King",
+          "President Johnson"
+        ],
+        "ms": {
+          "support": [
+            "King's SCLC campaigns at Birmingham and Selma",
+            "his speeches, e.g. Washington 1963",
+            "non-violence won support for the 1964 and 1965 Acts"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2021-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, June 2021, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2021",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the impact of the race riots?",
+        "ms": {
+          "points": [
+            "The riots did significant damage and frightened white Americans",
+            "phrases such as 'major riots' and 'no-go areas for whites'"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2020-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, June 2020, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2020",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of Black Power on the civil rights movement.",
+        "ms": {
+          "points": [
+            "Moved the movement away from integration, often excluding whites",
+            "made it more confrontational and spread it to the North",
+            "promoted cultural pride, e.g. 'Black is Beautiful'"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2019-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2019, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2019",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘Martin Luther King was the individual who made the biggest contribution to the civil rights movement in the 1950s and 1960s.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "Martin Luther King",
+          "Malcolm X"
+        ],
+        "ms": {
+          "support": [
+            "King's speeches drew national attention (Montgomery, Washington)",
+            "his leadership of the MIA, SCLC, Birmingham and Selma",
+            "non-violence won over Kennedy and white voters"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2025-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01R, June 2025, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2025",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the Selma March?",
+        "ms": {
+          "points": [
+            "Marchers were 'beaten and trampled', horrifying TV viewers",
+            "'outraged and sickening' presents the reaction as excessive"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2024-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2024, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2024",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The most significant development towards gaining civil rights in the 1960s was the growth of the Black Power movement.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "Black Power movement",
+          "the Civil Rights Act (1964)"
+        ],
+        "ms": {
+          "support": [
+            "Black Power's confrontational approach",
+            "'Black is Beautiful'",
+            "self-determination"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2023-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01R, June 2023, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2023",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the methods used by Martin Luther King in the 1960s?",
+        "ms": {
+          "points": [
+            "King's methods are shown as successful in winning legislation",
+            "language such as 'significant' and 'heart-warming'",
+            "the less successful northern campaign is omitted"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2020-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2020, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2020",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main reason for the growth of Black Power in the 1960s was the influence of Stokely Carmichael.’\nHow far do you agree?\nExplain your answer.",
+        "ms": {
+          "support": [
+            "Carmichael's call for 'Black Power' after the Meredith March (1966)",
+            "under Carmichael, SNCC expelled white members",
+            "his speeches were linked to unrest"
+          ]
+        }
       }
     ]
   },

@@ -279,6 +279,7 @@ function viewCourse(c) {
     <div style="--course:${c.accent}; display:grid; gap:18px; min-width:0">
     ${topics.length ? html`<section class="acts">
       ${c.qtypes ? html`<button class="act" data-act="go" data-to="${c.id}.guide"><span class="eyebrow">Exam</span><b>Exam guide</b><span class="small muted">Every question type: what to do, timings, mark scheme levels, frames and models</span></button>` : ''}
+      ${c.qtypes ? html`<button class="act" data-act="go" data-to="${c.id}.past"><span class="eyebrow">Exam</span><b>Past papers</b><span class="small muted">Every past-paper question with mark scheme points and examiner comments</span></button>` : ''}
       <button class="act" data-act="go" data-to="${c.id}.mixed"><span class="eyebrow">Retrieval</span><b>Mixed quiz</b><span class="small muted">Questions from every topic in this course</span></button>
       <button class="act" data-act="go" data-to="${c.id}.dates"><span class="eyebrow">Retrieval</span><b>Key dates quiz</b><span class="small muted">Match events and dates from the timelines</span></button>
     </section>` : ''}
@@ -329,6 +330,58 @@ function modelBlock(q) {
   if (!q.model || !q.model.length) return '';
   return html`<div class="model">${q.model.map((m) => html`<div class="seg"><p>${m.t}</p><em>${m.n}</em></div>`)}${q.model_note ? html`<p class="small muted">${q.model_note}</p>` : html`<p class="small muted">An example, not the only way to answer.</p>`}</div>`;
 }
+const shortQT = (c, k) => { const l = ((c.qtypes || {})[k] || {}).label || k; return l.split(' — ')[1] || l; };
+const SERIES_M = { January: 1, May: 5, June: 6, October: 10, November: 11 };
+const seriesKey = (s) => { if (!s || s === 'Specimen') return 0; const [m, y] = s.split(' '); return +y * 100 + (SERIES_M[m] || 0); };
+const ppOrder = (a, b) => seriesKey(b.pp.series) - seriesKey(a.pp.series) || String(a.pp.part).localeCompare(String(b.pp.part));
+const oneLine = (s, n = 230) => { const t = String(s).replace(/\n/g, ' ').replace(/\s+/g, ' '); return t.length > n ? t.slice(0, n - 1) + '…' : t; };
+function msBlock(q) {
+  const m = q.ms; if (!m) return '';
+  const L = (t, a) => a && a.length ? html`<p class="small"><strong>${t}</strong></p><ul>${a.map((x) => html`<li>${x}</li>`)}</ul>` : '';
+  const src = /u4a/.test(q.qtype || '');
+  return html`<details class="fold"><summary>Mark scheme: what examiners looked for</summary><div>
+    <p class="small muted">Plan your own answer first, then use this to check it. These are examples of relevant points, not a checklist; marks come from the levels.</p>
+    ${m.extract1 ? html`<p><b>Extract 1 argues:</b> ${m.extract1}</p>` : ''}${m.extract2 ? html`<p><b>Extract 2 argues:</b> ${m.extract2}</p>` : ''}
+    ${L('Relevant points', m.points)}${L('Context to use with the source', m.context)}${L(src ? 'Own knowledge that supports the view' : 'Points that support the view', m.support)}${L(src ? 'Own knowledge that challenges the view' : 'Points that challenge the view', m.challenge)}
+    <p class="small muted">Paraphrased from Pearson's mark scheme${q.pp ? ` for ${q.pp.paper}, ${q.pp.series}` : ''}.</p></div></details>`;
+}
+function exqBlock(q) {
+  const r = q.exq; if (!r) return '';
+  return html`<details class="fold"><summary>Examiner's report on this question</summary><div><p class="eyebrow">${r.series}</p>
+    ${r.strong && r.strong.length ? html`<p class="small"><strong>What strong answers did</strong></p><ul>${r.strong.map((x) => html`<li>${x}</li>`)}</ul>` : ''}
+    ${r.weak && r.weak.length ? html`<p class="small"><strong>Common weaknesses</strong></p><ul>${r.weak.map((x) => html`<li>${x}</li>`)}</ul>` : ''}
+    ${r.url ? html`<p class="small muted"><a href="${r.url}" target="_blank" rel="noopener">Read the full report</a></p>` : ''}</div></details>`;
+}
+function ppItem(t, q, showTopic) {
+  return html`<li><button class="ppq" data-act="go" data-to="${t.id}.exam.${q.id}"><span class="row" style="gap:6px"><span class="chip">${q.pp.series}</span><span class="chip">${q.pp.part}</span>${q.ms ? html`<span class="chip ok">Mark scheme</span>` : ''}${q.exq ? html`<span class="chip ok">Examiner report</span>` : ''}</span><span>${oneLine(q.q)}</span>${showTopic ? html`<span class="small muted">${t.kt ? t.kt + ': ' : ''}${t.title}</span>` : ''}</button></li>`;
+}
+function viewPastPapers(c) {
+  const ts = courseTopics(c);
+  const missing = ts.filter((t) => !S.topics[t.id]);
+  if (missing.length) { Promise.all(missing.map((t) => ensureTopic(t.id))).then(render, (e) => toast(e.message)); return shell(html`<p class="muted">Loading past papers…</p>`); }
+  const f = S.ui.pp && S.ui.pp.c === c.id ? S.ui.pp : (S.ui.pp = { c: c.id, paper: '', topic: '', qt: '' });
+  const all = [];
+  for (const t0 of ts) { const t = S.topics[t0.id]; for (const raw0 of t.exam.questions) if (raw0.pp) all.push({ t, q: resolveQ(c, raw0) }); }
+  const papers = [...new Set(all.map((x) => x.q.pp.paper))].sort();
+  const qtypes = [...new Set(all.map((x) => x.q.qtype).filter(Boolean))];
+  const shown = all.filter((x) => (!f.paper || x.q.pp.paper.startsWith(f.paper)) && (!f.topic || x.t.id === f.topic) && (!f.qt || x.q.qtype === f.qt));
+  const groups = new Map();
+  for (const x of shown.sort((a, b) => a.q.pp.paper.localeCompare(b.q.pp.paper) || ppOrder(a.q, b.q))) { const k = x.q.pp.paper.replace(/R$/, '') + ' · ' + x.q.pp.series + (/R$/.test(x.q.pp.paper) ? ' (R)' : ''); if (!groups.has(k)) groups.set(k, []); groups.get(k).push(x); }
+  const sel = (id, label, cur, opts) => html`<label for="${id}" class="small">${label}<select id="${id}" data-ppf="${id.slice(3)}"><option value="">All</option>${opts.map(([v, l]) => html`<option value="${v}" ${v === cur ? raw('selected') : ''}>${l}</option>`)}</select></label>`;
+  return shell(html`${crumbs([{ label: c.year, to: c.id }, { label: 'Past papers' }])}
+    <section class="course-head" style="--course:${c.accent}"><p class="eyebrow">${c.year} · ${(c.exam && c.exam.qualification) || c.title}</p><h1>Past-paper questions</h1>
+      <p class="muted">${all.length} real Pearson questions, newest first. Each opens in exam practice with the guide, a writing frame and, where available, the mark scheme's points and the examiner's comments.</p></section>
+    <div style="--course:${c.accent}; display:grid; gap:16px; min-width:0">
+      <section class="panel row" style="gap:12px;align-items:end">
+        ${sel('pp-paper', 'Paper', f.paper, papers.map((p) => [p, p]))}
+        ${sel('pp-topic', 'Topic', f.topic, ts.map((t) => [t.id, (t.kt ? t.kt + ': ' : '') + t.title]))}
+        ${sel('pp-qt', 'Question type', f.qt, qtypes.map((k) => [k, (c.qtypes[k] || {}).label || k]))}
+        <span class="small muted">${shown.length} shown</span></section>
+      <div class="notice small">Sources and extracts belong to Pearson and are not on the site. Questions that need them get feedback on structure only. Ask Mr Garry for the source booklet.</div>
+      ${[...groups.entries()].map(([k, xs]) => html`<section class="panel" style="display:grid;gap:8px"><h2>${k}</h2><ul class="pplist">${xs.map((x) => ppItem(x.t, x.q, true))}</ul></section>`)}
+      ${!shown.length ? html`<p class="muted">No questions match these filters.</p>` : ''}
+    </div>`);
+}
 function examinerBlock(qt) {
   if (!qt.examiner || !qt.examiner.length) return '';
   return html`<details class="fold"><summary>What examiners said</summary><div>${qt.examiner.map((r) => html`<p class="eyebrow">${r.series}</p>
@@ -353,7 +406,7 @@ function qtypeGuide(c, key, qt) {
     <details class="fold"><summary>Writing frame${(qt.frames || []).length > 1 ? 's' : ''}</summary><div>${(qt.frames || (qt.frame ? [{ name: 'Writing frame', ...qt.frame }] : [])).map((f) => html`<div class="frame"><span class="eyebrow">${f.name}</span><ol>${f.full.map((l) => html`<li>${l}</li>`)}</ol></div>`)}</div></details>
     ${qt.model ? html`<details class="fold"><summary>Annotated model</summary><div>${modelBlock(qt)}</div></details>` : ''}
     ${qt.requires_sources ? html`<p class="small muted">This question type needs the sources or extracts from the paper. Practise with past papers from Pearson's website or the questions Mr Garry adds.</p>` : ''}
-    ${past.length ? html`<div><p class="eyebrow">Practise this question type</p><ul>${past.map(({ t, q }) => html`<li><button class="btn sm" data-act="go" data-to="${t.id}.exam.${q.id}" style="text-align:left">${q.q}</button> <span class="small muted">${q.label}</span></li>`)}</ul></div>` : ''}
+    ${past.length ? html`<div><p class="eyebrow">Practise this question type (${past.length})</p><ul>${past.sort((a, b) => (b.q.pp ? seriesKey(b.q.pp.series) : 9e9) - (a.q.pp ? seriesKey(a.q.pp.series) : 9e9)).slice(0, 6).map(({ t, q }) => html`<li><button class="btn sm" data-act="go" data-to="${t.id}.exam.${q.id}" style="text-align:left">${oneLine(q.q, 160)}</button> <span class="small muted">${q.label}</span></li>`)}</ul>${past.length > 6 ? html`<button class="btn sm" data-act="go" data-to="${c.id}.past">See all ${past.length} in Past papers</button>` : ''}</div>` : ''}
   </article>`;
 }
 function viewGuide(c) {
@@ -630,7 +683,17 @@ function viewExamList(t) {
   return topicFrame(t, 'exam', html`
     ${t.exam.criteria_note && t.exam.criteria_status !== 'verified' ? html`<div class="notice">${t.exam.criteria_note}</div>` : ''}
     ${c.qtypes ? html`<div class="row"><button class="btn sm" data-act="go" data-to="${c.id}.guide">Open the ${c.year} exam guide</button></div>` : ''}
-    <section class="acts">${qs.map((q) => html`<button class="act" data-act="go" data-to="${t.id}.exam.${q.id}"><span class="row" style="gap:6px">${qChips(q)}</span><b>${q.q}</b><span class="small muted">${q.label}</span></button>`)}</section>`);
+    ${(() => {
+      const other = qs.filter((q) => !q.pp); const past = qs.filter((q) => q.pp).sort(ppOrder);
+      const f = S.ui.ppFilter && S.ui.ppFilter.t === t.id ? S.ui.ppFilter.qt : '';
+      const types = [...new Set(past.map((q) => q.qtype).filter(Boolean))];
+      const shown = f ? past.filter((q) => q.qtype === f) : past;
+      return html`${other.length ? html`<section style="display:grid;gap:10px"><h2>Practice questions</h2><div class="acts">${other.map((q) => html`<button class="act" data-act="go" data-to="${t.id}.exam.${q.id}"><span class="row" style="gap:6px">${qChips(q)}</span><b>${oneLine(q.q, 260)}</b><span class="small muted">${q.label}</span></button>`)}</div></section>` : ''}
+        ${past.length ? html`<section style="display:grid;gap:10px"><div class="row" style="justify-content:space-between"><h2>Past-paper questions (${past.length})</h2>
+          ${types.length > 1 ? html`<div class="seg-ctl" role="group" aria-label="Filter by question type"><button data-act="pp-filter" data-v="" aria-pressed="${!f}">All</button>${types.map((k) => html`<button data-act="pp-filter" data-v="${k}" aria-pressed="${f === k}">${shortQT(c, k)}</button>`)}</div>` : ''}</div>
+          <p class="small muted">Real Pearson questions on this topic, newest first. <button class="linkish" data-act="go" data-to="${c.id}.past">All past papers for ${c.year}</button></p>
+          <ul class="pplist">${shown.map((q) => ppItem(t, q, false))}</ul></section>` : ''}`;
+    })()}`);
 }
 
 function frameBlock(q, level, fi) {
@@ -686,9 +749,9 @@ function viewExamQ(t, rawQ) {
   const mine = (S.subs || []).filter((s) => s.topic_id === t.id && s.question_id === q.id);
   const ai = S.ai || { available: false, reasons: ['Checking…'] };
   return topicFrame(t, 'exam', html`
-    <div><button class="btn sm" data-act="go" data-to="${t.id}.exam">← All practice questions</button></div>
+    <div><button class="btn sm" data-act="go" data-to="${t.id}.exam">← All practice questions</button>${q.pp ? html` <button class="btn sm" data-act="go" data-to="${c.id}.past">All ${c.year} past papers</button>` : ''}</div>
     <section class="panel"><div class="row" style="gap:6px">${qChips(q)}<span class="chip">${q.label}</span></div><h2 style="white-space:pre-line">${q.q}</h2>
-      ${q.prompts ? html`<p class="small">You may use the following in your answer: <b>${q.prompts.join('; ')}</b>. You must also use information of your own.</p>` : ''}</section>
+      ${q.prompts ? html`<p class="small">You may use the following in your answer: <b>${q.prompts.join('; ')}</b>. You must also use information of your own.</p>` : ''}${q.stem_note ? html`<p class="small muted">${q.stem_note}</p>` : ''}</section>
     ${q.sources && q.sources.length ? html`<section class="panel"><h2>Sources</h2>${q.sources.map((x) => html`<article class="source"><h3>${x.label}</h3><p class="small muted">${x.provenance}</p><blockquote>${x.text}</blockquote></article>`)}${q.sources_note ? html`<p class="small muted">${q.sources_note}</p>` : ''}</section>`
       : q.requires_sources ? html`<div class="notice">This question needs sources or extracts that are not on the site yet. You can still practise the structure; AI feedback will not judge how you used the sources.</div>` : ''}
     <section style="display:grid;gap:8px">
@@ -698,6 +761,8 @@ function viewExamQ(t, rawQ) {
       <details class="fold"><summary>${q.qtype ? 'Assessment criteria and mark scheme' : 'Success criteria' + (q.markscheme && q.markscheme.verified ? '' : ' (draft)')}</summary><div>${!q.qtype && !(q.markscheme && q.markscheme.verified) ? html`<p class="small muted">Teacher-created draft — department criteria not yet added.</p>` : ''}<ul>${q.success.map((s) => html`<li>${s}</li>`)}</ul>${q.qtype ? levelsTable(q.markscheme) : ''}</div></details>
       <details class="fold"><summary>Common mistakes</summary><div><ul>${q.mistakes.map((s) => html`<li>${s}</li>`)}</ul></div></details>
       ${examinerBlock(q)}
+      ${exqBlock(q)}
+      ${msBlock(q)}
       ${q.model && q.model.length ? html`<details class="fold"><summary>Annotated model${rawQ.model ? ' for this question' : ' (this question type)'}</summary><div>${modelBlock(q)}</div></details>` : ''}
     </section>
     <section class="panel" id="practice">
@@ -924,7 +989,7 @@ function render() {
     else if (r.a === 'mixed') out = viewMixed();
     else if (r.a === 'account') out = viewAccount();
     else if (r.a === 'teacher' && S.user.role === 'teacher') out = viewTeacher(r.b, r.c);
-    else if (courseOf(r.a)) { const c = courseOf(r.a); out = r.b === 'guide' && c.qtypes ? viewGuide(c) : (r.b === 'mixed' || r.b === 'dates') ? viewCourseQuiz(c, r.b) : viewCourse(c); }
+    else if (courseOf(r.a)) { const c = courseOf(r.a); out = r.b === 'guide' && c.qtypes ? viewGuide(c) : r.b === 'past' && c.qtypes ? viewPastPapers(c) : (r.b === 'mixed' || r.b === 'dates') ? viewCourseQuiz(c, r.b) : viewCourse(c); }
     else if (S.catalog.topics[r.a]) {
       const t = S.topics[r.a];
       if (!t) { ensureTopic(r.a).then(render, (e) => toast(e.message)); out = shell(html`<p class="muted">Loading…</p>`); }
@@ -975,6 +1040,7 @@ const A = {
   scroll: (el) => { const s = document.getElementById('sec-' + el.dataset.id); if (s) { s.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); s.setAttribute('tabindex', '-1'); s.focus({ preventScroll: true }); } },
   'quiz-start': (el) => startQuiz(curTopic().id, [curTopic()], el.dataset.mode),
   'mixed-start': (el) => startQuiz('global', Object.values(S.topics), 'global', +el.dataset.n),
+  'pp-filter': (el) => { S.ui.ppFilter = { t: curTopic().id, qt: el.dataset.v }; render(); },
   'course-quiz': (el) => { const c = courseOf(el.dataset.c); const ts = courseTopics(c).map((t) => S.topics[t.id]).filter(Boolean); startQuiz(`course:${c.id}:${el.dataset.mode}`, ts, el.dataset.mode === 'dates' ? 'dates' : 'global', +el.dataset.n); },
   'exam-frame': (el) => { S.ui.exam.frame = +el.dataset.v; render(); },
   'quiz-exit': () => { S.ui.quiz = null; render(); },
@@ -1111,6 +1177,7 @@ document.addEventListener('input', (e) => {
 document.addEventListener('change', async (e) => {
   const el = e.target;
   if (el.id === 'hintsOn') S.ui.hints = el.checked;
+  if (el.dataset && el.dataset.ppf && S.ui.pp) { S.ui.pp[el.dataset.ppf] = el.value; render(); return; }
   if (el.id === 'imp' && el.files[0]) {
     try {
       const data = JSON.parse(await el.files[0].text());

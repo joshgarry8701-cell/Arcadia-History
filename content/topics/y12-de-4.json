@@ -1,157 +1,1145 @@
 {
-  "id": "y12-de-4", "course": "y12", "area": "de", "kt": "Key topic 4", "order": 4,
+  "id": "y12-de-4",
+  "course": "y12",
+  "area": "de",
+  "kt": "Key topic 4",
+  "order": 4,
   "title": "Germany at war, 1939–45",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following IAL key topic 4. Read-more references are to Layton, From Kaiser to Führer, ch. 14." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following IAL key topic 4. Read-more references are to Layton, From Kaiser to Führer, ch. 14."
+  },
   "learn": {
     "intro": "How did Nazi Germany organise its economy and control its people at war, how did the war become a racial war of genocide, and why did Germany lose? Questions here often ask you to weigh one reason — bombing, Speer, Hitler's mistakes — against others.",
     "sections": [
       {
-        "id": "s1", "title": "1. Managing the war economy",
+        "id": "s1",
+        "title": "1. Managing the war economy",
         "blocks": [
-          { "p": "Germany went to war short of oil, rubber and many metals, short of labour once millions were conscripted, and short of motor transport — the army that invaded the USSR in 1941 still relied heavily on horses. Production in 1939–41 was hampered by competing agencies, over-engineered weapons and the armed services' demands for custom designs." },
-          { "p": "Fritz Todt became Minister of Armaments in 1940. After his death in a plane crash in February 1942, Albert Speer took over. Speer centralised planning, standardised designs, let industrialists run production committees and used mass-production methods; armaments output roughly tripled between early 1942 and mid-1944, despite bombing." },
-          { "p": "Göring, as head of the Four-Year Plan and the Luftwaffe, lost influence through failures and inefficiency. Labour shortages were met above all with foreign workers and prisoners — about 7 million by 1944, many forced labourers treated brutally — rather than by fully mobilising German women, whom the regime was reluctant to conscript." },
-          { "p": "German technological ingenuity was real — jet aircraft, the V-1 and V-2 rockets, synthetic fuel — but it often came too late, in too small numbers, or diverted scarce resources from weapons that could be mass-produced." }
+          {
+            "p": "Germany went to war short of oil, rubber and many metals, short of labour once millions were conscripted, and short of motor transport — the army that invaded the USSR in 1941 still relied heavily on horses. Production in 1939–41 was hampered by competing agencies, over-engineered weapons and the armed services' demands for custom designs."
+          },
+          {
+            "p": "Fritz Todt became Minister of Armaments in 1940. After his death in a plane crash in February 1942, Albert Speer took over. Speer centralised planning, standardised designs, let industrialists run production committees and used mass-production methods; armaments output roughly tripled between early 1942 and mid-1944, despite bombing."
+          },
+          {
+            "p": "Göring, as head of the Four-Year Plan and the Luftwaffe, lost influence through failures and inefficiency. Labour shortages were met above all with foreign workers and prisoners — about 7 million by 1944, many forced labourers treated brutally — rather than by fully mobilising German women, whom the regime was reluctant to conscript."
+          },
+          {
+            "p": "German technological ingenuity was real — jet aircraft, the V-1 and V-2 rockets, synthetic fuel — but it often came too late, in too small numbers, or diverted scarce resources from weapons that could be mass-produced."
+          }
         ],
-        "terms": ["rationalisation", "forced labour", "total war economy", "Speer's armaments miracle"],
-        "evidence": ["Todt Armaments Minister 1940–February 1942; Speer from February 1942.", "Armaments output roughly tripled between 1942 and mid-1944.", "About 7 million foreign workers and prisoners by 1944."],
-        "refs": ["Layton, ch. 14 §2"]
+        "terms": [
+          "rationalisation",
+          "forced labour",
+          "total war economy",
+          "Speer's armaments miracle"
+        ],
+        "evidence": [
+          "Todt Armaments Minister 1940–February 1942; Speer from February 1942.",
+          "Armaments output roughly tripled between 1942 and mid-1944.",
+          "About 7 million foreign workers and prisoners by 1944."
+        ],
+        "refs": [
+          "Layton, ch. 14 §2"
+        ]
       },
       {
-        "id": "s2", "title": "2. Controlling the civilian population",
+        "id": "s2",
+        "title": "2. Controlling the civilian population",
         "blocks": [
-          { "p": "Rationing began in August 1939. Living standards were cushioned in the early war years by plunder from occupied Europe, but rations were cut in 1942 and conditions worsened sharply as defeats mounted." },
-          { "p": "Allied bombing intensified from 1942. The raids on Hamburg in July 1943 killed around 40,000 people; Dresden was devastated in February 1945. Millions of homes were destroyed and many civilians evacuated. Bombing hurt morale but did not produce the collapse the Allies hoped for." },
-          { "p": "Goebbels sustained morale through radio, newsreels and films, and after Stalingrad proclaimed 'total war' in his Sportpalast speech of February 1943. Himmler, Interior Minister from August 1943, intensified repression: the People's Court handed down death sentences in rising numbers, and defeatism could be punished by death." },
-          { "p": "Opposition grew but remained small and divided: the White Rose students in Munich (the Scholls, executed in 1943); the Edelweiss Pirates, some of whom were hanged in Cologne in 1944; Bishop von Galen's 1941 sermons against the murder of disabled people; the conservative Kreisau Circle; and the army officers' July Bomb Plot (20 July 1944), led by Stauffenberg, after which thousands were arrested and around 200 executed in direct connection." }
+          {
+            "p": "Rationing began in August 1939. Living standards were cushioned in the early war years by plunder from occupied Europe, but rations were cut in 1942 and conditions worsened sharply as defeats mounted."
+          },
+          {
+            "p": "Allied bombing intensified from 1942. The raids on Hamburg in July 1943 killed around 40,000 people; Dresden was devastated in February 1945. Millions of homes were destroyed and many civilians evacuated. Bombing hurt morale but did not produce the collapse the Allies hoped for."
+          },
+          {
+            "p": "Goebbels sustained morale through radio, newsreels and films, and after Stalingrad proclaimed 'total war' in his Sportpalast speech of February 1943. Himmler, Interior Minister from August 1943, intensified repression: the People's Court handed down death sentences in rising numbers, and defeatism could be punished by death."
+          },
+          {
+            "p": "Opposition grew but remained small and divided: the White Rose students in Munich (the Scholls, executed in 1943); the Edelweiss Pirates, some of whom were hanged in Cologne in 1944; Bishop von Galen's 1941 sermons against the murder of disabled people; the conservative Kreisau Circle; and the army officers' July Bomb Plot (20 July 1944), led by Stauffenberg, after which thousands were arrested and around 200 executed in direct connection."
+          }
         ],
-        "terms": ["total war", "People's Court", "White Rose", "July Bomb Plot", "Edelweiss Pirates"],
-        "evidence": ["August 1939: rationing.", "July 1943: Hamburg raids, about 40,000 killed.", "18 February 1943: 'total war' speech.", "20 July 1944: Bomb Plot."],
-        "refs": ["Layton, ch. 14 §5–6"]
+        "terms": [
+          "total war",
+          "People's Court",
+          "White Rose",
+          "July Bomb Plot",
+          "Edelweiss Pirates"
+        ],
+        "evidence": [
+          "August 1939: rationing.",
+          "July 1943: Hamburg raids, about 40,000 killed.",
+          "18 February 1943: 'total war' speech.",
+          "20 July 1944: Bomb Plot."
+        ],
+        "refs": [
+          "Layton, ch. 14 §5–6"
+        ]
       },
       {
-        "id": "s3", "title": "3. The evolution of genocide",
+        "id": "s3",
+        "title": "3. The evolution of genocide",
         "blocks": [
-          { "p": "The conquest of Poland in 1939 brought about two million Jews under German rule. Himmler was made responsible for 'strengthening Germandom' — resettling ethnic Germans and expelling Poles and Jews. Jews were forced into ghettos such as Łódź and Warsaw (1940), where many died of starvation and disease." },
-          { "p": "The invasion of the USSR (June 1941) was planned as a racial war of annihilation. Einsatzgruppen — SS mobile killing units — and police battalions shot Jews, communists and others in mass executions; hundreds of thousands were murdered in the first months, and millions of Soviet prisoners of war died of hunger and neglect." },
-          { "p": "From late 1941 the regime moved to systematic murder by gas. The Wannsee Conference (20 January 1942), chaired by Heydrich, co-ordinated the 'Final Solution' across government agencies. Death camps — Chelmno, Belzec, Sobibor, Treblinka and Auschwitz-Birkenau — murdered millions. About six million Jews were killed in the Holocaust, along with Roma, disabled people and others." },
-          { "p": "Historians debate whether genocide followed Hitler's long-held intention or evolved through 'cumulative radicalisation' as competing agencies, the war in the east and local initiatives escalated policy. Most now combine both: Hitler's ideology set the goal, the conditions of war shaped the timing and methods." }
+          {
+            "p": "The conquest of Poland in 1939 brought about two million Jews under German rule. Himmler was made responsible for 'strengthening Germandom' — resettling ethnic Germans and expelling Poles and Jews. Jews were forced into ghettos such as Łódź and Warsaw (1940), where many died of starvation and disease."
+          },
+          {
+            "p": "The invasion of the USSR (June 1941) was planned as a racial war of annihilation. Einsatzgruppen — SS mobile killing units — and police battalions shot Jews, communists and others in mass executions; hundreds of thousands were murdered in the first months, and millions of Soviet prisoners of war died of hunger and neglect."
+          },
+          {
+            "p": "From late 1941 the regime moved to systematic murder by gas. The Wannsee Conference (20 January 1942), chaired by Heydrich, co-ordinated the 'Final Solution' across government agencies. Death camps — Chelmno, Belzec, Sobibor, Treblinka and Auschwitz-Birkenau — murdered millions. About six million Jews were killed in the Holocaust, along with Roma, disabled people and others."
+          },
+          {
+            "p": "Historians debate whether genocide followed Hitler's long-held intention or evolved through 'cumulative radicalisation' as competing agencies, the war in the east and local initiatives escalated policy. Most now combine both: Hitler's ideology set the goal, the conditions of war shaped the timing and methods."
+          }
         ],
-        "terms": ["Einsatzgruppen", "ghetto", "Wannsee Conference", "Final Solution", "cumulative radicalisation"],
-        "evidence": ["1940: Łódź and Warsaw ghettos sealed.", "June 1941: Operation Barbarossa; Einsatzgruppen killings.", "20 January 1942: Wannsee Conference.", "About six million Jews murdered."],
-        "refs": ["Layton, ch. 14 §3–4"]
+        "terms": [
+          "Einsatzgruppen",
+          "ghetto",
+          "Wannsee Conference",
+          "Final Solution",
+          "cumulative radicalisation"
+        ],
+        "evidence": [
+          "1940: Łódź and Warsaw ghettos sealed.",
+          "June 1941: Operation Barbarossa; Einsatzgruppen killings.",
+          "20 January 1942: Wannsee Conference.",
+          "About six million Jews murdered."
+        ],
+        "refs": [
+          "Layton, ch. 14 §3–4"
+        ]
       },
       {
-        "id": "s4", "title": "4. Losing the war",
+        "id": "s4",
+        "title": "4. Losing the war",
         "blocks": [
-          { "p": "Balance of resources: once the USSR (June 1941) and the USA (December 1941) were at war with Germany, the Allies had far greater manpower, raw materials and industrial capacity. American and Soviet production of tanks and aircraft outstripped Germany's even at Speer's peak." },
-          { "p": "Sea power: Allied navies blockaded Germany and kept Britain supplied. The U-boat campaign was defeated in the Battle of the Atlantic by May 1943, allowing American troops and supplies to cross for the invasions of Italy and France." },
-          { "p": "Bombing: strategic bombing destroyed cities, transport and, in 1944, synthetic-oil plants. It also forced Germany to divert huge resources — fighters, anti-aircraft guns and soldiers — to air defence, a 'second front' in the air." },
-          { "p": "Hitler's strategic mistakes: invading the USSR before defeating Britain; declaring war on the USA on 11 December 1941; refusing to allow retreats, most famously at Stalingrad, where the Sixth Army surrendered in February 1943; and diverting resources to prestige projects. Hitler killed himself on 30 April 1945 and Germany surrendered on 7–8 May." }
+          {
+            "p": "Balance of resources: once the USSR (June 1941) and the USA (December 1941) were at war with Germany, the Allies had far greater manpower, raw materials and industrial capacity. American and Soviet production of tanks and aircraft outstripped Germany's even at Speer's peak."
+          },
+          {
+            "p": "Sea power: Allied navies blockaded Germany and kept Britain supplied. The U-boat campaign was defeated in the Battle of the Atlantic by May 1943, allowing American troops and supplies to cross for the invasions of Italy and France."
+          },
+          {
+            "p": "Bombing: strategic bombing destroyed cities, transport and, in 1944, synthetic-oil plants. It also forced Germany to divert huge resources — fighters, anti-aircraft guns and soldiers — to air defence, a 'second front' in the air."
+          },
+          {
+            "p": "Hitler's strategic mistakes: invading the USSR before defeating Britain; declaring war on the USA on 11 December 1941; refusing to allow retreats, most famously at Stalingrad, where the Sixth Army surrendered in February 1943; and diverting resources to prestige projects. Hitler killed himself on 30 April 1945 and Germany surrendered on 7–8 May."
+          }
         ],
-        "terms": ["balance of resources", "Battle of the Atlantic", "strategic bombing", "Stalingrad"],
-        "evidence": ["22 June 1941: invasion of the USSR.", "11 December 1941: Germany declares war on the USA.", "February 1943: surrender at Stalingrad.", "May 1943: U-boats withdrawn from the North Atlantic.", "30 April 1945: Hitler's suicide; 8 May 1945: VE Day."],
-        "refs": ["Layton, ch. 14 §1 and §7"]
+        "terms": [
+          "balance of resources",
+          "Battle of the Atlantic",
+          "strategic bombing",
+          "Stalingrad"
+        ],
+        "evidence": [
+          "22 June 1941: invasion of the USSR.",
+          "11 December 1941: Germany declares war on the USA.",
+          "February 1943: surrender at Stalingrad.",
+          "May 1943: U-boats withdrawn from the North Atlantic.",
+          "30 April 1945: Hitler's suicide; 8 May 1945: VE Day."
+        ],
+        "refs": [
+          "Layton, ch. 14 §1 and §7"
+        ]
       }
     ],
     "timeline": [
-      { "date": "Aug 1939", "event": "Rationing introduced" },
-      { "date": "Sept 1939", "event": "Invasion of Poland" },
-      { "date": "1940", "event": "Ghettos sealed in Łódź and Warsaw" },
-      { "date": "22 June 1941", "event": "Invasion of the USSR (Operation Barbarossa)" },
-      { "date": "Aug 1941", "event": "Bishop von Galen's sermons against the murder of disabled people" },
-      { "date": "11 Dec 1941", "event": "Germany declares war on the USA" },
-      { "date": "20 Jan 1942", "event": "Wannsee Conference" },
-      { "date": "Feb 1942", "event": "Speer replaces Todt as Armaments Minister" },
-      { "date": "Feb 1943", "event": "Surrender at Stalingrad; 'total war' speech; White Rose arrests" },
-      { "date": "July 1943", "event": "Hamburg firestorm" },
-      { "date": "20 July 1944", "event": "July Bomb Plot fails" },
-      { "date": "30 April 1945", "event": "Hitler's suicide" },
-      { "date": "8 May 1945", "event": "Germany's unconditional surrender takes effect" }
+      {
+        "date": "Aug 1939",
+        "event": "Rationing introduced"
+      },
+      {
+        "date": "Sept 1939",
+        "event": "Invasion of Poland"
+      },
+      {
+        "date": "1940",
+        "event": "Ghettos sealed in Łódź and Warsaw"
+      },
+      {
+        "date": "22 June 1941",
+        "event": "Invasion of the USSR (Operation Barbarossa)"
+      },
+      {
+        "date": "Aug 1941",
+        "event": "Bishop von Galen's sermons against the murder of disabled people"
+      },
+      {
+        "date": "11 Dec 1941",
+        "event": "Germany declares war on the USA"
+      },
+      {
+        "date": "20 Jan 1942",
+        "event": "Wannsee Conference"
+      },
+      {
+        "date": "Feb 1942",
+        "event": "Speer replaces Todt as Armaments Minister"
+      },
+      {
+        "date": "Feb 1943",
+        "event": "Surrender at Stalingrad; 'total war' speech; White Rose arrests"
+      },
+      {
+        "date": "July 1943",
+        "event": "Hamburg firestorm"
+      },
+      {
+        "date": "20 July 1944",
+        "event": "July Bomb Plot fails"
+      },
+      {
+        "date": "30 April 1945",
+        "event": "Hitler's suicide"
+      },
+      {
+        "date": "8 May 1945",
+        "event": "Germany's unconditional surrender takes effect"
+      }
     ],
     "people": [
-      { "name": "Fritz Todt", "role": "Armaments Minister 1940–42." },
-      { "name": "Albert Speer", "role": "Armaments Minister from 1942; raised production." },
-      { "name": "Heinrich Himmler", "role": "SS chief; Interior Minister from 1943; organiser of genocide." },
-      { "name": "Reinhard Heydrich", "role": "Chaired the Wannsee Conference." },
-      { "name": "Joseph Goebbels", "role": "Propaganda; 'total war' speech, 1943." },
-      { "name": "Claus von Stauffenberg", "role": "Planted the bomb on 20 July 1944." },
-      { "name": "Hans and Sophie Scholl", "role": "White Rose leaders, executed 1943." },
-      { "name": "Clemens von Galen", "role": "Bishop of Münster; preached against the murder of disabled people (1941)." }
+      {
+        "name": "Fritz Todt",
+        "role": "Armaments Minister 1940–42."
+      },
+      {
+        "name": "Albert Speer",
+        "role": "Armaments Minister from 1942; raised production."
+      },
+      {
+        "name": "Heinrich Himmler",
+        "role": "SS chief; Interior Minister from 1943; organiser of genocide."
+      },
+      {
+        "name": "Reinhard Heydrich",
+        "role": "Chaired the Wannsee Conference."
+      },
+      {
+        "name": "Joseph Goebbels",
+        "role": "Propaganda; 'total war' speech, 1943."
+      },
+      {
+        "name": "Claus von Stauffenberg",
+        "role": "Planted the bomb on 20 July 1944."
+      },
+      {
+        "name": "Hans and Sophie Scholl",
+        "role": "White Rose leaders, executed 1943."
+      },
+      {
+        "name": "Clemens von Galen",
+        "role": "Bishop of Münster; preached against the murder of disabled people (1941)."
+      }
     ],
     "vocab": [
-      { "term": "Total war", "def": "Full mobilisation of society and economy for war." },
-      { "term": "Einsatzgruppen", "def": "SS mobile killing units in the east." },
-      { "term": "Final Solution", "def": "Nazi term for the planned murder of Europe's Jews." },
-      { "term": "Cumulative radicalisation", "def": "Policy becoming more extreme through competition and circumstances." },
-      { "term": "Forced labour", "def": "Foreign civilians and prisoners made to work for the German war economy." }
+      {
+        "term": "Total war",
+        "def": "Full mobilisation of society and economy for war."
+      },
+      {
+        "term": "Einsatzgruppen",
+        "def": "SS mobile killing units in the east."
+      },
+      {
+        "term": "Final Solution",
+        "def": "Nazi term for the planned murder of Europe's Jews."
+      },
+      {
+        "term": "Cumulative radicalisation",
+        "def": "Policy becoming more extreme through competition and circumstances."
+      },
+      {
+        "term": "Forced labour",
+        "def": "Foreign civilians and prisoners made to work for the German war economy."
+      }
     ],
     "misconceptions": [
-      { "wrong": "Germany was fully mobilised for war from 1939.", "right": "Full mobilisation came only from 1942–43; early production was inefficient." },
-      { "wrong": "The Holocaust was planned in detail before the war.", "right": "Persecution escalated through stages; systematic mass murder developed in 1941–42." },
-      { "wrong": "Bombing destroyed German morale and caused collapse.", "right": "It damaged morale and diverted resources, but the regime kept control until the end." }
+      {
+        "wrong": "Germany was fully mobilised for war from 1939.",
+        "right": "Full mobilisation came only from 1942–43; early production was inefficient."
+      },
+      {
+        "wrong": "The Holocaust was planned in detail before the war.",
+        "right": "Persecution escalated through stages; systematic mass murder developed in 1941–42."
+      },
+      {
+        "wrong": "Bombing destroyed German morale and caused collapse.",
+        "right": "It damaged morale and diverted resources, but the regime kept control until the end."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "Who replaced Todt as Armaments Minister in 1942?", "options": ["Göring", "Speer", "Schacht", "Ley"], "answer": 1, "why": "Speer centralised and rationalised production." },
-      { "id": "m2", "s": "s1", "q": "How did Germany mainly meet labour shortages?", "options": ["Conscripting German women fully", "Foreign workers and prisoners", "Ending conscription", "Automation"], "answer": 1, "why": "About 7 million by 1944." },
-      { "id": "m3", "s": "s2", "q": "What happened in February 1943?", "options": ["D-Day", "Goebbels's 'total war' speech", "Wannsee Conference", "July Bomb Plot"], "answer": 1, "why": "After Stalingrad — 18 February 1943." },
-      { "id": "m4", "s": "s2", "q": "Who led the July Bomb Plot?", "options": ["Galen", "Stauffenberg", "Niemöller", "Scholl"], "answer": 1, "why": "Colonel Claus von Stauffenberg, 20 July 1944." },
-      { "id": "m5", "s": "s3", "q": "What was decided at Wannsee in January 1942?", "options": ["The invasion of the USSR", "Co-ordination of the Final Solution", "Total war", "Rationing"], "answer": 1, "why": "Heydrich co-ordinated agencies for genocide." },
-      { "id": "m6", "s": "s3", "q": "Who carried out mass shootings in the USSR from 1941?", "options": ["Einsatzgruppen", "Hitler Youth", "DAF", "Volkssturm"], "answer": 0, "why": "SS mobile killing units with police battalions." },
-      { "id": "m7", "s": "s4", "q": "When did Germany declare war on the USA?", "options": ["September 1939", "June 1941", "December 1941", "June 1944"], "answer": 2, "why": "11 December 1941, after Pearl Harbor." },
-      { "id": "m8", "s": "s4", "q": "Why was bombing a 'second front'?", "options": ["It opened a land front in France", "It forced Germany to divert fighters, guns and men to air defence", "It was in Italy", "It was carried out by the USSR"], "answer": 1, "why": "Huge resources went to defending the Reich." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Who replaced Todt as Armaments Minister in 1942?",
+        "options": [
+          "Göring",
+          "Speer",
+          "Schacht",
+          "Ley"
+        ],
+        "answer": 1,
+        "why": "Speer centralised and rationalised production."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "How did Germany mainly meet labour shortages?",
+        "options": [
+          "Conscripting German women fully",
+          "Foreign workers and prisoners",
+          "Ending conscription",
+          "Automation"
+        ],
+        "answer": 1,
+        "why": "About 7 million by 1944."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "What happened in February 1943?",
+        "options": [
+          "D-Day",
+          "Goebbels's 'total war' speech",
+          "Wannsee Conference",
+          "July Bomb Plot"
+        ],
+        "answer": 1,
+        "why": "After Stalingrad — 18 February 1943."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "Who led the July Bomb Plot?",
+        "options": [
+          "Galen",
+          "Stauffenberg",
+          "Niemöller",
+          "Scholl"
+        ],
+        "answer": 1,
+        "why": "Colonel Claus von Stauffenberg, 20 July 1944."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "What was decided at Wannsee in January 1942?",
+        "options": [
+          "The invasion of the USSR",
+          "Co-ordination of the Final Solution",
+          "Total war",
+          "Rationing"
+        ],
+        "answer": 1,
+        "why": "Heydrich co-ordinated agencies for genocide."
+      },
+      {
+        "id": "m6",
+        "s": "s3",
+        "q": "Who carried out mass shootings in the USSR from 1941?",
+        "options": [
+          "Einsatzgruppen",
+          "Hitler Youth",
+          "DAF",
+          "Volkssturm"
+        ],
+        "answer": 0,
+        "why": "SS mobile killing units with police battalions."
+      },
+      {
+        "id": "m7",
+        "s": "s4",
+        "q": "When did Germany declare war on the USA?",
+        "options": [
+          "September 1939",
+          "June 1941",
+          "December 1941",
+          "June 1944"
+        ],
+        "answer": 2,
+        "why": "11 December 1941, after Pearl Harbor."
+      },
+      {
+        "id": "m8",
+        "s": "s4",
+        "q": "Why was bombing a 'second front'?",
+        "options": [
+          "It opened a land front in France",
+          "It forced Germany to divert fighters, guns and men to air defence",
+          "It was in Italy",
+          "It was carried out by the USSR"
+        ],
+        "answer": 1,
+        "why": "Huge resources went to defending the Reich."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s2", "q": "Which student resistance group did the Scholls belong to?", "accept": ["white rose", "the white rose", "weisse rose"], "answer": "The White Rose" },
-      { "id": "a2", "s": "s2", "q": "Which city suffered a firestorm in July 1943?", "accept": ["hamburg"], "answer": "Hamburg" },
-      { "id": "a3", "s": "s3", "q": "Who chaired the Wannsee Conference?", "accept": ["heydrich", "reinhard heydrich"], "answer": "Reinhard Heydrich" },
-      { "id": "a4", "s": "s4", "q": "Where did the German Sixth Army surrender in February 1943?", "accept": ["stalingrad"], "answer": "Stalingrad" },
-      { "id": "a5", "s": "s1", "q": "Who was Armaments Minister before Speer?", "accept": ["todt", "fritz todt"], "answer": "Fritz Todt" }
+      {
+        "id": "a1",
+        "s": "s2",
+        "q": "Which student resistance group did the Scholls belong to?",
+        "accept": [
+          "white rose",
+          "the white rose",
+          "weisse rose"
+        ],
+        "answer": "The White Rose"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "Which city suffered a firestorm in July 1943?",
+        "accept": [
+          "hamburg"
+        ],
+        "answer": "Hamburg"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "Who chaired the Wannsee Conference?",
+        "accept": [
+          "heydrich",
+          "reinhard heydrich"
+        ],
+        "answer": "Reinhard Heydrich"
+      },
+      {
+        "id": "a4",
+        "s": "s4",
+        "q": "Where did the German Sixth Army surrender in February 1943?",
+        "accept": [
+          "stalingrad"
+        ],
+        "answer": "Stalingrad"
+      },
+      {
+        "id": "a5",
+        "s": "s1",
+        "q": "Who was Armaments Minister before Speer?",
+        "accept": [
+          "todt",
+          "fritz todt"
+        ],
+        "answer": "Fritz Todt"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these events in order", "items": ["Invasion of Poland", "Invasion of the USSR", "War declared on the USA", "Wannsee Conference", "Surrender at Stalingrad", "July Bomb Plot", "Hitler's suicide"] }
+      {
+        "id": "c1",
+        "title": "Put these events in order",
+        "items": [
+          "Invasion of Poland",
+          "Invasion of the USSR",
+          "War declared on the USA",
+          "Wannsee Conference",
+          "Surrender at Stalingrad",
+          "July Bomb Plot",
+          "Hitler's suicide"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the reason for defeat to its evidence", "pairs": [["Balance of resources", "USA and USSR outproduced Germany in tanks and aircraft"], ["Sea power", "U-boats defeated in the Atlantic by May 1943"], ["Bombing", "Fighters and anti-aircraft guns diverted to defend the Reich"], ["Hitler's mistakes", "'No retreat' at Stalingrad"]] }
+      {
+        "id": "x1",
+        "title": "Match the reason for defeat to its evidence",
+        "pairs": [
+          [
+            "Balance of resources",
+            "USA and USSR outproduced Germany in tanks and aircraft"
+          ],
+          [
+            "Sea power",
+            "U-boats defeated in the Atlantic by May 1943"
+          ],
+          [
+            "Bombing",
+            "Fighters and anti-aircraft guns diverted to defend the Reich"
+          ],
+          [
+            "Hitler's mistakes",
+            "'No retreat' at Stalingrad"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s1", "q": "Give precise evidence of Speer's impact.", "keywords": [["tripl", "three", "1942", "1944", "rationalis", "standard", "central"]], "model": "From February 1942 Speer centralised and standardised production; armaments output roughly tripled by mid-1944 despite bombing." },
-      { "id": "e2", "s": "s2", "q": "Give precise evidence of opposition during the war.", "keywords": [["white rose", "scholl", "stauffenberg", "july", "galen", "edelweiss", "kreisau"]], "model": "White Rose leaflets (executions 1943), Galen's sermons (1941), Edelweiss Pirates hanged in Cologne (1944), the July Bomb Plot (20 July 1944)." }
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Give precise evidence of Speer's impact.",
+        "keywords": [
+          [
+            "tripl",
+            "three",
+            "1942",
+            "1944",
+            "rationalis",
+            "standard",
+            "central"
+          ]
+        ],
+        "model": "From February 1942 Speer centralised and standardised production; armaments output roughly tripled by mid-1944 despite bombing."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Give precise evidence of opposition during the war.",
+        "keywords": [
+          [
+            "white rose",
+            "scholl",
+            "stauffenberg",
+            "july",
+            "galen",
+            "edelweiss",
+            "kreisau"
+          ]
+        ],
+        "model": "White Rose leaflets (executions 1943), Galen's sermons (1941), Edelweiss Pirates hanged in Cologne (1944), the July Bomb Plot (20 July 1944)."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "Name three shortages that hampered the German war economy.", "a": "Labour, raw materials (oil, rubber, metals) and motor transport.", "hint": "Men, materials, motors." },
-    { "id": "f2", "s": "s1", "q": "What did Speer change?", "a": "Central planning, standardised designs, industrialists' committees, mass production — output roughly tripled 1942–44.", "hint": "Rationalisation." },
-    { "id": "f3", "s": "s1", "q": "Why didn't the regime fully mobilise German women?", "a": "Ideology (women's place in the home) and fear of damaging morale; it used foreign forced labour instead.", "hint": "Kinder, Küche, Kirche." },
-    { "id": "f4", "s": "s2", "q": "How did Goebbels respond to Stalingrad?", "a": "The 'total war' speech (February 1943) calling for full mobilisation.", "hint": "Sportpalast." },
-    { "id": "f5", "s": "s2", "q": "How did repression intensify after 1943?", "a": "Himmler became Interior Minister; more People's Court death sentences; defeatism punished by death.", "hint": "Himmler." },
-    { "id": "f6", "s": "s3", "q": "What role did Himmler play in genocide?", "a": "Head of the SS and police, organising resettlement, the Einsatzgruppen and the death camps.", "hint": "SS." },
-    { "id": "f7", "s": "s3", "q": "Intention or radicalisation — the Holocaust debate?", "a": "Intentionalists: Hitler's long-held plan. Functionalists: escalation through war, competing agencies and local initiative. Most combine both.", "hint": "Plan vs process." },
-    { "id": "f8", "s": "s4", "q": "Give two of Hitler's strategic mistakes.", "a": "Invading the USSR in 1941; declaring war on the USA; 'no retreat' orders at Stalingrad.", "hint": "East, west, retreat." },
-    { "id": "f9", "s": "s4", "q": "Why did sea power matter to Germany's defeat?", "a": "Blockade starved Germany of resources; U-boat defeat in 1943 let US troops and supplies cross the Atlantic.", "hint": "Atlantic." },
-    { "id": "f10", "s": "s2", "q": "What happened on 20 July 1944?", "a": "Stauffenberg's bomb failed to kill Hitler; thousands arrested, around 200 executed in direct connection.", "hint": "Wolf's Lair." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Name three shortages that hampered the German war economy.",
+      "a": "Labour, raw materials (oil, rubber, metals) and motor transport.",
+      "hint": "Men, materials, motors."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "What did Speer change?",
+      "a": "Central planning, standardised designs, industrialists' committees, mass production — output roughly tripled 1942–44.",
+      "hint": "Rationalisation."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Why didn't the regime fully mobilise German women?",
+      "a": "Ideology (women's place in the home) and fear of damaging morale; it used foreign forced labour instead.",
+      "hint": "Kinder, Küche, Kirche."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "How did Goebbels respond to Stalingrad?",
+      "a": "The 'total war' speech (February 1943) calling for full mobilisation.",
+      "hint": "Sportpalast."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "How did repression intensify after 1943?",
+      "a": "Himmler became Interior Minister; more People's Court death sentences; defeatism punished by death.",
+      "hint": "Himmler."
+    },
+    {
+      "id": "f6",
+      "s": "s3",
+      "q": "What role did Himmler play in genocide?",
+      "a": "Head of the SS and police, organising resettlement, the Einsatzgruppen and the death camps.",
+      "hint": "SS."
+    },
+    {
+      "id": "f7",
+      "s": "s3",
+      "q": "Intention or radicalisation — the Holocaust debate?",
+      "a": "Intentionalists: Hitler's long-held plan. Functionalists: escalation through war, competing agencies and local initiative. Most combine both.",
+      "hint": "Plan vs process."
+    },
+    {
+      "id": "f8",
+      "s": "s4",
+      "q": "Give two of Hitler's strategic mistakes.",
+      "a": "Invading the USSR in 1941; declaring war on the USA; 'no retreat' orders at Stalingrad.",
+      "hint": "East, west, retreat."
+    },
+    {
+      "id": "f9",
+      "s": "s4",
+      "q": "Why did sea power matter to Germany's defeat?",
+      "a": "Blockade starved Germany of resources; U-boat defeat in 1943 let US troops and supplies cross the Atlantic.",
+      "hint": "Atlantic."
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "What happened on 20 July 1944?",
+      "a": "Stauffenberg's bomb failed to kill Hitler; thousands arrested, around 200 executed in direct connection.",
+      "hint": "Wolf's Lair."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "explain", "text": "I can explain the impact of shortages and the roles of Göring, Todt and Speer.", "sections": ["s1"] },
-    { "id": "k2", "level": "judge", "text": "I can assess the impact of living standards and bombing, and the roles of Goebbels and Himmler.", "sections": ["s2"] },
-    { "id": "k3", "level": "judge", "text": "I can judge the nature and extent of wartime opposition.", "sections": ["s2"] },
-    { "id": "k4", "level": "explain", "text": "I can explain how genocide evolved, including the role of conquest in the east and of Himmler.", "sections": ["s3"] },
-    { "id": "k5", "level": "judge", "text": "I can reach a judgement on the main reason for Germany's defeat.", "sections": ["s4"] }
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the impact of shortages and the roles of Göring, Todt and Speer.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "judge",
+      "text": "I can assess the impact of living standards and bombing, and the roles of Goebbels and Himmler.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "judge",
+      "text": "I can judge the nature and extent of wartime opposition.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain how genocide evolved, including the role of conquest in the east and of Himmler.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can reach a judgement on the main reason for Germany's defeat.",
+      "sections": [
+        "s4"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "u1", "label": "Past paper: WHI01/1C, May 2025, Q4", "sections": ["s2"],
-        "q": "Historians differ in their judgements about Nazi control of the German civilian population in the years 1939–45.\n‘The Nazis were able to completely control the German civilian population in the years 1939–45.’\nAssess this view using your own knowledge of the issue." },
-      { "id": "q2", "qtype": "u1", "label": "Teacher-created practice question", "sections": ["s4", "s1"],
-        "q": "Historians differ in their judgements about the reasons for Germany's defeat in the Second World War.\n‘Germany was defeated in the years 1941–45 mainly because of Hitler's strategic mistakes.’\nAssess this view using your own knowledge of the issue." }
+      {
+        "id": "q1",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, June 2025, Q4",
+        "sections": [
+          "s2"
+        ],
+        "q": "Historians differ in their judgements about Nazi control of the German civilian population in the years 1939–45.\n‘The Nazis were able to completely control the German civilian population in the years 1939–45.’\nAssess this view using your own knowledge of the issue.",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "June 2025",
+          "part": "Q4"
+        },
+        "ms": {
+          "support": [
+            "Officials inspected rationing",
+            "camp prisoners rose from 100,000 (1942) to 500,000 (1944)",
+            "a labour register",
+            "propaganda controlled all media and the Volkssturm mobilised society in 1944"
+          ],
+          "challenge": [
+            "Rising absenteeism",
+            "resistance persisted — Rote Kapelle, White Rose to 1943, Kreisau Circle to 1944",
+            "open criticism grew",
+            "arbitrary brutality in 1944–45"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "qtype": "u1",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s4",
+          "s1"
+        ],
+        "q": "Historians differ in their judgements about the reasons for Germany's defeat in the Second World War.\n‘Germany was defeated in the years 1941–45 mainly because of Hitler's strategic mistakes.’\nAssess this view using your own knowledge of the issue."
+      },
+      {
+        "id": "pp-whi011c-january2025-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, January 2025, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "January 2025",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about the evolution of the genocide of Jewish people in the years 1939–45.\n‘In the years 1939–45, Himmler was the key driving force in the evolution of the genocide of Jewish people.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Himmler fully believed in Nazi racial ideology",
+            "from January 1939 his organisation took responsibility for the 'Jewish Question'",
+            "control of occupied Poland and Eastern plans placed millions of Jews under his authority",
+            "his personnel dominated the Wannsee Conference"
+          ],
+          "challenge": [
+            "Himmler initially pursued forced emigration such as the Madagascar Plan",
+            "invading western Russia brought large Jewish populations under German control",
+            "Einsatzgruppen murder after the invasion of the USSR",
+            "linking Jews with communism shaped the move to genocide"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-june2024-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, June 2024, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "June 2024",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about the management of Germany’s war economy in the years 1939–45.\n‘In the years 1939–45, the German war economy was badly managed.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Competing agencies and Hitler's interventions",
+            "labour poorly allocated",
+            "lack of standardisation",
+            "army influence favoured quality over quantity"
+          ],
+          "challenge": [
+            "The Ministry of Munitions (1940)",
+            "Todt and Speer rationalised industry",
+            "women aged 17–45 conscripted from 1943",
+            "output per worker up 60% and weapons production up 130%"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-january2024-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, January 2024, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "January 2024",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about the opposition to the Nazi regime in the years 1939–45.\n‘In the years 1939–45, the most significant opposition to the Nazi regime came from the German youth.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "The Edelweiss Pirates attacked Hitler Youth, aided POWs and were often executed",
+            "the White Rose in Munich distributed leaflets",
+            "the Swing Youth resisted and many were arrested"
+          ],
+          "challenge": [
+            "Repression was effective and most young people were passive or supportive",
+            "generals such as Stauffenberg led the July Plot (1944)",
+            "the Kreisau Circle drafted principles for a new order (1943)",
+            "the Rote Kapelle networked groups in Berlin"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-june2023-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, June 2023, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "June 2023",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians have different explanations for the defeat of Germany in the Second World War.\n‘The main reason for the defeat of Germany in the Second World War was the superiority of Allied resources.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Allies vastly outproduced Germany",
+            "about 100,000 Allied military aircraft in 1942 against Germany's 15,000",
+            "greater American and Soviet manpower",
+            "superior radar, sonar and proximity fuses"
+          ],
+          "challenge": [
+            "Bombing reduced output",
+            "obsession with quality over quantity",
+            "Hitler fought on too many fronts",
+            "alienation of occupied populations fuelled resistance"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-january2023-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, January 2023, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "January 2023",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about Nazi control in the years 1939–45.\n‘In the years 1939–45, the Nazis were unable to maintain effective control over the German civilian population.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Rising absenteeism",
+            "the Rote Kapelle to 1942 and Kreisau Circle to 1944",
+            "more open criticism as the war went on",
+            "arbitrary brutality in 1944–45 suggested lost control"
+          ],
+          "challenge": [
+            "Local officials checked rationing",
+            "repression grew — 500,000 in subsidiary camps in 1944 compared with 100,000 in 1942",
+            "a labour register directed workers",
+            "the Volkssturm (October 1944) conscripted men aged 16–60"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-june2022-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, June 2022, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "June 2022",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about the defeat of Germany in the Second World War.\n‘The impact of Allied bombing on the Third Reich was more significant than the war at sea in the defeat of Germany in the Second World War.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Bombing curbed arms production growth in 1943–44 and reduced it in 1944–45",
+            "civilian casualties eroded morale",
+            "bombing badly damaged the Luftwaffe",
+            "about two million men diverted to anti-aircraft duties in 1943"
+          ],
+          "challenge": [
+            "Failure to control the seas let Britain survive and US power deploy",
+            "Allied merchant losses fell despite more U-boats",
+            "convoys and support groups kept supplies flowing",
+            "naval supremacy enabled North Africa, the Mediterranean and D-Day"
+          ]
+        },
+        "exq": {
+          "series": "WHI02/1B examiner report, Summer 2022 (online copy)",
+          "url": "https://papers.xtremepape.rs/Edexcel/Advanced%20Level/History/2022%20Jun/Examiner-report/Examinerreport-Unit2B-June2022.pdf",
+          "strong": [
+            "Cover the whole period 1949–76."
+          ],
+          "weak": [
+            "Few covered the full date range, especially US relations in the 1970s; some drifted into the Korean War with little economic focus."
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-january2022-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, January 2022, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "January 2022",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians have different explanations for the evolution of the genocide of Jewish people in the years 1939–45.\n‘The impact of Germany’s invasion of western Russia was the main reason for the evolution of the genocide of Jewish people in the years 1939–45.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Occupying western Russia brought a large Jewish population under German control",
+            "Einsatzgruppen began mass murder after the invasion of the USSR",
+            "Nazis linked Jews with Soviet communism"
+          ],
+          "challenge": [
+            "Conquest of Poland added about 3.3 million Jews",
+            "Himmler was made responsible for the 'Jewish Question' in January 1939",
+            "war with the USA (December 1941) reinforced the idea of a racial war",
+            "Heydrich's ghetto orders and local initiatives radicalised policy",
+            "Backe's Hunger Plan and food shortages contributed"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-june2021-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, June 2021, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "June 2021",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about why Germany was defeated in the Second World War.\n‘Strategic mistakes made by Hitler and his high command were the main reason why Germany was defeated in the Second World War.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Invading the USSR while fighting Britain, then declaring war on the USA, spread Germany across too many fronts",
+            "neglecting the Mediterranean and Malta",
+            "focus on 'wonder weapons' over fighters wasted resources",
+            "refusing the Sixth Army's retreat at Stalingrad"
+          ],
+          "challenge": [
+            "Bombing cut industrial output",
+            "bombing eroded morale",
+            "failure to control the Atlantic let US power be deployed",
+            "the economy was not fully mobilised and never matched Allied production"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-january2021-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, January 2021, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "January 2021",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about the management of Germany’s war economy in the years 1939–45.\n‘In the years 1939–45, the German war economy was well-managed by the Nazis.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "The Ministry of Munitions (1940) partly ended multi-agency management",
+            "industrial production rose in 1943–44 despite Allied bombing",
+            "women aged 17–45 were mobilised in 1943",
+            "munitions output per worker rose 60% and weapons production 130% over 1939–45"
+          ],
+          "challenge": [
+            "Planning was split among competing agencies",
+            "labour was not effectively allocated",
+            "arms production lacked standardisation",
+            "priority on 'wonder weapons' like the V2 came too late",
+            "army influence favoured quality over quantity"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-january2020-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, January 2020, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "January 2020",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians have different explanations for Germany’s defeat in the Second World War.\n‘Germany’s inability to win the war at sea was the main reason why Germany was defeated in the Second World War.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Failure to control the war at sea meant Britain survived, enabling deployment of US military power",
+            "Despite the U-boat fleet trebling between April and December 1941, Allied sinkings fell and supply chains held",
+            "Allied convoys with surface support groups hunted U-boats, keeping war supplies flowing",
+            "Allied naval supremacy made the June 1944 reinvasion of Europe possible"
+          ],
+          "challenge": [
+            "Allied bombing cut industrial output and diverted workers",
+            "Hitler's strategic errors overstretched Germany",
+            "Germany never fully mobilised its economy in 1939, and Speer's reforms never closed the production gap",
+            "Nazi treatment of occupied populations fuelled resistance"
+          ]
+        },
+        "exq": {
+          "series": "WHI01/1C examiner report, January 2020",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI01_1C_pef_20200305.pdf",
+          "strong": [
+            "Use secure knowledge of the war at sea and weigh it against other factors."
+          ],
+          "weak": [
+            "Knowledge of the war at sea was often weak; very broad readings of ‘factor’ lost depth."
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-june2019-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, June 2019, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "June 2019",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about the domestic problems within Germany facing the Nazi government in the years 1939–45.\n‘The main problem within Germany facing the Nazi government, in the years 1939–45, was opposition to Nazi rule.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Military plots including the Kreisau Circle and the July Plot grew after 1940",
+            "Edelweiss Pirates and White Rose",
+            "Communist cells persisted with 89 factory cells in Berlin by 1941",
+            "Goebbels's growing influence showed concern"
+          ],
+          "challenge": [
+            "A labour register directed workers",
+            "the Volkssturm (1944) responded to imminent defeat",
+            "absenteeism was a manageable problem",
+            "Allied bombing dislocation needed management"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-june2018-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, June 2018, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "June 2018",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians have different explanations for the evolution of the genocide of Jewish people under Nazi rule in the years 1939–45.\n‘The impact of Germany’s conquest of Poland was the main reason for the evolution of the genocide of Jewish people under Nazi rule in the years 1939–45.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Conquering western Poland added about 3.3 million Jews",
+            "Einsatzgruppen rounded up Jews with extreme brutality",
+            "ghettoisation in Poland radicalised policy",
+            "the major death camps were set up in Poland"
+          ],
+          "challenge": [
+            "Conquest of Eastern Europe and Soviet territory together drove genocide",
+            "deliberate mass murder by Einsatzgruppen began after the invasion of the USSR",
+            "the euthanasia programme was a rehearsal",
+            "Backe's Hunger Plan"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-january2018-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, January 2018, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "January 2018",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians have different explanations for Germany’s defeat in the Second World War.\n‘The impact of the Allied bombing campaign during the Second World War was the main reason why Germany was defeated.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Bombing disrupted industrial output, diverting workers to rebuilding and reducing aircraft and tank production",
+            "Civilian deaths, injuries and destroyed infrastructure damaged morale and support for the war, increasing absenteeism",
+            "Bombing badly damaged the Luftwaffe, weakening Germany on both eastern and western fronts",
+            "By 1943, around two million men were diverted from the fronts to anti-aircraft service"
+          ],
+          "challenge": [
+            "Failure to win the war at sea allowed US military power to be deployed decisively",
+            "Hitler's strategic errors, including invading the USSR while fighting Britain and declaring war on the USA, overstretched Germany",
+            "The economy was not fully mobilised in 1939, and Speer's reforms never closed the production gap",
+            "Alienation of populations in occupied territories fuelled resistance that contributed to defeat"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-june2017-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, June 2017, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "June 2017",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about how far the Nazis were able to control the German civilian population in the years 1939–45.\n‘The Nazis effectively maintained control over the German civilian population in the years 1939–45.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Officials inspected households over rationing",
+            "camp numbers rose from 100,000 (1942) to 500,000 (1944)",
+            "a labour register directed workers",
+            "the Propaganda Ministry controlled information"
+          ],
+          "challenge": [
+            "Rising absenteeism",
+            "opposition persisted — Red Orchestra to 1942, White Rose to 1943, Kreisau Circle to 1944",
+            "increasingly open criticism",
+            "arbitrary brutality in 1944–45 reflected a declining grip"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-january2017-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, January 2017, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "January 2017",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about the Nazis’ management of the war economy in Germany in the years 1939–45.\n‘The Nazis’ management of the war economy in Germany was poor in the years 1939–45.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Planning was shared among competing agencies, which weakened management of the war economy",
+            "labour allocation for the war effort was poorly planned",
+            "arms production lacked standardisation and tended toward multiple variants",
+            "the army's significant influence favoured quality over quantity"
+          ],
+          "challenge": [
+            "The Ministry of Munitions, created in 1940, partly ended the multi-agency approach",
+            "Todt and then Speer rationalised industry and raw material distribution",
+            "in 1943, women aged 17 to 45 were obliged to sign up for work to address shortages",
+            "munitions output per worker rose by 60% and weapons production grew by 130% between 1939 and 1945"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-june2016-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, June 2016, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "June 2016",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "‘Himmler was responsible for the genocide of Jewish people living in areas controlled by the Nazis in the years 1939–45.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "Himmler was a committed believer in racial ideology",
+            "from January 1939 his organisation was responsible for the 'Jewish Question'",
+            "control of occupied Poland gave him reach over Jewish populations",
+            "his personnel dominated the Wannsee Conference"
+          ],
+          "challenge": [
+            "Hitler held ultimate responsibility",
+            "the euthanasia programme may have been a rehearsal for genocide",
+            "conquest of Eastern Europe and Soviet territory drove policy",
+            "Heydrich and others acted on their own initiative, and Göring ordered the Wannsee Conference"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi011c-specimen-4",
+        "qtype": "u1",
+        "label": "Past paper: WHI01/1C, Specimen, Q4",
+        "pp": {
+          "paper": "WHI01/1C",
+          "series": "Specimen",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "Historians differ in their judgements about the impact of the Allied bombing campaign against Germany during the Second World War.\n‘The Allied bombing campaign during the Second World War was not significant in the defeat of Germany.’\nAssess this view using your own knowledge of the issue.",
+        "ms": {
+          "support": [
+            "British bombing of Berlin in 1943–44 was costly and largely ineffective",
+            "US raids lacked follow-up",
+            "bombing helped Speer push for efficiency",
+            "factories were rebuilt, often underground or dispersed"
+          ],
+          "challenge": [
+            "Two million men and 50,000 guns diverted to anti-aircraft duties",
+            "aircraft and tank output fell by a third",
+            "over 300,000 civilian deaths and a fifth of housing destroyed",
+            "heavy Luftwaffe losses on both fronts"
+          ]
+        }
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Competing arguments", "task": "Was Speer's 'armaments miracle' a miracle at all? Consider what had been wasted before 1942 and the role of forced labour." },
-    { "id": "t2", "kind": "Relative significance", "task": "Was the war lost in the factories or on the battlefield? Compare the balance of resources with Hitler's mistakes using effectiveness and impact." },
-    { "id": "t3", "kind": "Evaluation", "task": "How can historians explain why so many ordinary Germans continued to work and fight until 1945?" }
+    {
+      "id": "t1",
+      "kind": "Competing arguments",
+      "task": "Was Speer's 'armaments miracle' a miracle at all? Consider what had been wasted before 1942 and the role of forced labour."
+    },
+    {
+      "id": "t2",
+      "kind": "Relative significance",
+      "task": "Was the war lost in the factories or on the battlefield? Compare the balance of resources with Hitler's mistakes using effectiveness and impact."
+    },
+    {
+      "id": "t3",
+      "kind": "Evaluation",
+      "task": "How can historians explain why so many ordinary Germans continued to work and fight until 1945?"
+    }
   ]
 }

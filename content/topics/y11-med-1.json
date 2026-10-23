@@ -1,123 +1,874 @@
 {
-  "id": "y11-med-1", "course": "y11", "area": "med", "kt": "Key topic 1", "order": 21,
+  "id": "y11-med-1",
+  "course": "y11",
+  "area": "med",
+  "kt": "Key topic 1",
+  "order": 21,
   "title": "Progress in the mid-19th century: Nightingale, Chadwick, Snow and Simpson",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Breadth study B2, key topic 1. No class textbook uploaded for this option yet." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following 4HI1 Breadth study B2, key topic 1. No class textbook uploaded for this option yet."
+  },
   "learn": {
     "intro": "In the mid-1800s nobody knew that germs caused disease. Even so, Nightingale improved hospitals, Simpson tackled pain in surgery, Chadwick pushed for public health reform and Snow linked cholera to dirty water.",
     "sections": [
       {
-        "id": "s1", "title": "1. Barriers to progress",
+        "id": "s1",
+        "title": "1. Barriers to progress",
         "blocks": [
-          { "p": "The biggest barrier was the lack of understanding of what caused disease. Most doctors believed in miasma — that disease spread through bad air from rotting matter. Some believed in spontaneous generation, the idea that microbes appeared from decaying material. Without knowing about germs, doctors could not prevent infection." },
-          { "p": "Other barriers: cities were overcrowded with poor housing, little clean water and no proper sewers; governments believed in laissez-faire (not interfering in people's lives); and many doctors resisted new ideas." }
+          {
+            "p": "The biggest barrier was the lack of understanding of what caused disease. Most doctors believed in miasma — that disease spread through bad air from rotting matter. Some believed in spontaneous generation, the idea that microbes appeared from decaying material. Without knowing about germs, doctors could not prevent infection."
+          },
+          {
+            "p": "Other barriers: cities were overcrowded with poor housing, little clean water and no proper sewers; governments believed in laissez-faire (not interfering in people's lives); and many doctors resisted new ideas."
+          }
         ],
-        "terms": ["miasma", "spontaneous generation", "laissez-faire"],
-        "evidence": ["Miasma theory widely believed.", "Industrial towns overcrowded with poor sanitation."]
+        "terms": [
+          "miasma",
+          "spontaneous generation",
+          "laissez-faire"
+        ],
+        "evidence": [
+          "Miasma theory widely believed.",
+          "Industrial towns overcrowded with poor sanitation."
+        ]
       },
       {
-        "id": "s2", "title": "2. Florence Nightingale and nursing",
+        "id": "s2",
+        "title": "2. Florence Nightingale and nursing",
         "blocks": [
-          { "p": "During the Crimean War, Florence Nightingale took 38 nurses to the army hospital at Scutari in 1854. She found filthy wards, poor food and overcrowding. She cleaned the hospital, improved hygiene, food and ventilation, and organised the nurses. The death rate among soldiers in the hospital fell dramatically." },
-          { "p": "Back in Britain she used statistics to argue for reform, wrote Notes on Nursing (1859), and in 1860 opened the Nightingale School of Nursing at St Thomas' Hospital, London. Nursing became a respectable, trained profession for women. She also influenced hospital design, favouring airy 'pavilion' wards — although she believed in miasma rather than germs." }
+          {
+            "p": "During the Crimean War, Florence Nightingale took 38 nurses to the army hospital at Scutari in 1854. She found filthy wards, poor food and overcrowding. She cleaned the hospital, improved hygiene, food and ventilation, and organised the nurses. The death rate among soldiers in the hospital fell dramatically."
+          },
+          {
+            "p": "Back in Britain she used statistics to argue for reform, wrote Notes on Nursing (1859), and in 1860 opened the Nightingale School of Nursing at St Thomas' Hospital, London. Nursing became a respectable, trained profession for women. She also influenced hospital design, favouring airy 'pavilion' wards — although she believed in miasma rather than germs."
+          }
         ],
-        "terms": ["Scutari", "Crimean War", "pavilion hospital", "Notes on Nursing"],
-        "evidence": ["1854: Nightingale arrives at Scutari with 38 nurses.", "1859: Notes on Nursing.", "1860: Nightingale School of Nursing."]
+        "terms": [
+          "Scutari",
+          "Crimean War",
+          "pavilion hospital",
+          "Notes on Nursing"
+        ],
+        "evidence": [
+          "1854: Nightingale arrives at Scutari with 38 nurses.",
+          "1859: Notes on Nursing.",
+          "1860: Nightingale School of Nursing."
+        ]
       },
       {
-        "id": "s3", "title": "3. Dangers in surgery and Simpson's chloroform",
+        "id": "s3",
+        "title": "3. Dangers in surgery and Simpson's chloroform",
         "blocks": [
-          { "p": "Surgery had three great dangers: pain, infection and bleeding. Without pain relief, surgeons had to operate very quickly; patients could die of shock." },
-          { "p": "In 1847 James Simpson, an Edinburgh professor, discovered that chloroform was an effective anaesthetic. It became popular after Queen Victoria used it during childbirth in 1853. There was opposition: some patients died from overdoses (Hannah Greener died in 1848), and some people believed pain was natural or God-given." },
-          { "p": "Anaesthetics solved pain, but surgeons now attempted longer, more complicated operations — so deaths from infection and bleeding could actually rise. This period is sometimes called the 'black period' of surgery." }
+          {
+            "p": "Surgery had three great dangers: pain, infection and bleeding. Without pain relief, surgeons had to operate very quickly; patients could die of shock."
+          },
+          {
+            "p": "In 1847 James Simpson, an Edinburgh professor, discovered that chloroform was an effective anaesthetic. It became popular after Queen Victoria used it during childbirth in 1853. There was opposition: some patients died from overdoses (Hannah Greener died in 1848), and some people believed pain was natural or God-given."
+          },
+          {
+            "p": "Anaesthetics solved pain, but surgeons now attempted longer, more complicated operations — so deaths from infection and bleeding could actually rise. This period is sometimes called the 'black period' of surgery."
+          }
         ],
-        "terms": ["anaesthetic", "chloroform", "infection", "black period"],
-        "evidence": ["1847: Simpson discovers chloroform.", "1848: Hannah Greener dies under chloroform.", "1853: Queen Victoria uses chloroform."]
+        "terms": [
+          "anaesthetic",
+          "chloroform",
+          "infection",
+          "black period"
+        ],
+        "evidence": [
+          "1847: Simpson discovers chloroform.",
+          "1848: Hannah Greener dies under chloroform.",
+          "1853: Queen Victoria uses chloroform."
+        ]
       },
       {
-        "id": "s4", "title": "4. Public health: Chadwick, the 1848 Act, cholera and Snow",
+        "id": "s4",
+        "title": "4. Public health: Chadwick, the 1848 Act, cholera and Snow",
         "blocks": [
-          { "p": "Edwin Chadwick's Report on the Sanitary Condition of the Labouring Population (1842) showed that the poor in towns died much younger than the rich, and argued that cleaning up towns would save money by reducing illness." },
-          { "p": "Cholera epidemics (1831–32, 1848–49, 1853–54) killed tens of thousands and frightened the government. The Public Health Act (1848) set up a General Board of Health and allowed towns to create local boards of health to improve water and sewers — but it was permissive (not compulsory), so many towns did nothing." },
-          { "p": "In 1854 John Snow mapped cholera deaths in Soho, London, and showed they clustered around the Broad Street water pump. He had the pump handle removed and cases fell. He proved cholera spread through contaminated water, not miasma — though he could not identify the germ, and many ignored his findings at first." }
+          {
+            "p": "Edwin Chadwick's Report on the Sanitary Condition of the Labouring Population (1842) showed that the poor in towns died much younger than the rich, and argued that cleaning up towns would save money by reducing illness."
+          },
+          {
+            "p": "Cholera epidemics (1831–32, 1848–49, 1853–54) killed tens of thousands and frightened the government. The Public Health Act (1848) set up a General Board of Health and allowed towns to create local boards of health to improve water and sewers — but it was permissive (not compulsory), so many towns did nothing."
+          },
+          {
+            "p": "In 1854 John Snow mapped cholera deaths in Soho, London, and showed they clustered around the Broad Street water pump. He had the pump handle removed and cases fell. He proved cholera spread through contaminated water, not miasma — though he could not identify the germ, and many ignored his findings at first."
+          }
         ],
-        "terms": ["public health", "cholera", "permissive", "Broad Street pump"],
-        "evidence": ["1842: Chadwick's report.", "1848: Public Health Act (permissive).", "1854: Snow and the Broad Street pump."]
+        "terms": [
+          "public health",
+          "cholera",
+          "permissive",
+          "Broad Street pump"
+        ],
+        "evidence": [
+          "1842: Chadwick's report.",
+          "1848: Public Health Act (permissive).",
+          "1854: Snow and the Broad Street pump."
+        ]
       }
     ],
     "timeline": [
-      { "date": "1842", "event": "Chadwick's Report on sanitary conditions" },
-      { "date": "1847", "event": "Simpson discovers chloroform" },
-      { "date": "1848", "event": "Public Health Act; cholera epidemic" },
-      { "date": "1853", "event": "Queen Victoria uses chloroform in childbirth" },
-      { "date": "1854", "event": "Nightingale at Scutari; Snow and the Broad Street pump" },
-      { "date": "1859", "event": "Nightingale's Notes on Nursing" },
-      { "date": "1860", "event": "Nightingale School of Nursing opens" }
+      {
+        "date": "1842",
+        "event": "Chadwick's Report on sanitary conditions"
+      },
+      {
+        "date": "1847",
+        "event": "Simpson discovers chloroform"
+      },
+      {
+        "date": "1848",
+        "event": "Public Health Act; cholera epidemic"
+      },
+      {
+        "date": "1853",
+        "event": "Queen Victoria uses chloroform in childbirth"
+      },
+      {
+        "date": "1854",
+        "event": "Nightingale at Scutari; Snow and the Broad Street pump"
+      },
+      {
+        "date": "1859",
+        "event": "Nightingale's Notes on Nursing"
+      },
+      {
+        "date": "1860",
+        "event": "Nightingale School of Nursing opens"
+      }
     ],
     "people": [
-      { "name": "Florence Nightingale", "role": "Reformed nursing and hospitals." },
-      { "name": "James Simpson", "role": "Discovered chloroform as an anaesthetic (1847)." },
-      { "name": "Edwin Chadwick", "role": "Wrote the 1842 report on public health." },
-      { "name": "John Snow", "role": "Linked cholera to dirty water (1854)." }
+      {
+        "name": "Florence Nightingale",
+        "role": "Reformed nursing and hospitals."
+      },
+      {
+        "name": "James Simpson",
+        "role": "Discovered chloroform as an anaesthetic (1847)."
+      },
+      {
+        "name": "Edwin Chadwick",
+        "role": "Wrote the 1842 report on public health."
+      },
+      {
+        "name": "John Snow",
+        "role": "Linked cholera to dirty water (1854)."
+      }
     ],
     "vocab": [
-      { "term": "Miasma", "def": "The belief that disease spread through bad air." },
-      { "term": "Anaesthetic", "def": "A drug that stops pain." },
-      { "term": "Permissive act", "def": "A law that allows but does not force action." },
-      { "term": "Epidemic", "def": "A disease spreading quickly to many people." }
+      {
+        "term": "Miasma",
+        "def": "The belief that disease spread through bad air."
+      },
+      {
+        "term": "Anaesthetic",
+        "def": "A drug that stops pain."
+      },
+      {
+        "term": "Permissive act",
+        "def": "A law that allows but does not force action."
+      },
+      {
+        "term": "Epidemic",
+        "def": "A disease spreading quickly to many people."
+      }
     ],
     "misconceptions": [
-      { "wrong": "Nightingale knew about germs.", "right": "She believed in miasma; her hygiene worked even though the theory was wrong." },
-      { "wrong": "Anaesthetics made surgery safe straight away.", "right": "They removed pain, but infection and bleeding remained — longer operations could increase deaths." }
+      {
+        "wrong": "Nightingale knew about germs.",
+        "right": "She believed in miasma; her hygiene worked even though the theory was wrong."
+      },
+      {
+        "wrong": "Anaesthetics made surgery safe straight away.",
+        "right": "They removed pain, but infection and bleeding remained — longer operations could increase deaths."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "What did miasma theory claim?", "options": ["Germs cause disease", "Disease spreads through bad air", "Disease is a punishment", "Water spreads all disease"], "answer": 1, "why": "Widely believed until germ theory." },
-      { "id": "m2", "s": "s2", "q": "Where did Nightingale work in the Crimean War?", "options": ["Balaclava", "Scutari", "Edinburgh", "Paris"], "answer": 1, "why": "From 1854." },
-      { "id": "m3", "s": "s3", "q": "What did Simpson discover in 1847?", "options": ["Ether", "Chloroform as an anaesthetic", "Carbolic acid", "Penicillin"], "answer": 1, "why": "In Edinburgh." },
-      { "id": "m4", "s": "s4", "q": "Why did the 1848 Public Health Act have limited impact?", "options": ["It was compulsory", "It was permissive — towns did not have to act", "It banned sewers", "It only covered London"], "answer": 1, "why": "Many towns did nothing." },
-      { "id": "m5", "s": "s4", "q": "What did John Snow show in 1854?", "options": ["Cholera spread through bad air", "Cholera spread through contaminated water", "Cholera was caused by a germ he identified", "Cholera could be vaccinated against"], "answer": 1, "why": "Broad Street pump." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What did miasma theory claim?",
+        "options": [
+          "Germs cause disease",
+          "Disease spreads through bad air",
+          "Disease is a punishment",
+          "Water spreads all disease"
+        ],
+        "answer": 1,
+        "why": "Widely believed until germ theory."
+      },
+      {
+        "id": "m2",
+        "s": "s2",
+        "q": "Where did Nightingale work in the Crimean War?",
+        "options": [
+          "Balaclava",
+          "Scutari",
+          "Edinburgh",
+          "Paris"
+        ],
+        "answer": 1,
+        "why": "From 1854."
+      },
+      {
+        "id": "m3",
+        "s": "s3",
+        "q": "What did Simpson discover in 1847?",
+        "options": [
+          "Ether",
+          "Chloroform as an anaesthetic",
+          "Carbolic acid",
+          "Penicillin"
+        ],
+        "answer": 1,
+        "why": "In Edinburgh."
+      },
+      {
+        "id": "m4",
+        "s": "s4",
+        "q": "Why did the 1848 Public Health Act have limited impact?",
+        "options": [
+          "It was compulsory",
+          "It was permissive — towns did not have to act",
+          "It banned sewers",
+          "It only covered London"
+        ],
+        "answer": 1,
+        "why": "Many towns did nothing."
+      },
+      {
+        "id": "m5",
+        "s": "s4",
+        "q": "What did John Snow show in 1854?",
+        "options": [
+          "Cholera spread through bad air",
+          "Cholera spread through contaminated water",
+          "Cholera was caused by a germ he identified",
+          "Cholera could be vaccinated against"
+        ],
+        "answer": 1,
+        "why": "Broad Street pump."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s4", "q": "Whose 1842 report showed the poor died younger?", "accept": ["chadwick", "edwin chadwick"], "answer": "Edwin Chadwick" },
-      { "id": "a2", "s": "s4", "q": "Which London pump did Snow link to cholera?", "accept": ["broad street", "broad street pump", "the broad street pump"], "answer": "The Broad Street pump" },
-      { "id": "a3", "s": "s2", "q": "What book did Nightingale publish in 1859?", "accept": ["notes on nursing"], "answer": "Notes on Nursing" }
+      {
+        "id": "a1",
+        "s": "s4",
+        "q": "Whose 1842 report showed the poor died younger?",
+        "accept": [
+          "chadwick",
+          "edwin chadwick"
+        ],
+        "answer": "Edwin Chadwick"
+      },
+      {
+        "id": "a2",
+        "s": "s4",
+        "q": "Which London pump did Snow link to cholera?",
+        "accept": [
+          "broad street",
+          "broad street pump",
+          "the broad street pump"
+        ],
+        "answer": "The Broad Street pump"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "What book did Nightingale publish in 1859?",
+        "accept": [
+          "notes on nursing"
+        ],
+        "answer": "Notes on Nursing"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these in order", "items": ["Chadwick's report", "Simpson's chloroform", "Public Health Act", "Nightingale at Scutari", "Nightingale School of Nursing"] }
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Chadwick's report",
+          "Simpson's chloroform",
+          "Public Health Act",
+          "Nightingale at Scutari",
+          "Nightingale School of Nursing"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the person to their contribution", "pairs": [["Nightingale", "Nursing and hospital hygiene"], ["Simpson", "Chloroform"], ["Chadwick", "1842 sanitary report"], ["Snow", "Cholera and water"]] }
+      {
+        "id": "x1",
+        "title": "Match the person to their contribution",
+        "pairs": [
+          [
+            "Nightingale",
+            "Nursing and hospital hygiene"
+          ],
+          [
+            "Simpson",
+            "Chloroform"
+          ],
+          [
+            "Chadwick",
+            "1842 sanitary report"
+          ],
+          [
+            "Snow",
+            "Cholera and water"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s4", "q": "Give precise evidence of Snow's work.", "keywords": [["1854", "broad street", "pump", "map", "soho", "handle"]], "model": "In 1854 Snow mapped cholera deaths in Soho, linked them to the Broad Street pump and had its handle removed." }
+      {
+        "id": "e1",
+        "s": "s4",
+        "q": "Give precise evidence of Snow's work.",
+        "keywords": [
+          [
+            "1854",
+            "broad street",
+            "pump",
+            "map",
+            "soho",
+            "handle"
+          ]
+        ],
+        "model": "In 1854 Snow mapped cholera deaths in Soho, linked them to the Broad Street pump and had its handle removed."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "What was the main barrier to medical progress around 1848?", "a": "No understanding of germs — belief in miasma and spontaneous generation.", "hint": "Cause of disease." },
-    { "id": "f2", "s": "s2", "q": "What did Nightingale change at Scutari?", "a": "Cleanliness, ventilation, food, organised nursing — the death rate fell dramatically.", "hint": "Hygiene." },
-    { "id": "f3", "s": "s2", "q": "Why was Nightingale important after the war?", "a": "Notes on Nursing; Nightingale School (1860); trained, respectable nursing; hospital design.", "hint": "St Thomas'." },
-    { "id": "f4", "s": "s3", "q": "What were the three problems of surgery?", "a": "Pain, infection, bleeding.", "hint": "P, I, B." },
-    { "id": "f5", "s": "s3", "q": "Why was there opposition to chloroform?", "a": "Overdose deaths (Hannah Greener 1848); belief pain was natural or God-given.", "hint": "Safety and religion." },
-    { "id": "f6", "s": "s4", "q": "What did the 1848 Public Health Act do?", "a": "Set up a General Board of Health; allowed towns to improve water and sewers — but was not compulsory.", "hint": "Permissive." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "What was the main barrier to medical progress around 1848?",
+      "a": "No understanding of germs — belief in miasma and spontaneous generation.",
+      "hint": "Cause of disease."
+    },
+    {
+      "id": "f2",
+      "s": "s2",
+      "q": "What did Nightingale change at Scutari?",
+      "a": "Cleanliness, ventilation, food, organised nursing — the death rate fell dramatically.",
+      "hint": "Hygiene."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "Why was Nightingale important after the war?",
+      "a": "Notes on Nursing; Nightingale School (1860); trained, respectable nursing; hospital design.",
+      "hint": "St Thomas'."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "What were the three problems of surgery?",
+      "a": "Pain, infection, bleeding.",
+      "hint": "P, I, B."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "Why was there opposition to chloroform?",
+      "a": "Overdose deaths (Hannah Greener 1848); belief pain was natural or God-given.",
+      "hint": "Safety and religion."
+    },
+    {
+      "id": "f6",
+      "s": "s4",
+      "q": "What did the 1848 Public Health Act do?",
+      "a": "Set up a General Board of Health; allowed towns to improve water and sewers — but was not compulsory.",
+      "hint": "Permissive."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "explain", "text": "I can explain the barriers to progress, especially the lack of understanding of the causes of disease.", "sections": ["s1"] },
-    { "id": "k2", "level": "describe", "text": "I can describe Nightingale's changes to nursing and hospitals at Scutari.", "sections": ["s2"] },
-    { "id": "k3", "level": "explain", "text": "I can explain the dangers in surgery and the impact of Simpson and chloroform.", "sections": ["s3"] },
-    { "id": "k4", "level": "explain", "text": "I can explain public health problems, Chadwick, the 1848 Act, cholera and Snow.", "sections": ["s4"] }
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the barriers to progress, especially the lack of understanding of the causes of disease.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe Nightingale's changes to nursing and hospitals at Scutari.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain the dangers in surgery and the impact of Simpson and chloroform.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain public health problems, Chadwick, the 1848 Act, cholera and Snow.",
+      "sections": [
+        "s4"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "p2bb", "label": "Teacher-created practice question", "sections": ["s4"],
-        "q": "Explain TWO causes of the Public Health Act of 1848." },
-      { "id": "q2", "qtype": "p2ba", "label": "Teacher-created practice question", "sections": ["s3"],
-        "q": "Explain TWO ways in which surgery in the 1850s was different from surgery in the 1840s." }
+      {
+        "id": "q1",
+        "qtype": "p2bb",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s4"
+        ],
+        "q": "Explain TWO causes of the Public Health Act of 1848."
+      },
+      {
+        "id": "q2",
+        "qtype": "p2ba",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s3"
+        ],
+        "q": "Explain TWO ways in which surgery in the 1850s was different from surgery in the 1840s."
+      },
+      {
+        "id": "pp-4hi102-june2024-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02, June 2024, B2(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2024",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which the role of local authorities in public health after 1875 was different from their role in public health before 1875.",
+        "ms": {
+          "points": [
+            "After 1875 councils had to appoint a Medical Officer of Health",
+            "they were compelled to provide clean water and sewage disposal"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2023-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02, November 2023, B2(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2023",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which the Public Health Act of 1848 was similar to the Public Health Act of 1875.",
+        "ms": {
+          "points": [
+            "Both required officials to oversee public health",
+            "both recognised the need to deal with sewage"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2023-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02, November 2023, B2(b)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2023",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the lack of progress in medical treatment in the years 1848–60.",
+        "ms": {
+          "points": [
+            "Few bodies were available for dissection",
+            "government reluctance to fund research",
+            "old ideas such as the four humours still held back investigation"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2023-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02, June 2023, B2(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2023",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which surgery in 1848 was different from surgery in 1875.",
+        "ms": {
+          "points": [
+            "Anaesthetics were new and opposed in 1848 but widely used by 1875",
+            "no antiseptics in 1848 but Lister's carbolic spray by 1875"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2023-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2023, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2023",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How significant was Florence Nightingale in developing the role of women in medicine in the years 1848–75?",
+        "prompts": [
+          "Florence Nightingale",
+          "Elizabeth Garrett"
+        ],
+        "ms": {
+          "support": [
+            "Nightingale made nursing acceptable for women",
+            "Notes on Nursing",
+            "Nightingale wards"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2022-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02, June 2022, B2(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2022",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which surgery in 1905 was different from surgery in 1920.",
+        "ms": {
+          "points": [
+            "Blood could not be stored in 1905 but could be by 1920",
+            "skin grafts often failed in 1905 but improved with the pedicle tube"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2022-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2022, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2022",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How far did medical treatment change in the years 1848–75?",
+        "prompts": [
+          "hospitals",
+          "antiseptics"
+        ],
+        "ms": {
+          "support": [
+            "Nightingale made hospitals cleaner and nurses better trained",
+            "Elizabeth Garrett qualified",
+            "Lister's carbolic spray (1867)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2022-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2022, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2022",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How far did public health provision change in the years 1848–75?",
+        "prompts": [
+          "the Public Health Act (1848)",
+          "the work of Snow"
+        ],
+        "ms": {
+          "support": [
+            "Snow linked cholera to water (1854)",
+            "Bazalgette's London sewers",
+            "the 1866 Sanitary Act required inspectors"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2021-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02, November 2021, B2(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2021",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which ideas about the causes of disease in 1848 were different from ideas about the causes of disease in 1875.",
+        "ms": {
+          "points": [
+            "Snow's 1854 research showed water spread disease",
+            "germ theory (1861) replaced miasma"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2021-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02, June 2021, B2(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2021",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which government involvement in public health in 1860 was different from government involvement in public health in 1875.",
+        "ms": {
+          "points": [
+            "1860 — local authorities encouraged to set up Boards of Health",
+            "1875 — compelled to act",
+            "1875 brought wider duties beyond clean water"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2021-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02, June 2021, B2(b)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2021",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the dangers in surgery in the years 1848–60.",
+        "ms": {
+          "points": [
+            "Poor understanding of hygiene — no handwashing, unsterilised instruments",
+            "unreliable anaesthetics (ether side effects, chloroform dosing)",
+            "more complex operations meant more blood loss and infection"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2020-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02, June 2020, B2(b)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2020",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the progress of women in medicine in the years 1848–76.",
+        "ms": {
+          "points": [
+            "Nightingale's writing and the Nightingale School (1860)",
+            "Elizabeth Garrett's fight to qualify",
+            "the 1876 Act allowing women into the profession"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2019-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2019, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2019",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How far were scientific discoveries responsible for changes in public health provision in the years 1848–75?",
+        "prompts": [
+          "Pasteur's germ theory (1861)",
+          "the Public Health Act (1875)"
+        ],
+        "ms": {
+          "support": [
+            "Snow's 1854 cholera research",
+            "Pasteur's germ theory pushed towards the 1875 Act",
+            "germ theory encouraged sewers"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2025-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02R, June 2025, B2(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2025",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which nursing in 1848 was different from nursing in 1860.",
+        "ms": {
+          "points": [
+            "Nurses untrained in 1848 but Nightingale's training school by 1860",
+            "hospital ventilation and cleanliness improved"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2025-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02R, June 2025, B2(b)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2025",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the dangers in surgery in 1848.",
+        "ms": {
+          "points": [
+            "Pain poorly controlled as anaesthetics were new and risky",
+            "blood loss",
+            "infection from unsterilised equipment"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2024-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02R, June 2024, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2024",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How significant were developments in science and technology in improving health in the years 1848–75?",
+        "prompts": [
+          "the Public Health Act, 1848",
+          "germ theory"
+        ],
+        "ms": {
+          "support": [
+            "Germ theory explained infection",
+            "chloroform enabled more skilful operations",
+            "Lister's antiseptics"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2023-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02R, June 2023, B2(b)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2023",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the improvements in surgery in the years 1848–75.",
+        "ms": {
+          "points": [
+            "Anaesthetics (ether, chloroform) allowed longer operations",
+            "Snow's chloroform inhaler controlled doses",
+            "Lister's carbolic antisepsis"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2023-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02R, June 2023, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2023",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How significant was the role of government in improving public health provision in the years 1860–1905?",
+        "prompts": [
+          "the Public Health Act (1875)",
+          "the work of Koch"
+        ],
+        "ms": {
+          "support": [
+            "The 1875 Act made councils responsible",
+            "laws against dumping factory waste in rivers",
+            "the Infectious Disease Act (1889/99) and isolation hospitals"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2020-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02R, June 2020, B2(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2020",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which the Public Health Act of 1848 was different from the Public Health Act of 1875.",
+        "ms": {
+          "points": [
+            "Legal force — 1848 permissive, 1875 compulsory",
+            "scope — 1875 required a Medical Officer of Health"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2020-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02R, June 2020, B2(b)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2020",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of improvements in care in hospitals in the years 1848–75.",
+        "ms": {
+          "points": [
+            "Nightingale's recommendations on spacing and cleanliness",
+            "the nurse-training school at St Thomas' (1860)",
+            "Lister's carbolic acid antiseptics"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2019-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02R, June 2019, B2(b)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2019",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of improvements in surgery in the years 1860–1905.",
+        "ms": {
+          "points": [
+            "Lister's antiseptics based on germ theory",
+            "aseptic surgery",
+            "carbolised catgut ligatures"
+          ]
+        }
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Competing arguments", "task": "Nightingale's methods worked even though her theory was wrong. Does that make her more or less significant than Snow?" },
-    { "id": "t2", "kind": "Causal links", "task": "Why might chloroform have increased deaths from surgery at first? Explain the chain." }
+    {
+      "id": "t1",
+      "kind": "Competing arguments",
+      "task": "Nightingale's methods worked even though her theory was wrong. Does that make her more or less significant than Snow?"
+    },
+    {
+      "id": "t2",
+      "kind": "Causal links",
+      "task": "Why might chloroform have increased deaths from surgery at first? Explain the chain."
+    }
   ]
 }

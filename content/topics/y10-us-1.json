@@ -438,7 +438,29 @@
         "prompts": [
           "the media",
           "the army"
-        ]
+        ],
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2025",
+          "part": "Q7(c)(i)"
+        },
+        "ms": {
+          "support": [
+            "Televised Army–McCarthy hearings (1954) exposed his methods",
+            "Ed Murrow's documentary",
+            "newspaper columnists discredited him"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/01 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-01-pef-20250821.pdf",
+          "strong": [
+            "The strongest answers explored how the media, the army, distaste for his methods and lack of evidence interacted."
+          ],
+          "weak": [
+            "Weaker answers lacked secure detail on the army hearings and media opposition."
+          ]
+        }
       },
       {
         "id": "q2",
@@ -448,6 +470,231 @@
           "s3"
         ],
         "q": "Explain two effects of McCarthyism on the USA."
+      },
+      {
+        "id": "pp-4hi101-november2023-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, November 2023, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2023",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main consequence of the Red Scare was an increase in the importance of Senator McCarthy.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "Senator McCarthy",
+          "anti-communist investigations"
+        ],
+        "ms": {
+          "support": [
+            "McCarthy became the leading anti-communist",
+            "his committee made him central",
+            "Eisenhower was reluctant to confront him"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2023-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, June 2023, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2023",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about McCarthy?",
+        "ms": {
+          "points": [
+            "McCarthy is shown as a minor politician exploiting Republican anger",
+            "phrases such as 'seized his moment' and 'days were numbered'"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2022-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, June 2022, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2022",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about HUAC investigations into Hollywood?",
+        "ms": {
+          "points": [
+            "HUAC's investigations are shown as excessive — Hollywood seen as a 'hotbed' of communism",
+            "language such as 'terrifying frequency' and 'persecution'"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-november2021-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, November 2021, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2021",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the impact of the Alger Hiss case?",
+        "ms": {
+          "points": [
+            "The Hiss case caused 'severe embarrassment' for Truman's government",
+            "'damaging' links to prominent Democrats"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2021-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2021, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2021",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main feature of the Red Scare was the false accusations that were made.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "false accusations",
+          "opposition to McCarthy"
+        ],
+        "ms": {
+          "support": [
+            "Most people named by HUAC and McCarthy were never charged",
+            "the Hollywood Ten and hundreds more blacklisted",
+            "Truman's Loyalty Programme dismissed people on suspicion"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2019-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, June 2019, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2019",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the impact of Senator McCarthy? You must use Extract G to explain your answer.",
+        "ms": {
+          "points": [
+            "McCarthy is shown as unfairly damaging, stressing innocent people accused",
+            "genuine espionage is omitted"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2025-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2025, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2025",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main reason for the Red Scare, in the years c1945–54, was the Cold War.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "the Cold War",
+          "the Hiss and Rosenberg cases"
+        ],
+        "ms": {
+          "support": [
+            "The loyalty programme followed the Truman Doctrine (1947)",
+            "the fall of China (1949) and the Korean War",
+            "HUAC permanent from 1945–46"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2024-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01R, June 2020, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2020",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of McCarthyism on the USA in the 1950s.",
+        "ms": {
+          "points": [
+            "It fuelled the Red Scare and shaped the 1950 and 1952 elections",
+            "reputations were damaged and many lost jobs on accusation alone",
+            "government departments lost expertise"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2023-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01R, June 2023, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2023",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of the Red Scare on the USA.",
+        "ms": {
+          "points": [
+            "A divisive political issue in the 1952 election",
+            "thousands dismissed and the Hollywood Ten blacklisted",
+            "the State Department lost expertise"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2022-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2022, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2022",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main reason why anti-communism grew in the USA, in the years 1945–54, was the Hiss and Rosenberg cases.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "the Hiss and Rosenberg cases",
+          "Senator McCarthy"
+        ],
+        "ms": {
+          "support": [
+            "The Hiss case fuelled fears of communist infiltration",
+            "it prompted prosecutions and investigations of federal employees",
+            "the Rosenberg case (1950–53)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2019-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2019, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2019",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘Senator McCarthy’s actions were the main reason why anti-communism grew in America in the years 1945–54.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "Senator McCarthy's actions",
+          "the Cold War"
+        ],
+        "ms": {
+          "support": [
+            "McCarthy's 1950 accusations attracted huge media attention",
+            "his claims deepened partisan division",
+            "his Senate subcommittee widened investigations"
+          ]
+        }
       }
     ]
   },

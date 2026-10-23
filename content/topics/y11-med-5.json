@@ -1,123 +1,805 @@
 {
-  "id": "y11-med-5", "course": "y11", "area": "med", "kt": "Key topic 5", "order": 25,
+  "id": "y11-med-5",
+  "course": "y11",
+  "area": "med",
+  "kt": "Key topic 5",
+  "order": 25,
   "title": "Advances in medicine, surgery and public health, 1920–48: the NHS",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Breadth study B2, key topic 5." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following 4HI1 Breadth study B2, key topic 5."
+  },
   "learn": {
     "intro": "Penicillin became the first mass-produced antibiotic, the Second World War pushed surgery forward again, and the Beveridge Report led to the creation of the NHS in 1948.",
     "sections": [
       {
-        "id": "s1", "title": "1. Penicillin: Fleming, Florey and Chain",
+        "id": "s1",
+        "title": "1. Penicillin: Fleming, Florey and Chain",
         "blocks": [
-          { "p": "In 1928 Alexander Fleming noticed that mould (penicillium) had killed bacteria on a culture plate at St Mary's Hospital, London. He published his findings but lacked the funding and chemists to produce enough penicillin to use as a medicine." },
-          { "p": "From 1938 Howard Florey and Ernst Chain at Oxford worked out how to purify penicillin and tested it on mice (1940) and then on a patient, the policeman Albert Alexander (1941), who improved before supplies ran out." },
-          { "p": "British firms were busy with war production, so Florey went to the USA. After the USA entered the war, the government funded mass production; by D-Day (June 1944) there was enough penicillin to treat Allied casualties. After the war it became widely available and led to other antibiotics." }
+          {
+            "p": "In 1928 Alexander Fleming noticed that mould (penicillium) had killed bacteria on a culture plate at St Mary's Hospital, London. He published his findings but lacked the funding and chemists to produce enough penicillin to use as a medicine."
+          },
+          {
+            "p": "From 1938 Howard Florey and Ernst Chain at Oxford worked out how to purify penicillin and tested it on mice (1940) and then on a patient, the policeman Albert Alexander (1941), who improved before supplies ran out."
+          },
+          {
+            "p": "British firms were busy with war production, so Florey went to the USA. After the USA entered the war, the government funded mass production; by D-Day (June 1944) there was enough penicillin to treat Allied casualties. After the war it became widely available and led to other antibiotics."
+          }
         ],
-        "terms": ["antibiotic", "penicillin", "mass production"],
-        "evidence": ["1928: Fleming discovers penicillin.", "1940–41: Florey and Chain's tests; Albert Alexander.", "1944: enough penicillin for D-Day casualties."]
+        "terms": [
+          "antibiotic",
+          "penicillin",
+          "mass production"
+        ],
+        "evidence": [
+          "1928: Fleming discovers penicillin.",
+          "1940–41: Florey and Chain's tests; Albert Alexander.",
+          "1944: enough penicillin for D-Day casualties."
+        ]
       },
       {
-        "id": "s2", "title": "2. The Second World War: surgery, blood and women",
+        "id": "s2",
+        "title": "2. The Second World War: surgery, blood and women",
         "blocks": [
-          { "p": "Skin grafts: Archibald McIndoe treated badly burned RAF pilots at East Grinstead, developing new skin-graft techniques. His patients formed the 'Guinea Pig Club' and he helped them return to normal life." },
-          { "p": "Blood transfusion: blood banks stored large amounts of blood for air-raid victims and soldiers; the National Blood Transfusion Service followed in 1946." },
-          { "p": "Women in medicine: more women trained and worked as doctors and nurses during the war, and the Goodenough Report (1944) recommended that all medical schools should admit women." }
+          {
+            "p": "Skin grafts: Archibald McIndoe treated badly burned RAF pilots at East Grinstead, developing new skin-graft techniques. His patients formed the 'Guinea Pig Club' and he helped them return to normal life."
+          },
+          {
+            "p": "Blood transfusion: blood banks stored large amounts of blood for air-raid victims and soldiers; the National Blood Transfusion Service followed in 1946."
+          },
+          {
+            "p": "Women in medicine: more women trained and worked as doctors and nurses during the war, and the Goodenough Report (1944) recommended that all medical schools should admit women."
+          }
         ],
-        "terms": ["skin graft", "Guinea Pig Club", "blood bank"],
-        "evidence": ["McIndoe at East Grinstead; the Guinea Pig Club.", "1946: National Blood Transfusion Service."]
+        "terms": [
+          "skin graft",
+          "Guinea Pig Club",
+          "blood bank"
+        ],
+        "evidence": [
+          "McIndoe at East Grinstead; the Guinea Pig Club.",
+          "1946: National Blood Transfusion Service."
+        ]
       },
       {
-        "id": "s3", "title": "3. Beveridge and the NHS",
+        "id": "s3",
+        "title": "3. Beveridge and the NHS",
         "blocks": [
-          { "p": "The Beveridge Report (1942) identified 'five giants' to defeat — Want, Disease, Ignorance, Squalor and Idleness — and proposed a welfare state with a national health service. The war had shown what government organisation could do (the Emergency Medical Service), and people wanted a fairer society." },
-          { "p": "The Labour government elected in 1945 introduced the NHS. Aneurin Bevan, the Health Minister, overcame opposition from many doctors by allowing them to keep private patients. The NHS began on 5 July 1948, free at the point of use for everyone." },
-          { "p": "Importance for public health: everyone could see a doctor, get hospital treatment, glasses and dentures without paying; demand was huge; vaccination and health visiting were organised nationally. Access to health care was transformed — though costs rose quickly." }
+          {
+            "p": "The Beveridge Report (1942) identified 'five giants' to defeat — Want, Disease, Ignorance, Squalor and Idleness — and proposed a welfare state with a national health service. The war had shown what government organisation could do (the Emergency Medical Service), and people wanted a fairer society."
+          },
+          {
+            "p": "The Labour government elected in 1945 introduced the NHS. Aneurin Bevan, the Health Minister, overcame opposition from many doctors by allowing them to keep private patients. The NHS began on 5 July 1948, free at the point of use for everyone."
+          },
+          {
+            "p": "Importance for public health: everyone could see a doctor, get hospital treatment, glasses and dentures without paying; demand was huge; vaccination and health visiting were organised nationally. Access to health care was transformed — though costs rose quickly."
+          }
         ],
-        "terms": ["Beveridge Report", "welfare state", "NHS", "free at the point of use"],
-        "evidence": ["1942: Beveridge Report — five giants.", "1945: Labour government.", "5 July 1948: NHS begins."]
+        "terms": [
+          "Beveridge Report",
+          "welfare state",
+          "NHS",
+          "free at the point of use"
+        ],
+        "evidence": [
+          "1942: Beveridge Report — five giants.",
+          "1945: Labour government.",
+          "5 July 1948: NHS begins."
+        ]
       }
     ],
     "timeline": [
-      { "date": "1928", "event": "Fleming discovers penicillin" },
-      { "date": "1940", "event": "Florey and Chain test penicillin on mice" },
-      { "date": "1941", "event": "Penicillin used on Albert Alexander" },
-      { "date": "1942", "event": "Beveridge Report" },
-      { "date": "1944", "event": "Mass-produced penicillin available for D-Day" },
-      { "date": "1945", "event": "Labour government elected" },
-      { "date": "1946", "event": "National Blood Transfusion Service" },
-      { "date": "5 July 1948", "event": "NHS begins" }
+      {
+        "date": "1928",
+        "event": "Fleming discovers penicillin"
+      },
+      {
+        "date": "1940",
+        "event": "Florey and Chain test penicillin on mice"
+      },
+      {
+        "date": "1941",
+        "event": "Penicillin used on Albert Alexander"
+      },
+      {
+        "date": "1942",
+        "event": "Beveridge Report"
+      },
+      {
+        "date": "1944",
+        "event": "Mass-produced penicillin available for D-Day"
+      },
+      {
+        "date": "1945",
+        "event": "Labour government elected"
+      },
+      {
+        "date": "1946",
+        "event": "National Blood Transfusion Service"
+      },
+      {
+        "date": "5 July 1948",
+        "event": "NHS begins"
+      }
     ],
     "people": [
-      { "name": "Alexander Fleming", "role": "Discovered penicillin (1928)." },
-      { "name": "Howard Florey and Ernst Chain", "role": "Developed penicillin as a medicine." },
-      { "name": "Archibald McIndoe", "role": "Skin grafts for burned airmen." },
-      { "name": "William Beveridge", "role": "Wrote the 1942 report." },
-      { "name": "Aneurin Bevan", "role": "Health Minister who created the NHS." }
+      {
+        "name": "Alexander Fleming",
+        "role": "Discovered penicillin (1928)."
+      },
+      {
+        "name": "Howard Florey and Ernst Chain",
+        "role": "Developed penicillin as a medicine."
+      },
+      {
+        "name": "Archibald McIndoe",
+        "role": "Skin grafts for burned airmen."
+      },
+      {
+        "name": "William Beveridge",
+        "role": "Wrote the 1942 report."
+      },
+      {
+        "name": "Aneurin Bevan",
+        "role": "Health Minister who created the NHS."
+      }
     ],
     "vocab": [
-      { "term": "Antibiotic", "def": "A drug that kills bacteria." },
-      { "term": "Welfare state", "def": "Government providing health, education and benefits for all." },
-      { "term": "Skin graft", "def": "Moving healthy skin to repair damage." }
+      {
+        "term": "Antibiotic",
+        "def": "A drug that kills bacteria."
+      },
+      {
+        "term": "Welfare state",
+        "def": "Government providing health, education and benefits for all."
+      },
+      {
+        "term": "Skin graft",
+        "def": "Moving healthy skin to repair damage."
+      }
     ],
     "misconceptions": [
-      { "wrong": "Fleming developed penicillin into a medicine.", "right": "He discovered it; Florey and Chain developed it, and US funding mass-produced it." },
-      { "wrong": "All doctors welcomed the NHS.", "right": "Many opposed it until Bevan let them keep private patients." }
+      {
+        "wrong": "Fleming developed penicillin into a medicine.",
+        "right": "He discovered it; Florey and Chain developed it, and US funding mass-produced it."
+      },
+      {
+        "wrong": "All doctors welcomed the NHS.",
+        "right": "Many opposed it until Bevan let them keep private patients."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "Who discovered penicillin in 1928?", "options": ["Florey", "Chain", "Fleming", "Ehrlich"], "answer": 2, "why": "At St Mary's Hospital." },
-      { "id": "m2", "s": "s1", "q": "Why was penicillin mass-produced in the USA?", "options": ["Fleming moved there", "British firms were busy with war production and the US government funded it", "It was invented there", "The NHS required it"], "answer": 1, "why": "By D-Day 1944 there was enough for casualties." },
-      { "id": "m3", "s": "s2", "q": "Who treated burned pilots with skin grafts?", "options": ["Gillies", "McIndoe", "Bevan", "Lister"], "answer": 1, "why": "At East Grinstead — the Guinea Pig Club." },
-      { "id": "m4", "s": "s3", "q": "What were the 'five giants'?", "options": ["Five diseases", "Want, Disease, Ignorance, Squalor, Idleness", "Five hospitals", "Five doctors"], "answer": 1, "why": "Beveridge Report, 1942." },
-      { "id": "m5", "s": "s3", "q": "How did Bevan win doctors' support for the NHS?", "options": ["Doubling their pay", "Letting them keep private patients", "Closing hospitals", "Making the NHS optional"], "answer": 1, "why": "He 'stuffed their mouths with gold'." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Who discovered penicillin in 1928?",
+        "options": [
+          "Florey",
+          "Chain",
+          "Fleming",
+          "Ehrlich"
+        ],
+        "answer": 2,
+        "why": "At St Mary's Hospital."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Why was penicillin mass-produced in the USA?",
+        "options": [
+          "Fleming moved there",
+          "British firms were busy with war production and the US government funded it",
+          "It was invented there",
+          "The NHS required it"
+        ],
+        "answer": 1,
+        "why": "By D-Day 1944 there was enough for casualties."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Who treated burned pilots with skin grafts?",
+        "options": [
+          "Gillies",
+          "McIndoe",
+          "Bevan",
+          "Lister"
+        ],
+        "answer": 1,
+        "why": "At East Grinstead — the Guinea Pig Club."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "What were the 'five giants'?",
+        "options": [
+          "Five diseases",
+          "Want, Disease, Ignorance, Squalor, Idleness",
+          "Five hospitals",
+          "Five doctors"
+        ],
+        "answer": 1,
+        "why": "Beveridge Report, 1942."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "How did Bevan win doctors' support for the NHS?",
+        "options": [
+          "Doubling their pay",
+          "Letting them keep private patients",
+          "Closing hospitals",
+          "Making the NHS optional"
+        ],
+        "answer": 1,
+        "why": "He 'stuffed their mouths with gold'."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s3", "q": "On what date did the NHS begin?", "accept": ["5 july 1948", "5th july 1948", "july 5 1948", "5 july"], "answer": "5 July 1948" },
-      { "id": "a2", "s": "s3", "q": "Which minister created the NHS?", "accept": ["bevan", "aneurin bevan", "nye bevan"], "answer": "Aneurin Bevan" },
-      { "id": "a3", "s": "s1", "q": "Who was the first patient treated with penicillin by Florey's team?", "accept": ["albert alexander", "alexander"], "answer": "Albert Alexander" }
+      {
+        "id": "a1",
+        "s": "s3",
+        "q": "On what date did the NHS begin?",
+        "accept": [
+          "5 july 1948",
+          "5th july 1948",
+          "july 5 1948",
+          "5 july"
+        ],
+        "answer": "5 July 1948"
+      },
+      {
+        "id": "a2",
+        "s": "s3",
+        "q": "Which minister created the NHS?",
+        "accept": [
+          "bevan",
+          "aneurin bevan",
+          "nye bevan"
+        ],
+        "answer": "Aneurin Bevan"
+      },
+      {
+        "id": "a3",
+        "s": "s1",
+        "q": "Who was the first patient treated with penicillin by Florey's team?",
+        "accept": [
+          "albert alexander",
+          "alexander"
+        ],
+        "answer": "Albert Alexander"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these in order", "items": ["Fleming's discovery", "Tests on mice", "Albert Alexander treated", "Beveridge Report", "Penicillin for D-Day", "NHS begins"] }
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Fleming's discovery",
+          "Tests on mice",
+          "Albert Alexander treated",
+          "Beveridge Report",
+          "Penicillin for D-Day",
+          "NHS begins"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the person to their contribution", "pairs": [["Fleming", "Discovered penicillin"], ["Florey and Chain", "Developed penicillin"], ["McIndoe", "Skin grafts"], ["Beveridge", "Five giants report"], ["Bevan", "Created the NHS"]] }
+      {
+        "id": "x1",
+        "title": "Match the person to their contribution",
+        "pairs": [
+          [
+            "Fleming",
+            "Discovered penicillin"
+          ],
+          [
+            "Florey and Chain",
+            "Developed penicillin"
+          ],
+          [
+            "McIndoe",
+            "Skin grafts"
+          ],
+          [
+            "Beveridge",
+            "Five giants report"
+          ],
+          [
+            "Bevan",
+            "Created the NHS"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s1", "q": "Give precise evidence of how penicillin was developed.", "keywords": [["1928", "fleming", "florey", "chain", "1941", "alexander", "usa", "d-day", "1944"]], "model": "Fleming discovered it (1928); Florey and Chain purified and tested it (1940–41); US government funding mass-produced it for D-Day (1944)." }
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Give precise evidence of how penicillin was developed.",
+        "keywords": [
+          [
+            "1928",
+            "fleming",
+            "florey",
+            "chain",
+            "1941",
+            "alexander",
+            "usa",
+            "d-day",
+            "1944"
+          ]
+        ],
+        "model": "Fleming discovered it (1928); Florey and Chain purified and tested it (1940–41); US government funding mass-produced it for D-Day (1944)."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "Why couldn't Fleming develop penicillin himself?", "a": "He lacked funding and chemists to produce and purify it.", "hint": "Money and chemists." },
-    { "id": "f2", "s": "s1", "q": "How did the Second World War help penicillin?", "a": "Demand for treating wounds led the US government to fund mass production.", "hint": "D-Day." },
-    { "id": "f3", "s": "s2", "q": "What was the Guinea Pig Club?", "a": "McIndoe's burned RAF patients who had experimental skin grafts.", "hint": "East Grinstead." },
-    { "id": "f4", "s": "s3", "q": "Why was the NHS created in 1948?", "a": "Beveridge Report; wartime experience of state organisation; desire for fairness; Labour's 1945 victory.", "hint": "Five giants." },
-    { "id": "f5", "s": "s3", "q": "Why was the NHS important for public health?", "a": "Free care for everyone — doctors, hospitals, glasses, dentures; national vaccination and health visiting.", "hint": "Free for all." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Why couldn't Fleming develop penicillin himself?",
+      "a": "He lacked funding and chemists to produce and purify it.",
+      "hint": "Money and chemists."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "How did the Second World War help penicillin?",
+      "a": "Demand for treating wounds led the US government to fund mass production.",
+      "hint": "D-Day."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "What was the Guinea Pig Club?",
+      "a": "McIndoe's burned RAF patients who had experimental skin grafts.",
+      "hint": "East Grinstead."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "Why was the NHS created in 1948?",
+      "a": "Beveridge Report; wartime experience of state organisation; desire for fairness; Labour's 1945 victory.",
+      "hint": "Five giants."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "Why was the NHS important for public health?",
+      "a": "Free care for everyone — doctors, hospitals, glasses, dentures; national vaccination and health visiting.",
+      "hint": "Free for all."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "explain", "text": "I can explain the development of penicillin and the roles of Fleming, Florey and Chain.", "sections": ["s1"] },
-    { "id": "k2", "level": "explain", "text": "I can explain the importance of the Second World War for surgery, blood transfusion and women in medicine.", "sections": ["s2"] },
-    { "id": "k3", "level": "judge", "text": "I can judge the importance of Beveridge and the NHS for public health.", "sections": ["s3"] }
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the development of penicillin and the roles of Fleming, Florey and Chain.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain the importance of the Second World War for surgery, blood transfusion and women in medicine.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "judge",
+      "text": "I can judge the importance of Beveridge and the NHS for public health.",
+      "sections": [
+        "s3"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "p2bc", "label": "Past paper: 4HI1/02, June 2025, B2(c)(ii) (wording from the published mark scheme)", "sections": ["s1", "s2"],
-        "q": "How far were technological advances the main reason for improvements in surgery in the years 1905–45?\nExplain your answer.",
-        "prompts": ["X-rays", "the Second World War"] },
-      { "id": "q2", "qtype": "p2bc", "label": "Adapted from the Arcadia IGCSE model paragraphs", "sections": ["s1"],
-        "q": "How far was the discovery of penicillin in the 1920s a key turning point in the treatment of disease?\nExplain your answer.",
-        "prompts": ["Fleming's discovery (1928)", "the Second World War"],
-        "model": [
-          { "t": "The discovery of penicillin was a turning point to a large extent because it transformed the treatment of infection.", "n": "Topic sentence with qualifier." },
-          { "t": "Firstly, Alexander Fleming identified penicillin in 1928 as the first effective antibiotic. This shows that treatment could now kill bacteria, rather than just manage symptoms.", "n": "Time connective + precise evidence + explanation." },
-          { "t": "Secondly, in the 1940s Florey and Chain developed methods to mass-produce penicillin, which saved thousands of lives during the Second World War.", "n": "Second piece of evidence." },
-          { "t": "Finally, after the war penicillin became widely available and inspired other antibiotics such as streptomycin. This was significant because it marked a permanent change in the treatment of disease, making bacterial infections curable rather than fatal.", "n": "Criteria to justify (duration, impact)." }
+      {
+        "id": "q1",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2025, B2(c)(ii)",
+        "sections": [
+          "s1",
+          "s2"
         ],
-        "model_note": "From the Arcadia IGCSE model paragraphs." }
+        "q": "How far were technological advances the main reason for improvements in surgery in the years 1905–45?\nExplain your answer.",
+        "prompts": [
+          "X-rays",
+          "the Second World War"
+        ],
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2025",
+          "part": "B2(c)(ii)"
+        },
+        "ms": {
+          "support": [
+            "Mobile X-ray units in WW1",
+            "Gillies's pedicle tubes",
+            "improved blood storage in WW2"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/02 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-02-pef-20250821.pdf",
+          "strong": [
+            "Separate individual scientific advances from changes in public health."
+          ],
+          "weak": [
+            "Weaker answers included material outside the dates."
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "qtype": "p2bc",
+        "label": "Adapted from the Arcadia IGCSE model paragraphs",
+        "sections": [
+          "s1"
+        ],
+        "q": "How far was the discovery of penicillin in the 1920s a key turning point in the treatment of disease?\nExplain your answer.",
+        "prompts": [
+          "Fleming's discovery (1928)",
+          "the Second World War"
+        ],
+        "model": [
+          {
+            "t": "The discovery of penicillin was a turning point to a large extent because it transformed the treatment of infection.",
+            "n": "Topic sentence with qualifier."
+          },
+          {
+            "t": "Firstly, Alexander Fleming identified penicillin in 1928 as the first effective antibiotic. This shows that treatment could now kill bacteria, rather than just manage symptoms.",
+            "n": "Time connective + precise evidence + explanation."
+          },
+          {
+            "t": "Secondly, in the 1940s Florey and Chain developed methods to mass-produce penicillin, which saved thousands of lives during the Second World War.",
+            "n": "Second piece of evidence."
+          },
+          {
+            "t": "Finally, after the war penicillin became widely available and inspired other antibiotics such as streptomycin. This was significant because it marked a permanent change in the treatment of disease, making bacterial infections curable rather than fatal.",
+            "n": "Criteria to justify (duration, impact)."
+          }
+        ],
+        "model_note": "From the Arcadia IGCSE model paragraphs."
+      },
+      {
+        "id": "pp-4hi102-june2025-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02, June 2025, B2(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2025",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which the provision for public health in 1948 before the introduction of the NHS, was different from the provision for public health after its introduction.",
+        "ms": {
+          "points": [
+            "Before the NHS most people paid for treatment",
+            "afterwards it was free",
+            "with National Insurance it created 'cradle to grave' care"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/02 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-02-pef-20250821.pdf",
+          "strong": [],
+          "weak": [
+            "Many repeated one point (free healthcare) instead of two clearly different changes."
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2024-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2024, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2024",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How far was the founding of the National Health Service (NHS) the most significant development in improving medical treatment in the years 1920–48?",
+        "prompts": [
+          "plastic surgery",
+          "the NHS"
+        ],
+        "ms": {
+          "support": [
+            "Free care for all at the point of delivery",
+            "covered women and children left out in 1911",
+            "one organisation from birth to death"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2023-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2023, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2023",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How far were developments in science and technology responsible for changes in medicine in the years 1920–48?",
+        "prompts": [
+          "fighting infection",
+          "the NHS"
+        ],
+        "ms": {
+          "support": [
+            "Prontosil (the second magic bullet)",
+            "Florey and Chain proved penicillin worked",
+            "mass production of penicillin"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2022-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02, June 2022, B2(b)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2022",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the development of penicillin in the years 1920–48.",
+        "ms": {
+          "points": [
+            "Fleming noticed penicillin mould killed bacteria (1928)",
+            "Florey and Chain's work",
+            "US government funding enabled mass production"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2021-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02, November 2021, B2(b)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2021",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the improvements in medical treatment in the years 1920–48.",
+        "ms": {
+          "points": [
+            "Penicillin",
+            "growing government role culminating in the NHS (1948)",
+            "better understanding of shell shock and psychiatric care"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2021-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2021, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2021",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How far did medical treatment change in the years 1914–48?",
+        "prompts": [
+          "the treatment of burns",
+          "penicillin"
+        ],
+        "ms": {
+          "support": [
+            "Gillies developed plastic surgery",
+            "Florey and Chain purified penicillin",
+            "the blood transfusion service in WW2"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2020-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02, June 2020, B2(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2020",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which surgery during the First World War was different from surgery during the Second World War.",
+        "ms": {
+          "points": [
+            "Infection — debridement in WW1, penicillin in WW2",
+            "plastic surgery — facial wounds in WW1, deeper burns treated in WW2"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2019-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02, June 2019, B2(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2019",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which the role of women in medical care during the First World War was similar to the role of women in medical care during the Second World War.",
+        "ms": {
+          "points": [
+            "In both wars women served as nurses at the front",
+            "in both wars women doctors were needed at home to replace men"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2019-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02, June 2019, B2(b)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2019",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the introduction of the National Health Service (NHS) in 1948.",
+        "ms": {
+          "points": [
+            "The Beveridge Report (1942) and its 'Five Giants'",
+            "wartime evacuation exposed poverty",
+            "the Emergency Medical Service showed national healthcare could work"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2025-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02R, June 2025, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2025",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How far was success in the fight against infection the most significant development in medical treatment in the years 1920–48?",
+        "prompts": [
+          "the fight against infection",
+          "the NHS"
+        ],
+        "ms": {
+          "support": [
+            "Penicillin proved highly effective",
+            "it came into wide use and saved many lives",
+            "research led to other antibiotics"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2024-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02R, June 2024, B2(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2024",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which hospitals in 1948 were different from hospitals in 1920.",
+        "ms": {
+          "points": [
+            "In 1948 hospitals joined the NHS and treatment was free",
+            "hospitals offered wider specialist treatment such as plastic and brain surgery"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2023-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02R, June 2023, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2023",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How significant was warfare in bringing about changes in surgery in the years 1905–48?",
+        "prompts": [
+          "x-rays",
+          "the Second World War"
+        ],
+        "ms": {
+          "support": [
+            "The Thomas splint in WW1",
+            "mobile X-rays",
+            "WW2 urgency led to mass production of penicillin"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2022-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02R, June 2022, B2(b)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2022",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the progress of women in medicine in the years 1914–48.",
+        "ms": {
+          "points": [
+            "First World War roles raised women's profile",
+            "WW2 Emergency Medical Service needed women",
+            "service abroad widened training"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2020-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02R, June 2020, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2020",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How significant was the First World War for developments in surgery in the years 1914–48?",
+        "prompts": [
+          "transfusions",
+          "plastic surgery"
+        ],
+        "ms": {
+          "support": [
+            "Blood storage and transfusion advances (1915–16)",
+            "plastic surgery for facial injuries (Gillies, Sidcup)",
+            "new wound treatments"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2019-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02R, June 2019, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2019",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How significant was the work of Alexander Fleming in improvements in medical treatment in the years 1920–48?",
+        "prompts": [
+          "Alexander Fleming",
+          "the NHS"
+        ],
+        "ms": {
+          "support": [
+            "Fleming showed mould killed bacteria (1928)",
+            "his discovery inspired Florey and Chain",
+            "penicillin became a major antibiotic"
+          ]
+        }
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Relative significance", "task": "Individuals, war or government: which mattered most for medicine in 1920–48? Use penicillin and the NHS as test cases." },
-    { "id": "t2", "kind": "Change and continuity", "task": "Compare health care in 1848 and 1948. What were the three biggest changes?" }
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Individuals, war or government: which mattered most for medicine in 1920–48? Use penicillin and the NHS as test cases."
+    },
+    {
+      "id": "t2",
+      "kind": "Change and continuity",
+      "task": "Compare health care in 1848 and 1948. What were the three biggest changes?"
+    }
   ]
 }

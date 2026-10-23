@@ -1,120 +1,807 @@
 {
-  "id": "y11-med-4", "course": "y11", "area": "med", "kt": "Key topic 4", "order": 24,
+  "id": "y11-med-4",
+  "course": "y11",
+  "area": "med",
+  "kt": "Key topic 4",
+  "order": 24,
   "title": "Government action and war, 1905–20",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Breadth study B2, key topic 4." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following 4HI1 Breadth study B2, key topic 4."
+  },
   "learn": {
     "intro": "The Liberal governments of 1906–11 took new responsibility for people's health. Then the First World War created terrible wounds — and pushed forward surgery, X-rays, blood transfusion and the role of women in medicine.",
     "sections": [
       {
-        "id": "s1", "title": "1. The Liberal reforms, 1906–11",
+        "id": "s1",
+        "title": "1. The Liberal reforms, 1906–11",
         "blocks": [
-          { "p": "Why? Surveys by Charles Booth (London) and Seebohm Rowntree (York) showed that about a third of people lived in poverty. During the Boer War (1899–1902) many volunteers were rejected as unfit, worrying the government about national strength. The new Labour Party competed for working-class votes, and Liberal politicians such as David Lloyd George and Winston Churchill wanted reform." },
-          { "ul": [
-            "1906: free school meals for poor children.",
-            "1907: school medical inspections — the School Medical Service.",
-            "1908: old-age pensions for over-70s.",
-            "1911: National Insurance Act — workers paid in to receive sick pay and free treatment from a doctor (but not their families)."
-          ] },
-          { "p": "Impact: the government accepted responsibility for health and welfare, children's health improved, and some sick workers were protected. But wives, children and the unemployed were often left out, and hospital treatment was not covered." }
+          {
+            "p": "Why? Surveys by Charles Booth (London) and Seebohm Rowntree (York) showed that about a third of people lived in poverty. During the Boer War (1899–1902) many volunteers were rejected as unfit, worrying the government about national strength. The new Labour Party competed for working-class votes, and Liberal politicians such as David Lloyd George and Winston Churchill wanted reform."
+          },
+          {
+            "ul": [
+              "1906: free school meals for poor children.",
+              "1907: school medical inspections — the School Medical Service.",
+              "1908: old-age pensions for over-70s.",
+              "1911: National Insurance Act — workers paid in to receive sick pay and free treatment from a doctor (but not their families)."
+            ]
+          },
+          {
+            "p": "Impact: the government accepted responsibility for health and welfare, children's health improved, and some sick workers were protected. But wives, children and the unemployed were often left out, and hospital treatment was not covered."
+          }
         ],
-        "terms": ["Liberal reforms", "National Insurance", "School Medical Service"],
-        "evidence": ["1906: free school meals.", "1907: school medical inspections.", "1908: old-age pensions.", "1911: National Insurance Act."]
+        "terms": [
+          "Liberal reforms",
+          "National Insurance",
+          "School Medical Service"
+        ],
+        "evidence": [
+          "1906: free school meals.",
+          "1907: school medical inspections.",
+          "1908: old-age pensions.",
+          "1911: National Insurance Act."
+        ]
       },
       {
-        "id": "s2", "title": "2. The First World War: surgery and treatment",
+        "id": "s2",
+        "title": "2. The First World War: surgery and treatment",
         "blocks": [
-          { "p": "Trench warfare caused huge numbers of wounds from shells and bullets, often infected by soil bacteria (gas gangrene). Doctors developed debridement (cutting away dead tissue), and Carrel–Dakin solution to irrigate wounds." },
-          { "p": "The Thomas splint kept broken legs still and greatly reduced deaths from fractures of the thigh bone. Harold Gillies pioneered plastic surgery to rebuild faces at Queen's Hospital, Sidcup (1917)." },
-          { "p": "X-rays: mobile X-ray units — including those organised by Marie Curie — found bullets and shrapnel near the front line." },
-          { "p": "Blood transfusion: adding sodium citrate stopped blood clotting, so blood could be stored. In 1917 a blood depot was set up before the Battle of Cambrai." }
+          {
+            "p": "Trench warfare caused huge numbers of wounds from shells and bullets, often infected by soil bacteria (gas gangrene). Doctors developed debridement (cutting away dead tissue), and Carrel–Dakin solution to irrigate wounds."
+          },
+          {
+            "p": "The Thomas splint kept broken legs still and greatly reduced deaths from fractures of the thigh bone. Harold Gillies pioneered plastic surgery to rebuild faces at Queen's Hospital, Sidcup (1917)."
+          },
+          {
+            "p": "X-rays: mobile X-ray units — including those organised by Marie Curie — found bullets and shrapnel near the front line."
+          },
+          {
+            "p": "Blood transfusion: adding sodium citrate stopped blood clotting, so blood could be stored. In 1917 a blood depot was set up before the Battle of Cambrai."
+          }
         ],
-        "terms": ["debridement", "Thomas splint", "plastic surgery", "sodium citrate"],
-        "evidence": ["Thomas splint reduced deaths from thigh fractures.", "1917: Gillies at Sidcup; blood stored before Cambrai.", "Mobile X-ray units."]
+        "terms": [
+          "debridement",
+          "Thomas splint",
+          "plastic surgery",
+          "sodium citrate"
+        ],
+        "evidence": [
+          "Thomas splint reduced deaths from thigh fractures.",
+          "1917: Gillies at Sidcup; blood stored before Cambrai.",
+          "Mobile X-ray units."
+        ]
       },
       {
-        "id": "s3", "title": "3. The war and women in medicine",
+        "id": "s3",
+        "title": "3. The war and women in medicine",
         "blocks": [
-          { "p": "Thousands of women served as nurses, including volunteers in the Voluntary Aid Detachments (VADs) and the First Aid Nursing Yeomanry (FANY), who drove ambulances. Women doctors such as Elsie Inglis set up the Scottish Women's Hospitals, which worked in France and Serbia, after the War Office initially refused her help." },
-          { "p": "The war showed women's skill and courage, and more medical schools admitted women — though many restrictions returned after 1918." }
+          {
+            "p": "Thousands of women served as nurses, including volunteers in the Voluntary Aid Detachments (VADs) and the First Aid Nursing Yeomanry (FANY), who drove ambulances. Women doctors such as Elsie Inglis set up the Scottish Women's Hospitals, which worked in France and Serbia, after the War Office initially refused her help."
+          },
+          {
+            "p": "The war showed women's skill and courage, and more medical schools admitted women — though many restrictions returned after 1918."
+          }
         ],
-        "terms": ["VAD", "FANY", "Scottish Women's Hospitals"],
-        "evidence": ["Elsie Inglis and the Scottish Women's Hospitals.", "FANY drove ambulances."]
+        "terms": [
+          "VAD",
+          "FANY",
+          "Scottish Women's Hospitals"
+        ],
+        "evidence": [
+          "Elsie Inglis and the Scottish Women's Hospitals.",
+          "FANY drove ambulances."
+        ]
       }
     ],
     "timeline": [
-      { "date": "1899–1902", "event": "Boer War reveals unfit recruits" },
-      { "date": "1906", "event": "Free school meals" },
-      { "date": "1907", "event": "School Medical Service" },
-      { "date": "1908", "event": "Old-age pensions" },
-      { "date": "1911", "event": "National Insurance Act" },
-      { "date": "1914", "event": "First World War begins" },
-      { "date": "1917", "event": "Gillies opens Queen's Hospital, Sidcup; blood stored before Cambrai" },
-      { "date": "1918", "event": "War ends" }
+      {
+        "date": "1899–1902",
+        "event": "Boer War reveals unfit recruits"
+      },
+      {
+        "date": "1906",
+        "event": "Free school meals"
+      },
+      {
+        "date": "1907",
+        "event": "School Medical Service"
+      },
+      {
+        "date": "1908",
+        "event": "Old-age pensions"
+      },
+      {
+        "date": "1911",
+        "event": "National Insurance Act"
+      },
+      {
+        "date": "1914",
+        "event": "First World War begins"
+      },
+      {
+        "date": "1917",
+        "event": "Gillies opens Queen's Hospital, Sidcup; blood stored before Cambrai"
+      },
+      {
+        "date": "1918",
+        "event": "War ends"
+      }
     ],
     "people": [
-      { "name": "David Lloyd George", "role": "Chancellor; introduced National Insurance (1911)." },
-      { "name": "Charles Booth and Seebohm Rowntree", "role": "Surveyed poverty in London and York." },
-      { "name": "Harold Gillies", "role": "Pioneer of plastic surgery." },
-      { "name": "Elsie Inglis", "role": "Founded the Scottish Women's Hospitals." },
-      { "name": "Marie Curie", "role": "Organised mobile X-ray units." }
+      {
+        "name": "David Lloyd George",
+        "role": "Chancellor; introduced National Insurance (1911)."
+      },
+      {
+        "name": "Charles Booth and Seebohm Rowntree",
+        "role": "Surveyed poverty in London and York."
+      },
+      {
+        "name": "Harold Gillies",
+        "role": "Pioneer of plastic surgery."
+      },
+      {
+        "name": "Elsie Inglis",
+        "role": "Founded the Scottish Women's Hospitals."
+      },
+      {
+        "name": "Marie Curie",
+        "role": "Organised mobile X-ray units."
+      }
     ],
     "vocab": [
-      { "term": "National Insurance", "def": "Workers, employers and government paid in; workers received sick pay." },
-      { "term": "Debridement", "def": "Cutting away dead or infected tissue." },
-      { "term": "Plastic surgery", "def": "Rebuilding damaged parts of the body." }
+      {
+        "term": "National Insurance",
+        "def": "Workers, employers and government paid in; workers received sick pay."
+      },
+      {
+        "term": "Debridement",
+        "def": "Cutting away dead or infected tissue."
+      },
+      {
+        "term": "Plastic surgery",
+        "def": "Rebuilding damaged parts of the body."
+      }
     ],
     "misconceptions": [
-      { "wrong": "National Insurance covered everyone.", "right": "It covered insured workers, not their families or the unemployed." },
-      { "wrong": "War only destroys — it did not help medicine.", "right": "It speeded developments in surgery, X-rays and blood storage, though at terrible cost." }
+      {
+        "wrong": "National Insurance covered everyone.",
+        "right": "It covered insured workers, not their families or the unemployed."
+      },
+      {
+        "wrong": "War only destroys — it did not help medicine.",
+        "right": "It speeded developments in surgery, X-rays and blood storage, though at terrible cost."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "What did the 1911 National Insurance Act provide?", "options": ["Free hospitals for all", "Sick pay and a doctor for insured workers", "Old-age pensions", "Free school meals"], "answer": 1, "why": "Families were not covered." },
-      { "id": "m2", "s": "s1", "q": "Why did the Boer War worry the government?", "options": ["Too many doctors", "Many volunteers were unfit", "It caused cholera", "It ended National Insurance"], "answer": 1, "why": "A sign of poor national health." },
-      { "id": "m3", "s": "s2", "q": "What did sodium citrate do?", "options": ["Killed germs", "Stopped blood clotting so it could be stored", "Numbed pain", "Showed bullets"], "answer": 1, "why": "Allowing blood depots by 1917." },
-      { "id": "m4", "s": "s2", "q": "Who pioneered plastic surgery at Sidcup?", "options": ["Lister", "Gillies", "McIndoe", "Fleming"], "answer": 1, "why": "1917." },
-      { "id": "m5", "s": "s3", "q": "Who set up the Scottish Women's Hospitals?", "options": ["Elizabeth Garrett", "Elsie Inglis", "Florence Nightingale", "Marie Curie"], "answer": 1, "why": "Worked in France and Serbia." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What did the 1911 National Insurance Act provide?",
+        "options": [
+          "Free hospitals for all",
+          "Sick pay and a doctor for insured workers",
+          "Old-age pensions",
+          "Free school meals"
+        ],
+        "answer": 1,
+        "why": "Families were not covered."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Why did the Boer War worry the government?",
+        "options": [
+          "Too many doctors",
+          "Many volunteers were unfit",
+          "It caused cholera",
+          "It ended National Insurance"
+        ],
+        "answer": 1,
+        "why": "A sign of poor national health."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "What did sodium citrate do?",
+        "options": [
+          "Killed germs",
+          "Stopped blood clotting so it could be stored",
+          "Numbed pain",
+          "Showed bullets"
+        ],
+        "answer": 1,
+        "why": "Allowing blood depots by 1917."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "Who pioneered plastic surgery at Sidcup?",
+        "options": [
+          "Lister",
+          "Gillies",
+          "McIndoe",
+          "Fleming"
+        ],
+        "answer": 1,
+        "why": "1917."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "Who set up the Scottish Women's Hospitals?",
+        "options": [
+          "Elizabeth Garrett",
+          "Elsie Inglis",
+          "Florence Nightingale",
+          "Marie Curie"
+        ],
+        "answer": 1,
+        "why": "Worked in France and Serbia."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s1", "q": "In which year was the School Medical Service introduced?", "accept": ["1907"], "answer": "1907" },
-      { "id": "a2", "s": "s2", "q": "Which splint reduced deaths from broken thigh bones?", "accept": ["thomas splint", "the thomas splint", "thomas"], "answer": "The Thomas splint" },
-      { "id": "a3", "s": "s1", "q": "Name one person who surveyed poverty before 1906.", "accept": ["booth", "charles booth", "rowntree", "seebohm rowntree"], "answer": "Charles Booth or Seebohm Rowntree" }
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "In which year was the School Medical Service introduced?",
+        "accept": [
+          "1907"
+        ],
+        "answer": "1907"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "Which splint reduced deaths from broken thigh bones?",
+        "accept": [
+          "thomas splint",
+          "the thomas splint",
+          "thomas"
+        ],
+        "answer": "The Thomas splint"
+      },
+      {
+        "id": "a3",
+        "s": "s1",
+        "q": "Name one person who surveyed poverty before 1906.",
+        "accept": [
+          "booth",
+          "charles booth",
+          "rowntree",
+          "seebohm rowntree"
+        ],
+        "answer": "Charles Booth or Seebohm Rowntree"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these in order", "items": ["Boer War", "Free school meals", "School Medical Service", "Old-age pensions", "National Insurance Act", "Queen's Hospital, Sidcup"] }
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Boer War",
+          "Free school meals",
+          "School Medical Service",
+          "Old-age pensions",
+          "National Insurance Act",
+          "Queen's Hospital, Sidcup"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the wartime development to its purpose", "pairs": [["Thomas splint", "Keeping broken legs still"], ["Mobile X-rays", "Finding bullets and shrapnel"], ["Sodium citrate", "Storing blood"], ["Plastic surgery", "Rebuilding faces"]] }
+      {
+        "id": "x1",
+        "title": "Match the wartime development to its purpose",
+        "pairs": [
+          [
+            "Thomas splint",
+            "Keeping broken legs still"
+          ],
+          [
+            "Mobile X-rays",
+            "Finding bullets and shrapnel"
+          ],
+          [
+            "Sodium citrate",
+            "Storing blood"
+          ],
+          [
+            "Plastic surgery",
+            "Rebuilding faces"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s1", "q": "Give precise evidence of Liberal public health measures.", "keywords": [["1906", "1907", "1908", "1911", "school meals", "medical", "pension", "national insurance"]], "model": "Free school meals (1906), school medical inspections (1907), old-age pensions (1908), National Insurance (1911)." }
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Give precise evidence of Liberal public health measures.",
+        "keywords": [
+          [
+            "1906",
+            "1907",
+            "1908",
+            "1911",
+            "school meals",
+            "medical",
+            "pension",
+            "national insurance"
+          ]
+        ],
+        "model": "Free school meals (1906), school medical inspections (1907), old-age pensions (1908), National Insurance (1911)."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "Give three reasons for the Liberal reforms.", "a": "Booth and Rowntree's surveys; unfit Boer War recruits; competition from Labour; reforming Liberal politicians.", "hint": "Poverty, war, votes." },
-    { "id": "f2", "s": "s1", "q": "What were the limits of National Insurance?", "a": "Only insured workers; not families, the unemployed or hospital treatment.", "hint": "Who was left out?" },
-    { "id": "f3", "s": "s2", "q": "How did the war improve treatment of infected wounds?", "a": "Debridement and Carrel–Dakin solution to irrigate wounds.", "hint": "Gas gangrene." },
-    { "id": "f4", "s": "s2", "q": "Why was blood storage important?", "a": "Sodium citrate stopped clotting, so blood could be stored and given to wounded soldiers quickly.", "hint": "Cambrai 1917." },
-    { "id": "f5", "s": "s3", "q": "How did the war affect women in medicine?", "a": "Nurses, VADs, FANY drivers, women doctors like Elsie Inglis showed their abilities; more medical schools admitted women.", "hint": "Inglis." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Give three reasons for the Liberal reforms.",
+      "a": "Booth and Rowntree's surveys; unfit Boer War recruits; competition from Labour; reforming Liberal politicians.",
+      "hint": "Poverty, war, votes."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "What were the limits of National Insurance?",
+      "a": "Only insured workers; not families, the unemployed or hospital treatment.",
+      "hint": "Who was left out?"
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "How did the war improve treatment of infected wounds?",
+      "a": "Debridement and Carrel–Dakin solution to irrigate wounds.",
+      "hint": "Gas gangrene."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "Why was blood storage important?",
+      "a": "Sodium citrate stopped clotting, so blood could be stored and given to wounded soldiers quickly.",
+      "hint": "Cambrai 1917."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "How did the war affect women in medicine?",
+      "a": "Nurses, VADs, FANY drivers, women doctors like Elsie Inglis showed their abilities; more medical schools admitted women.",
+      "hint": "Inglis."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "explain", "text": "I can explain the reasons for and impact on public health of the Liberal reforms (1906–11).", "sections": ["s1"] },
-    { "id": "k2", "level": "explain", "text": "I can explain how the First World War improved surgery, X-rays, blood transfusion and fighting infection.", "sections": ["s2"] },
-    { "id": "k3", "level": "describe", "text": "I can describe the importance of the First World War for women in medicine.", "sections": ["s3"] }
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the reasons for and impact on public health of the Liberal reforms (1906–11).",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain how the First World War improved surgery, X-rays, blood transfusion and fighting infection.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "describe",
+      "text": "I can describe the importance of the First World War for women in medicine.",
+      "sections": [
+        "s3"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "p2bc", "label": "Past paper: 4HI1/02, June 2025, B2(c)(i) (wording from the published mark scheme)", "sections": ["s1"],
+      {
+        "id": "q1",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2025, B2(c)(i)",
+        "sections": [
+          "s1"
+        ],
         "q": "How far did public health provision improve in the years 1848–1911?\nExplain your answer.",
-        "prompts": ["the Public Health Act (1848)", "the School Medical Service (1907)"] },
-      { "id": "q2", "qtype": "p2bb", "label": "Teacher-created practice question", "sections": ["s1"],
-        "q": "Explain TWO causes of the Liberal government's public health reforms of 1906–11." }
+        "prompts": [
+          "the Public Health Act (1848)",
+          "the School Medical Service (1907)"
+        ],
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2025",
+          "part": "B2(c)(i)"
+        },
+        "ms": {
+          "support": [
+            "The 1848 Act created a General Board of Health",
+            "the 1866 Sanitary Act made improvements compulsory",
+            "the 1875 Act and the School Medical Service (1907)"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/02 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-02-pef-20250821.pdf",
+          "strong": [
+            "Add a third aspect beyond the bullet points."
+          ],
+          "weak": [
+            "Weaker answers included material outside the dates."
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "qtype": "p2bb",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s1"
+        ],
+        "q": "Explain TWO causes of the Liberal government's public health reforms of 1906–11."
+      },
+      {
+        "id": "pp-4hi102-june2024-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2024, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2024",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How far was it Florence Nightingale who made the most significant contribution by a woman to the development of medicine in the years 1860–1920?",
+        "prompts": [
+          "Florence Nightingale",
+          "Marie Curie"
+        ],
+        "ms": {
+          "support": [
+            "Nightingale made nursing respectable",
+            "hospital cleanliness, training and design",
+            "Notes on Nursing widely translated"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2023-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, November 2023, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2023",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How significant was the use of radioactivity in bringing improvements in medical treatment in the years 1875–1920?",
+        "prompts": [
+          "Ehrlich",
+          "the use of radioactivity"
+        ],
+        "ms": {
+          "support": [
+            "Curie's radioactivity research led to radiotherapy",
+            "she did not patent her work",
+            "mobile X-ray units in WW1"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2023-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, November 2023, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2023",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How far did the role of women in medicine change in the years 1875–1920?",
+        "prompts": [
+          "Elizabeth Garrett",
+          "the First World War"
+        ],
+        "ms": {
+          "support": [
+            "Female doctors rose from one (1875) to hundreds by 1911",
+            "nurses did minor surgery in WW1",
+            "many male doctors joined the army, opening posts"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2023-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02, June 2023, B2(b)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2023",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the problems of medical treatment for soldiers in the First World War.",
+        "ms": {
+          "points": [
+            "Blood could not be stored well",
+            "severe wounds needed developing plastic surgery",
+            "shell shock was poorly understood"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2021-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, November 2021, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2021",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How far did surgery change in the years 1875–1920?",
+        "prompts": [
+          "aseptic surgery",
+          "X-rays"
+        ],
+        "ms": {
+          "support": [
+            "X-rays from 1895 and mobile units in WW1",
+            "improved transfusions",
+            "debridement, Gillies's plastic surgery and the Carrel–Dakin method"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2021-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, November 2021, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2021",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How far did war change the role of women in medicine in the years 1914–45?",
+        "prompts": [
+          "nursing",
+          "the Second World War"
+        ],
+        "ms": {
+          "support": [
+            "VADs drove ambulances and nursed in WW1",
+            "a London military hospital staffed by women",
+            "many more women medical students by WW2"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2021-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2021, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2021",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How significant was warfare in bringing about changes in medicine in the years 1875–1920?",
+        "prompts": [
+          "Koch's discoveries",
+          "plastic surgery in the First World War"
+        ],
+        "ms": {
+          "support": [
+            "Wartime techniques such as debridement",
+            "the Thomas splint",
+            "transfusion and blood storage advances"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2020-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2020, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2020",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How significant was the Public Health Act (1875) in improving public health provision in the years 1875–1920?",
+        "prompts": [
+          "the Public Health Act (1875)",
+          "the National Insurance Act (1911)"
+        ],
+        "ms": {
+          "support": [
+            "Councils responsible for clean water and sewage",
+            "housing standards",
+            "Medical Officers of Health"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2019-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, June 2019, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2019",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How significant was the work of Robert Koch in improvements in medicine in the years 1860–1914?",
+        "prompts": [
+          "Robert Koch's work on bacteriology",
+          "the magic bullet"
+        ],
+        "ms": {
+          "support": [
+            "Koch identified microbes causing cholera and TB",
+            "his bacteriology underpinned Ehrlich's 'magic bullet'"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2025-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02R, June 2025, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2025",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How significant was Elizabeth Garrett in developing the role of women in medicine in the years 1860–1914?",
+        "prompts": [
+          "Elizabeth Garrett",
+          "Marie Curie"
+        ],
+        "ms": {
+          "support": [
+            "Garrett qualified through the Society of Apothecaries",
+            "her women's hospital",
+            "first woman in the BMA (1873)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2024-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02R, June 2024, B2(b)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2024",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the increasing effectiveness of blood transfusions in the years 1900–20.",
+        "ms": {
+          "points": [
+            "Sodium citrate stopped clotting and refrigeration allowed storage",
+            "indirect transfusion became practical",
+            "Landsteiner's blood groups (1901)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2024-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02R, June 2024, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2024",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How far did Public Health provision improve in the years 1860–1911?",
+        "prompts": [
+          "germ theory",
+          "School Meals Act (1906)"
+        ],
+        "ms": {
+          "support": [
+            "Bazalgette's sewers (by 1865)",
+            "the 1875 Public Health Act",
+            "Liberal reforms such as school meals (1906)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2023-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02R, June 2023, B2(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2023",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which the role of women in medical care in 1875 was different from the role of women in medical care in the First World War.",
+        "ms": {
+          "points": [
+            "Women doctors very rare in 1875 but more established by WW1",
+            "WW1 casualties created urgent need for female nurses and volunteers at the front"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2022-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02R, June 2022, B2(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2022",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which government action in public health in 1875 was different from government action in public health in 1911.",
+        "ms": {
+          "points": [
+            "By 1911 there were free school meals (1906)",
+            "the School Medical Service (1907) checked children's health"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2019-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02R, June 2019, B2(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2019",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which blood transfusions in 1905 were different from blood transfusions in 1920.",
+        "ms": {
+          "points": [
+            "Blood clotted in 1905 but could be stored using citrate by 1920",
+            "donors had to be present in 1905 but indirect transfusion was possible by 1920"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2019-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02R, June 2019, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2019",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How significant was Elizabeth Garrett in developing the role of women in medicine in the years 1848–1920?",
+        "prompts": [
+          "Elizabeth Garrett",
+          "the First World War"
+        ],
+        "ms": {
+          "support": [
+            "Her women's hospital in London",
+            "BMA membership (1873)",
+            "her determination inspired others"
+          ]
+        }
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Relative significance", "task": "Was war or government action more important for medicine in 1905–20? Judge by how many people benefited." },
-    { "id": "t2", "kind": "Change and continuity", "task": "Compare the Public Health Acts of 1848 and 1875 with the Liberal reforms. What new idea of government responsibility appeared?" }
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Was war or government action more important for medicine in 1905–20? Judge by how many people benefited."
+    },
+    {
+      "id": "t2",
+      "kind": "Change and continuity",
+      "task": "Compare the Public Health Acts of 1848 and 1875 with the Liberal reforms. What new idea of government responsibility appeared?"
+    }
   ]
 }

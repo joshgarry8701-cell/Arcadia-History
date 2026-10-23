@@ -1,126 +1,785 @@
 {
-  "id": "y11-vn-2", "course": "y11", "area": "vn", "kt": "Key topic 2", "order": 32,
+  "id": "y11-vn-2",
+  "course": "y11",
+  "area": "vn",
+  "kt": "Key topic 2",
+  "order": 32,
   "title": "US policy and intervention, 1954–64",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Historical investigation A4, key topic 2." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following 4HI1 Historical investigation A4, key topic 2."
+  },
   "learn": {
     "intro": "After Geneva, the USA backed a non-communist South Vietnam to stop the 'dominoes' falling. But Diem's government was unpopular, the NLF grew, and by 1964 the USA was on the edge of full-scale war.",
     "sections": [
       {
-        "id": "s1", "title": "1. Geneva, the domino theory and the formation of South Vietnam",
+        "id": "s1",
+        "title": "1. Geneva, the domino theory and the formation of South Vietnam",
         "blocks": [
-          { "p": "The Geneva Conference (1954) aimed to end the war and divide Vietnam temporarily, with elections in 1956. The USA did not sign the agreement; it feared Ho Chi Minh would win any election." },
-          { "p": "President Eisenhower explained US policy with the domino theory (1954): if one country fell to communism, its neighbours would follow, like a row of dominoes. The USA set up SEATO (1954) and supported a separate state in the South." },
-          { "p": "Ngo Dinh Diem became leader of South Vietnam (the Republic of Vietnam) after a rigged referendum in 1955. With US support he refused to hold the 1956 elections." }
+          {
+            "p": "The Geneva Conference (1954) aimed to end the war and divide Vietnam temporarily, with elections in 1956. The USA did not sign the agreement; it feared Ho Chi Minh would win any election."
+          },
+          {
+            "p": "President Eisenhower explained US policy with the domino theory (1954): if one country fell to communism, its neighbours would follow, like a row of dominoes. The USA set up SEATO (1954) and supported a separate state in the South."
+          },
+          {
+            "p": "Ngo Dinh Diem became leader of South Vietnam (the Republic of Vietnam) after a rigged referendum in 1955. With US support he refused to hold the 1956 elections."
+          }
         ],
-        "terms": ["domino theory", "containment", "SEATO", "Republic of Vietnam"],
-        "evidence": ["1954: Eisenhower's domino theory; SEATO.", "1955: Diem wins a rigged referendum.", "1956: elections not held."]
+        "terms": [
+          "domino theory",
+          "containment",
+          "SEATO",
+          "Republic of Vietnam"
+        ],
+        "evidence": [
+          "1954: Eisenhower's domino theory; SEATO.",
+          "1955: Diem wins a rigged referendum.",
+          "1956: elections not held."
+        ]
       },
       {
-        "id": "s2", "title": "2. Life in North and South Vietnam",
+        "id": "s2",
+        "title": "2. Life in North and South Vietnam",
         "blocks": [
-          { "p": "North (Ho Chi Minh): a communist state. Land reform (1953–56) took land from landlords and gave it to peasants, but it was carried out brutally and thousands were killed; Ho later admitted mistakes. Industry and farming were brought under state control." },
-          { "p": "South (Ngo Dinh Diem): Diem was a Catholic in a mainly Buddhist country and favoured Catholics and his own family; his brother Nhu ran the secret police. Land reform helped landlords more than peasants. Opponents were imprisoned and corruption was widespread, so the government lost support in the countryside." }
+          {
+            "p": "North (Ho Chi Minh): a communist state. Land reform (1953–56) took land from landlords and gave it to peasants, but it was carried out brutally and thousands were killed; Ho later admitted mistakes. Industry and farming were brought under state control."
+          },
+          {
+            "p": "South (Ngo Dinh Diem): Diem was a Catholic in a mainly Buddhist country and favoured Catholics and his own family; his brother Nhu ran the secret police. Land reform helped landlords more than peasants. Opponents were imprisoned and corruption was widespread, so the government lost support in the countryside."
+          }
         ],
-        "terms": ["land reform", "corruption", "Buddhist"],
-        "evidence": ["1953–56: brutal land reform in the North.", "Diem favoured Catholics; his brother Nhu ran the secret police."]
+        "terms": [
+          "land reform",
+          "corruption",
+          "Buddhist"
+        ],
+        "evidence": [
+          "1953–56: brutal land reform in the North.",
+          "Diem favoured Catholics; his brother Nhu ran the secret police."
+        ]
       },
       {
-        "id": "s3", "title": "3. Ho's policies to unite Vietnam: the NLF and the Ho Chi Minh Trail",
+        "id": "s3",
+        "title": "3. Ho's policies to unite Vietnam: the NLF and the Ho Chi Minh Trail",
         "blocks": [
-          { "p": "Ho was determined to unite Vietnam. In December 1960 the National Liberation Front (NLF) was set up in the South, with Northern backing, to overthrow Diem. Its fighters were called the Vietcong by their enemies. They used guerrilla tactics and won peasant support by redistributing land, though they also used terror against officials." },
-          { "p": "The Ho Chi Minh Trail — a network of paths through Laos and Cambodia — carried soldiers and supplies from North to South. It was very hard to cut because it ran through jungle and neutral countries." }
+          {
+            "p": "Ho was determined to unite Vietnam. In December 1960 the National Liberation Front (NLF) was set up in the South, with Northern backing, to overthrow Diem. Its fighters were called the Vietcong by their enemies. They used guerrilla tactics and won peasant support by redistributing land, though they also used terror against officials."
+          },
+          {
+            "p": "The Ho Chi Minh Trail — a network of paths through Laos and Cambodia — carried soldiers and supplies from North to South. It was very hard to cut because it ran through jungle and neutral countries."
+          }
         ],
-        "terms": ["NLF", "Vietcong", "Ho Chi Minh Trail"],
-        "evidence": ["December 1960: NLF founded.", "The Ho Chi Minh Trail ran through Laos and Cambodia."]
+        "terms": [
+          "NLF",
+          "Vietcong",
+          "Ho Chi Minh Trail"
+        ],
+        "evidence": [
+          "December 1960: NLF founded.",
+          "The Ho Chi Minh Trail ran through Laos and Cambodia."
+        ]
       },
       {
-        "id": "s4", "title": "4. The US response, the fall of Diem and the Gulf of Tonkin",
+        "id": "s4",
+        "title": "4. The US response, the fall of Diem and the Gulf of Tonkin",
         "blocks": [
-          { "p": "The USA sent money, weapons and military advisers. Under President Kennedy the number of advisers rose from under 1,000 in 1961 to about 16,000 by 1963." },
-          { "p": "The Strategic Hamlet Programme (1962) moved peasants into fortified villages to cut them off from the Vietcong. Peasants resented being moved from their land and ancestral graves; many hamlets were badly built and infiltrated, and the programme increased support for the NLF." },
-          { "p": "In 1963 Buddhist protests grew; the monk Thich Quang Duc burned himself to death in Saigon in June, and the photographs shocked the world. With US approval, South Vietnamese generals overthrew Diem in November 1963; he and Nhu were killed. Unstable military governments followed." },
-          { "p": "In August 1964 the US destroyer Maddox reported attacks by North Vietnamese boats in the Gulf of Tonkin (the second attack probably did not happen). Congress passed the Gulf of Tonkin Resolution, allowing President Johnson to take 'all necessary measures' — a blank cheque for war." }
+          {
+            "p": "The USA sent money, weapons and military advisers. Under President Kennedy the number of advisers rose from under 1,000 in 1961 to about 16,000 by 1963."
+          },
+          {
+            "p": "The Strategic Hamlet Programme (1962) moved peasants into fortified villages to cut them off from the Vietcong. Peasants resented being moved from their land and ancestral graves; many hamlets were badly built and infiltrated, and the programme increased support for the NLF."
+          },
+          {
+            "p": "In 1963 Buddhist protests grew; the monk Thich Quang Duc burned himself to death in Saigon in June, and the photographs shocked the world. With US approval, South Vietnamese generals overthrew Diem in November 1963; he and Nhu were killed. Unstable military governments followed."
+          },
+          {
+            "p": "In August 1964 the US destroyer Maddox reported attacks by North Vietnamese boats in the Gulf of Tonkin (the second attack probably did not happen). Congress passed the Gulf of Tonkin Resolution, allowing President Johnson to take 'all necessary measures' — a blank cheque for war."
+          }
         ],
-        "terms": ["military advisers", "Strategic Hamlet Programme", "coup", "Gulf of Tonkin Resolution"],
-        "evidence": ["Advisers: under 1,000 (1961) → about 16,000 (1963).", "1962: Strategic Hamlet Programme.", "November 1963: Diem overthrown and killed.", "August 1964: Gulf of Tonkin Resolution."]
+        "terms": [
+          "military advisers",
+          "Strategic Hamlet Programme",
+          "coup",
+          "Gulf of Tonkin Resolution"
+        ],
+        "evidence": [
+          "Advisers: under 1,000 (1961) → about 16,000 (1963).",
+          "1962: Strategic Hamlet Programme.",
+          "November 1963: Diem overthrown and killed.",
+          "August 1964: Gulf of Tonkin Resolution."
+        ]
       }
     ],
     "timeline": [
-      { "date": "1954", "event": "Geneva Conference; Eisenhower's domino theory; SEATO" },
-      { "date": "1955", "event": "Diem becomes leader of South Vietnam" },
-      { "date": "1956", "event": "Promised elections not held" },
-      { "date": "Dec 1960", "event": "NLF founded" },
-      { "date": "1961", "event": "Kennedy increases US advisers" },
-      { "date": "1962", "event": "Strategic Hamlet Programme" },
-      { "date": "June 1963", "event": "Thich Quang Duc's self-immolation" },
-      { "date": "Nov 1963", "event": "Diem overthrown and killed" },
-      { "date": "Aug 1964", "event": "Gulf of Tonkin incident and Resolution" }
+      {
+        "date": "1954",
+        "event": "Geneva Conference; Eisenhower's domino theory; SEATO"
+      },
+      {
+        "date": "1955",
+        "event": "Diem becomes leader of South Vietnam"
+      },
+      {
+        "date": "1956",
+        "event": "Promised elections not held"
+      },
+      {
+        "date": "Dec 1960",
+        "event": "NLF founded"
+      },
+      {
+        "date": "1961",
+        "event": "Kennedy increases US advisers"
+      },
+      {
+        "date": "1962",
+        "event": "Strategic Hamlet Programme"
+      },
+      {
+        "date": "June 1963",
+        "event": "Thich Quang Duc's self-immolation"
+      },
+      {
+        "date": "Nov 1963",
+        "event": "Diem overthrown and killed"
+      },
+      {
+        "date": "Aug 1964",
+        "event": "Gulf of Tonkin incident and Resolution"
+      }
     ],
     "people": [
-      { "name": "Dwight Eisenhower", "role": "US President 1953–61; domino theory." },
-      { "name": "John F. Kennedy", "role": "US President 1961–63; increased advisers." },
-      { "name": "Lyndon B. Johnson", "role": "US President from November 1963." },
-      { "name": "Ngo Dinh Diem", "role": "Leader of South Vietnam 1955–63." },
-      { "name": "Thich Quang Duc", "role": "Buddhist monk who burned himself in protest, 1963." }
+      {
+        "name": "Dwight Eisenhower",
+        "role": "US President 1953–61; domino theory."
+      },
+      {
+        "name": "John F. Kennedy",
+        "role": "US President 1961–63; increased advisers."
+      },
+      {
+        "name": "Lyndon B. Johnson",
+        "role": "US President from November 1963."
+      },
+      {
+        "name": "Ngo Dinh Diem",
+        "role": "Leader of South Vietnam 1955–63."
+      },
+      {
+        "name": "Thich Quang Duc",
+        "role": "Buddhist monk who burned himself in protest, 1963."
+      }
     ],
     "vocab": [
-      { "term": "Domino theory", "def": "If one country fell to communism, its neighbours would follow." },
-      { "term": "NLF / Vietcong", "def": "Communist-led movement fighting the South Vietnamese government." },
-      { "term": "Strategic hamlet", "def": "Fortified village to separate peasants from the Vietcong." },
-      { "term": "Military adviser", "def": "Soldier sent to train and advise another army." }
+      {
+        "term": "Domino theory",
+        "def": "If one country fell to communism, its neighbours would follow."
+      },
+      {
+        "term": "NLF / Vietcong",
+        "def": "Communist-led movement fighting the South Vietnamese government."
+      },
+      {
+        "term": "Strategic hamlet",
+        "def": "Fortified village to separate peasants from the Vietcong."
+      },
+      {
+        "term": "Military adviser",
+        "def": "Soldier sent to train and advise another army."
+      }
     ],
     "misconceptions": [
-      { "wrong": "The US only got involved in 1965.", "right": "It backed Diem from 1954 and had about 16,000 advisers by 1963." },
-      { "wrong": "Diem was a popular leader.", "right": "His favouritism, corruption and repression made him unpopular, especially with Buddhists and peasants." }
+      {
+        "wrong": "The US only got involved in 1965.",
+        "right": "It backed Diem from 1954 and had about 16,000 advisers by 1963."
+      },
+      {
+        "wrong": "Diem was a popular leader.",
+        "right": "His favouritism, corruption and repression made him unpopular, especially with Buddhists and peasants."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "What did the domino theory claim?", "options": ["Wars spread like fires", "If one country became communist, neighbours would follow", "Vietnam was unimportant", "France would win"], "answer": 1, "why": "Eisenhower, 1954." },
-      { "id": "m2", "s": "s2", "q": "Why was Diem unpopular?", "options": ["He was a communist", "He favoured Catholics and his family and repressed opponents", "He gave land to peasants", "He held fair elections"], "answer": 1, "why": "In a mainly Buddhist country." },
-      { "id": "m3", "s": "s3", "q": "When was the NLF founded?", "options": ["1954", "1956", "December 1960", "1964"], "answer": 2, "why": "With Northern backing." },
-      { "id": "m4", "s": "s4", "q": "Why did the Strategic Hamlet Programme fail?", "options": ["Peasants loved it", "Peasants resented being moved and many hamlets were infiltrated", "It was never started", "The French ran it"], "answer": 1, "why": "It increased support for the NLF." },
-      { "id": "m5", "s": "s4", "q": "What did the Gulf of Tonkin Resolution allow?", "options": ["Peace talks", "The President to take 'all necessary measures'", "Withdrawal of advisers", "Elections in Vietnam"], "answer": 1, "why": "August 1964." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What did the domino theory claim?",
+        "options": [
+          "Wars spread like fires",
+          "If one country became communist, neighbours would follow",
+          "Vietnam was unimportant",
+          "France would win"
+        ],
+        "answer": 1,
+        "why": "Eisenhower, 1954."
+      },
+      {
+        "id": "m2",
+        "s": "s2",
+        "q": "Why was Diem unpopular?",
+        "options": [
+          "He was a communist",
+          "He favoured Catholics and his family and repressed opponents",
+          "He gave land to peasants",
+          "He held fair elections"
+        ],
+        "answer": 1,
+        "why": "In a mainly Buddhist country."
+      },
+      {
+        "id": "m3",
+        "s": "s3",
+        "q": "When was the NLF founded?",
+        "options": [
+          "1954",
+          "1956",
+          "December 1960",
+          "1964"
+        ],
+        "answer": 2,
+        "why": "With Northern backing."
+      },
+      {
+        "id": "m4",
+        "s": "s4",
+        "q": "Why did the Strategic Hamlet Programme fail?",
+        "options": [
+          "Peasants loved it",
+          "Peasants resented being moved and many hamlets were infiltrated",
+          "It was never started",
+          "The French ran it"
+        ],
+        "answer": 1,
+        "why": "It increased support for the NLF."
+      },
+      {
+        "id": "m5",
+        "s": "s4",
+        "q": "What did the Gulf of Tonkin Resolution allow?",
+        "options": [
+          "Peace talks",
+          "The President to take 'all necessary measures'",
+          "Withdrawal of advisers",
+          "Elections in Vietnam"
+        ],
+        "answer": 1,
+        "why": "August 1964."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s2", "q": "Who led South Vietnam from 1955 to 1963?", "accept": ["diem", "ngo dinh diem"], "answer": "Ngo Dinh Diem" },
-      { "id": "a2", "s": "s3", "q": "What was the supply route from North to South called?", "accept": ["ho chi minh trail", "the ho chi minh trail"], "answer": "The Ho Chi Minh Trail" },
-      { "id": "a3", "s": "s4", "q": "About how many US advisers were in Vietnam by 1963?", "accept": ["16000", "16,000", "about 16,000", "16 000"], "answer": "About 16,000" }
+      {
+        "id": "a1",
+        "s": "s2",
+        "q": "Who led South Vietnam from 1955 to 1963?",
+        "accept": [
+          "diem",
+          "ngo dinh diem"
+        ],
+        "answer": "Ngo Dinh Diem"
+      },
+      {
+        "id": "a2",
+        "s": "s3",
+        "q": "What was the supply route from North to South called?",
+        "accept": [
+          "ho chi minh trail",
+          "the ho chi minh trail"
+        ],
+        "answer": "The Ho Chi Minh Trail"
+      },
+      {
+        "id": "a3",
+        "s": "s4",
+        "q": "About how many US advisers were in Vietnam by 1963?",
+        "accept": [
+          "16000",
+          "16,000",
+          "about 16,000",
+          "16 000"
+        ],
+        "answer": "About 16,000"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these in order", "items": ["Domino theory speech", "Diem becomes leader", "NLF founded", "Strategic Hamlet Programme", "Diem overthrown", "Gulf of Tonkin Resolution"] }
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Domino theory speech",
+          "Diem becomes leader",
+          "NLF founded",
+          "Strategic Hamlet Programme",
+          "Diem overthrown",
+          "Gulf of Tonkin Resolution"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the President to the policy", "pairs": [["Eisenhower", "Domino theory"], ["Kennedy", "More advisers; Strategic Hamlets"], ["Johnson", "Gulf of Tonkin Resolution"]] }
+      {
+        "id": "x1",
+        "title": "Match the President to the policy",
+        "pairs": [
+          [
+            "Eisenhower",
+            "Domino theory"
+          ],
+          [
+            "Kennedy",
+            "More advisers; Strategic Hamlets"
+          ],
+          [
+            "Johnson",
+            "Gulf of Tonkin Resolution"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s4", "q": "Give precise evidence that US involvement increased under Kennedy.", "keywords": [["16,000", "16000", "1,000", "advisers", "strategic hamlet", "1962"]], "model": "US advisers rose from under 1,000 in 1961 to about 16,000 by 1963, and the USA backed the Strategic Hamlet Programme (1962)." }
+      {
+        "id": "e1",
+        "s": "s4",
+        "q": "Give precise evidence that US involvement increased under Kennedy.",
+        "keywords": [
+          [
+            "16,000",
+            "16000",
+            "1,000",
+            "advisers",
+            "strategic hamlet",
+            "1962"
+          ]
+        ],
+        "model": "US advisers rose from under 1,000 in 1961 to about 16,000 by 1963, and the USA backed the Strategic Hamlet Programme (1962)."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "Why did the USA not sign the Geneva Agreements?", "a": "It feared Ho Chi Minh would win the 1956 elections and Vietnam would become communist.", "hint": "Elections." },
-    { "id": "f2", "s": "s2", "q": "What was life like in North Vietnam?", "a": "Communist state; brutal land reform (1953–56) took land from landlords; state control of industry.", "hint": "Land reform." },
-    { "id": "f3", "s": "s3", "q": "How did the NLF win support?", "a": "Redistributing land, guerrilla tactics, anger at Diem — but also terror against officials.", "hint": "Peasants." },
-    { "id": "f4", "s": "s4", "q": "Why did the USA allow Diem's overthrow?", "a": "His repression of Buddhists and unpopularity were undermining the war against the NLF.", "hint": "Buddhist crisis." },
-    { "id": "f5", "s": "s4", "q": "Why was the Gulf of Tonkin incident significant?", "a": "It led to the Resolution giving Johnson power to escalate the war without a declaration of war.", "hint": "Blank cheque." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Why did the USA not sign the Geneva Agreements?",
+      "a": "It feared Ho Chi Minh would win the 1956 elections and Vietnam would become communist.",
+      "hint": "Elections."
+    },
+    {
+      "id": "f2",
+      "s": "s2",
+      "q": "What was life like in North Vietnam?",
+      "a": "Communist state; brutal land reform (1953–56) took land from landlords; state control of industry.",
+      "hint": "Land reform."
+    },
+    {
+      "id": "f3",
+      "s": "s3",
+      "q": "How did the NLF win support?",
+      "a": "Redistributing land, guerrilla tactics, anger at Diem — but also terror against officials.",
+      "hint": "Peasants."
+    },
+    {
+      "id": "f4",
+      "s": "s4",
+      "q": "Why did the USA allow Diem's overthrow?",
+      "a": "His repression of Buddhists and unpopularity were undermining the war against the NLF.",
+      "hint": "Buddhist crisis."
+    },
+    {
+      "id": "f5",
+      "s": "s4",
+      "q": "Why was the Gulf of Tonkin incident significant?",
+      "a": "It led to the Resolution giving Johnson power to escalate the war without a declaration of war.",
+      "hint": "Blank cheque."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "explain", "text": "I can explain the aims of Geneva, the US response and the domino theory.", "sections": ["s1"] },
-    { "id": "k2", "level": "describe", "text": "I can describe life in North and South Vietnam under Ho and Diem.", "sections": ["s2"] },
-    { "id": "k3", "level": "explain", "text": "I can explain the impact of the NLF and the Ho Chi Minh Trail.", "sections": ["s3"] },
-    { "id": "k4", "level": "judge", "text": "I can judge how far US involvement increased under Kennedy and Johnson to 1964.", "sections": ["s4"] }
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the aims of Geneva, the US response and the domino theory.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe life in North and South Vietnam under Ho and Diem.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain the impact of the NLF and the Ho Chi Minh Trail.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "judge",
+      "text": "I can judge how far US involvement increased under Kennedy and Johnson to 1964.",
+      "sections": [
+        "s4"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "p2ac", "label": "Past paper: 4HI1/02, June 2025, A4(c) (Sources A, B and Extract C are in the paper)", "sections": ["s4"],
-        "q": "Extract C suggests that US involvement in the Vietnam War increased massively under President Kennedy, in the years 1961–63.\nHow far do you agree with this interpretation? Use Extract C, Sources A and B and your own knowledge to explain your answer." },
-      { "id": "q2", "qtype": "p2aa", "label": "Teacher-created practice question", "sections": ["s4"],
-        "q": "Describe TWO features of EITHER the Strategic Hamlet Programme OR the fall of Diem in 1963." }
+      {
+        "id": "q1",
+        "qtype": "p2ac",
+        "label": "Past paper: 4HI1/02, June 2025, A4(c) (Sources A, B and Extract C are in the paper)",
+        "sections": [
+          "s4"
+        ],
+        "q": "Extract C suggests that US involvement in the Vietnam War increased massively under President Kennedy, in the years 1961–63.\nHow far do you agree with this interpretation? Use Extract C, Sources A and B and your own knowledge to explain your answer.",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2025",
+          "part": "A4(c)"
+        },
+        "ms": {
+          "support": [
+            "Officials urged action to stop South Vietnam falling",
+            "US support increased in 1961–62",
+            "Kennedy expanded aid, advisers and helicopters"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/02 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-02-pef-20250821.pdf",
+          "strong": [
+            "Evaluate all the views in the sources and extract, and reach an overall judgement."
+          ],
+          "weak": [
+            "Some relied on general knowledge from later in the war (under Johnson) rather than 1961–63."
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "qtype": "p2aa",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s4"
+        ],
+        "q": "Describe TWO features of EITHER the Strategic Hamlet Programme OR the fall of Diem in 1963."
+      },
+      {
+        "id": "pp-4hi102-june2025-vn-b",
+        "qtype": "p2ab",
+        "label": "Past paper: 4HI1/02, June 2025, A4(b) (Sources A and B are in the paper)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2025",
+          "part": "A4(b)"
+        },
+        "sections": [],
+        "q": "How far does Source A support the evidence of Source B about the war in Vietnam during the early 1960s?\nExplain your answer.",
+        "ms": {
+          "points": [
+            "Both say the war was going badly for South Vietnam",
+            "both describe guerrilla attacks",
+            "Source A urges direct intervention while Source B mentions only training and aid"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/02 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-02-pef-20250821.pdf",
+          "strong": [
+            "Many identified subtle as well as obvious differences between the sources."
+          ],
+          "weak": []
+        }
+      },
+      {
+        "id": "pp-4hi102-june2024-vn-a",
+        "qtype": "p2aa",
+        "label": "Past paper: 4HI1/02, June 2024, A4(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2024",
+          "part": "A4(a)"
+        },
+        "sections": [],
+        "q": "Describe TWO features of EITHER the Domino Theory OR the Battle of Hue (1968).",
+        "ms": {
+          "points": [
+            "Domino Theory — communism would spread across South-East Asia (Eisenhower, 1954) and justified support for South Vietnam",
+            "Hue — seized in Tet and retaken after intense fighting"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2023-vn-b",
+        "qtype": "p2ab",
+        "label": "Past paper: 4HI1/02, November 2023, A4(b) (Sources A and B are in the paper)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2023",
+          "part": "A4(b)"
+        },
+        "sections": [],
+        "q": "How far does Source A support the evidence of Source B about the Gulf of Tonkin incident (1964)?\nExplain your answer.",
+        "ms": {
+          "points": [
+            "Both report an attack on US forces",
+            "both show Johnson seeking Congressional support",
+            "Source A says escalation is not inevitable while Source B predicts it"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2023-vn-c",
+        "qtype": "p2ac",
+        "label": "Past paper: 4HI1/02, November 2023, A4(c) (Sources A, B and Extract C are in the paper)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2023",
+          "part": "A4(c)"
+        },
+        "sections": [],
+        "q": "Extract C suggests that the Gulf of Tonkin incident (1964) was a turning point in the USA’s involvement in Vietnam. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
+        "ms": {
+          "support": [
+            "Congress authorised responses to future attacks",
+            "Johnson sought power to increase forces",
+            "US troops rose from about 16,000 to over 500,000 and took on combat roles"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2023-vn-a",
+        "qtype": "p2aa",
+        "label": "Past paper: 4HI1/02, June 2023, A4(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2023",
+          "part": "A4(a)"
+        },
+        "sections": [],
+        "q": "Describe TWO features of EITHER the Strategic Hamlet Programme OR the role of General Westmoreland.",
+        "ms": {
+          "points": [
+            "Strategic Hamlets (1962) isolated the NLF, with millions moved into fortified villages",
+            "Westmoreland commanded US forces 1964–68 with an attrition strategy"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2022-vn-a",
+        "qtype": "p2aa",
+        "label": "Past paper: 4HI1/02, June 2022, A4(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2022",
+          "part": "A4(a)"
+        },
+        "sections": [],
+        "q": "Describe TWO features of EITHER life in South Vietnam under Ngo Dinh Diem OR Hearts and Minds.",
+        "ms": {
+          "points": [
+            "Diem's rule — rigged elections, corruption and nepotism",
+            "favouritism to Catholics over Buddhists",
+            "Hearts and Minds sought South Vietnamese support alongside military action"
+          ]
+        },
+        "exq": {
+          "series": "4HI1 Paper 2A examiner report, June 2022",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/exam-materials/4hi1-2a-pef-20220825.pdf",
+          "strong": [
+            "Life in South Vietnam under Diem was well known."
+          ],
+          "weak": [
+            "Some confused Hearts and Minds with winning the support of the US public."
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2020-vn-b",
+        "qtype": "p2ab",
+        "label": "Past paper: 4HI1/02, June 2020, A4(b) (Sources A and B are in the paper)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2020",
+          "part": "A4(b)"
+        },
+        "sections": [],
+        "q": "How far does Source A support the evidence of Source B about President Diem’s government in the early 1960s?\nExplain your answer.",
+        "ms": {
+          "points": [
+            "Both say Diem's government was undemocratic and corrupt",
+            "both say it was ineffective",
+            "Source A suggests Diem could still reform, Source B that reform is unlikely"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-june2020-vn-c",
+        "qtype": "p2ac",
+        "label": "Past paper: 4HI1/02, June 2020, A4(c) (Sources A, B and Extract C are in the paper)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2020",
+          "part": "A4(c)"
+        },
+        "sections": [],
+        "q": "Extract C suggests that President Diem’s downfall in 1963 was caused by his own mistakes. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
+        "ms": {
+          "support": [
+            "Diem failed to tackle corruption",
+            "he favoured Catholics over the Buddhist majority",
+            "the Strategic Hamlet Programme and his handling of Buddhist protests"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2025-vn-a",
+        "qtype": "p2aa",
+        "label": "Past paper: 4HI1/02R, June 2025, A4(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2025",
+          "part": "A4(a)"
+        },
+        "sections": [],
+        "q": "Describe TWO features of EITHER the Gulf of Tonkin incident OR the jungle war (1965–68).",
+        "ms": {
+          "points": [
+            "Gulf of Tonkin — USS Maddox attacked in August 1964 and the Resolution authorised escalation",
+            "jungle war (1965–68) — large US forces fought the Vietcong in remote jungle"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2024-vn-b",
+        "qtype": "p2ab",
+        "label": "Past paper: 4HI1/02R, June 2024, A4(b) (Sources A and B are in the paper)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2024",
+          "part": "A4(b)"
+        },
+        "sections": [],
+        "q": "How far does Source A support the evidence of Source B about the government of Ngo Dinh Diem in South Vietnam?\nExplain your answer.",
+        "ms": {
+          "points": [
+            "Both say Diem faced serious criticism",
+            "both link his family's domination to discontent",
+            "Source A blames religious favouritism, Source B his brother Nhu"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2024-vn-c",
+        "qtype": "p2ac",
+        "label": "Past paper: 4HI1/02R, June 2024, A4(c) (Sources A, B and Extract C are in the paper)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2024",
+          "part": "A4(c)"
+        },
+        "sections": [],
+        "q": "Extract C suggests that the main reason for the growing opposition to Diem’s government in South Vietnam was the popularity of the communists. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
+        "ms": {
+          "support": [
+            "Communists seen as patriots who would unify Vietnam",
+            "propaganda portrayed Diem as an American puppet",
+            "promises of fairness and land"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2023-vn-b",
+        "qtype": "p2ab",
+        "label": "Past paper: 4HI1/02R, June 2023, A4(b) (Sources A and B are in the paper)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2023",
+          "part": "A4(b)"
+        },
+        "sections": [],
+        "q": "How far does Source A support the evidence of Source B about US involvement in the Vietnam War?\nExplain your answer.",
+        "ms": {
+          "points": [
+            "Both say US aims were to improve South Vietnamese lives",
+            "Source A defends democracy while Source B calls the governments corrupt",
+            "Source A is idealistic, Source B critical of the effects"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2022-vn-a",
+        "qtype": "p2aa",
+        "label": "Past paper: 4HI1/02R, June 2022, A4(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2022",
+          "part": "A4(a)"
+        },
+        "sections": [],
+        "q": "Describe TWO features of EITHER life in North Vietnam under Ho Chi Minh OR Search and Destroy.",
+        "ms": {
+          "points": [
+            "The Lao Dong party dominated life and opponents went to re-education camps",
+            "religion discouraged",
+            "land reform and collectivisation (1953–56, 1958)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2022-vn-b",
+        "qtype": "p2ab",
+        "label": "Past paper: 4HI1/02R, June 2022, A4(b) (Sources A and B are in the paper)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2022",
+          "part": "A4(b)"
+        },
+        "sections": [],
+        "q": "How far does Source A support the evidence of Source B about opposition in the USA to the war in Vietnam?\nExplain your answer.",
+        "ms": {
+          "points": [
+            "Both show Vietnamese suffering encouraged opposition",
+            "both show the media inflamed opinion",
+            "only Source A mentions opposition from veterans"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2019-vn-a",
+        "qtype": "p2aa",
+        "label": "Past paper: 4HI1/02R, June 2019, A4(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2019",
+          "part": "A4(a)"
+        },
+        "sections": [],
+        "q": "Describe TWO features of EITHER the Domino Theory OR Operation Rolling Thunder.",
+        "ms": {
+          "points": [
+            "Domino Theory (1954) — one communist country would topple its neighbours, justifying aid to South Vietnam",
+            "Rolling Thunder — sustained bombing of North Vietnam from 1965"
+          ]
+        }
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Competing arguments", "task": "Was the USA drawn into Vietnam by events, or did it choose escalation? Use the domino theory and Gulf of Tonkin." },
-    { "id": "t2", "kind": "Causal links", "task": "How did Diem's policies help the NLF? Make a chain of three links." }
+    {
+      "id": "t1",
+      "kind": "Competing arguments",
+      "task": "Was the USA drawn into Vietnam by events, or did it choose escalation? Use the domino theory and Gulf of Tonkin."
+    },
+    {
+      "id": "t2",
+      "kind": "Causal links",
+      "task": "How did Diem's policies help the NLF? Make a chain of three links."
+    }
   ]
 }

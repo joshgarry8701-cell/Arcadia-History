@@ -1,137 +1,688 @@
 {
-  "id": "y13-cr-3", "course": "y13", "area": "cr", "kt": "Key topic 3", "order": 3,
+  "id": "y13-cr-3",
+  "course": "y13",
+  "area": "cr",
+  "kt": "Key topic 3",
+  "order": 3,
   "title": "Roosevelt and race relations, 1933–45",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following IAL Unit 3 Option 1D key topic 3." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following IAL Unit 3 Option 1D key topic 3."
+  },
   "learn": {
     "intro": "The New Deal brought relief to millions of black Americans and shifted their votes to the Democrats — yet Roosevelt depended on southern Democrats, segregation stayed intact and anti-lynching bills failed. The war years opened new opportunities and new pressure for change.",
     "sections": [
       {
-        "id": "s1", "title": "1. The changing pattern of black settlement and voting",
+        "id": "s1",
+        "title": "1. The changing pattern of black settlement and voting",
         "blocks": [
-          { "p": "The Great Migration from about 1915 moved well over a million black southerners to northern cities such as Chicago, Detroit and New York, drawn by industrial jobs and escaping Jim Crow. By the 1930s a significant minority of black Americans lived outside the South, concentrated in crowded urban districts such as Harlem and Chicago's South Side, hemmed in by restrictive covenants and discrimination in housing." },
-          { "p": "Migration slowed in the Depression, then surged again in the 1940s as war industries in the North and on the West Coast needed workers. Competition for housing and jobs produced tension, including the Detroit race riot of June 1943, in which 34 people died." },
-          { "p": "Voting: in the North, black Americans could vote. Traditionally loyal to the Republicans as the party of Lincoln, most black voters switched to the Democrats in the 1930s; by 1936 a large majority of northern black voters backed Roosevelt. In northern cities this made the black vote a factor Democrats could not ignore." }
+          {
+            "p": "The Great Migration from about 1915 moved well over a million black southerners to northern cities such as Chicago, Detroit and New York, drawn by industrial jobs and escaping Jim Crow. By the 1930s a significant minority of black Americans lived outside the South, concentrated in crowded urban districts such as Harlem and Chicago's South Side, hemmed in by restrictive covenants and discrimination in housing."
+          },
+          {
+            "p": "Migration slowed in the Depression, then surged again in the 1940s as war industries in the North and on the West Coast needed workers. Competition for housing and jobs produced tension, including the Detroit race riot of June 1943, in which 34 people died."
+          },
+          {
+            "p": "Voting: in the North, black Americans could vote. Traditionally loyal to the Republicans as the party of Lincoln, most black voters switched to the Democrats in the 1930s; by 1936 a large majority of northern black voters backed Roosevelt. In northern cities this made the black vote a factor Democrats could not ignore."
+          }
         ],
-        "terms": ["Great Migration", "ghetto", "restrictive covenant", "realignment"],
-        "evidence": ["From c.1915: Great Migration north.", "1936: large majority of northern black voters back Roosevelt.", "June 1943: Detroit riot, 34 killed."]
+        "terms": [
+          "Great Migration",
+          "ghetto",
+          "restrictive covenant",
+          "realignment"
+        ],
+        "evidence": [
+          "From c.1915: Great Migration north.",
+          "1936: large majority of northern black voters back Roosevelt.",
+          "June 1943: Detroit riot, 34 killed."
+        ]
       },
       {
-        "id": "s2", "title": "2. Pressure groups: the NAACP and others",
+        "id": "s2",
+        "title": "2. Pressure groups: the NAACP and others",
         "blocks": [
-          { "p": "The NAACP (founded 1909) campaigned against lynching under Walter White and began a legal strategy against segregated education led by Charles Houston and Thurgood Marshall, winning Missouri ex rel. Gaines v Canada (1938) on unequal provision for graduate education. In Smith v Allwright (1944) the Supreme Court outlawed the white primary in Texas." },
-          { "p": "A. Philip Randolph, leader of the Brotherhood of Sleeping Car Porters, threatened a March on Washington in 1941. Roosevelt responded with Executive Order 8802 (June 1941), banning discrimination in defence industries and setting up the Fair Employment Practices Committee (FEPC). The Congress of Racial Equality (CORE) was founded in 1942, and black newspapers ran the 'Double V' campaign — victory abroad and victory over racism at home. NAACP membership grew rapidly during the war." }
+          {
+            "p": "The NAACP (founded 1909) campaigned against lynching under Walter White and began a legal strategy against segregated education led by Charles Houston and Thurgood Marshall, winning Missouri ex rel. Gaines v Canada (1938) on unequal provision for graduate education. In Smith v Allwright (1944) the Supreme Court outlawed the white primary in Texas."
+          },
+          {
+            "p": "A. Philip Randolph, leader of the Brotherhood of Sleeping Car Porters, threatened a March on Washington in 1941. Roosevelt responded with Executive Order 8802 (June 1941), banning discrimination in defence industries and setting up the Fair Employment Practices Committee (FEPC). The Congress of Racial Equality (CORE) was founded in 1942, and black newspapers ran the 'Double V' campaign — victory abroad and victory over racism at home. NAACP membership grew rapidly during the war."
+          }
         ],
-        "terms": ["NAACP", "Executive Order 8802", "FEPC", "Double V", "CORE"],
-        "evidence": ["1938: Gaines v Canada.", "June 1941: Executive Order 8802.", "1942: CORE founded; Double V campaign.", "1944: Smith v Allwright."]
+        "terms": [
+          "NAACP",
+          "Executive Order 8802",
+          "FEPC",
+          "Double V",
+          "CORE"
+        ],
+        "evidence": [
+          "1938: Gaines v Canada.",
+          "June 1941: Executive Order 8802.",
+          "1942: CORE founded; Double V campaign.",
+          "1944: Smith v Allwright."
+        ]
       },
       {
-        "id": "s3", "title": "3. Southern Democrats and the failure of Congress",
+        "id": "s3",
+        "title": "3. Southern Democrats and the failure of Congress",
         "blocks": [
-          { "p": "Roosevelt needed the votes of southern Democrats, who held many powerful committee chairs in Congress through seniority. He would not risk New Deal legislation by openly backing civil rights. Jim Crow laws and black disfranchisement in the South continued." },
-          { "p": "Anti-lynching bills — the Costigan–Wagner bill (1934–35) and the Gavagan bill, which passed the House in 1937 — were killed by southern filibusters in the Senate, and Roosevelt did not push for them." },
-          { "p": "Several New Deal programmes discriminated. The Agricultural Adjustment Act (1933) paid landowners to take land out of production; many evicted black sharecroppers and tenants, and payments often went to landlords. The Civilian Conservation Corps (CCC) ran segregated camps. National Recovery Administration (NRA) codes allowed lower wage rates in sectors and regions where black workers were concentrated." },
-          { "p": "In the war, about a million black Americans served in segregated armed forces, often in labour units; the Red Cross segregated blood supplies. Units such as the Tuskegee Airmen proved their ability, and the contradiction of fighting racism abroad while facing it at home fuelled protest." }
+          {
+            "p": "Roosevelt needed the votes of southern Democrats, who held many powerful committee chairs in Congress through seniority. He would not risk New Deal legislation by openly backing civil rights. Jim Crow laws and black disfranchisement in the South continued."
+          },
+          {
+            "p": "Anti-lynching bills — the Costigan–Wagner bill (1934–35) and the Gavagan bill, which passed the House in 1937 — were killed by southern filibusters in the Senate, and Roosevelt did not push for them."
+          },
+          {
+            "p": "Several New Deal programmes discriminated. The Agricultural Adjustment Act (1933) paid landowners to take land out of production; many evicted black sharecroppers and tenants, and payments often went to landlords. The Civilian Conservation Corps (CCC) ran segregated camps. National Recovery Administration (NRA) codes allowed lower wage rates in sectors and regions where black workers were concentrated."
+          },
+          {
+            "p": "In the war, about a million black Americans served in segregated armed forces, often in labour units; the Red Cross segregated blood supplies. Units such as the Tuskegee Airmen proved their ability, and the contradiction of fighting racism abroad while facing it at home fuelled protest."
+          }
         ],
-        "terms": ["seniority system", "filibuster", "AAA", "CCC", "NRA"],
-        "evidence": ["1934–35: Costigan–Wagner anti-lynching bill blocked.", "1937: Gavagan bill passes House, blocked in Senate.", "AAA (1933) led to evictions of black tenants.", "About 1 million black Americans in segregated armed forces."]
+        "terms": [
+          "seniority system",
+          "filibuster",
+          "AAA",
+          "CCC",
+          "NRA"
+        ],
+        "evidence": [
+          "1934–35: Costigan–Wagner anti-lynching bill blocked.",
+          "1937: Gavagan bill passes House, blocked in Senate.",
+          "AAA (1933) led to evictions of black tenants.",
+          "About 1 million black Americans in segregated armed forces."
+        ]
       },
       {
-        "id": "s4", "title": "4. The positive impact of the New Deal",
+        "id": "s4",
+        "title": "4. The positive impact of the New Deal",
         "blocks": [
-          { "p": "Relief and work programmes reached black Americans in large numbers because they were among the poorest. The Works Progress Administration (WPA) employed many black workers and ran literacy classes; Harold Ickes's Public Works Administration set targets for employing black workers on some projects and funded housing. For many black families, federal relief was the first time the national government had helped them directly." },
-          { "p": "Eleanor Roosevelt championed black rights: she supported anti-lynching legislation, and in 1939, when the Daughters of the American Revolution refused to let singer Marian Anderson perform in their hall, she resigned from the organisation and helped arrange Anderson's concert at the Lincoln Memorial before about 75,000 people." },
-          { "p": "An informal 'Black Cabinet' of advisers, including Mary McLeod Bethune (Director of Negro Affairs in the National Youth Administration) and Robert Weaver, influenced policy. The number of black federal employees grew substantially. In wartime, Executive Order 8802 and the FEPC set a precedent for federal action on discrimination, even if enforcement was weak." }
+          {
+            "p": "Relief and work programmes reached black Americans in large numbers because they were among the poorest. The Works Progress Administration (WPA) employed many black workers and ran literacy classes; Harold Ickes's Public Works Administration set targets for employing black workers on some projects and funded housing. For many black families, federal relief was the first time the national government had helped them directly."
+          },
+          {
+            "p": "Eleanor Roosevelt championed black rights: she supported anti-lynching legislation, and in 1939, when the Daughters of the American Revolution refused to let singer Marian Anderson perform in their hall, she resigned from the organisation and helped arrange Anderson's concert at the Lincoln Memorial before about 75,000 people."
+          },
+          {
+            "p": "An informal 'Black Cabinet' of advisers, including Mary McLeod Bethune (Director of Negro Affairs in the National Youth Administration) and Robert Weaver, influenced policy. The number of black federal employees grew substantially. In wartime, Executive Order 8802 and the FEPC set a precedent for federal action on discrimination, even if enforcement was weak."
+          }
         ],
-        "terms": ["WPA", "PWA", "Black Cabinet", "Marian Anderson concert"],
-        "evidence": ["1939: Marian Anderson at the Lincoln Memorial.", "Mary McLeod Bethune, NYA Division of Negro Affairs.", "1941: FEPC created."]
+        "terms": [
+          "WPA",
+          "PWA",
+          "Black Cabinet",
+          "Marian Anderson concert"
+        ],
+        "evidence": [
+          "1939: Marian Anderson at the Lincoln Memorial.",
+          "Mary McLeod Bethune, NYA Division of Negro Affairs.",
+          "1941: FEPC created."
+        ]
       }
     ],
     "timeline": [
-      { "date": "1933", "event": "New Deal begins: AAA, CCC and NRA" },
-      { "date": "1934–35", "event": "Costigan–Wagner anti-lynching bill blocked by filibuster" },
-      { "date": "1935", "event": "Works Progress Administration (WPA) created" },
-      { "date": "1936", "event": "Most northern black voters back Roosevelt" },
-      { "date": "1937", "event": "Gavagan anti-lynching bill passes the House only" },
-      { "date": "1938", "event": "Gaines v Canada" },
-      { "date": "April 1939", "event": "Marian Anderson sings at the Lincoln Memorial" },
-      { "date": "June 1941", "event": "Executive Order 8802 and the FEPC" },
-      { "date": "1942", "event": "CORE founded; Double V campaign" },
-      { "date": "June 1943", "event": "Detroit race riot" },
-      { "date": "1944", "event": "Smith v Allwright outlaws the white primary" }
+      {
+        "date": "1933",
+        "event": "New Deal begins: AAA, CCC and NRA"
+      },
+      {
+        "date": "1934–35",
+        "event": "Costigan–Wagner anti-lynching bill blocked by filibuster"
+      },
+      {
+        "date": "1935",
+        "event": "Works Progress Administration (WPA) created"
+      },
+      {
+        "date": "1936",
+        "event": "Most northern black voters back Roosevelt"
+      },
+      {
+        "date": "1937",
+        "event": "Gavagan anti-lynching bill passes the House only"
+      },
+      {
+        "date": "1938",
+        "event": "Gaines v Canada"
+      },
+      {
+        "date": "April 1939",
+        "event": "Marian Anderson sings at the Lincoln Memorial"
+      },
+      {
+        "date": "June 1941",
+        "event": "Executive Order 8802 and the FEPC"
+      },
+      {
+        "date": "1942",
+        "event": "CORE founded; Double V campaign"
+      },
+      {
+        "date": "June 1943",
+        "event": "Detroit race riot"
+      },
+      {
+        "date": "1944",
+        "event": "Smith v Allwright outlaws the white primary"
+      }
     ],
     "people": [
-      { "name": "Franklin D. Roosevelt", "role": "President 1933–45." },
-      { "name": "Eleanor Roosevelt", "role": "First Lady; advocate for black rights." },
-      { "name": "Mary McLeod Bethune", "role": "Head of Negro Affairs in the NYA; leader of the 'Black Cabinet'." },
-      { "name": "A. Philip Randolph", "role": "Union leader; March on Washington Movement, 1941." },
-      { "name": "Walter White", "role": "NAACP leader; anti-lynching campaigner." },
-      { "name": "Thurgood Marshall", "role": "NAACP lawyer in the legal campaign." },
-      { "name": "Harold Ickes", "role": "Interior Secretary and PWA head; supported black employment." }
+      {
+        "name": "Franklin D. Roosevelt",
+        "role": "President 1933–45."
+      },
+      {
+        "name": "Eleanor Roosevelt",
+        "role": "First Lady; advocate for black rights."
+      },
+      {
+        "name": "Mary McLeod Bethune",
+        "role": "Head of Negro Affairs in the NYA; leader of the 'Black Cabinet'."
+      },
+      {
+        "name": "A. Philip Randolph",
+        "role": "Union leader; March on Washington Movement, 1941."
+      },
+      {
+        "name": "Walter White",
+        "role": "NAACP leader; anti-lynching campaigner."
+      },
+      {
+        "name": "Thurgood Marshall",
+        "role": "NAACP lawyer in the legal campaign."
+      },
+      {
+        "name": "Harold Ickes",
+        "role": "Interior Secretary and PWA head; supported black employment."
+      }
     ],
     "vocab": [
-      { "term": "New Deal", "def": "Roosevelt's programmes for relief, recovery and reform." },
-      { "term": "Filibuster", "def": "Prolonged speaking to block a vote in the Senate." },
-      { "term": "Seniority system", "def": "Committee chairs going to the longest-serving members — often southern Democrats." },
-      { "term": "Double V", "def": "Victory over fascism abroad and racism at home." },
-      { "term": "FEPC", "def": "Fair Employment Practices Committee (1941)." }
+      {
+        "term": "New Deal",
+        "def": "Roosevelt's programmes for relief, recovery and reform."
+      },
+      {
+        "term": "Filibuster",
+        "def": "Prolonged speaking to block a vote in the Senate."
+      },
+      {
+        "term": "Seniority system",
+        "def": "Committee chairs going to the longest-serving members — often southern Democrats."
+      },
+      {
+        "term": "Double V",
+        "def": "Victory over fascism abroad and racism at home."
+      },
+      {
+        "term": "FEPC",
+        "def": "Fair Employment Practices Committee (1941)."
+      }
     ],
     "misconceptions": [
-      { "wrong": "Roosevelt was a civil rights president.", "right": "He offered relief and some symbolic change but avoided civil rights legislation to keep southern Democrat support." },
-      { "wrong": "The New Deal helped all black Americans equally.", "right": "Relief helped many, but the AAA displaced sharecroppers and the NRA and CCC built in discrimination." }
+      {
+        "wrong": "Roosevelt was a civil rights president.",
+        "right": "He offered relief and some symbolic change but avoided civil rights legislation to keep southern Democrat support."
+      },
+      {
+        "wrong": "The New Deal helped all black Americans equally.",
+        "right": "Relief helped many, but the AAA displaced sharecroppers and the NRA and CCC built in discrimination."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s3", "q": "Why did Roosevelt avoid backing anti-lynching bills?", "options": ["He supported lynching", "He needed southern Democrats' votes for the New Deal", "The Supreme Court forbade it", "The NAACP opposed them"], "answer": 1, "why": "Southern Democrats controlled key committees." },
-      { "id": "m2", "s": "s3", "q": "How did the AAA hurt black farmers?", "options": ["It banned black farm ownership", "Landowners took land out of production and evicted tenants", "It raised taxes on cotton", "It ended sharecropping"], "answer": 1, "why": "Payments went to landowners." },
-      { "id": "m3", "s": "s2", "q": "What did Executive Order 8802 do?", "options": ["Desegregated the army", "Banned discrimination in defence industries", "Outlawed lynching", "Ended poll taxes"], "answer": 1, "why": "June 1941, after Randolph's threatened march." },
-      { "id": "m4", "s": "s1", "q": "What happened to black voting patterns in the 1930s?", "options": ["Shifted from Republican to Democrat", "Shifted from Democrat to Republican", "Black voters stopped voting", "No change"], "answer": 0, "why": "Relief programmes won black support for Roosevelt." },
-      { "id": "m5", "s": "s4", "q": "Why is the Marian Anderson concert of 1939 significant?", "options": ["It desegregated concert halls", "Eleanor Roosevelt publicly sided with a black artist against the DAR", "It was the first televised concert", "It raised money for the NAACP"], "answer": 1, "why": "About 75,000 attended at the Lincoln Memorial." },
-      { "id": "m6", "s": "s2", "q": "Which 1944 case outlawed the white primary?", "options": ["Brown v Board", "Smith v Allwright", "Gaines v Canada", "Plessy v Ferguson"], "answer": 1, "why": "Texas white primary declared unconstitutional." }
+      {
+        "id": "m1",
+        "s": "s3",
+        "q": "Why did Roosevelt avoid backing anti-lynching bills?",
+        "options": [
+          "He supported lynching",
+          "He needed southern Democrats' votes for the New Deal",
+          "The Supreme Court forbade it",
+          "The NAACP opposed them"
+        ],
+        "answer": 1,
+        "why": "Southern Democrats controlled key committees."
+      },
+      {
+        "id": "m2",
+        "s": "s3",
+        "q": "How did the AAA hurt black farmers?",
+        "options": [
+          "It banned black farm ownership",
+          "Landowners took land out of production and evicted tenants",
+          "It raised taxes on cotton",
+          "It ended sharecropping"
+        ],
+        "answer": 1,
+        "why": "Payments went to landowners."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "What did Executive Order 8802 do?",
+        "options": [
+          "Desegregated the army",
+          "Banned discrimination in defence industries",
+          "Outlawed lynching",
+          "Ended poll taxes"
+        ],
+        "answer": 1,
+        "why": "June 1941, after Randolph's threatened march."
+      },
+      {
+        "id": "m4",
+        "s": "s1",
+        "q": "What happened to black voting patterns in the 1930s?",
+        "options": [
+          "Shifted from Republican to Democrat",
+          "Shifted from Democrat to Republican",
+          "Black voters stopped voting",
+          "No change"
+        ],
+        "answer": 0,
+        "why": "Relief programmes won black support for Roosevelt."
+      },
+      {
+        "id": "m5",
+        "s": "s4",
+        "q": "Why is the Marian Anderson concert of 1939 significant?",
+        "options": [
+          "It desegregated concert halls",
+          "Eleanor Roosevelt publicly sided with a black artist against the DAR",
+          "It was the first televised concert",
+          "It raised money for the NAACP"
+        ],
+        "answer": 1,
+        "why": "About 75,000 attended at the Lincoln Memorial."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Which 1944 case outlawed the white primary?",
+        "options": [
+          "Brown v Board",
+          "Smith v Allwright",
+          "Gaines v Canada",
+          "Plessy v Ferguson"
+        ],
+        "answer": 1,
+        "why": "Texas white primary declared unconstitutional."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s2", "q": "Who threatened a March on Washington in 1941?", "accept": ["randolph", "a philip randolph", "a. philip randolph", "philip randolph"], "answer": "A. Philip Randolph" },
-      { "id": "a2", "s": "s4", "q": "Who led the NYA's Division of Negro Affairs?", "accept": ["bethune", "mary mcleod bethune", "mary bethune"], "answer": "Mary McLeod Bethune" },
-      { "id": "a3", "s": "s2", "q": "What does FEPC stand for?", "accept": ["fair employment practices committee", "fair employment practices commission", "fair employment practice committee"], "answer": "Fair Employment Practices Committee" },
-      { "id": "a4", "s": "s1", "q": "Which city had a major race riot in June 1943?", "accept": ["detroit"], "answer": "Detroit" }
+      {
+        "id": "a1",
+        "s": "s2",
+        "q": "Who threatened a March on Washington in 1941?",
+        "accept": [
+          "randolph",
+          "a philip randolph",
+          "a. philip randolph",
+          "philip randolph"
+        ],
+        "answer": "A. Philip Randolph"
+      },
+      {
+        "id": "a2",
+        "s": "s4",
+        "q": "Who led the NYA's Division of Negro Affairs?",
+        "accept": [
+          "bethune",
+          "mary mcleod bethune",
+          "mary bethune"
+        ],
+        "answer": "Mary McLeod Bethune"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "What does FEPC stand for?",
+        "accept": [
+          "fair employment practices committee",
+          "fair employment practices commission",
+          "fair employment practice committee"
+        ],
+        "answer": "Fair Employment Practices Committee"
+      },
+      {
+        "id": "a4",
+        "s": "s1",
+        "q": "Which city had a major race riot in June 1943?",
+        "accept": [
+          "detroit"
+        ],
+        "answer": "Detroit"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these in order", "items": ["AAA and NRA", "Costigan–Wagner bill blocked", "WPA created", "Marian Anderson concert", "Executive Order 8802", "Detroit riot", "Smith v Allwright"] }
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "AAA and NRA",
+          "Costigan–Wagner bill blocked",
+          "WPA created",
+          "Marian Anderson concert",
+          "Executive Order 8802",
+          "Detroit riot",
+          "Smith v Allwright"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the agency to its impact on black Americans", "pairs": [["AAA", "Evictions of black tenants and sharecroppers"], ["CCC", "Segregated camps"], ["NRA", "Lower wage rates allowed"], ["WPA", "Jobs and literacy classes"], ["PWA", "Targets for black employment; housing"]] }
+      {
+        "id": "x1",
+        "title": "Match the agency to its impact on black Americans",
+        "pairs": [
+          [
+            "AAA",
+            "Evictions of black tenants and sharecroppers"
+          ],
+          [
+            "CCC",
+            "Segregated camps"
+          ],
+          [
+            "NRA",
+            "Lower wage rates allowed"
+          ],
+          [
+            "WPA",
+            "Jobs and literacy classes"
+          ],
+          [
+            "PWA",
+            "Targets for black employment; housing"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s3", "q": "Give precise evidence of the influence of southern Democrats.", "keywords": [["costigan", "gavagan", "filibuster", "lynch", "seniority", "committee"]], "model": "Southern filibusters killed the Costigan–Wagner (1934–35) and Gavagan (1937) anti-lynching bills; seniority gave southern Democrats key committee chairs." },
-      { "id": "e2", "s": "s4", "q": "Give precise evidence of positive federal action 1933–45.", "keywords": [["8802", "fepc", "wpa", "pwa", "bethune", "black cabinet", "anderson"]], "model": "WPA jobs and literacy classes; PWA employment targets; the Black Cabinet; Executive Order 8802 and the FEPC (1941)." }
+      {
+        "id": "e1",
+        "s": "s3",
+        "q": "Give precise evidence of the influence of southern Democrats.",
+        "keywords": [
+          [
+            "costigan",
+            "gavagan",
+            "filibuster",
+            "lynch",
+            "seniority",
+            "committee"
+          ]
+        ],
+        "model": "Southern filibusters killed the Costigan–Wagner (1934–35) and Gavagan (1937) anti-lynching bills; seniority gave southern Democrats key committee chairs."
+      },
+      {
+        "id": "e2",
+        "s": "s4",
+        "q": "Give precise evidence of positive federal action 1933–45.",
+        "keywords": [
+          [
+            "8802",
+            "fepc",
+            "wpa",
+            "pwa",
+            "bethune",
+            "black cabinet",
+            "anderson"
+          ]
+        ],
+        "model": "WPA jobs and literacy classes; PWA employment targets; the Black Cabinet; Executive Order 8802 and the FEPC (1941)."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "Why did black voters switch to the Democrats in the 1930s?", "a": "New Deal relief and jobs reached poor black families; Eleanor Roosevelt's visible support.", "hint": "Relief." },
-    { "id": "f2", "s": "s1", "q": "How did black settlement change 1933–45?", "a": "Migration slowed in the Depression, then surged to northern and western war-industry cities in the 1940s; crowded segregated neighbourhoods.", "hint": "War jobs." },
-    { "id": "f3", "s": "s2", "q": "What was the NAACP's legal strategy?", "a": "Challenge unequal provision in education through the courts (Houston, Marshall) — e.g. Gaines v Canada (1938).", "hint": "Courts." },
-    { "id": "f4", "s": "s3", "q": "Give three ways New Deal agencies discriminated.", "a": "AAA evictions; segregated CCC camps; NRA lower wage rates for black-dominated jobs.", "hint": "AAA, CCC, NRA." },
-    { "id": "f5", "s": "s3", "q": "What was the position of black servicemen in WWII?", "a": "About a million served in segregated units, often in labour roles; some combat units like the Tuskegee Airmen.", "hint": "Segregated." },
-    { "id": "f6", "s": "s4", "q": "What was the 'Black Cabinet'?", "a": "Informal black advisers to the administration, including Bethune and Weaver.", "hint": "Advisers." },
-    { "id": "f7", "s": "s2", "q": "Why was Executive Order 8802 significant?", "a": "First major federal action against employment discrimination since Reconstruction — won by the threat of mass protest.", "hint": "Randolph." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Why did black voters switch to the Democrats in the 1930s?",
+      "a": "New Deal relief and jobs reached poor black families; Eleanor Roosevelt's visible support.",
+      "hint": "Relief."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "How did black settlement change 1933–45?",
+      "a": "Migration slowed in the Depression, then surged to northern and western war-industry cities in the 1940s; crowded segregated neighbourhoods.",
+      "hint": "War jobs."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "What was the NAACP's legal strategy?",
+      "a": "Challenge unequal provision in education through the courts (Houston, Marshall) — e.g. Gaines v Canada (1938).",
+      "hint": "Courts."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "Give three ways New Deal agencies discriminated.",
+      "a": "AAA evictions; segregated CCC camps; NRA lower wage rates for black-dominated jobs.",
+      "hint": "AAA, CCC, NRA."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "What was the position of black servicemen in WWII?",
+      "a": "About a million served in segregated units, often in labour roles; some combat units like the Tuskegee Airmen.",
+      "hint": "Segregated."
+    },
+    {
+      "id": "f6",
+      "s": "s4",
+      "q": "What was the 'Black Cabinet'?",
+      "a": "Informal black advisers to the administration, including Bethune and Weaver.",
+      "hint": "Advisers."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Why was Executive Order 8802 significant?",
+      "a": "First major federal action against employment discrimination since Reconstruction — won by the threat of mass protest.",
+      "hint": "Randolph."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "explain", "text": "I can explain changes in black settlement and voting patterns, 1933–45.", "sections": ["s1"] },
-    { "id": "k2", "level": "judge", "text": "I can assess the impact of pressure groups, including the NAACP.", "sections": ["s2"] },
-    { "id": "k3", "level": "judge", "text": "I can judge the significance of southern Democrat influence and Congress's failure to address black grievances.", "sections": ["s3"] },
-    { "id": "k4", "level": "explain", "text": "I can explain the effects of the AAA, CCC and NRA on black Americans.", "sections": ["s3"] },
-    { "id": "k5", "level": "judge", "text": "I can evaluate the positive impact of the New Deal, Eleanor Roosevelt and wartime federal policy.", "sections": ["s4"] }
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain changes in black settlement and voting patterns, 1933–45.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "judge",
+      "text": "I can assess the impact of pressure groups, including the NAACP.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "judge",
+      "text": "I can judge the significance of southern Democrat influence and Congress's failure to address black grievances.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain the effects of the AAA, CCC and NRA on black Americans.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can evaluate the positive impact of the New Deal, Eleanor Roosevelt and wartime federal policy.",
+      "sections": [
+        "s4"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "u3b", "label": "Teacher-created practice question", "sections": ["s3", "s4"],
-        "q": "‘The federal government did more to help than to hinder black Americans in the years 1883–c1900 and 1933–45.’\nHow far do you agree with this statement?" }
+      {
+        "id": "q1",
+        "qtype": "u3b",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s3",
+          "s4"
+        ],
+        "q": "‘The federal government did more to help than to hinder black Americans in the years 1883–c1900 and 1933–45.’\nHow far do you agree with this statement?"
+      },
+      {
+        "id": "pp-whi031d-january2023-1",
+        "qtype": "u3a",
+        "label": "Past paper: WHI03/1D, January 2023, Q1 (Sources 1 and 2 are in the paper)",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "January 2023",
+          "part": "Q1"
+        },
+        "sections": [],
+        "q": "How far could the historian make use of Sources 1 and 2 together to investigate the effectiveness of Roosevelt’s New Deal in helping black Americans?\nExplain your answer, using both sources, the information given about them and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "The AAA (1933) paid farmers to produce less",
+            "sharecroppers were often evicted",
+            "the WPA provided work for hundreds of thousands of black Americans a year"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi031d-june2021-1",
+        "qtype": "u3a",
+        "label": "Past paper: WHI03/1D, June 2021, Q1 (Sources 1 and 2 are in the paper)",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "June 2021",
+          "part": "Q1"
+        },
+        "sections": [],
+        "q": "How far could the historian make use of Sources 1 and 2 together to investigate attempts to introduce anti-lynching legislation in the 1930s?\nExplain your answer, using both sources, the information given about them and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "The NAACP aimed to avoid repeating earlier anti-lynching failures",
+            "lynchings rose in 1933, creating urgency",
+            "Roosevelt relied on Southern Democrats and avoided backing the bill"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi031d-june2019-1",
+        "qtype": "u3a",
+        "label": "Past paper: WHI03/1D, June 2019, Q1 (Sources 1 and 2 are in the paper)",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "June 2019",
+          "part": "Q1"
+        },
+        "sections": [],
+        "q": "How far could the historian make use of Sources 1 and 2 together to investigate attitudes towards racial discrimination during Roosevelt’s presidency?\nExplain your answer, using both sources, the information given about them and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "Southern pressure led to segregation within the CCC (1935)",
+            "hundreds of thousands of young black Americans joined the CCC",
+            "the threatened March on Washington prompted Executive Order 8802 and the FEPC (1941)"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi031d-january2018-2",
+        "qtype": "u3b",
+        "label": "Past paper: WHI03/1D, January 2018, Q2",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "January 2018",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "‘President Lyndon Johnson was more effective in addressing the problems facing black Americans than President Franklin Roosevelt.’\nHow far do you agree with this statement?",
+        "ms": {
+          "support": [
+            "The Civil Rights Act (1964) ended legal segregation",
+            "the Voting Rights Act (1965) outlawed literacy tests",
+            "the Fair Housing Act (1968)",
+            "Thurgood Marshall became the first black Supreme Court justice"
+          ],
+          "challenge": [
+            "The WPA employed around a million black Americans by 1939",
+            "Roosevelt appointed black advisers such as Mary McLeod Bethune (the 'Black Cabinet')",
+            "Johnson's laws did not prevent hundreds of riots 1964–68",
+            "the New Deal offered unprecedented economic aid"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi031d-january2017-2",
+        "qtype": "u3b",
+        "label": "Past paper: WHI03/1D, January 2017, Q2",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "January 2017",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "‘Roosevelt’s time as President failed to seriously address the political and economic problems which black Americans had faced since the late nineteenth century.’\nHow far do you agree with this judgement?",
+        "ms": {
+          "support": [
+            "Jim Crow laws persisted and anti-lynching bills failed",
+            "lynchings rose in Roosevelt's first year",
+            "Southern Democrats kept influence in the party",
+            "New Deal agencies and housing policy disadvantaged black Americans"
+          ],
+          "challenge": [
+            "New Deal aid broke sharply with earlier policy",
+            "Grovey v Townsend (1935)",
+            "71% of black voters backed Roosevelt in 1936",
+            "the WPA employed around a million black Americans by 1939"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi031d-specimen-1",
+        "qtype": "u3a",
+        "label": "Past paper: WHI03/1D, Specimen, Q1 (Sources 1 and 2 are in the paper)",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "Specimen",
+          "part": "Q1"
+        },
+        "sections": [],
+        "q": "How far could the historian make use of Sources 1 and 2 together to investigate race relations in the USA during the Second World War?\nExplain your answer, using both sources, the information given about them and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Competing arguments", "task": "'A raw deal or a new deal?' Weigh the AAA and NRA against the WPA, PWA and Black Cabinet, judging by scope and impact." },
-    { "id": "t2", "kind": "Change and continuity", "task": "How far did the Second World War change race relations by 1945? Separate changes in expectations from changes in law." },
-    { "id": "t3", "kind": "Causal links", "task": "Link migration, the northern black vote and Executive Order 8802. Why could Roosevelt not ignore Randolph in 1941?" }
+    {
+      "id": "t1",
+      "kind": "Competing arguments",
+      "task": "'A raw deal or a new deal?' Weigh the AAA and NRA against the WPA, PWA and Black Cabinet, judging by scope and impact."
+    },
+    {
+      "id": "t2",
+      "kind": "Change and continuity",
+      "task": "How far did the Second World War change race relations by 1945? Separate changes in expectations from changes in law."
+    },
+    {
+      "id": "t3",
+      "kind": "Causal links",
+      "task": "Link migration, the northern black vote and Executive Order 8802. Why could Roosevelt not ignore Randolph in 1941?"
+    }
   ]
 }

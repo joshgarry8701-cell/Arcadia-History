@@ -382,11 +382,32 @@
       {
         "id": "q1",
         "qtype": "p1b",
-        "label": "Past paper: 4HI1/01, June 2025, Q7(b)",
+        "label": "Past paper: 4HI1/01, June 2019, Q7(b)",
         "sections": [
           "s2"
         ],
-        "q": "Explain two effects of the Watergate scandal on US politics."
+        "q": "Explain two effects of the Watergate scandal on US politics.",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2019",
+          "part": "Q7(b)"
+        },
+        "ms": {
+          "points": [
+            "Freedom of information and campaign finance laws",
+            "Nixon's resignation weakened the presidency",
+            "Democrats won Congress in 1974 and Carter won in 1976"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/01 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-01-pef-20250821.pdf",
+          "strong": [
+            "Common effects: loss of trust, a weakened presidency, new laws, the end of Nixon’s career, Democratic gains.",
+            "Precise knowledge of the effects on US politics gave the strongest answers."
+          ],
+          "weak": []
+        }
       },
       {
         "id": "q2",
@@ -400,6 +421,132 @@
           "the Washington Post",
           "the White House tapes"
         ]
+      },
+      {
+        "id": "pp-4hi101-june2024-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2024, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2024",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The most significant feature of the Watergate Scandal was the impact on the presidency.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "the presidency",
+          "new laws"
+        ],
+        "ms": {
+          "support": [
+            "Resignations and the cover-up weakened presidential authority",
+            "the Supreme Court's tapes ruling and impeachment forced Nixon out",
+            "Ford's pardon damaged confidence"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2023-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, June 2023, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2023",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of the new laws that were introduced as a result of the Watergate Scandal.",
+        "ms": {
+          "points": [
+            "The War Powers Act (1973)",
+            "the 1974 campaign finance amendments",
+            "the Budget and Impoundment Control Act (1974)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2021-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2021, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2021",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The main reason for the introduction of new laws to control US politics in the 1970s was the Watergate scandal.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "the Watergate scandal",
+          "the Vietnam War"
+        ],
+        "ms": {
+          "support": [
+            "Freedom of information and campaign finance laws",
+            "the War Powers Act (1973) and Privacy Act (1974)",
+            "the Budget Control Act (1974)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2020-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2020, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2020",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The most significant feature of the Watergate scandal was new laws which resulted from it.’\nHow far do you agree?\nExplain your answer.",
+        "ms": {
+          "support": [
+            "Freedom of information and campaign finance laws",
+            "the War Powers Act (1973)",
+            "the Budget Control Act (1974)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2022-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2022, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2022",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The main consequence of the Watergate scandal was new laws.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "new laws",
+          "Gerald Ford"
+        ],
+        "ms": {
+          "support": [
+            "Congress overrode Nixon's veto to pass the War Powers Act (1973)",
+            "the 1974 campaign finance amendments",
+            "the Privacy Act and Budget Act (1974)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2019-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01R, June 2019, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2019",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the situation Gerald Ford faced as president? You must use Extract G to explain your answer.",
+        "ms": {
+          "points": [
+            "Ford is shown facing severe difficulties after Watergate",
+            "blamed especially for pardoning Nixon",
+            "falling approval ratings and mockery"
+          ]
+        }
       }
     ]
   },

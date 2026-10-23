@@ -420,7 +420,7 @@
       {
         "id": "q1",
         "qtype": "u2c",
-        "label": "Past paper: WHI02/1B, May 2025, Q4",
+        "label": "Past paper: WHI02/1B, June 2025, Q4",
         "sections": [
           "s2"
         ],
@@ -451,7 +451,26 @@
             "n": "Conclusion: ranks the developments against the criteria and covers the whole date range."
           }
         ],
-        "model_note": "Illustrative model written for this site (introduction, one PEEJ paragraph and conclusion), following the department factor frame. It is not a Pearson exemplar."
+        "model_note": "Illustrative model written for this site (introduction, one PEEJ paragraph and conclusion), following the department factor frame. It is not a Pearson exemplar.",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2025",
+          "part": "Q4"
+        },
+        "ms": {
+          "support": [
+            "Trained doctors remained scarce",
+            "around a million barefoot doctors treated rural ailments",
+            "they spread basic medical knowledge",
+            "the scheme won WHO praise"
+          ],
+          "challenge": [
+            "Barefoot doctors had only months of training and limited care",
+            "peasants sometimes distrusted them",
+            "urban hospitals received most investment",
+            "sanitation campaigns may have done more"
+          ]
+        }
       },
       {
         "id": "q2",
@@ -460,7 +479,26 @@
         "sections": [
           "s3"
         ],
-        "q": "How accurate is it to say that the main consequence of the Cultural Revolution (1966–76) was the strengthening of Mao's control over China?"
+        "q": "How accurate is it to say that the main consequence of the Cultural Revolution (1966–76) was the strengthening of Mao's control over China?",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2025",
+          "part": "Q4"
+        },
+        "ms": {
+          "support": [
+            "Over 70% of local party officials removed by 1969",
+            "rivals such as Liu Shaoqi purged",
+            "the cult of Mao peaked",
+            "the Cultural Revolution Group enforced obedience to Mao"
+          ],
+          "challenge": [
+            "The Gang of Four later exploited Mao's weakness",
+            "Jiang Qing's censorship destroyed creativity",
+            "education and healthcare suffered, with schools closed 1966–70",
+            "industrial output fell and many were killed"
+          ]
+        }
       },
       {
         "id": "q3",
@@ -470,6 +508,517 @@
           "s1"
         ],
         "q": "How far did the status of women in China change in the years 1900–76?"
+      },
+      {
+        "id": "pp-whi021b-june2024-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1B, June 2024, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2024",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the freedoms granted to women in the 1950 Marriage Law?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "The 1950 Marriage Law banned arranged marriages, dowries and concubinage and gave divorce and property rights",
+            "enforcement in rural areas was weak",
+            "divorced women were often outcasts in the countryside"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021b-january2024-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1B, January 2024, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2024",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the impact of the Cultural Revolution (1966–76) on families?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "The traditional family was one of the 'Four Olds'",
+            "children were told Mao and the CCP were their true parents",
+            "young people were urged to denounce relatives with 'bourgeois' values"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021b-january2024-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2024, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2024",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the Communist regime succeeded in suppressing the influence of all religions in China in the years 1949–76?",
+        "ms": {
+          "support": [
+            "Buddhism was restricted and the 1959 crackdown in Tibet destroyed monasteries",
+            "Confucius' hometown ransacked and ancestor worship attacked",
+            "churches closed and Protestant missionaries expelled by 1952",
+            "few Catholic missionaries remained by 1953"
+          ],
+          "challenge": [
+            "Buddhism remained widely practised",
+            "Confucian family values stayed ingrained",
+            "Christians continued worshipping privately",
+            "Islam endured and mosques stayed open"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2023-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, June 2023, Q3",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2023",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "To what extent did cultural influences in China change in the years 1900–49?",
+        "ms": {
+          "support": [
+            "The New Culture Movement rejected Confucianism for democracy and science",
+            "May Fourth and GMD nationalism displaced Confucian influence",
+            "American culture and Marxism spread in the 1930s–40s"
+          ],
+          "challenge": [
+            "Confucian norms persisted at all levels",
+            "Chiang's New Life Movement revived Confucian values",
+            "Buddhism, Islam and Christianity stayed influential"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2023-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2023, Q2",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2023",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the spread of Christianity was the most significant cultural development in China in the first half of the 20th century?",
+        "ms": {
+          "support": [
+            "Christian missions campaigned against foot binding and female infanticide",
+            "missionary schools educated girls",
+            "Chiang, Soong Mei-ling and Sun Yat-sen were Christians",
+            "converts and churches grew rapidly after the Boxer Rising"
+          ],
+          "challenge": [
+            "Most Chinese never embraced Christianity",
+            "Marxism's growth shaped the CCP and 1949",
+            "GMD nationalism and the New Life Movement promoted state values",
+            "Confucian traditions such as patriarchy stayed central"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2022-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1B, June 2022, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2022",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the impact of the Cultural Revolution on education?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "Teachers were early victims in June 1966",
+            "schools and universities closed in summer 1966",
+            "reopened curricula added physical labour"
+          ]
+        },
+        "exq": {
+          "series": "WHI02/1B examiner report, Summer 2022 (online copy)",
+          "url": "https://papers.xtremepape.rs/Edexcel/Advanced%20Level/History/2022%20Jun/Examiner-report/Examinerreport-Unit2B-June2022.pdf",
+          "strong": [
+            "Make valid inferences from the content, e.g. about indoctrination, developed with context."
+          ],
+          "weak": [
+            "Writing only about provenance; discussing limitations, which earn no credit in (a)."
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021b-january2022-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2022, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2022",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "To what extent did healthcare in China improve in the years 1949–76?",
+        "ms": {
+          "support": [
+            "1950s hygiene campaigns targeted prevention",
+            "hospitals and commune clinics expanded",
+            "by 1976 most villages had barefoot doctors",
+            "trained doctors rose greatly from 1949 to 1965"
+          ],
+          "challenge": [
+            "Shortages of hospitals, staff and equipment persisted in rural areas",
+            "barefoot doctors gave only basic care",
+            "healthcare was a low budget priority",
+            "doctors were attacked in the Cultural Revolution"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2021-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1B, June 2021, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2021",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the promotion of change in relations between men and women in communist China in the years 1949–66?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "Pre-1949 marriages were arranged by families",
+            "the 1950 Marriage Law banned arranged marriages and dowries and gave equal divorce rights",
+            "matchmaking persisted in rural areas"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021b-january2021-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2021, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2021",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "To what extent was the status of women in China during the Communist regime under Mao (1949–76) similar to the status of women in China in the years 1900–49?",
+        "ms": {
+          "support": [
+            "Traditional rural attitudes to women persisted",
+            "property passed to the commune after 1949",
+            "childbirth and housework still defined women's roles",
+            "sons still valued over daughters"
+          ],
+          "challenge": [
+            "Arranged marriages and dowries forbidden after 1949",
+            "women gained committee seats and some high posts",
+            "women's share of paid work and wages rose",
+            "girls' schooling expanded beyond earlier limits"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2020-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2020, Q2",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2020",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "To what extent did education provision in China change in the years 1900–49?",
+        "ms": {
+          "support": [
+            "1905 reforms abolished the exams and created modern schools",
+            "curricula shifted from Confucianism to Western and civic subjects",
+            "missionary schools had to appoint Chinese principals after 1924",
+            "girls' schooling rose"
+          ],
+          "challenge": [
+            "Missionary schools kept their strong reputations",
+            "compulsory schooling made limited progress",
+            "secondary attendance stayed small",
+            "girls remained a minority and illiteracy stayed high"
+          ]
+        },
+        "exq": {
+          "series": "WHI01/1C examiner report, January 2020",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI01_1C_pef_20200305.pdf",
+          "strong": [
+            "Weigh elections against other factors with explicit criteria."
+          ],
+          "weak": [
+            "Many listed reasons for collapse without addressing the stated view."
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2020-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2020, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2020",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the lifestyles of women living in the towns and the lifestyles of women living in the rural areas in China, in the years 1950–76, were very similar?",
+        "ms": {
+          "support": [
+            "The 1950 Marriage Law gave urban and rural women equal rights",
+            "both combined domestic duties with paid work",
+            "kindergartens provided in towns and countryside",
+            "women gained committee roles"
+          ],
+          "challenge": [
+            "Rural traditions resisted free marriage choice",
+            "rural women faced more discrimination in pay and jobs",
+            "the famine hit rural women harder",
+            "urban female literacy rose faster"
+          ]
+        },
+        "exq": {
+          "series": "WHI01/1C examiner report, January 2020",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI01_1C_pef_20200305.pdf",
+          "strong": [
+            "Use secure knowledge of the war at sea and weigh it against other factors."
+          ],
+          "weak": [
+            "Knowledge of the war at sea was often weak; very broad readings of ‘factor’ lost depth."
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2019-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, June 2019, Q2",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2019",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1900–49, the lives of women in China remained unchanged?",
+        "ms": {
+          "support": [
+            "Women treated as property of fathers, then husbands",
+            "most pre-1945 marriages were arranged",
+            "foot binding survived into the 1940s",
+            "women's work centred on the home"
+          ],
+          "challenge": [
+            "The CCP promoted equality in the Jiangxi and Yan'an soviets",
+            "foot binding was outlawed",
+            "the New Culture Movement promoted free-choice marriage",
+            "education reached more women"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2019-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2019, Q2",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2019",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1919–31, the main consequence of the May the Fourth Movement was the rejection of Confucian thought?",
+        "ms": {
+          "support": [
+            "May Fourth activists blamed Confucian deference for China's 1919 humiliation",
+            "a clear break with Qing-era tradition",
+            "rejection of patriarchy and reverence for elders",
+            "championing Western science"
+          ],
+          "challenge": [
+            "Its ideas had roots in the New Culture Movement of the 1910s",
+            "Confucianism stayed embedded in everyday life",
+            "rising nationalism and the GMD's growth mattered more",
+            "it helped launch communism through Chen Duxiu and Mao"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2018-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1B, June 2018, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2018",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into changes in the treatment of women in Communist China in the early 1950s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "Before 1949 women were effectively the property of fathers and husbands",
+            "campaigns against female infanticide",
+            "the All-China Women's Federation (1949) encouraged political participation"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021b-january2018-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2018, Q3",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2018",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far did the lives of women in China improve during the years 1949–76?",
+        "ms": {
+          "support": [
+            "The 1950 Marriage Law banned arranged marriages and dowries",
+            "family planning let women limit births",
+            "women gained votes and local committee roles",
+            "workforce participation and girls' schooling rose"
+          ],
+          "challenge": [
+            "Matchmaking and gift exchanges persisted in rural areas",
+            "few women reached high Party ranks",
+            "women received fewer work points and kept the domestic burden",
+            "women sent back to domestic roles after PLA service"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2018-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2018, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2018",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the main consequence of the Cultural Revolution was the damage to education in China?",
+        "ms": {
+          "support": [
+            "Teachers persecuted, some beaten to death",
+            "schools closed in 1966 and were not properly revived",
+            "students sent to the countryside",
+            "very few Chinese held degrees by the early 1980s"
+          ],
+          "challenge": [
+            "Closures were temporary, with schools reopening from 1968",
+            "purges consolidated Mao's power",
+            "industrial output fell in 1966–67 and 1970",
+            "healthcare suffered as doctors were attacked"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2017-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, June 2017, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2017",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How far did the lives of women living in the countryside differ from those living in urban areas in the years 1950–76?",
+        "ms": {
+          "support": [
+            "Commune women earned fewer work points",
+            "rural women had less education and fewer jobs",
+            "opposition to the Marriage Law and wife-selling persisted in villages",
+            "contraception less successful in rural areas"
+          ],
+          "challenge": [
+            "The Marriage Law applied to town and country alike",
+            "both kept domestic duties",
+            "women in both were affected by the Cultural Revolution"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2017-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2017, Q3",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2017",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "To what extent did the treatment of religion in China change in the years 1949–76?",
+        "ms": {
+          "support": [
+            "Confucian temples were preserved as museums, then attacked in the Cultural Revolution",
+            "ancestor worship discouraged and Mao portraits replaced shrines",
+            "churches pressed into 'patriotic' churches, with persecution escalating",
+            "Xinjiang's 1955 autonomy gave way to anti-Islam campaigns"
+          ],
+          "challenge": [
+            "The Party denounced religion from 1949",
+            "the 1951 Religious Affairs Department expelled missionaries and took over church schools",
+            "mosques stayed open partly for foreign-policy reasons",
+            "Buddhism was attacked from 1950 through land reform, the Great Leap and the Cultural Revolution"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2016-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1B, June 2016, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2016",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the reactions to the 1950 Marriage Law in China?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "The 1950 Marriage Law banned arranged marriages and bride-price and allowed divorce",
+            "peasants resisted changes to family life",
+            "the CCP promoted the law through press, radio and posters"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021b-june2016-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, June 2016, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2016",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that there was continuous improvement in education and healthcare provision in China in the years 1949–76?",
+        "ms": {
+          "support": [
+            "Literacy rose 1949–64 through primary education",
+            "higher education expanded greatly to 1966",
+            "barefoot doctors covered most villages by 1976 and sanitation cut mortality",
+            "pinyin eased learning"
+          ],
+          "challenge": [
+            "The Korean War and the Cultural Revolution disrupted progress",
+            "elite schools limited access",
+            "school closures in 1966–70",
+            "rural hospital treatment remained limited"
+          ]
+        }
       }
     ]
   },

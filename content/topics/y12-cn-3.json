@@ -1,123 +1,1018 @@
 {
-  "id": "y12-cn-3", "course": "y12", "area": "cn", "kt": "Key topic 3", "order": 13,
+  "id": "y12-cn-3",
+  "course": "y12",
+  "area": "cn",
+  "kt": "Key topic 3",
+  "order": 13,
   "title": "Economic changes, 1900–76",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following the IAL specification (Issue 6), Option 1B key topic 3. Production and death-toll figures vary between historians; check against class resources." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following the IAL specification (Issue 6), Option 1B key topic 3. Production and death-toll figures vary between historians; check against class resources."
+  },
   "learn": {
     "intro": "China's economy grew in patches before 1949 — railways, Shanghai's mills, Japanese Manchuria — but war and civil strife held it back. Mao then tried to force the pace, with Soviet-style planning, the disaster of the Great Leap Forward, recovery and renewed chaos.",
     "sections": [
       {
-        "id": "s1", "title": "1. Growth and development, 1900–27",
+        "id": "s1",
+        "title": "1. Growth and development, 1900–27",
         "blocks": [
-          { "p": "Improving communications: railways expanded rapidly, often built with foreign loans and control — for example the Beijing–Hankou line (completed 1906). Railways moved goods and troops faster and linked inland areas to ports, but foreign ownership caused resentment: protests over railway nationalisation helped spark the 1911 revolution." },
-          { "p": "The telegraph linked cities and allowed faster government and business communication — and the rapid spread of news, for example during the 1911 revolution." },
-          { "p": "River traffic: steamships on the Yangtze and other rivers, many foreign-owned, carried most bulk trade. Rivers remained cheaper for heavy goods than rail, so historians debate which mattered more." },
-          { "p": "Native industry: during the First World War European imports fell, giving Chinese-owned cotton mills and flour mills a 'golden age' of growth. Shanghai became China's main industrial and financial centre, with foreign and Chinese factories, banks and a growing working class — which made it a centre of labour protest in the 1920s." }
+          {
+            "p": "Improving communications: railways expanded rapidly, often built with foreign loans and control — for example the Beijing–Hankou line (completed 1906). Railways moved goods and troops faster and linked inland areas to ports, but foreign ownership caused resentment: protests over railway nationalisation helped spark the 1911 revolution."
+          },
+          {
+            "p": "The telegraph linked cities and allowed faster government and business communication — and the rapid spread of news, for example during the 1911 revolution."
+          },
+          {
+            "p": "River traffic: steamships on the Yangtze and other rivers, many foreign-owned, carried most bulk trade. Rivers remained cheaper for heavy goods than rail, so historians debate which mattered more."
+          },
+          {
+            "p": "Native industry: during the First World War European imports fell, giving Chinese-owned cotton mills and flour mills a 'golden age' of growth. Shanghai became China's main industrial and financial centre, with foreign and Chinese factories, banks and a growing working class — which made it a centre of labour protest in the 1920s."
+          }
         ],
-        "terms": ["railway", "telegraph", "river traffic", "textile industry", "Shanghai"],
-        "evidence": ["1906: Beijing–Hankou railway completed.", "1911: railway protests help spark revolution.", "1914–18: 'golden age' for Chinese-owned industry."]
+        "terms": [
+          "railway",
+          "telegraph",
+          "river traffic",
+          "textile industry",
+          "Shanghai"
+        ],
+        "evidence": [
+          "1906: Beijing–Hankou railway completed.",
+          "1911: railway protests help spark revolution.",
+          "1914–18: 'golden age' for Chinese-owned industry."
+        ]
       },
       {
-        "id": "s2", "title": "2. Economic performance, 1927–49",
+        "id": "s2",
+        "title": "2. Economic performance, 1927–49",
         "blocks": [
-          { "p": "Industry in Japanese-controlled Manchuria: Japan invested heavily in Manchukuo — coal, steel (for example at Anshan), railways and power. By the late 1930s Manchuria was the most industrialised part of China, but it served Japan's war economy, not Chinese needs." },
-          { "p": "T. V. Soong, finance minister for the Nanjing government, set up the Central Bank of China (1928), won back control over tariffs from the foreign powers, and tried to balance the budget. The China Development Finance Corporation (1934) was meant to channel investment into industry and infrastructure. Successes were limited: military spending on the anti-communist campaigns swallowed most revenue." },
-          { "p": "The negative impact of war and civil strife: the Japanese invasion from 1937 destroyed much coastal industry and cut the GMD off from its tax base. Printing money to pay for war caused hyperinflation in the 1940s; the gold yuan currency introduced in 1948 collapsed within months. Peasants suffered heavy taxes, conscription and famine (for example in Henan in 1942–43)." }
+          {
+            "p": "Industry in Japanese-controlled Manchuria: Japan invested heavily in Manchukuo — coal, steel (for example at Anshan), railways and power. By the late 1930s Manchuria was the most industrialised part of China, but it served Japan's war economy, not Chinese needs."
+          },
+          {
+            "p": "T. V. Soong, finance minister for the Nanjing government, set up the Central Bank of China (1928), won back control over tariffs from the foreign powers, and tried to balance the budget. The China Development Finance Corporation (1934) was meant to channel investment into industry and infrastructure. Successes were limited: military spending on the anti-communist campaigns swallowed most revenue."
+          },
+          {
+            "p": "The negative impact of war and civil strife: the Japanese invasion from 1937 destroyed much coastal industry and cut the GMD off from its tax base. Printing money to pay for war caused hyperinflation in the 1940s; the gold yuan currency introduced in 1948 collapsed within months. Peasants suffered heavy taxes, conscription and famine (for example in Henan in 1942–43)."
+          }
         ],
-        "terms": ["Manchukuo", "T. V. Soong", "tariff autonomy", "hyperinflation"],
-        "evidence": ["1928: Central Bank of China.", "1934: China Development Finance Corporation.", "1937 onward: war destroys coastal industry.", "1948: gold yuan collapses."]
+        "terms": [
+          "Manchukuo",
+          "T. V. Soong",
+          "tariff autonomy",
+          "hyperinflation"
+        ],
+        "evidence": [
+          "1928: Central Bank of China.",
+          "1934: China Development Finance Corporation.",
+          "1937 onward: war destroys coastal industry.",
+          "1948: gold yuan collapses."
+        ]
       },
       {
-        "id": "s3", "title": "3. Forcing the pace, 1949–76",
+        "id": "s3",
+        "title": "3. Forcing the pace, 1949–76",
         "blocks": [
-          { "p": "Collectivisation: after land reform gave peasants land, the Party moved them step by step into mutual aid teams, then cooperatives, then larger collectives by 1956–57. The First Five-Year Plan (1953–57), with Soviet help, focused on heavy industry; steel, coal and electricity output rose sharply, though agriculture lagged." },
-          { "p": "The Great Leap Forward (1958–62): Mao aimed to overtake Britain's industrial output within 15 years. Peasants were organised into huge people's communes with communal kitchens; millions worked on backyard furnaces producing mostly useless iron; Lysenko-inspired farming methods such as close planting failed. Officials, fearful after the Anti-Rightist Campaign, reported fictional harvests, so grain was taken from starving villages." },
-          { "p": "Consequences: the famine of 1959–61 killed tens of millions — estimates range from about 15 million to over 40 million. Industry and agriculture were badly damaged and the Sino-Soviet split removed aid. Peng Dehuai's criticism at Lushan (1959) was punished, which prolonged the disaster." },
-          { "p": "Recovery and chaos 1962–76: Liu Shaoqi and Deng Xiaoping allowed private plots, rural markets and material incentives — Deng's phrase that it does not matter whether a cat is black or white, so long as it catches mice. Output recovered. The Cultural Revolution (from 1966) disrupted industry and transport, especially in 1966–68, and the 'Third Front' moved industry inland for defence at great cost. The economy grew in the 1970s but remained poor and inefficient." }
+          {
+            "p": "Collectivisation: after land reform gave peasants land, the Party moved them step by step into mutual aid teams, then cooperatives, then larger collectives by 1956–57. The First Five-Year Plan (1953–57), with Soviet help, focused on heavy industry; steel, coal and electricity output rose sharply, though agriculture lagged."
+          },
+          {
+            "p": "The Great Leap Forward (1958–62): Mao aimed to overtake Britain's industrial output within 15 years. Peasants were organised into huge people's communes with communal kitchens; millions worked on backyard furnaces producing mostly useless iron; Lysenko-inspired farming methods such as close planting failed. Officials, fearful after the Anti-Rightist Campaign, reported fictional harvests, so grain was taken from starving villages."
+          },
+          {
+            "p": "Consequences: the famine of 1959–61 killed tens of millions — estimates range from about 15 million to over 40 million. Industry and agriculture were badly damaged and the Sino-Soviet split removed aid. Peng Dehuai's criticism at Lushan (1959) was punished, which prolonged the disaster."
+          },
+          {
+            "p": "Recovery and chaos 1962–76: Liu Shaoqi and Deng Xiaoping allowed private plots, rural markets and material incentives — Deng's phrase that it does not matter whether a cat is black or white, so long as it catches mice. Output recovered. The Cultural Revolution (from 1966) disrupted industry and transport, especially in 1966–68, and the 'Third Front' moved industry inland for defence at great cost. The economy grew in the 1970s but remained poor and inefficient."
+          }
         ],
-        "terms": ["collectivisation", "Five-Year Plan", "Great Leap Forward", "people's commune", "backyard furnace", "Third Front"],
-        "evidence": ["1953–57: First Five-Year Plan.", "1958: Great Leap Forward; communes.", "1959–61: famine — estimates from about 15 to over 40 million deaths.", "1962: recovery under Liu and Deng."]
+        "terms": [
+          "collectivisation",
+          "Five-Year Plan",
+          "Great Leap Forward",
+          "people's commune",
+          "backyard furnace",
+          "Third Front"
+        ],
+        "evidence": [
+          "1953–57: First Five-Year Plan.",
+          "1958: Great Leap Forward; communes.",
+          "1959–61: famine — estimates from about 15 to over 40 million deaths.",
+          "1962: recovery under Liu and Deng."
+        ]
       }
     ],
     "timeline": [
-      { "date": "1906", "event": "Beijing–Hankou railway completed" },
-      { "date": "1914–18", "event": "Growth of Chinese-owned industry" },
-      { "date": "1928", "event": "Central Bank of China (T. V. Soong)" },
-      { "date": "1932", "event": "Manchukuo: Japanese industrial development" },
-      { "date": "1937", "event": "War with Japan damages coastal industry" },
-      { "date": "1948", "event": "Gold yuan collapses" },
-      { "date": "1953–57", "event": "First Five-Year Plan" },
-      { "date": "1958", "event": "Great Leap Forward begins" },
-      { "date": "1959–61", "event": "Great Famine" },
-      { "date": "1962", "event": "Recovery under Liu and Deng" },
-      { "date": "1966", "event": "Cultural Revolution disrupts the economy" }
+      {
+        "date": "1906",
+        "event": "Beijing–Hankou railway completed"
+      },
+      {
+        "date": "1914–18",
+        "event": "Growth of Chinese-owned industry"
+      },
+      {
+        "date": "1928",
+        "event": "Central Bank of China (T. V. Soong)"
+      },
+      {
+        "date": "1932",
+        "event": "Manchukuo: Japanese industrial development"
+      },
+      {
+        "date": "1937",
+        "event": "War with Japan damages coastal industry"
+      },
+      {
+        "date": "1948",
+        "event": "Gold yuan collapses"
+      },
+      {
+        "date": "1953–57",
+        "event": "First Five-Year Plan"
+      },
+      {
+        "date": "1958",
+        "event": "Great Leap Forward begins"
+      },
+      {
+        "date": "1959–61",
+        "event": "Great Famine"
+      },
+      {
+        "date": "1962",
+        "event": "Recovery under Liu and Deng"
+      },
+      {
+        "date": "1966",
+        "event": "Cultural Revolution disrupts the economy"
+      }
     ],
     "people": [
-      { "name": "T. V. Soong", "role": "GMD finance minister; Central Bank and China Development Finance Corporation." },
-      { "name": "Mao Zedong", "role": "Launched the Great Leap Forward." },
-      { "name": "Liu Shaoqi", "role": "Led recovery from 1962." },
-      { "name": "Deng Xiaoping", "role": "Pragmatic recovery policies; 'black cat, white cat'." },
-      { "name": "Peng Dehuai", "role": "Criticised the Great Leap at Lushan, 1959." }
+      {
+        "name": "T. V. Soong",
+        "role": "GMD finance minister; Central Bank and China Development Finance Corporation."
+      },
+      {
+        "name": "Mao Zedong",
+        "role": "Launched the Great Leap Forward."
+      },
+      {
+        "name": "Liu Shaoqi",
+        "role": "Led recovery from 1962."
+      },
+      {
+        "name": "Deng Xiaoping",
+        "role": "Pragmatic recovery policies; 'black cat, white cat'."
+      },
+      {
+        "name": "Peng Dehuai",
+        "role": "Criticised the Great Leap at Lushan, 1959."
+      }
     ],
     "vocab": [
-      { "term": "Collectivisation", "def": "Joining private farms into collective farms." },
-      { "term": "People's commune", "def": "Huge rural unit combining farming, industry and local government (1958)." },
-      { "term": "Hyperinflation", "def": "Extremely rapid rise in prices." },
-      { "term": "Material incentives", "def": "Rewards such as wages or private plots to boost output." }
+      {
+        "term": "Collectivisation",
+        "def": "Joining private farms into collective farms."
+      },
+      {
+        "term": "People's commune",
+        "def": "Huge rural unit combining farming, industry and local government (1958)."
+      },
+      {
+        "term": "Hyperinflation",
+        "def": "Extremely rapid rise in prices."
+      },
+      {
+        "term": "Material incentives",
+        "def": "Rewards such as wages or private plots to boost output."
+      }
     ],
     "misconceptions": [
-      { "wrong": "China had no industrial growth before 1949.", "right": "Shanghai and Manchuria grew significantly, though unevenly." },
-      { "wrong": "The famine was caused only by bad weather.", "right": "Policy, false reporting and grain requisitioning were the main causes." }
+      {
+        "wrong": "China had no industrial growth before 1949.",
+        "right": "Shanghai and Manchuria grew significantly, though unevenly."
+      },
+      {
+        "wrong": "The famine was caused only by bad weather.",
+        "right": "Policy, false reporting and grain requisitioning were the main causes."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "Why did Chinese-owned industry grow during 1914–18?", "options": ["Government subsidies", "European imports fell during the First World War", "Japan invested", "The Boxers protected it"], "answer": 1, "why": "Less competition." },
-      { "id": "m2", "s": "s2", "q": "Where was China's most industrialised region by the late 1930s?", "options": ["Tibet", "Japanese-controlled Manchuria", "Sichuan", "Jiangxi"], "answer": 1, "why": "Japanese investment." },
-      { "id": "m3", "s": "s2", "q": "What caused hyperinflation in the 1940s?", "options": ["Printing money to pay for war", "Too much gold", "Soviet loans", "Land reform"], "answer": 0, "why": "War spending." },
-      { "id": "m4", "s": "s3", "q": "What did the First Five-Year Plan focus on?", "options": ["Consumer goods", "Heavy industry", "Tourism", "Private farming"], "answer": 1, "why": "Soviet model, 1953–57." },
-      { "id": "m5", "s": "s3", "q": "Why did officials report false harvests during the Great Leap?", "options": ["To get bonuses only", "Fear of being labelled rightists", "Orders from Moscow", "Mistakes in counting"], "answer": 1, "why": "After the Anti-Rightist Campaign." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Why did Chinese-owned industry grow during 1914–18?",
+        "options": [
+          "Government subsidies",
+          "European imports fell during the First World War",
+          "Japan invested",
+          "The Boxers protected it"
+        ],
+        "answer": 1,
+        "why": "Less competition."
+      },
+      {
+        "id": "m2",
+        "s": "s2",
+        "q": "Where was China's most industrialised region by the late 1930s?",
+        "options": [
+          "Tibet",
+          "Japanese-controlled Manchuria",
+          "Sichuan",
+          "Jiangxi"
+        ],
+        "answer": 1,
+        "why": "Japanese investment."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "What caused hyperinflation in the 1940s?",
+        "options": [
+          "Printing money to pay for war",
+          "Too much gold",
+          "Soviet loans",
+          "Land reform"
+        ],
+        "answer": 0,
+        "why": "War spending."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "What did the First Five-Year Plan focus on?",
+        "options": [
+          "Consumer goods",
+          "Heavy industry",
+          "Tourism",
+          "Private farming"
+        ],
+        "answer": 1,
+        "why": "Soviet model, 1953–57."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "Why did officials report false harvests during the Great Leap?",
+        "options": [
+          "To get bonuses only",
+          "Fear of being labelled rightists",
+          "Orders from Moscow",
+          "Mistakes in counting"
+        ],
+        "answer": 1,
+        "why": "After the Anti-Rightist Campaign."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s2", "q": "Which finance minister set up the Central Bank of China?", "accept": ["t v soong", "tv soong", "t. v. soong", "soong"], "answer": "T. V. Soong" },
-      { "id": "a2", "s": "s3", "q": "In which year did the Great Leap Forward begin?", "accept": ["1958"], "answer": "1958" },
-      { "id": "a3", "s": "s3", "q": "Which two leaders led recovery after 1962?", "accept": ["liu and deng", "liu shaoqi and deng xiaoping", "deng and liu"], "answer": "Liu Shaoqi and Deng Xiaoping" }
+      {
+        "id": "a1",
+        "s": "s2",
+        "q": "Which finance minister set up the Central Bank of China?",
+        "accept": [
+          "t v soong",
+          "tv soong",
+          "t. v. soong",
+          "soong"
+        ],
+        "answer": "T. V. Soong"
+      },
+      {
+        "id": "a2",
+        "s": "s3",
+        "q": "In which year did the Great Leap Forward begin?",
+        "accept": [
+          "1958"
+        ],
+        "answer": "1958"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "Which two leaders led recovery after 1962?",
+        "accept": [
+          "liu and deng",
+          "liu shaoqi and deng xiaoping",
+          "deng and liu"
+        ],
+        "answer": "Liu Shaoqi and Deng Xiaoping"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these in order", "items": ["Beijing–Hankou railway", "Central Bank of China", "Manchukuo created", "Gold yuan collapses", "First Five-Year Plan", "Great Leap Forward", "Recovery under Liu and Deng"] }
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Beijing–Hankou railway",
+          "Central Bank of China",
+          "Manchukuo created",
+          "Gold yuan collapses",
+          "First Five-Year Plan",
+          "Great Leap Forward",
+          "Recovery under Liu and Deng"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the period to the economic feature", "pairs": [["1900–27", "Railways, telegraphy and river traffic"], ["1927–49", "Hyperinflation and war damage"], ["1953–57", "Soviet-style Five-Year Plan"], ["1958–62", "Communes and backyard furnaces"]] }
+      {
+        "id": "x1",
+        "title": "Match the period to the economic feature",
+        "pairs": [
+          [
+            "1900–27",
+            "Railways, telegraphy and river traffic"
+          ],
+          [
+            "1927–49",
+            "Hyperinflation and war damage"
+          ],
+          [
+            "1953–57",
+            "Soviet-style Five-Year Plan"
+          ],
+          [
+            "1958–62",
+            "Communes and backyard furnaces"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s3", "q": "Give precise evidence about the consequences of the Great Leap Forward.", "keywords": [["famine", "1959", "1961", "million", "lushan", "backyard"]], "model": "The famine of 1959–61 killed tens of millions (estimates range from about 15 to over 40 million); backyard furnaces produced useless iron; Peng Dehuai was purged at Lushan in 1959." }
+      {
+        "id": "e1",
+        "s": "s3",
+        "q": "Give precise evidence about the consequences of the Great Leap Forward.",
+        "keywords": [
+          [
+            "famine",
+            "1959",
+            "1961",
+            "million",
+            "lushan",
+            "backyard"
+          ]
+        ],
+        "model": "The famine of 1959–61 killed tens of millions (estimates range from about 15 to over 40 million); backyard furnaces produced useless iron; Peng Dehuai was purged at Lushan in 1959."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "How significant were railways 1900–27?", "a": "Linked inland to ports and moved troops, but foreign-owned and caused resentment; rivers still carried much bulk trade.", "hint": "Compare with rivers." },
-    { "id": "f2", "s": "s2", "q": "What did T. V. Soong achieve?", "a": "Central Bank (1928), tariff autonomy, China Development Finance Corporation (1934) — limited by military spending.", "hint": "Finance." },
-    { "id": "f3", "s": "s2", "q": "How did war damage the economy 1937–49?", "a": "Coastal industry lost; tax base cut; hyperinflation; famine; gold yuan collapse 1948.", "hint": "Inflation." },
-    { "id": "f4", "s": "s3", "q": "Why did the Great Leap Forward fail?", "a": "Unrealistic targets, communes, backyard furnaces, false reporting, grain requisitioning, purge of critics.", "hint": "Fear + targets." },
-    { "id": "f5", "s": "s3", "q": "How did the economy recover after 1962?", "a": "Private plots, rural markets, material incentives under Liu and Deng.", "hint": "Black cat, white cat." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "How significant were railways 1900–27?",
+      "a": "Linked inland to ports and moved troops, but foreign-owned and caused resentment; rivers still carried much bulk trade.",
+      "hint": "Compare with rivers."
+    },
+    {
+      "id": "f2",
+      "s": "s2",
+      "q": "What did T. V. Soong achieve?",
+      "a": "Central Bank (1928), tariff autonomy, China Development Finance Corporation (1934) — limited by military spending.",
+      "hint": "Finance."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "How did war damage the economy 1937–49?",
+      "a": "Coastal industry lost; tax base cut; hyperinflation; famine; gold yuan collapse 1948.",
+      "hint": "Inflation."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "Why did the Great Leap Forward fail?",
+      "a": "Unrealistic targets, communes, backyard furnaces, false reporting, grain requisitioning, purge of critics.",
+      "hint": "Fear + targets."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "How did the economy recover after 1962?",
+      "a": "Private plots, rural markets, material incentives under Liu and Deng.",
+      "hint": "Black cat, white cat."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "judge", "text": "I can judge the significance of railways, telegraphy and river traffic 1900–27.", "sections": ["s1"] },
-    { "id": "k2", "level": "explain", "text": "I can explain economic performance 1927–49, including Manchuria and T. V. Soong.", "sections": ["s2"] },
-    { "id": "k3", "level": "describe", "text": "I can describe collectivisation and the First Five-Year Plan.", "sections": ["s3"] },
-    { "id": "k4", "level": "judge", "text": "I can judge the consequences of the Great Leap Forward and the recovery of 1962–76.", "sections": ["s3"] }
+    {
+      "id": "k1",
+      "level": "judge",
+      "text": "I can judge the significance of railways, telegraphy and river traffic 1900–27.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain economic performance 1927–49, including Manchuria and T. V. Soong.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "describe",
+      "text": "I can describe collectivisation and the First Five-Year Plan.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "judge",
+      "text": "I can judge the consequences of the Great Leap Forward and the recovery of 1962–76.",
+      "sections": [
+        "s3"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "u2c", "label": "Past paper: WHI02/1B, January 2025, Q2", "sections": ["s1"],
-        "q": "How accurate is it to say that river traffic was more significant than railways in the development of China's economy in the years 1900–27?" },
-      { "id": "q2", "qtype": "u2b", "label": "Past paper: WHI02/1B, May 2025, Q1(b) — question stem only; Source 2 is in the paper", "sections": ["s3"],
-        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the consequences of the Great Leap Forward? Explain your answer using the source, the information given about it and your own knowledge of the historical context." },
-      { "id": "q3", "qtype": "u2c", "label": "Teacher-created practice question", "sections": ["s2"],
-        "q": "How far was war the main reason for China's weak economic performance in the years 1927–49?" }
+      {
+        "id": "q1",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2025, Q2",
+        "sections": [
+          "s1"
+        ],
+        "q": "How accurate is it to say that river traffic was more significant than railways in the development of China's economy in the years 1900–27?",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2025",
+          "part": "Q2"
+        },
+        "ms": {
+          "support": [
+            "The Yangzi was navigable far inland from Shanghai",
+            "river transport was cheap and carried bulk",
+            "much agricultural produce reached markets by river",
+            "rivers stayed vital when warlords disrupted railways"
+          ],
+          "challenge": [
+            "Railways ran year-round while northern rivers froze or silted",
+            "rapid construction drove regional growth",
+            "Beijing planned as the hub of major lines",
+            "railway investment spurred coal mining and development in Manchuria"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1B, June 2025, Q1(b) (Source 2 is in the paper)",
+        "sections": [
+          "s3"
+        ],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the consequences of the Great Leap Forward? Explain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2025",
+          "part": "Q1(b)"
+        },
+        "ms": {
+          "context": [
+            "1958 saw claimed major output gains",
+            "backyard furnaces made unusable steel and drew labour from farms",
+            "the sparrow campaign, Lysenkoism and exaggerated yields contributed to famine"
+          ]
+        }
+      },
+      {
+        "id": "q3",
+        "qtype": "u2c",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s2"
+        ],
+        "q": "How far was war the main reason for China's weak economic performance in the years 1927–49?"
+      },
+      {
+        "id": "pp-whi021b-june2024-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2024, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2024",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the impact of the Great Leap Forward was the main cause of economic problems in China in the years 1958–76?",
+        "ms": {
+          "context": [
+            "High targets claimed huge rises in steel and coal output",
+            "backyard furnaces destroyed tools and woks to make worthless steel",
+            "the resulting famine"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2023-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, June 2023, Q2",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2023",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How significant was the textile industry in the development of China’s economy in the years 1900–27?",
+        "ms": {
+          "support": [
+            "Textile capacity trebled 1914–22",
+            "about half of Shanghai's workers were in textiles by the late 1920s",
+            "cotton made Shanghai the largest industrial city"
+          ],
+          "challenge": [
+            "China remained an overwhelmingly agricultural society",
+            "handicraft weaving persisted",
+            "railways, rivers and banking were arguably more significant"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2023-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1B, January 2023, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2023",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the significance of the development of railways in China in the years 1900–27?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "Railway expansion in 1900–27 offered growth to many regions",
+            "Qing concessions to foreign banks",
+            "Sun Yat-sen's grand railway plan stalled for lack of funds, forcing reliance on foreign investors"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021b-january2023-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2023, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2023",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the years 1962–76 were years of chaos in China’s economy?",
+        "ms": {
+          "support": [
+            "The Great Leap left a fragmented economy and the Cultural Revolution undid recovery",
+            "many factories went unfinished",
+            "revolutionary committees lacked expertise",
+            "the Dazhai campaign provoked peasant resistance"
+          ],
+          "challenge": [
+            "Liu and Deng allowed private plots and agricultural recovery",
+            "light industry grew strongly by 1965",
+            "roads and railways opened new regions",
+            "after 1971 experts were restored and Western trade expanded"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2022-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, June 2022, Q3",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2022",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the work of TV Soong was responsible for the development of China’s economy in the years 1927–37?",
+        "ms": {
+          "support": [
+            "Soong's tax reforms raised revenue",
+            "the Bank of China expanded into industry",
+            "Shanghai markets and the National Economic Council (1931)",
+            "the CDFC (1934) attracted investment"
+          ],
+          "challenge": [
+            "The National Resources Commission developed industry and defence",
+            "other commissions built power plants and radio",
+            "the silver price slump boosted exports",
+            "subsidies developed new industries"
+          ]
+        },
+        "exq": {
+          "series": "WHI02/1B examiner report, Summer 2022 (online copy)",
+          "url": "https://papers.xtremepape.rs/Edexcel/Advanced%20Level/History/2022%20Jun/Examiner-report/Examinerreport-Unit2B-June2022.pdf",
+          "strong": [
+            "Strong answers used knowledge of T. V. Soong’s reforms and weighed them against other factors."
+          ],
+          "weak": [
+            "Imprecise knowledge."
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2022-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, June 2022, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2022",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How significant was the impact of the Cold War on the development of the economy in China in the years 1949–76?",
+        "ms": {
+          "support": [
+            "The Soviet alliance brought machinery and technical aid",
+            "the Soviet loan burdened the economy",
+            "Korean War costs",
+            "the US embargo until 1971"
+          ],
+          "challenge": [
+            "Soviet experts withdrew in 1960 yet China tested nuclear weapons (1964, 1967)",
+            "'walking on two legs' rejected the Soviet model",
+            "ping-pong diplomacy had limited economic impact",
+            "normalised trade took decades"
+          ]
+        },
+        "exq": {
+          "series": "WHI02/1B examiner report, Summer 2022 (online copy)",
+          "url": "https://papers.xtremepape.rs/Edexcel/Advanced%20Level/History/2022%20Jun/Examiner-report/Examinerreport-Unit2B-June2022.pdf",
+          "strong": [
+            "Cover the whole period 1949–76."
+          ],
+          "weak": [
+            "Few covered the full date range, especially US relations in the 1970s; some drifted into the Korean War with little economic focus."
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2022-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1B, January 2022, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2022",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into economic developments in China during the Great Leap Forward?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "The famine killed tens of millions, worsened by rejecting traditional farming",
+            "backyard steel was poor quality",
+            "Soviet experts left in 1960"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021b-january2022-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2022, Q2",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2022",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the development of telegraphy played the most significant role in improving communications in China in the years 1900–27?",
+        "ms": {
+          "support": [
+            "Telegraphs gave fast communication within China and abroad",
+            "treaty-port businesses and military networks benefited",
+            "telegraphs spread new ideas such as the New Culture Movement"
+          ],
+          "challenge": [
+            "Suspicion of foreign-built lines and Boxer attacks (1900)",
+            "patchy provision after 1902",
+            "railways (over 5,000 miles by the mid-1920s) were key",
+            "thousands of miles of navigable waterways were vital"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2021-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, June 2021, Q3",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2021",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1950–76, Mao’s economic policies were a complete failure?",
+        "ms": {
+          "support": [
+            "Backyard steel was worthless",
+            "untrained cadres running industry cut output",
+            "Lysenkoism damaged agriculture and caused famine",
+            "disastrous policies in Tibet"
+          ],
+          "challenge": [
+            "The First Five Year Plan doubled coal and quadrupled steel output",
+            "women's share of the workforce rose",
+            "savings funded industry",
+            "collectivisation strengthened CCP control"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2021-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2021, Q3",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2021",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How significant was the Sino-Soviet alliance (1950) in the development of China’s economy in the 1950s?",
+        "ms": {
+          "support": [
+            "Access to Soviet nuclear technology",
+            "the 1954 trade package supplied much investment",
+            "Soviet help built 156 major plants",
+            "the Treaty's $300 million loan had to be repaid"
+          ],
+          "challenge": [
+            "Command economics and collectivisation shaped development more",
+            "China's model diverged from the Soviet one ('walking on two legs')",
+            "land reform drove the First Plan",
+            "the Great Leap damaged output"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2020-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2020, Q3",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2020",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1927–49, the civil strife between the Guomindang and the Communists was the main cause of China’s economic problems?",
+        "ms": {
+          "support": [
+            "Chiang's anti-communist campaigns diverted government energy",
+            "high taxes funded military needs",
+            "Communists destroyed telegraph, telephone and rail links",
+            "GMD–CCP division disrupted the economy"
+          ],
+          "challenge": [
+            "Warlord fighting damaged railways, towns and crops",
+            "the Depression collapsed exports and banks",
+            "landlords' rents blocked farm modernisation",
+            "Japanese seizure of Manchuria and bombing of Shanghai caused heavy losses"
+          ]
+        },
+        "exq": {
+          "series": "WHI01/1C examiner report, January 2020",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI01_1C_pef_20200305.pdf",
+          "strong": [
+            "Assess how successfully opposition was controlled, not just describe methods."
+          ],
+          "weak": [
+            "Describing methods of control instead of evaluating success."
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2019-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1B, June 2019, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2019",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the achievements of the Great Leap Forward?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "Backyard furnaces pulled labour from farming",
+            "village-made steel was worthless",
+            "collectivisation was resisted and famine killed millions"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021b-january2019-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2019, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2019",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "To what extent did Mao’s agricultural policy change in the years 1949–62?",
+        "ms": {
+          "support": [
+            "Mutual Aid Teams gave way to cooperatives of 30–50 households in the mid-1950s",
+            "the Great Leap accelerated collectivisation into about 26,000 communes",
+            "Lysenkoist methods replaced traditional farming"
+          ],
+          "challenge": [
+            "The goal of a collectivised countryside under state control stayed constant",
+            "agriculture kept serving industry",
+            "cadres continued directing farm work",
+            "grain requisitioning for towns persisted"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2018-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1B, June 2018, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2018",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the reasons for the failures in agricultural production during the Great Leap Forward?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "The Four Pests campaign let insects multiply and destroy crops",
+            "labour diverted to industry left harvests rotting",
+            "Mao blamed local cadres who had followed his directives"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021b-june2018-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, June 2018, Q2",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2018",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1900–27, foreign influence was responsible for the development of Shanghai as an industrial centre?",
+        "ms": {
+          "support": [
+            "The 1895–96 treaties let foreigners set up industry in treaty ports",
+            "foreign concessions drove utilities",
+            "foreign railways and textiles made Shanghai the leading industrial centre"
+          ],
+          "challenge": [
+            "Chinese boycotts such as 1919 resisted foreign interference",
+            "Shanghai's coastal and Yangzi position gave natural advantages",
+            "Chinese-owned industry and improved communications aided growth"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2018-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2018, Q2",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2018",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1927–49, Chiang Kai-shek’s management of the economy in China was a complete failure?",
+        "ms": {
+          "support": [
+            "Military needs and the war with Japan took priority over the economy",
+            "deficits funded by borrowing fuelled hyperinflation after 1937",
+            "foreign debt absorbed a large share of income 1927–37",
+            "agricultural reform failed"
+          ],
+          "challenge": [
+            "T. V. Soong raised funds effectively",
+            "railways such as Wuhan–Canton linked north and south",
+            "foreign concessions cut and tariff and customs control regained",
+            "central banking and Shanghai as an international financial market"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2017-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2017, Q2",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2017",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the growth of railways was the most significant factor in the economic development of China in the years 1900–27?",
+        "ms": {
+          "support": [
+            "Rail mileage reached about 9,000 km by 1911",
+            "Beijing was planned as a hub for major lines",
+            "foreign investment such as the South Manchurian Railway developed mines and land",
+            "anger over railway nationalisation and foreign loans showed their importance"
+          ],
+          "challenge": [
+            "Railway growth was uneven and left most of China unserved",
+            "the Yangzi, navigable far inland from Shanghai, was vital to trade",
+            "Shanghai's boom tied China to the world economy",
+            "textile mills and modern banks expanded in the 1910s–20s"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-january2017-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, January 2017, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "January 2017",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the Five Year Plans of 1952–62 were largely unsuccessful in modernising the Chinese economy?",
+        "ms": {
+          "support": [
+            "Agricultural output lagged under the First Plan, causing urban food shortages",
+            "heavy industry focus left consumer goods scarce",
+            "backyard furnaces wasted resources",
+            "the Great Leap contributed to the famine of 1958–62 with tens of millions of deaths"
+          ],
+          "challenge": [
+            "The First Plan grew the economy about 16% a year and industrial targets were exceeded",
+            "urban industrial workers increased and earned more",
+            "rail freight doubled 1952–58",
+            "nuclear development after 1955 and the 1956 abolition of private industry"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-june2016-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, June 2016, Q3",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "June 2016",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far was peasant opposition to communist agricultural policies responsible for the failings in production in the years 1949–62?",
+        "ms": {
+          "support": [
+            "By 1955 few peasants had joined APCs, showing reluctance",
+            "working collectives without owning land reduced motivation",
+            "some peasants consumed or destroyed food before joining"
+          ],
+          "challenge": [
+            "Land per head was too small for a surplus and investment insufficient",
+            "Lysenkoism was applied uniformly",
+            "the sparrow campaign let insects destroy crops",
+            "the famine of 1958–62 cut productivity"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi021b-specimen-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, Specimen, Q3",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "Specimen",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the Sino-Soviet alliance was beneficial for China’s economic development in the 1950s?"
+      },
+      {
+        "id": "pp-whi021b-specimen-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1B, Specimen, Q4",
+        "pp": {
+          "paper": "WHI02/1B",
+          "series": "Specimen",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "To what extent were the years 1962–76 a period of economic recovery in China?"
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Change and continuity", "task": "Was 1949 a turning point in China's economic development? Compare 1927–49 and 1949–76." },
-    { "id": "t2", "kind": "Historiography", "task": "Why do estimates of famine deaths range so widely? What sources would historians use?" }
+    {
+      "id": "t1",
+      "kind": "Change and continuity",
+      "task": "Was 1949 a turning point in China's economic development? Compare 1927–49 and 1949–76."
+    },
+    {
+      "id": "t2",
+      "kind": "Historiography",
+      "task": "Why do estimates of famine deaths range so widely? What sources would historians use?"
+    }
   ]
 }

@@ -451,7 +451,28 @@
         "prompts": [
           "opposition",
           "legal changes"
-        ]
+        ],
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2025",
+          "part": "Q7(c)(ii)"
+        },
+        "ms": {
+          "support": [
+            "The backlash — STOP ERA led by Phyllis Schlafly",
+            "militant elements alienated many",
+            "opposition over abortion and contraception"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/01 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-01-pef-20250821.pdf",
+          "strong": [
+            "Opposition was usually illustrated through Phyllis Schlafly and STOP ERA.",
+            "Stronger answers gave specific detail and analysed the relative importance of legal, social and economic change."
+          ],
+          "weak": []
+        }
       },
       {
         "id": "q2",
@@ -461,6 +482,233 @@
           "s2"
         ],
         "q": "Explain two effects of the Vietnam War on the student movement."
+      },
+      {
+        "id": "pp-4hi101-june2024-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2024, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2024",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main reason for the growth of protest movements in the years 1962–74 was ideas about women’s rights.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "ideas about women's rights",
+          "Vietnam"
+        ],
+        "ms": {
+          "support": [
+            "Radical feminism challenged women's second-class status",
+            "The Feminine Mystique (1963) inspired many",
+            "NOW grew rapidly"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-november2023-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, November 2023, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2023",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about Phyllis Schlafly?",
+        "ms": {
+          "points": [
+            "Schlafly is shown as highly effective, mobilising 'countless' women",
+            "the backlash she faced is ignored"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2023-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2023, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2023",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The most significant feature of the student protest movement in the years 1960–74 was the anti-Vietnam War movement.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "the anti-Vietnam War movement",
+          "Students for a Democratic Society"
+        ],
+        "ms": {
+          "support": [
+            "Teach-ins spread from Michigan (1965)",
+            "Columbia (1968) and Kent State (1970)",
+            "anti-war protest gained media attention"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2022-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, June 2022, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2022",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of the anti-Vietnam War movement on the USA.",
+        "ms": {
+          "points": [
+            "Criticism that the war undermined the Great Society",
+            "media attention to protests and to violence at them",
+            "contributed to Johnson being challenged in 1968"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-november2021-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, November 2021, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2021",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The most significant development in the women’s movement was the work of the National Organisation for Women (NOW).’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "NOW",
+          "the women's liberation movement"
+        ],
+        "ms": {
+          "support": [
+            "NOW formed after weak enforcement of gender provisions",
+            "NOW backed the ERA (passed by Congress 1972)",
+            "the 1970 Women's Strike for Equality"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2020-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01R, June 2024, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2024",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the anti-Vietnam War protests?",
+        "ms": {
+          "points": [
+            "Protests are shown as extreme and violent — 'criminal', 'brutal clashes'",
+            "peaceful protest is omitted"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2019-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2019, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2019",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The main reason for the growth of protest movements in the years 1962–74 was the war in Vietnam.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "war in Vietnam",
+          "the Berkeley Free Speech Movement"
+        ],
+        "ms": {
+          "support": [
+            "Vietnam united diverse groups including SDS",
+            "anti-draft campaigns and the 1967 Pentagon march",
+            "the war diverted funds from the Great Society"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2025-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01R, June 2019, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2019",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of the women’s liberation movement on the USA.",
+        "ms": {
+          "points": [
+            "Title IX (1972) extended anti-discrimination to education",
+            "Roe v Wade (1973)",
+            "a conservative backlash such as STOP ERA"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2023-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2023, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2023",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "‘The main reason for the growth of the women’s movement, in the years 1963–73, was the contribution made by Betty Friedan.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "Betty Friedan",
+          "Eleanor Roosevelt"
+        ],
+        "ms": {
+          "support": [
+            "The Feminine Mystique sold three million copies",
+            "Friedan founded NOW (1966)",
+            "her campaigning and the Equal Pay Act (1963)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2022-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01R, June 2022, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2022",
+          "part": "Q7(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of the work of Betty Friedan on women’s rights in the USA.",
+        "ms": {
+          "points": [
+            "Encouraged many women to join campaigns such as NOW",
+            "helped secure economic, educational and reproductive rights",
+            "influenced federal policy, e.g. Roe v Wade (1973)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2020-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2020, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2020",
+          "part": "Q7(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The most significant development in protest movements in the 1960s and 1970s was the growth of the student movement.’\nHow far do you agree?\nExplain your answer.",
+        "ms": {
+          "support": [
+            "The student movement tackled racism, poverty, free speech and Vietnam",
+            "the Berkeley Free Speech Movement spread to many campuses",
+            "SDS grew to around 100,000 by 1968"
+          ]
+        }
       }
     ]
   },

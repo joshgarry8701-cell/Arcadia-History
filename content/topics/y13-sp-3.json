@@ -1,129 +1,753 @@
 {
-  "id": "y13-sp-3", "course": "y13", "area": "sp", "kt": "Key topic 3", "order": 23,
+  "id": "y13-sp-3",
+  "course": "y13",
+  "area": "sp",
+  "kt": "Key topic 3",
+  "order": 23,
   "title": "Stalemate and détente, 1964–79",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following the IAL specification (Issue 6), Unit 4 Option 1C key topic 3." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following the IAL specification (Issue 6), Unit 4 Option 1C key topic 3."
+  },
   "learn": {
     "intro": "A 'balance of terror' made direct war unthinkable, so rivalry moved into proxy conflicts. At the same time, the costs of Vietnam, the Sino-Soviet conflict and Soviet economic needs pushed the superpowers into détente — arms control, summits and the Helsinki Accords — until it unravelled at the end of the 1970s.",
     "sections": [
       {
-        "id": "s1", "title": "1. Personalities and summits",
+        "id": "s1",
+        "title": "1. Personalities and summits",
         "blocks": [
-          { "p": "Brezhnev led the USSR from October 1964; Andrei Gromyko was Foreign Minister from 1957 to 1985, providing continuity. Nixon (President 1969–74) and Henry Kissinger (National Security Adviser, then Secretary of State) pursued realpolitik — dealing with rivals on the basis of interests, not ideology — and 'triangular diplomacy' between Moscow and Beijing. Mao, fearing the USSR after the 1969 border clashes, was willing to talk to the USA." },
-          { "p": "Summits and visits: Glassboro (1967, Johnson and Kosygin); Nixon's visit to China (February 1972); the Moscow Summit (May 1972), where SALT I and the Basic Principles agreement were signed; Brezhnev's visit to the USA (1973); Vladivostok (1974, Ford and Brezhnev); Vienna (June 1979, Carter and Brezhnev), where SALT II was signed." }
+          {
+            "p": "Brezhnev led the USSR from October 1964; Andrei Gromyko was Foreign Minister from 1957 to 1985, providing continuity. Nixon (President 1969–74) and Henry Kissinger (National Security Adviser, then Secretary of State) pursued realpolitik — dealing with rivals on the basis of interests, not ideology — and 'triangular diplomacy' between Moscow and Beijing. Mao, fearing the USSR after the 1969 border clashes, was willing to talk to the USA."
+          },
+          {
+            "p": "Summits and visits: Glassboro (1967, Johnson and Kosygin); Nixon's visit to China (February 1972); the Moscow Summit (May 1972), where SALT I and the Basic Principles agreement were signed; Brezhnev's visit to the USA (1973); Vladivostok (1974, Ford and Brezhnev); Vienna (June 1979, Carter and Brezhnev), where SALT II was signed."
+          }
         ],
-        "terms": ["realpolitik", "triangular diplomacy", "summit"],
-        "evidence": ["October 1964: Brezhnev takes over.", "February 1972: Nixon in China.", "May 1972: Moscow Summit, SALT I.", "June 1979: Vienna, SALT II."]
+        "terms": [
+          "realpolitik",
+          "triangular diplomacy",
+          "summit"
+        ],
+        "evidence": [
+          "October 1964: Brezhnev takes over.",
+          "February 1972: Nixon in China.",
+          "May 1972: Moscow Summit, SALT I.",
+          "June 1979: Vienna, SALT II."
+        ]
       },
       {
-        "id": "s2", "title": "2. The balance of terror",
+        "id": "s2",
+        "title": "2. The balance of terror",
         "blocks": [
-          { "p": "The USSR expanded its navy under Admiral Gorshkov into a global force and rapidly increased its nuclear warheads and missiles, reaching rough parity with the USA by around 1970. The USA developed more sophisticated technology, such as MIRVs (several warheads on one missile, deployed from 1970) and anti-ballistic missile (ABM) systems." },
-          { "p": "MAD — Mutually Assured Destruction: each side could destroy the other even after being attacked first, so neither could win a nuclear war. This deterred direct conflict and encouraged arms control; the hot-line was upgraded in 1971." }
+          {
+            "p": "The USSR expanded its navy under Admiral Gorshkov into a global force and rapidly increased its nuclear warheads and missiles, reaching rough parity with the USA by around 1970. The USA developed more sophisticated technology, such as MIRVs (several warheads on one missile, deployed from 1970) and anti-ballistic missile (ABM) systems."
+          },
+          {
+            "p": "MAD — Mutually Assured Destruction: each side could destroy the other even after being attacked first, so neither could win a nuclear war. This deterred direct conflict and encouraged arms control; the hot-line was upgraded in 1971."
+          }
         ],
-        "terms": ["parity", "MIRV", "ABM", "MAD"],
-        "evidence": ["c1970: rough nuclear parity.", "1970: US MIRVs deployed.", "1971: hot-line upgraded."]
+        "terms": [
+          "parity",
+          "MIRV",
+          "ABM",
+          "MAD"
+        ],
+        "evidence": [
+          "c1970: rough nuclear parity.",
+          "1970: US MIRVs deployed.",
+          "1971: hot-line upgraded."
+        ]
       },
       {
-        "id": "s3", "title": "3. War by proxy",
+        "id": "s3",
+        "title": "3. War by proxy",
         "blocks": [
-          { "p": "The Middle East: the USA backed Israel and the USSR backed Egypt and Syria. In the Six-Day War (1967) and the Yom Kippur War (October 1973) the superpowers re-supplied their allies; in 1973 US forces were put on heightened alert when the USSR threatened to intervene." },
-          { "p": "Africa: in Angola (from 1975) the USSR and Cuban troops supported the MPLA while the USA and South Africa backed its rivals; in the Horn of Africa (1977–78) Soviet and Cuban support helped Ethiopia against Somalia. American critics saw these as Soviet exploitation of détente." },
-          { "p": "South and Central America: the US feared Marxist influence in its 'backyard'. It worked to undermine Salvador Allende's elected socialist government in Chile, which was overthrown in a military coup in September 1973. The Sandinista revolution in Nicaragua (1979) renewed American fears." }
+          {
+            "p": "The Middle East: the USA backed Israel and the USSR backed Egypt and Syria. In the Six-Day War (1967) and the Yom Kippur War (October 1973) the superpowers re-supplied their allies; in 1973 US forces were put on heightened alert when the USSR threatened to intervene."
+          },
+          {
+            "p": "Africa: in Angola (from 1975) the USSR and Cuban troops supported the MPLA while the USA and South Africa backed its rivals; in the Horn of Africa (1977–78) Soviet and Cuban support helped Ethiopia against Somalia. American critics saw these as Soviet exploitation of détente."
+          },
+          {
+            "p": "South and Central America: the US feared Marxist influence in its 'backyard'. It worked to undermine Salvador Allende's elected socialist government in Chile, which was overthrown in a military coup in September 1973. The Sandinista revolution in Nicaragua (1979) renewed American fears."
+          }
         ],
-        "terms": ["proxy war", "Yom Kippur War", "Angola", "Allende"],
-        "evidence": ["1967: Six-Day War.", "October 1973: Yom Kippur War.", "September 1973: coup in Chile.", "1975: Angola.", "1979: Sandinista revolution."]
+        "terms": [
+          "proxy war",
+          "Yom Kippur War",
+          "Angola",
+          "Allende"
+        ],
+        "evidence": [
+          "1967: Six-Day War.",
+          "October 1973: Yom Kippur War.",
+          "September 1973: coup in Chile.",
+          "1975: Angola.",
+          "1979: Sandinista revolution."
+        ]
       },
       {
-        "id": "s4", "title": "4. Détente: reasons and impact",
+        "id": "s4",
+        "title": "4. Détente: reasons and impact",
         "blocks": [
-          { "p": "Reasons: the cost and unpopularity of the Vietnam War made the USA want to reduce commitments and enlist Soviet and Chinese help; the Sino-Soviet conflict (border clashes, March 1969) made both communist powers seek better relations with Washington; discontent in Eastern Europe (the Prague Spring, 1968; Polish unrest, 1970) and the cost of the arms race encouraged Soviet stability; the USSR needed Western grain and technology (large US grain purchases in 1972). West German Ostpolitik under Brandt also eased tension in Europe." },
-          { "p": "Impact in the 1970s: arms control — the Non-Proliferation Treaty (1968), SALT I (1972: the ABM Treaty and an interim freeze on missile launchers), SALT II (signed 1979, never ratified by the US Senate); the Helsinki Final Act (August 1975) accepted Europe's borders but also committed signatories to human rights; cooperation such as the Apollo–Soyuz space link (1975)." },
-          { "p": "Limits: arms development continued (MIRVs were not covered by SALT I); proxy wars went on; Congress linked trade to Soviet emigration policy (Jackson–Vanik, 1974); Carter's human-rights campaign angered Moscow. The Soviet invasion of Afghanistan in December 1979 ended détente." }
+          {
+            "p": "Reasons: the cost and unpopularity of the Vietnam War made the USA want to reduce commitments and enlist Soviet and Chinese help; the Sino-Soviet conflict (border clashes, March 1969) made both communist powers seek better relations with Washington; discontent in Eastern Europe (the Prague Spring, 1968; Polish unrest, 1970) and the cost of the arms race encouraged Soviet stability; the USSR needed Western grain and technology (large US grain purchases in 1972). West German Ostpolitik under Brandt also eased tension in Europe."
+          },
+          {
+            "p": "Impact in the 1970s: arms control — the Non-Proliferation Treaty (1968), SALT I (1972: the ABM Treaty and an interim freeze on missile launchers), SALT II (signed 1979, never ratified by the US Senate); the Helsinki Final Act (August 1975) accepted Europe's borders but also committed signatories to human rights; cooperation such as the Apollo–Soyuz space link (1975)."
+          },
+          {
+            "p": "Limits: arms development continued (MIRVs were not covered by SALT I); proxy wars went on; Congress linked trade to Soviet emigration policy (Jackson–Vanik, 1974); Carter's human-rights campaign angered Moscow. The Soviet invasion of Afghanistan in December 1979 ended détente."
+          }
         ],
-        "terms": ["détente", "SALT", "ABM Treaty", "Helsinki Final Act", "Ostpolitik"],
-        "evidence": ["March 1969: Sino-Soviet border clashes.", "1972: SALT I.", "August 1975: Helsinki Final Act.", "1979: SALT II signed, not ratified.", "December 1979: Afghanistan."]
+        "terms": [
+          "détente",
+          "SALT",
+          "ABM Treaty",
+          "Helsinki Final Act",
+          "Ostpolitik"
+        ],
+        "evidence": [
+          "March 1969: Sino-Soviet border clashes.",
+          "1972: SALT I.",
+          "August 1975: Helsinki Final Act.",
+          "1979: SALT II signed, not ratified.",
+          "December 1979: Afghanistan."
+        ]
       }
     ],
     "timeline": [
-      { "date": "Oct 1964", "event": "Brezhnev replaces Khrushchev" },
-      { "date": "1967", "event": "Six-Day War; Glassboro Summit" },
-      { "date": "1968", "event": "Prague Spring crushed; Non-Proliferation Treaty" },
-      { "date": "March 1969", "event": "Sino-Soviet border clashes" },
-      { "date": "Feb 1972", "event": "Nixon visits China" },
-      { "date": "May 1972", "event": "Moscow Summit: SALT I" },
-      { "date": "1973", "event": "Yom Kippur War; coup in Chile" },
-      { "date": "Aug 1975", "event": "Helsinki Final Act" },
-      { "date": "1975", "event": "Civil war in Angola; Apollo–Soyuz" },
-      { "date": "June 1979", "event": "SALT II signed" },
-      { "date": "Dec 1979", "event": "Soviet invasion of Afghanistan" }
+      {
+        "date": "Oct 1964",
+        "event": "Brezhnev replaces Khrushchev"
+      },
+      {
+        "date": "1967",
+        "event": "Six-Day War; Glassboro Summit"
+      },
+      {
+        "date": "1968",
+        "event": "Prague Spring crushed; Non-Proliferation Treaty"
+      },
+      {
+        "date": "March 1969",
+        "event": "Sino-Soviet border clashes"
+      },
+      {
+        "date": "Feb 1972",
+        "event": "Nixon visits China"
+      },
+      {
+        "date": "May 1972",
+        "event": "Moscow Summit: SALT I"
+      },
+      {
+        "date": "1973",
+        "event": "Yom Kippur War; coup in Chile"
+      },
+      {
+        "date": "Aug 1975",
+        "event": "Helsinki Final Act"
+      },
+      {
+        "date": "1975",
+        "event": "Civil war in Angola; Apollo–Soyuz"
+      },
+      {
+        "date": "June 1979",
+        "event": "SALT II signed"
+      },
+      {
+        "date": "Dec 1979",
+        "event": "Soviet invasion of Afghanistan"
+      }
     ],
     "people": [
-      { "name": "Leonid Brezhnev", "role": "Soviet leader 1964–82." },
-      { "name": "Andrei Gromyko", "role": "Soviet Foreign Minister 1957–85." },
-      { "name": "Richard Nixon", "role": "US President 1969–74; détente and China." },
-      { "name": "Henry Kissinger", "role": "Architect of détente and triangular diplomacy." },
-      { "name": "Mao Zedong", "role": "Opened China to the USA after 1969." }
+      {
+        "name": "Leonid Brezhnev",
+        "role": "Soviet leader 1964–82."
+      },
+      {
+        "name": "Andrei Gromyko",
+        "role": "Soviet Foreign Minister 1957–85."
+      },
+      {
+        "name": "Richard Nixon",
+        "role": "US President 1969–74; détente and China."
+      },
+      {
+        "name": "Henry Kissinger",
+        "role": "Architect of détente and triangular diplomacy."
+      },
+      {
+        "name": "Mao Zedong",
+        "role": "Opened China to the USA after 1969."
+      }
     ],
     "vocab": [
-      { "term": "Détente", "def": "Easing of tension between the superpowers in the late 1960s–1970s." },
-      { "term": "MAD", "def": "Mutually Assured Destruction — neither side could survive a nuclear war." },
-      { "term": "Proxy war", "def": "Conflict in which superpowers back opposing local sides." },
-      { "term": "SALT", "def": "Strategic Arms Limitation Talks (I: 1972; II: 1979)." }
+      {
+        "term": "Détente",
+        "def": "Easing of tension between the superpowers in the late 1960s–1970s."
+      },
+      {
+        "term": "MAD",
+        "def": "Mutually Assured Destruction — neither side could survive a nuclear war."
+      },
+      {
+        "term": "Proxy war",
+        "def": "Conflict in which superpowers back opposing local sides."
+      },
+      {
+        "term": "SALT",
+        "def": "Strategic Arms Limitation Talks (I: 1972; II: 1979)."
+      }
     ],
     "misconceptions": [
-      { "wrong": "Détente ended the arms race.", "right": "It limited some weapons; others (MIRVs) kept growing." },
-      { "wrong": "Détente meant rivalry stopped.", "right": "Proxy wars in Africa, the Middle East and Latin America continued." }
+      {
+        "wrong": "Détente ended the arms race.",
+        "right": "It limited some weapons; others (MIRVs) kept growing."
+      },
+      {
+        "wrong": "Détente meant rivalry stopped.",
+        "right": "Proxy wars in Africa, the Middle East and Latin America continued."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s2", "q": "What does MAD stand for?", "options": ["Military Arms Development", "Mutually Assured Destruction", "Missile Attack Defence", "Major Arms Deal"], "answer": 1, "why": "Deterrence." },
-      { "id": "m2", "s": "s4", "q": "Which was a reason for détente?", "options": ["US victory in Vietnam", "Sino-Soviet conflict", "The Berlin Wall", "NATO's collapse"], "answer": 1, "why": "Border clashes 1969." },
-      { "id": "m3", "s": "s4", "q": "What did the Helsinki Final Act (1975) do?", "options": ["Reunited Germany", "Accepted Europe's borders and committed signatories to human rights", "Banned nuclear tests", "Ended the Vietnam War"], "answer": 1, "why": "Basket of agreements." },
-      { "id": "m4", "s": "s3", "q": "Where did Cuban troops support the MPLA?", "options": ["Chile", "Angola", "Egypt", "Nicaragua"], "answer": 1, "why": "From 1975." },
-      { "id": "m5", "s": "s4", "q": "What ended détente?", "options": ["Helsinki", "Soviet invasion of Afghanistan", "Nixon's visit to China", "Apollo–Soyuz"], "answer": 1, "why": "December 1979." }
+      {
+        "id": "m1",
+        "s": "s2",
+        "q": "What does MAD stand for?",
+        "options": [
+          "Military Arms Development",
+          "Mutually Assured Destruction",
+          "Missile Attack Defence",
+          "Major Arms Deal"
+        ],
+        "answer": 1,
+        "why": "Deterrence."
+      },
+      {
+        "id": "m2",
+        "s": "s4",
+        "q": "Which was a reason for détente?",
+        "options": [
+          "US victory in Vietnam",
+          "Sino-Soviet conflict",
+          "The Berlin Wall",
+          "NATO's collapse"
+        ],
+        "answer": 1,
+        "why": "Border clashes 1969."
+      },
+      {
+        "id": "m3",
+        "s": "s4",
+        "q": "What did the Helsinki Final Act (1975) do?",
+        "options": [
+          "Reunited Germany",
+          "Accepted Europe's borders and committed signatories to human rights",
+          "Banned nuclear tests",
+          "Ended the Vietnam War"
+        ],
+        "answer": 1,
+        "why": "Basket of agreements."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "Where did Cuban troops support the MPLA?",
+        "options": [
+          "Chile",
+          "Angola",
+          "Egypt",
+          "Nicaragua"
+        ],
+        "answer": 1,
+        "why": "From 1975."
+      },
+      {
+        "id": "m5",
+        "s": "s4",
+        "q": "What ended détente?",
+        "options": [
+          "Helsinki",
+          "Soviet invasion of Afghanistan",
+          "Nixon's visit to China",
+          "Apollo–Soyuz"
+        ],
+        "answer": 1,
+        "why": "December 1979."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s4", "q": "In which year was SALT I signed?", "accept": ["1972"], "answer": "1972" },
-      { "id": "a2", "s": "s1", "q": "Who was Soviet Foreign Minister 1957–85?", "accept": ["gromyko", "andrei gromyko"], "answer": "Andrei Gromyko" },
-      { "id": "a3", "s": "s2", "q": "What was the term for several warheads on one missile?", "accept": ["mirv", "mirvs"], "answer": "MIRV" }
+      {
+        "id": "a1",
+        "s": "s4",
+        "q": "In which year was SALT I signed?",
+        "accept": [
+          "1972"
+        ],
+        "answer": "1972"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "Who was Soviet Foreign Minister 1957–85?",
+        "accept": [
+          "gromyko",
+          "andrei gromyko"
+        ],
+        "answer": "Andrei Gromyko"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "What was the term for several warheads on one missile?",
+        "accept": [
+          "mirv",
+          "mirvs"
+        ],
+        "answer": "MIRV"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these in order", "items": ["Brezhnev takes power", "Prague Spring", "Sino-Soviet border clashes", "Nixon in China", "SALT I", "Helsinki Final Act", "SALT II", "Afghanistan invaded"] }
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Brezhnev takes power",
+          "Prague Spring",
+          "Sino-Soviet border clashes",
+          "Nixon in China",
+          "SALT I",
+          "Helsinki Final Act",
+          "SALT II",
+          "Afghanistan invaded"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the agreement to its year", "pairs": [["Non-Proliferation Treaty", "1968"], ["SALT I", "1972"], ["Helsinki Final Act", "1975"], ["SALT II", "1979"]] }
+      {
+        "id": "x1",
+        "title": "Match the agreement to its year",
+        "pairs": [
+          [
+            "Non-Proliferation Treaty",
+            "1968"
+          ],
+          [
+            "SALT I",
+            "1972"
+          ],
+          [
+            "Helsinki Final Act",
+            "1975"
+          ],
+          [
+            "SALT II",
+            "1979"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s4", "q": "Give precise evidence that détente improved relations.", "keywords": [["salt", "1972", "helsinki", "1975", "apollo", "nixon"]], "model": "SALT I (1972) limited ABMs and froze launchers; the Helsinki Final Act (1975) accepted Europe's borders; Apollo–Soyuz (1975) symbolised cooperation." }
+      {
+        "id": "e1",
+        "s": "s4",
+        "q": "Give precise evidence that détente improved relations.",
+        "keywords": [
+          [
+            "salt",
+            "1972",
+            "helsinki",
+            "1975",
+            "apollo",
+            "nixon"
+          ]
+        ],
+        "model": "SALT I (1972) limited ABMs and froze launchers; the Helsinki Final Act (1975) accepted Europe's borders; Apollo–Soyuz (1975) symbolised cooperation."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "What was triangular diplomacy?", "a": "Nixon and Kissinger playing the USSR and China off against each other.", "hint": "1972." },
-    { "id": "f2", "s": "s2", "q": "Why did MAD encourage détente?", "a": "Neither side could win a nuclear war, so limiting arms and managing crises was in both interests.", "hint": "Deterrence." },
-    { "id": "f3", "s": "s3", "q": "Give three proxy conflicts 1964–79.", "a": "Yom Kippur War 1973; Angola from 1975; Ethiopia–Somalia 1977–78 (also Chile 1973).", "hint": "ME, Africa, LatAm." },
-    { "id": "f4", "s": "s4", "q": "Four reasons for détente?", "a": "Vietnam; Sino-Soviet conflict; discontent in Eastern Europe; Soviet need for grain imports (plus cost of arms).", "hint": "Spec list." },
-    { "id": "f5", "s": "s4", "q": "Why did détente collapse?", "a": "Proxy wars, continued arms build-up, human-rights disputes, SALT II not ratified, Afghanistan 1979.", "hint": "End of the 1970s." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "What was triangular diplomacy?",
+      "a": "Nixon and Kissinger playing the USSR and China off against each other.",
+      "hint": "1972."
+    },
+    {
+      "id": "f2",
+      "s": "s2",
+      "q": "Why did MAD encourage détente?",
+      "a": "Neither side could win a nuclear war, so limiting arms and managing crises was in both interests.",
+      "hint": "Deterrence."
+    },
+    {
+      "id": "f3",
+      "s": "s3",
+      "q": "Give three proxy conflicts 1964–79.",
+      "a": "Yom Kippur War 1973; Angola from 1975; Ethiopia–Somalia 1977–78 (also Chile 1973).",
+      "hint": "ME, Africa, LatAm."
+    },
+    {
+      "id": "f4",
+      "s": "s4",
+      "q": "Four reasons for détente?",
+      "a": "Vietnam; Sino-Soviet conflict; discontent in Eastern Europe; Soviet need for grain imports (plus cost of arms).",
+      "hint": "Spec list."
+    },
+    {
+      "id": "f5",
+      "s": "s4",
+      "q": "Why did détente collapse?",
+      "a": "Proxy wars, continued arms build-up, human-rights disputes, SALT II not ratified, Afghanistan 1979.",
+      "hint": "End of the 1970s."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "explain", "text": "I can explain the role of Brezhnev, Gromyko, Mao, Nixon and Kissinger and the impact of summits.", "sections": ["s1"] },
-    { "id": "k2", "level": "explain", "text": "I can explain the balance of terror and MAD.", "sections": ["s2"] },
-    { "id": "k3", "level": "describe", "text": "I can describe proxy wars in Africa, the Middle East and Latin America.", "sections": ["s3"] },
-    { "id": "k4", "level": "judge", "text": "I can judge the reasons for and impact of détente in the 1970s.", "sections": ["s4"] }
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the role of Brezhnev, Gromyko, Mao, Nixon and Kissinger and the impact of summits.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain the balance of terror and MAD.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "describe",
+      "text": "I can describe proxy wars in Africa, the Middle East and Latin America.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "judge",
+      "text": "I can judge the reasons for and impact of détente in the 1970s.",
+      "sections": [
+        "s4"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "u4b", "label": "Past paper: WHI04/1C, June 2024, Q2", "sections": ["s4"],
-        "q": "How far do you agree that progress in détente between the superpowers in the 1970s was due mainly to the impact of the Vietnam conflict?" },
-      { "id": "q2", "qtype": "u4b", "label": "Past paper: WHI04/1C, June 2022, Q2", "sections": ["s4"],
-        "q": "To what extent was détente between the superpowers maintained in the 1970s?" },
-      { "id": "q3", "qtype": "u4b", "label": "Past paper: WHI04/1C, June 2023, Q3", "sections": ["s2", "s4"],
-        "q": "How far do you agree that, in the years 1962–79, the main consequence of the Cuban Missile Crisis for superpower relations was a commitment to reduce the spread of nuclear weaponry?" }
+      {
+        "id": "q1",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2024, Q2",
+        "sections": [
+          "s4"
+        ],
+        "q": "How far do you agree that progress in détente between the superpowers in the 1970s was due mainly to the impact of the Vietnam conflict?",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2024",
+          "part": "Q2"
+        },
+        "ms": {
+          "support": [
+            "The costly Vietnam war pushed the USA towards détente",
+            "Nixon sought Chinese engagement to pressure North Vietnam",
+            "withdrawal reduced the risk of escalation",
+            "détente seemed more cost-effective"
+          ],
+          "challenge": [
+            "Fear of nuclear proliferation drove SALT I",
+            "arms race costs encouraged arms control",
+            "the Sino-Soviet conflict (1969) made both open to the USA",
+            "Soviet economic problems and Eastern European tensions"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2022, Q2",
+        "sections": [
+          "s4"
+        ],
+        "q": "To what extent was détente between the superpowers maintained in the 1970s?",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2022",
+          "part": "Q2"
+        },
+        "ms": {
+          "support": [
+            "SALT I and SALT II",
+            "Nixon's 1972 China visit and Soviet summits",
+            "Ostpolitik eased European tensions",
+            "Apollo–Soyuz (1975) and grain trade"
+          ],
+          "challenge": [
+            "Both sides kept developing weapons",
+            "proxy wars in Africa and South America",
+            "Soviet disregard for Helsinki human-rights commitments",
+            "détente collapsing by 1979 — SALT II problems and Afghanistan"
+          ]
+        }
+      },
+      {
+        "id": "q3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2023, Q3",
+        "sections": [
+          "s2",
+          "s4"
+        ],
+        "q": "How far do you agree that, in the years 1962–79, the main consequence of the Cuban Missile Crisis for superpower relations was a commitment to reduce the spread of nuclear weaponry?",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2023",
+          "part": "Q3"
+        },
+        "ms": {
+          "support": [
+            "The crisis forced both sides to confront nuclear realities",
+            "the Test Ban Treaty (1963)",
+            "the NPT and SALT showed continuing commitment",
+            "MAD meant neither wanted to strike first"
+          ],
+          "challenge": [
+            "Arsenals kept expanding",
+            "China tested its first bomb in October 1964",
+            "the hot-line was about communication, not arms reduction",
+            "détente and proxy wars shifted rivalry elsewhere"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-june2025-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2025, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2025",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that relations between the superpowers significantly improved in the years 1964–79?",
+        "ms": {
+          "support": [
+            "Arms control — NPT, SALT I and II",
+            "Nixon's visits and the 1972 China visit",
+            "grain trade",
+            "the Helsinki Accords (1975)",
+            "cultural and scientific exchanges such as Apollo–Soyuz"
+          ],
+          "challenge": [
+            "Arms development continued",
+            "proxy wars, notably in southern Africa",
+            "US criticism of human rights and the Prague Spring (1968)",
+            "continuing Sino-Soviet hostility",
+            "détente weakened over Iran, Afghanistan, Central America and SALT II"
+          ]
+        },
+        "exq": {
+          "series": "WHI04/1C examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-Advanced-Level/History/2015/Exam-materials/whi04-1c-pef-20250814.pdf",
+          "strong": [
+            "A thematic structure (arms control, proxy wars, economic cooperation, China) works well; recognise that much diplomacy was superficial."
+          ],
+          "weak": [
+            "Plain chronology or US–Soviet relations only; long sections on Kennedy and Cuba."
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-june2021-2",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2021, Q2",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2021",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the 1970s, war by proxy significantly undermined détente between the superpowers?",
+        "ms": {
+          "support": [
+            "Proxy conflicts kept the superpowers in rivalry",
+            "US backing of South American regimes clashed with Helsinki commitments",
+            "the Yom Kippur War (1973) raised the danger of direct conflict",
+            "rivalry in Angola caused US mistrust"
+          ],
+          "challenge": [
+            "Summits continued — Nixon–Mao (1972) and Brezhnev–Carter (1979)",
+            "SALT I (1972) and SALT II (1979)",
+            "Apollo–Soyuz (1975)",
+            "Sino-Soviet rivalry encouraged US engagement"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-january2021-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, January 2021, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "January 2021",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far do you agree that, in the years 1964–79, the threat of nuclear war between the superpowers greatly decreased?",
+        "ms": {
+          "support": [
+            "The hot-line reduced the risk of accidental war",
+            "MAD deterred nuclear use",
+            "the 1968 NPT curbed proliferation",
+            "SALT I and II limited arsenals"
+          ],
+          "challenge": [
+            "China's 1964 test and Sino-Soviet tensions",
+            "MIRVs greatly increased warhead numbers",
+            "the US neutron bomb",
+            "SALT II took years and was not ratified"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-january2020-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, January 2020, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "January 2020",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "To what extent did China’s relationship with the USSR and the USA change in the years 1964–90?",
+        "ms": {
+          "support": [
+            "Nixon's 1972 visit began rapprochement",
+            "1979 normalisation brought full recognition",
+            "Deng's shift allowed partial rapprochement with the USSR",
+            "Deng and Gorbachev reduced the risk of Sino-Soviet confrontation"
+          ],
+          "challenge": [
+            "Sino-Soviet hostility persisted, including the 1969 border conflict",
+            "disputes over Afghanistan, Mongolia and Vietnam kept tensions",
+            "rivalry in supporting communist movements in Asia and Africa",
+            "US–China friction over Taiwan continued"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-june2019-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2019, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2019",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far do you agree that the most significant feature of superpower relations in the years 1964–79 was war by proxy?",
+        "ms": {
+          "support": [
+            "The superpowers backed opposing sides in Latin America, Africa and Asia",
+            "Sino-Soviet competition, e.g. in Rhodesia",
+            "US support for Israel versus Soviet backing of Arab states",
+            "the Yom Kippur War (1973)"
+          ],
+          "challenge": [
+            "Détente and the SALT talks defined the period",
+            "the US–China thaw",
+            "summits, trade and space cooperation",
+            "the Helsinki Agreement (1975)"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-october2018-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, October 2018, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "October 2018",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far do you agree that the superpowers remained committed to a policy of détente throughout the 1970s?",
+        "ms": {
+          "support": [
+            "SALT I (1972) and SALT II (1979)",
+            "the 1972 trade deal and Apollo–Soyuz",
+            "Nixon's China visit",
+            "Vietnam's costs pushed the USA to negotiate"
+          ],
+          "challenge": [
+            "Both exploited agreements for advantage and Helsinki 'Basket 3' caused disputes",
+            "Soviet support for communist victories in Vietnam and the Middle East",
+            "proxy wars and Sino-Soviet hostility",
+            "Afghanistan (1979) and SALT II's non-ratification"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-january2018-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, January 2018, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "January 2018",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far do you agree that Nixon’s official visit to China in 1972 led to a significant change in superpower relations?",
+        "ms": {
+          "support": [
+            "The visit acknowledged China's legitimacy for the first time since 1949",
+            "it created a tri-polar world",
+            "Sino-US ties pushed the USSR towards détente and arms talks",
+            "both pressed North Vietnam to negotiate"
+          ],
+          "challenge": [
+            "The USA did not formally recognise China until 1979",
+            "US policy had been moving towards engagement earlier",
+            "Sino-Soviet relations were already poor after 1969",
+            "US–Soviet détente had begun after the Cuban Missile Crisis"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-specimen-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, Specimen, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "Specimen",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far do you agree that neither the USA nor the Soviet Union were seriously committed to Détente in the 1970s?"
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Relative significance", "task": "Rank the four specification reasons for détente using the department factor frame." },
-    { "id": "t2", "kind": "Interpretation", "task": "Was détente a genuine improvement or 'superficial diplomacy' (examiners' phrase for weaker evidence)? Argue both sides." }
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Rank the four specification reasons for détente using the department factor frame."
+    },
+    {
+      "id": "t2",
+      "kind": "Interpretation",
+      "task": "Was détente a genuine improvement or 'superficial diplomacy' (examiners' phrase for weaker evidence)? Argue both sides."
+    }
   ]
 }

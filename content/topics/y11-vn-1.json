@@ -1,110 +1,508 @@
 {
-  "id": "y11-vn-1", "course": "y11", "area": "vn", "kt": "Key topic 1", "order": 31,
+  "id": "y11-vn-1",
+  "course": "y11",
+  "area": "vn",
+  "kt": "Key topic 1",
+  "order": 31,
   "title": "The struggle against France for independence, 1945–54",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Historical investigation A4, key topic 1. No class textbook uploaded for this option yet." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following 4HI1 Historical investigation A4, key topic 1. No class textbook uploaded for this option yet."
+  },
   "learn": {
     "intro": "After the Second World War, Ho Chi Minh's Vietminh declared Vietnamese independence. France tried to take back its colony, leading to eight years of war that ended in French defeat at Dien Bien Phu.",
     "sections": [
       {
-        "id": "s1", "title": "1. Origins of the First Indochina War and the aims of the Vietminh",
+        "id": "s1",
+        "title": "1. Origins of the First Indochina War and the aims of the Vietminh",
         "blocks": [
-          { "p": "Vietnam had been part of French Indochina since the late 1800s. During the Second World War Japan occupied it. In 1941 Ho Chi Minh, a communist and nationalist, set up the Vietminh (League for the Independence of Vietnam) to fight the Japanese and the French." },
-          { "p": "When Japan surrendered, Ho declared Vietnamese independence in Hanoi on 2 September 1945, quoting the American Declaration of Independence. But France wanted its colony back. Talks failed, and after French ships shelled Haiphong in November 1946, full war began in December 1946." },
-          { "p": "The Vietminh's aims: full independence from France, a united Vietnam, land for peasants, and a communist government. Their message of independence and land reform won wide peasant support." }
+          {
+            "p": "Vietnam had been part of French Indochina since the late 1800s. During the Second World War Japan occupied it. In 1941 Ho Chi Minh, a communist and nationalist, set up the Vietminh (League for the Independence of Vietnam) to fight the Japanese and the French."
+          },
+          {
+            "p": "When Japan surrendered, Ho declared Vietnamese independence in Hanoi on 2 September 1945, quoting the American Declaration of Independence. But France wanted its colony back. Talks failed, and after French ships shelled Haiphong in November 1946, full war began in December 1946."
+          },
+          {
+            "p": "The Vietminh's aims: full independence from France, a united Vietnam, land for peasants, and a communist government. Their message of independence and land reform won wide peasant support."
+          }
         ],
-        "terms": ["Indochina", "Vietminh", "nationalism", "communism"],
-        "evidence": ["1941: Vietminh founded.", "2 September 1945: Ho declares independence.", "December 1946: war begins."]
+        "terms": [
+          "Indochina",
+          "Vietminh",
+          "nationalism",
+          "communism"
+        ],
+        "evidence": [
+          "1941: Vietminh founded.",
+          "2 September 1945: Ho declares independence.",
+          "December 1946: war begins."
+        ]
       },
       {
-        "id": "s2", "title": "2. General Giap's tactics and the search for a solution",
+        "id": "s2",
+        "title": "2. General Giap's tactics and the search for a solution",
         "blocks": [
-          { "p": "General Vo Nguyen Giap commanded the Vietminh army. Following Mao's ideas, he used guerrilla warfare: small units, ambushes, hit-and-run attacks and support from villagers, avoiding large battles while the French were stronger. The aim was to wear the French down and only fight conventional battles once strong enough." },
-          { "p": "After the communists won in China in 1949, the Vietminh received Chinese weapons, training and safe bases. The USA, fearing the spread of communism, paid an increasing share of France's war costs — by 1954 most of them." },
-          { "p": "France looked for a way out. Peace talks began at the Geneva Conference in April 1954, while the decisive battle was being fought." }
+          {
+            "p": "General Vo Nguyen Giap commanded the Vietminh army. Following Mao's ideas, he used guerrilla warfare: small units, ambushes, hit-and-run attacks and support from villagers, avoiding large battles while the French were stronger. The aim was to wear the French down and only fight conventional battles once strong enough."
+          },
+          {
+            "p": "After the communists won in China in 1949, the Vietminh received Chinese weapons, training and safe bases. The USA, fearing the spread of communism, paid an increasing share of France's war costs — by 1954 most of them."
+          },
+          {
+            "p": "France looked for a way out. Peace talks began at the Geneva Conference in April 1954, while the decisive battle was being fought."
+          }
         ],
-        "terms": ["guerrilla warfare", "ambush", "Geneva Conference"],
-        "evidence": ["1949: communist victory in China brings aid to the Vietminh.", "By 1954 the USA paid most of France's war costs."]
+        "terms": [
+          "guerrilla warfare",
+          "ambush",
+          "Geneva Conference"
+        ],
+        "evidence": [
+          "1949: communist victory in China brings aid to the Vietminh.",
+          "By 1954 the USA paid most of France's war costs."
+        ]
       },
       {
-        "id": "s3", "title": "3. Dien Bien Phu and its consequences",
+        "id": "s3",
+        "title": "3. Dien Bien Phu and its consequences",
         "blocks": [
-          { "p": "In November 1953 the French built a fortified base at Dien Bien Phu, in a valley near the Laos border, hoping to lure the Vietminh into a battle they would lose. Instead, Giap's forces dragged heavy artillery up the surrounding hills by hand and surrounded the base." },
-          { "p": "The siege began on 13 March 1954. Vietminh artillery destroyed the airstrip, so the French could only be supplied by parachute. The base surrendered on 7 May 1954, and thousands of French troops were captured." },
-          { "p": "Immediate consequences: France decided to leave Indochina. The Geneva Agreements (July 1954) recognised the independence of Vietnam, Laos and Cambodia and temporarily divided Vietnam at the 17th parallel — communist North under Ho, non-communist South — with national elections promised for 1956." }
+          {
+            "p": "In November 1953 the French built a fortified base at Dien Bien Phu, in a valley near the Laos border, hoping to lure the Vietminh into a battle they would lose. Instead, Giap's forces dragged heavy artillery up the surrounding hills by hand and surrounded the base."
+          },
+          {
+            "p": "The siege began on 13 March 1954. Vietminh artillery destroyed the airstrip, so the French could only be supplied by parachute. The base surrendered on 7 May 1954, and thousands of French troops were captured."
+          },
+          {
+            "p": "Immediate consequences: France decided to leave Indochina. The Geneva Agreements (July 1954) recognised the independence of Vietnam, Laos and Cambodia and temporarily divided Vietnam at the 17th parallel — communist North under Ho, non-communist South — with national elections promised for 1956."
+          }
         ],
-        "terms": ["siege", "artillery", "17th parallel", "Geneva Agreements"],
-        "evidence": ["November 1953: French base at Dien Bien Phu.", "13 March – 7 May 1954: siege.", "July 1954: Geneva Agreements — division at the 17th parallel; elections promised for 1956."]
+        "terms": [
+          "siege",
+          "artillery",
+          "17th parallel",
+          "Geneva Agreements"
+        ],
+        "evidence": [
+          "November 1953: French base at Dien Bien Phu.",
+          "13 March – 7 May 1954: siege.",
+          "July 1954: Geneva Agreements — division at the 17th parallel; elections promised for 1956."
+        ]
       }
     ],
     "timeline": [
-      { "date": "1941", "event": "Ho Chi Minh founds the Vietminh" },
-      { "date": "2 Sept 1945", "event": "Ho declares Vietnamese independence" },
-      { "date": "Dec 1946", "event": "First Indochina War begins" },
-      { "date": "1949", "event": "Communist victory in China; aid to the Vietminh" },
-      { "date": "Nov 1953", "event": "French build the base at Dien Bien Phu" },
-      { "date": "13 March 1954", "event": "Siege of Dien Bien Phu begins" },
-      { "date": "7 May 1954", "event": "French surrender at Dien Bien Phu" },
-      { "date": "July 1954", "event": "Geneva Agreements divide Vietnam" }
+      {
+        "date": "1941",
+        "event": "Ho Chi Minh founds the Vietminh"
+      },
+      {
+        "date": "2 Sept 1945",
+        "event": "Ho declares Vietnamese independence"
+      },
+      {
+        "date": "Dec 1946",
+        "event": "First Indochina War begins"
+      },
+      {
+        "date": "1949",
+        "event": "Communist victory in China; aid to the Vietminh"
+      },
+      {
+        "date": "Nov 1953",
+        "event": "French build the base at Dien Bien Phu"
+      },
+      {
+        "date": "13 March 1954",
+        "event": "Siege of Dien Bien Phu begins"
+      },
+      {
+        "date": "7 May 1954",
+        "event": "French surrender at Dien Bien Phu"
+      },
+      {
+        "date": "July 1954",
+        "event": "Geneva Agreements divide Vietnam"
+      }
     ],
     "people": [
-      { "name": "Ho Chi Minh", "role": "Communist nationalist leader of the Vietminh; later President of North Vietnam." },
-      { "name": "Vo Nguyen Giap", "role": "Vietminh military commander; victor at Dien Bien Phu." }
+      {
+        "name": "Ho Chi Minh",
+        "role": "Communist nationalist leader of the Vietminh; later President of North Vietnam."
+      },
+      {
+        "name": "Vo Nguyen Giap",
+        "role": "Vietminh military commander; victor at Dien Bien Phu."
+      }
     ],
     "vocab": [
-      { "term": "Vietminh", "def": "League for the Independence of Vietnam, led by Ho Chi Minh." },
-      { "term": "Guerrilla warfare", "def": "Small-unit hit-and-run fighting, avoiding big battles." },
-      { "term": "17th parallel", "def": "Line dividing North and South Vietnam from 1954." },
-      { "term": "Colony", "def": "A country ruled by another country." }
+      {
+        "term": "Vietminh",
+        "def": "League for the Independence of Vietnam, led by Ho Chi Minh."
+      },
+      {
+        "term": "Guerrilla warfare",
+        "def": "Small-unit hit-and-run fighting, avoiding big battles."
+      },
+      {
+        "term": "17th parallel",
+        "def": "Line dividing North and South Vietnam from 1954."
+      },
+      {
+        "term": "Colony",
+        "def": "A country ruled by another country."
+      }
     ],
     "misconceptions": [
-      { "wrong": "The USA was not involved before 1954.", "right": "It was paying most of France's war costs by 1954." },
-      { "wrong": "The 1954 division was meant to be permanent.", "right": "It was temporary, with elections promised for 1956." }
+      {
+        "wrong": "The USA was not involved before 1954.",
+        "right": "It was paying most of France's war costs by 1954."
+      },
+      {
+        "wrong": "The 1954 division was meant to be permanent.",
+        "right": "It was temporary, with elections promised for 1956."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "Who led the Vietminh?", "options": ["Ngo Dinh Diem", "Ho Chi Minh", "General Giap", "Bao Dai"], "answer": 1, "why": "Founded 1941." },
-      { "id": "m2", "s": "s1", "q": "When did Ho declare independence?", "options": ["1941", "2 September 1945", "1946", "1954"], "answer": 1, "why": "In Hanoi, after Japan's surrender." },
-      { "id": "m3", "s": "s2", "q": "Which event in 1949 helped the Vietminh?", "options": ["The Korean War ended", "Communist victory in China", "France left NATO", "The Geneva Conference"], "answer": 1, "why": "China supplied weapons and training." },
-      { "id": "m4", "s": "s3", "q": "How did Giap win at Dien Bien Phu?", "options": ["Bombing from the air", "Dragging artillery onto the surrounding hills", "Naval landings", "A surprise attack from Laos only"], "answer": 1, "why": "The airstrip was destroyed and the base surrounded." },
-      { "id": "m5", "s": "s3", "q": "Where was Vietnam divided in 1954?", "options": ["38th parallel", "17th parallel", "Mekong River", "Hanoi"], "answer": 1, "why": "Geneva Agreements, July 1954." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Who led the Vietminh?",
+        "options": [
+          "Ngo Dinh Diem",
+          "Ho Chi Minh",
+          "General Giap",
+          "Bao Dai"
+        ],
+        "answer": 1,
+        "why": "Founded 1941."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "When did Ho declare independence?",
+        "options": [
+          "1941",
+          "2 September 1945",
+          "1946",
+          "1954"
+        ],
+        "answer": 1,
+        "why": "In Hanoi, after Japan's surrender."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Which event in 1949 helped the Vietminh?",
+        "options": [
+          "The Korean War ended",
+          "Communist victory in China",
+          "France left NATO",
+          "The Geneva Conference"
+        ],
+        "answer": 1,
+        "why": "China supplied weapons and training."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "How did Giap win at Dien Bien Phu?",
+        "options": [
+          "Bombing from the air",
+          "Dragging artillery onto the surrounding hills",
+          "Naval landings",
+          "A surprise attack from Laos only"
+        ],
+        "answer": 1,
+        "why": "The airstrip was destroyed and the base surrounded."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "Where was Vietnam divided in 1954?",
+        "options": [
+          "38th parallel",
+          "17th parallel",
+          "Mekong River",
+          "Hanoi"
+        ],
+        "answer": 1,
+        "why": "Geneva Agreements, July 1954."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s3", "q": "On what date did the French surrender at Dien Bien Phu?", "accept": ["7 may 1954", "7th may 1954", "may 7 1954", "7 may"], "answer": "7 May 1954" },
-      { "id": "a2", "s": "s2", "q": "Who commanded the Vietminh army?", "accept": ["giap", "general giap", "vo nguyen giap"], "answer": "General Vo Nguyen Giap" },
-      { "id": "a3", "s": "s3", "q": "In which year were national elections promised?", "accept": ["1956"], "answer": "1956" }
+      {
+        "id": "a1",
+        "s": "s3",
+        "q": "On what date did the French surrender at Dien Bien Phu?",
+        "accept": [
+          "7 may 1954",
+          "7th may 1954",
+          "may 7 1954",
+          "7 may"
+        ],
+        "answer": "7 May 1954"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "Who commanded the Vietminh army?",
+        "accept": [
+          "giap",
+          "general giap",
+          "vo nguyen giap"
+        ],
+        "answer": "General Vo Nguyen Giap"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "In which year were national elections promised?",
+        "accept": [
+          "1956"
+        ],
+        "answer": "1956"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these in order", "items": ["Vietminh founded", "Independence declared", "War begins", "Communist victory in China", "Siege of Dien Bien Phu", "Geneva Agreements"] }
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Vietminh founded",
+          "Independence declared",
+          "War begins",
+          "Communist victory in China",
+          "Siege of Dien Bien Phu",
+          "Geneva Agreements"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the term to its meaning", "pairs": [["Vietminh", "Ho's independence movement"], ["Guerrilla warfare", "Hit-and-run fighting"], ["17th parallel", "Dividing line in 1954"], ["Geneva Agreements", "The 1954 peace settlement"]] }
+      {
+        "id": "x1",
+        "title": "Match the term to its meaning",
+        "pairs": [
+          [
+            "Vietminh",
+            "Ho's independence movement"
+          ],
+          [
+            "Guerrilla warfare",
+            "Hit-and-run fighting"
+          ],
+          [
+            "17th parallel",
+            "Dividing line in 1954"
+          ],
+          [
+            "Geneva Agreements",
+            "The 1954 peace settlement"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s3", "q": "Give precise evidence about the siege of Dien Bien Phu.", "keywords": [["13 march", "7 may", "1954", "artillery", "hills", "airstrip"]], "model": "The siege lasted from 13 March to 7 May 1954; Giap's artillery on the hills destroyed the airstrip and the French surrendered." }
+      {
+        "id": "e1",
+        "s": "s3",
+        "q": "Give precise evidence about the siege of Dien Bien Phu.",
+        "keywords": [
+          [
+            "13 march",
+            "7 may",
+            "1954",
+            "artillery",
+            "hills",
+            "airstrip"
+          ]
+        ],
+        "model": "The siege lasted from 13 March to 7 May 1954; Giap's artillery on the hills destroyed the airstrip and the French surrendered."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "What were the aims of the Vietminh?", "a": "Independence from France, a united Vietnam, land for peasants and a communist government.", "hint": "Independence + land." },
-    { "id": "f2", "s": "s2", "q": "Describe Giap's tactics.", "a": "Guerrilla warfare — small units, ambushes, hit-and-run, support from villagers; big battles only when strong enough.", "hint": "Mao's ideas." },
-    { "id": "f3", "s": "s2", "q": "How did the USA help France?", "a": "Paid an increasing share of the war costs — most of them by 1954.", "hint": "Money." },
-    { "id": "f4", "s": "s3", "q": "Why did the French lose at Dien Bien Phu?", "a": "Base in a valley; Giap's artillery on the hills destroyed the airstrip; supply only by parachute.", "hint": "Valley." },
-    { "id": "f5", "s": "s3", "q": "What did the Geneva Agreements decide?", "a": "Independence for Vietnam, Laos and Cambodia; temporary division at the 17th parallel; elections in 1956.", "hint": "July 1954." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "What were the aims of the Vietminh?",
+      "a": "Independence from France, a united Vietnam, land for peasants and a communist government.",
+      "hint": "Independence + land."
+    },
+    {
+      "id": "f2",
+      "s": "s2",
+      "q": "Describe Giap's tactics.",
+      "a": "Guerrilla warfare — small units, ambushes, hit-and-run, support from villagers; big battles only when strong enough.",
+      "hint": "Mao's ideas."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "How did the USA help France?",
+      "a": "Paid an increasing share of the war costs — most of them by 1954.",
+      "hint": "Money."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "Why did the French lose at Dien Bien Phu?",
+      "a": "Base in a valley; Giap's artillery on the hills destroyed the airstrip; supply only by parachute.",
+      "hint": "Valley."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "What did the Geneva Agreements decide?",
+      "a": "Independence for Vietnam, Laos and Cambodia; temporary division at the 17th parallel; elections in 1956.",
+      "hint": "July 1954."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "explain", "text": "I can explain the origins of the First Indochina War and the aims of the Vietminh.", "sections": ["s1"] },
-    { "id": "k2", "level": "describe", "text": "I can describe Giap's tactics and the search for a diplomatic solution.", "sections": ["s2"] },
-    { "id": "k3", "level": "explain", "text": "I can explain the French defeat at Dien Bien Phu and its immediate consequences.", "sections": ["s3"] }
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the origins of the First Indochina War and the aims of the Vietminh.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe Giap's tactics and the search for a diplomatic solution.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain the French defeat at Dien Bien Phu and its immediate consequences.",
+      "sections": [
+        "s3"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "p2aa", "label": "Teacher-created practice question", "sections": ["s2", "s3"],
-        "q": "Describe TWO features of EITHER the tactics of General Giap OR the siege of Dien Bien Phu." }
+      {
+        "id": "q1",
+        "qtype": "p2aa",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s2",
+          "s3"
+        ],
+        "q": "Describe TWO features of EITHER the tactics of General Giap OR the siege of Dien Bien Phu."
+      },
+      {
+        "id": "pp-4hi102r-june2024-vn-a",
+        "qtype": "p2aa",
+        "label": "Past paper: 4HI1/02R, June 2024, A4(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2024",
+          "part": "A4(a)"
+        },
+        "sections": [],
+        "q": "Describe TWO features of EITHER the First Indochina War OR the fall of Saigon.",
+        "ms": {
+          "points": [
+            "First Indochina War from 1946 — Vietminh guerrilla war against France ending at Dien Bien Phu (1954)",
+            "fall of Saigon on 30 April 1975"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2023-vn-a",
+        "qtype": "p2aa",
+        "label": "Past paper: 4HI1/02R, June 2023, A4(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2023",
+          "part": "A4(a)"
+        },
+        "sections": [],
+        "q": "Describe TWO features of EITHER the aims of the Vietminh in the First Indochina War OR the Paris peace talks (1972).",
+        "ms": {
+          "points": [
+            "Independence from French rule",
+            "a communist government",
+            "guerrilla attacks to wear down the French"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2020-vn-a",
+        "qtype": "p2aa",
+        "label": "Past paper: 4HI1/02R, June 2020, A4(a)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2020",
+          "part": "A4(a)"
+        },
+        "sections": [],
+        "q": "Describe TWO features of EITHER the tactics of General Giap OR the Phoenix Programme.",
+        "ms": {
+          "points": [
+            "Giap's guerrilla warfare offset US strength",
+            "his logistics at Dien Bien Phu",
+            "the Phoenix Programme (1967–72) targeted Vietcong members — tens of thousands arrested or killed"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2019-vn-b",
+        "qtype": "p2ab",
+        "label": "Past paper: 4HI1/02R, June 2019, A4(b) (Sources A and B are in the paper)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2019",
+          "part": "A4(b)"
+        },
+        "sections": [],
+        "q": "How far does Source A support the evidence of Source B about the reasons for the French defeat at Dien Bien Phu?\nExplain your answer.",
+        "ms": {
+          "points": [
+            "Both show Vietminh knowledge of the terrain",
+            "both stress Vietminh determination",
+            "Source A blames French military mistakes while Source B does not"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102r-june2019-vn-c",
+        "qtype": "p2ac",
+        "label": "Past paper: 4HI1/02R, June 2019, A4(c) (Sources A, B and Extract C are in the paper)",
+        "pp": {
+          "paper": "4HI1/02R",
+          "series": "June 2019",
+          "part": "A4(c)"
+        },
+        "sections": [],
+        "q": "Extract C suggests that French rule in Vietnam ended because of the strength of Vietnamese resistance from 1945. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
+        "ms": {
+          "support": [
+            "Vietnamese courage and determination",
+            "heavy French losses",
+            "Vietminh guerrilla tactics and national support"
+          ]
+        }
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Relative significance", "task": "Giap's tactics, Chinese aid or French mistakes — which mattered most for the French defeat?" },
-    { "id": "t2", "kind": "Causal links", "task": "Explain how the communist victory in China in 1949 changed both sides' involvement in Vietnam." }
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Giap's tactics, Chinese aid or French mistakes — which mattered most for the French defeat?"
+    },
+    {
+      "id": "t2",
+      "kind": "Causal links",
+      "task": "Explain how the communist victory in China in 1949 changed both sides' involvement in Vietnam."
+    }
   ]
 }

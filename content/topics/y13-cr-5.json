@@ -1,136 +1,613 @@
 {
-  "id": "y13-cr-5", "course": "y13", "area": "cr", "kt": "Key topic 5", "order": 5,
+  "id": "y13-cr-5",
+  "course": "y13",
+  "area": "cr",
+  "kt": "Key topic 5",
+  "order": 5,
   "title": "Race relations and Obama's campaign for the presidency, c2000–09",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following IAL Unit 3 Option 1D key topic 5." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following IAL Unit 3 Option 1D key topic 5."
+  },
   "learn": {
     "intro": "By 2000 black Americans held thousands of elected offices and a black middle class had grown — yet tensions over policing, poverty and Hurricane Katrina showed how much remained unequal. How did Barack Obama win the presidency in 2008, and what did his victory mean?",
     "sections": [
       {
-        "id": "s1", "title": "1. Black voters and politicians at the turn of the century",
+        "id": "s1",
+        "title": "1. Black voters and politicians at the turn of the century",
         "blocks": [
-          { "p": "The 2000 census counted about 36 million black Americans, around 12–13 per cent of the population. More than half lived in the South — reversing some of the earlier Great Migration as people moved to growing southern cities — with large concentrations in northern and western cities. Their votes were especially important in the South and in urban areas of swing states." },
-          { "p": "The number of black elected officials rose from fewer than 1,500 in 1970 to more than 9,000 by the early 2000s, helped by the Voting Rights Act and majority-black districts. Black mayors had led cities such as Atlanta, Detroit and Chicago; Colin Powell (2001–05) and Condoleezza Rice (2005–09) served as Secretary of State; Deval Patrick became Governor of Massachusetts in 2007." },
-          { "p": "A substantial black middle class had grown since the 1960s through education and professional and public-sector jobs, many moving to suburbs. But gaps in wealth, income, unemployment and poverty remained wide." },
-          { "p": "Continuing tensions included policing and racial profiling — riots followed a police shooting in Cincinnati in 2001; very high rates of imprisonment of black men; the slow federal response to Hurricane Katrina (2005), which hit black neighbourhoods of New Orleans hardest; and the Jena Six case (2006–07) in Louisiana." }
+          {
+            "p": "The 2000 census counted about 36 million black Americans, around 12–13 per cent of the population. More than half lived in the South — reversing some of the earlier Great Migration as people moved to growing southern cities — with large concentrations in northern and western cities. Their votes were especially important in the South and in urban areas of swing states."
+          },
+          {
+            "p": "The number of black elected officials rose from fewer than 1,500 in 1970 to more than 9,000 by the early 2000s, helped by the Voting Rights Act and majority-black districts. Black mayors had led cities such as Atlanta, Detroit and Chicago; Colin Powell (2001–05) and Condoleezza Rice (2005–09) served as Secretary of State; Deval Patrick became Governor of Massachusetts in 2007."
+          },
+          {
+            "p": "A substantial black middle class had grown since the 1960s through education and professional and public-sector jobs, many moving to suburbs. But gaps in wealth, income, unemployment and poverty remained wide."
+          },
+          {
+            "p": "Continuing tensions included policing and racial profiling — riots followed a police shooting in Cincinnati in 2001; very high rates of imprisonment of black men; the slow federal response to Hurricane Katrina (2005), which hit black neighbourhoods of New Orleans hardest; and the Jena Six case (2006–07) in Louisiana."
+          }
         ],
-        "terms": ["black middle class", "majority-black districts", "racial profiling", "mass incarceration"],
-        "evidence": ["2000 census: about 36 million black Americans (12–13%).", "Black elected officials: under 1,500 (1970) → over 9,000 (early 2000s).", "2001: Cincinnati riots; 2005: Hurricane Katrina."]
+        "terms": [
+          "black middle class",
+          "majority-black districts",
+          "racial profiling",
+          "mass incarceration"
+        ],
+        "evidence": [
+          "2000 census: about 36 million black Americans (12–13%).",
+          "Black elected officials: under 1,500 (1970) → over 9,000 (early 2000s).",
+          "2001: Cincinnati riots; 2005: Hurricane Katrina."
+        ]
       },
       {
-        "id": "s2", "title": "2. Obama's political career to 2006",
+        "id": "s2",
+        "title": "2. Obama's political career to 2006",
         "blocks": [
-          { "p": "Barack Obama was born in Hawaii in 1961 to a Kenyan father and a white mother from Kansas. He worked as a community organiser in Chicago, studied at Harvard Law School, where in 1990 he became the first black president of the Harvard Law Review, and wrote the memoir Dreams from My Father (1995)." },
-          { "p": "He served in the Illinois State Senate (1997–2004), lost a congressional primary to Bobby Rush in 2000, and in 2002 spoke against the coming war in Iraq. His keynote speech at the Democratic National Convention in July 2004 — insisting there was not a black America and a white America but a United States of America — made him a national figure. In November 2004 he was elected US Senator for Illinois with about 70 per cent of the vote, one of very few black senators in US history." }
+          {
+            "p": "Barack Obama was born in Hawaii in 1961 to a Kenyan father and a white mother from Kansas. He worked as a community organiser in Chicago, studied at Harvard Law School, where in 1990 he became the first black president of the Harvard Law Review, and wrote the memoir Dreams from My Father (1995)."
+          },
+          {
+            "p": "He served in the Illinois State Senate (1997–2004), lost a congressional primary to Bobby Rush in 2000, and in 2002 spoke against the coming war in Iraq. His keynote speech at the Democratic National Convention in July 2004 — insisting there was not a black America and a white America but a United States of America — made him a national figure. In November 2004 he was elected US Senator for Illinois with about 70 per cent of the vote, one of very few black senators in US history."
+          }
         ],
-        "terms": ["keynote address", "community organiser", "crossover appeal"],
-        "evidence": ["1990: first black president of the Harvard Law Review.", "1997–2004: Illinois State Senate.", "July 2004: DNC keynote speech.", "November 2004: elected US Senator for Illinois."]
+        "terms": [
+          "keynote address",
+          "community organiser",
+          "crossover appeal"
+        ],
+        "evidence": [
+          "1990: first black president of the Harvard Law Review.",
+          "1997–2004: Illinois State Senate.",
+          "July 2004: DNC keynote speech.",
+          "November 2004: elected US Senator for Illinois."
+        ]
       },
       {
-        "id": "s3", "title": "3. Winning the Democratic nomination",
+        "id": "s3",
+        "title": "3. Winning the Democratic nomination",
         "blocks": [
-          { "p": "Obama announced his candidacy in Springfield, Illinois, in February 2007. The favourite was Hillary Clinton. Obama won the Iowa caucuses in January 2008, proving he could win in an overwhelmingly white state, then built a delegate lead through caucus states and strong support from black voters in the South." },
-          { "p": "Reasons for success: his personality and rhetorical ability ('Yes we can'; 'change'); his early opposition to the Iraq war, which contrasted with Clinton's vote for it; a new election strategy using the internet and social networking to recruit volunteers and raise money from millions of small donors; a strong ground organisation in every state; and an appeal to young voters." },
-          { "p": "When sermons by his former pastor Jeremiah Wright caused controversy, Obama's 'A More Perfect Union' speech in Philadelphia (March 2008) addressed race directly and limited the damage. He secured the nomination in June 2008." }
+          {
+            "p": "Obama announced his candidacy in Springfield, Illinois, in February 2007. The favourite was Hillary Clinton. Obama won the Iowa caucuses in January 2008, proving he could win in an overwhelmingly white state, then built a delegate lead through caucus states and strong support from black voters in the South."
+          },
+          {
+            "p": "Reasons for success: his personality and rhetorical ability ('Yes we can'; 'change'); his early opposition to the Iraq war, which contrasted with Clinton's vote for it; a new election strategy using the internet and social networking to recruit volunteers and raise money from millions of small donors; a strong ground organisation in every state; and an appeal to young voters."
+          },
+          {
+            "p": "When sermons by his former pastor Jeremiah Wright caused controversy, Obama's 'A More Perfect Union' speech in Philadelphia (March 2008) addressed race directly and limited the damage. He secured the nomination in June 2008."
+          }
         ],
-        "terms": ["caucus", "primary", "grassroots fundraising", "'A More Perfect Union'"],
-        "evidence": ["February 2007: campaign launched.", "3 January 2008: wins Iowa caucuses.", "18 March 2008: 'A More Perfect Union' speech.", "June 2008: nomination secured."]
+        "terms": [
+          "caucus",
+          "primary",
+          "grassroots fundraising",
+          "'A More Perfect Union'"
+        ],
+        "evidence": [
+          "February 2007: campaign launched.",
+          "3 January 2008: wins Iowa caucuses.",
+          "18 March 2008: 'A More Perfect Union' speech.",
+          "June 2008: nomination secured."
+        ]
       },
       {
-        "id": "s4", "title": "4. Victory in November 2008 and the response",
+        "id": "s4",
+        "title": "4. Victory in November 2008 and the response",
         "blocks": [
-          { "p": "Against the Republican John McCain, Obama benefited from the unpopularity of President George W. Bush and the Iraq war, and above all from the financial crisis: the collapse of Lehman Brothers in September 2008 shifted the campaign to the economy, where voters trusted Obama more. McCain's choice of Sarah Palin as running mate and his erratic response to the crisis hurt him. Obama raised far more money, having declined public funding for the general election." },
-          { "p": "On 4 November 2008 Obama won about 53 per cent of the popular vote and 365 electoral votes, carrying states such as Virginia, North Carolina and Indiana. Around 95 per cent of black voters, two-thirds of Latino and young voters, and about 43 per cent of white voters supported him; black turnout was very high." },
-          { "p": "The response: many black Americans saw the victory as the fulfilment of the movement's struggle; veterans such as John Lewis and Jesse Jackson spoke of it in those terms, and the night in Chicago's Grant Park became an iconic image. Many white Americans celebrated too. But there was also hostility: threats against the President-elect, the 'birther' conspiracy theory questioning his citizenship, and the rise of the Tea Party in 2009. Talk of a 'post-racial' America proved premature." }
+          {
+            "p": "Against the Republican John McCain, Obama benefited from the unpopularity of President George W. Bush and the Iraq war, and above all from the financial crisis: the collapse of Lehman Brothers in September 2008 shifted the campaign to the economy, where voters trusted Obama more. McCain's choice of Sarah Palin as running mate and his erratic response to the crisis hurt him. Obama raised far more money, having declined public funding for the general election."
+          },
+          {
+            "p": "On 4 November 2008 Obama won about 53 per cent of the popular vote and 365 electoral votes, carrying states such as Virginia, North Carolina and Indiana. Around 95 per cent of black voters, two-thirds of Latino and young voters, and about 43 per cent of white voters supported him; black turnout was very high."
+          },
+          {
+            "p": "The response: many black Americans saw the victory as the fulfilment of the movement's struggle; veterans such as John Lewis and Jesse Jackson spoke of it in those terms, and the night in Chicago's Grant Park became an iconic image. Many white Americans celebrated too. But there was also hostility: threats against the President-elect, the 'birther' conspiracy theory questioning his citizenship, and the rise of the Tea Party in 2009. Talk of a 'post-racial' America proved premature."
+          }
         ],
-        "terms": ["electoral college", "swing state", "post-racial", "birther conspiracy"],
-        "evidence": ["15 September 2008: Lehman Brothers collapses.", "4 November 2008: about 53% of the popular vote, 365 electoral votes.", "About 95% of black voters and about 43% of white voters backed Obama."]
+        "terms": [
+          "electoral college",
+          "swing state",
+          "post-racial",
+          "birther conspiracy"
+        ],
+        "evidence": [
+          "15 September 2008: Lehman Brothers collapses.",
+          "4 November 2008: about 53% of the popular vote, 365 electoral votes.",
+          "About 95% of black voters and about 43% of white voters backed Obama."
+        ]
       }
     ],
     "timeline": [
-      { "date": "1961", "event": "Barack Obama born in Hawaii" },
-      { "date": "1990", "event": "First black president of the Harvard Law Review" },
-      { "date": "2001", "event": "Colin Powell becomes Secretary of State; Cincinnati riots" },
-      { "date": "July 2004", "event": "Obama's keynote at the Democratic National Convention" },
-      { "date": "Nov 2004", "event": "Obama elected US Senator for Illinois" },
-      { "date": "Aug 2005", "event": "Hurricane Katrina" },
-      { "date": "Feb 2007", "event": "Obama launches his presidential campaign" },
-      { "date": "Jan 2008", "event": "Obama wins the Iowa caucuses" },
-      { "date": "March 2008", "event": "'A More Perfect Union' speech" },
-      { "date": "Sept 2008", "event": "Lehman Brothers collapses" },
-      { "date": "4 Nov 2008", "event": "Obama elected President" },
-      { "date": "Jan 2009", "event": "Obama inaugurated as the 44th President" }
+      {
+        "date": "1961",
+        "event": "Barack Obama born in Hawaii"
+      },
+      {
+        "date": "1990",
+        "event": "First black president of the Harvard Law Review"
+      },
+      {
+        "date": "2001",
+        "event": "Colin Powell becomes Secretary of State; Cincinnati riots"
+      },
+      {
+        "date": "July 2004",
+        "event": "Obama's keynote at the Democratic National Convention"
+      },
+      {
+        "date": "Nov 2004",
+        "event": "Obama elected US Senator for Illinois"
+      },
+      {
+        "date": "Aug 2005",
+        "event": "Hurricane Katrina"
+      },
+      {
+        "date": "Feb 2007",
+        "event": "Obama launches his presidential campaign"
+      },
+      {
+        "date": "Jan 2008",
+        "event": "Obama wins the Iowa caucuses"
+      },
+      {
+        "date": "March 2008",
+        "event": "'A More Perfect Union' speech"
+      },
+      {
+        "date": "Sept 2008",
+        "event": "Lehman Brothers collapses"
+      },
+      {
+        "date": "4 Nov 2008",
+        "event": "Obama elected President"
+      },
+      {
+        "date": "Jan 2009",
+        "event": "Obama inaugurated as the 44th President"
+      }
     ],
     "people": [
-      { "name": "Barack Obama", "role": "Senator for Illinois 2005–08; President from January 2009." },
-      { "name": "Hillary Clinton", "role": "Obama's main rival for the 2008 Democratic nomination." },
-      { "name": "John McCain", "role": "Republican candidate, 2008." },
-      { "name": "Jeremiah Wright", "role": "Obama's former pastor; his sermons caused controversy in 2008." },
-      { "name": "Colin Powell", "role": "First black Secretary of State (2001–05); endorsed Obama in 2008." },
-      { "name": "Condoleezza Rice", "role": "Secretary of State 2005–09." }
+      {
+        "name": "Barack Obama",
+        "role": "Senator for Illinois 2005–08; President from January 2009."
+      },
+      {
+        "name": "Hillary Clinton",
+        "role": "Obama's main rival for the 2008 Democratic nomination."
+      },
+      {
+        "name": "John McCain",
+        "role": "Republican candidate, 2008."
+      },
+      {
+        "name": "Jeremiah Wright",
+        "role": "Obama's former pastor; his sermons caused controversy in 2008."
+      },
+      {
+        "name": "Colin Powell",
+        "role": "First black Secretary of State (2001–05); endorsed Obama in 2008."
+      },
+      {
+        "name": "Condoleezza Rice",
+        "role": "Secretary of State 2005–09."
+      }
     ],
     "vocab": [
-      { "term": "Caucus", "def": "Local meetings of party members to choose delegates (e.g. Iowa)." },
-      { "term": "Electoral college", "def": "The state-by-state system that formally elects the President." },
-      { "term": "Racial profiling", "def": "Targeting people for police stops because of their race." },
-      { "term": "Post-racial", "def": "The claim that race no longer shaped American life." }
+      {
+        "term": "Caucus",
+        "def": "Local meetings of party members to choose delegates (e.g. Iowa)."
+      },
+      {
+        "term": "Electoral college",
+        "def": "The state-by-state system that formally elects the President."
+      },
+      {
+        "term": "Racial profiling",
+        "def": "Targeting people for police stops because of their race."
+      },
+      {
+        "term": "Post-racial",
+        "def": "The claim that race no longer shaped American life."
+      }
     ],
     "misconceptions": [
-      { "wrong": "Obama won because black voters elected him.", "right": "Black voters were vital, but he also needed about 43% of white voters, Latino and young voters, and the financial crisis." },
-      { "wrong": "Obama's victory ended racial inequality.", "right": "Wealth, income, policing and imprisonment gaps remained; there was also a hostile backlash." }
+      {
+        "wrong": "Obama won because black voters elected him.",
+        "right": "Black voters were vital, but he also needed about 43% of white voters, Latino and young voters, and the financial crisis."
+      },
+      {
+        "wrong": "Obama's victory ended racial inequality.",
+        "right": "Wealth, income, policing and imprisonment gaps remained; there was also a hostile backlash."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "Roughly what share of the US population was black in 2000?", "options": ["About 5%", "About 12–13%", "About 25%", "About 40%"], "answer": 1, "why": "About 36 million people." },
-      { "id": "m2", "s": "s2", "q": "Which speech made Obama a national figure?", "options": ["2008 Grant Park speech", "2004 Democratic National Convention keynote", "2002 Iraq speech", "2007 Springfield announcement"], "answer": 1, "why": "July 2004." },
-      { "id": "m3", "s": "s3", "q": "Which early 2008 contest showed Obama could win white voters?", "options": ["South Carolina primary", "Iowa caucuses", "California primary", "Texas primary"], "answer": 1, "why": "3 January 2008." },
-      { "id": "m4", "s": "s3", "q": "What was new about Obama's campaign?", "options": ["Television adverts", "Internet fundraising from millions of small donors", "Whistle-stop train tours", "Public funding"], "answer": 1, "why": "He declined public funding and outraised McCain." },
-      { "id": "m5", "s": "s4", "q": "Which event in September 2008 helped Obama?", "options": ["Hurricane Katrina", "The collapse of Lehman Brothers", "The Iraq surge", "The Jena Six case"], "answer": 1, "why": "The campaign shifted to the economy." },
-      { "id": "m6", "s": "s4", "q": "How many electoral votes did Obama win?", "options": ["270", "306", "365", "538"], "answer": 2, "why": "To McCain's 173." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Roughly what share of the US population was black in 2000?",
+        "options": [
+          "About 5%",
+          "About 12–13%",
+          "About 25%",
+          "About 40%"
+        ],
+        "answer": 1,
+        "why": "About 36 million people."
+      },
+      {
+        "id": "m2",
+        "s": "s2",
+        "q": "Which speech made Obama a national figure?",
+        "options": [
+          "2008 Grant Park speech",
+          "2004 Democratic National Convention keynote",
+          "2002 Iraq speech",
+          "2007 Springfield announcement"
+        ],
+        "answer": 1,
+        "why": "July 2004."
+      },
+      {
+        "id": "m3",
+        "s": "s3",
+        "q": "Which early 2008 contest showed Obama could win white voters?",
+        "options": [
+          "South Carolina primary",
+          "Iowa caucuses",
+          "California primary",
+          "Texas primary"
+        ],
+        "answer": 1,
+        "why": "3 January 2008."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "What was new about Obama's campaign?",
+        "options": [
+          "Television adverts",
+          "Internet fundraising from millions of small donors",
+          "Whistle-stop train tours",
+          "Public funding"
+        ],
+        "answer": 1,
+        "why": "He declined public funding and outraised McCain."
+      },
+      {
+        "id": "m5",
+        "s": "s4",
+        "q": "Which event in September 2008 helped Obama?",
+        "options": [
+          "Hurricane Katrina",
+          "The collapse of Lehman Brothers",
+          "The Iraq surge",
+          "The Jena Six case"
+        ],
+        "answer": 1,
+        "why": "The campaign shifted to the economy."
+      },
+      {
+        "id": "m6",
+        "s": "s4",
+        "q": "How many electoral votes did Obama win?",
+        "options": [
+          "270",
+          "306",
+          "365",
+          "538"
+        ],
+        "answer": 2,
+        "why": "To McCain's 173."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s2", "q": "Which state did Obama represent in the US Senate?", "accept": ["illinois"], "answer": "Illinois" },
-      { "id": "a2", "s": "s3", "q": "Whose sermons caused controversy for Obama in 2008?", "accept": ["jeremiah wright", "wright", "reverend wright", "rev wright"], "answer": "Jeremiah Wright" },
-      { "id": "a3", "s": "s4", "q": "Who was the Republican candidate in 2008?", "accept": ["mccain", "john mccain"], "answer": "John McCain" },
-      { "id": "a4", "s": "s1", "q": "Which 2005 disaster exposed racial inequality in New Orleans?", "accept": ["hurricane katrina", "katrina"], "answer": "Hurricane Katrina" }
+      {
+        "id": "a1",
+        "s": "s2",
+        "q": "Which state did Obama represent in the US Senate?",
+        "accept": [
+          "illinois"
+        ],
+        "answer": "Illinois"
+      },
+      {
+        "id": "a2",
+        "s": "s3",
+        "q": "Whose sermons caused controversy for Obama in 2008?",
+        "accept": [
+          "jeremiah wright",
+          "wright",
+          "reverend wright",
+          "rev wright"
+        ],
+        "answer": "Jeremiah Wright"
+      },
+      {
+        "id": "a3",
+        "s": "s4",
+        "q": "Who was the Republican candidate in 2008?",
+        "accept": [
+          "mccain",
+          "john mccain"
+        ],
+        "answer": "John McCain"
+      },
+      {
+        "id": "a4",
+        "s": "s1",
+        "q": "Which 2005 disaster exposed racial inequality in New Orleans?",
+        "accept": [
+          "hurricane katrina",
+          "katrina"
+        ],
+        "answer": "Hurricane Katrina"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put Obama's career in order", "items": ["Harvard Law Review president", "Illinois State Senate", "DNC keynote speech", "Elected US Senator", "Wins Iowa caucuses", "'A More Perfect Union' speech", "Elected President"] }
+      {
+        "id": "c1",
+        "title": "Put Obama's career in order",
+        "items": [
+          "Harvard Law Review president",
+          "Illinois State Senate",
+          "DNC keynote speech",
+          "Elected US Senator",
+          "Wins Iowa caucuses",
+          "'A More Perfect Union' speech",
+          "Elected President"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the group to its approximate support for Obama in 2008", "pairs": [["Black voters", "About 95%"], ["Latino voters", "About two-thirds"], ["White voters", "About 43%"], ["Popular vote overall", "About 53%"]] }
+      {
+        "id": "x1",
+        "title": "Match the group to its approximate support for Obama in 2008",
+        "pairs": [
+          [
+            "Black voters",
+            "About 95%"
+          ],
+          [
+            "Latino voters",
+            "About two-thirds"
+          ],
+          [
+            "White voters",
+            "About 43%"
+          ],
+          [
+            "Popular vote overall",
+            "About 53%"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s4", "q": "Give precise evidence for why Obama won in November 2008.", "keywords": [["lehman", "financial", "crisis", "95", "43", "365", "fundrais", "young", "internet", "palin"]], "model": "The financial crisis after Lehman's collapse (September 2008); record fundraising; about 95% of black, 43% of white and two-thirds of young voters; 365 electoral votes." },
-      { "id": "e2", "s": "s1", "q": "Give precise evidence of continuing racial tension around 2000–09.", "keywords": [["cincinnati", "katrina", "jena", "profil", "polic", "prison", "incarcer"]], "model": "Cincinnati riots after a police shooting (2001); Hurricane Katrina (2005); the Jena Six case (2006–07); racial profiling and high imprisonment rates." }
+      {
+        "id": "e1",
+        "s": "s4",
+        "q": "Give precise evidence for why Obama won in November 2008.",
+        "keywords": [
+          [
+            "lehman",
+            "financial",
+            "crisis",
+            "95",
+            "43",
+            "365",
+            "fundrais",
+            "young",
+            "internet",
+            "palin"
+          ]
+        ],
+        "model": "The financial crisis after Lehman's collapse (September 2008); record fundraising; about 95% of black, 43% of white and two-thirds of young voters; 365 electoral votes."
+      },
+      {
+        "id": "e2",
+        "s": "s1",
+        "q": "Give precise evidence of continuing racial tension around 2000–09.",
+        "keywords": [
+          [
+            "cincinnati",
+            "katrina",
+            "jena",
+            "profil",
+            "polic",
+            "prison",
+            "incarcer"
+          ]
+        ],
+        "model": "Cincinnati riots after a police shooting (2001); Hurricane Katrina (2005); the Jena Six case (2006–07); racial profiling and high imprisonment rates."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "Why did black voters matter politically around 2000?", "a": "About 12–13% of the population, concentrated in the South and big cities — decisive in Democratic primaries and some swing states.", "hint": "Where they lived." },
-    { "id": "f2", "s": "s1", "q": "Give evidence of the growth of black political office.", "a": "Over 9,000 black elected officials by the early 2000s (under 1,500 in 1970); Powell and Rice as Secretary of State; Deval Patrick governor 2007.", "hint": "Numbers + names." },
-    { "id": "f3", "s": "s2", "q": "What did Obama's 2004 keynote achieve?", "a": "National fame; a message of unity across race that later underpinned his crossover appeal.", "hint": "Not a black America and a white America." },
-    { "id": "f4", "s": "s3", "q": "Give four reasons Obama beat Clinton for the nomination.", "a": "Rhetoric and personality; early opposition to the Iraq war; internet fundraising and organisation; caucus-state strategy; young and black voters.", "hint": "Speech, war, money, map." },
-    { "id": "f5", "s": "s3", "q": "Why was the 'A More Perfect Union' speech important?", "a": "It addressed race and the Wright controversy directly, limiting damage to his campaign.", "hint": "Philadelphia, March 2008." },
-    { "id": "f6", "s": "s4", "q": "How did the financial crisis help Obama?", "a": "It shifted the election to the economy, blamed on the Republican administration; McCain's response looked erratic.", "hint": "Lehman." },
-    { "id": "f7", "s": "s4", "q": "Give two responses to Obama's victory.", "a": "Celebration as fulfilment of the civil rights struggle; hostility — threats, 'birther' conspiracy, the Tea Party.", "hint": "Joy and backlash." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Why did black voters matter politically around 2000?",
+      "a": "About 12–13% of the population, concentrated in the South and big cities — decisive in Democratic primaries and some swing states.",
+      "hint": "Where they lived."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Give evidence of the growth of black political office.",
+      "a": "Over 9,000 black elected officials by the early 2000s (under 1,500 in 1970); Powell and Rice as Secretary of State; Deval Patrick governor 2007.",
+      "hint": "Numbers + names."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "What did Obama's 2004 keynote achieve?",
+      "a": "National fame; a message of unity across race that later underpinned his crossover appeal.",
+      "hint": "Not a black America and a white America."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "Give four reasons Obama beat Clinton for the nomination.",
+      "a": "Rhetoric and personality; early opposition to the Iraq war; internet fundraising and organisation; caucus-state strategy; young and black voters.",
+      "hint": "Speech, war, money, map."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "Why was the 'A More Perfect Union' speech important?",
+      "a": "It addressed race and the Wright controversy directly, limiting damage to his campaign.",
+      "hint": "Philadelphia, March 2008."
+    },
+    {
+      "id": "f6",
+      "s": "s4",
+      "q": "How did the financial crisis help Obama?",
+      "a": "It shifted the election to the economy, blamed on the Republican administration; McCain's response looked erratic.",
+      "hint": "Lehman."
+    },
+    {
+      "id": "f7",
+      "s": "s4",
+      "q": "Give two responses to Obama's victory.",
+      "a": "Celebration as fulfilment of the civil rights struggle; hostility — threats, 'birther' conspiracy, the Tea Party.",
+      "hint": "Joy and backlash."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "explain", "text": "I can explain the significance of the number and distribution of black voters and the growth of black officeholders and the black middle class.", "sections": ["s1"] },
-    { "id": "k2", "level": "describe", "text": "I can describe continuing areas of racial tension, including policing.", "sections": ["s1"] },
-    { "id": "k3", "level": "explain", "text": "I can explain the importance of Obama's career to 2006.", "sections": ["s2"] },
-    { "id": "k4", "level": "judge", "text": "I can judge the reasons for Obama's success in gaining the Democratic nomination.", "sections": ["s3"] },
-    { "id": "k5", "level": "judge", "text": "I can assess the reasons for victory in 2008 and the significance of the response to it.", "sections": ["s4"] }
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the significance of the number and distribution of black voters and the growth of black officeholders and the black middle class.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe continuing areas of racial tension, including policing.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain the importance of Obama's career to 2006.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "judge",
+      "text": "I can judge the reasons for Obama's success in gaining the Democratic nomination.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can assess the reasons for victory in 2008 and the significance of the response to it.",
+      "sections": [
+        "s4"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "u3b", "label": "Past paper: WHI03/1D, January 2022, Q3", "sections": ["s4", "s1"],
-        "q": "‘The election, in 2008, of Barack Obama as President, was the most significant event for black Americans in the years 1954–2009.’\nHow far do you agree with this statement?" }
+      {
+        "id": "q1",
+        "qtype": "u3b",
+        "label": "Past paper: WHI03/1D, January 2022, Q3",
+        "sections": [
+          "s4",
+          "s1"
+        ],
+        "q": "‘The election, in 2008, of Barack Obama as President, was the most significant event for black Americans in the years 1954–2009.’\nHow far do you agree with this statement?",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "January 2022",
+          "part": "Q3"
+        },
+        "ms": {
+          "support": [
+            "Obama was the first black president — hugely symbolic",
+            "his campaign showed the power of black voters",
+            "his election projected an image of a more diverse America",
+            "it provoked a conservative backlash"
+          ],
+          "challenge": [
+            "Brown (1954) began the end of Jim Crow",
+            "Brown overturned 'separate but equal'",
+            "the Montgomery Bus Boycott launched King and showed peaceful protest could work",
+            "the 1964 and 1965 Acts created a legal framework"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi031d-june2024-1",
+        "qtype": "u3a",
+        "label": "Past paper: WHI03/1D, June 2017, Q1 (Sources 1 and 2 are in the paper)",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "June 2017",
+          "part": "Q1"
+        },
+        "sections": [],
+        "q": "How far could the historian make use of Sources 1 and 2 together to investigate the reasons for Barack Obama’s victory in the 2008 presidential election?\nExplain your answer, using both sources, the information given about them and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "Obama's campaign drew millions of small donors and raised huge sums",
+            "he won strong support among young voters",
+            "social media made him the candidate of the young"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi031d-january2020-1",
+        "qtype": "u3a",
+        "label": "Past paper: WHI03/1D, January 2020, Q1 (Sources 1 and 2 are in the paper)",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "January 2020",
+          "part": "Q1"
+        },
+        "sections": [],
+        "q": "How far could the historian make use of Sources 1 and 2 together to investigate why Barack Obama was successful in gaining the Democratic nomination for the presidency in 2008?\nExplain your answer, using both sources, the information given about them and your own knowledge of the historical context.",
+        "ms": {
+          "context": [
+            "Obama had been a senator for only a few years",
+            "he gained national fame from his 2004 convention keynote speech",
+            "polls initially gave Clinton a substantial lead"
+          ]
+        },
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Relative significance", "task": "Was 2008 more significant than 1964–65 for black Americans? Use impact (fundamental change) and scope (who was affected)." },
-    { "id": "t2", "kind": "Competing arguments", "task": "'Post-racial America?' Use evidence from 2000–09 to argue both for and against the idea." },
-    { "id": "t3", "kind": "Causal links", "task": "How did the Voting Rights Act of 1965 make Obama's victory possible over 40 years later?" }
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Was 2008 more significant than 1964–65 for black Americans? Use impact (fundamental change) and scope (who was affected)."
+    },
+    {
+      "id": "t2",
+      "kind": "Competing arguments",
+      "task": "'Post-racial America?' Use evidence from 2000–09 to argue both for and against the idea."
+    },
+    {
+      "id": "t3",
+      "kind": "Causal links",
+      "task": "How did the Voting Rights Act of 1965 make Obama's victory possible over 40 years later?"
+    }
   ]
 }

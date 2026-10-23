@@ -505,7 +505,36 @@
             "n": "Conclusion: ranked judgement using criteria; avoids just listing factors."
           }
         ],
-        "model_note": "Illustrative model written for this site (introduction, one PEEJ paragraph and conclusion), following the department factor frame and the January 2025 examiner advice. It is not a Pearson exemplar."
+        "model_note": "Illustrative model written for this site (introduction, one PEEJ paragraph and conclusion), following the department factor frame and the January 2025 examiner advice. It is not a Pearson exemplar.",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "January 2025",
+          "part": "Q3"
+        },
+        "ms": {
+          "support": [
+            "Centralisation left the USSR unable to fund technological competition",
+            "falling living standards forced a domestic focus",
+            "Afghanistan and Chernobyl drained finances",
+            "falling Comecon trade pushed Eastern bloc states west"
+          ],
+          "challenge": [
+            "Gorbachev's diplomacy created a climate for negotiation",
+            "US superiority let Reagan and Bush negotiate from strength",
+            "Gorbachev's reforms fuelled nationalism",
+            "the collapse of communism from Poland to East Germany"
+          ]
+        },
+        "exq": {
+          "series": "WHI04/1C examiner report, January 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-Advanced-Level/History/2015/Exam-materials/whi04-1c-pef-20250306.pdf",
+          "strong": [
+            "Explain how Soviet economic weakness limited the arms race and pushed Gorbachev towards domestic priorities; weigh against Reagan and other factors."
+          ],
+          "weak": [
+            "Explaining why the USSR collapsed rather than how the Cold War ended; confusing glasnost and perestroika."
+          ]
+        }
       },
       {
         "id": "q2",
@@ -514,7 +543,26 @@
         "sections": [
           "s1"
         ],
-        "q": "How far do you agree that Reagan was more influential than Gorbachev in the developments in the 1980s leading to the end of the Cold War?"
+        "q": "How far do you agree that Reagan was more influential than Gorbachev in the developments in the 1980s leading to the end of the Cold War?",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2024",
+          "part": "Q3"
+        },
+        "ms": {
+          "support": [
+            "Reagan's rejection of détente and SDI pressured a struggling USSR",
+            "support for anti-communist forces undermined Soviet positions",
+            "the Geneva meeting (1985) opened the path to arms reduction",
+            "Reagan and Thatcher gave Gorbachev confidence to reform"
+          ],
+          "challenge": [
+            "Gorbachev's 'new thinking' prioritised domestic reform",
+            "his pragmatism built a relationship with Reagan and Thatcher",
+            "abandoning the Brezhnev Doctrine freed Eastern Europe",
+            "Bush, not Reagan, oversaw the final agreements"
+          ]
+        }
       },
       {
         "id": "q3",
@@ -523,7 +571,182 @@
         "sections": [
           "s2"
         ],
-        "q": "How far do you agree that the most significant factor in heightening Cold War tensions in the early 1980s was the deployment of new missile systems in Europe?"
+        "q": "How far do you agree that the most significant factor in heightening Cold War tensions in the early 1980s was the deployment of new missile systems in Europe?",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2022",
+          "part": "Q3"
+        },
+        "ms": {
+          "support": [
+            "Soviet SS-20s altered Europe's military balance",
+            "the Able Archer 83 scare",
+            "Pershing II deployment in West Germany (1983)",
+            "Western protests over cruise missiles"
+          ],
+          "challenge": [
+            "Reagan and Thatcher challenged détente more than predecessors",
+            "SDI alarmed Soviet leaders",
+            "Afghanistan and the shooting down of KAL 007",
+            "Solidarity and Pope John Paul II"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-january2023-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, January 2023, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "January 2023",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How different were US-Soviet relations in the years 1980–85 from US-Soviet relations in the years 1964–79?",
+        "ms": {
+          "support": [
+            "The invasion of Afghanistan (1979) ended détente",
+            "SALT II was not ratified",
+            "Olympic boycotts (1980, 1984) replaced cooperation",
+            "Reagan sought to roll back communism"
+          ],
+          "challenge": [
+            "Both periods saw arms build-ups",
+            "the hot-line and MAD remained",
+            "proxy conflicts continued in both periods",
+            "trade continued in both periods"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-january2022-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, January 2022, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "January 2022",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far do you agree that, in the years 1989–90, the process of German reunification was the most significant factor in resolving Cold War tensions between the superpowers?",
+        "ms": {
+          "support": [
+            "The fall of the Berlin Wall removed the Cold War's central symbol",
+            "the Two Plus Four Treaty (September 1990) ended four-power occupation",
+            "a united Germany in NATO removed a flashpoint",
+            "Gorbachev's acceptance exposed Soviet weakness"
+          ],
+          "challenge": [
+            "Soviet economic crisis and nationalism",
+            "renunciation of the Brezhnev Doctrine",
+            "the collapse of control across eastern Europe",
+            "US–Soviet summitry, especially Malta (December 1989)"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-june2021-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2021, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2021",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far do you agree that political problems in the USSR were mainly responsible for bringing the Cold War to an end in the late 1980s?",
+        "ms": {
+          "support": [
+            "Glasnost and perestroika unleashed instability",
+            "the 'Sinatra Doctrine' let Eastern Europe go",
+            "rising nationalism in Soviet republics",
+            "weak leadership damaged Soviet prestige"
+          ],
+          "challenge": [
+            "Economic stagnation",
+            "Reagan's build-up made competition unsustainable",
+            "Gorbachev's diplomacy and Reagan's moderation",
+            "the fall of the Berlin Wall and John Paul II's influence"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-june2018-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2018, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2018",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far do you agree that Gorbachev was the most significant individual involved in the shaping of Cold War relations in the 1980s?",
+        "ms": {
+          "support": [
+            "Glasnost and perestroika created conditions for a thaw",
+            "Gorbachev won Reagan's and Thatcher's trust",
+            "replacing the Brezhnev Doctrine with the 'Sinatra Doctrine'",
+            "arms limitation after 1985"
+          ],
+          "challenge": [
+            "Economic decline forced change",
+            "Reagan's rhetoric and then negotiation",
+            "Thatcher recognised Gorbachev's potential early",
+            "Pope John Paul II and Lech Wałęsa undermined communism"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-october2017-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, October 2017, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "October 2017",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the Cold War was brought to an end in the late 1980s mainly because of the growing economic problems within the Soviet Union?",
+        "ms": {
+          "support": [
+            "Economic stagnation weakened Soviet competitiveness",
+            "reforms undermined control over Eastern Europe",
+            "decline weakened superpower status",
+            "the USSR could no longer afford Afghanistan or Eastern Europe"
+          ],
+          "challenge": [
+            "Nationalism in Soviet republics",
+            "popular protest in Eastern Europe",
+            "Reagan's ideological stance and military pressure",
+            "Gorbachev's diplomacy and Reagan's moderation"
+          ]
+        }
+      },
+      {
+        "id": "pp-whi041c-june2017-3",
+        "qtype": "u4b",
+        "label": "Past paper: WHI04/1C, June 2017, Q3",
+        "pp": {
+          "paper": "WHI04/1C",
+          "series": "June 2017",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How far do you agree that the Reagan presidency was the most significant contributory factor to the heightening of Cold War tensions in the early 1980s?",
+        "ms": {
+          "support": [
+            "Reagan's 'evil empire' view",
+            "Reagan blamed Carter's weakness over Afghanistan",
+            "defence spending and SDI challenged the USSR",
+            "the Reagan Doctrine backed anti-communist forces in Central America"
+          ],
+          "challenge": [
+            "Carter's SALT II withdrawal and Olympic boycott preceded Reagan",
+            "the invasion of Afghanistan (1979) was the key trigger",
+            "Soviet deployment of new missiles in Europe",
+            "weak Soviet leadership and Eastern bloc pressures such as Solidarity"
+          ]
+        }
       }
     ]
   },

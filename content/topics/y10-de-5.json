@@ -515,7 +515,29 @@
         "prompts": [
           "Allied bombing",
           "rationing"
-        ]
+        ],
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2025",
+          "part": "Q3(c)(ii)"
+        },
+        "ms": {
+          "support": [
+            "Bombing disrupted production and diverted workers",
+            "civilian deaths and damage hurt morale",
+            "cities such as Dresden (1945) were devastated"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/01 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-01-pef-20250821.pdf",
+          "strong": [
+            "Answers that stayed on the home front and analysed significance reached Level 4."
+          ],
+          "weak": [
+            "A few strayed into the Eastern Front or the wider war."
+          ]
+        }
       },
       {
         "id": "q2",
@@ -525,6 +547,230 @@
           "s3"
         ],
         "q": "Explain two effects of the war on opposition to the Nazis in Germany."
+      },
+      {
+        "id": "pp-4hi101-june2024-de-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2024, Q3(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2024",
+          "part": "Q3(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The main reason for the weakening of the Third Reich, in the years 1939–45, was the growth of opposition to Hitler.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "opposition to Hitler",
+          "allied bombing of Germany"
+        ],
+        "ms": {
+          "support": [
+            "Military plots — Kreisau Circle and July Plot",
+            "White Rose and Edelweiss Pirates",
+            "Communist cells in Berlin factories"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-november2023-de-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, November 2023, Q3(b)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2023",
+          "part": "Q3(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of the Second World War on the role of women in Germany.",
+        "ms": {
+          "points": [
+            "Labour shortages put women into factories and farms",
+            "women supported the armed forces as clerks and operators",
+            "women in anti-aircraft defence"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2022-de-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, June 2022, Q3(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2022",
+          "part": "Q3(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The most significant impact of the Second World War on the German home front was on the role of women.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "the role of women",
+          "the allied bombing"
+        ],
+        "ms": {
+          "support": [
+            "Women were drafted into industry and agriculture",
+            "women took on more responsibility at home",
+            "Hitler's earlier opposition to women working was abandoned"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2021-de-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, June 2021, Q3(b)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2021",
+          "part": "Q3(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of Allied bombing on Germany during the Second World War.",
+        "ms": {
+          "points": [
+            "Aircraft and tank production fell",
+            "over 300,000 killed and a fifth of housing destroyed",
+            "absenteeism and doubts about victory grew"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101-june2020-de-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, June 2020, Q3(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2020",
+          "part": "Q3(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the July Bomb Plot (1944)?",
+        "ms": {
+          "points": [
+            "The plot is presented as failing through chance, e.g. the bomb being moved",
+            "words such as 'surprisingly' and 'unluckily' stress luck",
+            "the planning is ignored"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2025-de-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01R, June 2025, Q3(b)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2025",
+          "part": "Q3(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of the Allied bombing campaigns on Germany during the Second World War.",
+        "ms": {
+          "points": [
+            "Aircraft and tank production fell by a third",
+            "civilian deaths and destroyed housing disrupted life",
+            "absenteeism and cynicism grew by 1943"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2024-de-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01R, June 2024, Q3(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2024",
+          "part": "Q3(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about life on the German Home Front during the Second World War?",
+        "ms": {
+          "points": [
+            "Bombing forced Germans to live in cellars",
+            "language such as 'suffered' and 'rat-infested'"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2023-de-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2023, Q3(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2023",
+          "part": "Q3(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘In the years 1939–45, the most significant feature of war on the Home Front in Germany and the occupied territories was Nazi policies towards Jews.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "Nazi policies towards Jews",
+          "rationing"
+        ],
+        "ms": {
+          "support": [
+            "Ghettos with squalid conditions",
+            "Einsatzgruppen killings",
+            "the Wannsee Conference (1942)"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2022-de-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01R, June 2022, Q3(b)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2022",
+          "part": "Q3(b)"
+        },
+        "sections": [],
+        "q": "Explain two effects of the Second World War on the German Home Front in the years 1939–45.",
+        "ms": {
+          "points": [
+            "Allied bombing hit civilians and diverted workers",
+            "rationing cut food consumption",
+            "women drafted into war work"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2020-de-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2020, Q3(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2020",
+          "part": "Q3(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘The main problem facing the Nazi government in Germany and the occupied territories, in the years 1939–45, was opposition to Hitler’s rule.’\nHow far do you agree?\nExplain your answer.",
+        "ms": {
+          "support": [
+            "Military opposition grew — the Kreisau Circle and July Plot",
+            "youth groups such as the Edelweiss Pirates and White Rose",
+            "Communist cells persisted"
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi101r-june2019-de-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2019, Q3(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2019",
+          "part": "Q3(c)(ii)"
+        },
+        "sections": [],
+        "q": "‘Allied bombing had the most significant impact on the German home front during the Second World War.’\nHow far do you agree?\nExplain your answer.",
+        "prompts": [
+          "Allied bombing",
+          "rationing"
+        ],
+        "ms": {
+          "support": [
+            "Bombing disrupted industry and diverted workers",
+            "civilian deaths lowered morale",
+            "Dresden destroyed and two million men diverted to anti-aircraft duties"
+          ]
+        }
       }
     ]
   },

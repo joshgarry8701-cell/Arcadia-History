@@ -108,3 +108,22 @@ Advice is paraphrased in each exam guide under "What examiners said", and it is 
 - Department KS3 criteria and Year 7–9 lessons.
 
 The two Pearson training documents (delegate booklet and slides) are licensed for your use only; the site uses facts and generic mark-scheme wording from them but does not republish them.
+
+## Past papers on the site
+
+Every past-paper question that could be found and read online, mapped to its topic. Open any course and choose **Past papers** to browse them by paper, topic and question type. Mark-scheme points are paraphrased from Pearson's mark schemes; examiner comments come from Pearson's examiner reports. Sources and extract booklets are not on the site.
+
+| Year | Papers | Series | Questions | With mark-scheme points | With examiner comments |
+|---|---|---|---|---|---|
+| y10 | 4HI1/01, 4HI1/01R | 9 | 120 | 120 | 8 |
+| y11 | 4HI1/02, 4HI1/02R | 9 | 105 | 105 | 13 |
+| y12 | WHI01/1C, WHI02/1B | 19 | 167 | 162 | 15 |
+| y13 | WHI03/1D, WHI04/1C | 20 | 105 | 99 | 18 |
+
+Gaps to check:
+
+- WHI01/1C January 2019, WHI03/1D January 2019 and WHI04/1C January 2019: the online copies are scanned images, so the questions could not be read.
+- 4HI1 Paper 2 June 2022 (Paper 2B) breadth-study questions were recovered from the mark schemes; check wording against the paper.
+- June 2021 and November 2021: Papers 1A and 1B (and 2A/2B) carried the same Germany, Civil Rights, Vietnam and Medicine questions, so each appears once.
+- WHI02/1B Section A and WHI03/1D Question 1: the enquiry is quoted from the paper; the question stem is in its standard form.
+- No 4HI1 November 2024 papers were available online; the examiner report for that series is used in the exam guides only.

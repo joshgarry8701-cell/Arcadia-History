@@ -1,124 +1,486 @@
 {
-  "id": "y11-med-3", "course": "y11", "area": "med", "kt": "Key topic 3", "order": 23,
+  "id": "y11-med-3",
+  "course": "y11",
+  "area": "med",
+  "kt": "Key topic 3",
+  "order": 23,
   "title": "Accelerating change, 1875–1905: Ehrlich, Koch and chemistry",
   "status": "published",
-  "review": { "state": "awaiting-teacher-check", "note": "Original content following 4HI1 Breadth study B2, key topic 3." },
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following 4HI1 Breadth study B2, key topic 3."
+  },
   "learn": {
     "intro": "Scientists began to identify the germs behind specific diseases. Surgery moved from killing germs to keeping them out altogether, public health improved under the 1875 Act, and chemistry and physics opened new possibilities.",
     "sections": [
       {
-        "id": "s1", "title": "1. Koch and bacteriology",
+        "id": "s1",
+        "title": "1. Koch and bacteriology",
         "blocks": [
-          { "p": "Robert Koch, a German doctor, proved that specific germs cause specific diseases. He identified the anthrax bacterium (1876), the tuberculosis bacterium (1882) and the cholera bacterium (1883). He developed methods to grow bacteria on solid agar and to stain them with dyes so they could be seen under a microscope." },
-          { "p": "Rivalry between France (Pasteur) and Germany (Koch) speeded up research. Pasteur developed vaccines for chicken cholera (1879), anthrax (1881) and rabies (1885), building on Edward Jenner's earlier smallpox vaccine." }
+          {
+            "p": "Robert Koch, a German doctor, proved that specific germs cause specific diseases. He identified the anthrax bacterium (1876), the tuberculosis bacterium (1882) and the cholera bacterium (1883). He developed methods to grow bacteria on solid agar and to stain them with dyes so they could be seen under a microscope."
+          },
+          {
+            "p": "Rivalry between France (Pasteur) and Germany (Koch) speeded up research. Pasteur developed vaccines for chicken cholera (1879), anthrax (1881) and rabies (1885), building on Edward Jenner's earlier smallpox vaccine."
+          }
         ],
-        "terms": ["bacteriology", "bacterium", "agar", "staining", "vaccine"],
-        "evidence": ["1876: anthrax; 1882: tuberculosis; 1883: cholera — all identified by Koch.", "1881: Pasteur's anthrax vaccine; 1885: rabies vaccine."]
+        "terms": [
+          "bacteriology",
+          "bacterium",
+          "agar",
+          "staining",
+          "vaccine"
+        ],
+        "evidence": [
+          "1876: anthrax; 1882: tuberculosis; 1883: cholera — all identified by Koch.",
+          "1881: Pasteur's anthrax vaccine; 1885: rabies vaccine."
+        ]
       },
       {
-        "id": "s2", "title": "2. Aseptic surgery",
+        "id": "s2",
+        "title": "2. Aseptic surgery",
         "blocks": [
-          { "p": "Antiseptic surgery killed germs with chemicals. From the 1880s surgeons moved to aseptic surgery — preventing germs from entering the wound at all. Instruments were sterilised with steam, operating theatres were cleaned thoroughly, and surgeons wore gowns, masks and caps. Rubber gloves were introduced in 1890 (by the American surgeon William Halsted)." },
-          { "p": "With pain controlled by anaesthetics and infection reduced by aseptic methods, surgeons could attempt longer and more complex operations inside the body. Bleeding remained the main problem." }
+          {
+            "p": "Antiseptic surgery killed germs with chemicals. From the 1880s surgeons moved to aseptic surgery — preventing germs from entering the wound at all. Instruments were sterilised with steam, operating theatres were cleaned thoroughly, and surgeons wore gowns, masks and caps. Rubber gloves were introduced in 1890 (by the American surgeon William Halsted)."
+          },
+          {
+            "p": "With pain controlled by anaesthetics and infection reduced by aseptic methods, surgeons could attempt longer and more complex operations inside the body. Bleeding remained the main problem."
+          }
         ],
-        "terms": ["aseptic surgery", "sterilise", "antiseptic"],
-        "evidence": ["1880s: steam sterilisation.", "1890: rubber gloves introduced."]
+        "terms": [
+          "aseptic surgery",
+          "sterilise",
+          "antiseptic"
+        ],
+        "evidence": [
+          "1880s: steam sterilisation.",
+          "1890: rubber gloves introduced."
+        ]
       },
       {
-        "id": "s3", "title": "3. The impact of the Public Health Act 1875",
+        "id": "s3",
+        "title": "3. The impact of the Public Health Act 1875",
         "blocks": [
-          { "p": "Because the 1875 Act was compulsory, towns built sewers and reservoirs, provided clean water, and appointed Medical Officers of Health. Cholera epidemics ended in Britain after 1866. Death rates in towns fell, though poor housing and poverty still caused high infant mortality." }
+          {
+            "p": "Because the 1875 Act was compulsory, towns built sewers and reservoirs, provided clean water, and appointed Medical Officers of Health. Cholera epidemics ended in Britain after 1866. Death rates in towns fell, though poor housing and poverty still caused high infant mortality."
+          }
         ],
-        "terms": ["Medical Officer of Health", "infant mortality"],
-        "evidence": ["No major cholera epidemic in Britain after 1866.", "Councils provided sewers and clean water under the 1875 Act."]
+        "terms": [
+          "Medical Officer of Health",
+          "infant mortality"
+        ],
+        "evidence": [
+          "No major cholera epidemic in Britain after 1866.",
+          "Councils provided sewers and clean water under the 1875 Act."
+        ]
       },
       {
-        "id": "s4", "title": "4. Science and medicine: blood, magic bullets and radiation",
+        "id": "s4",
+        "title": "4. Science and medicine: blood, magic bullets and radiation",
         "blocks": [
-          { "p": "Blood transfusions: early transfusions often failed because the patient's body rejected the blood. In 1901 Karl Landsteiner discovered blood groups, explaining why — though blood could not yet be stored because it clotted." },
-          { "p": "Magic bullets: Paul Ehrlich, who had worked with Koch, searched for chemicals that would kill a specific germ without harming the patient. After hundreds of tests, his team found Salvarsan 606 (1909), the first 'magic bullet', which cured syphilis." },
-          { "p": "Radioactivity: Wilhelm Röntgen discovered X-rays in 1895, allowing doctors to see bones and objects inside the body. Marie Curie and Pierre Curie discovered radium and polonium in 1898; radium was used to treat cancer. Marie Curie later developed mobile X-ray units in the First World War." }
+          {
+            "p": "Blood transfusions: early transfusions often failed because the patient's body rejected the blood. In 1901 Karl Landsteiner discovered blood groups, explaining why — though blood could not yet be stored because it clotted."
+          },
+          {
+            "p": "Magic bullets: Paul Ehrlich, who had worked with Koch, searched for chemicals that would kill a specific germ without harming the patient. After hundreds of tests, his team found Salvarsan 606 (1909), the first 'magic bullet', which cured syphilis."
+          },
+          {
+            "p": "Radioactivity: Wilhelm Röntgen discovered X-rays in 1895, allowing doctors to see bones and objects inside the body. Marie Curie and Pierre Curie discovered radium and polonium in 1898; radium was used to treat cancer. Marie Curie later developed mobile X-ray units in the First World War."
+          }
         ],
-        "terms": ["blood group", "magic bullet", "Salvarsan 606", "X-ray", "radium"],
-        "evidence": ["1895: Röntgen discovers X-rays.", "1898: the Curies discover radium.", "1901: Landsteiner discovers blood groups.", "1909: Salvarsan 606."]
+        "terms": [
+          "blood group",
+          "magic bullet",
+          "Salvarsan 606",
+          "X-ray",
+          "radium"
+        ],
+        "evidence": [
+          "1895: Röntgen discovers X-rays.",
+          "1898: the Curies discover radium.",
+          "1901: Landsteiner discovers blood groups.",
+          "1909: Salvarsan 606."
+        ]
       }
     ],
     "timeline": [
-      { "date": "1876", "event": "Koch identifies the anthrax bacterium" },
-      { "date": "1881", "event": "Pasteur's anthrax vaccine" },
-      { "date": "1882", "event": "Koch identifies the tuberculosis bacterium" },
-      { "date": "1885", "event": "Pasteur's rabies vaccine" },
-      { "date": "1890", "event": "Rubber gloves introduced in surgery" },
-      { "date": "1895", "event": "Röntgen discovers X-rays" },
-      { "date": "1898", "event": "Marie and Pierre Curie discover radium" },
-      { "date": "1901", "event": "Landsteiner discovers blood groups" },
-      { "date": "1909", "event": "Ehrlich's Salvarsan 606" }
+      {
+        "date": "1876",
+        "event": "Koch identifies the anthrax bacterium"
+      },
+      {
+        "date": "1881",
+        "event": "Pasteur's anthrax vaccine"
+      },
+      {
+        "date": "1882",
+        "event": "Koch identifies the tuberculosis bacterium"
+      },
+      {
+        "date": "1885",
+        "event": "Pasteur's rabies vaccine"
+      },
+      {
+        "date": "1890",
+        "event": "Rubber gloves introduced in surgery"
+      },
+      {
+        "date": "1895",
+        "event": "Röntgen discovers X-rays"
+      },
+      {
+        "date": "1898",
+        "event": "Marie and Pierre Curie discover radium"
+      },
+      {
+        "date": "1901",
+        "event": "Landsteiner discovers blood groups"
+      },
+      {
+        "date": "1909",
+        "event": "Ehrlich's Salvarsan 606"
+      }
     ],
     "people": [
-      { "name": "Robert Koch", "role": "Identified the germs causing anthrax, TB and cholera." },
-      { "name": "Louis Pasteur", "role": "Developed vaccines in the 1880s." },
-      { "name": "Paul Ehrlich", "role": "Found the first magic bullet, Salvarsan 606." },
-      { "name": "Karl Landsteiner", "role": "Discovered blood groups (1901)." },
-      { "name": "Wilhelm Röntgen", "role": "Discovered X-rays (1895)." },
-      { "name": "Marie Curie", "role": "Discovered radium; mobile X-ray units in WWI." }
+      {
+        "name": "Robert Koch",
+        "role": "Identified the germs causing anthrax, TB and cholera."
+      },
+      {
+        "name": "Louis Pasteur",
+        "role": "Developed vaccines in the 1880s."
+      },
+      {
+        "name": "Paul Ehrlich",
+        "role": "Found the first magic bullet, Salvarsan 606."
+      },
+      {
+        "name": "Karl Landsteiner",
+        "role": "Discovered blood groups (1901)."
+      },
+      {
+        "name": "Wilhelm Röntgen",
+        "role": "Discovered X-rays (1895)."
+      },
+      {
+        "name": "Marie Curie",
+        "role": "Discovered radium; mobile X-ray units in WWI."
+      }
     ],
     "vocab": [
-      { "term": "Bacteriology", "def": "The study of bacteria." },
-      { "term": "Aseptic", "def": "Germ-free — keeping germs out." },
-      { "term": "Magic bullet", "def": "A chemical cure that targets one germ." },
-      { "term": "Blood group", "def": "Type of blood (A, B, AB, O); must match for transfusion." }
+      {
+        "term": "Bacteriology",
+        "def": "The study of bacteria."
+      },
+      {
+        "term": "Aseptic",
+        "def": "Germ-free — keeping germs out."
+      },
+      {
+        "term": "Magic bullet",
+        "def": "A chemical cure that targets one germ."
+      },
+      {
+        "term": "Blood group",
+        "def": "Type of blood (A, B, AB, O); must match for transfusion."
+      }
     ],
     "misconceptions": [
-      { "wrong": "Aseptic and antiseptic mean the same.", "right": "Antiseptic kills germs; aseptic keeps germs out in the first place." },
-      { "wrong": "Blood transfusions were routine by 1905.", "right": "Blood groups were known, but blood could not be stored until the First World War." }
+      {
+        "wrong": "Aseptic and antiseptic mean the same.",
+        "right": "Antiseptic kills germs; aseptic keeps germs out in the first place."
+      },
+      {
+        "wrong": "Blood transfusions were routine by 1905.",
+        "right": "Blood groups were known, but blood could not be stored until the First World War."
+      }
     ]
   },
   "quizzes": {
     "mcq": [
-      { "id": "m1", "s": "s1", "q": "Which bacterium did Koch identify in 1882?", "options": ["Cholera", "Tuberculosis", "Anthrax", "Syphilis"], "answer": 1, "why": "Cholera followed in 1883." },
-      { "id": "m2", "s": "s2", "q": "What is aseptic surgery?", "options": ["Killing germs with carbolic spray", "Preventing germs entering the wound", "Using anaesthetics", "Operating without gloves"], "answer": 1, "why": "Steam sterilisation, gowns, gloves." },
-      { "id": "m3", "s": "s4", "q": "What was Salvarsan 606?", "options": ["A vaccine", "The first magic bullet, curing syphilis", "An anaesthetic", "A blood group"], "answer": 1, "why": "Ehrlich's team, 1909." },
-      { "id": "m4", "s": "s4", "q": "Who discovered blood groups?", "options": ["Koch", "Landsteiner", "Curie", "Röntgen"], "answer": 1, "why": "1901." },
-      { "id": "m5", "s": "s4", "q": "Who discovered X-rays in 1895?", "options": ["Marie Curie", "Röntgen", "Ehrlich", "Lister"], "answer": 1, "why": "Wilhelm Röntgen." }
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Which bacterium did Koch identify in 1882?",
+        "options": [
+          "Cholera",
+          "Tuberculosis",
+          "Anthrax",
+          "Syphilis"
+        ],
+        "answer": 1,
+        "why": "Cholera followed in 1883."
+      },
+      {
+        "id": "m2",
+        "s": "s2",
+        "q": "What is aseptic surgery?",
+        "options": [
+          "Killing germs with carbolic spray",
+          "Preventing germs entering the wound",
+          "Using anaesthetics",
+          "Operating without gloves"
+        ],
+        "answer": 1,
+        "why": "Steam sterilisation, gowns, gloves."
+      },
+      {
+        "id": "m3",
+        "s": "s4",
+        "q": "What was Salvarsan 606?",
+        "options": [
+          "A vaccine",
+          "The first magic bullet, curing syphilis",
+          "An anaesthetic",
+          "A blood group"
+        ],
+        "answer": 1,
+        "why": "Ehrlich's team, 1909."
+      },
+      {
+        "id": "m4",
+        "s": "s4",
+        "q": "Who discovered blood groups?",
+        "options": [
+          "Koch",
+          "Landsteiner",
+          "Curie",
+          "Röntgen"
+        ],
+        "answer": 1,
+        "why": "1901."
+      },
+      {
+        "id": "m5",
+        "s": "s4",
+        "q": "Who discovered X-rays in 1895?",
+        "options": [
+          "Marie Curie",
+          "Röntgen",
+          "Ehrlich",
+          "Lister"
+        ],
+        "answer": 1,
+        "why": "Wilhelm Röntgen."
+      }
     ],
     "short": [
-      { "id": "a1", "s": "s1", "q": "What did Koch use to grow bacteria?", "accept": ["agar", "agar jelly"], "answer": "Agar" },
-      { "id": "a2", "s": "s4", "q": "Which element did the Curies discover in 1898 that was used against cancer?", "accept": ["radium"], "answer": "Radium" },
-      { "id": "a3", "s": "s2", "q": "In what year were rubber gloves introduced in surgery?", "accept": ["1890"], "answer": "1890" }
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "What did Koch use to grow bacteria?",
+        "accept": [
+          "agar",
+          "agar jelly"
+        ],
+        "answer": "Agar"
+      },
+      {
+        "id": "a2",
+        "s": "s4",
+        "q": "Which element did the Curies discover in 1898 that was used against cancer?",
+        "accept": [
+          "radium"
+        ],
+        "answer": "Radium"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "In what year were rubber gloves introduced in surgery?",
+        "accept": [
+          "1890"
+        ],
+        "answer": "1890"
+      }
     ],
     "chronology": [
-      { "id": "c1", "title": "Put these in order", "items": ["Anthrax bacterium identified", "TB bacterium identified", "Rubber gloves", "X-rays discovered", "Radium discovered", "Blood groups discovered", "Salvarsan 606"] }
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Anthrax bacterium identified",
+          "TB bacterium identified",
+          "Rubber gloves",
+          "X-rays discovered",
+          "Radium discovered",
+          "Blood groups discovered",
+          "Salvarsan 606"
+        ]
+      }
     ],
     "matching": [
-      { "id": "x1", "title": "Match the scientist to the discovery", "pairs": [["Koch", "Germs of specific diseases"], ["Ehrlich", "Magic bullets"], ["Landsteiner", "Blood groups"], ["Röntgen", "X-rays"], ["Curie", "Radium"]] }
+      {
+        "id": "x1",
+        "title": "Match the scientist to the discovery",
+        "pairs": [
+          [
+            "Koch",
+            "Germs of specific diseases"
+          ],
+          [
+            "Ehrlich",
+            "Magic bullets"
+          ],
+          [
+            "Landsteiner",
+            "Blood groups"
+          ],
+          [
+            "Röntgen",
+            "X-rays"
+          ],
+          [
+            "Curie",
+            "Radium"
+          ]
+        ]
+      }
     ],
     "evidence": [
-      { "id": "e1", "s": "s2", "q": "Give precise evidence of aseptic surgery.", "keywords": [["steam", "steril", "gloves", "1890", "gown", "mask"]], "model": "Steam sterilisation of instruments from the 1880s; rubber gloves from 1890; gowns and masks." }
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Give precise evidence of aseptic surgery.",
+        "keywords": [
+          [
+            "steam",
+            "steril",
+            "gloves",
+            "1890",
+            "gown",
+            "mask"
+          ]
+        ],
+        "model": "Steam sterilisation of instruments from the 1880s; rubber gloves from 1890; gowns and masks."
+      }
     ]
   },
   "flashcards": [
-    { "id": "f1", "s": "s1", "q": "Why was Koch important?", "a": "He proved specific germs cause specific diseases and developed agar and staining.", "hint": "Anthrax, TB, cholera." },
-    { "id": "f2", "s": "s1", "q": "How did rivalry help medicine?", "a": "French–German competition between Pasteur and Koch speeded discoveries and vaccines.", "hint": "France v Germany." },
-    { "id": "f3", "s": "s2", "q": "How did aseptic surgery change operations?", "a": "Fewer infections, allowing longer and more complex operations inside the body.", "hint": "Keep germs out." },
-    { "id": "f4", "s": "s3", "q": "What was the impact of the 1875 Act?", "a": "Sewers, clean water, Medical Officers; cholera epidemics ended; town death rates fell.", "hint": "Compulsory." },
-    { "id": "f5", "s": "s4", "q": "Why did early blood transfusions often fail?", "a": "Blood groups were unknown until Landsteiner (1901), so the body rejected unmatched blood.", "hint": "Groups." }
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Why was Koch important?",
+      "a": "He proved specific germs cause specific diseases and developed agar and staining.",
+      "hint": "Anthrax, TB, cholera."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "How did rivalry help medicine?",
+      "a": "French–German competition between Pasteur and Koch speeded discoveries and vaccines.",
+      "hint": "France v Germany."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "How did aseptic surgery change operations?",
+      "a": "Fewer infections, allowing longer and more complex operations inside the body.",
+      "hint": "Keep germs out."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "What was the impact of the 1875 Act?",
+      "a": "Sewers, clean water, Medical Officers; cholera epidemics ended; town death rates fell.",
+      "hint": "Compulsory."
+    },
+    {
+      "id": "f5",
+      "s": "s4",
+      "q": "Why did early blood transfusions often fail?",
+      "a": "Blood groups were unknown until Landsteiner (1901), so the body rejected unmatched blood.",
+      "hint": "Groups."
+    }
   ],
   "checklist": [
-    { "id": "k1", "level": "explain", "text": "I can explain the fight against germs, including Koch and bacteriology.", "sections": ["s1"] },
-    { "id": "k2", "level": "explain", "text": "I can explain aseptic surgery and how it differed from antiseptic surgery.", "sections": ["s2"] },
-    { "id": "k3", "level": "describe", "text": "I can describe the impact of the 1875 Public Health Act.", "sections": ["s3"] },
-    { "id": "k4", "level": "explain", "text": "I can explain blood transfusions, magic bullets, Ehrlich, radioactivity and Marie Curie.", "sections": ["s4"] }
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the fight against germs, including Koch and bacteriology.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain aseptic surgery and how it differed from antiseptic surgery.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "describe",
+      "text": "I can describe the impact of the 1875 Public Health Act.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain blood transfusions, magic bullets, Ehrlich, radioactivity and Marie Curie.",
+      "sections": [
+        "s4"
+      ]
+    }
   ],
   "exam": {
     "questions": [
-      { "id": "q1", "qtype": "p2bb", "label": "Past paper: 4HI1/02, June 2025, B2(b) (wording from the published mark scheme)", "sections": ["s2"],
-        "q": "Explain TWO causes of the lower death rate from surgery in the years 1848–1905." },
-      { "id": "q2", "qtype": "p2ba", "label": "Teacher-created practice question", "sections": ["s2"],
-        "q": "Explain TWO ways in which surgery in the 1890s was different from surgery in the 1860s." }
+      {
+        "id": "q1",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02, June 2025, B2(b)",
+        "sections": [
+          "s2"
+        ],
+        "q": "Explain TWO causes of the lower death rate from surgery in the years 1848–1905.",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "June 2025",
+          "part": "B2(b)"
+        },
+        "ms": {
+          "points": [
+            "Anaesthetics such as chloroform",
+            "antiseptics such as carbolic acid",
+            "catgut ligatures"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/02 examiner report, Summer 2025",
+          "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/History/2017/Exam-materials/4hi1-02-pef-20250821.pdf",
+          "strong": [
+            "Generally well answered."
+          ],
+          "weak": [
+            "Some described changes in surgery rather than causes of the lower death rate."
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "qtype": "p2ba",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s2"
+        ],
+        "q": "Explain TWO ways in which surgery in the 1890s was different from surgery in the 1860s."
+      }
     ]
   },
   "stretch": [
-    { "id": "t1", "kind": "Relative significance", "task": "Which was more important by 1905: Koch's bacteriology or aseptic surgery? Who benefited from each?" },
-    { "id": "t2", "kind": "Causal links", "task": "Show how science and technology (microscopes, dyes, X-rays) linked the discoveries of 1875–1905." }
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Which was more important by 1905: Koch's bacteriology or aseptic surgery? Who benefited from each?"
+    },
+    {
+      "id": "t2",
+      "kind": "Causal links",
+      "task": "Show how science and technology (microscopes, dyes, X-rays) linked the discoveries of 1875–1905."
+    }
   ]
 }
