@@ -423,13 +423,38 @@
         ]
       },
       {
+        "id": "pp-4hi101-november2025-us-cii",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01R, June 2022, Q7(c)(ii)",
+        "pp": {
+          "paper": "4HI1/01R",
+          "series": "June 2022",
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
+        },
+        "sections": [],
+        "q": "'The main consequence of the Watergate scandal was new laws.' How far do you agree? Explain your answer.",
+        "prompts": [
+          "new laws",
+          "Gerald Ford"
+        ],
+        "ms": {
+          "support": [
+            "Congress overrode Nixon's veto to pass the War Powers Act (1973)",
+            "the 1974 campaign finance amendments",
+            "the Privacy Act and Budget Act (1974)"
+          ]
+        }
+      },
+      {
         "id": "pp-4hi101-june2024-us-cii",
         "qtype": "p1c",
         "label": "Past paper: 4HI1/01, June 2024, Q7(c)(ii)",
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2024",
-          "part": "Q7(c)(ii)"
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The most significant feature of the Watergate Scandal was the impact on the presidency.’\nHow far do you agree?\nExplain your answer.",
@@ -452,7 +477,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2023",
-          "part": "Q7(b)"
+          "part": "Q7(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of the new laws that were introduced as a result of the Watergate Scandal.",
@@ -471,7 +497,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2021",
-          "part": "Q7(c)(ii)"
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason for the introduction of new laws to control US politics in the 1970s was the Watergate scandal.’\nHow far do you agree?\nExplain your answer.",
@@ -503,29 +530,6 @@
             "Freedom of information and campaign finance laws",
             "the War Powers Act (1973)",
             "the Budget Control Act (1974)"
-          ]
-        }
-      },
-      {
-        "id": "pp-4hi101r-june2022-us-cii",
-        "qtype": "p1c",
-        "label": "Past paper: 4HI1/01R, June 2022, Q7(c)(ii)",
-        "pp": {
-          "paper": "4HI1/01R",
-          "series": "June 2022",
-          "part": "Q7(c)(ii)"
-        },
-        "sections": [],
-        "q": "‘The main consequence of the Watergate scandal was new laws.’\nHow far do you agree?\nExplain your answer.",
-        "prompts": [
-          "new laws",
-          "Gerald Ford"
-        ],
-        "ms": {
-          "support": [
-            "Congress overrode Nixon's veto to pass the War Powers Act (1973)",
-            "the 1974 campaign finance amendments",
-            "the Privacy Act and Budget Act (1974)"
           ]
         }
       },

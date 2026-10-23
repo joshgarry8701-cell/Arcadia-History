@@ -2710,7 +2710,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2025",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "ms": {
               "support": [
@@ -2739,13 +2740,43 @@
             "q": "Explain two effects of hyperinflation on the German people in 1923."
           },
           {
+            "id": "pp-4hi101-november2025-de-ci",
+            "qtype": "p1c",
+            "label": "Past paper: 4HI1/01, November 2025, Q3(c)(i)",
+            "pp": {
+              "paper": "4HI1/01",
+              "series": "November 2025",
+              "part": "Q3(c)(i)"
+            },
+            "sections": [],
+            "q": "'The main reason why the Treaty of Versailles was disliked by many Germans was the loss of territory.' How far do you agree? Explain your answer.",
+            "prompts": [
+              "the loss of territory",
+              "the War Guilt Clause"
+            ],
+            "ms": {
+              "support": [
+                "Economically important land was lost (about 20% of coal and 15% of farm resources)",
+                "All colonies were handed over as League mandates",
+                "Alsace-Lorraine went to France, a blow to national pride",
+                "Land given to Poland left many Germans outside Germany"
+              ],
+              "challenge": [
+                "Article 231 blamed Germany alone for the war",
+                "Reparations, set in 1921 at £6,600 million, were seen as crushing",
+                "Military limits (100,000-man army, no air force or submarines) left Germany feeling defenceless"
+              ]
+            }
+          },
+          {
             "id": "pp-4hi101-june2024-de-a",
             "qtype": "p1a",
             "label": "Past paper: 4HI1/01, June 2024, Q3(a) (the extract is in the paper)",
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2024",
-              "part": "Q3(a)"
+              "part": "Q3(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about protest in Germany in the years 1918–19?",
@@ -2754,7 +2785,10 @@
                 "Protest failed — it 'did not lead to the changes that workers wanted'",
                 "words such as 'uncoordinated' and 'easily crushed'"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract C: From A History of Germany, published in 2000."
+            ]
           },
           {
             "id": "pp-4hi101-november2023-de-ci",
@@ -2763,7 +2797,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2023",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason why the Treaty of Versailles was disliked by many Germans was that Germany had to pay reparations.’\nHow far do you agree?\nExplain your answer.",
@@ -2786,7 +2821,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2023",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the German Revolution (1918–19) on Germany.",
@@ -2805,7 +2841,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2025",
-              "part": "Q3(a)"
+              "part": "Q3(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the Weimar Constitution?",
@@ -2814,7 +2851,10 @@
                 "Features of the constitution were 'not accepted by the German people'",
                 "'did not last' and 'limited support'"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract C: From a history of Germany, published in 2000."
+            ]
           },
           {
             "id": "pp-4hi101-november2021-de-a",
@@ -2823,7 +2863,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2021",
-              "part": "Q3(a)"
+              "part": "Q3(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about reactions to the Treaty of Versailles?",
@@ -2832,7 +2873,10 @@
                 "Germans were angered, seeing the treaty as 'anti-patriotic'",
                 "words such as 'stab in the back' and 'shameful'"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract C: From A History of Germany, published in 2000."
+            ]
           },
           {
             "id": "pp-4hi101-june2021-de-ci",
@@ -2841,7 +2885,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2021",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘Hyperinflation was the main reason why the Weimar Republic was weak in the years 1919–23.’\nHow far do you agree?\nExplain your answer.",
@@ -2901,7 +2946,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2024",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘In the years 1919–23, the most significant challenge to the Weimar Republic came from the Spartacist uprising.’\nHow far do you agree?\nExplain your answer.",
@@ -2924,7 +2970,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2023",
-              "part": "Q3(a)"
+              "part": "Q3(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the abdication of the Kaiser in 1918?",
@@ -2934,7 +2981,10 @@
                 "language such as 'threatened'",
                 "Ludendorff's role ignored"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract C: From A History of Germany, published in 1991."
+            ]
           },
           {
             "id": "pp-4hi101r-june2022-de-ci",
@@ -2943,7 +2993,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2022",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The French occupation of the Ruhr was the main reason why the Weimar Republic had problems in the years 1919–23.’\nHow far do you agree?\nExplain your answer.",
@@ -3471,13 +3522,33 @@
             ]
           },
           {
+            "id": "pp-4hi101-november2025-de-b",
+            "qtype": "p1b",
+            "label": "Past paper: 4HI1/01, November 2025, Q3(b)",
+            "pp": {
+              "paper": "4HI1/01",
+              "series": "November 2025",
+              "part": "Q3(b)"
+            },
+            "sections": [],
+            "q": "Explain two effects of German successes abroad on Germany in the years 1925–28.",
+            "ms": {
+              "points": [
+                "International trust returned: the Locarno Treaties guaranteed the French–German border",
+                "Joining the League of Nations restored standing lost at Versailles",
+                "The Kellogg–Briand Pact committed Germany to settling disputes without war"
+              ]
+            }
+          },
+          {
             "id": "pp-4hi101-november2023-de-cii",
             "qtype": "p1c",
             "label": "Past paper: 4HI1/01, November 2023, Q3(c)(ii)",
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2023",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main achievement of Stresemann, in the years 1924–29, was the Locarno Treaties.’\nHow far do you agree?\nExplain your answer.",
@@ -3500,7 +3571,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2023",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason for the recovery of Germany, in the years 1924–29, was US loans.’\nHow far do you agree?\nExplain your answer.",
@@ -3523,7 +3595,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2021",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason for the recovery of Germany, in the years 1924–29, was successes abroad.’\nHow far do you agree?\nExplain your answer.",
@@ -3584,7 +3657,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2025",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘In the years 1923–29, the main reason for the recovery of Germany was the Locarno Treaties.’\nHow far do you agree?\nExplain your answer.",
@@ -3607,7 +3681,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2022",
-              "part": "Q3(a)"
+              "part": "Q3(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about Stresemann’s international policies in the years 1924–29?",
@@ -3616,7 +3691,10 @@
                 "Stresemann's policies are shown as unsuccessful — they 'achieved nothing'",
                 "benefits such as the secured French border are omitted"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract C: From A History of Germany, published in 2000."
+            ]
           },
           {
             "id": "pp-4hi101r-june2020-de-a",
@@ -4223,13 +4301,44 @@
             ]
           },
           {
+            "id": "pp-4hi101-november2025-de-cii",
+            "qtype": "p1c",
+            "label": "Past paper: 4HI1/01, November 2025, Q3(c)(ii)",
+            "pp": {
+              "paper": "4HI1/01",
+              "series": "November 2025",
+              "part": "Q3(c)(ii)"
+            },
+            "sections": [],
+            "q": "'In the years 1929–33, the most significant impact of the Great Depression on Germany was economic difficulties.' How far do you agree? Explain your answer.",
+            "prompts": [
+              "economic difficulties",
+              "the collapse of the Weimar Republic"
+            ],
+            "ms": {
+              "support": [
+                "Unemployment rose from about 1.3 million (1929) to 6 million (1933)",
+                "The government struggled to borrow money",
+                "Banks failed as people rushed to withdraw savings",
+                "Industrial production fell by around 40% by 1933"
+              ],
+              "challenge": [
+                "Brüning's coalition collapsed, starting the end of the Weimar Republic",
+                "KPD seats rose from 77 (1930) to 100 (1932)",
+                "The Nazis used rallies and a strong-leader image to win votes",
+                "Nazi propaganda won working- and middle-class support, e.g. anti-communist posters"
+              ]
+            }
+          },
+          {
             "id": "pp-4hi101-june2025-de-a",
             "qtype": "p1a",
             "label": "Past paper: 4HI1/01, June 2025, Q3(a) (the extract is in the paper)",
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2025",
-              "part": "Q3(a)"
+              "part": "Q3(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the response of the Weimar Government to the Great Depression?",
@@ -4247,7 +4356,10 @@
                 "Stronger answers also considered the author’s choice of material and what was left out."
               ],
               "weak": []
-            }
+            },
+            "src_captions": [
+              "Extract C: From a history of Germany, published in 2017."
+            ]
           },
           {
             "id": "pp-4hi101-june2024-de-b",
@@ -4256,7 +4368,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2024",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the Great Depression on Germany in the years 1929–33.",
@@ -4275,7 +4388,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2023",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The most significant impact of the Great Depression on Germany, in the years 1929–33, was increased support for the Nazis.’\nHow far do you agree?\nExplain your answer.",
@@ -4298,7 +4412,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2022",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason for the Nazi rise to power, in the period July 1932 to March 1933, was the role of President von Hindenburg.’\nHow far do you agree?\nExplain your answer.",
@@ -4321,7 +4436,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2021",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the Munich Putsch on the Nazi Party in the years 1923–28.",
@@ -4340,7 +4456,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2021",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main impact of the Great Depression on Germany, in the years 1929–33, was economic problems.’\nHow far do you agree?\nExplain your answer.",
@@ -4405,7 +4522,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2024",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of Nazi Party reorganisation, in the years 1924–28, on the Nazi Party.",
@@ -4424,7 +4542,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2023",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The role of von Hindenburg was the main reason why Hitler became Chancellor of Germany in January 1933.’\nHow far do you agree?\nExplain your answer.",
@@ -5052,7 +5171,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2025",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "ms": {
               "points": [
@@ -5087,13 +5207,37 @@
             ]
           },
           {
+            "id": "pp-4hi101-november2025-de-a",
+            "qtype": "p1a",
+            "label": "Past paper: 4HI1/01, November 2025, Q3(a) (the extract is in the paper)",
+            "pp": {
+              "paper": "4HI1/01",
+              "series": "November 2025",
+              "part": "Q3(a)"
+            },
+            "sections": [],
+            "q": "What impression does the author give about the purpose of Nazi youth groups? You must use Extract C to explain your answer.",
+            "ms": {
+              "points": [
+                "The author suggests the groups existed so the Nazis could control young Germans",
+                "The extract says the regime filled young people with Nazi ideas",
+                "Word choice such as 'indoctrinated', 'weakened' and 'dominant' builds the impression",
+                "The author stresses control and leaves out the use of youth groups to prepare for war"
+              ]
+            },
+            "src_captions": [
+              "Extract C: From a history of Germany, published in 2020."
+            ]
+          },
+          {
             "id": "pp-4hi101-june2024-de-ci",
             "qtype": "p1c",
             "label": "Past paper: 4HI1/01, June 2024, Q3(c)(i)",
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2024",
-              "part": "Q3(c)(i)"
+              "part": "Q3(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The most significant method of control used by the Nazis in Germany, in the years 1933–39, was the use of propaganda.’\nHow far do you agree?\nExplain your answer.",
@@ -5116,7 +5260,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2023",
-              "part": "Q3(a)"
+              "part": "Q3(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about Nazi rule in the years 1933–39?",
@@ -5125,7 +5270,10 @@
                 "The Nazis lacked total control — 'many Germans refused to give their total support'",
                 "ignores the Gestapo and camps"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract C: From a history of Germany, published in 2015."
+            ]
           },
           {
             "id": "pp-4hi101-june2023-de-a",
@@ -5134,7 +5282,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2023",
-              "part": "Q3(a)"
+              "part": "Q3(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the Night of the Long Knives (1934)?",
@@ -5143,7 +5292,10 @@
                 "The purge is shown as brutal, with SA leaders as unsuspecting victims",
                 "words such as 'dazed' and 'in cold blood'"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract C: From A History of Germany, published in 2000."
+            ]
           },
           {
             "id": "pp-4hi101-june2022-de-b",
@@ -5152,7 +5304,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2022",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of Nazi rule on the Churches in the years 1933–39.",
@@ -5171,7 +5324,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2021",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The most significant method of control used by the Nazis in Germany, in the years 1933–39, was censorship.’\nHow far do you agree?\nExplain your answer.",
@@ -5194,7 +5348,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2021",
-              "part": "Q3(a)"
+              "part": "Q3(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about Nazi policies towards women in employment?",
@@ -5203,7 +5358,10 @@
                 "Nazi policies failed to remove women from work — 'weak and not achieved'",
                 "language such as 'half-hearted'"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract C: From A History of Germany, published in 2000."
+            ]
           },
           {
             "id": "pp-4hi101-june2019-de-cii",
@@ -5235,7 +5393,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2025",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘In the years 1933–39, it was Nazi education policies that had the most significant impact on the lives of the German people.’\nHow far do you agree?\nExplain your answer.",
@@ -5258,7 +5417,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2024",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The Enabling Act was the main reason why the Nazis were able to set up a dictatorship in Germany in the years 1933–34.’\nHow far do you agree?\nExplain your answer.",
@@ -5281,7 +5441,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2023",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of Nazi rule on education in Germany in the years 1933–39.",
@@ -5300,7 +5461,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2022",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The most significant impact of Nazi policies towards German people, in the years 1933–39, was on the Jews.’\nHow far do you agree?\nExplain your answer.",
@@ -5894,7 +6056,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2025",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "ms": {
               "support": [
@@ -5930,7 +6093,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2024",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason for the weakening of the Third Reich, in the years 1939–45, was the growth of opposition to Hitler.’\nHow far do you agree?\nExplain your answer.",
@@ -5953,7 +6117,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2023",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the Second World War on the role of women in Germany.",
@@ -5972,7 +6137,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2022",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The most significant impact of the Second World War on the German home front was on the role of women.’\nHow far do you agree?\nExplain your answer.",
@@ -5995,7 +6161,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2021",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of Allied bombing on Germany during the Second World War.",
@@ -6033,7 +6200,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2025",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the Allied bombing campaigns on Germany during the Second World War.",
@@ -6052,7 +6220,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2024",
-              "part": "Q3(a)"
+              "part": "Q3(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about life on the German Home Front during the Second World War?",
@@ -6061,7 +6230,10 @@
                 "Bombing forced Germans to live in cellars",
                 "language such as 'suffered' and 'rat-infested'"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract C: From A history of Germany, published in 1999."
+            ]
           },
           {
             "id": "pp-4hi101r-june2023-de-cii",
@@ -6070,7 +6242,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2023",
-              "part": "Q3(c)(ii)"
+              "part": "Q3(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘In the years 1939–45, the most significant feature of war on the Home Front in Germany and the occupied territories was Nazi policies towards Jews.’\nHow far do you agree?\nExplain your answer.",
@@ -6093,7 +6266,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2022",
-              "part": "Q3(b)"
+              "part": "Q3(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the Second World War on the German Home Front in the years 1939–45.",
@@ -6606,7 +6780,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2025",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "ms": {
               "support": [
@@ -6642,7 +6817,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2023",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main consequence of the Red Scare was an increase in the importance of Senator McCarthy.’\nHow far do you agree?\nExplain your answer.",
@@ -6665,7 +6841,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2023",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about McCarthy?",
@@ -6674,7 +6851,10 @@
                 "McCarthy is shown as a minor politician exploiting Republican anger",
                 "phrases such as 'seized his moment' and 'days were numbered'"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract G: From A History of the United States, published in 2010."
+            ]
           },
           {
             "id": "pp-4hi101-june2022-us-a",
@@ -6683,7 +6863,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2022",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about HUAC investigations into Hollywood?",
@@ -6692,7 +6873,10 @@
                 "HUAC's investigations are shown as excessive — Hollywood seen as a 'hotbed' of communism",
                 "language such as 'terrifying frequency' and 'persecution'"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract G: From A History of the United States, published in 2010."
+            ]
           },
           {
             "id": "pp-4hi101-november2021-us-a",
@@ -6701,7 +6885,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2021",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the impact of the Alger Hiss case?",
@@ -6710,7 +6895,10 @@
                 "The Hiss case caused 'severe embarrassment' for Truman's government",
                 "'damaging' links to prominent Democrats"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract G: From A History of the United States of America, published in 1985."
+            ]
           },
           {
             "id": "pp-4hi101-june2021-us-ci",
@@ -6719,7 +6907,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2021",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main feature of the Red Scare was the false accusations that were made.’\nHow far do you agree?\nExplain your answer.",
@@ -6760,7 +6949,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2025",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason for the Red Scare, in the years c1945–54, was the Cold War.’\nHow far do you agree?\nExplain your answer.",
@@ -6802,7 +6992,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2023",
-              "part": "Q7(b)"
+              "part": "Q7(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the Red Scare on the USA.",
@@ -6821,7 +7012,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2022",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason why anti-communism grew in the USA, in the years 1945–54, was the Hiss and Rosenberg cases.’\nHow far do you agree?\nExplain your answer.",
@@ -7311,13 +7503,34 @@
             ]
           },
           {
+            "id": "pp-4hi101-november2025-us-b",
+            "qtype": "p1b",
+            "label": "Past paper: 4HI1/01, June 2021, Q7(b)",
+            "pp": {
+              "paper": "4HI1/01",
+              "series": "June 2021",
+              "part": "Q7(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
+            },
+            "sections": [],
+            "q": "Explain two effects of the Montgomery Bus Boycott on civil rights in the 1950s.",
+            "ms": {
+              "points": [
+                "Ended bus segregation in Montgomery",
+                "created the Montgomery Improvement Association",
+                "brought King to national prominence"
+              ]
+            }
+          },
+          {
             "id": "pp-4hi101-june2025-us-a",
             "qtype": "p1a",
             "label": "Past paper: 4HI1/01, June 2025, Q7(a) (the extract is in the paper)",
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2025",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the contribution of Rosa Parks to the Montgomery Bus Boycott?",
@@ -7334,7 +7547,10 @@
                 "Stronger responses showed how phrasing and omissions (e.g. ignoring Claudette Colvin) shaped the impression of Rosa Parks."
               ],
               "weak": []
-            }
+            },
+            "src_captions": [
+              "Extract G: From a history of America, published in 2007."
+            ]
           },
           {
             "id": "pp-4hi101-june2024-us-b",
@@ -7343,7 +7559,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2024",
-              "part": "Q7(b)"
+              "part": "Q7(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of Martin Luther King’s actions on civil rights in the 1950s.",
@@ -7362,7 +7579,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2023",
-              "part": "Q7(b)"
+              "part": "Q7(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the Emmett Till case on civil rights in the 1950s.",
@@ -7381,7 +7599,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2022",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main consequence in the 1950s of civil rights protests was desegregation within education.’\nHow far do you agree?\nExplain your answer.",
@@ -7404,7 +7623,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2021",
-              "part": "Q7(b)"
+              "part": "Q7(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of Supreme Court decisions on civil rights in the 1950s.",
@@ -7413,25 +7633,6 @@
                 "Brown v Board (1954) and federal intervention",
                 "Brown challenged 'separate but equal' and backed wider campaigns",
                 "transport rulings such as Browder v Gayle (1956)"
-              ]
-            }
-          },
-          {
-            "id": "pp-4hi101-june2021-us-b",
-            "qtype": "p1b",
-            "label": "Past paper: 4HI1/01, June 2021, Q7(b)",
-            "pp": {
-              "paper": "4HI1/01",
-              "series": "June 2021",
-              "part": "Q7(b)"
-            },
-            "sections": [],
-            "q": "Explain two effects of the Montgomery Bus Boycott on civil rights in the 1950s.",
-            "ms": {
-              "points": [
-                "Ended bus segregation in Montgomery",
-                "created the Montgomery Improvement Association",
-                "brought King to national prominence"
               ]
             }
           },
@@ -7461,7 +7662,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2025",
-              "part": "Q7(c)(ii)"
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main consequence, in the 1950s, of civil rights protests was desegregation within transport.’\nHow far do you agree?\nExplain your answer.",
@@ -7484,7 +7686,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2024",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason why progress was made in the civil rights of black Americans in the 1950s was the influence of the Supreme Court.’\nHow far do you agree?\nExplain your answer.",
@@ -7507,7 +7710,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2023",
-              "part": "Q7(c)(ii)"
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The most significant event in increasing support for civil rights in the 1950s was the death of Emmett Till.’\nHow far do you agree?\nExplain your answer.",
@@ -7530,7 +7734,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2022",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about segregation in the South?",
@@ -7539,7 +7744,10 @@
                 "Ending segregation faced strong opposition — 'much more difficult'",
                 "successes in housing and transport are omitted"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract G: From A History of the United States, published in 2001."
+            ]
           },
           {
             "id": "pp-4hi101r-june2020-us-a",
@@ -8085,13 +8293,37 @@
             "q": "Explain two effects of the Black Power movement on the USA."
           },
           {
+            "id": "pp-4hi101-november2025-us-a",
+            "qtype": "p1a",
+            "label": "Past paper: 4HI1/01, November 2025, Q7(a) (the extract is in the paper)",
+            "pp": {
+              "paper": "4HI1/01",
+              "series": "November 2025",
+              "part": "Q7(a)"
+            },
+            "sections": [],
+            "q": "What impression does the author give about the march on Birmingham in 1963? You must use Extract G to explain your answer.",
+            "ms": {
+              "points": [
+                "The police are shown as brutal and racist, and King aimed to draw media attention to this",
+                "Phrases such as 'notoriously racist' and 'perfect example of such brutality' shape the impression",
+                "The arrests are presented as 'achieving King's overall aim'",
+                "The author leaves out the many protesters jailed without harm or publicity"
+              ]
+            },
+            "src_captions": [
+              "Extract G: From a history of the United States, published in 2001."
+            ]
+          },
+          {
             "id": "pp-4hi101-june2024-us-a",
             "qtype": "p1a",
             "label": "Past paper: 4HI1/01, June 2024, Q7(a) (the extract is in the paper)",
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2024",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the experiences of the Freedom Riders?",
@@ -8100,7 +8332,10 @@
                 "Freedom Riders faced brutality — 'some suffered serious injuries'",
                 "phrases such as 'badly beaten' and 'savage and violent attacks'"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract G: From A History of the United States, published in 2007."
+            ]
           },
           {
             "id": "pp-4hi101-november2023-us-cii",
@@ -8109,7 +8344,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2023",
-              "part": "Q7(c)(ii)"
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason for the growth of Black Power in the 1960s was disappointment with the achievements of previous civil rights campaigns.’\nHow far do you agree?\nExplain your answer.",
@@ -8132,7 +8368,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2023",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason why progress was made in the civil rights of black Americans in the 1950s and 1960s was federal government action.’\nHow far do you agree?\nExplain your answer.",
@@ -8155,7 +8392,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2022",
-              "part": "Q7(c)(ii)"
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason why civil rights legislation was passed in the 1960s was because of the efforts of Martin Luther King.’\nHow far do you agree?\nExplain your answer.",
@@ -8178,7 +8416,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2021",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason why progress was made in the civil rights of black Americans in the 1960s was the influence of Martin Luther King.’\nHow far do you agree?\nExplain your answer.",
@@ -8201,7 +8440,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2021",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the impact of the race riots?",
@@ -8210,7 +8450,10 @@
                 "The riots did significant damage and frightened white Americans",
                 "phrases such as 'major riots' and 'no-go areas for whites'"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract G: From American History 1860–1990, published in 2002."
+            ]
           },
           {
             "id": "pp-4hi101-june2020-us-b",
@@ -8261,7 +8504,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2025",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the Selma March?",
@@ -8270,7 +8514,10 @@
                 "Marchers were 'beaten and trampled', horrifying TV viewers",
                 "'outraged and sickening' presents the reaction as excessive"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract G: From a history of the United States, published in 2005."
+            ]
           },
           {
             "id": "pp-4hi101r-june2024-us-cii",
@@ -8279,7 +8526,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2024",
-              "part": "Q7(c)(ii)"
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The most significant development towards gaining civil rights in the 1960s was the growth of the Black Power movement.’\nHow far do you agree?\nExplain your answer.",
@@ -8302,7 +8550,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2023",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the methods used by Martin Luther King in the 1960s?",
@@ -8312,7 +8561,10 @@
                 "language such as 'significant' and 'heart-warming'",
                 "the less successful northern campaign is omitted"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract G: From American History 1860–1990, published in 2002."
+            ]
           },
           {
             "id": "pp-4hi101r-june2020-us-ci",
@@ -8805,7 +9057,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2025",
-              "part": "Q7(c)(ii)"
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "ms": {
               "support": [
@@ -8834,13 +9087,43 @@
             "q": "Explain two effects of the Vietnam War on the student movement."
           },
           {
+            "id": "pp-4hi101-november2025-us-ci",
+            "qtype": "p1c",
+            "label": "Past paper: 4HI1/01, November 2025, Q7(c)(i)",
+            "pp": {
+              "paper": "4HI1/01",
+              "series": "November 2025",
+              "part": "Q7(c)(i)"
+            },
+            "sections": [],
+            "q": "'The main reason for the growth of the women's movement, in the years 1960–74, was the contribution made by Betty Friedan.' How far do you agree? Explain your answer.",
+            "prompts": [
+              "Betty Friedan",
+              "Eleanor Roosevelt"
+            ],
+            "ms": {
+              "support": [
+                "The Feminine Mystique (1963) sold about three million copies in three years",
+                "Friedan was founding president of NOW, which grew to tens of thousands of members",
+                "Her campaigning fed into the Equal Pay Act (1963) and the ERA campaign (1972)"
+              ],
+              "challenge": [
+                "Eleanor Roosevelt used her prominence for women's rights and first led Kennedy's Commission",
+                "Kennedy's Commission on the Status of Women and its report American Women (1963)",
+                "Nixon placed women's rights under the Civil Rights Commission and backed the ERA",
+                "Title IX (1972) and NOW's court cases, including the road to Roe v Wade (1973)"
+              ]
+            }
+          },
+          {
             "id": "pp-4hi101-june2024-us-ci",
             "qtype": "p1c",
             "label": "Past paper: 4HI1/01, June 2024, Q7(c)(i)",
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2024",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason for the growth of protest movements in the years 1962–74 was ideas about women’s rights.’\nHow far do you agree?\nExplain your answer.",
@@ -8863,7 +9146,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2023",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about Phyllis Schlafly?",
@@ -8872,7 +9156,10 @@
                 "Schlafly is shown as highly effective, mobilising 'countless' women",
                 "the backlash she faced is ignored"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract G: From an article on the life of Phyllis Schlafly."
+            ]
           },
           {
             "id": "pp-4hi101-june2023-us-cii",
@@ -8881,7 +9168,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2023",
-              "part": "Q7(c)(ii)"
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The most significant feature of the student protest movement in the years 1960–74 was the anti-Vietnam War movement.’\nHow far do you agree?\nExplain your answer.",
@@ -8904,7 +9192,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2022",
-              "part": "Q7(b)"
+              "part": "Q7(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the anti-Vietnam War movement on the USA.",
@@ -8923,7 +9212,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "November 2021",
-              "part": "Q7(c)(ii)"
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The most significant development in the women’s movement was the work of the National Organisation for Women (NOW).’\nHow far do you agree?\nExplain your answer.",
@@ -8946,7 +9236,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2024",
-              "part": "Q7(a)"
+              "part": "Q7(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "What impression does the author give about the anti-Vietnam War protests?",
@@ -8955,7 +9246,10 @@
                 "Protests are shown as extreme and violent — 'criminal', 'brutal clashes'",
                 "peaceful protest is omitted"
               ]
-            }
+            },
+            "src_captions": [
+              "Extract G: From A history of the USA, published 2001."
+            ]
           },
           {
             "id": "pp-4hi101-june2019-us-cii",
@@ -9006,7 +9300,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2023",
-              "part": "Q7(c)(i)"
+              "part": "Q7(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason for the growth of the women’s movement, in the years 1963–73, was the contribution made by Betty Friedan.’\nHow far do you agree?\nExplain your answer.",
@@ -9029,7 +9324,8 @@
             "pp": {
               "paper": "4HI1/01R",
               "series": "June 2022",
-              "part": "Q7(b)"
+              "part": "Q7(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the work of Betty Friedan on women’s rights in the USA.",
@@ -9500,13 +9796,38 @@
             ]
           },
           {
+            "id": "pp-4hi101-november2025-us-cii",
+            "qtype": "p1c",
+            "label": "Past paper: 4HI1/01R, June 2022, Q7(c)(ii)",
+            "pp": {
+              "paper": "4HI1/01R",
+              "series": "June 2022",
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
+            },
+            "sections": [],
+            "q": "'The main consequence of the Watergate scandal was new laws.' How far do you agree? Explain your answer.",
+            "prompts": [
+              "new laws",
+              "Gerald Ford"
+            ],
+            "ms": {
+              "support": [
+                "Congress overrode Nixon's veto to pass the War Powers Act (1973)",
+                "the 1974 campaign finance amendments",
+                "the Privacy Act and Budget Act (1974)"
+              ]
+            }
+          },
+          {
             "id": "pp-4hi101-june2024-us-cii",
             "qtype": "p1c",
             "label": "Past paper: 4HI1/01, June 2024, Q7(c)(ii)",
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2024",
-              "part": "Q7(c)(ii)"
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The most significant feature of the Watergate Scandal was the impact on the presidency.’\nHow far do you agree?\nExplain your answer.",
@@ -9529,7 +9850,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2023",
-              "part": "Q7(b)"
+              "part": "Q7(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain two effects of the new laws that were introduced as a result of the Watergate Scandal.",
@@ -9548,7 +9870,8 @@
             "pp": {
               "paper": "4HI1/01",
               "series": "June 2021",
-              "part": "Q7(c)(ii)"
+              "part": "Q7(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "‘The main reason for the introduction of new laws to control US politics in the 1970s was the Watergate scandal.’\nHow far do you agree?\nExplain your answer.",
@@ -9580,29 +9903,6 @@
                 "Freedom of information and campaign finance laws",
                 "the War Powers Act (1973)",
                 "the Budget Control Act (1974)"
-              ]
-            }
-          },
-          {
-            "id": "pp-4hi101r-june2022-us-cii",
-            "qtype": "p1c",
-            "label": "Past paper: 4HI1/01R, June 2022, Q7(c)(ii)",
-            "pp": {
-              "paper": "4HI1/01R",
-              "series": "June 2022",
-              "part": "Q7(c)(ii)"
-            },
-            "sections": [],
-            "q": "‘The main consequence of the Watergate scandal was new laws.’\nHow far do you agree?\nExplain your answer.",
-            "prompts": [
-              "new laws",
-              "Gerald Ford"
-            ],
-            "ms": {
-              "support": [
-                "Congress overrode Nixon's veto to pass the War Powers Act (1973)",
-                "the 1974 campaign finance amendments",
-                "the Privacy Act and Budget Act (1974)"
               ]
             }
           },
@@ -10084,13 +10384,53 @@
             "q": "Explain TWO ways in which surgery in the 1850s was different from surgery in the 1840s."
           },
           {
+            "id": "pp-4hi102-november2025-med-ci",
+            "qtype": "p2bc",
+            "label": "Past paper: 4HI1/02, November 2025, B2(c)(i)",
+            "pp": {
+              "paper": "4HI1/02",
+              "series": "November 2025",
+              "part": "B2(c)(i)"
+            },
+            "sections": [],
+            "q": "How far were women responsible for changes in medicine in the years 1848–1905?",
+            "prompts": [
+              "Florence Nightingale",
+              "antiseptics"
+            ],
+            "ms": {
+              "support": [
+                "Nightingale's work made hospitals cleaner, more spacious and better ventilated",
+                "Notes on Nursing and the Nightingale School produced better-trained nurses",
+                "Marie Curie's work on radiation helped cancer treatment"
+              ],
+              "challenge": [
+                "Pasteur's germ theory",
+                "Simpson's chloroform and Snow's work on anaesthetics",
+                "Lister's carbolic spray and antiseptics",
+                "Röntgen's X-rays and Koch's identification of microbes"
+              ]
+            },
+            "exq": {
+              "series": "4HI1/02 examiner report, November 2025",
+              "url": null,
+              "strong": [
+                "Knowledge was generally strong, especially on Nightingale and others."
+              ],
+              "weak": [
+                "Weaker answers lost focus on the question or did not add a factor of their own."
+              ]
+            }
+          },
+          {
             "id": "pp-4hi102-june2024-med-a",
             "qtype": "p2ba",
             "label": "Past paper: 4HI1/02, June 2024, B2(a)",
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2024",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which the role of local authorities in public health after 1875 was different from their role in public health before 1875.",
@@ -10108,7 +10448,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2023",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which the Public Health Act of 1848 was similar to the Public Health Act of 1875.",
@@ -10126,7 +10467,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2023",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO causes of the lack of progress in medical treatment in the years 1848–60.",
@@ -10145,7 +10487,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2023",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which surgery in 1848 was different from surgery in 1875.",
@@ -10163,7 +10506,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2023",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How significant was Florence Nightingale in developing the role of women in medicine in the years 1848–75?",
@@ -10186,7 +10530,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2022",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which surgery in 1905 was different from surgery in 1920.",
@@ -10204,7 +10549,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2022",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far did medical treatment change in the years 1848–75?",
@@ -10227,7 +10573,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2022",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far did public health provision change in the years 1848–75?",
@@ -10250,7 +10597,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2021",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which ideas about the causes of disease in 1848 were different from ideas about the causes of disease in 1875.",
@@ -10268,7 +10616,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2021",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which government involvement in public health in 1860 was different from government involvement in public health in 1875.",
@@ -10287,7 +10636,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2021",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO causes of the dangers in surgery in the years 1848–60.",
@@ -10348,7 +10698,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2025",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which nursing in 1848 was different from nursing in 1860.",
@@ -10366,7 +10717,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2025",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO causes of the dangers in surgery in 1848.",
@@ -10385,7 +10737,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2024",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How significant were developments in science and technology in improving health in the years 1848–75?",
@@ -10408,7 +10761,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2023",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO causes of the improvements in surgery in the years 1848–75.",
@@ -10427,7 +10781,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2023",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How significant was the role of government in improving public health provision in the years 1860–1905?",
@@ -10929,7 +11284,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2024",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO causes of improvements in surgery in the years 1865–1905.",
@@ -10971,7 +11327,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2022",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How significant was the germ theory in changing the understanding of the causes of ill health in the years 1848–75?",
@@ -10994,7 +11351,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2022",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How significant was Lister to developments in surgery in the years 1848–1905?",
@@ -11490,7 +11848,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2025",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "ms": {
               "points": [
@@ -11953,7 +12312,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2025",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "ms": {
               "support": [
@@ -11983,13 +12343,80 @@
             "q": "Explain TWO causes of the Liberal government's public health reforms of 1906–11."
           },
           {
+            "id": "pp-4hi102-november2025-med-a",
+            "qtype": "p2ba",
+            "label": "Past paper: 4HI1/02, November 2025, B2(a)",
+            "pp": {
+              "paper": "4HI1/02",
+              "series": "November 2025",
+              "part": "B2(a)"
+            },
+            "sections": [],
+            "q": "Explain TWO ways in which government involvement in the health of children in 1905 was different from government involvement in the health of children after 1911.",
+            "ms": {
+              "points": [
+                "In 1905 there were no free school meals; from 1906 the government funded local authorities to provide them",
+                "In 1905 there was no health service for children; the School Medical Service began in 1907"
+              ]
+            },
+            "exq": {
+              "series": "4HI1/02 examiner report, November 2025",
+              "url": null,
+              "strong": [
+                "Strong answers named specific changes such as free school meals and the School Medical Service and explained them as a change in government involvement."
+              ],
+              "weak": [
+                "Some confused 1905–11 with the creation of the NHS.",
+                "Some wrote about the whole population rather than children's health."
+              ]
+            }
+          },
+          {
+            "id": "pp-4hi102-november2025-med-cii",
+            "qtype": "p2bc",
+            "label": "Past paper: 4HI1/02, November 2025, B2(c)(ii)",
+            "pp": {
+              "paper": "4HI1/02",
+              "series": "November 2025",
+              "part": "B2(c)(ii)"
+            },
+            "sections": [],
+            "q": "How far were the two world wars responsible for improvements in medical treatment and surgery in the years 1914–45?",
+            "prompts": [
+              "plastic surgery",
+              "Florey and Chain"
+            ],
+            "ms": {
+              "support": [
+                "X-ray machines on the Western Front helped surgeons remove bullets",
+                "Blood transfusion and blood storage improved in the First World War",
+                "The US government funded mass production of penicillin after 1941",
+                "Skin grafts and burns treatment advanced through plastic surgery"
+              ],
+              "challenge": [
+                "War took doctors away and slowed research (half of UK doctors served in the First World War)",
+                "Ehrlich's Salvarsan and Domagk's second magic bullet (1932) were not war-driven",
+                "Fleming, Florey and Chain's penicillin research was done between the wars"
+              ]
+            },
+            "exq": {
+              "series": "4HI1/02 examiner report, November 2025",
+              "url": null,
+              "strong": [],
+              "weak": [
+                "Weaker answers lost focus on the question or did not add a factor of their own."
+              ]
+            }
+          },
+          {
             "id": "pp-4hi102-june2024-med-ci",
             "qtype": "p2bc",
             "label": "Past paper: 4HI1/02, June 2024, B2(c)(i)",
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2024",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far was it Florence Nightingale who made the most significant contribution by a woman to the development of medicine in the years 1860–1920?",
@@ -12012,7 +12439,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2023",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How significant was the use of radioactivity in bringing improvements in medical treatment in the years 1875–1920?",
@@ -12035,7 +12463,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2023",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far did the role of women in medicine change in the years 1875–1920?",
@@ -12058,7 +12487,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2023",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO causes of the problems of medical treatment for soldiers in the First World War.",
@@ -12077,7 +12507,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2021",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far did surgery change in the years 1875–1920?",
@@ -12100,7 +12531,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2021",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far did war change the role of women in medicine in the years 1914–45?",
@@ -12123,7 +12555,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2021",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How significant was warfare in bringing about changes in medicine in the years 1875–1920?",
@@ -12191,7 +12624,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2025",
-              "part": "B2(c)(i)"
+              "part": "B2(c)(i)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How significant was Elizabeth Garrett in developing the role of women in medicine in the years 1860–1914?",
@@ -12214,7 +12648,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2024",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO causes of the increasing effectiveness of blood transfusions in the years 1900–20.",
@@ -12233,7 +12668,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2024",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far did Public Health provision improve in the years 1860–1911?",
@@ -12256,7 +12692,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2023",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which the role of women in medical care in 1875 was different from the role of women in medical care in the First World War.",
@@ -12274,7 +12711,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2022",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which government action in public health in 1875 was different from government action in public health in 1911.",
@@ -12761,7 +13199,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2025",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "ms": {
               "support": [
@@ -12814,13 +13253,43 @@
             "model_note": "From the Arcadia IGCSE model paragraphs."
           },
           {
+            "id": "pp-4hi102-november2025-med-b",
+            "qtype": "p2bb",
+            "label": "Past paper: 4HI1/02, November 2025, B2(b)",
+            "pp": {
+              "paper": "4HI1/02",
+              "series": "November 2025",
+              "part": "B2(b)"
+            },
+            "sections": [],
+            "q": "Explain TWO causes of the establishment of the NHS in 1948.",
+            "ms": {
+              "points": [
+                "The government's larger role in health during the Second World War",
+                "The 1945 Labour victory and Aneurin Bevan’s determination",
+                "The Beveridge Report naming disease as one of the five 'giant evils'"
+              ]
+            },
+            "exq": {
+              "series": "4HI1/02 examiner report, November 2025",
+              "url": null,
+              "strong": [
+                "Many correctly explained two causes."
+              ],
+              "weak": [
+                "Some explained consequences of the NHS, or described what it achieved, instead of causes."
+              ]
+            }
+          },
+          {
             "id": "pp-4hi102-june2025-med-a",
             "qtype": "p2ba",
             "label": "Past paper: 4HI1/02, June 2025, B2(a)",
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2025",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which the provision for public health in 1948 before the introduction of the NHS, was different from the provision for public health after its introduction.",
@@ -12847,7 +13316,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2024",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far was the founding of the National Health Service (NHS) the most significant development in improving medical treatment in the years 1920–48?",
@@ -12870,7 +13340,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2023",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far were developments in science and technology responsible for changes in medicine in the years 1920–48?",
@@ -12893,7 +13364,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2022",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO causes of the development of penicillin in the years 1920–48.",
@@ -12912,7 +13384,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2021",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO causes of the improvements in medical treatment in the years 1920–48.",
@@ -12931,7 +13404,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2021",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far did medical treatment change in the years 1914–48?",
@@ -13009,7 +13483,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2025",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far was success in the fight against infection the most significant development in medical treatment in the years 1920–48?",
@@ -13032,7 +13507,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2024",
-              "part": "B2(a)"
+              "part": "B2(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO ways in which hospitals in 1948 were different from hospitals in 1920.",
@@ -13050,7 +13526,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2023",
-              "part": "B2(c)(ii)"
+              "part": "B2(c)(ii)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How significant was warfare in bringing about changes in surgery in the years 1905–48?",
@@ -13073,7 +13550,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2022",
-              "part": "B2(b)"
+              "part": "B2(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Explain TWO causes of the progress of women in medicine in the years 1914–48.",
@@ -13546,13 +14024,34 @@
             "q": "Describe TWO features of EITHER the tactics of General Giap OR the siege of Dien Bien Phu."
           },
           {
+            "id": "pp-4hi102-november2025-vn-a",
+            "qtype": "p2aa",
+            "label": "Past paper: 4HI1/02, November 2025, A4(a)",
+            "pp": {
+              "paper": "4HI1/02",
+              "series": "November 2025",
+              "part": "A4(a)"
+            },
+            "sections": [],
+            "q": "Describe TWO features of EITHER the Geneva Conference (1954) OR media coverage of the war in the USA.",
+            "ms": {
+              "points": [
+                "Geneva: the conference dealt with the end of the First Indochina War; North and South Vietnam, the USA, France and Britain attended",
+                "Geneva: France agreed to withdraw; Vietnam was split at the 17th parallel until elections within two years",
+                "Media: newspapers, radio and TV covered the war in detail and questioned the government’s version",
+                "Media: new technology put film on TV within hours; Walter Cronkite's CBS news reached millions"
+              ]
+            }
+          },
+          {
             "id": "pp-4hi102r-june2024-vn-a",
             "qtype": "p2aa",
             "label": "Past paper: 4HI1/02R, June 2024, A4(a)",
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2024",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Describe TWO features of EITHER the First Indochina War OR the fall of Saigon.",
@@ -13570,7 +14069,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2023",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Describe TWO features of EITHER the aims of the Vietminh in the First Indochina War OR the Paris peace talks (1972).",
@@ -14096,7 +14596,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2025",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "ms": {
               "support": [
@@ -14114,7 +14615,12 @@
               "weak": [
                 "Some relied on general knowledge from later in the war (under Johnson) rather than 1961–63."
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From a report written for President Kennedy in November 1961. The report was prepared by senior advisers in the US Government.",
+              "Source B: From comments made by President Kennedy during a press conference in February 1962.",
+              "Extract C: From an article on US involvement in the Vietnam War, published in 2019."
+            ]
           },
           {
             "id": "q2",
@@ -14132,7 +14638,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2025",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about the war in Vietnam during the early 1960s?\nExplain your answer.",
@@ -14150,7 +14657,11 @@
                 "Many identified subtle as well as obvious differences between the sources."
               ],
               "weak": []
-            }
+            },
+            "src_captions": [
+              "Source A: From a report written for President Kennedy in November 1961. The report was prepared by senior advisers in the US Government.",
+              "Source B: From comments made by President Kennedy during a press conference in February 1962."
+            ]
           },
           {
             "id": "pp-4hi102-june2024-vn-a",
@@ -14159,7 +14670,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2024",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Describe TWO features of EITHER the Domino Theory OR the Battle of Hue (1968).",
@@ -14177,7 +14689,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2023",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about the Gulf of Tonkin incident (1964)?\nExplain your answer.",
@@ -14187,7 +14700,11 @@
                 "both show Johnson seeking Congressional support",
                 "Source A says escalation is not inevitable while Source B predicts it"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From President Johnson's message to Congress on 5 August 1964. Here he is asking Congress to support his actions in Vietnam following the Gulf of Tonkin incident.",
+              "Source B: From a speech made by Senator Gruening on 7 August 1964 during the Senate debate on the Gulf of Tonkin incident."
+            ]
           },
           {
             "id": "pp-4hi102-november2023-vn-c",
@@ -14196,7 +14713,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2023",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Extract C suggests that the Gulf of Tonkin incident (1964) was a turning point in the USA’s involvement in Vietnam. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -14206,7 +14724,12 @@
                 "Johnson sought power to increase forces",
                 "US troops rose from about 16,000 to over 500,000 and took on combat roles"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From President Johnson's message to Congress on 5 August 1964. Here he is asking Congress to support his actions in Vietnam following the Gulf of Tonkin incident.",
+              "Source B: From a speech made by Senator Gruening on 7 August 1964 during the Senate debate on the Gulf of Tonkin incident.",
+              "Extract C: From an article on the Gulf of Tonkin incident, published in 2012."
+            ]
           },
           {
             "id": "pp-4hi102-june2023-vn-a",
@@ -14215,7 +14738,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2023",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Describe TWO features of EITHER the Strategic Hamlet Programme OR the role of General Westmoreland.",
@@ -14233,7 +14757,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2022",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Describe TWO features of EITHER life in South Vietnam under Ngo Dinh Diem OR Hearts and Minds.",
@@ -14300,7 +14825,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2025",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Describe TWO features of EITHER the Gulf of Tonkin incident OR the jungle war (1965–68).",
@@ -14318,7 +14844,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2024",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about the government of Ngo Dinh Diem in South Vietnam?\nExplain your answer.",
@@ -14328,7 +14855,11 @@
                 "both link his family's domination to discontent",
                 "Source A blames religious favouritism, Source B his brother Nhu"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From an interview with a member of the National Liberation Front (NLF), published in 1976. Here he is recalling South Vietnam under the government of Diem.",
+              "Source B: From an intelligence report on South Vietnam written for the US Government in 1958."
+            ]
           },
           {
             "id": "pp-4hi102r-june2024-vn-c",
@@ -14337,7 +14868,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2024",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Extract C suggests that the main reason for the growing opposition to Diem’s government in South Vietnam was the popularity of the communists. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -14347,7 +14879,12 @@
                 "propaganda portrayed Diem as an American puppet",
                 "promises of fairness and land"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From an interview with a member of the National Liberation Front (NLF), published in 1976. Here he is recalling South Vietnam under the government of Diem.",
+              "Source B: From an intelligence report on South Vietnam written for the US Government in 1958.",
+              "Extract C: From a history of the Vietnam War, published in 1991."
+            ]
           },
           {
             "id": "pp-4hi102r-june2023-vn-b",
@@ -14356,7 +14893,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2023",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about US involvement in the Vietnam War?\nExplain your answer.",
@@ -14366,7 +14904,11 @@
                 "Source A defends democracy while Source B calls the governments corrupt",
                 "Source A is idealistic, Source B critical of the effects"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From a speech by President Lyndon B Johnson in June 1966. Here, he is explaining why the USA was increasing its support for South Vietnam.",
+              "Source B: From a speech by an American church leader in April 1967."
+            ]
           },
           {
             "id": "pp-4hi102r-june2022-vn-a",
@@ -14375,7 +14917,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2022",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Describe TWO features of EITHER life in North Vietnam under Ho Chi Minh OR Search and Destroy.",
@@ -14394,7 +14937,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2022",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about opposition in the USA to the war in Vietnam?\nExplain your answer.",
@@ -14404,7 +14948,11 @@
                 "both show the media inflamed opinion",
                 "only Source A mentions opposition from veterans"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From an interview with a 'draft-dodger' who left the USA in 1967 to avoid conscription into the US Army. Here he is explaining the reasons for his decision.",
+              "Source B: From an interview with a man who deserted from the US Army in 1968 to avoid being sent to Vietnam. Here he is describing the reasons for his decision."
+            ]
           },
           {
             "id": "pp-4hi102r-june2019-vn-a",
@@ -14885,13 +15433,70 @@
             "q": "Describe TWO features of EITHER Vietcong tactics OR the US policy of search and destroy."
           },
           {
+            "id": "pp-4hi102-november2025-vn-b",
+            "qtype": "p2ab",
+            "label": "Past paper: 4HI1/02, November 2025, A4(b) (Sources A and B are in the paper)",
+            "pp": {
+              "paper": "4HI1/02",
+              "series": "November 2025",
+              "part": "A4(b)"
+            },
+            "sections": [],
+            "q": "How far does Source A support the evidence of Source B about the aims of Operation Rolling Thunder? Explain your answer.",
+            "ms": {
+              "points": [
+                "Agree: both describe sustained bombing of North Vietnam",
+                "Agree: both say the aim was to cut North Vietnam's support for the Viet Cong",
+                "Differ: A is unsure the aims will be met; B says supplies to the Viet Cong are being reduced",
+                "Differ: only A says the aim was to show the USA was ready to escalate",
+                "Extent: they agree strongly on the aims but differ on how successful the bombing was"
+              ]
+            },
+            "src_captions": [
+              "Source A: From a note written by a senior adviser to President Lyndon Johnson in February 1965. Here he is commenting before the launch of Operation Rolling Thunder, which began in March 1965.",
+              "Source B: From a telegram sent to the US Government from the US Embassy in Saigon in June 1965. Here it is commenting on Operation Rolling Thunder."
+            ]
+          },
+          {
+            "id": "pp-4hi102-november2025-vn-c",
+            "qtype": "p2ac",
+            "label": "Past paper: 4HI1/02, November 2025, A4(c) (Sources A, B and Extract C are in the paper)",
+            "pp": {
+              "paper": "4HI1/02",
+              "series": "November 2025",
+              "part": "A4(c)"
+            },
+            "sections": [],
+            "q": "Extract C suggests that Operation Rolling Thunder was a great success. How far do you agree with this interpretation? Use Extract C, Sources A and B and your own knowledge to explain your answer.",
+            "ms": {
+              "support": [
+                "Source A: the bombing showed US determination to win",
+                "Source B: it made fighting the Viet Cong 'easier'",
+                "Extract C: it badly damaged North Vietnam's infrastructure and supply networks",
+                "Damage was estimated at over $500 million, and North Vietnam agreed to talks in 1968"
+              ],
+              "challenge": [
+                "Source A predicted heavy losses and unpopularity at home, and both came true",
+                "Source B: bombing would not stop supplies to the Viet Cong completely",
+                "Extract C: it increased opposition to the war in the USA and abroad",
+                "China and the USSR kept supplying the North; civilian deaths strengthened North Vietnamese resolve"
+              ]
+            },
+            "src_captions": [
+              "Source A: From a note written by a senior adviser to President Lyndon Johnson in February 1965. Here he is commenting before the launch of Operation Rolling Thunder, which began in March 1965.",
+              "Source B: From a telegram sent to the US Government from the US Embassy in Saigon in June 1965. Here it is commenting on Operation Rolling Thunder.",
+              "Extract C: From an article on Operation Rolling Thunder, published in 2024."
+            ]
+          },
+          {
             "id": "pp-4hi102-june2022-vn-b",
             "qtype": "p2ab",
             "label": "Past paper: 4HI1/02, June 2022, A4(b) (Sources A and B are in the paper)",
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2022",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about the results of the Tet Offensive?\nExplain your answer.",
@@ -14909,7 +15514,11 @@
                 "Similarity and difference about the results of Tet were handled well."
               ],
               "weak": []
-            }
+            },
+            "src_captions": [
+              "Source A: From a report in an Australian newspaper in February 1968. Here it is describing the Tet Offensive.",
+              "Source B: From the memoirs of a member of the Vietcong. Here he is describing his experiences of the Tet Offensive."
+            ]
           },
           {
             "id": "pp-4hi102-june2022-vn-c",
@@ -14918,7 +15527,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2022",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Extract C suggests that the defeat of the Tet Offensive was not a victory for the USA. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -14936,7 +15546,12 @@
                 "Strong answers recognised the subtlety that a US military victory might not have been a real success."
               ],
               "weak": []
-            }
+            },
+            "src_captions": [
+              "Source A: From a report in an Australian newspaper in February 1968. Here it is describing the Tet Offensive.",
+              "Source B: From the memoirs of a member of the Vietcong. Here he is describing his experiences of the Tet Offensive.",
+              "Extract C: From Twentieth Century Depth Studies, published in 2014."
+            ]
           },
           {
             "id": "pp-4hi102-november2021-vn-b",
@@ -14945,7 +15560,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2021",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about Operation Rolling Thunder?\nExplain your answer.",
@@ -14965,7 +15581,11 @@
               "weak": [
                 "Few explained where the sources differed, or what Source A said that Source B did not."
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From a report by a British war correspondent in North Vietnam in December 1965. Here he is describing the effects of Operation Rolling Thunder.",
+              "Source B: From an official report to the US government on Operation Rolling Thunder in 1966."
+            ]
           },
           {
             "id": "pp-4hi102-november2021-vn-c",
@@ -14974,7 +15594,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2021",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Extract C suggests that Operation Rolling Thunder did little to help the USA win the war. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -14992,7 +15613,12 @@
                 "The best answers used the words of the 14-year-old girl to argue that North Vietnamese morale was not destroyed, with good contextual knowledge."
               ],
               "weak": []
-            }
+            },
+            "src_captions": [
+              "Source A: From a report by a British war correspondent in North Vietnam in December 1965. Here he is describing the effects of Operation Rolling Thunder.",
+              "Source B: From an official report to the US government on Operation Rolling Thunder in 1966.",
+              "Extract C: From The Vietnam War, published in 2017."
+            ]
           },
           {
             "id": "pp-4hi102r-june2023-vn-c",
@@ -15001,7 +15627,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2023",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Extract C suggests that President Johnson made a huge error in increasing the USA’s involvement in Vietnam. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -15011,7 +15638,12 @@
                 "advisers warned against escalation",
                 "Johnson doubted the war was worth fighting"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From a speech by President Lyndon B Johnson in June 1966. Here, he is explaining why the USA was increasing its support for South Vietnam.",
+              "Source B: From a speech by an American church leader in April 1967.",
+              "Extract C: From an article on the Vietnam War, published in 2015."
+            ]
           },
           {
             "id": "pp-4hi102r-june2020-vn-b",
@@ -15505,7 +16137,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2025",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "ms": {
               "points": [
@@ -15541,7 +16174,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2023",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about the results of the Paris peace talks?\nExplain your answer.",
@@ -15551,7 +16185,11 @@
                 "Source A is positive ('peace with honour') while Source B is negative",
                 "they differ strongly on the consequences"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From a speech made by President Richard Nixon, 23 January 1973. Here he is describing the Paris peace talks.",
+              "Source B: From an interview with an American who had been an official in Saigon in 1972, published in 1985."
+            ]
           },
           {
             "id": "pp-4hi102-june2023-vn-c",
@@ -15560,7 +16198,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2023",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Extract C suggests that the Paris agreement led directly to the final defeat of South Vietnam. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -15570,7 +16209,12 @@
                 "there was 'little' the USA could do if the North broke terms",
                 "US forces left quickly and the ARVN lacked leadership"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From a speech made by President Richard Nixon, 23 January 1973. Here he is describing the Paris peace talks.",
+              "Source B: From an interview with an American who had been an official in Saigon in 1972, published in 1985.",
+              "Extract C: From a history book on Vietnam, published in 1997."
+            ]
           },
           {
             "id": "pp-4hi102-june2021-vn-a",
@@ -15579,7 +16223,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2021",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Describe TWO features of EITHER the Ho Chi Minh Trail OR widening the war in Cambodia and Laos.",
@@ -16032,7 +16677,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2024",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about the anti-war movement in the USA during the 1960s?\nExplain your answer.",
@@ -16041,7 +16687,11 @@
                 "Both show large 1965 demonstrations",
                 "Source A says the movement was unpopular with most Americans while Source B mentions only small pro-war groups"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From an interview with a US citizen, published in 2003. Here he is recalling campaigning against the Vietnam War during the 1960s, when he was a student.",
+              "Source B: From a newspaper report of an anti-war demonstration held in New York City in April 1966."
+            ]
           },
           {
             "id": "pp-4hi102-june2024-vn-c",
@@ -16050,7 +16700,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2024",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Extract C suggests that the anti-war movement contributed greatly to ending US involvement in Vietnam. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -16059,7 +16710,12 @@
                 "Growing support for protest from the mid-1960s influenced Johnson and Nixon",
                 "Tet and opposition to the draft damaged morale and recruitment"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From an interview with a US citizen, published in 2003. Here he is recalling campaigning against the Vietnam War during the 1960s, when he was a student.",
+              "Source B: From a newspaper report of an anti-war demonstration held in New York City in April 1966.",
+              "Extract C: From a history of the Vietnam War, published in 2010."
+            ]
           },
           {
             "id": "pp-4hi102-november2023-vn-a",
@@ -16068,7 +16724,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2023",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Describe TWO features of EITHER Operation Rolling Thunder OR university protests in the USA against the Vietnam War.",
@@ -16086,7 +16743,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "November 2021",
-              "part": "A4(a)"
+              "part": "A4(a)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Describe TWO features of EITHER the Geneva Conference (1954) OR university protests in the USA against the Vietnam War.",
@@ -16113,7 +16771,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2021",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about the behaviour of US soldiers towards civilians in Vietnam?\nExplain your answer.",
@@ -16123,7 +16782,11 @@
                 "both show deep Vietnamese resentment",
                 "Source A focuses on assaults on people, Source B on destruction of property"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From an interview with a South Vietnamese woman, published in 2001. Here she is recalling events in 1966 and 1967.",
+              "Source B: From evidence given by a former US Navy Lieutenant to the US Senate Foreign Relations Committee in 1971."
+            ]
           },
           {
             "id": "pp-4hi102-june2021-vn-c",
@@ -16132,7 +16795,8 @@
             "pp": {
               "paper": "4HI1/02",
               "series": "June 2021",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Extract C suggests that the effect of the US Army’s presence on the Vietnamese people was mainly positive. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -16142,7 +16806,12 @@
                 "acts of kindness and marriages",
                 "investment in roads and electricity"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From an interview with a South Vietnamese woman, published in 2001. Here she is recalling events in 1966 and 1967.",
+              "Source B: From evidence given by a former US Navy Lieutenant to the US Senate Foreign Relations Committee in 1971.",
+              "Extract C: From a newspaper article published in 2017."
+            ]
           },
           {
             "id": "pp-4hi102-june2020-vn-a",
@@ -16208,7 +16877,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2025",
-              "part": "A4(b)"
+              "part": "A4(b)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "How far does Source A support the evidence of Source B about the attack on My Lai?\nExplain your answer.",
@@ -16218,7 +16888,11 @@
                 "both present it as a US Army success",
                 "Source A says only Vietcong died while Source B says women and children were shot"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From a report issued to the press by the US Army, 18 March 1968. Here it is referring to the US Army operation at My Lai in Vietnam.",
+              "Source B: From a report in a US newspaper, 12 November 1969. It was the first to report the truth of the events at My Lai that had occurred over a year before."
+            ]
           },
           {
             "id": "pp-4hi102r-june2025-vn-c",
@@ -16227,7 +16901,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2025",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Extract C suggests the My Lai massacre did not seriously damage the USA’s war effort. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -16237,7 +16912,12 @@
                 "Nixon had already chosen Vietnamisation",
                 "news was suppressed for eighteen months and many sympathised with the soldiers"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From a report issued to the press by the US Army, 18 March 1968. Here it is referring to the US Army operation at My Lai in Vietnam.",
+              "Source B: From a report in a US newspaper, 12 November 1969. It was the first to report the truth of the events at My Lai that had occurred over a year before.",
+              "Extract C: From an article on the My Lai massacre, published in 2009."
+            ]
           },
           {
             "id": "pp-4hi102r-june2022-vn-c",
@@ -16246,7 +16926,8 @@
             "pp": {
               "paper": "4HI1/02R",
               "series": "June 2022",
-              "part": "A4(c)"
+              "part": "A4(c)",
+              "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
             },
             "sections": [],
             "q": "Extract C suggests that the main reason for the increasing opposition to the Vietnam War in the USA was extensive media coverage. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -16256,7 +16937,12 @@
                 "TV images raised doubts",
                 "the war appeared in homes every night"
               ]
-            }
+            },
+            "src_captions": [
+              "Source A: From an interview with a 'draft-dodger' who left the USA in 1967 to avoid conscription into the US Army. Here he is explaining the reasons for his decision.",
+              "Source B: From an interview with a man who deserted from the US Army in 1968 to avoid being sent to Vietnam. Here he is describing the reasons for his decision.",
+              "Extract C: From Vietnam, published in 1997."
+            ]
           }
         ]
       },
@@ -22400,7 +23086,8 @@
             "pp": {
               "paper": "WHI02/1B",
               "series": "January 2017",
-              "part": "Q1(a)"
+              "part": "Q1(a)",
+              "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
             },
             "sections": [],
             "q": "Why is Source 1 valuable to the historian for an enquiry into the reasons for the defeat of the Guomindang in the Civil War in the years 1946–9?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
@@ -22410,6 +23097,9 @@
                 "GMD recruitment squads seized peasants and mistreated conscripts, lowering morale"
               ]
             },
+            "src_captions": [
+              "Source 1: From a report by the Head of the Chinese Red Cross, written in 1947."
+            ],
             "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
           },
           {
@@ -22419,7 +23109,8 @@
             "pp": {
               "paper": "WHI02/1B",
               "series": "January 2017",
-              "part": "Q1(b)"
+              "part": "Q1(b)",
+              "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
             },
             "sections": [],
             "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the experience of students in the Hundred Flowers Campaign?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
@@ -22430,6 +23121,9 @@
                 "critics were forced to confess and sent to labour camps, with denunciation quotas of five per cent"
               ]
             },
+            "src_captions": [
+              "Source 2: From Harry Wu's account of his experiences at university during the Hundred Flowers Campaign (published 2009)."
+            ],
             "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
           },
           {
@@ -24340,7 +25034,8 @@
             "pp": {
               "paper": "WHI02/1B",
               "series": "January 2017",
-              "part": "Q2"
+              "part": "Q2",
+              "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
             },
             "sections": [],
             "q": "How accurate is it to say that the growth of railways was the most significant factor in the economic development of China in the years 1900–27?",
@@ -24366,7 +25061,8 @@
             "pp": {
               "paper": "WHI02/1B",
               "series": "January 2017",
-              "part": "Q4"
+              "part": "Q4",
+              "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
             },
             "sections": [],
             "q": "How accurate is it to say that the Five Year Plans of 1952–62 were largely unsuccessful in modernising the Chinese economy?",
@@ -25406,7 +26102,8 @@
             "pp": {
               "paper": "WHI02/1B",
               "series": "January 2017",
-              "part": "Q3"
+              "part": "Q3",
+              "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
             },
             "sections": [],
             "q": "To what extent did the treatment of religion in China change in the years 1949–76?",

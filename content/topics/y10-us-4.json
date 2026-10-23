@@ -455,7 +455,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2025",
-          "part": "Q7(c)(ii)"
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "ms": {
           "support": [
@@ -484,13 +485,43 @@
         "q": "Explain two effects of the Vietnam War on the student movement."
       },
       {
+        "id": "pp-4hi101-november2025-us-ci",
+        "qtype": "p1c",
+        "label": "Past paper: 4HI1/01, November 2025, Q7(c)(i)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2025",
+          "part": "Q7(c)(i)"
+        },
+        "sections": [],
+        "q": "'The main reason for the growth of the women's movement, in the years 1960–74, was the contribution made by Betty Friedan.' How far do you agree? Explain your answer.",
+        "prompts": [
+          "Betty Friedan",
+          "Eleanor Roosevelt"
+        ],
+        "ms": {
+          "support": [
+            "The Feminine Mystique (1963) sold about three million copies in three years",
+            "Friedan was founding president of NOW, which grew to tens of thousands of members",
+            "Her campaigning fed into the Equal Pay Act (1963) and the ERA campaign (1972)"
+          ],
+          "challenge": [
+            "Eleanor Roosevelt used her prominence for women's rights and first led Kennedy's Commission",
+            "Kennedy's Commission on the Status of Women and its report American Women (1963)",
+            "Nixon placed women's rights under the Civil Rights Commission and backed the ERA",
+            "Title IX (1972) and NOW's court cases, including the road to Roe v Wade (1973)"
+          ]
+        }
+      },
+      {
         "id": "pp-4hi101-june2024-us-ci",
         "qtype": "p1c",
         "label": "Past paper: 4HI1/01, June 2024, Q7(c)(i)",
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2024",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason for the growth of protest movements in the years 1962–74 was ideas about women’s rights.’\nHow far do you agree?\nExplain your answer.",
@@ -513,7 +544,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2023",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about Phyllis Schlafly?",
@@ -522,7 +554,10 @@
             "Schlafly is shown as highly effective, mobilising 'countless' women",
             "the backlash she faced is ignored"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract G: From an article on the life of Phyllis Schlafly."
+        ]
       },
       {
         "id": "pp-4hi101-june2023-us-cii",
@@ -531,7 +566,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2023",
-          "part": "Q7(c)(ii)"
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The most significant feature of the student protest movement in the years 1960–74 was the anti-Vietnam War movement.’\nHow far do you agree?\nExplain your answer.",
@@ -554,7 +590,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2022",
-          "part": "Q7(b)"
+          "part": "Q7(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of the anti-Vietnam War movement on the USA.",
@@ -573,7 +610,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2021",
-          "part": "Q7(c)(ii)"
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The most significant development in the women’s movement was the work of the National Organisation for Women (NOW).’\nHow far do you agree?\nExplain your answer.",
@@ -596,7 +634,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2024",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about the anti-Vietnam War protests?",
@@ -605,7 +644,10 @@
             "Protests are shown as extreme and violent — 'criminal', 'brutal clashes'",
             "peaceful protest is omitted"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract G: From A history of the USA, published 2001."
+        ]
       },
       {
         "id": "pp-4hi101-june2019-us-cii",
@@ -656,7 +698,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2023",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason for the growth of the women’s movement, in the years 1963–73, was the contribution made by Betty Friedan.’\nHow far do you agree?\nExplain your answer.",
@@ -679,7 +722,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2022",
-          "part": "Q7(b)"
+          "part": "Q7(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of the work of Betty Friedan on women’s rights in the USA.",

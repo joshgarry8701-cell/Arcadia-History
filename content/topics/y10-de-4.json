@@ -577,7 +577,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2025",
-          "part": "Q3(b)"
+          "part": "Q3(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "ms": {
           "points": [
@@ -612,13 +613,37 @@
         ]
       },
       {
+        "id": "pp-4hi101-november2025-de-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, November 2025, Q3(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2025",
+          "part": "Q3(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the purpose of Nazi youth groups? You must use Extract C to explain your answer.",
+        "ms": {
+          "points": [
+            "The author suggests the groups existed so the Nazis could control young Germans",
+            "The extract says the regime filled young people with Nazi ideas",
+            "Word choice such as 'indoctrinated', 'weakened' and 'dominant' builds the impression",
+            "The author stresses control and leaves out the use of youth groups to prepare for war"
+          ]
+        },
+        "src_captions": [
+          "Extract C: From a history of Germany, published in 2020."
+        ]
+      },
+      {
         "id": "pp-4hi101-june2024-de-ci",
         "qtype": "p1c",
         "label": "Past paper: 4HI1/01, June 2024, Q3(c)(i)",
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2024",
-          "part": "Q3(c)(i)"
+          "part": "Q3(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The most significant method of control used by the Nazis in Germany, in the years 1933–39, was the use of propaganda.’\nHow far do you agree?\nExplain your answer.",
@@ -641,7 +666,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2023",
-          "part": "Q3(a)"
+          "part": "Q3(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about Nazi rule in the years 1933–39?",
@@ -650,7 +676,10 @@
             "The Nazis lacked total control — 'many Germans refused to give their total support'",
             "ignores the Gestapo and camps"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract C: From a history of Germany, published in 2015."
+        ]
       },
       {
         "id": "pp-4hi101-june2023-de-a",
@@ -659,7 +688,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2023",
-          "part": "Q3(a)"
+          "part": "Q3(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about the Night of the Long Knives (1934)?",
@@ -668,7 +698,10 @@
             "The purge is shown as brutal, with SA leaders as unsuspecting victims",
             "words such as 'dazed' and 'in cold blood'"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract C: From A History of Germany, published in 2000."
+        ]
       },
       {
         "id": "pp-4hi101-june2022-de-b",
@@ -677,7 +710,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2022",
-          "part": "Q3(b)"
+          "part": "Q3(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of Nazi rule on the Churches in the years 1933–39.",
@@ -696,7 +730,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2021",
-          "part": "Q3(c)(ii)"
+          "part": "Q3(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The most significant method of control used by the Nazis in Germany, in the years 1933–39, was censorship.’\nHow far do you agree?\nExplain your answer.",
@@ -719,7 +754,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2021",
-          "part": "Q3(a)"
+          "part": "Q3(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about Nazi policies towards women in employment?",
@@ -728,7 +764,10 @@
             "Nazi policies failed to remove women from work — 'weak and not achieved'",
             "language such as 'half-hearted'"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract C: From A History of Germany, published in 2000."
+        ]
       },
       {
         "id": "pp-4hi101-june2019-de-cii",
@@ -760,7 +799,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2025",
-          "part": "Q3(c)(ii)"
+          "part": "Q3(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘In the years 1933–39, it was Nazi education policies that had the most significant impact on the lives of the German people.’\nHow far do you agree?\nExplain your answer.",
@@ -783,7 +823,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2024",
-          "part": "Q3(c)(ii)"
+          "part": "Q3(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The Enabling Act was the main reason why the Nazis were able to set up a dictatorship in Germany in the years 1933–34.’\nHow far do you agree?\nExplain your answer.",
@@ -806,7 +847,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2023",
-          "part": "Q3(b)"
+          "part": "Q3(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of Nazi rule on education in Germany in the years 1933–39.",
@@ -825,7 +867,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2022",
-          "part": "Q3(c)(ii)"
+          "part": "Q3(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The most significant impact of Nazi policies towards German people, in the years 1933–39, was on the Jews.’\nHow far do you agree?\nExplain your answer.",

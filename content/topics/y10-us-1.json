@@ -442,7 +442,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2025",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "ms": {
           "support": [
@@ -478,7 +479,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2023",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main consequence of the Red Scare was an increase in the importance of Senator McCarthy.’\nHow far do you agree?\nExplain your answer.",
@@ -501,7 +503,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2023",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about McCarthy?",
@@ -510,7 +513,10 @@
             "McCarthy is shown as a minor politician exploiting Republican anger",
             "phrases such as 'seized his moment' and 'days were numbered'"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract G: From A History of the United States, published in 2010."
+        ]
       },
       {
         "id": "pp-4hi101-june2022-us-a",
@@ -519,7 +525,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2022",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about HUAC investigations into Hollywood?",
@@ -528,7 +535,10 @@
             "HUAC's investigations are shown as excessive — Hollywood seen as a 'hotbed' of communism",
             "language such as 'terrifying frequency' and 'persecution'"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract G: From A History of the United States, published in 2010."
+        ]
       },
       {
         "id": "pp-4hi101-november2021-us-a",
@@ -537,7 +547,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2021",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about the impact of the Alger Hiss case?",
@@ -546,7 +557,10 @@
             "The Hiss case caused 'severe embarrassment' for Truman's government",
             "'damaging' links to prominent Democrats"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract G: From A History of the United States of America, published in 1985."
+        ]
       },
       {
         "id": "pp-4hi101-june2021-us-ci",
@@ -555,7 +569,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2021",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main feature of the Red Scare was the false accusations that were made.’\nHow far do you agree?\nExplain your answer.",
@@ -596,7 +611,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2025",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason for the Red Scare, in the years c1945–54, was the Cold War.’\nHow far do you agree?\nExplain your answer.",
@@ -638,7 +654,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2023",
-          "part": "Q7(b)"
+          "part": "Q7(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of the Red Scare on the USA.",
@@ -657,7 +674,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2022",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason why anti-communism grew in the USA, in the years 1945–54, was the Hiss and Rosenberg cases.’\nHow far do you agree?\nExplain your answer.",

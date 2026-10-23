@@ -111,14 +111,16 @@ The two Pearson training documents (delegate booklet and slides) are licensed fo
 
 ## Past papers on the site
 
-Every past-paper question that could be found and read online, mapped to its topic. Open any course and choose **Past papers** to browse them by paper, topic and question type. Mark-scheme points are paraphrased from Pearson's mark schemes; examiner comments come from Pearson's examiner reports. Sources and extract booklets are not on the site.
+Every past-paper question that could be found and read, mapped to its topic, from 2016 to November 2025 (November 2025 from Mr Garry's own copies). Open any course and choose **Past papers** to browse by paper, topic and question type. Mark-scheme points are paraphrased from Pearson's mark schemes; examiner comments come from Pearson's examiner reports.
 
-| Year | Papers | Series | Questions | With mark-scheme points | With examiner comments |
-|---|---|---|---|---|---|
-| y10 | 4HI1/01, 4HI1/01R | 9 | 120 | 120 | 8 |
-| y11 | 4HI1/02, 4HI1/02R | 9 | 105 | 105 | 13 |
-| y12 | WHI01/1C, WHI02/1B | 19 | 167 | 162 | 15 |
-| y13 | WHI03/1D, WHI04/1C | 20 | 105 | 99 | 18 |
+| Year | Papers | Series | Questions | With mark-scheme points | With examiner comments | With source captions |
+|---|---|---|---|---|---|---|
+| y10 | 4HI1/01 | 10 | 128 | 128 | 8 | 24 |
+| y11 | 4HI1/02 | 10 | 112 | 112 | 17 | 24 |
+| y12 | WHI01/1C, WHI02/1B | 19 | 167 | 162 | 15 | 2 |
+| y13 | WHI03/1D, WHI04/1C | 20 | 105 | 99 | 18 | 0 |
+
+**Sources and extracts.** The texts are not copied onto the site because they are still in copyright. Source questions show the captions printed in the paper and, where the paper is online, a link to the PDF that contains the full sources (IGCSE papers since 2021). For IAL papers, Pearson publishes the sources booklets on its past-papers page; only WHI02 January 2017 was found at a fixed link. IGCSE June 2019 and June 2020 copies online are answer booklets only, so those questions have no captions.
 
 Gaps to check:
 

@@ -440,7 +440,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2025",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "ms": {
           "support": [
@@ -458,7 +459,12 @@
           "weak": [
             "Some relied on general knowledge from later in the war (under Johnson) rather than 1961–63."
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From a report written for President Kennedy in November 1961. The report was prepared by senior advisers in the US Government.",
+          "Source B: From comments made by President Kennedy during a press conference in February 1962.",
+          "Extract C: From an article on US involvement in the Vietnam War, published in 2019."
+        ]
       },
       {
         "id": "q2",
@@ -476,7 +482,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2025",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about the war in Vietnam during the early 1960s?\nExplain your answer.",
@@ -494,7 +501,11 @@
             "Many identified subtle as well as obvious differences between the sources."
           ],
           "weak": []
-        }
+        },
+        "src_captions": [
+          "Source A: From a report written for President Kennedy in November 1961. The report was prepared by senior advisers in the US Government.",
+          "Source B: From comments made by President Kennedy during a press conference in February 1962."
+        ]
       },
       {
         "id": "pp-4hi102-june2024-vn-a",
@@ -503,7 +514,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2024",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Describe TWO features of EITHER the Domino Theory OR the Battle of Hue (1968).",
@@ -521,7 +533,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2023",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about the Gulf of Tonkin incident (1964)?\nExplain your answer.",
@@ -531,7 +544,11 @@
             "both show Johnson seeking Congressional support",
             "Source A says escalation is not inevitable while Source B predicts it"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From President Johnson's message to Congress on 5 August 1964. Here he is asking Congress to support his actions in Vietnam following the Gulf of Tonkin incident.",
+          "Source B: From a speech made by Senator Gruening on 7 August 1964 during the Senate debate on the Gulf of Tonkin incident."
+        ]
       },
       {
         "id": "pp-4hi102-november2023-vn-c",
@@ -540,7 +557,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2023",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Extract C suggests that the Gulf of Tonkin incident (1964) was a turning point in the USA’s involvement in Vietnam. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -550,7 +568,12 @@
             "Johnson sought power to increase forces",
             "US troops rose from about 16,000 to over 500,000 and took on combat roles"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From President Johnson's message to Congress on 5 August 1964. Here he is asking Congress to support his actions in Vietnam following the Gulf of Tonkin incident.",
+          "Source B: From a speech made by Senator Gruening on 7 August 1964 during the Senate debate on the Gulf of Tonkin incident.",
+          "Extract C: From an article on the Gulf of Tonkin incident, published in 2012."
+        ]
       },
       {
         "id": "pp-4hi102-june2023-vn-a",
@@ -559,7 +582,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2023",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Describe TWO features of EITHER the Strategic Hamlet Programme OR the role of General Westmoreland.",
@@ -577,7 +601,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2022",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Describe TWO features of EITHER life in South Vietnam under Ngo Dinh Diem OR Hearts and Minds.",
@@ -644,7 +669,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2025",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Describe TWO features of EITHER the Gulf of Tonkin incident OR the jungle war (1965–68).",
@@ -662,7 +688,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2024",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about the government of Ngo Dinh Diem in South Vietnam?\nExplain your answer.",
@@ -672,7 +699,11 @@
             "both link his family's domination to discontent",
             "Source A blames religious favouritism, Source B his brother Nhu"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From an interview with a member of the National Liberation Front (NLF), published in 1976. Here he is recalling South Vietnam under the government of Diem.",
+          "Source B: From an intelligence report on South Vietnam written for the US Government in 1958."
+        ]
       },
       {
         "id": "pp-4hi102r-june2024-vn-c",
@@ -681,7 +712,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2024",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Extract C suggests that the main reason for the growing opposition to Diem’s government in South Vietnam was the popularity of the communists. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -691,7 +723,12 @@
             "propaganda portrayed Diem as an American puppet",
             "promises of fairness and land"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From an interview with a member of the National Liberation Front (NLF), published in 1976. Here he is recalling South Vietnam under the government of Diem.",
+          "Source B: From an intelligence report on South Vietnam written for the US Government in 1958.",
+          "Extract C: From a history of the Vietnam War, published in 1991."
+        ]
       },
       {
         "id": "pp-4hi102r-june2023-vn-b",
@@ -700,7 +737,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2023",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about US involvement in the Vietnam War?\nExplain your answer.",
@@ -710,7 +748,11 @@
             "Source A defends democracy while Source B calls the governments corrupt",
             "Source A is idealistic, Source B critical of the effects"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From a speech by President Lyndon B Johnson in June 1966. Here, he is explaining why the USA was increasing its support for South Vietnam.",
+          "Source B: From a speech by an American church leader in April 1967."
+        ]
       },
       {
         "id": "pp-4hi102r-june2022-vn-a",
@@ -719,7 +761,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2022",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Describe TWO features of EITHER life in North Vietnam under Ho Chi Minh OR Search and Destroy.",
@@ -738,7 +781,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2022",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about opposition in the USA to the war in Vietnam?\nExplain your answer.",
@@ -748,7 +792,11 @@
             "both show the media inflamed opinion",
             "only Source A mentions opposition from veterans"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From an interview with a 'draft-dodger' who left the USA in 1967 to avoid conscription into the US Army. Here he is explaining the reasons for his decision.",
+          "Source B: From an interview with a man who deserted from the US Army in 1968 to avoid being sent to Vietnam. Here he is describing the reasons for his decision."
+        ]
       },
       {
         "id": "pp-4hi102r-june2019-vn-a",

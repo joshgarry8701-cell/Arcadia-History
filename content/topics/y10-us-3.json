@@ -486,13 +486,37 @@
         "q": "Explain two effects of the Black Power movement on the USA."
       },
       {
+        "id": "pp-4hi101-november2025-us-a",
+        "qtype": "p1a",
+        "label": "Past paper: 4HI1/01, November 2025, Q7(a) (the extract is in the paper)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "November 2025",
+          "part": "Q7(a)"
+        },
+        "sections": [],
+        "q": "What impression does the author give about the march on Birmingham in 1963? You must use Extract G to explain your answer.",
+        "ms": {
+          "points": [
+            "The police are shown as brutal and racist, and King aimed to draw media attention to this",
+            "Phrases such as 'notoriously racist' and 'perfect example of such brutality' shape the impression",
+            "The arrests are presented as 'achieving King's overall aim'",
+            "The author leaves out the many protesters jailed without harm or publicity"
+          ]
+        },
+        "src_captions": [
+          "Extract G: From a history of the United States, published in 2001."
+        ]
+      },
+      {
         "id": "pp-4hi101-june2024-us-a",
         "qtype": "p1a",
         "label": "Past paper: 4HI1/01, June 2024, Q7(a) (the extract is in the paper)",
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2024",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about the experiences of the Freedom Riders?",
@@ -501,7 +525,10 @@
             "Freedom Riders faced brutality — 'some suffered serious injuries'",
             "phrases such as 'badly beaten' and 'savage and violent attacks'"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract G: From A History of the United States, published in 2007."
+        ]
       },
       {
         "id": "pp-4hi101-november2023-us-cii",
@@ -510,7 +537,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2023",
-          "part": "Q7(c)(ii)"
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason for the growth of Black Power in the 1960s was disappointment with the achievements of previous civil rights campaigns.’\nHow far do you agree?\nExplain your answer.",
@@ -533,7 +561,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2023",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason why progress was made in the civil rights of black Americans in the 1950s and 1960s was federal government action.’\nHow far do you agree?\nExplain your answer.",
@@ -556,7 +585,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2022",
-          "part": "Q7(c)(ii)"
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason why civil rights legislation was passed in the 1960s was because of the efforts of Martin Luther King.’\nHow far do you agree?\nExplain your answer.",
@@ -579,7 +609,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2021",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason why progress was made in the civil rights of black Americans in the 1960s was the influence of Martin Luther King.’\nHow far do you agree?\nExplain your answer.",
@@ -602,7 +633,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2021",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about the impact of the race riots?",
@@ -611,7 +643,10 @@
             "The riots did significant damage and frightened white Americans",
             "phrases such as 'major riots' and 'no-go areas for whites'"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract G: From American History 1860–1990, published in 2002."
+        ]
       },
       {
         "id": "pp-4hi101-june2020-us-b",
@@ -662,7 +697,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2025",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about the Selma March?",
@@ -671,7 +707,10 @@
             "Marchers were 'beaten and trampled', horrifying TV viewers",
             "'outraged and sickening' presents the reaction as excessive"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract G: From a history of the United States, published in 2005."
+        ]
       },
       {
         "id": "pp-4hi101r-june2024-us-cii",
@@ -680,7 +719,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2024",
-          "part": "Q7(c)(ii)"
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The most significant development towards gaining civil rights in the 1960s was the growth of the Black Power movement.’\nHow far do you agree?\nExplain your answer.",
@@ -703,7 +743,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2023",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about the methods used by Martin Luther King in the 1960s?",
@@ -713,7 +754,10 @@
             "language such as 'significant' and 'heart-warming'",
             "the less successful northern campaign is omitted"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract G: From American History 1860–1990, published in 2002."
+        ]
       },
       {
         "id": "pp-4hi101r-june2020-us-ci",

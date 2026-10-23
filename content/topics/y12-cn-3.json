@@ -907,7 +907,8 @@
         "pp": {
           "paper": "WHI02/1B",
           "series": "January 2017",
-          "part": "Q2"
+          "part": "Q2",
+          "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
         },
         "sections": [],
         "q": "How accurate is it to say that the growth of railways was the most significant factor in the economic development of China in the years 1900–27?",
@@ -933,7 +934,8 @@
         "pp": {
           "paper": "WHI02/1B",
           "series": "January 2017",
-          "part": "Q4"
+          "part": "Q4",
+          "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
         },
         "sections": [],
         "q": "How accurate is it to say that the Five Year Plans of 1952–62 were largely unsuccessful in modernising the Chinese economy?",

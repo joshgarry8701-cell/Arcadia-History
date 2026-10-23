@@ -11,6 +11,404 @@
   {
    "course": "y10",
    "paper": "4HI1/01",
+   "series": "November 2025",
+   "unreadable": false,
+   "questions": [
+    {
+     "n": "de-a",
+     "study": "de",
+     "label": "Q3(a)",
+     "qtype": "p1a",
+     "topic": "y10-de-4",
+     "q": "What impression does the author give about the purpose of Nazi youth groups? You must use Extract C to explain your answer.",
+     "key": "What impression does the author give about the purpose of Nazi youth groups?",
+     "ms": {
+      "points": [
+       "The author suggests the groups existed so the Nazis could control young Germans",
+       "The extract says the regime filled young people with Nazi ideas",
+       "Word choice such as 'indoctrinated', 'weakened' and 'dominant' builds the impression",
+       "The author stresses control and leaves out the use of youth groups to prepare for war"
+      ]
+     },
+     "id": "pp-4hi101-november2025-de-a",
+     "srcs": [
+      "Extract C: From a history of Germany, published in 2020."
+     ]
+    },
+    {
+     "n": "de-b",
+     "study": "de",
+     "label": "Q3(b)",
+     "qtype": "p1b",
+     "topic": "y10-de-2",
+     "q": "Explain two effects of German successes abroad on Germany in the years 1925–28.",
+     "ms": {
+      "points": [
+       "International trust returned: the Locarno Treaties guaranteed the French–German border",
+       "Joining the League of Nations restored standing lost at Versailles",
+       "The Kellogg–Briand Pact committed Germany to settling disputes without war"
+      ]
+     },
+     "key": "Explain two effects of German successes abroad on Germany in the years 1925–28.",
+     "id": "pp-4hi101-november2025-de-b"
+    },
+    {
+     "n": "de-ci",
+     "study": "de",
+     "label": "Q3(c)(i)",
+     "qtype": "p1c",
+     "topic": "y10-de-1",
+     "q": "'The main reason why the Treaty of Versailles was disliked by many Germans was the loss of territory.' How far do you agree? Explain your answer.",
+     "prompts": [
+      "the loss of territory",
+      "the War Guilt Clause"
+     ],
+     "ms": {
+      "support": [
+       "Economically important land was lost (about 20% of coal and 15% of farm resources)",
+       "All colonies were handed over as League mandates",
+       "Alsace-Lorraine went to France, a blow to national pride",
+       "Land given to Poland left many Germans outside Germany"
+      ],
+      "challenge": [
+       "Article 231 blamed Germany alone for the war",
+       "Reparations, set in 1921 at £6,600 million, were seen as crushing",
+       "Military limits (100,000-man army, no air force or submarines) left Germany feeling defenceless"
+      ]
+     },
+     "key": "'The main reason why the Treaty of Versailles was disliked by many Germans was the loss of territory.' How far do you agree? Explain your answer.",
+     "id": "pp-4hi101-november2025-de-ci"
+    },
+    {
+     "n": "de-cii",
+     "study": "de",
+     "label": "Q3(c)(ii)",
+     "qtype": "p1c",
+     "topic": "y10-de-3",
+     "q": "'In the years 1929–33, the most significant impact of the Great Depression on Germany was economic difficulties.' How far do you agree? Explain your answer.",
+     "prompts": [
+      "economic difficulties",
+      "the collapse of the Weimar Republic"
+     ],
+     "ms": {
+      "support": [
+       "Unemployment rose from about 1.3 million (1929) to 6 million (1933)",
+       "The government struggled to borrow money",
+       "Banks failed as people rushed to withdraw savings",
+       "Industrial production fell by around 40% by 1933"
+      ],
+      "challenge": [
+       "Brüning's coalition collapsed, starting the end of the Weimar Republic",
+       "KPD seats rose from 77 (1930) to 100 (1932)",
+       "The Nazis used rallies and a strong-leader image to win votes",
+       "Nazi propaganda won working- and middle-class support, e.g. anti-communist posters"
+      ]
+     },
+     "key": "'In the years 1929–33, the most significant impact of the Great Depression on Germany was economic difficulties.' How far do you agree? Explain your answer.",
+     "id": "pp-4hi101-november2025-de-cii"
+    },
+    {
+     "n": "us-a",
+     "study": "us",
+     "label": "Q7(a)",
+     "qtype": "p1a",
+     "topic": "y10-us-3",
+     "q": "What impression does the author give about the march on Birmingham in 1963? You must use Extract G to explain your answer.",
+     "key": "What impression does the author give about the march on Birmingham in 1963?",
+     "ms": {
+      "points": [
+       "The police are shown as brutal and racist, and King aimed to draw media attention to this",
+       "Phrases such as 'notoriously racist' and 'perfect example of such brutality' shape the impression",
+       "The arrests are presented as 'achieving King's overall aim'",
+       "The author leaves out the many protesters jailed without harm or publicity"
+      ]
+     },
+     "id": "pp-4hi101-november2025-us-a",
+     "srcs": [
+      "Extract G: From a history of the United States, published in 2001."
+     ]
+    },
+    {
+     "n": "us-b",
+     "study": "us",
+     "label": "Q7(b)",
+     "qtype": "p1b",
+     "topic": "y10-us-2",
+     "q": "Explain two effects of the Montgomery Bus Boycott on civil rights in the 1950s.",
+     "ms": {
+      "points": [
+       "It helped end bus segregation in Montgomery, challenging Jim Crow laws",
+       "It created the Montgomery Improvement Association, showing grassroots groups could win",
+       "It made Martin Luther King a national civil rights figure"
+      ]
+     },
+     "key": "Explain two effects of the Montgomery Bus Boycott on civil rights in the 1950s.",
+     "id": "pp-4hi101-november2025-us-b"
+    },
+    {
+     "n": "us-ci",
+     "study": "us",
+     "label": "Q7(c)(i)",
+     "qtype": "p1c",
+     "topic": "y10-us-4",
+     "q": "'The main reason for the growth of the women's movement, in the years 1960–74, was the contribution made by Betty Friedan.' How far do you agree? Explain your answer.",
+     "prompts": [
+      "Betty Friedan",
+      "Eleanor Roosevelt"
+     ],
+     "ms": {
+      "support": [
+       "The Feminine Mystique (1963) sold about three million copies in three years",
+       "Friedan was founding president of NOW, which grew to tens of thousands of members",
+       "Her campaigning fed into the Equal Pay Act (1963) and the ERA campaign (1972)"
+      ],
+      "challenge": [
+       "Eleanor Roosevelt used her prominence for women's rights and first led Kennedy's Commission",
+       "Kennedy's Commission on the Status of Women and its report American Women (1963)",
+       "Nixon placed women's rights under the Civil Rights Commission and backed the ERA",
+       "Title IX (1972) and NOW's court cases, including the road to Roe v Wade (1973)"
+      ]
+     },
+     "key": "'The main reason for the growth of the women's movement, in the years 1960–74, was the contribution made by Betty Friedan.' How far do you agree? Explain your answer.",
+     "id": "pp-4hi101-november2025-us-ci"
+    },
+    {
+     "n": "us-cii",
+     "study": "us",
+     "label": "Q7(c)(ii)",
+     "qtype": "p1c",
+     "topic": "y10-us-5",
+     "q": "'The main consequence of the Watergate scandal was new laws.' How far do you agree? Explain your answer.",
+     "prompts": [
+      "new laws",
+      "Gerald Ford"
+     ],
+     "ms": {
+      "support": [
+       "Congress overrode Nixon to pass the War Powers Act (1973)",
+       "Federal Election Campaign Act amendments (1974) tightened campaign finance",
+       "Freedom of Information Act amendments and the Privacy Act (1974)",
+       "The Congressional Budget and Impoundment Control Act (1974)"
+      ],
+      "challenge": [
+       "Gerald Ford became the first unelected president",
+       "The presidency lost prestige and authority after the impeachment process and resignation",
+       "Nixon's authority collapsed as advisers resigned or were sacked",
+       "Democrats gained strongly in the 1974 mid-terms"
+      ]
+     },
+     "key": "'The main consequence of the Watergate scandal was new laws.' How far do you agree? Explain your answer.",
+     "id": "pp-4hi101-november2025-us-cii"
+    }
+   ]
+  },
+  {
+   "course": "y11",
+   "paper": "4HI1/02",
+   "series": "November 2025",
+   "unreadable": false,
+   "questions": [
+    {
+     "n": "vn-a",
+     "study": "vn",
+     "label": "A4(a)",
+     "qtype": "p2aa",
+     "topic": "y11-vn-1",
+     "q": "Describe TWO features of EITHER the Geneva Conference (1954) OR media coverage of the war in the USA.",
+     "ms": {
+      "points": [
+       "Geneva: the conference dealt with the end of the First Indochina War; North and South Vietnam, the USA, France and Britain attended",
+       "Geneva: France agreed to withdraw; Vietnam was split at the 17th parallel until elections within two years",
+       "Media: newspapers, radio and TV covered the war in detail and questioned the government’s version",
+       "Media: new technology put film on TV within hours; Walter Cronkite's CBS news reached millions"
+      ]
+     },
+     "key": "Describe TWO features of EITHER the Geneva Conference (1954) OR media coverage of the war in the USA.",
+     "id": "pp-4hi102-november2025-vn-a"
+    },
+    {
+     "n": "vn-b",
+     "study": "vn",
+     "label": "A4(b)",
+     "qtype": "p2ab",
+     "topic": "y11-vn-3",
+     "q": "How far does Source A support the evidence of Source B about the aims of Operation Rolling Thunder? Explain your answer.",
+     "ms": {
+      "points": [
+       "Agree: both describe sustained bombing of North Vietnam",
+       "Agree: both say the aim was to cut North Vietnam's support for the Viet Cong",
+       "Differ: A is unsure the aims will be met; B says supplies to the Viet Cong are being reduced",
+       "Differ: only A says the aim was to show the USA was ready to escalate",
+       "Extent: they agree strongly on the aims but differ on how successful the bombing was"
+      ]
+     },
+     "key": "How far does Source A support the evidence of Source B about the aims of Operation Rolling Thunder? Explain your answer.",
+     "id": "pp-4hi102-november2025-vn-b",
+     "srcs": [
+      "Source A: From a note written by a senior adviser to President Lyndon Johnson in February 1965. Here he is commenting before the launch of Operation Rolling Thunder, which began in March 1965.",
+      "Source B: From a telegram sent to the US Government from the US Embassy in Saigon in June 1965. Here it is commenting on Operation Rolling Thunder."
+     ]
+    },
+    {
+     "n": "vn-c",
+     "study": "vn",
+     "label": "A4(c)",
+     "qtype": "p2ac",
+     "topic": "y11-vn-3",
+     "q": "Extract C suggests that Operation Rolling Thunder was a great success. How far do you agree with this interpretation? Use Extract C, Sources A and B and your own knowledge to explain your answer.",
+     "key": "Extract C suggests that Operation Rolling Thunder was a great success.",
+     "ms": {
+      "support": [
+       "Source A: the bombing showed US determination to win",
+       "Source B: it made fighting the Viet Cong 'easier'",
+       "Extract C: it badly damaged North Vietnam's infrastructure and supply networks",
+       "Damage was estimated at over $500 million, and North Vietnam agreed to talks in 1968"
+      ],
+      "challenge": [
+       "Source A predicted heavy losses and unpopularity at home, and both came true",
+       "Source B: bombing would not stop supplies to the Viet Cong completely",
+       "Extract C: it increased opposition to the war in the USA and abroad",
+       "China and the USSR kept supplying the North; civilian deaths strengthened North Vietnamese resolve"
+      ]
+     },
+     "id": "pp-4hi102-november2025-vn-c",
+     "srcs": [
+      "Source A: From a note written by a senior adviser to President Lyndon Johnson in February 1965. Here he is commenting before the launch of Operation Rolling Thunder, which began in March 1965.",
+      "Source B: From a telegram sent to the US Government from the US Embassy in Saigon in June 1965. Here it is commenting on Operation Rolling Thunder.",
+      "Extract C: From an article on Operation Rolling Thunder, published in 2024."
+     ]
+    },
+    {
+     "n": "med-a",
+     "study": "med",
+     "label": "B2(a)",
+     "qtype": "p2ba",
+     "topic": "y11-med-4",
+     "q": "Explain TWO ways in which government involvement in the health of children in 1905 was different from government involvement in the health of children after 1911.",
+     "ms": {
+      "points": [
+       "In 1905 there were no free school meals; from 1906 the government funded local authorities to provide them",
+       "In 1905 there was no health service for children; the School Medical Service began in 1907"
+      ]
+     },
+     "examiner": {
+      "series": "4HI1/02 examiner report, November 2025",
+      "url": null,
+      "strong": [
+       "Strong answers named specific changes such as free school meals and the School Medical Service and explained them as a change in government involvement."
+      ],
+      "weak": [
+       "Some confused 1905–11 with the creation of the NHS.",
+       "Some wrote about the whole population rather than children's health."
+      ]
+     },
+     "key": "Explain TWO ways in which government involvement in the health of children in 1905 was different from government involvement in the health of children after 1911.",
+     "id": "pp-4hi102-november2025-med-a"
+    },
+    {
+     "n": "med-b",
+     "study": "med",
+     "label": "B2(b)",
+     "qtype": "p2bb",
+     "topic": "y11-med-5",
+     "q": "Explain TWO causes of the establishment of the NHS in 1948.",
+     "ms": {
+      "points": [
+       "The government's larger role in health during the Second World War",
+       "The 1945 Labour victory and Aneurin Bevan’s determination",
+       "The Beveridge Report naming disease as one of the five 'giant evils'"
+      ]
+     },
+     "examiner": {
+      "series": "4HI1/02 examiner report, November 2025",
+      "url": null,
+      "strong": [
+       "Many correctly explained two causes."
+      ],
+      "weak": [
+       "Some explained consequences of the NHS, or described what it achieved, instead of causes."
+      ]
+     },
+     "key": "Explain TWO causes of the establishment of the NHS in 1948.",
+     "id": "pp-4hi102-november2025-med-b"
+    },
+    {
+     "n": "med-ci",
+     "study": "med",
+     "label": "B2(c)(i)",
+     "qtype": "p2bc",
+     "topic": "y11-med-1",
+     "q": "How far were women responsible for changes in medicine in the years 1848–1905?",
+     "prompts": [
+      "Florence Nightingale",
+      "antiseptics"
+     ],
+     "ms": {
+      "support": [
+       "Nightingale's work made hospitals cleaner, more spacious and better ventilated",
+       "Notes on Nursing and the Nightingale School produced better-trained nurses",
+       "Marie Curie's work on radiation helped cancer treatment"
+      ],
+      "challenge": [
+       "Pasteur's germ theory",
+       "Simpson's chloroform and Snow's work on anaesthetics",
+       "Lister's carbolic spray and antiseptics",
+       "Röntgen's X-rays and Koch's identification of microbes"
+      ]
+     },
+     "examiner": {
+      "series": "4HI1/02 examiner report, November 2025",
+      "url": null,
+      "strong": [
+       "Knowledge was generally strong, especially on Nightingale and others."
+      ],
+      "weak": [
+       "Weaker answers lost focus on the question or did not add a factor of their own."
+      ]
+     },
+     "key": "How far were women responsible for changes in medicine in the years 1848–1905?",
+     "id": "pp-4hi102-november2025-med-ci"
+    },
+    {
+     "n": "med-cii",
+     "study": "med",
+     "label": "B2(c)(ii)",
+     "qtype": "p2bc",
+     "topic": "y11-med-4",
+     "q": "How far were the two world wars responsible for improvements in medical treatment and surgery in the years 1914–45?",
+     "prompts": [
+      "plastic surgery",
+      "Florey and Chain"
+     ],
+     "ms": {
+      "support": [
+       "X-ray machines on the Western Front helped surgeons remove bullets",
+       "Blood transfusion and blood storage improved in the First World War",
+       "The US government funded mass production of penicillin after 1941",
+       "Skin grafts and burns treatment advanced through plastic surgery"
+      ],
+      "challenge": [
+       "War took doctors away and slowed research (half of UK doctors served in the First World War)",
+       "Ehrlich's Salvarsan and Domagk's second magic bullet (1932) were not war-driven",
+       "Fleming, Florey and Chain's penicillin research was done between the wars"
+      ]
+     },
+     "examiner": {
+      "series": "4HI1/02 examiner report, November 2025",
+      "url": null,
+      "strong": [],
+      "weak": [
+       "Weaker answers lost focus on the question or did not add a factor of their own."
+      ]
+     },
+     "key": "How far were the two world wars responsible for improvements in medical treatment and surgery in the years 1914–45?",
+     "id": "pp-4hi102-november2025-med-cii"
+    }
+   ]
+  },
+  {
+   "course": "y10",
+   "paper": "4HI1/01",
    "series": "June 2025",
    "unreadable": false,
    "questions": [
@@ -37,7 +435,10 @@
       ],
       "weak": []
      },
-     "id": "pp-4hi101-june2025-de-a"
+     "id": "pp-4hi101-june2025-de-a",
+     "srcs": [
+      "Extract C: From a history of Germany, published in 2017."
+     ]
     },
     {
      "n": "de-b",
@@ -148,7 +549,10 @@
       ],
       "weak": []
      },
-     "id": "pp-4hi101-june2025-us-a"
+     "id": "pp-4hi101-june2025-us-a",
+     "srcs": [
+      "Extract G: From a history of America, published in 2007."
+     ]
     },
     {
      "n": "us-b",
@@ -237,7 +641,8 @@
      },
      "id": "pp-4hi101-june2025-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -259,7 +664,10 @@
        "words such as 'uncoordinated' and 'easily crushed'"
       ]
      },
-     "id": "pp-4hi101-june2024-de-a"
+     "id": "pp-4hi101-june2024-de-a",
+     "srcs": [
+      "Extract C: From A History of Germany, published in 2000."
+     ]
     },
     {
      "n": "de-b",
@@ -334,7 +742,10 @@
        "phrases such as 'badly beaten' and 'savage and violent attacks'"
       ]
      },
-     "id": "pp-4hi101-june2024-us-a"
+     "id": "pp-4hi101-june2024-us-a",
+     "srcs": [
+      "Extract G: From A History of the United States, published in 2007."
+     ]
     },
     {
      "n": "us-b",
@@ -395,7 +806,8 @@
      },
      "id": "pp-4hi101-june2024-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -417,7 +829,10 @@
        "ignores the Gestapo and camps"
       ]
      },
-     "id": "pp-4hi101-november2023-de-a"
+     "id": "pp-4hi101-november2023-de-a",
+     "srcs": [
+      "Extract C: From a history of Germany, published in 2015."
+     ]
     },
     {
      "n": "de-b",
@@ -492,7 +907,10 @@
        "the backlash she faced is ignored"
       ]
      },
-     "id": "pp-4hi101-november2023-us-a"
+     "id": "pp-4hi101-november2023-us-a",
+     "srcs": [
+      "Extract G: From an article on the life of Phyllis Schlafly."
+     ]
     },
     {
      "n": "us-b",
@@ -553,7 +971,8 @@
      },
      "id": "pp-4hi101-november2023-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -575,7 +994,10 @@
        "words such as 'dazed' and 'in cold blood'"
       ]
      },
-     "id": "pp-4hi101-june2023-de-a"
+     "id": "pp-4hi101-june2023-de-a",
+     "srcs": [
+      "Extract C: From A History of Germany, published in 2000."
+     ]
     },
     {
      "n": "de-b",
@@ -650,7 +1072,10 @@
        "phrases such as 'seized his moment' and 'days were numbered'"
       ]
      },
-     "id": "pp-4hi101-june2023-us-a"
+     "id": "pp-4hi101-june2023-us-a",
+     "srcs": [
+      "Extract G: From A History of the United States, published in 2010."
+     ]
     },
     {
      "n": "us-b",
@@ -711,7 +1136,8 @@
      },
      "id": "pp-4hi101-june2023-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -733,7 +1159,10 @@
        "language such as 'confusion' and 'doubtful'"
       ]
      },
-     "id": "pp-4hi101-june2022-de-a"
+     "id": "pp-4hi101-june2022-de-a",
+     "srcs": [
+      "Extract C: From A History of Germany, published in 1996."
+     ]
     },
     {
      "n": "de-b",
@@ -808,7 +1237,10 @@
        "language such as 'terrifying frequency' and 'persecution'"
       ]
      },
-     "id": "pp-4hi101-june2022-us-a"
+     "id": "pp-4hi101-june2022-us-a",
+     "srcs": [
+      "Extract G: From A History of the United States, published in 2010."
+     ]
     },
     {
      "n": "us-b",
@@ -869,7 +1301,8 @@
      },
      "id": "pp-4hi101-june2022-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -891,7 +1324,10 @@
        "words such as 'stab in the back' and 'shameful'"
       ]
      },
-     "id": "pp-4hi101-november2021-de-a"
+     "id": "pp-4hi101-november2021-de-a",
+     "srcs": [
+      "Extract C: From A History of Germany, published in 2000."
+     ]
     },
     {
      "n": "de-b",
@@ -966,7 +1402,10 @@
        "'damaging' links to prominent Democrats"
       ]
      },
-     "id": "pp-4hi101-november2021-us-a"
+     "id": "pp-4hi101-november2021-us-a",
+     "srcs": [
+      "Extract G: From A History of the United States of America, published in 1985."
+     ]
     },
     {
      "n": "us-b",
@@ -1027,7 +1466,8 @@
      },
      "id": "pp-4hi101-november2021-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -1049,7 +1489,10 @@
        "language such as 'half-hearted'"
       ]
      },
-     "id": "pp-4hi101-june2021-de-a"
+     "id": "pp-4hi101-june2021-de-a",
+     "srcs": [
+      "Extract C: From A History of Germany, published in 2000."
+     ]
     },
     {
      "n": "de-b",
@@ -1124,7 +1567,10 @@
        "phrases such as 'major riots' and 'no-go areas for whites'"
       ]
      },
-     "id": "pp-4hi101-june2021-us-a"
+     "id": "pp-4hi101-june2021-us-a",
+     "srcs": [
+      "Extract G: From American History 1860–1990, published in 2002."
+     ]
     },
     {
      "n": "us-b",
@@ -1185,7 +1631,8 @@
      },
      "id": "pp-4hi101-june2021-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -1509,7 +1956,10 @@
        "'did not last' and 'limited support'"
       ]
      },
-     "id": "pp-4hi101r-june2025-de-a"
+     "id": "pp-4hi101r-june2025-de-a",
+     "srcs": [
+      "Extract C: From a history of Germany, published in 2000."
+     ]
     },
     {
      "n": "de-b",
@@ -1584,7 +2034,10 @@
        "'outraged and sickening' presents the reaction as excessive"
       ]
      },
-     "id": "pp-4hi101r-june2025-us-a"
+     "id": "pp-4hi101r-june2025-us-a",
+     "srcs": [
+      "Extract G: From a history of the United States, published in 2005."
+     ]
     },
     {
      "n": "us-b",
@@ -1645,7 +2098,8 @@
      },
      "id": "pp-4hi101r-june2025-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -1667,7 +2121,10 @@
        "language such as 'suffered' and 'rat-infested'"
       ]
      },
-     "id": "pp-4hi101r-june2024-de-a"
+     "id": "pp-4hi101r-june2024-de-a",
+     "srcs": [
+      "Extract C: From A history of Germany, published in 1999."
+     ]
     },
     {
      "n": "de-b",
@@ -1742,7 +2199,10 @@
        "peaceful protest is omitted"
       ]
      },
-     "id": "pp-4hi101r-june2024-us-a"
+     "id": "pp-4hi101r-june2024-us-a",
+     "srcs": [
+      "Extract G: From A history of the USA, published 2001."
+     ]
     },
     {
      "n": "us-b",
@@ -1803,7 +2263,8 @@
      },
      "id": "pp-4hi101r-june2024-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -1826,7 +2287,10 @@
        "Ludendorff's role ignored"
       ]
      },
-     "id": "pp-4hi101r-june2023-de-a"
+     "id": "pp-4hi101r-june2023-de-a",
+     "srcs": [
+      "Extract C: From A History of Germany, published in 1991."
+     ]
     },
     {
      "n": "de-b",
@@ -1902,7 +2366,10 @@
        "the less successful northern campaign is omitted"
       ]
      },
-     "id": "pp-4hi101r-june2023-us-a"
+     "id": "pp-4hi101r-june2023-us-a",
+     "srcs": [
+      "Extract G: From American History 1860–1990, published in 2002."
+     ]
     },
     {
      "n": "us-b",
@@ -1963,7 +2430,8 @@
      },
      "id": "pp-4hi101r-june2023-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -1985,7 +2453,10 @@
        "benefits such as the secured French border are omitted"
       ]
      },
-     "id": "pp-4hi101r-june2022-de-a"
+     "id": "pp-4hi101r-june2022-de-a",
+     "srcs": [
+      "Extract C: From A History of Germany, published in 2000."
+     ]
     },
     {
      "n": "de-b",
@@ -2060,7 +2531,10 @@
        "successes in housing and transport are omitted"
       ]
      },
-     "id": "pp-4hi101r-june2022-us-a"
+     "id": "pp-4hi101r-june2022-us-a",
+     "srcs": [
+      "Extract G: From A History of the United States, published in 2001."
+     ]
     },
     {
      "n": "us-b",
@@ -2121,7 +2595,8 @@
      },
      "id": "pp-4hi101r-june2022-us-cii"
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y10",
@@ -2593,7 +3068,11 @@
       ],
       "weak": []
      },
-     "id": "pp-4hi102-june2025-vn-b"
+     "id": "pp-4hi102-june2025-vn-b",
+     "srcs": [
+      "Source A: From a report written for President Kennedy in November 1961. The report was prepared by senior advisers in the US Government.",
+      "Source B: From comments made by President Kennedy during a press conference in February 1962."
+     ]
     },
     {
      "n": "vn-c",
@@ -2620,9 +3099,15 @@
        "Some relied on general knowledge from later in the war (under Johnson) rather than 1961–63."
       ]
      },
-     "id": "pp-4hi102-june2025-vn-c"
+     "id": "pp-4hi102-june2025-vn-c",
+     "srcs": [
+      "Source A: From a report written for President Kennedy in November 1961. The report was prepared by senior advisers in the US Government.",
+      "Source B: From comments made by President Kennedy during a press conference in February 1962.",
+      "Extract C: From an article on US involvement in the Vietnam War, published in 2019."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -2735,7 +3220,11 @@
        "Source A says the movement was unpopular with most Americans while Source B mentions only small pro-war groups"
       ]
      },
-     "id": "pp-4hi102-june2024-vn-b"
+     "id": "pp-4hi102-june2024-vn-b",
+     "srcs": [
+      "Source A: From an interview with a US citizen, published in 2003. Here he is recalling campaigning against the Vietnam War during the 1960s, when he was a student.",
+      "Source B: From a newspaper report of an anti-war demonstration held in New York City in April 1966."
+     ]
     },
     {
      "n": "vn-c",
@@ -2751,9 +3240,15 @@
        "Tet and opposition to the draft damaged morale and recruitment"
       ]
      },
-     "id": "pp-4hi102-june2024-vn-c"
+     "id": "pp-4hi102-june2024-vn-c",
+     "srcs": [
+      "Source A: From an interview with a US citizen, published in 2003. Here he is recalling campaigning against the Vietnam War during the 1960s, when he was a student.",
+      "Source B: From a newspaper report of an anti-war demonstration held in New York City in April 1966.",
+      "Extract C: From a history of the Vietnam War, published in 2010."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -2867,7 +3362,11 @@
        "Source A says escalation is not inevitable while Source B predicts it"
       ]
      },
-     "id": "pp-4hi102-november2023-vn-b"
+     "id": "pp-4hi102-november2023-vn-b",
+     "srcs": [
+      "Source A: From President Johnson's message to Congress on 5 August 1964. Here he is asking Congress to support his actions in Vietnam following the Gulf of Tonkin incident.",
+      "Source B: From a speech made by Senator Gruening on 7 August 1964 during the Senate debate on the Gulf of Tonkin incident."
+     ]
     },
     {
      "n": "vn-c",
@@ -2884,9 +3383,15 @@
        "US troops rose from about 16,000 to over 500,000 and took on combat roles"
       ]
      },
-     "id": "pp-4hi102-november2023-vn-c"
+     "id": "pp-4hi102-november2023-vn-c",
+     "srcs": [
+      "Source A: From President Johnson's message to Congress on 5 August 1964. Here he is asking Congress to support his actions in Vietnam following the Gulf of Tonkin incident.",
+      "Source B: From a speech made by Senator Gruening on 7 August 1964 during the Senate debate on the Gulf of Tonkin incident.",
+      "Extract C: From an article on the Gulf of Tonkin incident, published in 2012."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -3000,7 +3505,11 @@
        "they differ strongly on the consequences"
       ]
      },
-     "id": "pp-4hi102-june2023-vn-b"
+     "id": "pp-4hi102-june2023-vn-b",
+     "srcs": [
+      "Source A: From a speech made by President Richard Nixon, 23 January 1973. Here he is describing the Paris peace talks.",
+      "Source B: From an interview with an American who had been an official in Saigon in 1972, published in 1985."
+     ]
     },
     {
      "n": "vn-c",
@@ -3017,9 +3526,15 @@
        "US forces left quickly and the ARVN lacked leadership"
       ]
      },
-     "id": "pp-4hi102-june2023-vn-c"
+     "id": "pp-4hi102-june2023-vn-c",
+     "srcs": [
+      "Source A: From a speech made by President Richard Nixon, 23 January 1973. Here he is describing the Paris peace talks.",
+      "Source B: From an interview with an American who had been an official in Saigon in 1972, published in 1985.",
+      "Extract C: From a history book on Vietnam, published in 1997."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -3152,7 +3667,11 @@
       ],
       "weak": []
      },
-     "id": "pp-4hi102-june2022-vn-b"
+     "id": "pp-4hi102-june2022-vn-b",
+     "srcs": [
+      "Source A: From a report in an Australian newspaper in February 1968. Here it is describing the Tet Offensive.",
+      "Source B: From the memoirs of a member of the Vietcong. Here he is describing his experiences of the Tet Offensive."
+     ]
     },
     {
      "n": "vn-c",
@@ -3177,9 +3696,15 @@
       ],
       "weak": []
      },
-     "id": "pp-4hi102-june2022-vn-c"
+     "id": "pp-4hi102-june2022-vn-c",
+     "srcs": [
+      "Source A: From a report in an Australian newspaper in February 1968. Here it is describing the Tet Offensive.",
+      "Source B: From the memoirs of a member of the Vietcong. Here he is describing his experiences of the Tet Offensive.",
+      "Extract C: From Twentieth Century Depth Studies, published in 2014."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -3312,7 +3837,11 @@
        "Few explained where the sources differed, or what Source A said that Source B did not."
       ]
      },
-     "id": "pp-4hi102-november2021-vn-b"
+     "id": "pp-4hi102-november2021-vn-b",
+     "srcs": [
+      "Source A: From a report by a British war correspondent in North Vietnam in December 1965. Here he is describing the effects of Operation Rolling Thunder.",
+      "Source B: From an official report to the US government on Operation Rolling Thunder in 1966."
+     ]
     },
     {
      "n": "vn-c",
@@ -3337,9 +3866,15 @@
       ],
       "weak": []
      },
-     "id": "pp-4hi102-november2021-vn-c"
+     "id": "pp-4hi102-november2021-vn-c",
+     "srcs": [
+      "Source A: From a report by a British war correspondent in North Vietnam in December 1965. Here he is describing the effects of Operation Rolling Thunder.",
+      "Source B: From an official report to the US government on Operation Rolling Thunder in 1966.",
+      "Extract C: From The Vietnam War, published in 2017."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -3454,7 +3989,11 @@
        "Source A focuses on assaults on people, Source B on destruction of property"
       ]
      },
-     "id": "pp-4hi102-june2021-vn-b"
+     "id": "pp-4hi102-june2021-vn-b",
+     "srcs": [
+      "Source A: From an interview with a South Vietnamese woman, published in 2001. Here she is recalling events in 1966 and 1967.",
+      "Source B: From evidence given by a former US Navy Lieutenant to the US Senate Foreign Relations Committee in 1971."
+     ]
     },
     {
      "n": "vn-c",
@@ -3471,9 +4010,15 @@
        "investment in roads and electricity"
       ]
      },
-     "id": "pp-4hi102-june2021-vn-c"
+     "id": "pp-4hi102-june2021-vn-c",
+     "srcs": [
+      "Source A: From an interview with a South Vietnamese woman, published in 2001. Here she is recalling events in 1966 and 1967.",
+      "Source B: From evidence given by a former US Navy Lieutenant to the US Senate Foreign Relations Committee in 1971.",
+      "Extract C: From a newspaper article published in 2017."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -3854,7 +4399,11 @@
        "Source A says only Vietcong died while Source B says women and children were shot"
       ]
      },
-     "id": "pp-4hi102r-june2025-vn-b"
+     "id": "pp-4hi102r-june2025-vn-b",
+     "srcs": [
+      "Source A: From a report issued to the press by the US Army, 18 March 1968. Here it is referring to the US Army operation at My Lai in Vietnam.",
+      "Source B: From a report in a US newspaper, 12 November 1969. It was the first to report the truth of the events at My Lai that had occurred over a year before."
+     ]
     },
     {
      "n": "vn-c",
@@ -3871,9 +4420,15 @@
        "news was suppressed for eighteen months and many sympathised with the soldiers"
       ]
      },
-     "id": "pp-4hi102r-june2025-vn-c"
+     "id": "pp-4hi102r-june2025-vn-c",
+     "srcs": [
+      "Source A: From a report issued to the press by the US Army, 18 March 1968. Here it is referring to the US Army operation at My Lai in Vietnam.",
+      "Source B: From a report in a US newspaper, 12 November 1969. It was the first to report the truth of the events at My Lai that had occurred over a year before.",
+      "Extract C: From an article on the My Lai massacre, published in 2009."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -3987,7 +4542,11 @@
        "Source A blames religious favouritism, Source B his brother Nhu"
       ]
      },
-     "id": "pp-4hi102r-june2024-vn-b"
+     "id": "pp-4hi102r-june2024-vn-b",
+     "srcs": [
+      "Source A: From an interview with a member of the National Liberation Front (NLF), published in 1976. Here he is recalling South Vietnam under the government of Diem.",
+      "Source B: From an intelligence report on South Vietnam written for the US Government in 1958."
+     ]
     },
     {
      "n": "vn-c",
@@ -4004,9 +4563,15 @@
        "promises of fairness and land"
       ]
      },
-     "id": "pp-4hi102r-june2024-vn-c"
+     "id": "pp-4hi102r-june2024-vn-c",
+     "srcs": [
+      "Source A: From an interview with a member of the National Liberation Front (NLF), published in 1976. Here he is recalling South Vietnam under the government of Diem.",
+      "Source B: From an intelligence report on South Vietnam written for the US Government in 1958.",
+      "Extract C: From a history of the Vietnam War, published in 1991."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -4121,7 +4686,11 @@
        "Source A is idealistic, Source B critical of the effects"
       ]
      },
-     "id": "pp-4hi102r-june2023-vn-b"
+     "id": "pp-4hi102r-june2023-vn-b",
+     "srcs": [
+      "Source A: From a speech by President Lyndon B Johnson in June 1966. Here, he is explaining why the USA was increasing its support for South Vietnam.",
+      "Source B: From a speech by an American church leader in April 1967."
+     ]
     },
     {
      "n": "vn-c",
@@ -4138,9 +4707,15 @@
        "Johnson doubted the war was worth fighting"
       ]
      },
-     "id": "pp-4hi102r-june2023-vn-c"
+     "id": "pp-4hi102r-june2023-vn-c",
+     "srcs": [
+      "Source A: From a speech by President Lyndon B Johnson in June 1966. Here, he is explaining why the USA was increasing its support for South Vietnam.",
+      "Source B: From a speech by an American church leader in April 1967.",
+      "Extract C: From an article on the Vietnam War, published in 2015."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -4255,7 +4830,11 @@
        "only Source A mentions opposition from veterans"
       ]
      },
-     "id": "pp-4hi102r-june2022-vn-b"
+     "id": "pp-4hi102r-june2022-vn-b",
+     "srcs": [
+      "Source A: From an interview with a 'draft-dodger' who left the USA in 1967 to avoid conscription into the US Army. Here he is explaining the reasons for his decision.",
+      "Source B: From an interview with a man who deserted from the US Army in 1968 to avoid being sent to Vietnam. Here he is describing the reasons for his decision."
+     ]
     },
     {
      "n": "vn-c",
@@ -4272,9 +4851,15 @@
        "the war appeared in homes every night"
       ]
      },
-     "id": "pp-4hi102r-june2022-vn-c"
+     "id": "pp-4hi102r-june2022-vn-c",
+     "srcs": [
+      "Source A: From an interview with a 'draft-dodger' who left the USA in 1967 to avoid conscription into the US Army. Here he is explaining the reasons for his decision.",
+      "Source B: From an interview with a man who deserted from the US Army in 1968 to avoid being sent to Vietnam. Here he is describing the reasons for his decision.",
+      "Extract C: From Vietnam, published in 1997."
+     ]
     }
-   ]
+   ],
+   "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
   },
   {
    "course": "y11",
@@ -8274,7 +8859,10 @@
        "GMD recruitment squads seized peasants and mistreated conscripts, lowering morale"
       ]
      },
-     "id": "pp-whi021b-january2017-1a"
+     "id": "pp-whi021b-january2017-1a",
+     "srcs": [
+      "Source 1: From a report by the Head of the Chinese Red Cross, written in 1947."
+     ]
     },
     {
      "n": "1b",
@@ -8291,7 +8879,10 @@
        "critics were forced to confess and sent to labour camps, with denunciation quotas of five per cent"
       ]
      },
-     "id": "pp-whi021b-january2017-1b"
+     "id": "pp-whi021b-january2017-1b",
+     "srcs": [
+      "Source 2: From Harry Wu's account of his experiences at university during the Hundred Flowers Campaign (published 2009)."
+     ]
     },
     {
      "n": "2",
@@ -8362,7 +8953,8 @@
      },
      "id": "pp-whi021b-january2017-4"
     }
-   ]
+   ],
+   "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
   },
   {
    "course": "y12",

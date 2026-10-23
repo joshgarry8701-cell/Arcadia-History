@@ -437,7 +437,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2025",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "ms": {
           "points": [
@@ -473,7 +474,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2023",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about the results of the Paris peace talks?\nExplain your answer.",
@@ -483,7 +485,11 @@
             "Source A is positive ('peace with honour') while Source B is negative",
             "they differ strongly on the consequences"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From a speech made by President Richard Nixon, 23 January 1973. Here he is describing the Paris peace talks.",
+          "Source B: From an interview with an American who had been an official in Saigon in 1972, published in 1985."
+        ]
       },
       {
         "id": "pp-4hi102-june2023-vn-c",
@@ -492,7 +498,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2023",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Extract C suggests that the Paris agreement led directly to the final defeat of South Vietnam. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -502,7 +509,12 @@
             "there was 'little' the USA could do if the North broke terms",
             "US forces left quickly and the ARVN lacked leadership"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From a speech made by President Richard Nixon, 23 January 1973. Here he is describing the Paris peace talks.",
+          "Source B: From an interview with an American who had been an official in Saigon in 1972, published in 1985.",
+          "Extract C: From a history book on Vietnam, published in 1997."
+        ]
       },
       {
         "id": "pp-4hi102-june2021-vn-a",
@@ -511,7 +523,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2021",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Describe TWO features of EITHER the Ho Chi Minh Trail OR widening the war in Cambodia and Laos.",

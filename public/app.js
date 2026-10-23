@@ -335,6 +335,19 @@ const SERIES_M = { January: 1, May: 5, June: 6, October: 10, November: 11 };
 const seriesKey = (s) => { if (!s || s === 'Specimen') return 0; const [m, y] = s.split(' '); return +y * 100 + (SERIES_M[m] || 0); };
 const ppOrder = (a, b) => seriesKey(b.pp.series) - seriesKey(a.pp.series) || String(a.pp.part).localeCompare(String(b.pp.part));
 const oneLine = (s, n = 230) => { const t = String(s).replace(/\n/g, ' ').replace(/\s+/g, ' '); return t.length > n ? t.slice(0, n - 1) + '…' : t; };
+const PEARSON_PP = 'https://qualifications.pearson.com/en/support/support-topics/exams/past-papers.html';
+function srcPanel(q, c) {
+  const caps = q.src_captions || [];
+  const bk = q.pp && q.pp.booklet;
+  const ial = /^WHI/.test((q.pp && q.pp.paper) || '');
+  const where = bk ? html`<p><a class="btn sm" href="${bk}" target="_blank" rel="noopener">Open the paper with the full ${caps.some((x) => /^Source/.test(x)) ? 'sources' : 'extract'} (PDF)</a></p>`
+    : q.pp && ial ? html`<p class="small">Pearson publishes the sources booklet for this paper free on its <a href="${PEARSON_PP}" target="_blank" rel="noopener">past papers page</a> (choose International Advanced Level, History, ${q.pp.series}). Or ask Mr Garry for a copy.</p>`
+    : q.pp ? html`<p class="small">Ask Mr Garry for the booklet for this paper.</p>` : '';
+  return html`<section class="panel"><h2>Sources for this question</h2>
+    ${caps.length ? html`<ul class="caps">${caps.map((x) => html`<li>${x}</li>`)}</ul>` : ''}
+    ${where}
+    <p class="small muted">${caps.length ? 'These are the captions printed in the paper. The texts themselves' : 'The sources or extracts'} are not copied onto this site because they are still in copyright. Read them in the paper, then write your answer here. AI feedback can comment on structure${caps.length ? ' and on how you use the captions (who, when, why)' : ''}, but it cannot judge how well you used the content of the sources.</p></section>`;
+}
 function msBlock(q) {
   const m = q.ms; if (!m) return '';
   const L = (t, a) => a && a.length ? html`<p class="small"><strong>${t}</strong></p><ul>${a.map((x) => html`<li>${x}</li>`)}</ul>` : '';
@@ -753,7 +766,7 @@ function viewExamQ(t, rawQ) {
     <section class="panel"><div class="row" style="gap:6px">${qChips(q)}<span class="chip">${q.label}</span></div><h2 style="white-space:pre-line">${q.q}</h2>
       ${q.prompts ? html`<p class="small">You may use the following in your answer: <b>${q.prompts.join('; ')}</b>. You must also use information of your own.</p>` : ''}${q.stem_note ? html`<p class="small muted">${q.stem_note}</p>` : ''}</section>
     ${q.sources && q.sources.length ? html`<section class="panel"><h2>Sources</h2>${q.sources.map((x) => html`<article class="source"><h3>${x.label}</h3><p class="small muted">${x.provenance}</p><blockquote>${x.text}</blockquote></article>`)}${q.sources_note ? html`<p class="small muted">${q.sources_note}</p>` : ''}</section>`
-      : q.requires_sources ? html`<div class="notice">This question needs sources or extracts that are not on the site yet. You can still practise the structure; AI feedback will not judge how you used the sources.</div>` : ''}
+      : q.requires_sources ? srcPanel(q, c) : ''}
     <section style="display:grid;gap:8px">
       <details class="fold" open><summary>What the question asks</summary><div><p>${q.asks}</p></div></details>
       <details class="fold"><summary>Step-by-step approach</summary><div><ol>${q.steps.map((s) => html`<li>${s}</li>`)}</ol></div></details>

@@ -417,7 +417,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2025",
-          "part": "B2(c)(i)"
+          "part": "B2(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "ms": {
           "support": [
@@ -447,13 +448,80 @@
         "q": "Explain TWO causes of the Liberal government's public health reforms of 1906–11."
       },
       {
+        "id": "pp-4hi102-november2025-med-a",
+        "qtype": "p2ba",
+        "label": "Past paper: 4HI1/02, November 2025, B2(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2025",
+          "part": "B2(a)"
+        },
+        "sections": [],
+        "q": "Explain TWO ways in which government involvement in the health of children in 1905 was different from government involvement in the health of children after 1911.",
+        "ms": {
+          "points": [
+            "In 1905 there were no free school meals; from 1906 the government funded local authorities to provide them",
+            "In 1905 there was no health service for children; the School Medical Service began in 1907"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/02 examiner report, November 2025",
+          "url": null,
+          "strong": [
+            "Strong answers named specific changes such as free school meals and the School Medical Service and explained them as a change in government involvement."
+          ],
+          "weak": [
+            "Some confused 1905–11 with the creation of the NHS.",
+            "Some wrote about the whole population rather than children's health."
+          ]
+        }
+      },
+      {
+        "id": "pp-4hi102-november2025-med-cii",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, November 2025, B2(c)(ii)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2025",
+          "part": "B2(c)(ii)"
+        },
+        "sections": [],
+        "q": "How far were the two world wars responsible for improvements in medical treatment and surgery in the years 1914–45?",
+        "prompts": [
+          "plastic surgery",
+          "Florey and Chain"
+        ],
+        "ms": {
+          "support": [
+            "X-ray machines on the Western Front helped surgeons remove bullets",
+            "Blood transfusion and blood storage improved in the First World War",
+            "The US government funded mass production of penicillin after 1941",
+            "Skin grafts and burns treatment advanced through plastic surgery"
+          ],
+          "challenge": [
+            "War took doctors away and slowed research (half of UK doctors served in the First World War)",
+            "Ehrlich's Salvarsan and Domagk's second magic bullet (1932) were not war-driven",
+            "Fleming, Florey and Chain's penicillin research was done between the wars"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/02 examiner report, November 2025",
+          "url": null,
+          "strong": [],
+          "weak": [
+            "Weaker answers lost focus on the question or did not add a factor of their own."
+          ]
+        }
+      },
+      {
         "id": "pp-4hi102-june2024-med-ci",
         "qtype": "p2bc",
         "label": "Past paper: 4HI1/02, June 2024, B2(c)(i)",
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2024",
-          "part": "B2(c)(i)"
+          "part": "B2(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far was it Florence Nightingale who made the most significant contribution by a woman to the development of medicine in the years 1860–1920?",
@@ -476,7 +544,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2023",
-          "part": "B2(c)(i)"
+          "part": "B2(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How significant was the use of radioactivity in bringing improvements in medical treatment in the years 1875–1920?",
@@ -499,7 +568,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2023",
-          "part": "B2(c)(ii)"
+          "part": "B2(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far did the role of women in medicine change in the years 1875–1920?",
@@ -522,7 +592,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2023",
-          "part": "B2(b)"
+          "part": "B2(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO causes of the problems of medical treatment for soldiers in the First World War.",
@@ -541,7 +612,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2021",
-          "part": "B2(c)(i)"
+          "part": "B2(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far did surgery change in the years 1875–1920?",
@@ -564,7 +636,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2021",
-          "part": "B2(c)(ii)"
+          "part": "B2(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far did war change the role of women in medicine in the years 1914–45?",
@@ -587,7 +660,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2021",
-          "part": "B2(c)(i)"
+          "part": "B2(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How significant was warfare in bringing about changes in medicine in the years 1875–1920?",
@@ -655,7 +729,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2025",
-          "part": "B2(c)(i)"
+          "part": "B2(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How significant was Elizabeth Garrett in developing the role of women in medicine in the years 1860–1914?",
@@ -678,7 +753,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2024",
-          "part": "B2(b)"
+          "part": "B2(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO causes of the increasing effectiveness of blood transfusions in the years 1900–20.",
@@ -697,7 +773,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2024",
-          "part": "B2(c)(ii)"
+          "part": "B2(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far did Public Health provision improve in the years 1860–1911?",
@@ -720,7 +797,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2023",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which the role of women in medical care in 1875 was different from the role of women in medical care in the First World War.",
@@ -738,7 +816,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2022",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which government action in public health in 1875 was different from government action in public health in 1911.",

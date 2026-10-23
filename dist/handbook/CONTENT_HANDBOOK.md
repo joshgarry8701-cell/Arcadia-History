@@ -902,6 +902,11 @@ Effects: savers, pensioners and people on fixed incomes were ruined; wages could
   Examiner (4HI1/01 examiner report, Summer 2025) — strong: Hyperinflation was well understood; other reasons included Versailles, the Ruhr, threats from left and right, and constitutional weakness.; The best answers analysed the relative importance of these.; weak: n/a
 - *Teacher-created practice question* — Paper 1 (b) — explain two effects, 8 marks
   Explain two effects of hyperinflation on the German people in 1923.
+- *Past paper: 4HI1/01, November 2025, Q3(c)(i)* — Paper 1 (c) — how far do you agree, 16 marks
+  'The main reason why the Treaty of Versailles was disliked by many Germans was the loss of territory.' How far do you agree? Explain your answer.
+  Prompts: the loss of territory; the War Guilt Clause
+  Supports the view: Economically important land was lost (about 20% of coal and 15% of farm resources); All colonies were handed over as League mandates; Alsace-Lorraine went to France, a blow to national pride; Land given to Poland left many Germans outside Germany
+  Challenges the view: Article 231 blamed Germany alone for the war; Reparations, set in 1921 at £6,600 million, were seen as crushing; Military limits (100,000-man army, no air force or submarines) left Germany feeling defenceless
 - *Past paper: 4HI1/01, June 2024, Q3(a) (the extract is in the paper)* — Paper 1 (a) — interpretation impression, 6 marks
   What impression does the author give about protest in Germany in the years 1918–19?
   Mark scheme points: Protest failed — it 'did not lead to the changes that workers wanted'; words such as 'uncoordinated' and 'easily crushed'
@@ -1091,6 +1096,9 @@ Signs of weakness: the recovery depended on American loans that could be recalle
 - *Teacher-created practice question* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The main reason for Germany's recovery in the years 1924–29 was the Dawes Plan.’ How far do you agree? Explain your answer.
   Prompts: the Dawes Plan; the Locarno Treaties
+- *Past paper: 4HI1/01, November 2025, Q3(b)* — Paper 1 (b) — explain two effects, 8 marks
+  Explain two effects of German successes abroad on Germany in the years 1925–28.
+  Mark scheme points: International trust returned: the Locarno Treaties guaranteed the French–German border; Joining the League of Nations restored standing lost at Versailles; The Kellogg–Briand Pact committed Germany to settling disputes without war
 - *Past paper: 4HI1/01, November 2023, Q3(c)(ii)* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The main achievement of Stresemann, in the years 1924–29, was the Locarno Treaties.’ How far do you agree? Explain your answer.
   Prompts: the Locarno Treaties; the Dawes Plan
@@ -1307,6 +1315,11 @@ Papen persuaded Hindenburg to appoint Hitler as Chancellor with Papen as Vice-Ch
 - *Teacher-created practice question* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The main reason why Hitler became Chancellor in January 1933 was the Great Depression.’ How far do you agree? Explain your answer.
   Prompts: the Great Depression; Nazi propaganda
+- *Past paper: 4HI1/01, November 2025, Q3(c)(ii)* — Paper 1 (c) — how far do you agree, 16 marks
+  'In the years 1929–33, the most significant impact of the Great Depression on Germany was economic difficulties.' How far do you agree? Explain your answer.
+  Prompts: economic difficulties; the collapse of the Weimar Republic
+  Supports the view: Unemployment rose from about 1.3 million (1929) to 6 million (1933); The government struggled to borrow money; Banks failed as people rushed to withdraw savings; Industrial production fell by around 40% by 1933
+  Challenges the view: Brüning's coalition collapsed, starting the end of the Weimar Republic; KPD seats rose from 77 (1930) to 100 (1932); The Nazis used rallies and a strong-leader image to win votes; Nazi propaganda won working- and middle-class support, e.g. anti-communist posters
 - *Past paper: 4HI1/01, June 2025, Q3(a) (the extract is in the paper)* — Paper 1 (a) — interpretation impression, 6 marks
   What impression does the author give about the response of the Weimar Government to the Great Depression?
   Mark scheme points: The government is shown as failing to cope; phrases such as 'little agreement' and 'hunger chancellor' stress inaction
@@ -1539,6 +1552,9 @@ Trade unions were replaced by the German Labour Front (DAF), which controlled wa
 - *Teacher-created practice question* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The main reason why there was little opposition to the Nazis in the years 1933–39 was the police state.’ How far do you agree? Explain your answer.
   Prompts: the Gestapo; Strength Through Joy
+- *Past paper: 4HI1/01, November 2025, Q3(a) (the extract is in the paper)* — Paper 1 (a) — interpretation impression, 6 marks
+  What impression does the author give about the purpose of Nazi youth groups? You must use Extract C to explain your answer.
+  Mark scheme points: The author suggests the groups existed so the Nazis could control young Germans; The extract says the regime filled young people with Nazi ideas; Word choice such as 'indoctrinated', 'weakened' and 'dominant' builds the impression; The author stresses control and leaves out the use of youth groups to prepare for war
 - *Past paper: 4HI1/01, June 2024, Q3(c)(i)* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The most significant method of control used by the Nazis in Germany, in the years 1933–39, was the use of propaganda.’ How far do you agree? Explain your answer.
   Prompts: propaganda; the Gestapo
@@ -2123,6 +2139,9 @@ White resistance grew: White Citizens' Councils organised against desegregation,
 - *Teacher-created practice question* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The most important development for civil rights in the 1950s was the Brown v Board of Education decision.’ How far do you agree? Explain your answer.
   Prompts: Brown v Board of Education; the Montgomery Bus Boycott
+- *Past paper: 4HI1/01, June 2021, Q7(b)* — Paper 1 (b) — explain two effects, 8 marks
+  Explain two effects of the Montgomery Bus Boycott on civil rights in the 1950s.
+  Mark scheme points: Ended bus segregation in Montgomery; created the Montgomery Improvement Association; brought King to national prominence
 - *Past paper: 4HI1/01, June 2025, Q7(a) (the extract is in the paper)* — Paper 1 (a) — interpretation impression, 6 marks
   What impression does the author give about the contribution of Rosa Parks to the Montgomery Bus Boycott?
   Mark scheme points: Parks's stand is presented as important — she took 'great personal risks'; language such as 'courageous' and 'remarkable unity'
@@ -2140,9 +2159,6 @@ White resistance grew: White Citizens' Councils organised against desegregation,
 - *Past paper: 4HI1/01, November 2021, Q7(b)* — Paper 1 (b) — explain two effects, 8 marks
   Explain two effects of Supreme Court decisions on civil rights in the 1950s.
   Mark scheme points: Brown v Board (1954) and federal intervention; Brown challenged 'separate but equal' and backed wider campaigns; transport rulings such as Browder v Gayle (1956)
-- *Past paper: 4HI1/01, June 2021, Q7(b)* — Paper 1 (b) — explain two effects, 8 marks
-  Explain two effects of the Montgomery Bus Boycott on civil rights in the 1950s.
-  Mark scheme points: Ended bus segregation in Montgomery; created the Montgomery Improvement Association; brought King to national prominence
 - *Past paper: 4HI1/01, June 2020, Q7(c)(i)* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The main reason why progress was made in civil rights in the 1950s was the influence of the Supreme Court.’ How far do you agree? Explain your answer.
   Supports the view: Sweatt v Painter (1950) weakened 'separate but equal'; Brown v Board (1954) ruled segregated education unconstitutional; Browder v Gayle (1956)
@@ -2325,6 +2341,9 @@ Race riots: in August 1965 riots in the Watts district of Los Angeles left 34 de
   Prompts: the Birmingham campaign; Freedom Summer
 - *Teacher-created practice question* — Paper 1 (b) — explain two effects, 8 marks
   Explain two effects of the Black Power movement on the USA.
+- *Past paper: 4HI1/01, November 2025, Q7(a) (the extract is in the paper)* — Paper 1 (a) — interpretation impression, 6 marks
+  What impression does the author give about the march on Birmingham in 1963? You must use Extract G to explain your answer.
+  Mark scheme points: The police are shown as brutal and racist, and King aimed to draw media attention to this; Phrases such as 'notoriously racist' and 'perfect example of such brutality' shape the impression; The arrests are presented as 'achieving King's overall aim'; The author leaves out the many protesters jailed without harm or publicity
 - *Past paper: 4HI1/01, June 2024, Q7(a) (the extract is in the paper)* — Paper 1 (a) — interpretation impression, 6 marks
   What impression does the author give about the experiences of the Freedom Riders?
   Mark scheme points: Freedom Riders faced brutality — 'some suffered serious injuries'; phrases such as 'badly beaten' and 'savage and violent attacks'
@@ -2523,6 +2542,11 @@ Religious and conservative groups also opposed abortion after Roe v Wade, and th
   Examiner (4HI1/01 examiner report, Summer 2025) — strong: Opposition was usually illustrated through Phyllis Schlafly and STOP ERA.; Stronger answers gave specific detail and analysed the relative importance of legal, social and economic change.; weak: n/a
 - *Teacher-created practice question* — Paper 1 (b) — explain two effects, 8 marks
   Explain two effects of the Vietnam War on the student movement.
+- *Past paper: 4HI1/01, November 2025, Q7(c)(i)* — Paper 1 (c) — how far do you agree, 16 marks
+  'The main reason for the growth of the women's movement, in the years 1960–74, was the contribution made by Betty Friedan.' How far do you agree? Explain your answer.
+  Prompts: Betty Friedan; Eleanor Roosevelt
+  Supports the view: The Feminine Mystique (1963) sold about three million copies in three years; Friedan was founding president of NOW, which grew to tens of thousands of members; Her campaigning fed into the Equal Pay Act (1963) and the ERA campaign (1972)
+  Challenges the view: Eleanor Roosevelt used her prominence for women's rights and first led Kennedy's Commission; Kennedy's Commission on the Status of Women and its report American Women (1963); Nixon placed women's rights under the Civil Rights Commission and backed the ERA; Title IX (1972) and NOW's court cases, including the road to Roe v Wade (1973)
 - *Past paper: 4HI1/01, June 2024, Q7(c)(i)* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The main reason for the growth of protest movements in the years 1962–74 was ideas about women’s rights.’ How far do you agree? Explain your answer.
   Prompts: ideas about women's rights; Vietnam
@@ -2693,6 +2717,10 @@ Trust in government fell sharply. Democrats made big gains in the 1974 congressi
 - *Teacher-created practice question* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The main reason why Nixon resigned in 1974 was the work of the media.’ How far do you agree? Explain your answer.
   Prompts: the Washington Post; the White House tapes
+- *Past paper: 4HI1/01R, June 2022, Q7(c)(ii)* — Paper 1 (c) — how far do you agree, 16 marks
+  'The main consequence of the Watergate scandal was new laws.' How far do you agree? Explain your answer.
+  Prompts: new laws; Gerald Ford
+  Supports the view: Congress overrode Nixon's veto to pass the War Powers Act (1973); the 1974 campaign finance amendments; the Privacy Act and Budget Act (1974)
 - *Past paper: 4HI1/01, June 2024, Q7(c)(ii)* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The most significant feature of the Watergate Scandal was the impact on the presidency.’ How far do you agree? Explain your answer.
   Prompts: the presidency; new laws
@@ -2707,10 +2735,6 @@ Trust in government fell sharply. Democrats made big gains in the 1974 congressi
 - *Past paper: 4HI1/01, June 2020, Q7(c)(ii)* — Paper 1 (c) — how far do you agree, 16 marks
   ‘The most significant feature of the Watergate scandal was new laws which resulted from it.’ How far do you agree? Explain your answer.
   Supports the view: Freedom of information and campaign finance laws; the War Powers Act (1973); the Budget Control Act (1974)
-- *Past paper: 4HI1/01R, June 2022, Q7(c)(ii)* — Paper 1 (c) — how far do you agree, 16 marks
-  ‘The main consequence of the Watergate scandal was new laws.’ How far do you agree? Explain your answer.
-  Prompts: new laws; Gerald Ford
-  Supports the view: Congress overrode Nixon's veto to pass the War Powers Act (1973); the 1974 campaign finance amendments; the Privacy Act and Budget Act (1974)
 - *Past paper: 4HI1/01R, June 2019, Q7(a) (the extract is in the paper)* — Paper 1 (a) — interpretation impression, 6 marks
   What impression does the author give about the situation Gerald Ford faced as president? You must use Extract G to explain your answer.
   Mark scheme points: Ford is shown facing severe difficulties after Watergate; blamed especially for pardoning Nixon; falling approval ratings and mockery
@@ -3252,6 +3276,12 @@ In 1854 John Snow mapped cholera deaths in Soho, London, and showed they cluster
   Explain TWO causes of the Public Health Act of 1848.
 - *Teacher-created practice question* — Paper 2 B (a) — explain two similarities or differences, 6 marks
   Explain TWO ways in which surgery in the 1850s was different from surgery in the 1840s.
+- *Past paper: 4HI1/02, November 2025, B2(c)(i)* — Paper 2 B (c) — how far (themes), 16 marks
+  How far were women responsible for changes in medicine in the years 1848–1905?
+  Prompts: Florence Nightingale; antiseptics
+  Supports the view: Nightingale's work made hospitals cleaner, more spacious and better ventilated; Notes on Nursing and the Nightingale School produced better-trained nurses; Marie Curie's work on radiation helped cancer treatment
+  Challenges the view: Pasteur's germ theory; Simpson's chloroform and Snow's work on anaesthetics; Lister's carbolic spray and antiseptics; Röntgen's X-rays and Koch's identification of microbes
+  Examiner (4HI1/02 examiner report, November 2025) — strong: Knowledge was generally strong, especially on Nightingale and others.; weak: Weaker answers lost focus on the question or did not add a factor of their own.
 - *Past paper: 4HI1/02, June 2024, B2(a)* — Paper 2 B (a) — explain two similarities or differences, 6 marks
   Explain TWO ways in which the role of local authorities in public health after 1875 was different from their role in public health before 1875.
   Mark scheme points: After 1875 councils had to appoint a Medical Officer of Health; they were compelled to provide clean water and sewage disposal
@@ -3774,6 +3804,16 @@ The war showed women's skill and courage, and more medical schools admitted wome
   Examiner (4HI1/02 examiner report, Summer 2025) — strong: Add a third aspect beyond the bullet points.; weak: Weaker answers included material outside the dates.
 - *Teacher-created practice question* — Paper 2 B (b) — explain two causes, 8 marks
   Explain TWO causes of the Liberal government's public health reforms of 1906–11.
+- *Past paper: 4HI1/02, November 2025, B2(a)* — Paper 2 B (a) — explain two similarities or differences, 6 marks
+  Explain TWO ways in which government involvement in the health of children in 1905 was different from government involvement in the health of children after 1911.
+  Mark scheme points: In 1905 there were no free school meals; from 1906 the government funded local authorities to provide them; In 1905 there was no health service for children; the School Medical Service began in 1907
+  Examiner (4HI1/02 examiner report, November 2025) — strong: Strong answers named specific changes such as free school meals and the School Medical Service and explained them as a change in government involvement.; weak: Some confused 1905–11 with the creation of the NHS.; Some wrote about the whole population rather than children's health.
+- *Past paper: 4HI1/02, November 2025, B2(c)(ii)* — Paper 2 B (c) — how far (themes), 16 marks
+  How far were the two world wars responsible for improvements in medical treatment and surgery in the years 1914–45?
+  Prompts: plastic surgery; Florey and Chain
+  Supports the view: X-ray machines on the Western Front helped surgeons remove bullets; Blood transfusion and blood storage improved in the First World War; The US government funded mass production of penicillin after 1941; Skin grafts and burns treatment advanced through plastic surgery
+  Challenges the view: War took doctors away and slowed research (half of UK doctors served in the First World War); Ehrlich's Salvarsan and Domagk's second magic bullet (1932) were not war-driven; Fleming, Florey and Chain's penicillin research was done between the wars
+  Examiner (4HI1/02 examiner report, November 2025) — strong: n/a; weak: Weaker answers lost focus on the question or did not add a factor of their own.
 - *Past paper: 4HI1/02, June 2024, B2(c)(i)* — Paper 2 B (c) — how far (themes), 16 marks
   How far was it Florence Nightingale who made the most significant contribution by a woman to the development of medicine in the years 1860–1920?
   Prompts: Florence Nightingale; Marie Curie
@@ -3975,6 +4015,10 @@ Importance for public health: everyone could see a doctor, get hospital treatmen
 - *Adapted from the Arcadia IGCSE model paragraphs* — Paper 2 B (c) — how far (themes), 16 marks
   How far was the discovery of penicillin in the 1920s a key turning point in the treatment of disease? Explain your answer.
   Prompts: Fleming's discovery (1928); the Second World War
+- *Past paper: 4HI1/02, November 2025, B2(b)* — Paper 2 B (b) — explain two causes, 8 marks
+  Explain TWO causes of the establishment of the NHS in 1948.
+  Mark scheme points: The government's larger role in health during the Second World War; The 1945 Labour victory and Aneurin Bevan’s determination; The Beveridge Report naming disease as one of the five 'giant evils'
+  Examiner (4HI1/02 examiner report, November 2025) — strong: Many correctly explained two causes.; weak: Some explained consequences of the NHS, or described what it achieved, instead of causes.
 - *Past paper: 4HI1/02, June 2025, B2(a)* — Paper 2 B (a) — explain two similarities or differences, 6 marks
   Explain TWO ways in which the provision for public health in 1948 before the introduction of the NHS, was different from the provision for public health after its introduction.
   Mark scheme points: Before the NHS most people paid for treatment; afterwards it was free; with National Insurance it created 'cradle to grave' care
@@ -4183,6 +4227,9 @@ Immediate consequences: France decided to leave Indochina. The Geneva Agreements
 
 - *Teacher-created practice question* — Paper 2 A (a) — describe two features, 6 marks
   Describe TWO features of EITHER the tactics of General Giap OR the siege of Dien Bien Phu.
+- *Past paper: 4HI1/02, November 2025, A4(a)* — Paper 2 A (a) — describe two features, 6 marks
+  Describe TWO features of EITHER the Geneva Conference (1954) OR media coverage of the war in the USA.
+  Mark scheme points: Geneva: the conference dealt with the end of the First Indochina War; North and South Vietnam, the USA, France and Britain attended; Geneva: France agreed to withdraw; Vietnam was split at the 17th parallel until elections within two years; Media: newspapers, radio and TV covered the war in detail and questioned the government’s version; Media: new technology put film on TV within hours; Walter Cronkite's CBS news reached millions
 - *Past paper: 4HI1/02R, June 2024, A4(a)* — Paper 2 A (a) — describe two features, 6 marks
   Describe TWO features of EITHER the First Indochina War OR the fall of Saigon.
   Mark scheme points: First Indochina War from 1946 — Vietminh guerrilla war against France ending at Dien Bien Phu (1954); fall of Saigon on 30 April 1975
@@ -4553,6 +4600,13 @@ In March 1968 US soldiers killed several hundred unarmed villagers at My Lai. Th
   Describe TWO features of EITHER the siege of Khe Sanh OR Nixon's policy of Vietnamisation.
 - *Teacher-created practice question* — Paper 2 A (a) — describe two features, 6 marks
   Describe TWO features of EITHER Vietcong tactics OR the US policy of search and destroy.
+- *Past paper: 4HI1/02, November 2025, A4(b) (Sources A and B are in the paper)* — Paper 2 A (b) — how far does Source A support Source B, 8 marks
+  How far does Source A support the evidence of Source B about the aims of Operation Rolling Thunder? Explain your answer.
+  Mark scheme points: Agree: both describe sustained bombing of North Vietnam; Agree: both say the aim was to cut North Vietnam's support for the Viet Cong; Differ: A is unsure the aims will be met; B says supplies to the Viet Cong are being reduced; Differ: only A says the aim was to show the USA was ready to escalate; Extent: they agree strongly on the aims but differ on how successful the bombing was
+- *Past paper: 4HI1/02, November 2025, A4(c) (Sources A, B and Extract C are in the paper)* — Paper 2 A (c) — how far do you agree with Extract C, 16 marks
+  Extract C suggests that Operation Rolling Thunder was a great success. How far do you agree with this interpretation? Use Extract C, Sources A and B and your own knowledge to explain your answer.
+  Supports the view: Source A: the bombing showed US determination to win; Source B: it made fighting the Viet Cong 'easier'; Extract C: it badly damaged North Vietnam's infrastructure and supply networks; Damage was estimated at over $500 million, and North Vietnam agreed to talks in 1968
+  Challenges the view: Source A predicted heavy losses and unpopularity at home, and both came true; Source B: bombing would not stop supplies to the Viet Cong completely; Extract C: it increased opposition to the war in the USA and abroad; China and the USSR kept supplying the North; civilian deaths strengthened North Vietnamese resolve
 - *Past paper: 4HI1/02, June 2022, A4(b) (Sources A and B are in the paper)* — Paper 2 A (b) — how far does Source A support Source B, 8 marks
   How far does Source A support the evidence of Source B about the results of the Tet Offensive? Explain your answer.
   Mark scheme points: Both see Tet as a setback for the Vietcong; both note heavy Vietcong losses; Source B mentions regrouping in Cambodia while Source A says the Vietcong still had power

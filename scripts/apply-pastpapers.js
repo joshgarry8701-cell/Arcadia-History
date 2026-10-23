@@ -19,7 +19,7 @@ const SOURCE_NOTE = { u2a: 'Source 1 is in the paper', u2b: 'Source 2 is in the 
 // 1. remove anything added by a previous run, and old past-paper metadata
 for (const t of Object.values(topics)) {
   t.exam.questions = t.exam.questions.filter((q) => !String(q.id).startsWith('pp-'));
-  for (const q of t.exam.questions) { delete q.pp; delete q.ms; delete q.exq; }
+  for (const q of t.exam.questions) { delete q.pp; delete q.ms; delete q.exq; delete q.src_captions; }
 }
 
 let added = 0; let merged = 0; const missingTopic = [];
@@ -27,6 +27,7 @@ for (const paper of data.papers) {
   for (const p of paper.questions) {
     const label = `Past paper: ${paper.paper}, ${paper.series}, ${p.label}` + (SOURCE_NOTE[p.qtype] ? ` (${SOURCE_NOTE[p.qtype]})` : '');
     const meta = { paper: paper.paper, series: paper.series, part: p.label };
+    if (paper.booklet) meta.booklet = paper.booklet;
     // look for the same question already in any topic of this course
     const key = norm(p.key);
     let existing = null;
@@ -38,6 +39,7 @@ for (const paper of data.papers) {
       existing.pp = meta;
       if (p.ms) existing.ms = p.ms;
       if (p.examiner) existing.exq = p.examiner;
+      if (p.srcs) existing.src_captions = p.srcs;
       if (/^Past paper/.test(existing.label)) existing.label = label;
       merged++;
       continue;
@@ -48,6 +50,7 @@ for (const paper of data.papers) {
     if (p.prompts) q.prompts = p.prompts;
     if (p.ms) q.ms = p.ms;
     if (p.examiner) q.exq = p.examiner;
+    if (p.srcs) q.src_captions = p.srcs;
     if (p.stemNote) q.stem_note = 'The enquiry is quoted from the paper; the rest of the question is the standard wording.';
     t.exam.questions.push(q);
     added++;

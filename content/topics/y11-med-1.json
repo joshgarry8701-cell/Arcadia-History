@@ -442,13 +442,53 @@
         "q": "Explain TWO ways in which surgery in the 1850s was different from surgery in the 1840s."
       },
       {
+        "id": "pp-4hi102-november2025-med-ci",
+        "qtype": "p2bc",
+        "label": "Past paper: 4HI1/02, November 2025, B2(c)(i)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2025",
+          "part": "B2(c)(i)"
+        },
+        "sections": [],
+        "q": "How far were women responsible for changes in medicine in the years 1848–1905?",
+        "prompts": [
+          "Florence Nightingale",
+          "antiseptics"
+        ],
+        "ms": {
+          "support": [
+            "Nightingale's work made hospitals cleaner, more spacious and better ventilated",
+            "Notes on Nursing and the Nightingale School produced better-trained nurses",
+            "Marie Curie's work on radiation helped cancer treatment"
+          ],
+          "challenge": [
+            "Pasteur's germ theory",
+            "Simpson's chloroform and Snow's work on anaesthetics",
+            "Lister's carbolic spray and antiseptics",
+            "Röntgen's X-rays and Koch's identification of microbes"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/02 examiner report, November 2025",
+          "url": null,
+          "strong": [
+            "Knowledge was generally strong, especially on Nightingale and others."
+          ],
+          "weak": [
+            "Weaker answers lost focus on the question or did not add a factor of their own."
+          ]
+        }
+      },
+      {
         "id": "pp-4hi102-june2024-med-a",
         "qtype": "p2ba",
         "label": "Past paper: 4HI1/02, June 2024, B2(a)",
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2024",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which the role of local authorities in public health after 1875 was different from their role in public health before 1875.",
@@ -466,7 +506,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2023",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which the Public Health Act of 1848 was similar to the Public Health Act of 1875.",
@@ -484,7 +525,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2023",
-          "part": "B2(b)"
+          "part": "B2(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO causes of the lack of progress in medical treatment in the years 1848–60.",
@@ -503,7 +545,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2023",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which surgery in 1848 was different from surgery in 1875.",
@@ -521,7 +564,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2023",
-          "part": "B2(c)(i)"
+          "part": "B2(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How significant was Florence Nightingale in developing the role of women in medicine in the years 1848–75?",
@@ -544,7 +588,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2022",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which surgery in 1905 was different from surgery in 1920.",
@@ -562,7 +607,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2022",
-          "part": "B2(c)(i)"
+          "part": "B2(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far did medical treatment change in the years 1848–75?",
@@ -585,7 +631,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2022",
-          "part": "B2(c)(ii)"
+          "part": "B2(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far did public health provision change in the years 1848–75?",
@@ -608,7 +655,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2021",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which ideas about the causes of disease in 1848 were different from ideas about the causes of disease in 1875.",
@@ -626,7 +674,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2021",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which government involvement in public health in 1860 was different from government involvement in public health in 1875.",
@@ -645,7 +694,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2021",
-          "part": "B2(b)"
+          "part": "B2(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO causes of the dangers in surgery in the years 1848–60.",
@@ -706,7 +756,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2025",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which nursing in 1848 was different from nursing in 1860.",
@@ -724,7 +775,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2025",
-          "part": "B2(b)"
+          "part": "B2(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO causes of the dangers in surgery in 1848.",
@@ -743,7 +795,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2024",
-          "part": "B2(c)(i)"
+          "part": "B2(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How significant were developments in science and technology in improving health in the years 1848–75?",
@@ -766,7 +819,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2023",
-          "part": "B2(b)"
+          "part": "B2(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO causes of the improvements in surgery in the years 1848–75.",
@@ -785,7 +839,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2023",
-          "part": "B2(c)(i)"
+          "part": "B2(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How significant was the role of government in improving public health provision in the years 1860–1905?",

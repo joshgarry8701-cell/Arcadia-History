@@ -406,7 +406,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2024",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about the anti-war movement in the USA during the 1960s?\nExplain your answer.",
@@ -415,7 +416,11 @@
             "Both show large 1965 demonstrations",
             "Source A says the movement was unpopular with most Americans while Source B mentions only small pro-war groups"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From an interview with a US citizen, published in 2003. Here he is recalling campaigning against the Vietnam War during the 1960s, when he was a student.",
+          "Source B: From a newspaper report of an anti-war demonstration held in New York City in April 1966."
+        ]
       },
       {
         "id": "pp-4hi102-june2024-vn-c",
@@ -424,7 +429,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2024",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Extract C suggests that the anti-war movement contributed greatly to ending US involvement in Vietnam. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -433,7 +439,12 @@
             "Growing support for protest from the mid-1960s influenced Johnson and Nixon",
             "Tet and opposition to the draft damaged morale and recruitment"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From an interview with a US citizen, published in 2003. Here he is recalling campaigning against the Vietnam War during the 1960s, when he was a student.",
+          "Source B: From a newspaper report of an anti-war demonstration held in New York City in April 1966.",
+          "Extract C: From a history of the Vietnam War, published in 2010."
+        ]
       },
       {
         "id": "pp-4hi102-november2023-vn-a",
@@ -442,7 +453,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2023",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Describe TWO features of EITHER Operation Rolling Thunder OR university protests in the USA against the Vietnam War.",
@@ -460,7 +472,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2021",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Describe TWO features of EITHER the Geneva Conference (1954) OR university protests in the USA against the Vietnam War.",
@@ -487,7 +500,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2021",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about the behaviour of US soldiers towards civilians in Vietnam?\nExplain your answer.",
@@ -497,7 +511,11 @@
             "both show deep Vietnamese resentment",
             "Source A focuses on assaults on people, Source B on destruction of property"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From an interview with a South Vietnamese woman, published in 2001. Here she is recalling events in 1966 and 1967.",
+          "Source B: From evidence given by a former US Navy Lieutenant to the US Senate Foreign Relations Committee in 1971."
+        ]
       },
       {
         "id": "pp-4hi102-june2021-vn-c",
@@ -506,7 +524,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2021",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Extract C suggests that the effect of the US Army’s presence on the Vietnamese people was mainly positive. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -516,7 +535,12 @@
             "acts of kindness and marriages",
             "investment in roads and electricity"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From an interview with a South Vietnamese woman, published in 2001. Here she is recalling events in 1966 and 1967.",
+          "Source B: From evidence given by a former US Navy Lieutenant to the US Senate Foreign Relations Committee in 1971.",
+          "Extract C: From a newspaper article published in 2017."
+        ]
       },
       {
         "id": "pp-4hi102-june2020-vn-a",
@@ -582,7 +606,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2025",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about the attack on My Lai?\nExplain your answer.",
@@ -592,7 +617,11 @@
             "both present it as a US Army success",
             "Source A says only Vietcong died while Source B says women and children were shot"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From a report issued to the press by the US Army, 18 March 1968. Here it is referring to the US Army operation at My Lai in Vietnam.",
+          "Source B: From a report in a US newspaper, 12 November 1969. It was the first to report the truth of the events at My Lai that had occurred over a year before."
+        ]
       },
       {
         "id": "pp-4hi102r-june2025-vn-c",
@@ -601,7 +630,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2025",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Extract C suggests the My Lai massacre did not seriously damage the USA’s war effort. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -611,7 +641,12 @@
             "Nixon had already chosen Vietnamisation",
             "news was suppressed for eighteen months and many sympathised with the soldiers"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From a report issued to the press by the US Army, 18 March 1968. Here it is referring to the US Army operation at My Lai in Vietnam.",
+          "Source B: From a report in a US newspaper, 12 November 1969. It was the first to report the truth of the events at My Lai that had occurred over a year before.",
+          "Extract C: From an article on the My Lai massacre, published in 2009."
+        ]
       },
       {
         "id": "pp-4hi102r-june2022-vn-c",
@@ -620,7 +655,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2022",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Extract C suggests that the main reason for the increasing opposition to the Vietnam War in the USA was extensive media coverage. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -630,7 +666,12 @@
             "TV images raised doubts",
             "the war appeared in homes every night"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From an interview with a 'draft-dodger' who left the USA in 1967 to avoid conscription into the US Army. Here he is explaining the reasons for his decision.",
+          "Source B: From an interview with a man who deserted from the US Army in 1968 to avoid being sent to Vietnam. Here he is describing the reasons for his decision.",
+          "Extract C: From Vietnam, published in 1997."
+        ]
       }
     ]
   },

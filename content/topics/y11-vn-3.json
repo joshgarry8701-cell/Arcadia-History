@@ -444,13 +444,70 @@
         "q": "Describe TWO features of EITHER Vietcong tactics OR the US policy of search and destroy."
       },
       {
+        "id": "pp-4hi102-november2025-vn-b",
+        "qtype": "p2ab",
+        "label": "Past paper: 4HI1/02, November 2025, A4(b) (Sources A and B are in the paper)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2025",
+          "part": "A4(b)"
+        },
+        "sections": [],
+        "q": "How far does Source A support the evidence of Source B about the aims of Operation Rolling Thunder? Explain your answer.",
+        "ms": {
+          "points": [
+            "Agree: both describe sustained bombing of North Vietnam",
+            "Agree: both say the aim was to cut North Vietnam's support for the Viet Cong",
+            "Differ: A is unsure the aims will be met; B says supplies to the Viet Cong are being reduced",
+            "Differ: only A says the aim was to show the USA was ready to escalate",
+            "Extent: they agree strongly on the aims but differ on how successful the bombing was"
+          ]
+        },
+        "src_captions": [
+          "Source A: From a note written by a senior adviser to President Lyndon Johnson in February 1965. Here he is commenting before the launch of Operation Rolling Thunder, which began in March 1965.",
+          "Source B: From a telegram sent to the US Government from the US Embassy in Saigon in June 1965. Here it is commenting on Operation Rolling Thunder."
+        ]
+      },
+      {
+        "id": "pp-4hi102-november2025-vn-c",
+        "qtype": "p2ac",
+        "label": "Past paper: 4HI1/02, November 2025, A4(c) (Sources A, B and Extract C are in the paper)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2025",
+          "part": "A4(c)"
+        },
+        "sections": [],
+        "q": "Extract C suggests that Operation Rolling Thunder was a great success. How far do you agree with this interpretation? Use Extract C, Sources A and B and your own knowledge to explain your answer.",
+        "ms": {
+          "support": [
+            "Source A: the bombing showed US determination to win",
+            "Source B: it made fighting the Viet Cong 'easier'",
+            "Extract C: it badly damaged North Vietnam's infrastructure and supply networks",
+            "Damage was estimated at over $500 million, and North Vietnam agreed to talks in 1968"
+          ],
+          "challenge": [
+            "Source A predicted heavy losses and unpopularity at home, and both came true",
+            "Source B: bombing would not stop supplies to the Viet Cong completely",
+            "Extract C: it increased opposition to the war in the USA and abroad",
+            "China and the USSR kept supplying the North; civilian deaths strengthened North Vietnamese resolve"
+          ]
+        },
+        "src_captions": [
+          "Source A: From a note written by a senior adviser to President Lyndon Johnson in February 1965. Here he is commenting before the launch of Operation Rolling Thunder, which began in March 1965.",
+          "Source B: From a telegram sent to the US Government from the US Embassy in Saigon in June 1965. Here it is commenting on Operation Rolling Thunder.",
+          "Extract C: From an article on Operation Rolling Thunder, published in 2024."
+        ]
+      },
+      {
         "id": "pp-4hi102-june2022-vn-b",
         "qtype": "p2ab",
         "label": "Past paper: 4HI1/02, June 2022, A4(b) (Sources A and B are in the paper)",
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2022",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about the results of the Tet Offensive?\nExplain your answer.",
@@ -468,7 +525,11 @@
             "Similarity and difference about the results of Tet were handled well."
           ],
           "weak": []
-        }
+        },
+        "src_captions": [
+          "Source A: From a report in an Australian newspaper in February 1968. Here it is describing the Tet Offensive.",
+          "Source B: From the memoirs of a member of the Vietcong. Here he is describing his experiences of the Tet Offensive."
+        ]
       },
       {
         "id": "pp-4hi102-june2022-vn-c",
@@ -477,7 +538,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2022",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Extract C suggests that the defeat of the Tet Offensive was not a victory for the USA. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -495,7 +557,12 @@
             "Strong answers recognised the subtlety that a US military victory might not have been a real success."
           ],
           "weak": []
-        }
+        },
+        "src_captions": [
+          "Source A: From a report in an Australian newspaper in February 1968. Here it is describing the Tet Offensive.",
+          "Source B: From the memoirs of a member of the Vietcong. Here he is describing his experiences of the Tet Offensive.",
+          "Extract C: From Twentieth Century Depth Studies, published in 2014."
+        ]
       },
       {
         "id": "pp-4hi102-november2021-vn-b",
@@ -504,7 +571,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2021",
-          "part": "A4(b)"
+          "part": "A4(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far does Source A support the evidence of Source B about Operation Rolling Thunder?\nExplain your answer.",
@@ -524,7 +592,11 @@
           "weak": [
             "Few explained where the sources differed, or what Source A said that Source B did not."
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From a report by a British war correspondent in North Vietnam in December 1965. Here he is describing the effects of Operation Rolling Thunder.",
+          "Source B: From an official report to the US government on Operation Rolling Thunder in 1966."
+        ]
       },
       {
         "id": "pp-4hi102-november2021-vn-c",
@@ -533,7 +605,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2021",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Extract C suggests that Operation Rolling Thunder did little to help the USA win the war. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -551,7 +624,12 @@
             "The best answers used the words of the 14-year-old girl to argue that North Vietnamese morale was not destroyed, with good contextual knowledge."
           ],
           "weak": []
-        }
+        },
+        "src_captions": [
+          "Source A: From a report by a British war correspondent in North Vietnam in December 1965. Here he is describing the effects of Operation Rolling Thunder.",
+          "Source B: From an official report to the US government on Operation Rolling Thunder in 1966.",
+          "Extract C: From The Vietnam War, published in 2017."
+        ]
       },
       {
         "id": "pp-4hi102r-june2023-vn-c",
@@ -560,7 +638,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2023",
-          "part": "A4(c)"
+          "part": "A4(c)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Extract C suggests that President Johnson made a huge error in increasing the USA’s involvement in Vietnam. How far do you agree with this interpretation?\nUse Extract C, Sources A and B and your own knowledge to explain your answer.",
@@ -570,7 +649,12 @@
             "advisers warned against escalation",
             "Johnson doubted the war was worth fighting"
           ]
-        }
+        },
+        "src_captions": [
+          "Source A: From a speech by President Lyndon B Johnson in June 1966. Here, he is explaining why the USA was increasing its support for South Vietnam.",
+          "Source B: From a speech by an American church leader in April 1967.",
+          "Extract C: From an article on the Vietnam War, published in 2015."
+        ]
       },
       {
         "id": "pp-4hi102r-june2020-vn-b",

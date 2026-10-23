@@ -260,3 +260,5 @@ table.levels td:first-child, table.levels td:nth-child(2) { white-space: nowrap;
 .ppq:hover, .ppq:focus-visible { border-color: var(--course); }
 .linkish { background: none; border: 0; padding: 0; color: var(--course); text-decoration: underline; cursor: pointer; font: inherit; }
 label > select { display: block; margin-top: 4px; max-width: min(100%, 320px); }
+.caps { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; }
+.caps li { font-style: italic; }

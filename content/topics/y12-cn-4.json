@@ -955,7 +955,8 @@
         "pp": {
           "paper": "WHI02/1B",
           "series": "January 2017",
-          "part": "Q3"
+          "part": "Q3",
+          "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
         },
         "sections": [],
         "q": "To what extent did the treatment of religion in China change in the years 1949–76?",

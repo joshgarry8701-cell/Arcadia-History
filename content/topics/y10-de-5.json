@@ -519,7 +519,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2025",
-          "part": "Q3(c)(ii)"
+          "part": "Q3(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "ms": {
           "support": [
@@ -555,7 +556,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2024",
-          "part": "Q3(c)(ii)"
+          "part": "Q3(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason for the weakening of the Third Reich, in the years 1939–45, was the growth of opposition to Hitler.’\nHow far do you agree?\nExplain your answer.",
@@ -578,7 +580,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2023",
-          "part": "Q3(b)"
+          "part": "Q3(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of the Second World War on the role of women in Germany.",
@@ -597,7 +600,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2022",
-          "part": "Q3(c)(ii)"
+          "part": "Q3(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The most significant impact of the Second World War on the German home front was on the role of women.’\nHow far do you agree?\nExplain your answer.",
@@ -620,7 +624,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2021",
-          "part": "Q3(b)"
+          "part": "Q3(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of Allied bombing on Germany during the Second World War.",
@@ -658,7 +663,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2025",
-          "part": "Q3(b)"
+          "part": "Q3(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of the Allied bombing campaigns on Germany during the Second World War.",
@@ -677,7 +683,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2024",
-          "part": "Q3(a)"
+          "part": "Q3(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about life on the German Home Front during the Second World War?",
@@ -686,7 +693,10 @@
             "Bombing forced Germans to live in cellars",
             "language such as 'suffered' and 'rat-infested'"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract C: From A history of Germany, published in 1999."
+        ]
       },
       {
         "id": "pp-4hi101r-june2023-de-cii",
@@ -695,7 +705,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2023",
-          "part": "Q3(c)(ii)"
+          "part": "Q3(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘In the years 1939–45, the most significant feature of war on the Home Front in Germany and the occupied territories was Nazi policies towards Jews.’\nHow far do you agree?\nExplain your answer.",
@@ -718,7 +729,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2022",
-          "part": "Q3(b)"
+          "part": "Q3(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of the Second World War on the German Home Front in the years 1939–45.",

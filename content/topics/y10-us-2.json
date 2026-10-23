@@ -434,13 +434,34 @@
         ]
       },
       {
+        "id": "pp-4hi101-november2025-us-b",
+        "qtype": "p1b",
+        "label": "Past paper: 4HI1/01, June 2021, Q7(b)",
+        "pp": {
+          "paper": "4HI1/01",
+          "series": "June 2021",
+          "part": "Q7(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
+        },
+        "sections": [],
+        "q": "Explain two effects of the Montgomery Bus Boycott on civil rights in the 1950s.",
+        "ms": {
+          "points": [
+            "Ended bus segregation in Montgomery",
+            "created the Montgomery Improvement Association",
+            "brought King to national prominence"
+          ]
+        }
+      },
+      {
         "id": "pp-4hi101-june2025-us-a",
         "qtype": "p1a",
         "label": "Past paper: 4HI1/01, June 2025, Q7(a) (the extract is in the paper)",
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2025",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about the contribution of Rosa Parks to the Montgomery Bus Boycott?",
@@ -457,7 +478,10 @@
             "Stronger responses showed how phrasing and omissions (e.g. ignoring Claudette Colvin) shaped the impression of Rosa Parks."
           ],
           "weak": []
-        }
+        },
+        "src_captions": [
+          "Extract G: From a history of America, published in 2007."
+        ]
       },
       {
         "id": "pp-4hi101-june2024-us-b",
@@ -466,7 +490,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2024",
-          "part": "Q7(b)"
+          "part": "Q7(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of Martin Luther King’s actions on civil rights in the 1950s.",
@@ -485,7 +510,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2023",
-          "part": "Q7(b)"
+          "part": "Q7(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202023%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of the Emmett Till case on civil rights in the 1950s.",
@@ -504,7 +530,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "June 2022",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20QP%20-%20Paper%201B%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main consequence in the 1950s of civil rights protests was desegregation within education.’\nHow far do you agree?\nExplain your answer.",
@@ -527,7 +554,8 @@
         "pp": {
           "paper": "4HI1/01",
           "series": "November 2021",
-          "part": "Q7(b)"
+          "part": "Q7(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/November%202021%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain two effects of Supreme Court decisions on civil rights in the 1950s.",
@@ -536,25 +564,6 @@
             "Brown v Board (1954) and federal intervention",
             "Brown challenged 'separate but equal' and backed wider campaigns",
             "transport rulings such as Browder v Gayle (1956)"
-          ]
-        }
-      },
-      {
-        "id": "pp-4hi101-june2021-us-b",
-        "qtype": "p1b",
-        "label": "Past paper: 4HI1/01, June 2021, Q7(b)",
-        "pp": {
-          "paper": "4HI1/01",
-          "series": "June 2021",
-          "part": "Q7(b)"
-        },
-        "sections": [],
-        "q": "Explain two effects of the Montgomery Bus Boycott on civil rights in the 1950s.",
-        "ms": {
-          "points": [
-            "Ended bus segregation in Montgomery",
-            "created the Montgomery Improvement Association",
-            "brought King to national prominence"
           ]
         }
       },
@@ -584,7 +593,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2025",
-          "part": "Q7(c)(ii)"
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202025%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main consequence, in the 1950s, of civil rights protests was desegregation within transport.’\nHow far do you agree?\nExplain your answer.",
@@ -607,7 +617,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2024",
-          "part": "Q7(c)(i)"
+          "part": "Q7(c)(i)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202024%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The main reason why progress was made in the civil rights of black Americans in the 1950s was the influence of the Supreme Court.’\nHow far do you agree?\nExplain your answer.",
@@ -630,7 +641,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2023",
-          "part": "Q7(c)(ii)"
+          "part": "Q7(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202023%20(R)%20QP%20-%20Paper%201%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "‘The most significant event in increasing support for civil rights in the 1950s was the death of Emmett Till.’\nHow far do you agree?\nExplain your answer.",
@@ -653,7 +665,8 @@
         "pp": {
           "paper": "4HI1/01R",
           "series": "June 2022",
-          "part": "Q7(a)"
+          "part": "Q7(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-1/June%202022%20(R)%20QP%20-%20Paper%201A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "What impression does the author give about segregation in the South?",
@@ -662,7 +675,10 @@
             "Ending segregation faced strong opposition — 'much more difficult'",
             "successes in housing and transport are omitted"
           ]
-        }
+        },
+        "src_captions": [
+          "Extract G: From A History of the United States, published in 2001."
+        ]
       },
       {
         "id": "pp-4hi101r-june2020-us-a",

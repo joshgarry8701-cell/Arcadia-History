@@ -1069,7 +1069,8 @@
         "pp": {
           "paper": "WHI02/1B",
           "series": "January 2017",
-          "part": "Q1(a)"
+          "part": "Q1(a)",
+          "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
         },
         "sections": [],
         "q": "Why is Source 1 valuable to the historian for an enquiry into the reasons for the defeat of the Guomindang in the Civil War in the years 1946–9?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
@@ -1079,6 +1080,9 @@
             "GMD recruitment squads seized peasants and mistreated conscripts, lowering morale"
           ]
         },
+        "src_captions": [
+          "Source 1: From a report by the Head of the Chinese Red Cross, written in 1947."
+        ],
         "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
       },
       {
@@ -1088,7 +1092,8 @@
         "pp": {
           "paper": "WHI02/1B",
           "series": "January 2017",
-          "part": "Q1(b)"
+          "part": "Q1(b)",
+          "booklet": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/Exam-materials/WHI02_1B_que_20170130.pdf"
         },
         "sections": [],
         "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the experience of students in the Hundred Flowers Campaign?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
@@ -1099,6 +1104,9 @@
             "critics were forced to confess and sent to labour camps, with denunciation quotas of five per cent"
           ]
         },
+        "src_captions": [
+          "Source 2: From Harry Wu's account of his experiences at university during the Hundred Flowers Campaign (published 2009)."
+        ],
         "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
       },
       {

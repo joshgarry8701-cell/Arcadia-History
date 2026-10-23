@@ -418,7 +418,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2025",
-          "part": "B2(c)(ii)"
+          "part": "B2(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "ms": {
           "support": [
@@ -471,13 +472,43 @@
         "model_note": "From the Arcadia IGCSE model paragraphs."
       },
       {
+        "id": "pp-4hi102-november2025-med-b",
+        "qtype": "p2bb",
+        "label": "Past paper: 4HI1/02, November 2025, B2(b)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2025",
+          "part": "B2(b)"
+        },
+        "sections": [],
+        "q": "Explain TWO causes of the establishment of the NHS in 1948.",
+        "ms": {
+          "points": [
+            "The government's larger role in health during the Second World War",
+            "The 1945 Labour victory and Aneurin Bevan’s determination",
+            "The Beveridge Report naming disease as one of the five 'giant evils'"
+          ]
+        },
+        "exq": {
+          "series": "4HI1/02 examiner report, November 2025",
+          "url": null,
+          "strong": [
+            "Many correctly explained two causes."
+          ],
+          "weak": [
+            "Some explained consequences of the NHS, or described what it achieved, instead of causes."
+          ]
+        }
+      },
+      {
         "id": "pp-4hi102-june2025-med-a",
         "qtype": "p2ba",
         "label": "Past paper: 4HI1/02, June 2025, B2(a)",
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2025",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which the provision for public health in 1948 before the introduction of the NHS, was different from the provision for public health after its introduction.",
@@ -504,7 +535,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2024",
-          "part": "B2(c)(ii)"
+          "part": "B2(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far was the founding of the National Health Service (NHS) the most significant development in improving medical treatment in the years 1920–48?",
@@ -527,7 +559,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2023",
-          "part": "B2(c)(ii)"
+          "part": "B2(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far were developments in science and technology responsible for changes in medicine in the years 1920–48?",
@@ -550,7 +583,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2022",
-          "part": "B2(b)"
+          "part": "B2(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO causes of the development of penicillin in the years 1920–48.",
@@ -569,7 +603,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "November 2021",
-          "part": "B2(b)"
+          "part": "B2(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/November%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO causes of the improvements in medical treatment in the years 1920–48.",
@@ -588,7 +623,8 @@
         "pp": {
           "paper": "4HI1/02",
           "series": "June 2021",
-          "part": "B2(c)(ii)"
+          "part": "B2(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202021%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far did medical treatment change in the years 1914–48?",
@@ -666,7 +702,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2025",
-          "part": "B2(c)(ii)"
+          "part": "B2(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202025%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How far was success in the fight against infection the most significant development in medical treatment in the years 1920–48?",
@@ -689,7 +726,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2024",
-          "part": "B2(a)"
+          "part": "B2(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO ways in which hospitals in 1948 were different from hospitals in 1920.",
@@ -707,7 +745,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2023",
-          "part": "B2(c)(ii)"
+          "part": "B2(c)(ii)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "How significant was warfare in bringing about changes in surgery in the years 1905–48?",
@@ -730,7 +769,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2022",
-          "part": "B2(b)"
+          "part": "B2(b)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202022%20(R)%20QP%20-%20Paper%202A%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Explain TWO causes of the progress of women in medicine in the years 1914–48.",

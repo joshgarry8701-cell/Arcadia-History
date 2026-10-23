@@ -398,13 +398,34 @@
         "q": "Describe TWO features of EITHER the tactics of General Giap OR the siege of Dien Bien Phu."
       },
       {
+        "id": "pp-4hi102-november2025-vn-a",
+        "qtype": "p2aa",
+        "label": "Past paper: 4HI1/02, November 2025, A4(a)",
+        "pp": {
+          "paper": "4HI1/02",
+          "series": "November 2025",
+          "part": "A4(a)"
+        },
+        "sections": [],
+        "q": "Describe TWO features of EITHER the Geneva Conference (1954) OR media coverage of the war in the USA.",
+        "ms": {
+          "points": [
+            "Geneva: the conference dealt with the end of the First Indochina War; North and South Vietnam, the USA, France and Britain attended",
+            "Geneva: France agreed to withdraw; Vietnam was split at the 17th parallel until elections within two years",
+            "Media: newspapers, radio and TV covered the war in detail and questioned the government’s version",
+            "Media: new technology put film on TV within hours; Walter Cronkite's CBS news reached millions"
+          ]
+        }
+      },
+      {
         "id": "pp-4hi102r-june2024-vn-a",
         "qtype": "p2aa",
         "label": "Past paper: 4HI1/02R, June 2024, A4(a)",
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2024",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202024%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Describe TWO features of EITHER the First Indochina War OR the fall of Saigon.",
@@ -422,7 +443,8 @@
         "pp": {
           "paper": "4HI1/02R",
           "series": "June 2023",
-          "part": "A4(a)"
+          "part": "A4(a)",
+          "booklet": "https://pmt.physicsandmathstutor.com/download/History/GCSE/Past-Papers/Edexcel-IGCSE/Spec-4HI1/Paper-2/June%202023%20(R)%20QP%20-%20Paper%202%20Edexcel%20History%20IGCSE.pdf"
         },
         "sections": [],
         "q": "Describe TWO features of EITHER the aims of the Vietminh in the First Indochina War OR the Paris peace talks (1972).",
