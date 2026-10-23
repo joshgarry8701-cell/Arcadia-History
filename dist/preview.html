@@ -314,7 +314,7 @@ function ApiStore() {
 
 function LocalStore() {
   const H = window.HUB_PREVIEW;
-  const AI_REASON = 'AI feedback is not part of this preview. It works on the full website once a school API key is added.';
+  const AI_REASON = H.note ? 'AI feedback is not switched on for this version of the site. Use the guide, frame and model to check your own answer, then share it with Mr Garry.' : 'AI feedback is not part of this preview. It works on the full website once a school API key is added.';
   const subs = () => lsGet('hub-preview-subs', []);
   const putSubs = (s) => { if (!lsSet('hub-preview-subs', s)) throw new Error('This browser blocked saving, so your writing was not saved. Copy it somewhere safe.'); };
   return {
@@ -471,7 +471,7 @@ function shell(inner, opts = {}) {
     ${PREVIEW ? html`<button class="iconbtn" data-act="go" data-to="account" aria-label="Preview settings">${raw(ICON.user)}<span class="hide-sm">Preview</span></button>` : ''}
   </div></header>
   <main id="main" tabindex="-1">
-    ${PREVIEW && !opts.noPreviewNote ? html`<div class="notice info">Preview: everything works here except sign-in, teacher tools and AI feedback. Your progress is saved in this browser only.</div>` : ''}
+    ${PREVIEW && !opts.noPreviewNote ? html`<div class="notice info">${(window.HUB_PREVIEW && window.HUB_PREVIEW.note) || 'Preview: everything works here except sign-in, teacher tools and AI feedback. Your progress is saved in this browser only.'}</div>` : ''}
     ${inner}
   </main>`;
 }

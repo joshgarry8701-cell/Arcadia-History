@@ -5,3 +5,4 @@ data/
 node_modules/
 dist/build-pack/
 dist/build-pack.zip
+dist/site/
