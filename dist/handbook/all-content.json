@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23",
+  "generated": "2026-10-24",
   "note": "Every course and topic of Mr Garry's History Revision Hub. courses[].qtypes are question types (exam guide, mark scheme, frames, models, examiner advice); topics[].exam.questions[].qtype points to them.",
   "courses": [
     {
@@ -446,7 +446,12 @@
         "Class textbook or lesson decks for Germany and USA 1945–74 (to align explanations and page references)",
         "Recent 4HI1/01 mark schemes you use in class (to tick the question-type mark schemes as verified)",
         "Teacher-marked Year 10 answers (to check AI feedback)"
-      ]
+      ],
+      "videos": {
+        "provider": "GCSEPod",
+        "login": "https://members.gcsepod.com/login",
+        "note": "Use your Arcadia GCSEPod login. Ask Mr Garry if you have lost it."
+      }
     },
     {
       "id": "y11",
@@ -1027,7 +1032,12 @@
         "Class textbook or lesson decks for Vietnam and Medicine (to align explanations and page references)",
         "Recent 4HI1 mark schemes you use in class (to tick the question-type mark schemes as verified)",
         "Teacher-marked Year 11 answers (to check AI feedback)"
-      ]
+      ],
+      "videos": {
+        "provider": "GCSEPod",
+        "login": "https://members.gcsepod.com/login",
+        "note": "Use your Arcadia GCSEPod login. Ask Mr Garry if you have lost it."
+      }
     },
     {
       "id": "y12",
@@ -3066,7 +3076,8 @@
           "kind": "Competing arguments",
           "task": "'The Weimar Republic was doomed from the start.' Write one paragraph for and one against."
         }
-      ]
+      ],
+      "search": "Weimar Republic"
     },
     {
       "id": "y10-de-2",
@@ -3727,7 +3738,8 @@
           "kind": "Relative significance",
           "task": "Which mattered more for recovery: economic measures or foreign-policy successes? Decide using how many Germans each affected."
         }
-      ]
+      ],
+      "search": "Stresemann"
     },
     {
       "id": "y10-de-3",
@@ -4590,7 +4602,8 @@
           "kind": "Counterfactual",
           "task": "If the Wall Street Crash had not happened, would Hitler have become Chancellor? Use the 1928 election result."
         }
-      ]
+      ],
+      "search": "rise of the Nazis"
     },
     {
       "id": "y10-de-4",
@@ -5533,7 +5546,8 @@
           "kind": "Change and continuity",
           "task": "How far did life change for German women in 1933–39? Think about what the Nazis wanted and what actually happened."
         }
-      ]
+      ],
+      "search": "Nazi Germany"
     },
     {
       "id": "y10-de-5",
@@ -6334,7 +6348,8 @@
           "kind": "Evaluation",
           "task": "Why did opposition never become a mass movement? Give three reasons and rank them."
         }
-      ]
+      ],
+      "search": "Germany Second World War home front"
     },
     {
       "id": "y10-us-1",
@@ -7065,7 +7080,8 @@
           "kind": "Relative significance",
           "task": "Media, the army or McCarthy himself — which mattered most to his downfall?"
         }
-      ]
+      ],
+      "search": "McCarthyism"
     },
     {
       "id": "y10-us-2",
@@ -7803,7 +7819,8 @@
           "kind": "Evaluation",
           "task": "Why did the federal government act so slowly in the 1950s? Give three reasons."
         }
-      ]
+      ],
+      "search": "civil rights 1950s"
     },
     {
       "id": "y10-us-3",
@@ -8598,7 +8615,8 @@
           "kind": "Causal links",
           "task": "Show how television linked Birmingham, Selma and the new laws."
         }
-      ]
+      ],
+      "search": "civil rights 1960s"
     },
     {
       "id": "y10-us-4",
@@ -9369,7 +9387,8 @@
           "kind": "Causal links",
           "task": "How did the civil rights movement shape the methods of the student and women's movements?"
         }
-      ]
+      ],
+      "search": "women's movement"
     },
     {
       "id": "y10-us-5",
@@ -9938,7 +9957,8 @@
           "kind": "Change and continuity",
           "task": "How far did the 1973–74 laws really limit presidential power?"
         }
-      ]
+      ],
+      "search": "Watergate"
     },
     {
       "id": "y11-med-1",
@@ -10867,7 +10887,8 @@
           "kind": "Causal links",
           "task": "Why might chloroform have increased deaths from surgery at first? Explain the chain."
         }
-      ]
+      ],
+      "search": "Florence Nightingale"
     },
     {
       "id": "y11-med-2",
@@ -11404,7 +11425,8 @@
           "kind": "Change and continuity",
           "task": "How much had changed for women in medicine between 1854 and 1876?"
         }
-      ]
+      ],
+      "search": "Lister Pasteur"
     },
     {
       "id": "y11-med-3",
@@ -11891,7 +11913,8 @@
           "kind": "Causal links",
           "task": "Show how science and technology (microscopes, dyes, X-rays) linked the discoveries of 1875–1905."
         }
-      ]
+      ],
+      "search": "Koch Ehrlich"
     },
     {
       "id": "y11-med-4",
@@ -12777,7 +12800,8 @@
           "kind": "Change and continuity",
           "task": "Compare the Public Health Acts of 1848 and 1875 with the Liberal reforms. What new idea of government responsibility appeared?"
         }
-      ]
+      ],
+      "search": "Liberal reforms public health"
     },
     {
       "id": "y11-med-5",
@@ -13622,7 +13646,8 @@
           "kind": "Change and continuity",
           "task": "Compare health care in 1848 and 1948. What were the three biggest changes?"
         }
-      ]
+      ],
+      "search": "NHS"
     },
     {
       "id": "y11-vn-1",
@@ -14152,7 +14177,8 @@
           "kind": "Causal links",
           "task": "Explain how the communist victory in China in 1949 changed both sides' involvement in Vietnam."
         }
-      ]
+      ],
+      "search": "Dien Bien Phu"
     },
     {
       "id": "y11-vn-2",
@@ -14985,7 +15011,8 @@
           "kind": "Causal links",
           "task": "How did Diem's policies help the NLF? Make a chain of three links."
         }
-      ]
+      ],
+      "search": "Diem Vietnam"
     },
     {
       "id": "y11-vn-3",
@@ -15696,7 +15723,8 @@
           "kind": "Relative significance",
           "task": "Rank Rolling Thunder, search and destroy and chemical weapons by how much they damaged the US war effort."
         }
-      ]
+      ],
+      "search": "Vietnam escalation"
     },
     {
       "id": "y11-vn-4",
@@ -16267,7 +16295,8 @@
           "kind": "Relative significance",
           "task": "Which reason for US failure was most important? Justify your ranking of all four."
         }
-      ]
+      ],
+      "search": "Vietnamisation"
     },
     {
       "id": "y11-vn-5",
@@ -16957,7 +16986,8 @@
           "kind": "Source thinking",
           "task": "Why might a 1969 TV news report and a 'silent majority' speech give different views of American attitudes?"
         }
-      ]
+      ],
+      "search": "anti-war movement"
     },
     {
       "id": "y12-de-1",

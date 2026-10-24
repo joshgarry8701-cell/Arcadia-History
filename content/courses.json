@@ -445,7 +445,12 @@
         "Class textbook or lesson decks for Germany and USA 1945–74 (to align explanations and page references)",
         "Recent 4HI1/01 mark schemes you use in class (to tick the question-type mark schemes as verified)",
         "Teacher-marked Year 10 answers (to check AI feedback)"
-      ]
+      ],
+      "videos": {
+        "provider": "GCSEPod",
+        "login": "https://members.gcsepod.com/login",
+        "note": "Use your Arcadia GCSEPod login. Ask Mr Garry if you have lost it."
+      }
     },
     {
       "id": "y11",
@@ -1026,7 +1031,12 @@
         "Class textbook or lesson decks for Vietnam and Medicine (to align explanations and page references)",
         "Recent 4HI1 mark schemes you use in class (to tick the question-type mark schemes as verified)",
         "Teacher-marked Year 11 answers (to check AI feedback)"
-      ]
+      ],
+      "videos": {
+        "provider": "GCSEPod",
+        "login": "https://members.gcsepod.com/login",
+        "note": "Use your Arcadia GCSEPod login. Ask Mr Garry if you have lost it."
+      }
     },
     {
       "id": "y12",

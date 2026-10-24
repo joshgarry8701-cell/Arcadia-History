@@ -446,6 +446,16 @@ function topicFrame(t, tab, inner) {
     </div>`);
 }
 
+function videoPanel(t, compact) {
+  const c = courseOf(t.course); const v = c.videos; const list = t.videos || [];
+  if (!v && !list.length) return '';
+  const prov = (v && v.provider) || 'video';
+  return html`<section class="panel video" id="sec-watch"><span class="eyebrow">Watch</span><h2 style="margin:0">${prov} ${list.length === 1 ? 'pod' : 'pods'} for this topic</h2>
+    ${list.length ? html`<ul class="vids">${list.map((x) => html`<li><a href="${x.url}" target="_blank" rel="noopener">▶ ${x.title}</a>${x.mins ? html` <span class="small muted">${x.mins} min</span>` : ''}</li>`)}</ul>`
+      : html`<p class="small">Sign in to ${prov} with your school account and search for <b>${(t.search || t.title)}</b>.</p>`}
+    ${v && v.login ? html`<p class="row" style="gap:8px"><a class="btn sm" href="${v.login}" target="_blank" rel="noopener">Sign in to ${prov}</a>${compact ? '' : html`<span class="small muted">${v.note || ''}</span>`}</p>` : ''}
+    ${compact ? '' : html`<p class="small muted">Watch, then come back and do the quiz or flashcards for this topic to check what stuck.</p>`}</section>`;
+}
 function viewOverview(t) {
   const st = topicStats(t);
   const rec = recommendations(t);
@@ -466,6 +476,7 @@ function viewOverview(t) {
       <div class="panel"><span class="eyebrow">Revise next</span>${rec.length ? html`<ul style="margin:0;padding-left:1.1em;display:grid;gap:6px">${rec.map((r) => html`<li><button class="btn sm" data-act="go" data-to="${t.id}.learn" data-scroll="${r.k.sections[0]}" style="text-align:left">${r.k.text.replace(/^I can /, '')}</button> <span class="small muted">— ${r.why}</span></li>`)}</ul>` : html`<p class="muted">Rate yourself on the checklist and do a quiz — suggestions will appear here.</p>`}</div>
     </section>
     <section class="acts">${cards.map(([k, l, s]) => html`<button class="act" data-act="go" data-to="${t.id}.${k}"><b>${l}</b><span class="small muted">${s}</span></button>`)}</section>
+    ${videoPanel(t, true)}
   `);
 }
 
@@ -503,11 +514,13 @@ function routeFigure() {
 
 function viewLearn(t) {
   const L = t.learn;
-  const toc = [['tl', L.figure ? 'Timeline and map' : 'Timeline'], ...L.sections.map((s) => [s.id, s.title]), ['people', 'Key people'], ['vocab', 'Key words'], ...(L.sources && L.sources.length && !L.sections.some((s) => s.blocks.some((b) => b.sources)) ? [['srcs', 'Sources to know']] : []), ['myths', 'Common misconceptions']];
+  const hasV = !!(courseOf(t.course).videos || (t.videos || []).length);
+  const toc = [...(hasV ? [['watch', 'Watch']] : []), ['tl', L.figure ? 'Timeline and map' : 'Timeline'], ...L.sections.map((s) => [s.id, s.title]), ['people', 'Key people'], ['vocab', 'Key words'], ...(L.sources && L.sources.length && !L.sections.some((s) => s.blocks.some((b) => b.sources)) ? [['srcs', 'Sources to know']] : []), ['myths', 'Common misconceptions']];
   return topicFrame(t, 'learn', html`
     <div class="learn">
       <nav class="toc" aria-label="On this page">${toc.map(([id, l]) => html`<button data-act="scroll" data-id="${id}">${l}</button>`)}</nav>
       <div style="display:grid;gap:26px;min-width:0">
+        ${hasV ? videoPanel(t, false) : ''}
         <section class="section" id="sec-tl"><h2>${L.figure ? 'Timeline and map' : 'Timeline'}</h2>
           <ol class="timeline">${L.timeline.map((e) => html`<li><span class="d">${e.date}</span><span>${e.event}</span></li>`)}</ol>
           ${L.figure === 'hastings-route' ? routeFigure() : ''}

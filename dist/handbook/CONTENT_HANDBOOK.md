@@ -1,6 +1,6 @@
 # Mr Garry's History Revision Hub — Content Handbook
 
-Arcadia British School Dubai · generated 2026-10-23 · 7 courses · 39 topics
+Arcadia British School Dubai · generated 2026-10-24 · 7 courses · 39 topics
 
 Everything the site teaches, in one document: exam structures, assessment objectives, question-type guides, mark-scheme levels, examiner-report advice, writing frames (sentence starters), annotated models, and for every topic the Learn notes, timeline, key people, vocabulary, misconceptions, quizzes, flashcards, checklist, exam questions and stretch tasks.
 
