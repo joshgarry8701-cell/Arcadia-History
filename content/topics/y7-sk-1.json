@@ -1,0 +1,751 @@
+{
+  "id": "y7-sk-1",
+  "course": "y7",
+  "area": "skills",
+  "order": 1,
+  "kt": "Lessons 1–2",
+  "title": "Thinking like a historian: sources and evidence",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "The past is everything that has already happened. History is what historians build when they investigate it. This topic shows you how: by asking questions of sources, making careful inferences, and checking who made a source, when and why.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. The past and History are not the same thing",
+        "blocks": [
+          {
+            "p": "The past happened once and is gone. We cannot visit it. History is the account people construct afterwards by investigating what survives: objects, documents, pictures, buildings and memories."
+          },
+          {
+            "p": "That is why two historians can know the same facts and still disagree. They may ask different questions, give different evidence more weight, or explain it differently. An account of the past made later is called an interpretation."
+          },
+          {
+            "p": "Thinking like a historian means asking: What happened? How do we know? How sure can we be? Over this unit you build a Historian's Toolkit of ideas: evidence, chronology, enquiry, cause and consequence, perspective, ethics, significance, change and continuity, and argument."
+          }
+        ],
+        "terms": [
+          "past",
+          "History",
+          "historian",
+          "interpretation",
+          "Historian's Toolkit"
+        ],
+        "evidence": [
+          "The past = what happened. History = how we investigate and explain it.",
+          "An interpretation is a later account or explanation of the past."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Sources and evidence",
+        "blocks": [
+          {
+            "p": "A source is anything that gives us information about the past. Historians often sort sources into four kinds:"
+          },
+          {
+            "ul": [
+              "Written: letters, diaries, newspapers, laws, official records.",
+              "Visual: photographs, paintings, maps, cartoons.",
+              "Oral: memories passed on by speaking, such as an interview with a grandparent or traditions passed down through a community.",
+              "Physical: objects and buildings, like pottery, coins, tools or a fort."
+            ]
+          },
+          {
+            "p": "A source only becomes evidence when a historian uses it to answer a question. The same photograph of Dubai Creek could be evidence about boats, about trade, or about what people wore, depending on the question."
+          },
+          {
+            "p": "There is no single \"best\" type of source. It depends on what the historian wants to find out. Oral history matters especially where few written records survive."
+          }
+        ],
+        "terms": [
+          "source",
+          "evidence",
+          "written",
+          "visual",
+          "oral",
+          "physical"
+        ],
+        "evidence": [
+          "A source becomes evidence when it is used to answer a question.",
+          "The best type of source depends on the question being asked."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Inference and provenance",
+        "blocks": [
+          {
+            "p": "An inference is a conclusion you reach from evidence, rather than something the source states directly. Historians move step by step: SOURCE → QUESTION → EVIDENCE → INFERENCE. A useful sentence pattern is: \"I can see… This suggests… Therefore I can infer…\""
+          },
+          {
+            "p": "Provenance means who made a source, when, where and why. It shapes what a source can tell us. A foreign visitor describing Dubai in the mid-20th century might notice things locals took for granted but miss things only locals understood. An Emirati recalling childhood decades later remembers from the inside, but memory can change over time. An official record may be precise but only cover what officials cared about."
+          },
+          {
+            "p": "A biased source is not useless. It may be excellent evidence of what its maker believed or wanted others to believe. The question is always: reliable for what? Historians check one source against others. This is called corroboration."
+          }
+        ],
+        "terms": [
+          "inference",
+          "provenance",
+          "bias",
+          "reliability",
+          "corroboration"
+        ],
+        "evidence": [
+          "I can see → this suggests → therefore I can infer.",
+          "Provenance = who, when, where, why.",
+          "Ask \"reliable for what?\", not just \"reliable or unreliable?\""
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 3000 BCE",
+        "event": "Bronze Age communities live at Hili, near Al Ain. Archaeologists study their tombs and settlement remains."
+      },
+      {
+        "date": "c. 1787",
+        "event": "Al Fahidi Fort is built in Dubai. It is often described as the oldest surviving building in the city."
+      },
+      {
+        "date": "1833",
+        "event": "Members of the Bani Yas, led by the Al Maktoum family, settle at Dubai."
+      },
+      {
+        "date": "Late 1940s",
+        "event": "The explorer Wilfred Thesiger photographs life in the region, including Dubai. His photographs are now held in museum collections."
+      },
+      {
+        "date": "1966",
+        "event": "Oil is discovered offshore in Dubai."
+      },
+      {
+        "date": "1971",
+        "event": "The United Arab Emirates is formed on 2 December."
+      },
+      {
+        "date": "2002",
+        "event": "The Iron Age site of Saruq Al Hadid is discovered in the desert near Dubai."
+      }
+    ],
+    "people": [
+      {
+        "name": "Wilfred Thesiger",
+        "role": "British explorer who travelled in Arabia in the 1940s. His photographs are an outsider's visual record of the region."
+      },
+      {
+        "name": "You, the historian",
+        "role": "Every source needs someone to ask it a good question."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Past",
+        "def": "Everything that has already happened."
+      },
+      {
+        "term": "History",
+        "def": "How we investigate and construct accounts of the past."
+      },
+      {
+        "term": "Historian",
+        "def": "Someone who investigates the past."
+      },
+      {
+        "term": "Interpretation",
+        "def": "A later explanation or account of the past."
+      },
+      {
+        "term": "Source",
+        "def": "Something that gives us information about the past."
+      },
+      {
+        "term": "Evidence",
+        "def": "Information from a source used to answer a question."
+      },
+      {
+        "term": "Inference",
+        "def": "A conclusion based on evidence, not just what is stated."
+      },
+      {
+        "term": "Provenance",
+        "def": "Who created a source, when, where and why."
+      },
+      {
+        "term": "Corroboration",
+        "def": "Checking a source against other sources to see if they agree."
+      },
+      {
+        "term": "Bias",
+        "def": "A one-sided view that favours one side or idea."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "History is just remembering facts.",
+        "right": "History is investigating the past and building an argument from evidence. Facts matter, but historians also ask how we know and how sure we can be."
+      },
+      {
+        "wrong": "A biased source is useless.",
+        "right": "A biased source can be very useful, for example as evidence of what someone believed. Always ask \"useful for what?\""
+      },
+      {
+        "wrong": "An inference is just repeating what the source says.",
+        "right": "An inference goes beyond the words or picture: it is what the evidence suggests."
+      },
+      {
+        "wrong": "Older sources are always more reliable.",
+        "right": "Age does not make a source reliable. Provenance and the question you are asking matter more."
+      }
+    ],
+    "sources": [
+      {
+        "id": "thesiger",
+        "title": "Wilfred Thesiger's photographs of the Trucial Coast",
+        "type": "Black-and-white photographs",
+        "date": "Late 1940s",
+        "origin": "Taken by a British explorer; now held in museum collections (Pitt Rivers Museum, Oxford).",
+        "purpose": "A personal record of his travels in Arabia.",
+        "usefulness": "Shows everyday life before oil wealth. It is an outsider's view, so we must ask what he chose to photograph and what he left out."
+      },
+      {
+        "id": "fahidi",
+        "title": "Al Fahidi Fort",
+        "type": "Building (physical source)",
+        "date": "Built around 1787",
+        "origin": "Built in Dubai; today it houses part of the Dubai Museum.",
+        "purpose": "Defence of the settlement, and later a ruler's residence and garrison.",
+        "usefulness": "Physical evidence of how early Dubai was defended and built. It does not tell us what ordinary people thought."
+      },
+      {
+        "id": "oral",
+        "title": "Oral history interview with an Emirati elder",
+        "type": "Oral source (recorded memory)",
+        "date": "Recorded recently about childhood decades ago",
+        "origin": "A person remembering their own experience.",
+        "purpose": "To preserve memories of life before rapid development.",
+        "usefulness": "Gives an insider's experience that official records miss. Memory can change over time, so historians corroborate it."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What is the difference between \"the past\" and \"History\"?",
+        "options": [
+          "They mean exactly the same thing",
+          "The past is what happened; History is how we investigate and explain it",
+          "History is only about kings and wars",
+          "The past is only about the last 100 years"
+        ],
+        "answer": 1,
+        "why": "History is constructed by investigating the past."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "What is an interpretation?",
+        "options": [
+          "A source made at the time",
+          "A later explanation or account of the past",
+          "A date on a timeline",
+          "An object found by archaeologists"
+        ],
+        "answer": 1,
+        "why": "Interpretations are made after the event."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Which of these is an ORAL source?",
+        "options": [
+          "A coin",
+          "A newspaper",
+          "A recorded interview with a grandparent",
+          "A map"
+        ],
+        "answer": 2,
+        "why": "Oral sources are memories passed on by speaking."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "Al Fahidi Fort is which type of source?",
+        "options": [
+          "Written",
+          "Physical",
+          "Oral",
+          "Visual"
+        ],
+        "answer": 1,
+        "why": "Buildings and objects are physical sources."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "When does a source become evidence?",
+        "options": [
+          "When it is very old",
+          "When it is in a museum",
+          "When a historian uses it to answer a question",
+          "When it is written down"
+        ],
+        "answer": 2,
+        "why": "Evidence is a source used to answer a question."
+      },
+      {
+        "id": "m6",
+        "s": "s3",
+        "q": "What does provenance mean?",
+        "options": [
+          "How old a source is",
+          "Who made a source, when, where and why",
+          "Whether a source is true",
+          "How long a source is"
+        ],
+        "answer": 1,
+        "why": "Provenance = who, when, where, why."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "What is corroboration?",
+        "options": [
+          "Throwing away biased sources",
+          "Checking a source against other sources",
+          "Copying a source into your book",
+          "Guessing what a source means"
+        ],
+        "answer": 1,
+        "why": "Historians corroborate by checking sources against each other."
+      },
+      {
+        "id": "m8",
+        "s": "s3",
+        "q": "Which statement about bias is most accurate?",
+        "options": [
+          "Biased sources should always be ignored",
+          "A biased source can still be useful, depending on the question",
+          "Only modern sources are biased",
+          "Photographs cannot be biased"
+        ],
+        "answer": 1,
+        "why": "Ask \"reliable for what?\""
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s2",
+        "q": "Name the four types of historical source.",
+        "accept": [
+          "written visual oral physical",
+          "written, visual, oral, physical",
+          "written oral visual physical"
+        ],
+        "answer": "Written, visual, oral, physical"
+      },
+      {
+        "id": "a2",
+        "s": "s3",
+        "q": "What word means a conclusion based on evidence, not just what is stated?",
+        "accept": [
+          "inference",
+          "an inference",
+          "infer"
+        ],
+        "answer": "Inference"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "What word means who made a source, when and why?",
+        "accept": [
+          "provenance"
+        ],
+        "answer": "Provenance"
+      },
+      {
+        "id": "a4",
+        "s": "s1",
+        "q": "What do we call someone who investigates the past?",
+        "accept": [
+          "historian",
+          "a historian"
+        ],
+        "answer": "Historian"
+      },
+      {
+        "id": "a5",
+        "s": "s3",
+        "q": "Checking one source against others is called…?",
+        "accept": [
+          "corroboration",
+          "corroborating",
+          "corroborate"
+        ],
+        "answer": "Corroboration"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order (earliest first)",
+        "items": [
+          "Bronze Age settlement at Hili",
+          "Al Fahidi Fort built",
+          "Al Maktoum family settle at Dubai",
+          "Thesiger photographs the region",
+          "Oil discovered offshore in Dubai",
+          "The UAE is formed"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match each source to its type",
+        "pairs": [
+          [
+            "A recorded interview with an elder",
+            "Oral"
+          ],
+          [
+            "A 1940s photograph of Dubai Creek",
+            "Visual"
+          ],
+          [
+            "Al Fahidi Fort",
+            "Physical"
+          ],
+          [
+            "A government record",
+            "Written"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s3",
+        "q": "Explain how the provenance of a foreign visitor's description of mid-20th-century Dubai affects what it can tell a historian.",
+        "keywords": [
+          [
+            "visitor",
+            "outsider",
+            "foreign"
+          ],
+          [
+            "notice",
+            "miss",
+            "overlook",
+            "took for granted",
+            "understand"
+          ]
+        ],
+        "model": "As an outsider, the visitor may notice things locals took for granted, such as daily routines, but may misunderstand or miss things only locals knew. So it is useful for how Dubai looked to outsiders, but historians should corroborate it."
+      },
+      {
+        "id": "e2",
+        "s": "s3",
+        "q": "Use the \"I can see… This suggests… Therefore…\" steps to make an inference from a photograph of wooden boats (dhows) crowded on Dubai Creek.",
+        "keywords": [
+          [
+            "see",
+            "boats",
+            "dhows"
+          ],
+          [
+            "suggests",
+            "trade",
+            "fishing",
+            "busy"
+          ],
+          [
+            "therefore",
+            "infer"
+          ]
+        ],
+        "model": "I can see many wooden dhows tied up close together on the creek. This suggests the creek was busy with trade or fishing. Therefore I can infer the sea was central to how people earned a living."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Past or History: which one is constructed?",
+      "a": "History. Historians construct it by investigating the past."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Interpretation",
+      "a": "A later explanation or account of the past."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "Four types of source",
+      "a": "Written, visual, oral, physical."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "When does a source become evidence?",
+      "a": "When it is used to answer a question."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Example of a physical source in Dubai",
+      "a": "Al Fahidi Fort (built around 1787)."
+    },
+    {
+      "id": "f6",
+      "s": "s3",
+      "q": "Inference",
+      "a": "A conclusion based on evidence, not just what is stated."
+    },
+    {
+      "id": "f7",
+      "s": "s3",
+      "q": "Inference sentence steps",
+      "a": "I can see… This suggests… Therefore I can infer…"
+    },
+    {
+      "id": "f8",
+      "s": "s3",
+      "q": "Provenance",
+      "a": "Who made a source, when, where and why."
+    },
+    {
+      "id": "f9",
+      "s": "s3",
+      "q": "Corroboration",
+      "a": "Checking a source against other sources."
+    },
+    {
+      "id": "f10",
+      "s": "s3",
+      "q": "Is a biased source useless?",
+      "a": "No. It can be very useful. Ask \"reliable for what?\""
+    },
+    {
+      "id": "f11",
+      "s": "s1",
+      "q": "When was the UAE formed?",
+      "a": "2 December 1971."
+    },
+    {
+      "id": "f12",
+      "s": "s2",
+      "q": "Why does oral history matter?",
+      "a": "It preserves experiences that were never written down."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe the difference between the past and History.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe the four types of historical source with an example of each.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain when a source becomes evidence.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain how provenance affects what a source can tell us.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "explain",
+      "text": "I can make an inference using \"I can see… This suggests… Therefore…\".",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge how useful a source is for a particular question, including a biased one.",
+      "sections": [
+        "s3"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 8,
+        "q": "Study a photograph of Dubai Creek from the late 1940s, showing wooden dhows and people unloading goods. What can you infer about life in Dubai at that time? Give two inferences, each supported with evidence from the source.",
+        "sections": [
+          "s3"
+        ],
+        "asks": "Make two inferences: things the photograph suggests but does not state. Back each one with a detail you can see.",
+        "steps": [
+          "Look closely and list three things you can SEE.",
+          "For each, ask: what does this SUGGEST about life then?",
+          "Write two inferences using \"I can see… This suggests… Therefore…\"."
+        ],
+        "plan": "2 minutes looking and noting details, 5 minutes writing, 1 minute checking each inference has evidence.",
+        "success": [
+          "Two separate inferences",
+          "Each backed by a precise detail from the source",
+          "Goes beyond describing what is shown"
+        ],
+        "mistakes": [
+          "Only describing the picture (\"there are boats\")",
+          "Inferences with no evidence",
+          "Writing about modern Dubai instead"
+        ],
+        "frame": {
+          "full": [
+            "I can see…",
+            "This suggests…",
+            "Therefore I can infer…",
+            "I can also see…",
+            "This suggests…",
+            "Therefore I can infer…"
+          ],
+          "some": [
+            "Inference 1: see → suggests → infer",
+            "Inference 2: see → suggests → infer"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "\"A biased source is useless to historians.\" How far do you agree?",
+        "sections": [
+          "s3"
+        ],
+        "asks": "Decide how far you agree, using examples of sources and the idea of \"reliable for what?\". You must reach a judgement.",
+        "steps": [
+          "Decide your view and how strongly (qualifier).",
+          "Give one example where bias limits a source.",
+          "Give one example where a biased source is still very useful.",
+          "Finish with a judgement."
+        ],
+        "plan": "2 minutes planning a point for each side, 9 minutes writing, 1 minute checking qualifiers and connectives.",
+        "success": [
+          "A qualified claim (e.g. \"I largely disagree\")",
+          "Precise examples of sources",
+          "Explains using \"because / this meant that / therefore\"",
+          "Reaches a clear judgement"
+        ],
+        "mistakes": [
+          "Saying all biased sources are useless",
+          "No examples",
+          "No final judgement"
+        ],
+        "model": [
+          {
+            "t": "I largely disagree that a biased source is useless, because its bias can itself be evidence.",
+            "n": "P: qualified claim."
+          },
+          {
+            "t": "For example, an official record written to celebrate a ruler might exaggerate his successes.",
+            "n": "E: precise example."
+          },
+          {
+            "t": "This means it is weak evidence of what really happened, but strong evidence of how the ruler wanted to be seen.",
+            "n": "E: explains with \"this means\"."
+          },
+          {
+            "t": "Therefore a biased source is useful; historians just need to ask \"reliable for what?\" and corroborate it.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: I agree / disagree to a large / some extent that…",
+            "E: For example, a source such as… shows…",
+            "E: This means that… because…",
+            "J: Therefore, overall…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Deep thinking",
+      "task": "Can two historians know exactly the same facts and still disagree? Explain using an example."
+    },
+    {
+      "id": "t2",
+      "kind": "Bias",
+      "task": "Could bias actually make a source more useful for some questions? Give a precise example."
+    },
+    {
+      "id": "t3",
+      "kind": "Provenance prediction",
+      "task": "Before reading a source, predict from its provenance alone what it will notice and what it will miss. Then check your prediction."
+    },
+    {
+      "id": "t4",
+      "kind": "Silence in the sources",
+      "task": "Whose voices are hardest to find in sources about the past? Why might that be, and what can historians do about it?"
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: how useful is this source?",
+    "rows": [
+      "Source A",
+      "Source B",
+      "Source C"
+    ],
+    "cols": [
+      "Type",
+      "Provenance (who, when, why)",
+      "Useful for…",
+      "Limited because…"
+    ],
+    "judgement": "The most useful source for my question is … because …"
+  }
+}

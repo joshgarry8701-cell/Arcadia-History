@@ -616,6 +616,18 @@
         }
       },
       {
+        "id": "pp-whi031d-june2026-1",
+        "qtype": "u3a",
+        "label": "Past paper: WHI03/1D, June 2026, Q1 (Sources 1 and 2 are in the paper)",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "June 2026",
+          "part": "Q1"
+        },
+        "sections": [],
+        "q": "How far could the historian make use of Sources 1 and 2 together to investigate the disagreements within the Supreme Court about the Plessy v Ferguson case (1896)?\nExplain your answer using both sources, the information given about them and your own knowledge of the historical context."
+      },
+      {
         "id": "pp-whi031d-june2023-1",
         "qtype": "u3a",
         "label": "Past paper: WHI03/1D, June 2023, Q1 (Sources 1 and 2 are in the paper)",

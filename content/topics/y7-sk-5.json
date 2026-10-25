@@ -1,0 +1,742 @@
+{
+  "id": "y7-sk-5",
+  "course": "y7",
+  "area": "skills",
+  "order": 5,
+  "kt": "Lessons 9–11",
+  "title": "Significance, change and writing like a historian",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Who decides what deserves to be remembered? Does history always move forwards? And how do you turn all of this into a convincing argument? This topic finishes the unit with significance, change and continuity, and the Arcadia way of writing like a historian.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Historical significance",
+        "blocks": [
+          {
+            "p": "Important is not the same as historically significant. Historians judge significance using criteria, not personal preference:"
+          },
+          {
+            "ul": [
+              "Scale: how many people were affected?",
+              "Impact: how much changed because of it?",
+              "Duration: how long did the effects last?",
+              "Revealing: what does it tell us about the time?",
+              "Remembered: how and why is it remembered today?"
+            ]
+          },
+          {
+            "p": "Significance can change over time, and something can be highly significant to one group and less so to another. Use \"highly significant / somewhat significant / less significant\" and then explain why."
+          }
+        ],
+        "terms": [
+          "significance",
+          "criteria",
+          "impact",
+          "legacy"
+        ],
+        "evidence": [
+          "Criteria: scale, impact, duration, revealing, remembered."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Change and continuity",
+        "blocks": [
+          {
+            "p": "Change is something becoming different over time; continuity is something staying the same. Change can be rapid or gradual. A turning point is a moment after which things changed significantly."
+          },
+          {
+            "p": "Change is not always progress (change for the better). It can be decline (change for the worse), or progress for one group and decline for another. Dubai shows rapid change after oil was discovered in 1966, the UAE was formed in 1971 and new infrastructure was built, alongside continuities such as heritage, language and family traditions."
+          },
+          {
+            "p": "Time connectives plus explaining connectives help you explain change: Firstly… Then… As a result… This meant that… Therefore…"
+          }
+        ],
+        "terms": [
+          "change",
+          "continuity",
+          "turning point",
+          "progress",
+          "decline"
+        ],
+        "evidence": [
+          "Oil discovered in Dubai: 1966.",
+          "UAE formed: 1971."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Writing like a historian: the Arcadia paragraph",
+        "blocks": [
+          {
+            "p": "A strong historical paragraph is not just a list of facts. It is an argument. The Arcadia model uses four moves, which match PEEJ:"
+          },
+          {
+            "ul": [
+              "P: a qualified claim (QUALIFIER: highly / partly / to some extent).",
+              "E: precisely selected evidence (a name, date, number or source).",
+              "E: explanation with an explaining connective (because / this meant that / therefore) and time connectives where sequence matters.",
+              "J: a judgement that answers the question."
+            ]
+          },
+          {
+            "p": "Ask yourself: What is my argument? How strongly do I want to claim it? Which evidence best proves it? How do I explain the link?"
+          }
+        ],
+        "terms": [
+          "argument",
+          "claim",
+          "qualifier",
+          "precise evidence",
+          "reasoning",
+          "judgement",
+          "PEEJ"
+        ],
+        "evidence": [
+          "PEEJ: Point (qualified) → Evidence (precise) → Explain (connective) → Judgement."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1833",
+        "event": "The Al Maktoum family settle at Dubai."
+      },
+      {
+        "date": "1966",
+        "event": "Oil is discovered offshore in Dubai."
+      },
+      {
+        "date": "1971",
+        "event": "The UAE is formed on 2 December."
+      },
+      {
+        "date": "1979",
+        "event": "The Dubai World Trade Centre opens."
+      },
+      {
+        "date": "1985",
+        "event": "Emirates airline is founded."
+      },
+      {
+        "date": "2010",
+        "event": "The Burj Khalifa opens."
+      }
+    ],
+    "people": [],
+    "vocab": [
+      {
+        "term": "Significance",
+        "def": "How important an event or person is judged to be."
+      },
+      {
+        "term": "Criteria",
+        "def": "The standards used to judge something."
+      },
+      {
+        "term": "Impact",
+        "def": "The effect an event had."
+      },
+      {
+        "term": "Legacy",
+        "def": "What remains or is remembered after an event."
+      },
+      {
+        "term": "Change",
+        "def": "Something becoming different over time."
+      },
+      {
+        "term": "Continuity",
+        "def": "Something staying the same over time."
+      },
+      {
+        "term": "Turning point",
+        "def": "A moment after which things changed significantly."
+      },
+      {
+        "term": "Progress / decline",
+        "def": "Change for the better / for the worse."
+      },
+      {
+        "term": "Argument",
+        "def": "A claim supported by evidence and reasoning."
+      },
+      {
+        "term": "Qualifier",
+        "def": "A word that shows the strength of a claim."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Significant just means \"I think it is important\".",
+        "right": "Significance is judged against criteria such as scale, impact and duration."
+      },
+      {
+        "wrong": "Change always means progress.",
+        "right": "Change can be decline, or progress for some and decline for others."
+      },
+      {
+        "wrong": "More facts make a better paragraph.",
+        "right": "A paragraph full of facts can still be a poor argument. Facts must be selected and explained."
+      },
+      {
+        "wrong": "Significance never changes.",
+        "right": "What people think is significant can change over time."
+      }
+    ],
+    "sources": []
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Which is NOT one of the significance criteria used in this unit?",
+        "options": [
+          "Scale",
+          "Impact",
+          "Duration",
+          "Colour"
+        ],
+        "answer": 3,
+        "why": "Scale, impact, duration, revealing, remembered."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Historical significance is judged by…",
+        "options": [
+          "Personal preference",
+          "Criteria",
+          "How old something is",
+          "How famous a person is on social media"
+        ],
+        "answer": 1,
+        "why": "Criteria, not opinion."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Continuity means…",
+        "options": [
+          "Something changing fast",
+          "Something staying the same over time",
+          "A turning point",
+          "Decline"
+        ],
+        "answer": 1,
+        "why": "Continuity = staying the same."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "Oil was discovered in Dubai in…",
+        "options": [
+          "1833",
+          "1966",
+          "1971",
+          "2010"
+        ],
+        "answer": 1,
+        "why": "1966."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "A turning point is…",
+        "options": [
+          "A moment after which things changed significantly",
+          "A slow change",
+          "Something staying the same",
+          "A type of source"
+        ],
+        "answer": 0,
+        "why": "After it, things were different."
+      },
+      {
+        "id": "m6",
+        "s": "s3",
+        "q": "In PEEJ, the first E stands for…",
+        "options": [
+          "Example of a qualifier",
+          "Precise evidence",
+          "Ending",
+          "Essay"
+        ],
+        "answer": 1,
+        "why": "Point, Evidence, Explain, Judgement."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "Which sentence uses a qualifier?",
+        "options": [
+          "Oil happened in 1966.",
+          "Oil was highly significant for Dubai.",
+          "Dubai is a city.",
+          "In 1971 the UAE formed."
+        ],
+        "answer": 1,
+        "why": "\"Highly\" shows strength of claim."
+      },
+      {
+        "id": "m8",
+        "s": "s2",
+        "q": "Which statement is most accurate?",
+        "options": [
+          "Change is always progress",
+          "Change can be progress for one group and decline for another",
+          "Nothing in Dubai stayed the same",
+          "Continuity is always bad"
+        ],
+        "answer": 1,
+        "why": "Ask: progress for whom?"
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Name two significance criteria.",
+        "accept": [
+          "scale impact",
+          "scale and impact",
+          "impact duration",
+          "duration",
+          "scale",
+          "impact",
+          "revealing",
+          "remembered"
+        ],
+        "answer": "Scale, impact, duration, revealing, remembered"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "When was the UAE formed?",
+        "accept": [
+          "1971",
+          "2 december 1971"
+        ],
+        "answer": "2 December 1971"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "Change for the worse is called…",
+        "accept": [
+          "decline"
+        ],
+        "answer": "Decline"
+      },
+      {
+        "id": "a4",
+        "s": "s3",
+        "q": "What does the J in PEEJ stand for?",
+        "accept": [
+          "judgement",
+          "judgment"
+        ],
+        "answer": "Judgement"
+      },
+      {
+        "id": "a5",
+        "s": "s2",
+        "q": "Something staying the same over time is…",
+        "accept": [
+          "continuity"
+        ],
+        "answer": "Continuity"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Dubai: put these in order",
+        "items": [
+          "Al Maktoum family settle at Dubai",
+          "Oil discovered offshore",
+          "UAE formed",
+          "Dubai World Trade Centre opens",
+          "Emirates founded",
+          "Burj Khalifa opens"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the criterion to its question",
+        "pairs": [
+          [
+            "Scale",
+            "How many people were affected?"
+          ],
+          [
+            "Impact",
+            "How much changed because of it?"
+          ],
+          [
+            "Duration",
+            "How long did the effects last?"
+          ],
+          [
+            "Revealing",
+            "What does it tell us about the time?"
+          ]
+        ]
+      },
+      {
+        "id": "x2",
+        "title": "Match the PEEJ step",
+        "pairs": [
+          [
+            "P",
+            "Qualified claim"
+          ],
+          [
+            "E (first)",
+            "Precise evidence"
+          ],
+          [
+            "E (second)",
+            "Explain with a connective"
+          ],
+          [
+            "J",
+            "Judgement"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Use at least two criteria to explain why the discovery of oil in 1966 was significant for Dubai.",
+        "keywords": [
+          [
+            "scale",
+            "impact",
+            "duration",
+            "many people",
+            "lasting"
+          ],
+          [
+            "1966",
+            "oil"
+          ],
+          [
+            "because",
+            "therefore",
+            "this meant"
+          ]
+        ],
+        "model": "The discovery of oil in 1966 was highly significant. Its impact was huge because oil money paid for roads, ports and housing. Its duration is long because that infrastructure still shapes Dubai today."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Give one example of change and one of continuity in Dubai since 1966.",
+        "keywords": [
+          [
+            "change",
+            "grew",
+            "built",
+            "airport",
+            "towers",
+            "roads",
+            "burj"
+          ],
+          [
+            "continuity",
+            "same",
+            "heritage",
+            "tradition",
+            "language",
+            "family",
+            "creek"
+          ]
+        ],
+        "model": "Change: the city grew rapidly, with new infrastructure such as the Dubai World Trade Centre (1979). Continuity: heritage and traditions, such as Arabic language and family customs, remained important."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Significance",
+      "a": "How important an event or person is judged to be, using criteria."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Five significance criteria",
+      "a": "Scale, impact, duration, revealing, remembered."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Can significance change?",
+      "a": "Yes. It can change over time and differ between groups."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "Change vs continuity",
+      "a": "Becoming different vs staying the same."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Turning point",
+      "a": "A moment after which things changed significantly."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Progress vs decline",
+      "a": "Change for the better vs for the worse."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Oil discovered in Dubai",
+      "a": "1966."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Burj Khalifa opened",
+      "a": "2010."
+    },
+    {
+      "id": "f9",
+      "s": "s3",
+      "q": "PEEJ",
+      "a": "Point (qualified) → Evidence (precise) → Explain (connective) → Judgement."
+    },
+    {
+      "id": "f10",
+      "s": "s3",
+      "q": "Example qualifiers",
+      "a": "Highly, considerably, partly, to some extent."
+    },
+    {
+      "id": "f11",
+      "s": "s3",
+      "q": "Explaining connectives",
+      "a": "Because, this meant that, as a result, therefore."
+    },
+    {
+      "id": "f12",
+      "s": "s3",
+      "q": "Can lots of facts make a poor argument?",
+      "a": "Yes, if they are not selected and explained."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe the five significance criteria.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe examples of change and continuity in Dubai.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain why change is not always progress.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain the four moves of an Arcadia/PEEJ paragraph.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge how significant an event was using criteria.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can write a qualified, evidence-supported judgement paragraph.",
+      "sections": [
+        "s3"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "Which was more significant for Dubai: the discovery of oil in 1966 or the formation of the UAE in 1971? Write one Arcadia (PEEJ) paragraph.",
+        "sections": [
+          "s1",
+          "s3"
+        ],
+        "asks": "Make a qualified judgement between the two, using significance criteria and precise evidence.",
+        "steps": [
+          "Decide which and how strongly (qualifier).",
+          "Choose your best piece of evidence.",
+          "Explain using a criterion and a connective.",
+          "End with a judgement that compares both."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking for the four moves.",
+        "success": [
+          "Qualified claim",
+          "Precise evidence (dates, examples)",
+          "Uses a significance criterion",
+          "Explaining connective",
+          "Judgement comparing both"
+        ],
+        "mistakes": [
+          "Describing both without deciding",
+          "No criteria",
+          "Unqualified claims"
+        ],
+        "model": [
+          {
+            "t": "The discovery of oil in 1966 was arguably more significant for Dubai than the formation of the UAE, to a large extent because of its economic impact.",
+            "n": "P: qualified claim."
+          },
+          {
+            "t": "Oil revenue paid for new infrastructure, which helped projects such as the Dubai World Trade Centre, opened in 1979.",
+            "n": "E: precise evidence."
+          },
+          {
+            "t": "This meant Dubai could grow far faster than before, and as a result it became a centre of trade and travel.",
+            "n": "E: explaining connectives."
+          },
+          {
+            "t": "However, the formation of the UAE in 1971 gave Dubai security and unity, so overall oil was more significant for growth, while 1971 was more significant politically.",
+            "n": "J: judgement that compares."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: … was highly / somewhat more significant than … because…",
+            "E: For example, in …",
+            "E: This meant that… As a result… Therefore…",
+            "J: Overall, … was more significant because…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 10,
+        "q": "\"History isn't simply a story of progress.\" Explain this statement using an example of change in Dubai.",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Show that change can be progress, decline or both, depending on who is affected.",
+        "steps": [
+          "Pick one development.",
+          "Explain how it was progress for one group.",
+          "Explain how it might be decline or loss for another, or what stayed the same."
+        ],
+        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
+        "success": [
+          "Precise example",
+          "Progress for whom?",
+          "Continuity or decline considered"
+        ],
+        "mistakes": [
+          "Saying everything got better",
+          "No precise example"
+        ],
+        "frame": {
+          "full": [
+            "P: History is not simply progress because…",
+            "E: For example, after 1966…",
+            "E: This meant that for … it was progress, but for …",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Significance to whom?",
+      "task": "Could something be significant to one group and insignificant to another? Give an example."
+    },
+    {
+      "id": "t2",
+      "kind": "Progress and decline",
+      "task": "Choose one change. Could it be progress for one group but decline for another?"
+    },
+    {
+      "id": "t3",
+      "kind": "Good facts, poor argument",
+      "task": "Can a paragraph contain lots of accurate facts and still be a poor historical argument? Rewrite a fact-list paragraph into an argument."
+    },
+    {
+      "id": "t4",
+      "kind": "Cold write review",
+      "task": "Look back at your first Dubai paragraph from Lesson 1. Rewrite one sentence using a qualifier, precise evidence and an explaining connective."
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: significance",
+    "rows": [
+      "Event A",
+      "Event B"
+    ],
+    "cols": [
+      "Scale",
+      "Impact",
+      "Duration",
+      "Revealing",
+      "Remembered"
+    ],
+    "judgement": "Overall, … was more significant because …"
+  }
+}

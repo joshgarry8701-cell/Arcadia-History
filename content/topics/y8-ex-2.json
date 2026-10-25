@@ -1,0 +1,713 @@
+{
+  "id": "y8-ex-2",
+  "course": "y8",
+  "area": "exp",
+  "order": 2,
+  "kt": "Lessons 3–5",
+  "title": "Spices, motives and borrowed knowledge",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Why would Europeans risk their lives at sea? This topic follows the spice trade, the motives historians sum up as \"Gold, God and Glory\", and the knowledge and technology, much of it from China, the Islamic world and the Indian Ocean, that made the voyages possible.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. The spice trade",
+        "blocks": [
+          {
+            "p": "Pepper, cinnamon, cloves, nutmeg and mace grew almost only in South and Southeast Asia. Cloves and nutmeg came from a few small Indonesian islands, the Maluku or \"Spice Islands\"."
+          },
+          {
+            "p": "Before reaching Europe, spices passed through many hands: Asian producers, Indian Ocean merchants, Arab and Venetian middlemen. Each added a mark-up, so spices were extremely expensive."
+          },
+          {
+            "p": "Spices were used to flavour and preserve food, in medicine, and to show off wealth. Venice and Genoa grew rich as Europe's gateway for spices. Portugal and Spain had no direct access, so they wanted a sea route that bypassed the middlemen."
+          },
+          {
+            "p": "Pepper was valuable enough that \"peppercorn rent\", a token but real payment, is still a phrase in English law today."
+          }
+        ],
+        "terms": [
+          "commodity",
+          "merchant",
+          "middleman",
+          "monopoly",
+          "Spice Islands"
+        ],
+        "evidence": [
+          "Cloves and nutmeg came from the Maluku (Spice) Islands.",
+          "Venice and Genoa controlled Europe's spice gateway."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Gold, God and Glory",
+        "blocks": [
+          {
+            "p": "Historians often group the motives for European voyages under three headings:"
+          },
+          {
+            "ul": [
+              "GOLD (economic): spices, gold, silver; bypassing middlemen; new markets.",
+              "GOD (religious): spreading Christianity. Spain and Portugal were Catholic kingdoms, and the Reconquista ended with the fall of Granada in 1492, the same year as Columbus's voyage.",
+              "GLORY (political and personal): rival kingdoms such as Spain and Portugal competed for prestige and land; explorers wanted fame, titles and rewards."
+            ]
+          },
+          {
+            "p": "These motives were rarely separate: one voyage could be about wealth, religion and national glory at once. \"Spreading Christianity\" was also used to justify conquest and forced conversion, which later lessons examine."
+          }
+        ],
+        "terms": [
+          "motive",
+          "causation",
+          "Reconquista",
+          "monarchy",
+          "conquistador"
+        ],
+        "evidence": [
+          "Granada fell in 1492, ending the Reconquista.",
+          "Motives overlapped."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Borrowed knowledge",
+        "blocks": [
+          {
+            "p": "European ocean voyages depended on knowledge and technology that mostly did not begin in Europe:"
+          },
+          {
+            "ul": [
+              "The magnetic compass was developed in China by about the 11th century.",
+              "The astrolabe, used to work out latitude from the stars, was refined by Islamic astronomers, building on Greek work.",
+              "Islamic scholars preserved and advanced Greek geography and astronomy.",
+              "Arab, Gujarati and East African pilots knew the Indian Ocean's monsoons, currents and coasts; da Gama used a local pilot for the last leg to India in 1498.",
+              "The caravel combined a European hull with the triangular lateen sail long used in the Indian Ocean and Mediterranean, helping ships sail against the wind."
+            ]
+          },
+          {
+            "p": "A popular claim says the navigator Ahmad ibn Majid guided da Gama to India. Historians dispute this, so treat it as a claim to check, not a settled fact."
+          }
+        ],
+        "terms": [
+          "navigation",
+          "astrolabe",
+          "compass",
+          "caravel",
+          "lateen sail"
+        ],
+        "evidence": [
+          "Compass: China, by c. 11th century.",
+          "Da Gama used a local pilot from East Africa to India in 1498."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 11th century",
+        "event": "The magnetic compass is in use in China."
+      },
+      {
+        "date": "1488",
+        "event": "Bartolomeu Dias sails round the Cape of Good Hope."
+      },
+      {
+        "date": "January 1492",
+        "event": "Granada falls; the Reconquista ends."
+      },
+      {
+        "date": "August 1492",
+        "event": "Columbus sails west for Spain."
+      },
+      {
+        "date": "1494",
+        "event": "The Treaty of Tordesillas divides newly claimed lands between Spain and Portugal."
+      },
+      {
+        "date": "1498",
+        "event": "Vasco da Gama reaches India with the help of a local pilot."
+      }
+    ],
+    "people": [
+      {
+        "name": "Prince Henry \"the Navigator\"",
+        "role": "Portuguese prince (1394–1460) who sponsored early voyages down the African coast."
+      },
+      {
+        "name": "Ahmad ibn Majid",
+        "role": "Famous Arab navigator; the claim that he guided da Gama is disputed."
+      },
+      {
+        "name": "Bartolomeu Dias",
+        "role": "Portuguese sailor who rounded the Cape of Good Hope in 1488."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Commodity",
+        "def": "A raw material or product bought and sold."
+      },
+      {
+        "term": "Merchant",
+        "def": "Someone who buys and sells goods for profit."
+      },
+      {
+        "term": "Monopoly",
+        "def": "Total control of the trade in a particular good."
+      },
+      {
+        "term": "Middleman",
+        "def": "A trader who buys from producers and sells on."
+      },
+      {
+        "term": "Motive",
+        "def": "A reason for doing something."
+      },
+      {
+        "term": "Causation",
+        "def": "The relationship between causes and their effects."
+      },
+      {
+        "term": "Navigation",
+        "def": "Planning and following a course, especially at sea."
+      },
+      {
+        "term": "Astrolabe",
+        "def": "Instrument measuring star positions, used for navigation."
+      },
+      {
+        "term": "Caravel",
+        "def": "A small, fast Portuguese sailing ship."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Spices were mainly used to hide rotten meat.",
+        "right": "They were used for flavour, preserving, medicine and as a status symbol."
+      },
+      {
+        "wrong": "Explorers had one motive.",
+        "right": "Gold, God and Glory usually worked together."
+      },
+      {
+        "wrong": "European technology made the voyages possible on its own.",
+        "right": "Much of it came from China, the Islamic world and the Indian Ocean."
+      },
+      {
+        "wrong": "Ahmad ibn Majid definitely guided da Gama.",
+        "right": "This is a disputed claim, not a settled fact."
+      }
+    ],
+    "sources": [
+      {
+        "id": "astrolabe",
+        "title": "An Islamic astrolabe",
+        "type": "Scientific instrument (physical source)",
+        "date": "Made between about the 10th and 15th centuries",
+        "origin": "Islamic world; examples are held by the British Museum and the History of Science Museum, Oxford.",
+        "purpose": "To measure the positions of stars for time-keeping, prayer times and navigation.",
+        "usefulness": "Physical evidence of advanced Islamic science. One object cannot show how widely it was used at sea."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Where did cloves and nutmeg mainly come from?",
+        "options": [
+          "Venice",
+          "The Maluku (Spice) Islands",
+          "Portugal",
+          "The Caribbean"
+        ],
+        "answer": 1,
+        "why": "A few small Indonesian islands."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Why were spices so expensive in Europe?",
+        "options": [
+          "They were rare in Asia",
+          "Many middlemen each added a mark-up",
+          "Kings banned them",
+          "They were made of gold"
+        ],
+        "answer": 1,
+        "why": "Each stage added cost."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "Which Italian city-state was a main gateway for spices?",
+        "options": [
+          "Rome",
+          "Venice",
+          "Lisbon",
+          "Seville"
+        ],
+        "answer": 1,
+        "why": "Venice (and Genoa)."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "\"God\" as a motive refers to…",
+        "options": [
+          "Fame",
+          "Spreading Christianity",
+          "Spices",
+          "Better ships"
+        ],
+        "answer": 1,
+        "why": "Religious motive."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Which event happened in 1492 as well as Columbus's voyage?",
+        "options": [
+          "Zheng He's last voyage",
+          "The fall of Granada",
+          "Da Gama reaches India",
+          "The Treaty of Tordesillas"
+        ],
+        "answer": 1,
+        "why": "The end of the Reconquista."
+      },
+      {
+        "id": "m6",
+        "s": "s3",
+        "q": "Where was the magnetic compass developed?",
+        "options": [
+          "Portugal",
+          "China",
+          "England",
+          "Mali"
+        ],
+        "answer": 1,
+        "why": "China, by about the 11th century."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "What does an astrolabe help measure?",
+        "options": [
+          "Wind speed",
+          "Latitude from the stars",
+          "Depth of water",
+          "Distance travelled"
+        ],
+        "answer": 1,
+        "why": "Star positions → latitude."
+      },
+      {
+        "id": "m8",
+        "s": "s3",
+        "q": "The claim that Ahmad ibn Majid guided da Gama is…",
+        "options": [
+          "Proven",
+          "Disputed by historians",
+          "Impossible",
+          "From Columbus's journal"
+        ],
+        "answer": 1,
+        "why": "Treat it as a claim to check."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "What word means total control of the trade in a good?",
+        "accept": [
+          "monopoly"
+        ],
+        "answer": "Monopoly"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "Name the three motives often used to explain the voyages.",
+        "accept": [
+          "gold god glory",
+          "gold, god and glory",
+          "gold god and glory"
+        ],
+        "answer": "Gold, God, Glory"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "What type of sail did the caravel use?",
+        "accept": [
+          "lateen",
+          "lateen sail",
+          "triangular"
+        ],
+        "answer": "Lateen (triangular)"
+      },
+      {
+        "id": "a4",
+        "s": "s3",
+        "q": "Which instrument measured star positions?",
+        "accept": [
+          "astrolabe",
+          "the astrolabe"
+        ],
+        "answer": "Astrolabe"
+      },
+      {
+        "id": "a5",
+        "s": "s1",
+        "q": "Which islands were known as the Spice Islands?",
+        "accept": [
+          "maluku",
+          "moluccas",
+          "the maluku islands",
+          "maluku islands"
+        ],
+        "answer": "The Maluku Islands"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Compass in use in China",
+          "Dias rounds the Cape of Good Hope",
+          "Granada falls",
+          "Columbus sails west",
+          "Treaty of Tordesillas",
+          "Da Gama reaches India"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the motive to an example",
+        "pairs": [
+          [
+            "Gold",
+            "Bypassing Venetian and Arab middlemen"
+          ],
+          [
+            "God",
+            "Spreading Catholic Christianity"
+          ],
+          [
+            "Glory",
+            "Spain and Portugal competing for prestige"
+          ],
+          [
+            "Capability",
+            "Compass, astrolabe and caravel"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Explain why Portugal and Spain wanted a sea route to Asia.",
+        "keywords": [
+          [
+            "middlemen",
+            "venice",
+            "venetian",
+            "arab",
+            "mark-up"
+          ],
+          [
+            "spices",
+            "pepper",
+            "cloves",
+            "nutmeg",
+            "profit"
+          ]
+        ],
+        "model": "Spices reached Europe through Venetian and Arab middlemen who each added a mark-up. A direct sea route would let Portugal and Spain bypass them and take the profit themselves."
+      },
+      {
+        "id": "e2",
+        "s": "s3",
+        "q": "Give precise evidence that European voyages relied on knowledge from beyond Europe.",
+        "keywords": [
+          [
+            "compass",
+            "astrolabe",
+            "pilot",
+            "lateen"
+          ],
+          [
+            "china",
+            "islamic",
+            "arab",
+            "gujarati",
+            "indian ocean"
+          ]
+        ],
+        "model": "The compass came from China, the astrolabe was refined by Islamic astronomers, and da Gama used a local pilot for the final leg to India in 1498."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Spice Islands",
+      "a": "The Maluku Islands in Indonesia: cloves and nutmeg."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Middleman",
+      "a": "A trader who buys from producers and sells on, adding a mark-up."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Monopoly",
+      "a": "Total control of trade in a good."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Peppercorn rent",
+      "a": "A token payment: shows how valuable pepper once was."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Gold, God, Glory",
+      "a": "Economic, religious and political/personal motives."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "End of the Reconquista",
+      "a": "Fall of Granada, January 1492."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Do motives work alone?",
+      "a": "Rarely: one voyage could have all three."
+    },
+    {
+      "id": "f8",
+      "s": "s3",
+      "q": "Compass origin",
+      "a": "China, by about the 11th century."
+    },
+    {
+      "id": "f9",
+      "s": "s3",
+      "q": "Astrolabe",
+      "a": "Refined by Islamic astronomers; measures stars to find latitude."
+    },
+    {
+      "id": "f10",
+      "s": "s3",
+      "q": "Caravel",
+      "a": "Portuguese ship: European hull + lateen sail."
+    },
+    {
+      "id": "f11",
+      "s": "s3",
+      "q": "Ahmad ibn Majid claim",
+      "a": "Disputed: treat as a claim, not a fact."
+    },
+    {
+      "id": "f12",
+      "s": "s3",
+      "q": "Dias",
+      "a": "Rounded the Cape of Good Hope, 1488."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe how spices travelled from Asia to Europe.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe the three motives: Gold, God and Glory.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain why spices were so expensive in Europe.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain how knowledge from beyond Europe made the voyages possible.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge which motive was most important, recognising they overlapped.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge whether \"borrowed knowledge\" changes how significant European voyages were.",
+      "sections": [
+        "s3"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "\"Gold was the main reason Europeans travelled further.\" How far do you agree?",
+        "sections": [
+          "s1",
+          "s2"
+        ],
+        "asks": "Weigh the economic motive against God and Glory, and recognise how they overlapped.",
+        "steps": [
+          "Explain the gold/economic motive with spice evidence.",
+          "Explain at least one other motive with evidence.",
+          "Judge, using a qualifier, and say how they linked."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Precise evidence",
+          "Shows links between motives",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Choosing one motive and ignoring the others",
+          "No evidence"
+        ],
+        "frame": {
+          "full": [
+            "P: Gold was to a large / some extent the main reason because…",
+            "E: For example, spices passed through…",
+            "E: This meant that… However, God / Glory…",
+            "J: Therefore, overall…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 10,
+        "q": "Explain how knowledge from beyond Europe made European voyages possible.",
+        "sections": [
+          "s3"
+        ],
+        "asks": "Explain at least two examples of borrowed knowledge or technology and how each helped.",
+        "steps": [
+          "Choose two examples (compass, astrolabe, pilots, lateen sail).",
+          "Say where each came from.",
+          "Explain how it helped ships sail further."
+        ],
+        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
+        "success": [
+          "Two examples",
+          "Origin of each",
+          "Explains how it helped"
+        ],
+        "mistakes": [
+          "Only saying \"Europeans invented ships\"",
+          "No origins"
+        ],
+        "frame": {
+          "full": [
+            "P: Knowledge from beyond Europe was highly important because…",
+            "E: For example, the compass from China…",
+            "E: This meant that… As a result…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Price and value",
+      "task": "If spices were expensive mainly because of the middlemen, did their price reflect how useful they were, or something else?"
+    },
+    {
+      "id": "t2",
+      "kind": "Too simple?",
+      "task": "Is Gold, God and Glory too simple a model for why people do things? Suggest a better model."
+    },
+    {
+      "id": "t3",
+      "kind": "Significance",
+      "task": "If Europeans depended on Chinese, Islamic and Indian Ocean knowledge, does that change how significant their voyages were, or just how we explain them?"
+    },
+    {
+      "id": "t4",
+      "kind": "Check a claim",
+      "task": "Research the Ahmad ibn Majid story. What evidence would you need to decide whether it is true?"
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: why did Europeans travel further?",
+    "rows": [
+      "Gold",
+      "God",
+      "Glory",
+      "Knowledge and technology"
+    ],
+    "cols": [
+      "Precise evidence",
+      "How it caused voyages",
+      "Links to other factors"
+    ],
+    "judgement": "The most important factor was … because … However …"
+  }
+}

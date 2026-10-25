@@ -1,0 +1,718 @@
+{
+  "id": "y9-ir-2",
+  "course": "y9",
+  "area": "ir",
+  "order": 2,
+  "kt": "Lessons 3–4",
+  "title": "Empire, cotton and the countryside",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "How far was Britain's Industrial Revolution built on the world beyond Britain? And how revolutionary was the Agricultural Revolution that came before it? This topic follows cotton from enslaved labour in the Americas to Lancashire's mills, then returns to the English countryside.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. The revolution behind the revolution",
+        "blocks": [
+          {
+            "p": "A chain connected Britain's industry to the wider world:"
+          },
+          {
+            "ul": [
+              "Enslaved Africans were forced to grow raw cotton on plantations in the Americas.",
+              "Cotton was shipped through British ports such as Liverpool, Bristol and Glasgow, which grew rich on Atlantic trade.",
+              "It was processed into cloth in Lancashire's mills.",
+              "Finished cloth was sold in Britain, Europe and colonial and global markets, generating profits that could be reinvested."
+            ]
+          },
+          {
+            "p": "Profits linked to the slave trade and colonial trade also fed banking, insurance and infrastructure in port cities."
+          },
+          {
+            "p": "This is a genuine debate. The historian Eric Williams argued in \"Capitalism and Slavery\" (1944) that profits from slavery were a crucial engine of British industrial capital. Other historians argue those profits were too small a share of total investment to be the main cause. The most defensible position is that global and domestic factors were interconnected: mills needed slave-grown cotton AND British capital, coal, machines and workers."
+          }
+        ],
+        "terms": [
+          "global commodity network",
+          "enslavement",
+          "merchant",
+          "domestic",
+          "Eric Williams"
+        ],
+        "evidence": [
+          "Eric Williams, \"Capitalism and Slavery\", 1944.",
+          "Liverpool, Bristol and Glasgow grew rich on Atlantic trade."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Revolution in the countryside?",
+        "blocks": [
+          {
+            "p": "Before enclosure, much land was farmed in open strips shared by a village, with common land for grazing and fuel. Enclosure fenced it into larger private fields. Enclosure Acts were especially numerous from the 1760s to the 1830s."
+          },
+          {
+            "ul": [
+              "Jethro Tull's seed drill (1701) sowed seed in straight rows, using seed more efficiently than scattering by hand.",
+              "Viscount \"Turnip\" Townshend popularised four-field crop rotation (wheat, turnips, barley, clover), keeping soil fertile without leaving fields fallow, and providing winter animal feed.",
+              "Robert Bakewell's selective breeding produced larger, faster-maturing sheep and cattle."
+            ]
+          },
+          {
+            "p": "Food production rose, supporting a growing population and freeing workers for industry. But enclosure caused real hardship: smallholders and labourers lost rights to common land, pushing some into poverty, wage labour or migration to towns. A landowner and a labourer might disagree about whether this was a \"revolution\", or progress."
+          }
+        ],
+        "terms": [
+          "enclosure",
+          "selective breeding",
+          "crop rotation",
+          "surplus",
+          "fallow"
+        ],
+        "evidence": [
+          "Seed drill: 1701.",
+          "Enclosure Acts: especially 1760s–1830s."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1701",
+        "event": "Jethro Tull's seed drill."
+      },
+      {
+        "date": "1730s",
+        "event": "Townshend promotes four-field crop rotation."
+      },
+      {
+        "date": "1760s",
+        "event": "Robert Bakewell develops selective breeding; Enclosure Acts multiply."
+      },
+      {
+        "date": "1760s–1830s",
+        "event": "Peak of Parliamentary Enclosure."
+      },
+      {
+        "date": "1807",
+        "event": "Britain abolishes its slave trade."
+      },
+      {
+        "date": "1833",
+        "event": "Slavery is abolished in most of the British Empire."
+      },
+      {
+        "date": "1944",
+        "event": "Eric Williams publishes \"Capitalism and Slavery\"."
+      }
+    ],
+    "people": [
+      {
+        "name": "Eric Williams",
+        "role": "Trinidadian historian (later Prime Minister) who argued slavery profits fuelled British industry (1944)."
+      },
+      {
+        "name": "Jethro Tull",
+        "role": "Invented the seed drill (1701)."
+      },
+      {
+        "name": "Charles \"Turnip\" Townshend",
+        "role": "Promoted four-field crop rotation."
+      },
+      {
+        "name": "Robert Bakewell",
+        "role": "Pioneer of selective breeding of livestock."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Global commodity network",
+        "def": "A chain connecting raw materials, trade and manufacturing across the world."
+      },
+      {
+        "term": "Enslavement",
+        "def": "Forcing people into slavery, denying them freedom and rights."
+      },
+      {
+        "term": "Merchant",
+        "def": "Someone who buys and sells goods, often across long distances."
+      },
+      {
+        "term": "Domestic",
+        "def": "Relating to one's own country."
+      },
+      {
+        "term": "Enclosure",
+        "def": "Fencing common land into privately owned fields."
+      },
+      {
+        "term": "Selective breeding",
+        "def": "Choosing the best animals to breed from."
+      },
+      {
+        "term": "Crop rotation",
+        "def": "Growing different crops in a planned sequence to keep soil fertile."
+      },
+      {
+        "term": "Surplus",
+        "def": "More than is immediately needed."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Slavery caused the Industrial Revolution on its own.",
+        "right": "It was significant but interconnected with domestic factors. Historians debate how much it mattered."
+      },
+      {
+        "wrong": "Slavery had nothing to do with industrialisation.",
+        "right": "Slave-grown cotton fed Lancashire's mills and Atlantic trade profits flowed into British ports."
+      },
+      {
+        "wrong": "Enclosure was good for everyone.",
+        "right": "It raised output but took common rights from many villagers."
+      },
+      {
+        "wrong": "The Agricultural Revolution happened overnight.",
+        "right": "It developed over roughly 1700–1850."
+      }
+    ],
+    "sources": [
+      {
+        "id": "williams",
+        "title": "\"Capitalism and Slavery\" by Eric Williams",
+        "type": "Historian's interpretation (book)",
+        "date": "1944",
+        "origin": "Written by a Trinidadian historian, based on his Oxford doctoral research.",
+        "purpose": "To argue that slavery's profits helped fund British industrialisation, and that economics shaped abolition.",
+        "usefulness": "A landmark interpretation that started the debate. Later historians have challenged parts of the economic argument."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Who grew the raw cotton for Lancashire's mills in the Americas?",
+        "options": [
+          "Free British farmers",
+          "Enslaved Africans on plantations",
+          "Indian weavers",
+          "Factory children"
+        ],
+        "answer": 1,
+        "why": "Slave-grown cotton."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Which port grew rich on Atlantic trade?",
+        "options": [
+          "Liverpool",
+          "Calicut",
+          "Venice",
+          "Hormuz"
+        ],
+        "answer": 0,
+        "why": "Also Bristol and Glasgow."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "What did Eric Williams argue in 1944?",
+        "options": [
+          "Slavery had no link to industry",
+          "Slavery profits were a crucial engine of British industrial capital",
+          "Coal was unimportant",
+          "Enclosure was fair"
+        ],
+        "answer": 1,
+        "why": "The Williams thesis."
+      },
+      {
+        "id": "m4",
+        "s": "s1",
+        "q": "Which is the most defensible historical position?",
+        "options": [
+          "Slavery alone caused industrialisation",
+          "Slavery was irrelevant",
+          "Global and domestic factors were interconnected",
+          "Nobody knows anything"
+        ],
+        "answer": 2,
+        "why": "Avoid both simplifications."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "What did Jethro Tull's seed drill do?",
+        "options": [
+          "Harvested wheat",
+          "Sowed seed in straight rows",
+          "Bred sheep",
+          "Built fences"
+        ],
+        "answer": 1,
+        "why": "1701."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "What did four-field rotation avoid?",
+        "options": [
+          "Using turnips",
+          "Leaving fields fallow",
+          "Growing wheat",
+          "Keeping animals"
+        ],
+        "answer": 1,
+        "why": "Soil stayed fertile."
+      },
+      {
+        "id": "m7",
+        "s": "s2",
+        "q": "Who lost out from enclosure?",
+        "options": [
+          "Large landowners",
+          "Smallholders and labourers who relied on common land",
+          "Factory owners",
+          "Nobody"
+        ],
+        "answer": 1,
+        "why": "They lost traditional rights."
+      },
+      {
+        "id": "m8",
+        "s": "s2",
+        "q": "Robert Bakewell is known for…",
+        "options": [
+          "The steam engine",
+          "Selective breeding",
+          "Cholera research",
+          "The power loom"
+        ],
+        "answer": 1,
+        "why": "Bigger, faster-maturing livestock."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Which historian wrote \"Capitalism and Slavery\"?",
+        "accept": [
+          "eric williams",
+          "williams"
+        ],
+        "answer": "Eric Williams"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "In which year was it published?",
+        "accept": [
+          "1944"
+        ],
+        "answer": "1944"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "What did enclosure fence off?",
+        "accept": [
+          "common land",
+          "open fields",
+          "common land and open fields"
+        ],
+        "answer": "Common land / open fields"
+      },
+      {
+        "id": "a4",
+        "s": "s2",
+        "q": "In which year was the seed drill introduced?",
+        "accept": [
+          "1701"
+        ],
+        "answer": "1701"
+      },
+      {
+        "id": "a5",
+        "s": "s2",
+        "q": "Which root crop gave Townshend his nickname?",
+        "accept": [
+          "turnip",
+          "turnips"
+        ],
+        "answer": "Turnips"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Tull's seed drill",
+          "Townshend promotes crop rotation",
+          "Bakewell's selective breeding",
+          "Britain abolishes its slave trade",
+          "Slavery abolished in most of the Empire",
+          "Williams publishes \"Capitalism and Slavery\""
+        ]
+      },
+      {
+        "id": "c2",
+        "title": "Follow the cotton",
+        "items": [
+          "Enslaved Africans forced to grow cotton in the Americas",
+          "Cotton shipped through Liverpool",
+          "Spun and woven in Lancashire mills",
+          "Cloth sold in colonial and global markets"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the innovator to the change",
+        "pairs": [
+          [
+            "Jethro Tull",
+            "Seed drill"
+          ],
+          [
+            "Charles Townshend",
+            "Four-field crop rotation"
+          ],
+          [
+            "Robert Bakewell",
+            "Selective breeding"
+          ],
+          [
+            "Eric Williams",
+            "Argued slavery funded industry"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Explain the chain connecting enslaved labour to Lancashire's mills.",
+        "keywords": [
+          [
+            "enslaved",
+            "plantation",
+            "cotton"
+          ],
+          [
+            "liverpool",
+            "port",
+            "shipped"
+          ],
+          [
+            "lancashire",
+            "mill",
+            "cloth"
+          ]
+        ],
+        "model": "Enslaved Africans were forced to grow raw cotton on plantations in the Americas; it was shipped through ports such as Liverpool to Lancashire's mills, where it was spun and woven into cloth for sale."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Give evidence that enclosure was both progress and hardship.",
+        "keywords": [
+          [
+            "output",
+            "food",
+            "production",
+            "efficient",
+            "new methods"
+          ],
+          [
+            "common",
+            "rights",
+            "poverty",
+            "labourers",
+            "lost"
+          ]
+        ],
+        "model": "Enclosure made new methods like crop rotation easier, increasing food production, but smallholders lost rights to common land, pushing some into poverty or migration."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Cotton chain",
+      "a": "Enslaved labour (Americas) → British ports → Lancashire mills → global markets."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Atlantic trade ports",
+      "a": "Liverpool, Bristol, Glasgow."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Williams thesis (1944)",
+      "a": "Slavery profits were a crucial engine of British industrial capital."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Critics of Williams",
+      "a": "Argue slave-trade profits were too small a share of total investment to be the main cause."
+    },
+    {
+      "id": "f5",
+      "s": "s1",
+      "q": "Defensible position",
+      "a": "Global and domestic factors were interconnected."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Enclosure",
+      "a": "Fencing common land into private fields."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Seed drill",
+      "a": "Jethro Tull, 1701: seed in straight rows."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Four-field rotation",
+      "a": "Wheat, turnips, barley, clover; no fallow."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Selective breeding",
+      "a": "Robert Bakewell: larger, faster-maturing livestock."
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "Enclosure Acts peak",
+      "a": "1760s–1830s."
+    },
+    {
+      "id": "f11",
+      "s": "s2",
+      "q": "Who lost from enclosure?",
+      "a": "Smallholders and labourers who relied on common land."
+    },
+    {
+      "id": "f12",
+      "s": "s2",
+      "q": "Agricultural Revolution dates",
+      "a": "Roughly 1700–1850."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe the chain linking enslaved labour, cotton and Lancashire's mills.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe the work of Tull, Townshend and Bakewell.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain the debate about slavery and industrialisation.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain how enclosure helped some people and harmed others.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge how far industrialisation depended on the world beyond Britain.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge how revolutionary the Agricultural Revolution was using the four criteria.",
+      "sections": [
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 15,
+        "q": "\"Empire was necessary but not sufficient for British industrialisation.\" How convincing is this argument?",
+        "sections": [
+          "s1"
+        ],
+        "asks": "Weigh global/imperial factors against domestic ones and reach a qualified judgement on the claim.",
+        "steps": [
+          "Explain the global chain with evidence.",
+          "Explain domestic factors.",
+          "Use the historians' debate.",
+          "Judge how convincing the claim is."
+        ],
+        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Precise evidence for both",
+          "Uses the Williams debate",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Saying slavery alone caused it",
+          "Ignoring slavery",
+          "No judgement"
+        ],
+        "model": [
+          {
+            "t": "This argument is largely convincing, because empire and slavery were essential to the cotton industry but could not have created industrialisation alone.",
+            "n": "P: qualified."
+          },
+          {
+            "t": "Lancashire's mills depended on raw cotton grown by enslaved Africans and shipped through Liverpool; Eric Williams (1944) argued these profits were a crucial engine of industrial capital.",
+            "n": "E: precise, uses historian."
+          },
+          {
+            "t": "However, the mills also needed British coal, capital, machines and workers, which meant global cotton only became industrial cloth because of domestic advantages.",
+            "n": "E: explains interconnection."
+          },
+          {
+            "t": "Therefore empire was necessary for the cotton industry, but not sufficient on its own.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: This argument is convincing to a large / some extent because…",
+            "E: For example, cotton… / Williams argued…",
+            "E: This meant that… However, domestic factors…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 15,
+        "q": "Would a landowner and an agricultural labourer agree that the Agricultural Revolution was a revolution? Use the four criteria.",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Compare two perspectives using Scale, Speed, Depth and Duration.",
+        "steps": [
+          "Landowner's view with evidence.",
+          "Labourer's view with evidence.",
+          "Apply at least two criteria and judge."
+        ],
+        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
+        "success": [
+          "Two perspectives",
+          "Criteria named",
+          "Precise evidence",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Only one perspective",
+          "Confusing revolution with progress"
+        ],
+        "frame": {
+          "full": [
+            "P: They would agree it was revolutionary in… but disagree about…",
+            "E: For a landowner, enclosure… / For a labourer…",
+            "E: In terms of depth / speed… this meant that…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Necessary or insufficient?",
+      "task": "\"Empire was necessary but insufficient for industrialisation.\" Write the strongest counterargument you can."
+    },
+    {
+      "id": "t2",
+      "kind": "Two perspectives",
+      "task": "Would a landowner and an agricultural labourer agree that this was a revolution?"
+    },
+    {
+      "id": "t3",
+      "kind": "Historians disagree",
+      "task": "Research one critic of Eric Williams. What evidence do they use?"
+    },
+    {
+      "id": "t4",
+      "kind": "Scoring",
+      "task": "Score the Agricultural Revolution on your Revolution Tracker and justify each score."
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: how global was the Industrial Revolution?",
+    "rows": [
+      "Slave-grown cotton",
+      "Atlantic trade profits",
+      "Colonial markets",
+      "Domestic coal and capital"
+    ],
+    "cols": [
+      "Precise evidence",
+      "How important?",
+      "Links"
+    ],
+    "judgement": "Overall, industrialisation depended on the wider world to a … extent because …"
+  }
+}

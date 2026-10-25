@@ -1,0 +1,693 @@
+{
+  "id": "y9-ir-3",
+  "course": "y9",
+  "area": "ir",
+  "order": 3,
+  "kt": "Lessons 5–6",
+  "title": "Machines, factories and cities",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "The Spinning Jenny, the Water Frame, the power loom and the steam engine moved work from homes into factories, and people from villages into fast-growing cities. Did machines change lives more than anything else? And did industrialisation transform life for everyone?",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. From hand to machine",
+        "blocks": [
+          {
+            "ul": [
+              "James Hargreaves' Spinning Jenny (in use from the mid-1760s, patented 1770) let one worker spin several threads at once.",
+              "Richard Arkwright's Water Frame (1769) used water power to spin stronger thread. It needed a mill by a river: Cromford Mill (1771) was one of the first true factories.",
+              "Edmund Cartwright's power loom (1785) mechanised weaving, but was unreliable at first and took decades to spread: mechanisation was gradual.",
+              "James Watt's improved steam engine (patented 1769, refined in the 1770s–80s) freed factories from rivers, so industry grew in coalfield towns."
+            ]
+          },
+          {
+            "p": "The factory system mattered as much as the machines. Under the \"domestic\" or \"putting-out\" system, people worked at home at their own pace. In factories, machines, clocks, bells and fines set the pace. Some workers earned more, but many lost control over their working lives."
+          }
+        ],
+        "terms": [
+          "mechanisation",
+          "factory system",
+          "domestic system",
+          "textile",
+          "productivity"
+        ],
+        "evidence": [
+          "Water Frame 1769; Cromford Mill 1771; power loom 1785."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. From village to city",
+        "blocks": [
+          {
+            "p": "Manchester grew from around 18,000 people in the 1750s to over 300,000 by 1850, driven by cotton."
+          },
+          {
+            "p": "Push factors (low farm wages, loss of common land after enclosure) and pull factors (factory jobs, often higher wages) drove migration to towns."
+          },
+          {
+            "p": "Growth was unplanned. Working-class families often lived in overcrowded back-to-back houses, sharing an outdoor toilet with many others, with no running water or rubbish removal."
+          },
+          {
+            "p": "Experience depended on class. Middle-class factory owners, merchants and professionals lived in larger homes, enjoyed new shops, theatres and parks, and sometimes moved to suburbs away from pollution. There was no single experience of \"the industrial city\"."
+          }
+        ],
+        "terms": [
+          "urbanisation",
+          "migration",
+          "push and pull factors",
+          "overcrowding",
+          "social class",
+          "back-to-back housing"
+        ],
+        "evidence": [
+          "Manchester: about 18,000 (1750s) → over 300,000 (1850)."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "Mid-1760s",
+        "event": "Hargreaves' Spinning Jenny comes into use."
+      },
+      {
+        "date": "1769",
+        "event": "Arkwright's Water Frame; Watt patents his steam engine."
+      },
+      {
+        "date": "1771",
+        "event": "Cromford Mill opens."
+      },
+      {
+        "date": "1785",
+        "event": "Cartwright's power loom."
+      },
+      {
+        "date": "1750s",
+        "event": "Manchester has around 18,000 people."
+      },
+      {
+        "date": "1850",
+        "event": "Manchester has over 300,000 people."
+      }
+    ],
+    "people": [
+      {
+        "name": "James Hargreaves",
+        "role": "Spinning Jenny (mid-1760s)."
+      },
+      {
+        "name": "Richard Arkwright",
+        "role": "Water Frame (1769) and Cromford Mill (1771)."
+      },
+      {
+        "name": "Edmund Cartwright",
+        "role": "Power loom (1785)."
+      },
+      {
+        "name": "James Watt",
+        "role": "Improved steam engine (patented 1769)."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Mechanisation",
+        "def": "Replacing human or animal labour with machines."
+      },
+      {
+        "term": "Factory system",
+        "def": "Production in one building using machine-powered lines."
+      },
+      {
+        "term": "Domestic system",
+        "def": "Making goods at home, at your own pace."
+      },
+      {
+        "term": "Textile",
+        "def": "Cloth or woven fabric."
+      },
+      {
+        "term": "Productivity",
+        "def": "How much is produced in a given time."
+      },
+      {
+        "term": "Urbanisation",
+        "def": "The growth of towns and cities."
+      },
+      {
+        "term": "Migration",
+        "def": "Moving from one place to live in another."
+      },
+      {
+        "term": "Social class",
+        "def": "A group defined by economic and social position."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Machines spread instantly.",
+        "right": "The power loom took decades to be widely used."
+      },
+      {
+        "wrong": "Factories made every worker better off.",
+        "right": "Some earned more, but many lost control of their time and pace of work."
+      },
+      {
+        "wrong": "Everyone in industrial cities lived in slums.",
+        "right": "Experience differed sharply by class."
+      },
+      {
+        "wrong": "Cities were planned for workers.",
+        "right": "Growth was almost entirely unplanned."
+      }
+    ],
+    "sources": [
+      {
+        "id": "cromford",
+        "title": "Cromford Mill, Derbyshire",
+        "type": "Building and industrial site (physical source)",
+        "date": "Opened 1771",
+        "origin": "Built by Richard Arkwright; now part of the Derwent Valley Mills World Heritage Site.",
+        "purpose": "A water-powered cotton-spinning mill.",
+        "usefulness": "Shows how factories were organised around power and machines. A building alone cannot tell us how workers felt."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What did the Spinning Jenny allow?",
+        "options": [
+          "Weaving by steam",
+          "One worker to spin several threads at once",
+          "Sowing seed in rows",
+          "Pumping water from mines"
+        ],
+        "answer": 1,
+        "why": "Hargreaves, mid-1760s."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Why did the Water Frame lead to factories?",
+        "options": [
+          "It was small enough for homes",
+          "It needed water power, so it was housed in mills by rivers",
+          "It ran on coal",
+          "It was invented in a city"
+        ],
+        "answer": 1,
+        "why": "Cromford Mill, 1771."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "What did Watt's steam engine change?",
+        "options": [
+          "Factories no longer had to be by fast rivers",
+          "Children no longer worked",
+          "Cotton was grown in Britain",
+          "Canals closed"
+        ],
+        "answer": 0,
+        "why": "Industry moved to coalfield towns."
+      },
+      {
+        "id": "m4",
+        "s": "s1",
+        "q": "What does the slow spread of the power loom show?",
+        "options": [
+          "Mechanisation was gradual and uneven",
+          "Nobody wanted cloth",
+          "It was banned",
+          "It was invented in 1900"
+        ],
+        "answer": 0,
+        "why": "Speed varied."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Manchester's population by 1850 was over…",
+        "options": [
+          "18,000",
+          "30,000",
+          "300,000",
+          "3 million"
+        ],
+        "answer": 2,
+        "why": "From about 18,000 in the 1750s."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Which is a PULL factor for moving to towns?",
+        "options": [
+          "Loss of common land",
+          "Low farm wages",
+          "Factory jobs",
+          "Enclosure"
+        ],
+        "answer": 2,
+        "why": "Pull = attraction of the town."
+      },
+      {
+        "id": "m7",
+        "s": "s2",
+        "q": "Back-to-back housing was typically…",
+        "options": [
+          "Spacious and planned",
+          "Overcrowded, with shared outdoor toilets",
+          "Only for factory owners",
+          "In the countryside"
+        ],
+        "answer": 1,
+        "why": "Working-class housing."
+      },
+      {
+        "id": "m8",
+        "s": "s2",
+        "q": "How did middle-class experience differ?",
+        "options": [
+          "They lived in the same housing",
+          "Larger homes, new leisure, sometimes suburbs",
+          "They all worked in mines",
+          "No difference"
+        ],
+        "answer": 1,
+        "why": "Class shaped experience."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Who invented the Water Frame?",
+        "accept": [
+          "arkwright",
+          "richard arkwright"
+        ],
+        "answer": "Richard Arkwright"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "In what year did Cromford Mill open?",
+        "accept": [
+          "1771"
+        ],
+        "answer": "1771"
+      },
+      {
+        "id": "a3",
+        "s": "s1",
+        "q": "Who invented the power loom?",
+        "accept": [
+          "cartwright",
+          "edmund cartwright"
+        ],
+        "answer": "Edmund Cartwright"
+      },
+      {
+        "id": "a4",
+        "s": "s2",
+        "q": "What word means the growth of towns and cities?",
+        "accept": [
+          "urbanisation",
+          "urbanization"
+        ],
+        "answer": "Urbanisation"
+      },
+      {
+        "id": "a5",
+        "s": "s2",
+        "q": "Which city grew to over 300,000 by 1850 on cotton?",
+        "accept": [
+          "manchester"
+        ],
+        "answer": "Manchester"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Spinning Jenny in use",
+          "Water Frame and Watt's patent",
+          "Cromford Mill opens",
+          "Power loom invented"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match inventor to invention",
+        "pairs": [
+          [
+            "James Hargreaves",
+            "Spinning Jenny"
+          ],
+          [
+            "Richard Arkwright",
+            "Water Frame"
+          ],
+          [
+            "Edmund Cartwright",
+            "Power loom"
+          ],
+          [
+            "James Watt",
+            "Improved steam engine"
+          ]
+        ]
+      },
+      {
+        "id": "x2",
+        "title": "Push or pull?",
+        "pairs": [
+          [
+            "Factory jobs",
+            "Pull: work available in towns"
+          ],
+          [
+            "Loss of common land",
+            "Push: lost rights in the village"
+          ],
+          [
+            "Higher wages",
+            "Pull: more money (often)"
+          ],
+          [
+            "Low farm wages",
+            "Push: poor rural pay"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Explain how the factory system changed the experience of work.",
+        "keywords": [
+          [
+            "home",
+            "domestic",
+            "own pace",
+            "putting-out"
+          ],
+          [
+            "clock",
+            "bell",
+            "fines",
+            "machines set",
+            "discipline",
+            "pace"
+          ]
+        ],
+        "model": "Under the domestic system people worked at home at their own pace; in factories, machines, clocks, bells and fines set the pace, so workers lost control over their time."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Give precise evidence that urbanisation was rapid but affected classes differently.",
+        "keywords": [
+          [
+            "manchester",
+            "18,000",
+            "300,000"
+          ],
+          [
+            "back-to-back",
+            "overcrowded",
+            "middle class",
+            "suburbs",
+            "class"
+          ]
+        ],
+        "model": "Manchester grew from about 18,000 in the 1750s to over 300,000 by 1850; working-class families crowded into back-to-backs while middle-class families had larger homes and moved to suburbs."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Spinning Jenny",
+      "a": "Hargreaves, mid-1760s: several threads at once."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Water Frame",
+      "a": "Arkwright, 1769: water-powered, stronger thread."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Cromford Mill",
+      "a": "1771: one of the first true factories."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Power loom",
+      "a": "Cartwright, 1785: slow to spread."
+    },
+    {
+      "id": "f5",
+      "s": "s1",
+      "q": "Watt's steam engine",
+      "a": "Patented 1769: freed factories from rivers."
+    },
+    {
+      "id": "f6",
+      "s": "s1",
+      "q": "Domestic system",
+      "a": "Work at home at your own pace."
+    },
+    {
+      "id": "f7",
+      "s": "s1",
+      "q": "Factory discipline",
+      "a": "Clocks, bells, fines; machines set the pace."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Manchester growth",
+      "a": "About 18,000 (1750s) → over 300,000 (1850)."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Push factors",
+      "a": "Low farm wages, loss of common land."
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "Pull factors",
+      "a": "Factory jobs, often higher wages."
+    },
+    {
+      "id": "f11",
+      "s": "s2",
+      "q": "Back-to-backs",
+      "a": "Overcrowded working-class housing with shared toilets."
+    },
+    {
+      "id": "f12",
+      "s": "s2",
+      "q": "Class difference",
+      "a": "Middle class: larger homes, leisure, suburbs."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe four key textile and power inventions.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe how Manchester grew.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain how the factory system changed work.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain push and pull factors for migration.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge whether machines changed lives more than anything else.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge whether industrialisation transformed life for everyone.",
+      "sections": [
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 15,
+        "q": "\"Machines changed people's lives more than anything else during the Industrial Revolution.\" How far do you agree?",
+        "sections": [
+          "s1",
+          "s2"
+        ],
+        "asks": "Weigh machines against the factory system and urbanisation, using the four criteria.",
+        "steps": [
+          "Explain the impact of machines with evidence.",
+          "Explain another change (factory system or urbanisation).",
+          "Use at least two criteria to judge."
+        ],
+        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Precise evidence",
+          "Criteria named",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Listing inventions",
+          "No criteria"
+        ],
+        "frame": {
+          "full": [
+            "P: Machines changed lives to a large / some extent, but…",
+            "E: For example, the Water Frame (1769)…",
+            "E: In terms of depth / scale, this meant that… However, urbanisation…",
+            "J: Therefore, the biggest change was…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 15,
+        "q": "Did industrialisation transform life for everyone?",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Compare working-class and middle-class experiences of industrial cities and judge.",
+        "steps": [
+          "Working-class experience with evidence.",
+          "Middle-class experience with evidence.",
+          "Judge: transformed for whom, and how?"
+        ],
+        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
+        "success": [
+          "Two classes compared",
+          "Precise evidence",
+          "Judgement about \"everyone\""
+        ],
+        "mistakes": [
+          "One single story of the city",
+          "No evidence"
+        ],
+        "frame": {
+          "full": [
+            "P: Industrialisation transformed life for most people, but not in the same way…",
+            "E: For working-class families… whereas middle-class families…",
+            "E: This meant that…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Productivity",
+      "task": "Does increased productivity necessarily mean progress?"
+    },
+    {
+      "id": "t2",
+      "kind": "Living standards",
+      "task": "Can historians call industrialisation progress if living standards fell for some people at first?"
+    },
+    {
+      "id": "t3",
+      "kind": "Living graph",
+      "task": "Plot how a hand-loom weaver's life changed from 1770 to 1840 on a living graph, annotating each turning point."
+    },
+    {
+      "id": "t4",
+      "kind": "Tracker",
+      "task": "Score mechanisation and urbanisation on your Revolution Tracker. Which scores higher on Depth, and why?"
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: did machines matter most?",
+    "rows": [
+      "Machines",
+      "Factory system",
+      "Urbanisation"
+    ],
+    "cols": [
+      "Scale",
+      "Speed",
+      "Depth",
+      "Duration",
+      "Evidence"
+    ],
+    "judgement": "The biggest change to people's lives was … because …"
+  }
+}

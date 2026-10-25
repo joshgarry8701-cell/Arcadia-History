@@ -1,0 +1,795 @@
+{
+  "id": "y9-ww-1",
+  "course": "y9",
+  "area": "ww1",
+  "order": 6,
+  "kt": "Long-term causes",
+  "title": "M.A.I.N.: militarism, alliances, imperialism, nationalism",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Why did Europe go to war in 1914? Historians usually start with four long-term causes, remembered as M.A.I.N.: Militarism, Alliances, Imperialism and Nationalism. Each built tension over decades. Your job is to explain how they linked, and to judge which mattered most.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Militarism",
+        "blocks": [
+          {
+            "p": "Militarism is the belief that a country should build up strong armed forces and be ready to use them. The Great Powers spent heavily on armies and navies before 1914."
+          },
+          {
+            "ul": [
+              "The naval race: Germany's Navy Laws (1898 and 1900) aimed to build a fleet to rival Britain's. Britain launched HMS Dreadnought in 1906, a battleship so advanced it made older ships out of date, and both countries raced to build more. In 1909 the British public demanded \"We want eight and we won't wait\".",
+              "Huge armies: France, Germany, Russia and Austria-Hungary relied on conscription, so millions of men could be mobilised quickly.",
+              "War plans: Germany's Schlieffen Plan (drawn up around 1905) planned to defeat France quickly by going through Belgium before turning on Russia. Plans like this meant that once mobilisation started, it was hard to stop."
+            ]
+          },
+          {
+            "p": "Militarism increased fear and suspicion, and it made generals' timetables part of political decisions in July 1914."
+          }
+        ],
+        "terms": [
+          "militarism",
+          "arms race",
+          "Dreadnought",
+          "conscription",
+          "mobilisation",
+          "Schlieffen Plan"
+        ],
+        "evidence": [
+          "HMS Dreadnought launched 1906.",
+          "German Navy Laws 1898 and 1900.",
+          "Schlieffen Plan: around 1905."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Alliances",
+        "blocks": [
+          {
+            "p": "By 1914 Europe was divided into two armed camps:"
+          },
+          {
+            "ul": [
+              "The Triple Alliance (1882): Germany, Austria-Hungary and Italy.",
+              "The Triple Entente: France and Russia allied in 1894; Britain and France signed the Entente Cordiale in 1904; Britain and Russia reached agreement in 1907."
+            ]
+          },
+          {
+            "p": "Alliances were meant to deter attack, but they could turn a local quarrel into a wider war, because a conflict involving one member could pull in its partners. Britain's ententes were friendly understandings rather than firm promises to fight; Britain's decision in August 1914 was strongly shaped by Germany invading Belgium, whose neutrality Britain had guaranteed in the Treaty of London (1839)."
+          },
+          {
+            "p": "Italy did not join its allies in 1914, and entered the war in 1915 on the Entente side. That shows alliances did not automatically decide what countries did."
+          }
+        ],
+        "terms": [
+          "alliance",
+          "Triple Alliance",
+          "Triple Entente",
+          "Entente Cordiale",
+          "Treaty of London (1839)"
+        ],
+        "evidence": [
+          "Triple Alliance 1882.",
+          "Franco-Russian Alliance 1894; Entente Cordiale 1904; Anglo-Russian Entente 1907."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Imperialism",
+        "blocks": [
+          {
+            "p": "Imperialism is when a powerful country builds an empire by taking control of other lands. By 1914 Britain had the largest empire in the world, and France also had a vast empire."
+          },
+          {
+            "p": "In the \"Scramble for Africa\", European powers divided almost the whole continent between them, agreeing rules at the Berlin Conference (1884–85). Africans resisted, but by 1914 only Ethiopia and Liberia remained independent."
+          },
+          {
+            "p": "Germany, united only in 1871, wanted its own empire. Under Kaiser Wilhelm II's Weltpolitik (\"world policy\"), it demanded \"a place in the sun\". Rivalry over Morocco led to two crises, in 1905 (Tangier) and 1911 (Agadir). Both times Britain backed France, which brought them closer and increased German fears of being \"encircled\"."
+          }
+        ],
+        "terms": [
+          "imperialism",
+          "empire",
+          "Scramble for Africa",
+          "Weltpolitik",
+          "Moroccan Crises"
+        ],
+        "evidence": [
+          "Berlin Conference 1884–85.",
+          "Moroccan Crises 1905 and 1911."
+        ]
+      },
+      {
+        "id": "s4",
+        "title": "4. Nationalism",
+        "blocks": [
+          {
+            "p": "Nationalism is a strong pride in your nation, and often the belief that each nation should rule itself."
+          },
+          {
+            "ul": [
+              "In the Balkans, Serbian nationalists wanted to unite South Slav peoples, including those ruled by Austria-Hungary. Russia supported Slavs (Pan-Slavism).",
+              "In 1908 Austria-Hungary annexed Bosnia-Herzegovina, angering Serbia and Russia (the Bosnian Crisis).",
+              "The Balkan Wars (1912–13) made Serbia larger and more confident, alarming Austria-Hungary.",
+              "The Black Hand, a secret Serbian nationalist society founded in 1911, used violence to pursue its aims.",
+              "In France, many wanted to recover Alsace-Lorraine, lost to Germany in 1871."
+            ]
+          },
+          {
+            "p": "Nationalism also meant that, in 1914, many people in every country supported going to war."
+          }
+        ],
+        "terms": [
+          "nationalism",
+          "Balkans",
+          "Pan-Slavism",
+          "Bosnian Crisis",
+          "Black Hand",
+          "Alsace-Lorraine"
+        ],
+        "evidence": [
+          "Bosnian Crisis 1908; Balkan Wars 1912–13; Black Hand founded 1911."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1871",
+        "event": "Germany unifies and takes Alsace-Lorraine from France."
+      },
+      {
+        "date": "1882",
+        "event": "The Triple Alliance: Germany, Austria-Hungary and Italy."
+      },
+      {
+        "date": "1884–85",
+        "event": "The Berlin Conference sets rules for the Scramble for Africa."
+      },
+      {
+        "date": "1894",
+        "event": "France and Russia form an alliance."
+      },
+      {
+        "date": "1898",
+        "event": "Germany's first Navy Law."
+      },
+      {
+        "date": "1904",
+        "event": "Britain and France sign the Entente Cordiale."
+      },
+      {
+        "date": "1905",
+        "event": "First Moroccan Crisis (Tangier)."
+      },
+      {
+        "date": "1906",
+        "event": "Britain launches HMS Dreadnought."
+      },
+      {
+        "date": "1907",
+        "event": "Britain and Russia reach agreement: the Triple Entente is complete."
+      },
+      {
+        "date": "1908",
+        "event": "Austria-Hungary annexes Bosnia-Herzegovina."
+      },
+      {
+        "date": "1911",
+        "event": "Second Moroccan Crisis (Agadir); the Black Hand is founded."
+      },
+      {
+        "date": "1912–13",
+        "event": "The Balkan Wars."
+      }
+    ],
+    "people": [
+      {
+        "name": "Kaiser Wilhelm II",
+        "role": "German emperor (1888–1918); pursued Weltpolitik and naval expansion."
+      },
+      {
+        "name": "Alfred von Tirpitz",
+        "role": "German admiral behind the Navy Laws."
+      },
+      {
+        "name": "Alfred von Schlieffen",
+        "role": "German general whose plan aimed to defeat France quickly through Belgium."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Militarism",
+        "def": "Building up strong armed forces and being ready to use them."
+      },
+      {
+        "term": "Alliance",
+        "def": "An agreement between countries to support each other."
+      },
+      {
+        "term": "Imperialism",
+        "def": "Building an empire by taking control of other lands."
+      },
+      {
+        "term": "Nationalism",
+        "def": "Strong pride in your nation; belief that a nation should rule itself."
+      },
+      {
+        "term": "Arms race",
+        "def": "Countries competing to build more and better weapons."
+      },
+      {
+        "term": "Conscription",
+        "def": "Compulsory military service."
+      },
+      {
+        "term": "Mobilisation",
+        "def": "Getting armed forces ready for war."
+      },
+      {
+        "term": "Entente",
+        "def": "A friendly understanding between countries, weaker than a full alliance."
+      },
+      {
+        "term": "Weltpolitik",
+        "def": "Germany's \"world policy\" to gain empire and influence."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Alliances forced every country into war automatically.",
+        "right": "Italy stayed out in 1914, and Britain's entente did not oblige it to fight. Choices still mattered."
+      },
+      {
+        "wrong": "One cause explains the war.",
+        "right": "The four causes interacted, and the trigger set them off."
+      },
+      {
+        "wrong": "Britain went to war only because of its alliance with France.",
+        "right": "The German invasion of Belgium, whose neutrality Britain had guaranteed, was decisive."
+      },
+      {
+        "wrong": "Imperialism was only about Africa and Asia.",
+        "right": "Imperial rivalry also increased tension between European powers themselves, as in Morocco."
+      }
+    ],
+    "sources": []
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Which ship, launched in 1906, began a new stage of the naval race?",
+        "options": [
+          "HMS Victory",
+          "HMS Dreadnought",
+          "Titanic",
+          "Bismarck"
+        ],
+        "answer": 1,
+        "why": "It made older battleships out of date."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "The Schlieffen Plan aimed to…",
+        "options": [
+          "Invade Britain first",
+          "Defeat France quickly through Belgium, then turn on Russia",
+          "Avoid war",
+          "Defend Austria"
+        ],
+        "answer": 1,
+        "why": "Speed against France."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Which countries formed the Triple Alliance (1882)?",
+        "options": [
+          "Britain, France, Russia",
+          "Germany, Austria-Hungary, Italy",
+          "Germany, Russia, Serbia",
+          "France, Italy, Britain"
+        ],
+        "answer": 1,
+        "why": "Triple Alliance."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "In which year did Britain and France sign the Entente Cordiale?",
+        "options": [
+          "1882",
+          "1894",
+          "1904",
+          "1914"
+        ],
+        "answer": 2,
+        "why": "1904."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Which treaty guaranteed Belgian neutrality?",
+        "options": [
+          "Treaty of Versailles",
+          "Treaty of London (1839)",
+          "Treaty of Berlin",
+          "Entente Cordiale"
+        ],
+        "answer": 1,
+        "why": "Key to Britain's decision."
+      },
+      {
+        "id": "m6",
+        "s": "s3",
+        "q": "What was Weltpolitik?",
+        "options": [
+          "A French alliance",
+          "Germany's \"world policy\" to gain empire and influence",
+          "A British warship",
+          "A Serbian society"
+        ],
+        "answer": 1,
+        "why": "Wilhelm II's policy."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "The Moroccan Crises of 1905 and 1911 led to…",
+        "options": [
+          "Germany and Britain becoming allies",
+          "Britain backing France, increasing German fears of encirclement",
+          "Morocco joining the Triple Alliance",
+          "Immediate war"
+        ],
+        "answer": 1,
+        "why": "Entente strengthened."
+      },
+      {
+        "id": "m8",
+        "s": "s4",
+        "q": "What did Austria-Hungary do in 1908 that angered Serbia and Russia?",
+        "options": [
+          "Invaded Serbia",
+          "Annexed Bosnia-Herzegovina",
+          "Joined the Entente",
+          "Built a navy"
+        ],
+        "answer": 1,
+        "why": "The Bosnian Crisis."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "What does the M in M.A.I.N. stand for?",
+        "accept": [
+          "militarism"
+        ],
+        "answer": "Militarism"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "Which three countries made up the Triple Entente?",
+        "accept": [
+          "britain france russia",
+          "britain, france and russia",
+          "france russia britain",
+          "britain, france, russia"
+        ],
+        "answer": "Britain, France and Russia"
+      },
+      {
+        "id": "a3",
+        "s": "s4",
+        "q": "Which secret Serbian nationalist society was founded in 1911?",
+        "accept": [
+          "black hand",
+          "the black hand"
+        ],
+        "answer": "The Black Hand"
+      },
+      {
+        "id": "a4",
+        "s": "s4",
+        "q": "Which region did France lose to Germany in 1871?",
+        "accept": [
+          "alsace-lorraine",
+          "alsace lorraine",
+          "alsace and lorraine"
+        ],
+        "answer": "Alsace-Lorraine"
+      },
+      {
+        "id": "a5",
+        "s": "s3",
+        "q": "Which conference set rules for the Scramble for Africa?",
+        "accept": [
+          "berlin conference",
+          "berlin",
+          "the berlin conference"
+        ],
+        "answer": "The Berlin Conference (1884–85)"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Germany unifies, takes Alsace-Lorraine",
+          "Triple Alliance",
+          "Franco-Russian Alliance",
+          "Entente Cordiale",
+          "HMS Dreadnought launched",
+          "Bosnian Crisis",
+          "Agadir Crisis",
+          "Balkan Wars"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the cause to the evidence",
+        "pairs": [
+          [
+            "Militarism",
+            "The Anglo-German naval race"
+          ],
+          [
+            "Alliances",
+            "Triple Alliance vs Triple Entente"
+          ],
+          [
+            "Imperialism",
+            "Moroccan Crises, 1905 and 1911"
+          ],
+          [
+            "Nationalism",
+            "The Black Hand and the Bosnian Crisis"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Give precise evidence of militarism before 1914.",
+        "keywords": [
+          [
+            "dreadnought",
+            "navy law",
+            "naval race",
+            "schlieffen",
+            "conscription"
+          ],
+          [
+            "1906",
+            "1898",
+            "1900",
+            "1905",
+            "1909"
+          ]
+        ],
+        "model": "Germany's Navy Laws of 1898 and 1900 led to a naval race with Britain, which launched HMS Dreadnought in 1906."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Explain how the alliance system could turn a local conflict into a European war.",
+        "keywords": [
+          [
+            "alliance",
+            "entente",
+            "partners",
+            "allies"
+          ],
+          [
+            "austria",
+            "serbia",
+            "russia",
+            "germany",
+            "local",
+            "pulled in"
+          ]
+        ],
+        "model": "A quarrel between Austria-Hungary and Serbia could pull in Russia as Serbia's supporter, then Germany as Austria-Hungary's ally, and then France as Russia's ally."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Militarism",
+      "a": "Building strong armed forces and being ready to use them."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "HMS Dreadnought",
+      "a": "British battleship launched 1906."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Schlieffen Plan",
+      "a": "German plan to beat France quickly via Belgium, then face Russia."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "Triple Alliance",
+      "a": "Germany, Austria-Hungary, Italy (1882)."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Triple Entente",
+      "a": "Britain, France, Russia (complete by 1907)."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Entente Cordiale",
+      "a": "Britain–France, 1904."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Treaty of London 1839",
+      "a": "Guaranteed Belgian neutrality."
+    },
+    {
+      "id": "f8",
+      "s": "s3",
+      "q": "Imperialism",
+      "a": "Building an empire by controlling other lands."
+    },
+    {
+      "id": "f9",
+      "s": "s3",
+      "q": "Weltpolitik",
+      "a": "Germany's \"world policy\": a place in the sun."
+    },
+    {
+      "id": "f10",
+      "s": "s3",
+      "q": "Moroccan Crises",
+      "a": "1905 (Tangier) and 1911 (Agadir)."
+    },
+    {
+      "id": "f11",
+      "s": "s4",
+      "q": "Bosnian Crisis",
+      "a": "1908: Austria-Hungary annexes Bosnia-Herzegovina."
+    },
+    {
+      "id": "f12",
+      "s": "s4",
+      "q": "Black Hand",
+      "a": "Secret Serbian nationalist society, founded 1911."
+    },
+    {
+      "id": "f13",
+      "s": "s4",
+      "q": "Alsace-Lorraine",
+      "a": "Lost by France to Germany in 1871."
+    },
+    {
+      "id": "f14",
+      "s": "s4",
+      "q": "Balkan Wars",
+      "a": "1912–13: Serbia grows stronger."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe each of the four M.A.I.N. causes with evidence.",
+      "sections": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe the two alliance blocs and when they formed.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain how the naval race increased tension.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain how imperial rivalry drew Britain and France together.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "explain",
+      "text": "I can explain why the Balkans were so dangerous.",
+      "sections": [
+        "s4"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge which long-term cause was most important.",
+      "sections": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "describe",
+        "minutes": 5,
+        "q": "Describe two features of the alliance system in 1914. (4 marks)",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Two accurate features, each with a supporting detail.",
+        "steps": [
+          "Name the two blocs with members and dates.",
+          "Add a detail for each (e.g. what an entente was)."
+        ],
+        "plan": "1 minute planning, 3 minutes writing, 1 minute checking.",
+        "success": [
+          "Two features",
+          "Accurate members and dates"
+        ],
+        "mistakes": [
+          "Mixing up which countries were in which bloc",
+          "Explaining causes of the war instead"
+        ],
+        "frame": {
+          "full": [
+            "One feature was… For example…",
+            "A second feature was… For example…"
+          ],
+          "some": [
+            "Feature + detail",
+            "Feature + detail"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 20,
+        "q": "\"Militarism was the main long-term cause of the First World War.\" How far do you agree? (16 marks)",
+        "sections": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ],
+        "asks": "Weigh militarism against alliances, imperialism and nationalism, explain how they linked, and reach a judgement.",
+        "steps": [
+          "Explain militarism with precise evidence.",
+          "Explain at least two other causes with evidence.",
+          "Show links between causes.",
+          "Judge which mattered most, using a qualifier."
+        ],
+        "plan": "3 minutes planning (use the grid), 15 minutes writing, 2 minutes checking.",
+        "success": [
+          "Qualified judgement",
+          "Precise evidence for several causes",
+          "Links between causes",
+          "Clear conclusion"
+        ],
+        "mistakes": [
+          "Describing all four causes without judging",
+          "No dates",
+          "Forgetting the trigger and the July Crisis"
+        ],
+        "model": [
+          {
+            "t": "Militarism was a highly important long-term cause, but to a large extent it mattered because of the alliance system.",
+            "n": "P: qualified."
+          },
+          {
+            "t": "The naval race, from Germany's Navy Laws of 1898 and 1900 to HMS Dreadnought in 1906, made Britain see Germany as a threat, and the Schlieffen Plan meant a war with Russia would also be a war with France through Belgium.",
+            "n": "E: precise."
+          },
+          {
+            "t": "This meant that once mobilisation began in July 1914, military timetables and alliance commitments turned a Balkan crisis into a European war.",
+            "n": "E: explains links."
+          },
+          {
+            "t": "Therefore militarism was not the main cause on its own; it was most dangerous when combined with alliances and Balkan nationalism.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: Militarism was the main cause to a large / some extent because…",
+            "E: For example, the naval race… / the Schlieffen Plan…",
+            "E: This meant that… However, alliances / nationalism…",
+            "J: Therefore, overall the most important long-term cause was…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Linking causes",
+      "task": "Draw a diagram linking all four M.A.I.N. causes. Which link was the most dangerous, and why?"
+    },
+    {
+      "id": "t2",
+      "kind": "Deterrence",
+      "task": "Alliances were meant to prevent war. Why did they fail in 1914?"
+    },
+    {
+      "id": "t3",
+      "kind": "Historians disagree",
+      "task": "Fritz Fischer (1961) blamed German ambitions; Christopher Clark (2012) argued many leaders \"sleepwalked\" into war. Which view does the evidence support more?"
+    },
+    {
+      "id": "t4",
+      "kind": "Missing letter",
+      "task": "Is M.A.I.N. missing anything? Make the case for adding a fifth cause."
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: which long-term cause mattered most?",
+    "rows": [
+      "Militarism",
+      "Alliances",
+      "Imperialism",
+      "Nationalism"
+    ],
+    "cols": [
+      "Precise evidence",
+      "How it increased tension",
+      "Link to another cause"
+    ],
+    "judgement": "The most important long-term cause was … because … This meant that …"
+  }
+}

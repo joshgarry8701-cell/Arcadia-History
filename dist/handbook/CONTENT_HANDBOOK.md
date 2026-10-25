@@ -1,6 +1,6 @@
 # Mr Garry's History Revision Hub — Content Handbook
 
-Arcadia British School Dubai · generated 2026-10-25 · 7 courses · 39 topics
+Arcadia British School Dubai · generated 2026-10-25 · 7 courses · 59 topics
 
 Everything the site teaches, in one document: exam structures, assessment objectives, question-type guides, mark-scheme levels, examiner-report advice, writing frames (sentence starters), annotated models, and for every topic the Learn notes, timeline, key people, vocabulary, misconceptions, quizzes, flashcards, checklist, exam questions and stretch tasks.
 
@@ -8,24 +8,26 @@ Everything the site teaches, in one document: exam structures, assessment object
 
 ## Contents
 
-- [Year 7: The Norman Conquest](#y7)
-- [Year 8: African migration to England](#y8)
-- [Year 9: Causes of the First World War](#y9)
+- [Year 7: What is History? and the Norman Conquest](#y7)
+- [Year 8: Explorers, Encounters and Black Tudors](#y8)
+- [Year 9: The Industrial Revolution and the causes of the First World War](#y9)
 - [Year 10: International GCSE History — Paper 1 Depth Studies](#y10)
 - [Year 11: International GCSE History — Paper 2 Investigation and Breadth Study](#y11)
 - [Year 12: International A Level History — Germany and China](#y12)
 - [Year 13: International A Level History — Civil Rights and Superpowers](#y13)
 
 <a id="y7"></a>
-## Year 7: The Norman Conquest
+## Year 7: What is History? and the Norman Conquest
 
-*Why did William win the Battle of Hastings?*
+*How do historians find out what really happened in the past?*
 
-**Assessment:** KS3 department criteria — criteria not yet supplied, so AI feedback is formative only. Department KS3 assessment criteria not yet uploaded. Practice questions are teacher-created drafts; AI feedback is formative only (no marks) until criteria are added in the Teacher area.
+**Assessment:** KS3 department criteria — criteria not yet supplied, so AI feedback is formative only. Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added.
 
-#### Why did William win the Battle of Hastings?
+### The Norman Conquest — Autumn 2
 
-`y7-hastings`
+#### Autumn 2: Why did William win the Battle of Hastings?
+
+`y7-hastings` · The Norman Conquest
 
 In 1066 England had three different kings in one year. This topic follows how William, Duke of Normandy, ended the year wearing the crown — and asks you to decide why he won.
 
@@ -443,23 +445,4228 @@ William was crowned in Westminster Abbey on Christmas Day, 25 December 1066. It 
 - **Source evaluation:** The Bayeux Tapestry and the Anglo-Saxon Chronicle tell different stories about 1066. Using their origin and purpose, explain why they might disagree and which you would trust more for each of: Harold's oath; the course of the battle.
 - **Change and continuity:** After Hastings, the Witan still chose Edgar Ætheling. What does this tell us about how much changed on 14 October, and how much stayed the same until Christmas?
 
+### What is History? How do historians find out what really happened in the past? — Autumn 1
+
+#### Lessons 1–2: Thinking like a historian: sources and evidence
+
+`y7-sk-1` · What is History? How do historians find out what really happened in the past?
+
+The past is everything that has already happened. History is what historians build when they investigate it. This topic shows you how: by asking questions of sources, making careful inferences, and checking who made a source, when and why.
+
+##### 1. The past and History are not the same thing
+
+The past happened once and is gone. We cannot visit it. History is the account people construct afterwards by investigating what survives: objects, documents, pictures, buildings and memories.
+
+That is why two historians can know the same facts and still disagree. They may ask different questions, give different evidence more weight, or explain it differently. An account of the past made later is called an interpretation.
+
+Thinking like a historian means asking: What happened? How do we know? How sure can we be? Over this unit you build a Historian's Toolkit of ideas: evidence, chronology, enquiry, cause and consequence, perspective, ethics, significance, change and continuity, and argument.
+
+*Key terms:* past, History, historian, interpretation, Historian's Toolkit
+
+*Precise evidence:*
+- The past = what happened. History = how we investigate and explain it.
+- An interpretation is a later account or explanation of the past.
+
+##### 2. Sources and evidence
+
+A source is anything that gives us information about the past. Historians often sort sources into four kinds:
+
+- Written: letters, diaries, newspapers, laws, official records.
+- Visual: photographs, paintings, maps, cartoons.
+- Oral: memories passed on by speaking, such as an interview with a grandparent or traditions passed down through a community.
+- Physical: objects and buildings, like pottery, coins, tools or a fort.
+
+A source only becomes evidence when a historian uses it to answer a question. The same photograph of Dubai Creek could be evidence about boats, about trade, or about what people wore, depending on the question.
+
+There is no single "best" type of source. It depends on what the historian wants to find out. Oral history matters especially where few written records survive.
+
+*Key terms:* source, evidence, written, visual, oral, physical
+
+*Precise evidence:*
+- A source becomes evidence when it is used to answer a question.
+- The best type of source depends on the question being asked.
+
+##### 3. Inference and provenance
+
+An inference is a conclusion you reach from evidence, rather than something the source states directly. Historians move step by step: SOURCE → QUESTION → EVIDENCE → INFERENCE. A useful sentence pattern is: "I can see… This suggests… Therefore I can infer…"
+
+Provenance means who made a source, when, where and why. It shapes what a source can tell us. A foreign visitor describing Dubai in the mid-20th century might notice things locals took for granted but miss things only locals understood. An Emirati recalling childhood decades later remembers from the inside, but memory can change over time. An official record may be precise but only cover what officials cared about.
+
+A biased source is not useless. It may be excellent evidence of what its maker believed or wanted others to believe. The question is always: reliable for what? Historians check one source against others. This is called corroboration.
+
+*Key terms:* inference, provenance, bias, reliability, corroboration
+
+*Precise evidence:*
+- I can see → this suggests → therefore I can infer.
+- Provenance = who, when, where, why.
+- Ask "reliable for what?", not just "reliable or unreliable?"
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| c. 3000 BCE | Bronze Age communities live at Hili, near Al Ain. Archaeologists study their tombs and settlement remains. |
+| c. 1787 | Al Fahidi Fort is built in Dubai. It is often described as the oldest surviving building in the city. |
+| 1833 | Members of the Bani Yas, led by the Al Maktoum family, settle at Dubai. |
+| Late 1940s | The explorer Wilfred Thesiger photographs life in the region, including Dubai. His photographs are now held in museum collections. |
+| 1966 | Oil is discovered offshore in Dubai. |
+| 1971 | The United Arab Emirates is formed on 2 December. |
+| 2002 | The Iron Age site of Saruq Al Hadid is discovered in the desert near Dubai. |
+
+**Key people**
+
+- **Wilfred Thesiger** — British explorer who travelled in Arabia in the 1940s. His photographs are an outsider's visual record of the region.
+- **You, the historian** — Every source needs someone to ask it a good question.
+
+**Vocabulary**
+
+- **Past** — Everything that has already happened.
+- **History** — How we investigate and construct accounts of the past.
+- **Historian** — Someone who investigates the past.
+- **Interpretation** — A later explanation or account of the past.
+- **Source** — Something that gives us information about the past.
+- **Evidence** — Information from a source used to answer a question.
+- **Inference** — A conclusion based on evidence, not just what is stated.
+- **Provenance** — Who created a source, when, where and why.
+- **Corroboration** — Checking a source against other sources to see if they agree.
+- **Bias** — A one-sided view that favours one side or idea.
+
+**Misconceptions**
+
+- ✗ History is just remembering facts. → ✓ History is investigating the past and building an argument from evidence. Facts matter, but historians also ask how we know and how sure we can be.
+- ✗ A biased source is useless. → ✓ A biased source can be very useful, for example as evidence of what someone believed. Always ask "useful for what?"
+- ✗ An inference is just repeating what the source says. → ✓ An inference goes beyond the words or picture: it is what the evidence suggests.
+- ✗ Older sources are always more reliable. → ✓ Age does not make a source reliable. Provenance and the question you are asking matter more.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. What is the difference between "the past" and "History"? They mean exactly the same thing / **The past is what happened; History is how we investigate and explain it** / History is only about kings and wars / The past is only about the last 100 years — *History is constructed by investigating the past.*
+2. What is an interpretation? A source made at the time / **A later explanation or account of the past** / A date on a timeline / An object found by archaeologists — *Interpretations are made after the event.*
+3. Which of these is an ORAL source? A coin / A newspaper / **A recorded interview with a grandparent** / A map — *Oral sources are memories passed on by speaking.*
+4. Al Fahidi Fort is which type of source? Written / **Physical** / Oral / Visual — *Buildings and objects are physical sources.*
+5. When does a source become evidence? When it is very old / When it is in a museum / **When a historian uses it to answer a question** / When it is written down — *Evidence is a source used to answer a question.*
+6. What does provenance mean? How old a source is / **Who made a source, when, where and why** / Whether a source is true / How long a source is — *Provenance = who, when, where, why.*
+7. What is corroboration? Throwing away biased sources / **Checking a source against other sources** / Copying a source into your book / Guessing what a source means — *Historians corroborate by checking sources against each other.*
+8. Which statement about bias is most accurate? Biased sources should always be ignored / **A biased source can still be useful, depending on the question** / Only modern sources are biased / Photographs cannot be biased — *Ask "reliable for what?"*
+
+**Short answers**
+
+1. Name the four types of historical source. — **Written, visual, oral, physical**
+2. What word means a conclusion based on evidence, not just what is stated? — **Inference**
+3. What word means who made a source, when and why? — **Provenance**
+4. What do we call someone who investigates the past? — **Historian**
+5. Checking one source against others is called…? — **Corroboration**
+
+**Chronology — Put these in order (earliest first)** (correct order): Bronze Age settlement at Hili → Al Fahidi Fort built → Al Maktoum family settle at Dubai → Thesiger photographs the region → Oil discovered offshore in Dubai → The UAE is formed
+
+**Matching — Match each source to its type**
+
+- A recorded interview with an elder = Oral
+- A 1940s photograph of Dubai Creek = Visual
+- Al Fahidi Fort = Physical
+- A government record = Written
+
+**Evidence recall**
+
+- Explain how the provenance of a foreign visitor's description of mid-20th-century Dubai affects what it can tell a historian. — *Model:* As an outsider, the visitor may notice things locals took for granted, such as daily routines, but may misunderstand or miss things only locals knew. So it is useful for how Dubai looked to outsiders, but historians should corroborate it.
+- Use the "I can see… This suggests… Therefore…" steps to make an inference from a photograph of wooden boats (dhows) crowded on Dubai Creek. — *Model:* I can see many wooden dhows tied up close together on the creek. This suggests the creek was busy with trade or fishing. Therefore I can infer the sea was central to how people earned a living.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Past or History: which one is constructed? | History. Historians construct it by investigating the past. |  |
+| Interpretation | A later explanation or account of the past. |  |
+| Four types of source | Written, visual, oral, physical. |  |
+| When does a source become evidence? | When it is used to answer a question. |  |
+| Example of a physical source in Dubai | Al Fahidi Fort (built around 1787). |  |
+| Inference | A conclusion based on evidence, not just what is stated. |  |
+| Inference sentence steps | I can see… This suggests… Therefore I can infer… |  |
+| Provenance | Who made a source, when, where and why. |  |
+| Corroboration | Checking a source against other sources. |  |
+| Is a biased source useless? | No. It can be very useful. Ask "reliable for what?" |  |
+| When was the UAE formed? | 2 December 1971. |  |
+| Why does oral history matter? | It preserves experiences that were never written down. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe the difference between the past and History.
+- [Describe — red] I can describe the four types of historical source with an example of each.
+- [Explain — amber] I can explain when a source becomes evidence.
+- [Explain — amber] I can explain how provenance affects what a source can tell us.
+- [Explain — amber] I can make an inference using "I can see… This suggests… Therefore…".
+- [Judge — green] I can judge how useful a source is for a particular question, including a biased one.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  Study a photograph of Dubai Creek from the late 1940s, showing wooden dhows and people unloading goods. What can you infer about life in Dubai at that time? Give two inferences, each supported with evidence from the source.
+- *Teacher-created practice question*
+  "A biased source is useless to historians." How far do you agree?
+
+*Guide for "Study a photograph of Dubai Creek from the late 1940s, showing wooden dhows and people unloading goods. What can you infer about life in Dubai at that time? Give two inferences, each supported with evidence from the source."*
+
+1. Look closely and list three things you can SEE.
+2. For each, ask: what does this SUGGEST about life then?
+3. Write two inferences using "I can see… This suggests… Therefore…".
+
+- Two separate inferences
+- Each backed by a precise detail from the source
+- Goes beyond describing what is shown
+
+**Writing frame — sentence starters**
+
+1. I can see…
+2. This suggests…
+3. Therefore I can infer…
+4. I can also see…
+5. This suggests…
+6. Therefore I can infer…
+
+*Lighter support (headings only):* Inference 1: see → suggests → infer → Inference 2: see → suggests → infer
+
+*Guide for ""A biased source is useless to historians." How far do you agree?"*
+
+1. Decide your view and how strongly (qualifier).
+2. Give one example where bias limits a source.
+3. Give one example where a biased source is still very useful.
+4. Finish with a judgement.
+
+- A qualified claim (e.g. "I largely disagree")
+- Precise examples of sources
+- Explains using "because / this meant that / therefore"
+- Reaches a clear judgement
+
+**Writing frame — sentence starters**
+
+1. P: I agree / disagree to a large / some extent that…
+2. E: For example, a source such as… shows…
+3. E: This means that… because…
+4. J: Therefore, overall…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> I largely disagree that a biased source is useless, because its bias can itself be evidence.
+>
+> *P: qualified claim.*
+
+> For example, an official record written to celebrate a ruler might exaggerate his successes.
+>
+> *E: precise example.*
+
+> This means it is weak evidence of what really happened, but strong evidence of how the ruler wanted to be seen.
+>
+> *E: explains with "this means".*
+
+> Therefore a biased source is useful; historians just need to ask "reliable for what?" and corroborate it.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+**Stretch and challenge**
+
+- **Deep thinking:** Can two historians know exactly the same facts and still disagree? Explain using an example.
+- **Bias:** Could bias actually make a source more useful for some questions? Give a precise example.
+- **Provenance prediction:** Before reading a source, predict from its provenance alone what it will notice and what it will miss. Then check your prediction.
+- **Silence in the sources:** Whose voices are hardest to find in sources about the past? Why might that be, and what can historians do about it?
+
+#### Lessons 3–4: Chronology and historical time
+
+`y7-sk-2` · What is History? How do historians find out what really happened in the past?
+
+Historians need to know when things happened, and in what order, before they can explain anything. This topic covers chronology, BC/BCE and AD/CE dates, centuries and how to spot patterns on a timeline.
+
+##### 1. Why chronology matters
+
+Chronology means arranging events in the order they happened. It lets historians see which events came first, which overlapped and which could have caused others. If the order is wrong, the explanation falls apart: a cause must happen before its effect.
+
+A period is a length of time with shared features, such as the Bronze Age. Time connectives (firstly, then, next, after, finally) help you explain a sequence clearly.
+
+A global timeline shows that different societies developed at the same time. For example, Mansa Musa of Mali made his famous pilgrimage to Mecca in 1324, while England was ruled by Edward II and Edward III.
+
+*Key terms:* chronology, chronological, sequence, period, time connectives
+
+*Precise evidence:*
+- A cause must happen before its effect.
+- Mansa Musa's pilgrimage: 1324.
+
+##### 2. BC/BCE, AD/CE and centuries
+
+Many historians use a calendar counted from year 1. Dates before it are BC ("before Christ") or BCE ("before common era"). Dates after it are AD ("anno Domini") or CE ("common era"). There is no year 0.
+
+BC/BCE dates count backwards, so 500 BCE is earlier than 100 BCE. AD/CE dates count forwards, so CE 100 is earlier than CE 500.
+
+A century is 100 years and a millennium is 1,000 years. The century number is one more than the "hundreds": 1066 is in the 11th century, 1324 in the 14th century and 1971 in the 20th century.
+
+Other calendars exist too. The Islamic (Hijri) calendar counts from the Hijra in 622 CE. Calendars are human inventions, so they are part of history too.
+
+*Key terms:* BC / BCE, AD / CE, century, millennium, Hijri calendar
+
+*Precise evidence:*
+- 1066 = 11th century; 1324 = 14th century; 1971 = 20th century.
+- There is no year 0.
+- The Hijri calendar begins with the Hijra in 622 CE.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| c. 3000 BCE | Bronze Age settlement at Hili (near modern Al Ain). |
+| c. 570 CE | Birth of the Prophet Muhammad in Mecca. |
+| 622 CE | The Hijra: the start of the Islamic (Hijri) calendar. |
+| 1066 | William of Normandy wins the Battle of Hastings. |
+| 1324 | Mansa Musa of Mali makes his pilgrimage to Mecca. |
+| 1914–1918 | The First World War. |
+| 1939–1945 | The Second World War. |
+| 1971 | The United Arab Emirates is formed. |
+
+**Key people**
+
+- **Mansa Musa** — Ruler of the Mali Empire in West Africa (c. 1312–c. 1337), famous for his wealth and his 1324 pilgrimage.
+
+**Vocabulary**
+
+- **Chronology** — The arrangement of events in the order they happened.
+- **Chronological** — In order of time.
+- **Sequence** — The order in which things occur.
+- **Period** — A length of time with shared features.
+- **BC / BCE** — "Before Christ" / "before common era": counting back from year 1.
+- **AD / CE** — "Anno Domini" / "common era": counting forward from year 1.
+- **Century** — A period of 100 years.
+- **Millennium** — A period of 1,000 years.
+
+**Misconceptions**
+
+- ✗ 1066 is in the 10th century. → ✓ 1066 is in the 11th century. Add one to the hundreds.
+- ✗ 500 BCE comes after 100 BCE. → ✓ BCE dates count backwards, so 500 BCE is earlier.
+- ✗ There was a year 0. → ✓ The count goes from 1 BCE straight to 1 CE.
+- ✗ Chronology is just learning dates. → ✓ Chronology lets you see order, overlap and possible causes. Explanations depend on it.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. What does chronology mean? The study of maps / **Arranging events in the order they happened** / Writing about famous people / Judging if a source is reliable — *Chronology is about order in time.*
+2. Why must a cause come before its effect on a timeline? It looks neater / **Because something cannot be caused by an event that happened later** / Teachers prefer it / It does not matter — *Explanations depend on correct chronology.*
+3. Which century is 1066 in? 10th / **11th** / 12th / 16th — *Add one to the hundreds: 10 + 1 = 11.*
+4. Which century is 1971 in? 19th / **20th** / 21st / 17th — *19 + 1 = 20th century.*
+5. Which date is earliest? 100 BCE / **500 BCE** / CE 100 / CE 500 — *BCE dates count backwards.*
+6. How long is a millennium? 10 years / 100 years / **1,000 years** / 10,000 years — *Millennium = 1,000 years.*
+7. Which event starts the Islamic (Hijri) calendar? The birth of the Prophet / **The Hijra in 622 CE** / The building of the Kaaba / The formation of the UAE — *The Hijri calendar counts from the Hijra.*
+8. Mansa Musa's pilgrimage to Mecca took place in… 1066 / **1324** / 1492 / 1971 — *1324, in the 14th century.*
+
+**Short answers**
+
+1. Which century is 1324 in? — **14th century**
+2. How many years in a century? — **100**
+3. What does CE stand for? — **Common era**
+4. In which year was the UAE formed? — **1971**
+5. What word means "in order of time"? — **Chronological**
+
+**Chronology — Put these events in order** (correct order): Bronze Age settlement at Hili → Birth of the Prophet Muhammad → The Hijra → Battle of Hastings → Mansa Musa's pilgrimage → First World War → Formation of the UAE
+
+**Chronology — Earliest to latest** (correct order): 500 BCE → 100 BCE → CE 100 → CE 500 → 1066 → 1971
+
+**Matching — Match the date to its century**
+
+- 1066 = 11th century
+- 1324 = 14th century
+- 1971 = 20th century
+- 622 = 7th century
+
+**Evidence recall**
+
+- Explain why getting the chronology wrong would damage a historian's explanation. — *Model:* Causes must come before their effects. If events are in the wrong order, a historian might say something caused an event that actually happened afterwards, so the whole explanation would be wrong.
+- Explain how to work out the century of a date such as 1324. — *Model:* Take the hundreds (13) and add one, so 1324 is in the 14th century.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Chronology | Arranging events in the order they happened. |  |
+| Period | A length of time with shared features. |  |
+| Time connectives | Firstly, then, next, after, finally. |  |
+| BC / BCE | Before Christ / before common era: counting back from year 1. |  |
+| AD / CE | Anno Domini / common era: counting forward from year 1. |  |
+| Century of 1066? | 11th century. |  |
+| Century of 1971? | 20th century. |  |
+| Is there a year 0? | No: 1 BCE is followed by 1 CE. |  |
+| Start of the Hijri calendar | The Hijra, 622 CE. |  |
+| Mansa Musa's pilgrimage | 1324. |  |
+| First World War | 1914–1918. |  |
+| Formation of the UAE | 2 December 1971. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe what chronology means.
+- [Describe — red] I can place key global and UAE events on a timeline.
+- [Explain — amber] I can explain how BC/BCE and AD/CE dates work.
+- [Explain — amber] I can work out the century of any date.
+- [Explain — amber] I can explain a sequence using time connectives.
+- [Judge — green] I can judge why chronology matters for historical explanations.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  Put these events in chronological order and give the century of each: the formation of the UAE; the Battle of Hastings; Mansa Musa's pilgrimage; the Hijra.
+- *Teacher-created practice question*
+  "Chronology is the most important skill a historian needs." How far do you agree?
+
+*Guide for "Put these events in chronological order and give the century of each: the formation of the UAE; the Battle of Hastings; Mansa Musa's pilgrimage; the Hijra."*
+
+1. Write the date beside each event.
+2. Order them earliest to latest.
+3. Work out each century (hundreds + 1).
+
+- Correct order
+- Correct centuries
+- Dates included
+
+**Writing frame — sentence starters**
+
+1. First came… in … (… century).
+2. Next came… in … (… century).
+3. Then… in … (… century).
+4. Finally… in … (… century).
+
+*Lighter support (headings only):* Order + date + century for each
+
+*Guide for ""Chronology is the most important skill a historian needs." How far do you agree?"*
+
+1. Explain why chronology matters, with an example.
+2. Explain another skill that also matters.
+3. Decide which matters more, using a qualifier.
+
+- Qualified claim
+- Precise examples
+- Explaining connectives
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: I agree to some / a large extent that…
+2. E: For example, without chronology…
+3. E: This means that… However…
+4. J: Overall…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Resolving disagreement:** If two accounts disagree on when something happened, how would a historian resolve it?
+- **Calendars:** Why are the systems humans use to organise time themselves historical creations? Compare the Gregorian and Hijri calendars.
+- **Patterns:** Find two events on the global timeline that happened in the same century in different parts of the world. What does comparing them tell you?
+- **Who decides?:** Which events deserve a place on a timeline of world history, and who decides?
+
+#### Lessons 5–6: Asking questions and explaining causes
+
+`y7-sk-3` · What is History? How do historians find out what really happened in the past?
+
+Good history starts with a good question. This topic shows you how to turn a simple "when" question into a real enquiry, how sure we can be of a claim, and how historians explain why things happen, using Alphonse the Camel.
+
+##### 1. What makes a good historical question?
+
+A factual question has one simple answer ("When did the UAE form?"). A historical enquiry asks "why", "how far" or "how significant", and needs evidence and judgement to answer.
+
+Historians are honest about how sure they are. The certainty continuum runs: Certain → Very likely → Likely → Possible → Uncertain.
+
+Qualifiers make your claims precise: "X was important" becomes "X was highly significant" or "X was somewhat significant". They show the strength of your argument.
+
+*Key terms:* enquiry, claim, certainty, qualifier
+
+*Precise evidence:*
+- Good enquiry stems: Why…? How far…? How significant…? How certain…?
+- Certainty continuum: certain → very likely → likely → possible → uncertain.
+
+##### 2. Cause and consequence: Alphonse the Camel
+
+Alphonse the Camel is loaded with more and more until one final straw makes him collapse. The obvious answer is "the straw caused it". But would that straw have mattered without everything already loaded? The final straw is the trigger, not the most important cause.
+
+Historians sort causes into:
+
+- Long-term causes: building up over years.
+- Short-term causes: happening shortly before.
+- Trigger: the immediate event that sets things off.
+- Underlying causes: the deeper conditions that made the event possible.
+
+A consequence is a result of an event. Explaining connectives link causes to results: because, therefore, as a result, as a consequence, this meant that.
+
+A real example: in 1066 the death of Edward the Confessor (January) triggered a crisis, but the deeper cause was that he had no children, leaving several rival claimants to the throne.
+
+*Key terms:* cause, consequence, long-term, short-term, trigger, underlying cause, explaining connectives
+
+*Precise evidence:*
+- The trigger is not always the most important cause.
+- Edward the Confessor died in January 1066 without children.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 5 January 1066 | Edward the Confessor dies without children: the trigger of a succession crisis. |
+| 6 January 1066 | Harold Godwinson is crowned king. |
+| 25 September 1066 | Harold defeats Harald Hardrada at Stamford Bridge. |
+| 28 September 1066 | William of Normandy lands at Pevensey. |
+| 14 October 1066 | William wins the Battle of Hastings. |
+
+**Key people**
+
+- **Alphonse the Camel** — An imaginary camel used to show how many causes build up before a final trigger.
+- **Edward the Confessor** — King of England who died childless in January 1066.
+
+**Vocabulary**
+
+- **Enquiry** — A question that drives historical investigation.
+- **Claim** — A statement a historian argues is true.
+- **Certainty** — How sure we can be about a claim.
+- **Judgement** — A reasoned conclusion based on evidence.
+- **Cause** — Something that makes an event happen.
+- **Consequence** — A result of an event.
+- **Long-term / short-term** — Causes building over years, or shortly before.
+- **Trigger** — The immediate cause that sets an event off.
+
+**Misconceptions**
+
+- ✗ The last thing that happened is the most important cause. → ✓ The trigger is often the least important. Long-term causes usually matter more.
+- ✗ Events have one cause. → ✓ Most events have several causes that work together.
+- ✗ "Why" and "when" questions are equally good enquiries. → ✓ "When" questions have one answer. "Why" and "how far" questions need evidence and judgement.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Which is a historical ENQUIRY question? When was the UAE formed? / **Why did Dubai grow so quickly after 1966?** / Who was Mansa Musa? / What is a century? — *"Why" questions need evidence and judgement.*
+2. What does a qualifier do? Adds a date / **Shows the strength of a claim** / Names a source / Ends a paragraph — *E.g. highly / somewhat / partly.*
+3. Which word sits in the middle of the certainty continuum? Certain / **Likely** / Uncertain / Impossible — *Certain → very likely → likely → possible → uncertain.*
+4. In the Alphonse story, the final straw is… The most important cause / **The trigger** / A long-term cause / A consequence — *It sets off the collapse but only matters because of everything already loaded.*
+5. Which is an explaining connective? Firstly / **Therefore** / In 1066 / Next — *Therefore explains; firstly and next are time connectives.*
+6. A cause that builds up over many years is… A trigger / Short-term / **Long-term** / A consequence — *Long-term causes build slowly.*
+7. What triggered the succession crisis of 1066? The Battle of Hastings / **The death of Edward the Confessor** / William landing at Pevensey / Stamford Bridge — *Edward died in January 1066 without children.*
+8. A consequence is… A cause / **A result of an event** / A type of source / A date — *Consequence = result.*
+
+**Short answers**
+
+1. What is the immediate cause that sets off an event called? — **Trigger**
+2. What is the result of an event called? — **Consequence**
+3. Give one word that can begin a good enquiry question. — **Why / How far / How significant**
+4. In which month and year did Edward the Confessor die? — **January 1066**
+5. What do we call a word that shows the strength of a claim? — **Qualifier**
+
+**Chronology — Put the events of 1066 in order** (correct order): Edward the Confessor dies → Harold is crowned → Battle of Stamford Bridge → William lands at Pevensey → Battle of Hastings
+
+**Matching — Match the term to its meaning**
+
+- Trigger = Immediate cause that sets an event off
+- Long-term cause = Builds up over many years
+- Consequence = A result of an event
+- Qualifier = Shows the strength of a claim
+
+**Evidence recall**
+
+- Using Alphonse the Camel, explain why the final event is not necessarily the most important cause. — *Model:* The final straw only made Alphonse collapse because he was already carrying a huge load. Without everything else, the straw would not have mattered, so it was the trigger, not the most important cause.
+- Improve this claim using a qualifier and a reason: "Oil was important for Dubai." — *Model:* The discovery of oil in 1966 was highly significant for Dubai because it provided money to build infrastructure, which meant the city could grow much faster.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Enquiry | A question that drives historical investigation. |  |
+| Factual vs enquiry question | Factual: one simple answer. Enquiry: needs evidence and judgement (why / how far). |  |
+| Certainty continuum | Certain → very likely → likely → possible → uncertain. |  |
+| Qualifier | A word showing the strength of a claim, e.g. highly, somewhat, partly. |  |
+| Trigger | The immediate cause that sets an event off. |  |
+| Long-term cause | A cause building up over years. |  |
+| Short-term cause | A cause happening shortly before an event. |  |
+| Underlying cause | A deeper condition that made the event possible. |  |
+| Consequence | A result of an event. |  |
+| Explaining connectives | Because, therefore, as a result, as a consequence, this meant that. |  |
+| Lesson of Alphonse the Camel | The final straw is the trigger, not necessarily the most important cause. |  |
+| Trigger of the 1066 crisis | Edward the Confessor dying without children (January 1066). |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe the difference between a factual question and an enquiry question.
+- [Describe — red] I can describe long-term, short-term and trigger causes.
+- [Explain — amber] I can explain why the trigger is not always the most important cause.
+- [Explain — amber] I can use explaining connectives to link causes and consequences.
+- [Explain — amber] I can use qualifiers to show how certain or how significant something is.
+- [Judge — green] I can judge which cause was most important and justify it.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "The final event is always the most important cause." How far do you agree? Use Alphonse the Camel and the events of 1066 in your answer.
+- *Teacher-created practice question*
+  Turn this factual question into two good historical enquiry questions: "When was oil discovered in Dubai?" Explain why your questions are better.
+
+*Guide for ""The final event is always the most important cause." How far do you agree? Use Alphonse the Camel and the events of 1066 in your answer."*
+
+1. Explain what a trigger is, using Alphonse.
+2. Explain a deeper cause (e.g. Edward having no children).
+3. Weigh them using qualifiers and reach a judgement.
+
+- Uses trigger / long-term correctly
+- Precise 1066 evidence
+- Explaining connectives
+- Qualified judgement
+
+**Writing frame — sentence starters**
+
+1. P: I agree / disagree to a large / some extent…
+2. E: For example, Alphonse… / In 1066…
+3. E: This meant that… therefore…
+4. J: Overall, the most important cause was… because…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> I largely disagree, because the final event is usually only the trigger.
+>
+> *P: qualified claim.*
+
+> Alphonse only collapsed under the final straw because he was already carrying a huge load. Similarly, Edward the Confessor's death in January 1066 triggered a crisis, but the deeper cause was that he had no children.
+>
+> *E: model plus precise historical evidence.*
+
+> This meant several claimants believed they had a right to the throne, so a crisis was likely whenever Edward died.
+>
+> *E: explaining connective.*
+
+> Therefore the long-term cause was more important than the trigger.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+*Guide for "Turn this factual question into two good historical enquiry questions: "When was oil discovered in Dubai?" Explain why your questions are better."*
+
+1. Use a different enquiry stem for each.
+2. Explain what evidence each would need.
+3. Explain why each needs a judgement.
+
+- Two genuine enquiry questions
+- Explains why they need evidence and judgement
+
+**Writing frame — sentence starters**
+
+1. Question 1: How significant…?
+2. This is better because…
+3. Question 2: Why…?
+4. This is better because…
+
+*Lighter support (headings only):* Two questions + why each is better
+
+**Stretch and challenge**
+
+- **Too uncertain?:** Can a question ever be too uncertain to be worth asking? Explain with an example.
+- **Necessary causes:** Which cause was necessary, rather than simply important? What is the difference?
+- **Cause map:** Draw a cause map for one event you know, with long-term, short-term and trigger causes linked by arrows. Label each arrow with a connective.
+- **Counterfactual:** If Edward the Confessor had had a son, would 1066 still have been a crisis? Explain your reasoning.
+
+#### Lessons 7–8: Perspective, interpretation and ethics
+
+`y7-sk-4` · What is History? How do historians find out what really happened in the past?
+
+People at the time saw events from where they stood. People later explain them in different ways. And we have to decide whether we judge the past by today's values. This topic covers perspective, interpretation and the ethical dimension of history.
+
+##### 1. Perspective or interpretation?
+
+Imagine a controversial decision in a football match. The referee, a winning supporter, a losing supporter and a player all see it differently, because of where they stand, what they know and what matters to them.
+
+A perspective is the viewpoint of someone experiencing events at the time. An interpretation is a later explanation or representation of the past, made by a historian, film-maker or museum.
+
+Mansa Musa's 1324 journey through Cairo shows both. Writers in Cairo recorded how much gold he spent, from their own perspective. In 1375 the Catalan Atlas, a map made in Europe, pictured him holding a gold nugget: a later interpretation that shows how Europeans saw Mali's wealth.
+
+Historians disagree for more complicated reasons than "everyone has an opinion". They may ask different questions, use different evidence or weigh it differently. Qualifiers such as "to a large extent" help you agree or disagree without absolute language.
+
+*Key terms:* perspective, interpretation, viewpoint, context
+
+*Precise evidence:*
+- Perspective = at the time. Interpretation = later.
+- Catalan Atlas, 1375: Mansa Musa shown holding gold.
+
+##### 2. The ethical dimension
+
+Should we judge people in the past by today's standards? Judging the past only by modern values is called presentism. But understanding the past is not the same as excusing it.
+
+Historians ask: What happened? What values existed at the time? Did everybody agree? Who benefited? Who suffered? Often people at the time disagreed too, which shows that some actions were questioned even then.
+
+A balanced judgement can use the frame: On one hand… However… This showed that… Therefore… Use qualifiers to avoid absolute judgements.
+
+*Key terms:* ethical, values, context, contemporary, presentism
+
+*Precise evidence:*
+- Understanding is not excusing.
+- Ask: did everybody agree at the time?
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| c. 1312 | Mansa Musa becomes ruler of the Mali Empire. |
+| 1324 | Mansa Musa travels through Cairo on pilgrimage to Mecca, spending and giving away large amounts of gold. |
+| c. 1337 | Mansa Musa dies. |
+| c. 1340s | The scholar al-Umari records accounts from people in Cairo who remembered Mansa Musa's visit. |
+| 1375 | The Catalan Atlas, made in Majorca, shows Mansa Musa holding a gold nugget. |
+
+**Key people**
+
+- **Mansa Musa** — Ruler of Mali, famous for his wealth and his 1324 pilgrimage.
+- **al-Umari** — Scholar who, in the 1340s, wrote down Cairo memories of Mansa Musa's visit.
+
+**Vocabulary**
+
+- **Perspective** — The viewpoint of someone experiencing events at the time.
+- **Interpretation** — A later explanation or representation of the past.
+- **Viewpoint** — The position from which someone sees something.
+- **Context** — The circumstances surrounding an event.
+- **Presentism** — Judging the past using only today's standards.
+- **Ethical** — Concerned with what is right and wrong.
+- **Values** — The beliefs a person or society holds about right and wrong.
+- **Contemporary** — Existing or happening at the same time.
+
+**Misconceptions**
+
+- ✗ Historians disagree because everyone has an opinion. → ✓ They disagree because they ask different questions, use different evidence or weigh it differently.
+- ✗ Understanding why people acted is the same as excusing them. → ✓ Understanding is not excusing. Historians explain actions and can still judge them.
+- ✗ Everyone in the past agreed with the values of their time. → ✓ People often disagreed then too. Look for those voices.
+- ✗ A perspective and an interpretation are the same. → ✓ A perspective is from the time; an interpretation is made later.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. A perspective is… A later explanation of the past / **The viewpoint of someone at the time** / A type of map / A date — *Perspective = from inside the time.*
+2. An interpretation is… Made at the time / **A later explanation or representation of the past** / Always wrong / Only written by kings — *Interpretations are made later.*
+3. In 1375 the Catalan Atlas showed Mansa Musa… Fighting a battle / **Holding a gold nugget** / Sailing to America / Building a fort — *It shows how famous Mali's wealth was in Europe.*
+4. Why do historians disagree? Everyone just has an opinion / **They ask different questions, use different evidence or weigh it differently** / Some are lying / They never read sources — *Disagreement has reasons.*
+5. Presentism means… Studying the present / **Judging the past only by today's standards** / A gift / Ignoring the past — *Presentism ignores context.*
+6. Which question helps an ethical judgement? What colour was it? / **Did everybody agree at the time?** / How long was the book? / What is the page number? — *Disagreement at the time matters.*
+7. Which qualifier avoids absolute language? Definitely / Always / **To some extent** / Never — *Qualifiers make claims precise.*
+8. "Understanding is not excusing" means… If we understand, we must forgive / **Explaining why people acted does not mean approving of it** / We should not study bad events / Values never change — *Historians explain and can still judge.*
+
+**Short answers**
+
+1. In which year did Mansa Musa pass through Cairo on pilgrimage? — **1324**
+2. Which 1375 map pictured Mansa Musa? — **The Catalan Atlas**
+3. What word means judging the past only by today's standards? — **Presentism**
+4. A viewpoint from someone living at the time is a… — **Perspective**
+5. What word means the circumstances surrounding an event? — **Context**
+
+**Chronology — Put these in order** (correct order): Mansa Musa becomes ruler of Mali → Mansa Musa passes through Cairo → Mansa Musa dies → al-Umari records Cairo memories → The Catalan Atlas is made
+
+**Matching — Match the term to its meaning**
+
+- Perspective = Viewpoint of someone at the time
+- Interpretation = Later explanation of the past
+- Presentism = Judging the past by today's standards only
+- Context = Circumstances surrounding an event
+
+**Evidence recall**
+
+- Explain why the Catalan Atlas is an interpretation rather than a perspective on Mansa Musa's pilgrimage. — *Model:* It was made in 1375, about 50 years after the pilgrimage, by mapmakers in Majorca who had not witnessed it. So it is a later European representation, not the viewpoint of someone who was there.
+- Explain why "understanding historical actions is not the same as excusing them". — *Model:* Understanding the context explains why people acted as they did, but historians can still judge whether actions were right, especially when people at the time disagreed too.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Perspective | The viewpoint of someone experiencing events at the time. |  |
+| Interpretation | A later explanation or representation of the past. |  |
+| Catalan Atlas | 1375 European map showing Mansa Musa holding gold: an interpretation. |  |
+| al-Umari | 1340s scholar who recorded Cairo memories of Mansa Musa. |  |
+| Why historians disagree | Different questions, evidence or weighting. |  |
+| Qualifiers for agreeing | To a large extent / to some extent / partly. |  |
+| Presentism | Judging the past only by today's standards. |  |
+| Ethical | Concerned with right and wrong. |  |
+| Five ethical questions | What happened? What values existed? Did everybody agree? Who benefited? Who suffered? |  |
+| Balanced judgement frame | On one hand… However… This showed that… Therefore… |  |
+| Contemporary | Existing or happening at the same time. |  |
+| Understanding vs excusing | Explaining why people acted is not the same as approving. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe the difference between a perspective and an interpretation.
+- [Describe — red] I can describe how Mansa Musa was seen in 1324 and in 1375.
+- [Explain — amber] I can explain why historians reach different conclusions.
+- [Explain — amber] I can explain what presentism is and why historians avoid it.
+- [Judge — green] I can reach a balanced ethical judgement using "On one hand… However… Therefore…".
+- [Judge — green] I can agree or disagree with an interpretation using qualifiers.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "We should not judge people in the past by today's standards." How far do you agree?
+- *Teacher-created practice question*
+  Explain why people at the time and historians later might see the same event differently. Use an example.
+
+*Guide for ""We should not judge people in the past by today's standards." How far do you agree?"*
+
+1. Explain why context matters.
+2. Explain why we can still judge (e.g. people disagreed at the time).
+3. Reach a qualified judgement.
+
+- Qualified claim
+- Uses context and presentism
+- Balanced
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: On one hand, I agree to some extent that…
+2. E: This is because the values at the time were… For example…
+3. E: However, this showed that… because people at the time…
+4. J: Therefore, overall…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+*Guide for "Explain why people at the time and historians later might see the same event differently. Use an example."*
+
+1. Define perspective and interpretation.
+2. Give an example of each (e.g. Cairo memories vs Catalan Atlas).
+3. Explain why they differ.
+
+- Accurate definitions
+- Precise example
+- Explains reasons for difference
+
+**Writing frame — sentence starters**
+
+1. P: People at the time saw events from their own perspective, whereas…
+2. E: For example, in 1324… but in 1375 the Catalan Atlas…
+3. E: This is because…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Same evidence:** Why might two historians using the same evidence reach different conclusions? Give two reasons.
+- **Ideas not yet invented:** Can a society be judged by ideas that had not been invented yet? Argue both sides.
+- **Whose interpretation?:** Who made the Catalan Atlas, and how might a Malian griot (oral historian) have told Mansa Musa's story differently?
+- **Football to history:** Design your own "same event, different seats" scenario for a historical event, with four viewpoints.
+
+#### Lessons 9–11: Significance, change and writing like a historian
+
+`y7-sk-5` · What is History? How do historians find out what really happened in the past?
+
+Who decides what deserves to be remembered? Does history always move forwards? And how do you turn all of this into a convincing argument? This topic finishes the unit with significance, change and continuity, and the Arcadia way of writing like a historian.
+
+##### 1. Historical significance
+
+Important is not the same as historically significant. Historians judge significance using criteria, not personal preference:
+
+- Scale: how many people were affected?
+- Impact: how much changed because of it?
+- Duration: how long did the effects last?
+- Revealing: what does it tell us about the time?
+- Remembered: how and why is it remembered today?
+
+Significance can change over time, and something can be highly significant to one group and less so to another. Use "highly significant / somewhat significant / less significant" and then explain why.
+
+*Key terms:* significance, criteria, impact, legacy
+
+*Precise evidence:*
+- Criteria: scale, impact, duration, revealing, remembered.
+
+##### 2. Change and continuity
+
+Change is something becoming different over time; continuity is something staying the same. Change can be rapid or gradual. A turning point is a moment after which things changed significantly.
+
+Change is not always progress (change for the better). It can be decline (change for the worse), or progress for one group and decline for another. Dubai shows rapid change after oil was discovered in 1966, the UAE was formed in 1971 and new infrastructure was built, alongside continuities such as heritage, language and family traditions.
+
+Time connectives plus explaining connectives help you explain change: Firstly… Then… As a result… This meant that… Therefore…
+
+*Key terms:* change, continuity, turning point, progress, decline
+
+*Precise evidence:*
+- Oil discovered in Dubai: 1966.
+- UAE formed: 1971.
+
+##### 3. Writing like a historian: the Arcadia paragraph
+
+A strong historical paragraph is not just a list of facts. It is an argument. The Arcadia model uses four moves, which match PEEJ:
+
+- P: a qualified claim (QUALIFIER: highly / partly / to some extent).
+- E: precisely selected evidence (a name, date, number or source).
+- E: explanation with an explaining connective (because / this meant that / therefore) and time connectives where sequence matters.
+- J: a judgement that answers the question.
+
+Ask yourself: What is my argument? How strongly do I want to claim it? Which evidence best proves it? How do I explain the link?
+
+*Key terms:* argument, claim, qualifier, precise evidence, reasoning, judgement, PEEJ
+
+*Precise evidence:*
+- PEEJ: Point (qualified) → Evidence (precise) → Explain (connective) → Judgement.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1833 | The Al Maktoum family settle at Dubai. |
+| 1966 | Oil is discovered offshore in Dubai. |
+| 1971 | The UAE is formed on 2 December. |
+| 1979 | The Dubai World Trade Centre opens. |
+| 1985 | Emirates airline is founded. |
+| 2010 | The Burj Khalifa opens. |
+
+**Key people**
+
+
+**Vocabulary**
+
+- **Significance** — How important an event or person is judged to be.
+- **Criteria** — The standards used to judge something.
+- **Impact** — The effect an event had.
+- **Legacy** — What remains or is remembered after an event.
+- **Change** — Something becoming different over time.
+- **Continuity** — Something staying the same over time.
+- **Turning point** — A moment after which things changed significantly.
+- **Progress / decline** — Change for the better / for the worse.
+- **Argument** — A claim supported by evidence and reasoning.
+- **Qualifier** — A word that shows the strength of a claim.
+
+**Misconceptions**
+
+- ✗ Significant just means "I think it is important". → ✓ Significance is judged against criteria such as scale, impact and duration.
+- ✗ Change always means progress. → ✓ Change can be decline, or progress for some and decline for others.
+- ✗ More facts make a better paragraph. → ✓ A paragraph full of facts can still be a poor argument. Facts must be selected and explained.
+- ✗ Significance never changes. → ✓ What people think is significant can change over time.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Which is NOT one of the significance criteria used in this unit? Scale / Impact / Duration / **Colour** — *Scale, impact, duration, revealing, remembered.*
+2. Historical significance is judged by… Personal preference / **Criteria** / How old something is / How famous a person is on social media — *Criteria, not opinion.*
+3. Continuity means… Something changing fast / **Something staying the same over time** / A turning point / Decline — *Continuity = staying the same.*
+4. Oil was discovered in Dubai in… 1833 / **1966** / 1971 / 2010 — *1966.*
+5. A turning point is… **A moment after which things changed significantly** / A slow change / Something staying the same / A type of source — *After it, things were different.*
+6. In PEEJ, the first E stands for… Example of a qualifier / **Precise evidence** / Ending / Essay — *Point, Evidence, Explain, Judgement.*
+7. Which sentence uses a qualifier? Oil happened in 1966. / **Oil was highly significant for Dubai.** / Dubai is a city. / In 1971 the UAE formed. — *"Highly" shows strength of claim.*
+8. Which statement is most accurate? Change is always progress / **Change can be progress for one group and decline for another** / Nothing in Dubai stayed the same / Continuity is always bad — *Ask: progress for whom?*
+
+**Short answers**
+
+1. Name two significance criteria. — **Scale, impact, duration, revealing, remembered**
+2. When was the UAE formed? — **2 December 1971**
+3. Change for the worse is called… — **Decline**
+4. What does the J in PEEJ stand for? — **Judgement**
+5. Something staying the same over time is… — **Continuity**
+
+**Chronology — Dubai: put these in order** (correct order): Al Maktoum family settle at Dubai → Oil discovered offshore → UAE formed → Dubai World Trade Centre opens → Emirates founded → Burj Khalifa opens
+
+**Matching — Match the criterion to its question**
+
+- Scale = How many people were affected?
+- Impact = How much changed because of it?
+- Duration = How long did the effects last?
+- Revealing = What does it tell us about the time?
+
+**Matching — Match the PEEJ step**
+
+- P = Qualified claim
+- E (first) = Precise evidence
+- E (second) = Explain with a connective
+- J = Judgement
+
+**Evidence recall**
+
+- Use at least two criteria to explain why the discovery of oil in 1966 was significant for Dubai. — *Model:* The discovery of oil in 1966 was highly significant. Its impact was huge because oil money paid for roads, ports and housing. Its duration is long because that infrastructure still shapes Dubai today.
+- Give one example of change and one of continuity in Dubai since 1966. — *Model:* Change: the city grew rapidly, with new infrastructure such as the Dubai World Trade Centre (1979). Continuity: heritage and traditions, such as Arabic language and family customs, remained important.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Significance | How important an event or person is judged to be, using criteria. |  |
+| Five significance criteria | Scale, impact, duration, revealing, remembered. |  |
+| Can significance change? | Yes. It can change over time and differ between groups. |  |
+| Change vs continuity | Becoming different vs staying the same. |  |
+| Turning point | A moment after which things changed significantly. |  |
+| Progress vs decline | Change for the better vs for the worse. |  |
+| Oil discovered in Dubai | 1966. |  |
+| Burj Khalifa opened | 2010. |  |
+| PEEJ | Point (qualified) → Evidence (precise) → Explain (connective) → Judgement. |  |
+| Example qualifiers | Highly, considerably, partly, to some extent. |  |
+| Explaining connectives | Because, this meant that, as a result, therefore. |  |
+| Can lots of facts make a poor argument? | Yes, if they are not selected and explained. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe the five significance criteria.
+- [Describe — red] I can describe examples of change and continuity in Dubai.
+- [Explain — amber] I can explain why change is not always progress.
+- [Explain — amber] I can explain the four moves of an Arcadia/PEEJ paragraph.
+- [Judge — green] I can judge how significant an event was using criteria.
+- [Judge — green] I can write a qualified, evidence-supported judgement paragraph.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  Which was more significant for Dubai: the discovery of oil in 1966 or the formation of the UAE in 1971? Write one Arcadia (PEEJ) paragraph.
+- *Teacher-created practice question*
+  "History isn't simply a story of progress." Explain this statement using an example of change in Dubai.
+
+*Guide for "Which was more significant for Dubai: the discovery of oil in 1966 or the formation of the UAE in 1971? Write one Arcadia (PEEJ) paragraph."*
+
+1. Decide which and how strongly (qualifier).
+2. Choose your best piece of evidence.
+3. Explain using a criterion and a connective.
+4. End with a judgement that compares both.
+
+- Qualified claim
+- Precise evidence (dates, examples)
+- Uses a significance criterion
+- Explaining connective
+- Judgement comparing both
+
+**Writing frame — sentence starters**
+
+1. P: … was highly / somewhat more significant than … because…
+2. E: For example, in …
+3. E: This meant that… As a result… Therefore…
+4. J: Overall, … was more significant because…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> The discovery of oil in 1966 was arguably more significant for Dubai than the formation of the UAE, to a large extent because of its economic impact.
+>
+> *P: qualified claim.*
+
+> Oil revenue paid for new infrastructure, which helped projects such as the Dubai World Trade Centre, opened in 1979.
+>
+> *E: precise evidence.*
+
+> This meant Dubai could grow far faster than before, and as a result it became a centre of trade and travel.
+>
+> *E: explaining connectives.*
+
+> However, the formation of the UAE in 1971 gave Dubai security and unity, so overall oil was more significant for growth, while 1971 was more significant politically.
+>
+> *J: judgement that compares.*
+
+*An example, not the only way to answer.*
+
+*Guide for ""History isn't simply a story of progress." Explain this statement using an example of change in Dubai."*
+
+1. Pick one development.
+2. Explain how it was progress for one group.
+3. Explain how it might be decline or loss for another, or what stayed the same.
+
+- Precise example
+- Progress for whom?
+- Continuity or decline considered
+
+**Writing frame — sentence starters**
+
+1. P: History is not simply progress because…
+2. E: For example, after 1966…
+3. E: This meant that for … it was progress, but for …
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Significance to whom?:** Could something be significant to one group and insignificant to another? Give an example.
+- **Progress and decline:** Choose one change. Could it be progress for one group but decline for another?
+- **Good facts, poor argument:** Can a paragraph contain lots of accurate facts and still be a poor historical argument? Rewrite a fact-list paragraph into an argument.
+- **Cold write review:** Look back at your first Dubai paragraph from Lesson 1. Rewrite one sentence using a qualifier, precise evidence and an explaining connective.
+
 <a id="y8"></a>
-## Year 8: African migration to England
+## Year 8: Explorers, Encounters and Black Tudors
 
-*Why did Africans migrate to England?*
+*How did voyages change the world, and why did Africans come to Tudor England?*
 
-**Assessment:** KS3 department criteria — criteria not yet supplied, so AI feedback is formative only. Geographical and chronological scope must come from the teacher's resources. Distinguish voluntary and forced movement; represent African individuals' experiences and agency accurately.
+**Assessment:** KS3 department criteria — criteria not yet supplied, so AI feedback is formative only. Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added.
 
-*No topics written yet.*
+### Explorers, Encounters and Empire — Autumn 1
+
+#### Lessons 1–2: A world already connected
+
+`y8-ex-1` · Explorers, Encounters and Empire
+
+The years around 1400–1600 are often called the "Age of Exploration". But long before Columbus sailed in 1492, travellers like Ibn Battuta and Zheng He crossed huge distances, and great trade networks already linked Africa, Asia and Europe. Was there really an "Age of Exploration"?
+
+##### 1. Travellers before Columbus
+
+Ibn Battuta, a scholar from Morocco (1304–c.1368), travelled roughly 120,000 km across North and West Africa, the Middle East, India and China, further than most European explorers who came after him. His travel account is known as the Rihla.
+
+Zheng He, an admiral of Ming China (1371–1433), commanded seven huge naval expeditions between 1405 and 1433 across the Indian Ocean to Southeast Asia, India, Arabia and East Africa. His largest "treasure ships" were far bigger than anything Europe built for another century.
+
+China chose to end these voyages in the 1430s for political and economic reasons, not because it lacked the ability to continue.
+
+So by 1492, long-distance travel was well established, just not by Europeans and not across the Atlantic.
+
+*Key terms:* Ibn Battuta, Rihla, Zheng He, treasure ships, voyage
+
+*Precise evidence:*
+- Ibn Battuta travelled about 120,000 km.
+- Zheng He led seven expeditions, 1405–1433.
+
+##### 2. A world already connected
+
+Four great networks linked much of Africa and Eurasia before 1492:
+
+- The Silk Roads: overland and sea routes between China, Central Asia, the Middle East and Europe.
+- The Indian Ocean trade world: East Africa, Arabia, India, Southeast Asia and China, sailing with the predictable monsoon winds.
+- Trans-Saharan routes: West Africa to North Africa, trading especially gold and salt.
+- Arabian and Red Sea routes linking these systems together.
+
+West African empires (Ghana, then Mali, then Songhay) grew rich on trans-Saharan trade. Mansa Musa of Mali's 1324 pilgrimage to Mecca was so lavish that it disrupted gold prices in Cairo.
+
+Port cities such as Kilwa (East Africa), Calicut (India), Malacca (Southeast Asia) and Hormuz (Persian Gulf) were busy, cosmopolitan hubs. Arab, Persian, Gujarati and Chinese merchants dominated Indian Ocean trade for centuries before Vasco da Gama arrived in 1498.
+
+*Key terms:* trade network, Silk Roads, Indian Ocean, trans-Saharan, monsoon, commodity
+
+*Precise evidence:*
+- Mansa Musa's pilgrimage: 1324.
+- Kilwa, Calicut, Malacca and Hormuz were major ports.
+
+##### 3. Is "Age of Exploration" a fair name?
+
+Periodisation means how historians divide the past into named ages. "Age of Exploration" names the period after Europeans began travelling further, treating earlier non-European voyages as background. That is a Eurocentric framing: it sees world history mainly from Europe's point of view.
+
+The label is not useless: European Atlantic and Indian Ocean voyages after 1492 did change the world dramatically. But "discovery" language is contested, because places Europeans "discovered" were usually already known to, and lived in by, other peoples. In this unit we use "encounter" or "arrival" more often than "discovery".
+
+*Key terms:* periodisation, Eurocentric, encounter, discovery
+
+*Precise evidence:*
+- Europeans connected an already connected Afro-Eurasian world to the Americas.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1324 | Mansa Musa of Mali makes his pilgrimage to Mecca via Cairo. |
+| 1325 | Ibn Battuta sets out from Tangier on his travels. |
+| 1405 | Zheng He's first expedition sails. |
+| 1433 | Zheng He's seventh and last expedition ends. |
+| 1492 | Columbus crosses the Atlantic. |
+| 1498 | Vasco da Gama reaches Calicut. |
+
+**Key people**
+
+- **Ibn Battuta** — Moroccan scholar and traveller (1304–c.1368); travelled about 120,000 km.
+- **Zheng He** — Ming Chinese admiral (1371–1433); led seven Indian Ocean expeditions.
+- **Mansa Musa** — Ruler of Mali, famous for his wealth and 1324 pilgrimage.
+
+**Vocabulary**
+
+- **Periodisation** — How historians divide the past into named ages or periods.
+- **Explorer** — Someone who travels to find out about unfamiliar places.
+- **Voyage** — A long journey, usually by sea.
+- **Eurocentric** — Seeing world history mainly from a European point of view.
+- **Trade network** — Connected routes along which goods, people and ideas move.
+- **Silk Roads** — Overland and sea routes linking China, Central Asia, the Middle East and Europe.
+- **Trans-Saharan** — Crossing the Sahara, linking West Africa to North Africa.
+- **Commodity** — A raw material or product that is bought and sold.
+
+**Misconceptions**
+
+- ✗ Europeans were the first long-distance explorers. → ✓ Ibn Battuta and Zheng He travelled vast distances long before 1492.
+- ✗ China stopped its voyages because it could not continue them. → ✓ China chose to end them in the 1430s for political and economic reasons.
+- ✗ Places like Calicut were "undiscovered". → ✓ They were busy, cosmopolitan trading cities long before Europeans arrived.
+- ✗ Europeans created global trade. → ✓ They joined, and later tried to control, networks that already existed.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Roughly how far did Ibn Battuta travel? 1,200 km / 12,000 km / **120,000 km** / 1,200,000 km — *About 120,000 km.*
+2. Zheng He led expeditions for which empire? Mali / **Ming China** / Portugal / The Ottomans — *Ming China, 1405–1433.*
+3. Why did China end Zheng He's voyages? It ran out of ships / **Political and economic choices** / Europeans stopped them / They found nothing — *It was a choice, not a failure.*
+4. Which network relied on predictable monsoon winds? Trans-Saharan / **Indian Ocean** / Silk Roads overland / Atlantic — *Monsoons made seasonal sailing predictable.*
+5. Which two goods were especially important on trans-Saharan routes? Tea and silk / **Gold and salt** / Spices and cotton / Silver and sugar — *Gold and salt.*
+6. Which of these was an East African port city? Calicut / Malacca / **Kilwa** / Hormuz — *Kilwa.*
+7. "Eurocentric" means… Using euros / **Seeing world history mainly from Europe's point of view** / About central Europe / Balanced — *Europe at the centre.*
+8. Why do historians prefer "encounter" to "discovery"? It is shorter / **The places were already known to and lived in by other peoples** / Europeans never travelled / It sounds nicer — *You cannot "discover" somewhere people already live.*
+
+**Short answers**
+
+1. Which Moroccan traveller wrote the Rihla? — **Ibn Battuta**
+2. How many expeditions did Zheng He lead? — **Seven**
+3. In which year was Mansa Musa's pilgrimage? — **1324**
+4. What word means dividing the past into named periods? — **Periodisation**
+5. Name one Indian Ocean port city. — **Kilwa / Calicut / Malacca / Hormuz**
+
+**Chronology — Put these in order** (correct order): Mansa Musa's pilgrimage → Ibn Battuta sets out → Zheng He's first expedition → Zheng He's last expedition ends → Columbus crosses the Atlantic → Da Gama reaches Calicut
+
+**Matching — Match the network to what it linked**
+
+- Silk Roads = China, Central Asia, Middle East and Europe
+- Trans-Saharan routes = West Africa and North Africa
+- Indian Ocean world = East Africa, Arabia, India and Southeast Asia
+- Red Sea routes = Linked the other systems together
+
+**Evidence recall**
+
+- Give precise evidence that long-distance travel was well established before 1492. — *Model:* Ibn Battuta travelled about 120,000 km from 1325, and Zheng He led seven expeditions across the Indian Ocean between 1405 and 1433.
+- Explain why the label "Age of Exploration" can be called Eurocentric. — *Model:* It names the period after Europeans started travelling further, treating earlier non-European voyages such as Zheng He's as background rather than the main story.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Ibn Battuta | Moroccan traveller (1304–c.1368); about 120,000 km. |  |
+| Zheng He | Ming admiral; seven expeditions, 1405–1433. |  |
+| Treasure ships | Zheng He's huge ships, bigger than any European ships for a century. |  |
+| Why did Zheng He's voyages end? | China chose to stop them in the 1430s. |  |
+| Four pre-1492 networks | Silk Roads, Indian Ocean, trans-Saharan, Arabian/Red Sea. |  |
+| Monsoon | Seasonal winds making Indian Ocean sailing predictable. |  |
+| Mansa Musa | Ruler of Mali; 1324 pilgrimage disrupted gold prices in Cairo. |  |
+| Four port cities | Kilwa, Calicut, Malacca, Hormuz. |  |
+| Periodisation | Dividing the past into named periods. |  |
+| Eurocentric | Seeing world history mainly from Europe's point of view. |  |
+| Encounter vs discovery | "Encounter" recognises the places were already inhabited. |  |
+| What did Europeans do after 1492? | Connected an already connected Afro-Eurasia to the Americas. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe the journeys of Ibn Battuta and Zheng He.
+- [Describe — red] I can describe four trade networks that existed before 1492.
+- [Explain — amber] I can explain why port cities like Kilwa and Calicut were important.
+- [Explain — amber] I can explain what "Eurocentric" means.
+- [Judge — green] I can judge whether "Age of Exploration" is a fair name for this period.
+- [Judge — green] I can judge whether "discovery" is the right word.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "Age of Exploration" is a fair name for the period 1400–1600. How far do you agree?
+- *Teacher-created practice question*
+  Describe two features of the Indian Ocean trade world before 1498.
+
+*Guide for ""Age of Exploration" is a fair name for the period 1400–1600. How far do you agree?"*
+
+1. Give the case for the label with evidence (e.g. 1492).
+2. Give the case against with precise evidence (Ibn Battuta, Zheng He).
+3. Reach a qualified judgement.
+
+- Qualified claim
+- Precise evidence on both sides
+- Explaining connectives
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: The label is fair / unfair to a large / some extent because…
+2. E: For example, … in …
+3. E: This means that…
+4. J: Therefore, overall…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> The label is only partly fair, because it treats European voyages as the start of exploration.
+>
+> *P: qualified.*
+
+> Zheng He led seven expeditions across the Indian Ocean between 1405 and 1433, decades before Columbus sailed in 1492.
+>
+> *E: precise.*
+
+> This means long-distance exploration was already well established, so the label centres Europe rather than the whole world.
+>
+> *E: explains.*
+
+> Therefore "Age of Exploration" describes Europe's experience better than the world's.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+*Guide for "Describe two features of the Indian Ocean trade world before 1498."*
+
+1. Pick two features (e.g. monsoon sailing, port cities, merchants).
+2. Add a precise detail for each.
+
+- Two different features
+- Precise detail for each
+
+**Writing frame — sentence starters**
+
+1. One feature was… For example…
+2. A second feature was… For example…
+
+*Lighter support (headings only):* Feature 1 + detail → Feature 2 + detail
+
+**Stretch and challenge**
+
+- **Naming the past:** If Ibn Battuta travelled further than many later Europeans, why is 1400–1600 still often called the "Age of Exploration"?
+- **Joining in:** If the Indian Ocean world was already so large and sophisticated, what does that suggest about why Europeans wanted to join it?
+- **Rename it:** Invent a better name for the period 1400–1600 and justify it using evidence.
+- **Route compare:** Compare the routes of Ibn Battuta, Zheng He and Columbus on a map. What does the comparison reveal?
+
+#### Lessons 3–5: Spices, motives and borrowed knowledge
+
+`y8-ex-2` · Explorers, Encounters and Empire
+
+Why would Europeans risk their lives at sea? This topic follows the spice trade, the motives historians sum up as "Gold, God and Glory", and the knowledge and technology, much of it from China, the Islamic world and the Indian Ocean, that made the voyages possible.
+
+##### 1. The spice trade
+
+Pepper, cinnamon, cloves, nutmeg and mace grew almost only in South and Southeast Asia. Cloves and nutmeg came from a few small Indonesian islands, the Maluku or "Spice Islands".
+
+Before reaching Europe, spices passed through many hands: Asian producers, Indian Ocean merchants, Arab and Venetian middlemen. Each added a mark-up, so spices were extremely expensive.
+
+Spices were used to flavour and preserve food, in medicine, and to show off wealth. Venice and Genoa grew rich as Europe's gateway for spices. Portugal and Spain had no direct access, so they wanted a sea route that bypassed the middlemen.
+
+Pepper was valuable enough that "peppercorn rent", a token but real payment, is still a phrase in English law today.
+
+*Key terms:* commodity, merchant, middleman, monopoly, Spice Islands
+
+*Precise evidence:*
+- Cloves and nutmeg came from the Maluku (Spice) Islands.
+- Venice and Genoa controlled Europe's spice gateway.
+
+##### 2. Gold, God and Glory
+
+Historians often group the motives for European voyages under three headings:
+
+- GOLD (economic): spices, gold, silver; bypassing middlemen; new markets.
+- GOD (religious): spreading Christianity. Spain and Portugal were Catholic kingdoms, and the Reconquista ended with the fall of Granada in 1492, the same year as Columbus's voyage.
+- GLORY (political and personal): rival kingdoms such as Spain and Portugal competed for prestige and land; explorers wanted fame, titles and rewards.
+
+These motives were rarely separate: one voyage could be about wealth, religion and national glory at once. "Spreading Christianity" was also used to justify conquest and forced conversion, which later lessons examine.
+
+*Key terms:* motive, causation, Reconquista, monarchy, conquistador
+
+*Precise evidence:*
+- Granada fell in 1492, ending the Reconquista.
+- Motives overlapped.
+
+##### 3. Borrowed knowledge
+
+European ocean voyages depended on knowledge and technology that mostly did not begin in Europe:
+
+- The magnetic compass was developed in China by about the 11th century.
+- The astrolabe, used to work out latitude from the stars, was refined by Islamic astronomers, building on Greek work.
+- Islamic scholars preserved and advanced Greek geography and astronomy.
+- Arab, Gujarati and East African pilots knew the Indian Ocean's monsoons, currents and coasts; da Gama used a local pilot for the last leg to India in 1498.
+- The caravel combined a European hull with the triangular lateen sail long used in the Indian Ocean and Mediterranean, helping ships sail against the wind.
+
+A popular claim says the navigator Ahmad ibn Majid guided da Gama to India. Historians dispute this, so treat it as a claim to check, not a settled fact.
+
+*Key terms:* navigation, astrolabe, compass, caravel, lateen sail
+
+*Precise evidence:*
+- Compass: China, by c. 11th century.
+- Da Gama used a local pilot from East Africa to India in 1498.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| c. 11th century | The magnetic compass is in use in China. |
+| 1488 | Bartolomeu Dias sails round the Cape of Good Hope. |
+| January 1492 | Granada falls; the Reconquista ends. |
+| August 1492 | Columbus sails west for Spain. |
+| 1494 | The Treaty of Tordesillas divides newly claimed lands between Spain and Portugal. |
+| 1498 | Vasco da Gama reaches India with the help of a local pilot. |
+
+**Key people**
+
+- **Prince Henry "the Navigator"** — Portuguese prince (1394–1460) who sponsored early voyages down the African coast.
+- **Ahmad ibn Majid** — Famous Arab navigator; the claim that he guided da Gama is disputed.
+- **Bartolomeu Dias** — Portuguese sailor who rounded the Cape of Good Hope in 1488.
+
+**Vocabulary**
+
+- **Commodity** — A raw material or product bought and sold.
+- **Merchant** — Someone who buys and sells goods for profit.
+- **Monopoly** — Total control of the trade in a particular good.
+- **Middleman** — A trader who buys from producers and sells on.
+- **Motive** — A reason for doing something.
+- **Causation** — The relationship between causes and their effects.
+- **Navigation** — Planning and following a course, especially at sea.
+- **Astrolabe** — Instrument measuring star positions, used for navigation.
+- **Caravel** — A small, fast Portuguese sailing ship.
+
+**Misconceptions**
+
+- ✗ Spices were mainly used to hide rotten meat. → ✓ They were used for flavour, preserving, medicine and as a status symbol.
+- ✗ Explorers had one motive. → ✓ Gold, God and Glory usually worked together.
+- ✗ European technology made the voyages possible on its own. → ✓ Much of it came from China, the Islamic world and the Indian Ocean.
+- ✗ Ahmad ibn Majid definitely guided da Gama. → ✓ This is a disputed claim, not a settled fact.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Where did cloves and nutmeg mainly come from? Venice / **The Maluku (Spice) Islands** / Portugal / The Caribbean — *A few small Indonesian islands.*
+2. Why were spices so expensive in Europe? They were rare in Asia / **Many middlemen each added a mark-up** / Kings banned them / They were made of gold — *Each stage added cost.*
+3. Which Italian city-state was a main gateway for spices? Rome / **Venice** / Lisbon / Seville — *Venice (and Genoa).*
+4. "God" as a motive refers to… Fame / **Spreading Christianity** / Spices / Better ships — *Religious motive.*
+5. Which event happened in 1492 as well as Columbus's voyage? Zheng He's last voyage / **The fall of Granada** / Da Gama reaches India / The Treaty of Tordesillas — *The end of the Reconquista.*
+6. Where was the magnetic compass developed? Portugal / **China** / England / Mali — *China, by about the 11th century.*
+7. What does an astrolabe help measure? Wind speed / **Latitude from the stars** / Depth of water / Distance travelled — *Star positions → latitude.*
+8. The claim that Ahmad ibn Majid guided da Gama is… Proven / **Disputed by historians** / Impossible / From Columbus's journal — *Treat it as a claim to check.*
+
+**Short answers**
+
+1. What word means total control of the trade in a good? — **Monopoly**
+2. Name the three motives often used to explain the voyages. — **Gold, God, Glory**
+3. What type of sail did the caravel use? — **Lateen (triangular)**
+4. Which instrument measured star positions? — **Astrolabe**
+5. Which islands were known as the Spice Islands? — **The Maluku Islands**
+
+**Chronology — Put these in order** (correct order): Compass in use in China → Dias rounds the Cape of Good Hope → Granada falls → Columbus sails west → Treaty of Tordesillas → Da Gama reaches India
+
+**Matching — Match the motive to an example**
+
+- Gold = Bypassing Venetian and Arab middlemen
+- God = Spreading Catholic Christianity
+- Glory = Spain and Portugal competing for prestige
+- Capability = Compass, astrolabe and caravel
+
+**Evidence recall**
+
+- Explain why Portugal and Spain wanted a sea route to Asia. — *Model:* Spices reached Europe through Venetian and Arab middlemen who each added a mark-up. A direct sea route would let Portugal and Spain bypass them and take the profit themselves.
+- Give precise evidence that European voyages relied on knowledge from beyond Europe. — *Model:* The compass came from China, the astrolabe was refined by Islamic astronomers, and da Gama used a local pilot for the final leg to India in 1498.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Spice Islands | The Maluku Islands in Indonesia: cloves and nutmeg. |  |
+| Middleman | A trader who buys from producers and sells on, adding a mark-up. |  |
+| Monopoly | Total control of trade in a good. |  |
+| Peppercorn rent | A token payment: shows how valuable pepper once was. |  |
+| Gold, God, Glory | Economic, religious and political/personal motives. |  |
+| End of the Reconquista | Fall of Granada, January 1492. |  |
+| Do motives work alone? | Rarely: one voyage could have all three. |  |
+| Compass origin | China, by about the 11th century. |  |
+| Astrolabe | Refined by Islamic astronomers; measures stars to find latitude. |  |
+| Caravel | Portuguese ship: European hull + lateen sail. |  |
+| Ahmad ibn Majid claim | Disputed: treat as a claim, not a fact. |  |
+| Dias | Rounded the Cape of Good Hope, 1488. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe how spices travelled from Asia to Europe.
+- [Describe — red] I can describe the three motives: Gold, God and Glory.
+- [Explain — amber] I can explain why spices were so expensive in Europe.
+- [Explain — amber] I can explain how knowledge from beyond Europe made the voyages possible.
+- [Judge — green] I can judge which motive was most important, recognising they overlapped.
+- [Judge — green] I can judge whether "borrowed knowledge" changes how significant European voyages were.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "Gold was the main reason Europeans travelled further." How far do you agree?
+- *Teacher-created practice question*
+  Explain how knowledge from beyond Europe made European voyages possible.
+
+*Guide for ""Gold was the main reason Europeans travelled further." How far do you agree?"*
+
+1. Explain the gold/economic motive with spice evidence.
+2. Explain at least one other motive with evidence.
+3. Judge, using a qualifier, and say how they linked.
+
+- Qualified claim
+- Precise evidence
+- Shows links between motives
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: Gold was to a large / some extent the main reason because…
+2. E: For example, spices passed through…
+3. E: This meant that… However, God / Glory…
+4. J: Therefore, overall…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+*Guide for "Explain how knowledge from beyond Europe made European voyages possible."*
+
+1. Choose two examples (compass, astrolabe, pilots, lateen sail).
+2. Say where each came from.
+3. Explain how it helped ships sail further.
+
+- Two examples
+- Origin of each
+- Explains how it helped
+
+**Writing frame — sentence starters**
+
+1. P: Knowledge from beyond Europe was highly important because…
+2. E: For example, the compass from China…
+3. E: This meant that… As a result…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Price and value:** If spices were expensive mainly because of the middlemen, did their price reflect how useful they were, or something else?
+- **Too simple?:** Is Gold, God and Glory too simple a model for why people do things? Suggest a better model.
+- **Significance:** If Europeans depended on Chinese, Islamic and Indian Ocean knowledge, does that change how significant their voyages were, or just how we explain them?
+- **Check a claim:** Research the Ahmad ibn Majid story. What evidence would you need to decide whether it is true?
+
+#### Lessons 6–7: Columbus and the Columbian Exchange
+
+`y8-ex-3` · Explorers, Encounters and Empire
+
+In 1492 Christopher Columbus reached the Caribbean. Was he a great explorer or an invader? And what changed after 1492, and for whom? This topic puts Columbus on trial and examines the Columbian Exchange.
+
+##### 1. Columbus on trial
+
+In October 1492 Columbus, sailing for Spain, reached islands in the Caribbean (probably the Bahamas, then Cuba and Hispaniola), believing he was near Asia. He made three more voyages (1493, 1498, 1502).
+
+The islands were home to the Taíno people, with their own societies, farming (including cassava), religion and trade. They were not an empty land.
+
+Columbus's journal, which survives through later copies, shows curiosity about the Taíno but also an intention to take control: he noted they could easily be conquered and made to work. He set up Spanish settlements, took Taíno captives to Spain and began forced labour, later formalised as the encomienda system. With disease and violence, this devastated the Taíno within decades.
+
+Historians can hold two ideas at once: Columbus was a skilled navigator, and his arrival began a violent colonial process. We have no written sources by the Taíno from 1492, so their history survives through archaeology, oral tradition and Spanish accounts. That gap is itself a lesson about whose voices survive.
+
+*Key terms:* Taíno, encounter, invader, encomienda, perspective
+
+*Precise evidence:*
+- Columbus reached the Caribbean in October 1492.
+- Voyages: 1492, 1493, 1498, 1502.
+
+##### 2. The Columbian Exchange
+
+The "Columbian Exchange", a term coined by the historian Alfred Crosby in 1972, describes the huge transfer of plants, animals, people, diseases and ideas between the Americas and Afro-Eurasia after 1492.
+
+- From the Americas: maize, potatoes, tomatoes, cacao and chilli peppers, which changed diets across Europe, Africa and Asia.
+- To the Americas: wheat, sugar, coffee, and animals such as horses, cattle and pigs. Horses reshaped many Plains societies.
+- Disease: smallpox, measles and influenza, to which Indigenous Americans had no immunity.
+
+Historians estimate that Indigenous populations in parts of the Americas fell by 80–90% within about a century of contact, caused mostly by disease, made worse by violence, forced labour and displacement.
+
+The exchange was not equal. Europe gained new foods and wealth; Indigenous Americans faced catastrophe. That is why "discovery" is contested: for the millions already living in the Americas, 1492 was the start of invasion and disease.
+
+*Key terms:* Columbian Exchange, epidemic, Indigenous, immunity
+
+*Precise evidence:*
+- Crosby coined "Columbian Exchange" in 1972.
+- Indigenous populations fell by an estimated 80–90% in parts of the Americas.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1492 | Columbus reaches the Caribbean and meets the Taíno. |
+| 1493 | Columbus's second voyage sets up Spanish settlement on Hispaniola. |
+| 1498 | Columbus's third voyage. |
+| 1502 | Columbus's fourth and final voyage. |
+| 1500s | Smallpox and other diseases devastate Indigenous populations. |
+| 1972 | Historian Alfred Crosby coins the term "Columbian Exchange". |
+
+**Key people**
+
+- **Christopher Columbus** — Navigator sailing for Spain; reached the Caribbean in 1492.
+- **The Taíno** — Indigenous people of the Caribbean islands Columbus reached.
+- **Alfred Crosby** — Historian who coined "Columbian Exchange" in 1972.
+
+**Vocabulary**
+
+- **Taíno** — Indigenous people Columbus encountered in the Caribbean in 1492.
+- **Invader** — Someone who enters a place by force to take control.
+- **Encounter** — A meeting, often unplanned or between strangers.
+- **Columbian Exchange** — Transfer of plants, animals, people and diseases between the Americas and the rest of the world after 1492.
+- **Epidemic** — A rapid, widespread outbreak of disease.
+- **Indigenous** — Originating in and native to a particular place.
+- **Encomienda** — Spanish system of forced Indigenous labour.
+
+**Misconceptions**
+
+- ✗ Columbus discovered an empty land. → ✓ The Taíno and many other peoples already lived there.
+- ✗ Most Indigenous deaths were from Spanish weapons. → ✓ Disease caused most deaths, worsened by violence and forced labour.
+- ✗ The exchange benefited everyone equally. → ✓ Europe gained greatly; Indigenous Americans suffered catastrophe.
+- ✗ We have the Taíno's own written account of 1492. → ✓ No Taíno-written sources survive; we rely on archaeology, oral tradition and Spanish accounts.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Who lived on the Caribbean islands Columbus reached? The Mexica / **The Taíno** / The Inca / Nobody — *The Taíno.*
+2. Where did Columbus believe he had arrived? Africa / **Islands near Asia** / Europe / Australia — *He thought he was near Asia.*
+3. Why must historians be careful with Columbus's journal? It is fiction / **It survives through a later summary and was written for his sponsors** / It is in Chinese / It was written in 1972 — *Provenance matters.*
+4. Why do we lack Taíno written sources from 1492? They were all lost in a fire / **Their history survives mainly through archaeology, oral tradition and Spanish accounts** / They lived after 1492 / They refused to meet Columbus — *Whose voices survive is itself a historical question.*
+5. Who coined the term "Columbian Exchange"? Columbus / **Alfred Crosby** / Zheng He / Las Casas — *Crosby, 1972.*
+6. Which crop came FROM the Americas? Wheat / Sugar / **Potatoes** / Coffee — *Potatoes, maize, tomatoes, cacao, chillies.*
+7. What caused most Indigenous deaths after 1492? Earthquakes / **Disease** / Famine only / Volcanoes — *Disease, worsened by violence and forced labour.*
+8. By roughly how much did Indigenous populations fall in parts of the Americas within a century? 10–20% / 30–40% / **80–90%** / They grew — *An estimated 80–90%.*
+
+**Short answers**
+
+1. In what year did Columbus first reach the Caribbean? — **1492**
+2. Name the Indigenous people Columbus met in 1492. — **The Taíno**
+3. Name one crop that went from the Americas to the rest of the world. — **Maize / potatoes / tomatoes / cacao / chillies**
+4. Name one animal taken to the Americas. — **Horses / cattle / pigs**
+5. What word means a rapid, widespread outbreak of disease? — **Epidemic**
+
+**Chronology — Put these in order** (correct order): Columbus reaches the Caribbean → Second voyage: settlement on Hispaniola → Third voyage → Fourth voyage → Crosby coins "Columbian Exchange"
+
+**Matching — Which way did it travel?**
+
+- Potatoes = From the Americas
+- Horses = To the Americas
+- Smallpox = To the Americas (disease)
+- Cacao = From the Americas (food)
+
+**Evidence recall**
+
+- Give evidence that the Caribbean was not an empty land in 1492. — *Model:* The Taíno already lived there, with their own farming (including cassava), religion and trade, shown by objects such as zemi carvings.
+- Explain why the Columbian Exchange was not equal. — *Model:* Europe gained new foods and wealth, but Indigenous Americans suffered population falls of an estimated 80–90% in some areas, mostly from diseases such as smallpox.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Columbus's first arrival | October 1492, in the Caribbean. |  |
+| Taíno | Indigenous Caribbean people Columbus encountered. |  |
+| Encomienda | Spanish forced labour system. |  |
+| Columbus's four voyages | 1492, 1493, 1498, 1502. |  |
+| Explorer or invader? | Historians can hold both: skilled navigator AND start of violent colonisation. |  |
+| Missing voices | No Taíno-written sources survive from 1492. |  |
+| Columbian Exchange | Transfer of plants, animals, people, diseases after 1492 (term: Crosby, 1972). |  |
+| From the Americas | Maize, potatoes, tomatoes, cacao, chillies. |  |
+| To the Americas | Wheat, sugar, coffee, horses, cattle, pigs. |  |
+| Main killer after 1492 | Disease, especially smallpox. |  |
+| Population fall | An estimated 80–90% in parts of the Americas within a century. |  |
+| Why "encounter" not "discovery"? | The Americas were already home to millions of people. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe what happened when Columbus reached the Caribbean in 1492.
+- [Describe — red] I can describe the Columbian Exchange with examples in both directions.
+- [Explain — amber] I can explain why we lack Taíno-written sources and why that matters.
+- [Explain — amber] I can explain why disease caused such huge population losses.
+- [Judge — green] I can judge whether Columbus should be remembered as an explorer or an invader.
+- [Judge — green] I can judge who gained and who lost from the Columbian Exchange.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  Christopher Columbus: explorer or invader? Reach a judgement.
+- *Teacher-created practice question*
+  Explain two consequences of the Columbian Exchange.
+
+*Guide for "Christopher Columbus: explorer or invader? Reach a judgement."*
+
+1. Give evidence for "explorer".
+2. Give evidence for "invader".
+3. Decide, using a qualifier; you can argue he was both.
+
+- Qualified claim
+- Precise evidence for both
+- Considers Taíno perspective
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: Columbus was mainly an explorer / invader, to a large / some extent, because…
+2. E: For example, in 1492…
+3. E: This meant that… However…
+4. J: Therefore, overall…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> Columbus is better described as an invader than simply an explorer, although he was both.
+>
+> *P: qualified.*
+
+> He was a skilled navigator who crossed the Atlantic in 1492, but his own journal noted that the Taíno could easily be conquered and made to work.
+>
+> *E: precise, both sides.*
+
+> This meant his arrival began forced labour and Spanish settlement, which, with disease, devastated the Taíno within decades.
+>
+> *E: explains consequences.*
+
+> Therefore, from the Taíno perspective especially, "invader" is the more accurate description.
+>
+> *J: judgement with perspective.*
+
+*An example, not the only way to answer.*
+
+*Guide for "Explain two consequences of the Columbian Exchange."*
+
+1. Pick two consequences (e.g. new diets; disease and population collapse).
+2. Give precise examples.
+3. Explain who was affected and how.
+
+- Two consequences
+- Precise examples
+- Explains effects
+
+**Writing frame — sentence starters**
+
+1. P: One consequence was…
+2. E: For example…
+3. E: This meant that…
+4. J: A second consequence… Overall, the most serious was…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Both at once:** Can someone be both a skilled, significant navigator AND the person who began a violent process of colonisation? Does one cancel out the other?
+- **Responsibility:** If disease, not weapons, caused most Indigenous deaths, does that change how we judge the moral responsibility of explorers and settlers?
+- **Missing voices:** How can historians reconstruct the Taíno experience without Taíno-written sources?
+- **Trial:** Write the prosecution and defence opening statements for "Columbus on Trial".
+
+#### Lessons 8–9: Conquest and the Indian Ocean
+
+`y8-ex-4` · Explorers, Encounters and Empire
+
+How could a few hundred Spanish soldiers bring down the Mexica (Aztec) Empire? And why did the Portuguese have such a different experience when Vasco da Gama entered the Indian Ocean? This topic compares two very different encounters.
+
+##### 1. The fall of the Mexica Empire
+
+In 1519 Hernán Cortés landed in Mexico with roughly 500–600 Spanish soldiers. By 1521 the Mexica (Aztec) Empire, ruling millions from its capital Tenochtitlan, one of the largest cities in the world, had fallen. A small force defeating a huge empire needs several causes:
+
+- ALLIANCES: many peoples resented Mexica rule. The Tlaxcalans, long-standing enemies of the Mexica, allied with Cortés and provided tens of thousands of warriors, arguably the biggest single factor.
+- DISEASE: smallpox devastated the Mexica, killing the emperor Cuitláhuac in 1520 at a critical moment.
+- TECHNOLOGY: steel weapons, some firearms and horses gave real but often overstated advantages.
+- POLITICS: Mexica caution and internal tensions gave Cortés time to build alliances.
+
+Historians usually judge Indigenous alliances and disease the most significant. The popular idea that Spanish weapons alone won is a myth that erases the Indigenous allies who vastly outnumbered the Spanish.
+
+*Key terms:* Mexica (Aztec) Empire, Tenochtitlan, Tlaxcalans, alliance, conquest, conquistador
+
+*Precise evidence:*
+- Cortés landed in 1519 with about 500–600 soldiers.
+- Tenochtitlan fell in 1521.
+- Cuitláhuac died of smallpox in 1520.
+
+##### 2. Meanwhile, in the Indian Ocean
+
+In 1498 Vasco da Gama's fleet rounded Africa and reached Calicut on India's west coast, the first European ships to sail directly from Europe to India.
+
+He did not arrive in an unconnected world. Calicut, ruled by the Zamorin, was part of the sophisticated Indian Ocean trading world. Da Gama's cheap trade goods did not impress, and established Arab merchants were rivals.
+
+Because Portugal could not out-compete these merchants by trade alone, it turned to force: naval violence and fortified trading posts such as Hormuz (1507) and Goa (captured 1510) under Afonso de Albuquerque, to control key routes and tax trade.
+
+The contrast matters: in the Indian Ocean, Europeans were one relatively weak newcomer trying to muscle into a powerful system. Portugal never controlled the whole of Indian Ocean trade, only parts of it, for a limited time.
+
+*Key terms:* Calicut, Zamorin, fort, Indian Ocean trade world, comparison
+
+*Precise evidence:*
+- Da Gama reached Calicut in 1498.
+- Hormuz 1507; Goa 1510.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1498 | Vasco da Gama reaches Calicut. |
+| 1507 | The Portuguese seize Hormuz. |
+| 1510 | Albuquerque captures Goa. |
+| 1519 | Cortés lands in Mexico. |
+| 1520 | The Mexica emperor Cuitláhuac dies of smallpox. |
+| 1521 | Tenochtitlan falls. |
+
+**Key people**
+
+- **Hernán Cortés** — Spanish conquistador who landed in Mexico in 1519.
+- **Cuitláhuac** — Mexica emperor who died of smallpox in 1520.
+- **The Tlaxcalans** — Indigenous nation who allied with Cortés against the Mexica.
+- **Vasco da Gama** — Portuguese commander who reached Calicut in 1498.
+- **The Zamorin** — Ruler of Calicut.
+- **Afonso de Albuquerque** — Portuguese commander who seized Goa in 1510.
+
+**Vocabulary**
+
+- **Mexica (Aztec) Empire** — Large empire centred on Tenochtitlan in central Mexico.
+- **Alliance** — An agreement to work together, often against a common enemy.
+- **Tlaxcalans** — Indigenous nation who allied with Cortés.
+- **Conquest** — Taking control of a place or people by force.
+- **Calicut** — Major Indian Ocean port on India's Malabar coast.
+- **Fort** — A strengthened military building used to control or defend territory.
+- **Comparison** — Examining similarities and differences.
+
+**Misconceptions**
+
+- ✗ A few hundred Spaniards defeated the Mexica with better weapons. → ✓ Tens of thousands of Indigenous allies and smallpox were usually more decisive.
+- ✗ Da Gama found an undeveloped world in India. → ✓ He entered a sophisticated trading system that was not impressed by his goods.
+- ✗ Portugal controlled the Indian Ocean. → ✓ It controlled only parts of the trade, for a limited time.
+- ✗ Exploration looked the same everywhere. → ✓ Encounters in the Americas and the Indian Ocean were very different.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Roughly how many Spanish soldiers landed with Cortés in 1519? 50 / **500–600** / 50,000 / 500,000 — *About 500–600.*
+2. Which Indigenous nation allied with Cortés? The Taíno / **The Tlaxcalans** / The Inca / The Maya of Yucatán — *The Tlaxcalans.*
+3. What killed the emperor Cuitláhuac in 1520? A battle wound / **Smallpox** / Poison / Old age — *Smallpox.*
+4. Which factor do historians usually rank most significant? Spanish horses alone / **Indigenous alliances (and disease)** / The weather / Spanish ships — *Allies and disease.*
+5. In which year did Tenochtitlan fall? 1492 / 1519 / **1521** / 1588 — *1521.*
+6. Where did da Gama arrive in 1498? Goa / **Calicut** / Hormuz / Malacca — *Calicut.*
+7. Why did the Portuguese turn to force in the Indian Ocean? They had nothing to trade / **They could not out-compete established merchants by trade alone** / The Zamorin asked them to / They wanted to explore inland — *Force and forts instead of fair competition.*
+8. Which city did Albuquerque capture in 1510? Calicut / **Goa** / Kilwa / Tenochtitlan — *Goa.*
+
+**Short answers**
+
+1. What was the Mexica capital called? — **Tenochtitlan**
+2. Who led the Spanish forces in Mexico? — **Hernán Cortés**
+3. What was the title of Calicut's ruler? — **The Zamorin**
+4. In which year did da Gama reach Calicut? — **1498**
+5. What disease devastated the Mexica? — **Smallpox**
+
+**Chronology — Put these in order** (correct order): Da Gama reaches Calicut → Portuguese seize Hormuz → Albuquerque captures Goa → Cortés lands in Mexico → Cuitláhuac dies of smallpox → Tenochtitlan falls
+
+**Matching — Match the factor to the evidence**
+
+- Alliances = Tens of thousands of Tlaxcalan warriors
+- Disease = Smallpox killed Cuitláhuac in 1520
+- Technology = Steel weapons and horses
+- Politics = Mexica caution gave Cortés time
+
+**Evidence recall**
+
+- Give precise evidence that Indigenous allies were vital to the fall of the Mexica. — *Model:* The Tlaxcalans provided tens of thousands of warriors, while Cortés had only about 500–600 Spanish soldiers, so Indigenous allies vastly outnumbered the Spanish.
+- Explain one key difference between European experiences in the Americas and the Indian Ocean. — *Model:* In the Americas, Spain helped bring down the Mexica Empire, but in the Indian Ocean Portugal was a relatively weak newcomer that could only control parts of trade through forts like Goa.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Cortés lands in Mexico | 1519, with about 500–600 soldiers. |  |
+| Fall of Tenochtitlan | 1521. |  |
+| Tlaxcalans | Indigenous allies of Cortés: tens of thousands of warriors. |  |
+| Cuitláhuac | Mexica emperor killed by smallpox in 1520. |  |
+| Four causes of Mexica defeat | Alliances, disease, technology, politics. |  |
+| The weapons myth | Spanish weapons alone did not win; allies and disease were more decisive. |  |
+| Da Gama reaches Calicut | 1498. |  |
+| Zamorin | Ruler of Calicut. |  |
+| Hormuz | Seized by Portugal, 1507. |  |
+| Goa | Captured by Albuquerque, 1510. |  |
+| Portugal in the Indian Ocean | A weak newcomer using force and forts; never controlled all trade. |  |
+| Key contrast | Conquest of an empire in the Americas vs muscling into an existing system in the Indian Ocean. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe how the Mexica Empire fell between 1519 and 1521.
+- [Describe — red] I can describe what happened when da Gama reached Calicut.
+- [Explain — amber] I can explain the four causes of the Mexica defeat.
+- [Explain — amber] I can explain why Portugal relied on force and forts in the Indian Ocean.
+- [Judge — green] I can judge which cause was most important in the fall of the Mexica.
+- [Judge — green] I can compare European encounters in the Americas and the Indian Ocean.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "Spanish weapons were the main reason the Mexica Empire fell." How far do you agree?
+- *Teacher-created practice question*
+  Explain why Portugal's experience in the Indian Ocean was different from Spain's in the Americas.
+
+*Guide for ""Spanish weapons were the main reason the Mexica Empire fell." How far do you agree?"*
+
+1. Explain how technology helped, with evidence.
+2. Explain at least one other factor with stronger evidence.
+3. Judge with a qualifier.
+
+- Qualified claim
+- Precise evidence (numbers, dates, names)
+- Explains links between factors
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: I agree / disagree to a large / some extent because…
+2. E: For example, Cortés had… while…
+3. E: This meant that… as a result…
+4. J: Therefore, the most important factor was…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> I largely disagree: Spanish weapons mattered, but Indigenous alliances were more important.
+>
+> *P: qualified.*
+
+> Cortés had only about 500–600 soldiers, but the Tlaxcalans provided tens of thousands of warriors.
+>
+> *E: precise.*
+
+> This meant most of the fighting was done by Indigenous forces, and smallpox, which killed Cuitláhuac in 1520, further weakened the Mexica at a crucial moment.
+>
+> *E: explains and links.*
+
+> Therefore weapons were a supporting factor, while alliances and disease were decisive.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+*Guide for "Explain why Portugal's experience in the Indian Ocean was different from Spain's in the Americas."*
+
+1. Describe what Portugal found in the Indian Ocean.
+2. Describe what Spain did in Mexico.
+3. Explain why they differed.
+
+- Clear comparison
+- Precise evidence for both
+- Explains reasons
+
+**Writing frame — sentence starters**
+
+1. P: Portugal's experience was very different because…
+2. E: In 1498 at Calicut… whereas in 1519–21…
+3. E: This meant that…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Naming it:** If Indigenous allies provided most of the fighting force, should it be called a "Spanish conquest" at all?
+- **Force:** Why might arriving as a weak newcomer have led Portugal to rely on force and forts rather than fair trade?
+- **Indigenous sources:** What can Nahua accounts tell us that Spanish accounts cannot, and what are their limits?
+- **Counterfactual:** Without smallpox, could Cortés have won? Use evidence to argue.
+
+#### Lessons 10–12: Winners, losers and significance
+
+`y8-ex-5` · Explorers, Encounters and Empire
+
+Who gained and who lost from European expansion? This topic brings the unit together, introduces the transatlantic slave trade as a direct consequence of what you have studied, and asks who deserves to be remembered as a significant traveller, ready for your AP1 research project.
+
+##### 1. Who gained and who lost?
+
+European expansion after 1492 had very different consequences for different groups:
+
+- EUROPEAN POWERS gained enormously: silver and gold from the Americas (especially from Spanish mines at Potosí, from 1545), new crops and new colonies.
+- INDIGENOUS AMERICANS faced catastrophe: population collapse from disease, loss of land and independence, forced labour and conquest. They also survived, resisted and kept their cultures alive.
+- ENSLAVED AFRICANS: as Indigenous populations collapsed and European demand for labour on sugar plantations grew, Europeans turned to the forced transportation of enslaved people from West and Central Africa across the Atlantic. Over more than 300 years, over 12 million Africans were forcibly transported.
+
+The transatlantic slave trade was directly connected to the processes you have studied: the Columbian Exchange, colonisation and plantation sugar.
+
+"Winners and losers" can oversimplify. Not all Europeans gained (many ordinary sailors and soldiers died or gained little), and Indigenous and African peoples were not passive victims: they resisted, adapted and shaped outcomes.
+
+*Key terms:* colonisation, transatlantic slave trade, consequence, exploitation, Potosí
+
+*Precise evidence:*
+- Potosí silver discovered 1545.
+- Over 12 million Africans were forcibly transported across the Atlantic over more than 300 years.
+
+##### 2. Who changed the world? Judging significance
+
+Significance is judged with criteria, not popularity: scale, impact, duration, revealing and remembered (the same toolkit you used in Year 7).
+
+The criteria give surprising results. Zheng He's voyages were arguably larger in scale than Columbus's, but had less lasting global impact because China ended them. Columbus's first voyage was smaller, but its consequences, the Columbian Exchange and colonisation, were transformative and irreversible.
+
+Significance also depends on whose perspective you take and which criteria you prioritise.
+
+*Key terms:* significance, legacy, criteria
+
+*Precise evidence:*
+- Criteria: scale, impact, duration, revealing, remembered.
+
+##### 3. Ready to research: your AP1 project
+
+For AP1 you research one traveller or explorer and answer: How significant was your traveller's journey, and how should they be remembered?
+
+Your planning sheet needs: the traveller and dates; your central argument; at least three credible sources with a bibliography; evidence about the route; motives; encounters; consequences; your chosen significance criteria; at least one alternative perspective; and an initial judgement.
+
+Use credible sources (museums, universities, published historians) and record where each fact comes from.
+
+*Key terms:* research, credible source, bibliography, alternative perspective
+
+*Precise evidence:*
+- At least three credible sources.
+- Apply significance criteria explicitly.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1492 | Columbus reaches the Caribbean. |
+| 1498 | Da Gama reaches Calicut. |
+| 1521 | Tenochtitlan falls. |
+| 1545 | Silver is discovered at Potosí in the Andes. |
+| 1500s–1800s | The transatlantic slave trade forcibly transports over 12 million Africans. |
+| 1807 | Britain abolishes its slave trade. |
+
+**Key people**
+
+- **Ibn Battuta** — Moroccan traveller, about 120,000 km.
+- **Zheng He** — Ming admiral; seven voyages.
+- **Christopher Columbus** — Reached the Caribbean in 1492.
+- **Hernán Cortés** — Led the Spanish in the fall of the Mexica.
+- **Vasco da Gama** — Reached India by sea in 1498.
+
+**Vocabulary**
+
+- **Colonisation** — A state establishing control over another territory and its people.
+- **Transatlantic slave trade** — The forced transportation of enslaved Africans to the Americas.
+- **Consequence** — A result of an event.
+- **Exploitation** — Using someone or something unfairly for one's own benefit.
+- **Significance** — How important something is judged to be, using criteria.
+- **Legacy** — What remains or is remembered after someone's actions.
+- **Bibliography** — A list of the sources you used.
+
+**Misconceptions**
+
+- ✗ All Europeans got rich. → ✓ Many sailors and soldiers died or gained little.
+- ✗ Indigenous and African peoples were passive victims. → ✓ They resisted, adapted and shaped outcomes.
+- ✗ The slave trade was a separate story from exploration. → ✓ It grew directly out of colonisation, the Columbian Exchange and sugar plantations.
+- ✗ The most famous explorer is the most significant. → ✓ Significance depends on criteria and perspective.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Where was silver discovered in 1545? Calicut / **Potosí** / Tenochtitlan / Lisbon — *Potosí, in the Andes.*
+2. Why did European demand for enslaved Africans grow? Africans asked to go / **Indigenous populations collapsed and sugar plantations needed labour** / There was no work in Europe / Zheng He started it — *Disease + plantation demand.*
+3. Roughly how many Africans were forcibly transported across the Atlantic? 12,000 / 120,000 / **Over 12 million** / 1 billion — *Over 12 million, over more than 300 years.*
+4. Why can "winners and losers" oversimplify? Everyone lost / **Not all Europeans gained, and Indigenous and African peoples resisted** / Nobody gained / It ignores dates — *Look for nuance.*
+5. Why was Zheng He arguably less significant in the long term than Columbus? His voyages were small / **China ended the voyages, so lasting impact was smaller** / He never sailed / He sailed after Columbus — *Scale vs lasting impact.*
+6. Which is a significance criterion? Popularity / **Duration** / Height / Wealth — *Scale, impact, duration, revealing, remembered.*
+7. How many credible sources does the AP1 project need at least? One / Two / **Three** / Ten — *At least three.*
+8. A bibliography is… A biography / **A list of the sources you used** / A timeline / A map — *Record your sources.*
+
+**Short answers**
+
+1. In which year was silver discovered at Potosí? — **1545**
+2. Which crop's plantations drove demand for enslaved labour? — **Sugar**
+3. Name two significance criteria. — **Scale, impact, duration, revealing, remembered**
+4. What word means using someone unfairly for your own benefit? — **Exploitation**
+5. What is the list of sources at the end of a project called? — **Bibliography**
+
+**Chronology — Put these in order** (correct order): Columbus reaches the Caribbean → Da Gama reaches Calicut → Tenochtitlan falls → Silver discovered at Potosí → Britain abolishes its slave trade
+
+**Matching — Match the group to a consequence**
+
+- European powers = Silver from Potosí and new colonies
+- Indigenous Americans = Population collapse and loss of land
+- Enslaved Africans = Forced transportation across the Atlantic
+- Ordinary sailors = Often died or gained little
+
+**Evidence recall**
+
+- Explain how the transatlantic slave trade was connected to earlier events in this unit. — *Model:* Disease collapsed Indigenous populations, while the Columbian Exchange brought sugar to the Americas. Europeans then forcibly transported enslaved Africans to work on sugar plantations.
+- Use two criteria to compare the significance of Zheng He and Columbus. — *Model:* Zheng He scores highly on scale, with seven huge expeditions, but lower on duration because China ended them. Columbus's voyage was smaller in scale, but its impact and duration were enormous because it began the Columbian Exchange and colonisation.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Potosí | Spanish silver mines in the Andes, from 1545. |  |
+| Transatlantic slave trade | Forced transportation of over 12 million Africans to the Americas over 300+ years. |  |
+| Why did it grow? | Indigenous population collapse + demand for plantation labour (sugar). |  |
+| European gains | Silver, gold, new crops, colonies. |  |
+| Indigenous losses | Population collapse, land, independence, forced labour. |  |
+| Nuance | Not all Europeans gained; Indigenous and African peoples resisted. |  |
+| Significance criteria | Scale, impact, duration, revealing, remembered. |  |
+| Zheng He vs Columbus | Zheng He: bigger scale, less lasting impact. Columbus: smaller scale, transformative impact. |  |
+| Significance depends on… | Criteria chosen and whose perspective. |  |
+| AP1 question | How significant was your traveller's journey, and how should they be remembered? |  |
+| Minimum sources | At least three credible sources. |  |
+| Bibliography | List of sources used. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe who gained and who lost from European expansion.
+- [Explain — amber] I can explain how the transatlantic slave trade grew out of colonisation and the Columbian Exchange.
+- [Explain — amber] I can explain why "winners and losers" can oversimplify.
+- [Explain — amber] I can apply significance criteria to a traveller.
+- [Judge — green] I can judge which traveller was most significant and justify it.
+- [Judge — green] I can plan a research project with credible sources and an alternative perspective.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  How significant was your chosen traveller's journey, and how should they be remembered? (AP1 research question, practice plan)
+- *Teacher-created practice question*
+  "Everyone involved in European expansion was either a winner or a loser." How far do you agree?
+
+*Guide for "How significant was your chosen traveller's journey, and how should they be remembered? (AP1 research question, practice plan)"*
+
+1. State your traveller and dates.
+2. Apply two or three criteria with precise evidence.
+3. Consider an alternative perspective.
+4. Judge how significant they were and how they should be remembered.
+
+- Criteria named and applied
+- Precise evidence
+- Alternative perspective
+- Qualified judgement
+
+**Writing frame — sentence starters**
+
+1. P: … was highly / partly significant because…
+2. E: In terms of scale / impact / duration…, for example…
+3. E: This meant that… However, from the perspective of…
+4. J: Therefore, … should be remembered as…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+*Guide for ""Everyone involved in European expansion was either a winner or a loser." How far do you agree?"*
+
+1. Show who clearly gained or lost.
+2. Show where the model oversimplifies (ordinary Europeans; resistance).
+3. Judge with a qualifier.
+
+- Qualified claim
+- Precise evidence for several groups
+- Recognises resistance and agency
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: I agree to some extent because…
+2. E: For example, Spain gained… while…
+3. E: However, this oversimplifies because…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Is it too simple?:** If a process created huge gains for some and catastrophe for others at the same time, is "winners and losers" too simple, or exactly the right way to show the inequality?
+- **Different criteria:** Could a traveller be highly significant on scale but less significant on lasting impact? Give an example from the unit.
+- **Explorer World Cup:** Run a knockout bracket of the unit's travellers, deciding each match with one named criterion.
+- **Remembering:** How should a museum display Columbus today? Write the label.
+
+### Why did Africans come to Tudor England? — Unit 2
+
+#### Why did they come?: Why did Africans come to Tudor England?
+
+`y8-af-1` · Why did Africans come to Tudor England?
+
+Africans lived in England long before the 20th century. Historians have found hundreds of named Africans in Tudor and Stuart records, from royal trumpeters to sailors, divers and seamstresses. This topic asks why they came, using the push and pull factors that the Pearson GCSE Migrants in Britain course uses for every period.
+
+##### 1. An African presence in Tudor England
+
+Africans lived in Tudor towns such as London, Southampton, Plymouth and Bristol. Miranda Kaufmann has documented over 360 named Africans in Britain between 1500 and 1640, and Onyeka Nubia argues that some were born in England.
+
+Historians find them in parish registers (baptisms, marriages, burials), royal accounts, court cases, letters and wills. Words used at the time included "blackamoore", "Moor" and "Ethiopian". These are historical terms, and they did not always mean the same thing.
+
+This was part of England's growing international role: more trade, exploration and contact with Africa, Spain, Portugal and the Mediterranean.
+
+*Key terms:* Black Tudors, blackamoore, parish register, presence
+
+*Precise evidence:*
+- Over 360 Africans documented in Britain, 1500–1640 (Kaufmann).
+
+##### 2. Reasons: why did Africans come?
+
+Reasons were often mixed. Historians group them into push and pull factors:
+
+- Royal and noble households: Catherine of Aragon arrived from Spain in 1501 with a household that included Africans. Spain and Portugal already had large African populations.
+- Trade: merchants traded with Morocco, West Africa and the Iberian peninsula. Mary Fillis came from Morocco around 1583.
+- Skills: Africans brought skills that were valued, such as music (John Blanke, trumpeter) and diving (Jacques Francis).
+- Escaping Spanish slavery: Diego escaped Spanish enslavement in Panama and joined Francis Drake in 1572.
+- Privateering: English ships attacked Spanish and Portuguese shipping, and Africans on board sometimes ended up in England.
+
+Some came by choice, some were brought by others, and some escaped. A single person's journey could involve all three.
+
+*Key terms:* push factor, pull factor, trade, privateering, Catherine of Aragon
+
+*Precise evidence:*
+- Catherine of Aragon arrived in 1501.
+- Diego joined Drake in 1572.
+
+##### 3. How historians know: Kaufmann and Onyeka
+
+Two historians have shaped how we understand Black Tudors:
+
+- Onyeka Nubia, "Blackamoores" (2013): argues Africans lived across urban England, were often employed for specialist skills, and were not automatically at the bottom of society.
+- Miranda Kaufmann, "Black Tudors" (2017): tells the stories of ten individuals, showing that Africans were baptised, married, paid wages and gave evidence in court.
+
+Both use archives, but records only survive for some people, and are usually written by others. Asking whose voice survives is part of the history.
+
+*Key terms:* interpretation, historian, archive, evidence
+
+*Precise evidence:*
+- Onyeka, Blackamoores, 2013.
+- Kaufmann, Black Tudors, 2017.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1501 | Catherine of Aragon arrives from Spain; Africans are among her household. |
+| 1507 | John Blanke, "the blacke trumpet", appears in royal accounts. |
+| 1545 | The Mary Rose sinks; Jacques Francis later dives on the wreck. |
+| 1572 | Diego joins Francis Drake at Nombre de Dios, Panama. |
+| c.1583 | Mary Fillis arrives in London from Morocco. |
+| 1596 | A Privy Council letter allows Caspar van Senden to take Africans abroad, only with their masters' consent; the scheme fails. |
+
+**Key people**
+
+- **John Blanke** — Trumpeter to Henry VII and Henry VIII.
+- **Jacques Francis** — Salvage diver; gave evidence in court in 1548.
+- **Diego** — Escaped Spanish slavery; sailed with Drake.
+- **Mary Fillis** — Moroccan-born servant and seamstress in London; baptised 1597.
+- **Miranda Kaufmann** — Historian, author of "Black Tudors" (2017).
+- **Onyeka Nubia** — Historian, author of "Blackamoores" (2013).
+
+**Vocabulary**
+
+- **Migration** — Moving from one place to live in another.
+- **Push factor** — Something that makes people leave a place.
+- **Pull factor** — Something that attracts people to a place.
+- **Blackamoore** — A Tudor word used for Africans and people with dark skin.
+- **Privateering** — Attacks on enemy ships by privately owned ships with royal permission.
+- **Parish register** — A church record of baptisms, marriages and burials.
+
+**Misconceptions**
+
+- ✗ There were no Black people in England before the 20th century. → ✓ Hundreds of Africans are recorded in Tudor and Stuart England.
+- ✗ All Africans in Tudor England were enslaved. → ✓ Many were free, waged and baptised; English law did not clearly recognise slavery.
+- ✗ Africans only came because they were forced. → ✓ Reasons included royal service, trade, skills and escape from Spanish slavery.
+- ✗ Elizabeth I deported all Africans in 1596. → ✓ The 1596 scheme needed masters' consent and failed; Africans stayed.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Roughly how many named Africans has Kaufmann documented in Britain, 1500–1640? About 36 / **Over 360** / About 36,000 / None — *Over 360.*
+2. Where do historians find Black Tudors in the records? Only in novels / **Parish registers, royal accounts, court cases and letters** / Only on social media / Only in paintings — *Archives.*
+3. Who arrived from Spain in 1501 with a household that included Africans? Elizabeth I / **Catherine of Aragon** / Mary Queen of Scots / Anne Boleyn — *To marry Prince Arthur.*
+4. Which is a PULL factor? Escaping Spanish slavery / **Valued skills and paid work in England** / War at home / Famine — *Pull = attraction.*
+5. Diego came to England after… Being born in London / **Escaping Spanish slavery and joining Drake** / Marrying a king / Studying at Oxford — *1572, Panama.*
+6. Mary Fillis came from… Spain / **Morocco** / Portugal / Benin — *Around 1583.*
+7. Who wrote "Blackamoores" (2013)? Miranda Kaufmann / **Onyeka Nubia** / Peter Fryer / David Olusoga — *Onyeka Nubia.*
+8. Who wrote "Black Tudors" (2017)? **Miranda Kaufmann** / Onyeka Nubia / Simon Schama / Mary Beard — *Miranda Kaufmann.*
+
+**Short answers**
+
+1. In which year did Catherine of Aragon arrive in England? — **1501**
+2. Which historian wrote "Black Tudors"? — **Miranda Kaufmann**
+3. Which historian wrote "Blackamoores"? — **Onyeka Nubia**
+4. What do we call a factor that attracts people to a place? — **Pull factor**
+5. Name a church record where Black Tudors appear. — **Parish register**
+
+**Chronology — Put these in order** (correct order): Catherine of Aragon arrives → John Blanke in royal accounts → Mary Rose sinks → Diego joins Drake → Mary Fillis arrives in London → Van Senden scheme fails
+
+**Matching — Match the person to the reason they came**
+
+- John Blanke = Royal service as a musician
+- Jacques Francis = Valued diving skills
+- Diego = Escape from Spanish slavery
+- Mary Fillis = Trade links with Morocco
+
+**Evidence recall**
+
+- Give two different reasons why Africans came to Tudor England, with an example of each. — *Model:* Some came through royal households, such as Africans with Catherine of Aragon in 1501, while others escaped Spanish slavery, like Diego, who joined Drake in 1572.
+- Explain why historians must be careful with the records about Black Tudors. — *Model:* Most records were written by others, such as clerks or employers, and survive only for some people, so we rarely hear Africans in their own words.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Black Tudors documented by Kaufmann | Over 360 Africans in Britain, 1500–1640. |  |
+| Where Black Tudors appear | Parish registers, royal accounts, court cases, letters, wills. |  |
+| Blackamoore | Tudor word used for Africans. |  |
+| Catherine of Aragon | Arrived 1501 with a household including Africans. |  |
+| Push vs pull | Push: makes you leave. Pull: attracts you. |  |
+| Privateering | Licensed attacks on enemy ships. |  |
+| Diego's reason | Escaped Spanish slavery; joined Drake in 1572. |  |
+| Mary Fillis's reason | Came from Morocco via trade links, around 1583. |  |
+| "Blackamoores" | Onyeka Nubia, 2013. |  |
+| "Black Tudors" | Miranda Kaufmann, 2017. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe where and how historians find evidence of Black Tudors.
+- [Describe — red] I can describe at least four reasons Africans came to Tudor England.
+- [Explain — amber] I can explain push and pull factors using named individuals.
+- [Explain — amber] I can explain the arguments of Onyeka and Kaufmann.
+- [Judge — green] I can judge which reason was most important for Africans coming to Tudor England.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  Describe two reasons why Africans came to Tudor England.
+- *Teacher-created practice question*
+  "Africans came to Tudor England mainly because of royal service." How far do you agree?
+
+*Guide for "Describe two reasons why Africans came to Tudor England."*
+
+1. Pick two different reasons.
+2. Add a named person or date for each.
+
+- Two different reasons
+- Named example for each
+
+**Writing frame — sentence starters**
+
+1. One reason was… For example…
+2. A second reason was… For example…
+
+*Lighter support (headings only):* Reason + example → Reason + example
+
+*Guide for ""Africans came to Tudor England mainly because of royal service." How far do you agree?"*
+
+1. Explain royal service with evidence.
+2. Explain at least two other reasons with named people.
+3. Judge with a qualifier.
+
+- Qualified judgement
+- Named individuals
+- Explaining connectives
+
+**Writing frame — sentence starters**
+
+1. P: Royal service was the main reason to a large / some extent…
+2. E: For example, John Blanke…
+3. E: However, … This meant that…
+4. J: Therefore, overall…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> Royal service was only partly the main reason, because Africans came for many different reasons.
+>
+> *P: qualified.*
+
+> John Blanke was paid as a royal trumpeter from 1507, but Diego came after escaping Spanish slavery in 1572, and Mary Fillis arrived from Morocco around 1583 through trade links.
+>
+> *E: precise, several reasons.*
+
+> This means royal courts explain some arrivals, but trade and conflict with Spain explain more of the later ones.
+>
+> *E: explains.*
+
+> Therefore there was no single main reason; it changed across the Tudor period.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+**Stretch and challenge**
+
+- **Choice or force?:** Sort the four stories by how much choice each person had. Is "push and pull" too simple for their journeys?
+- **Historians compare:** What does Onyeka argue that Kaufmann also shows? Is there anything they seem to disagree on?
+- **Missing records:** Why might women like Mary Fillis be harder to find in the records than men like John Blanke?
+- **GCSE link:** The Pearson GCSE Migrants course studies migrants from c800 to the present. Compare Tudor African migrants with one later group: what is similar, what is different?
+
+#### Four lives: Four Black Tudor lives: Blanke, Francis, Diego and Fillis
+
+`y8-af-2` · Why did Africans come to Tudor England?
+
+Four people, four very different journeys: a royal trumpeter, a salvage diver, a sailor who crossed the world with Drake, and a Moroccan woman who chose to be baptised in London. Their stories tell us a great deal about Tudor England.
+
+##### 1. John Blanke, royal trumpeter
+
+John Blanke first appears in royal accounts in November 1507 as "John Blanke the blacke Trumpet", paid 8d a day, more than the standard 6d.
+
+He may have arrived with Catherine of Aragon in 1501, but no record proves it. He played at Henry VII's funeral and Henry VIII's coronation in 1509.
+
+He petitioned Henry VIII for a pay rise, asking for the post of a trumpeter who had died, Dominic Justinian. The king approved it.
+
+He appears twice in the Westminster Tournament Roll of 1511, the only known portrait of a Black Tudor. In January 1512 Henry VIII gave him cloth for his wedding clothes, including violet cloth, a hat and a bonnet. After 1512 he disappears from the records.
+
+*Key terms:* trumpeter, petition, Westminster Tournament Roll, wages
+
+*Precise evidence:*
+- First record: November 1507, 8d a day.
+- Tournament Roll: 1511.
+- Wedding gift: January 1512.
+
+##### 2. Jacques Francis, salvage diver
+
+Jacques Francis was born around 1527, probably on Arguin Island off Mauritania, West Africa, where diving skills were common.
+
+He worked for Piero Paolo Corsi, a Venetian salvage contractor in Southampton, who called him his best diver. In 1546 Corsi's team was hired to recover guns from the wreck of the Mary Rose, which sank in 1545.
+
+When Corsi was accused of stealing tin from another wreck, Francis gave evidence in the High Court of Admiralty on 8 February 1548, through an interpreter. He is the first known African to give evidence in an English court.
+
+Opponents tried to dismiss him as a "slave" and an "infidel", but the court accepted his evidence. He called himself Corsi's "famulus", a servant, and evidence suggests he was paid.
+
+*Key terms:* salvage, Mary Rose, High Court of Admiralty, testimony, famulus
+
+*Precise evidence:*
+- Mary Rose sank 1545; salvage 1546.
+- Court testimony: 8 February 1548.
+
+##### 3. Diego, circumnavigator
+
+In 1572 Diego, who had escaped Spanish enslavement, ran through gunfire to reach Francis Drake's men at Nombre de Dios, Panama.
+
+He helped the English ally with the Cimarrons, Africans who had escaped Spanish slavery, and together they captured a Spanish mule train carrying silver and gold.
+
+He came to Plymouth with Drake and lived there for about four years. In November 1577 he sailed with Drake on the voyage around the world, serving as Drake's manservant and as an interpreter, since he spoke Spanish and English.
+
+In November 1578 he was badly wounded by arrows on Mocha Island off Chile. He died of his wounds in 1579, near the Moluccas (Spice Islands). Evidence suggests he served under a contract, like other crew members.
+
+*Key terms:* Cimarrons, Golden Hind, circumnavigation, interpreter
+
+*Precise evidence:*
+- Joined Drake 1572; sailed from Plymouth November 1577.
+- Died 1579 near the Moluccas.
+
+##### 4. Mary Fillis, Moroccan convert
+
+Mary Fillis was the daughter of Fillis of Morisco, a Moroccan basket weaver and shovel maker. She came to London around 1583, aged about six or seven.
+
+She worked as a servant for John Barker, a merchant, and later for Millicent Porter, a seamstress in East Smithfield.
+
+In 1597, around the age of 20, she asked to be baptised. The ceremony took place at St Botolph's, Aldgate. Choosing baptism suggests she wanted to belong to her community; it may also have helped her future.
+
+She lived in London while Morocco and England were building an alliance against Spain. After Porter died in 1599, we do not know what happened to her.
+
+*Key terms:* Morocco, servant, seamstress, baptism, convert
+
+*Precise evidence:*
+- Arrived around 1583.
+- Baptised 1597 at St Botolph's, Aldgate.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1507 | John Blanke appears in royal accounts. |
+| 1509 | Blanke plays at Henry VIII's coronation; petitions for a pay rise. |
+| 1511 | Blanke is shown in the Westminster Tournament Roll. |
+| 1512 | Henry VIII gives Blanke a wedding gift. |
+| 1545 | The Mary Rose sinks. |
+| 1548 | Jacques Francis gives evidence in the High Court of Admiralty. |
+| 1572 | Diego joins Drake in Panama. |
+| 1577 | Diego sails on Drake's voyage around the world. |
+| 1579 | Diego dies near the Moluccas. |
+| 1597 | Mary Fillis is baptised at St Botolph's, Aldgate. |
+
+**Key people**
+
+- **John Blanke** — Royal trumpeter (records 1507–1512).
+- **Jacques Francis** — Salvage diver, born c.1527 on Arguin Island.
+- **Diego** — Escaped Spanish slavery; sailed with Drake; died 1579.
+- **Mary Fillis** — Moroccan-born servant and seamstress; baptised 1597.
+- **Piero Paolo Corsi** — Venetian salvage contractor who employed Francis.
+- **Francis Drake** — English sea captain and privateer.
+- **Millicent Porter** — Seamstress in East Smithfield who employed Fillis.
+
+**Vocabulary**
+
+- **Petition** — A formal written request to someone in authority.
+- **Salvage** — Recovering goods from a wreck.
+- **Testimony** — Evidence given in court.
+- **Circumnavigation** — Sailing all the way around the world.
+- **Cimarrons** — Africans who had escaped Spanish slavery in Panama.
+- **Baptism** — A Christian ceremony of joining the Church.
+- **Convert** — Someone who changes religion.
+
+**Misconceptions**
+
+- ✗ John Blanke was a slave at court. → ✓ He was paid wages, petitioned for a pay rise and got it.
+- ✗ Africans could not give evidence in Tudor courts. → ✓ Jacques Francis gave evidence in 1548 and the court accepted it.
+- ✗ Diego was Drake's slave. → ✓ He had escaped slavery, and evidence suggests he served under a contract like other crew members.
+- ✗ Baptism meant someone was forced to convert. → ✓ Mary Fillis asked to be baptised.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. How much was John Blanke paid per day in 1507? 2d / 6d / **8d** / £1 — *More than the standard 6d.*
+2. Where is the only known portrait of a Black Tudor? The Mary Rose / **The Westminster Tournament Roll (1511)** / The Bayeux Tapestry / The Catalan Atlas — *Blanke appears twice.*
+3. What happened when Blanke petitioned Henry VIII? He was dismissed / **The king approved a pay rise and promotion** / He was arrested / Nothing — *He got Dominic Justinian's post.*
+4. Which famous wreck did Jacques Francis dive on? The Golden Hind / **The Mary Rose** / The Titanic / The Santa María — *Salvage in 1546.*
+5. Why is Jacques Francis's 1548 testimony important? He was the king's lawyer / **He is the first known African to give evidence in an English court** / He confessed to theft / He was a judge — *High Court of Admiralty.*
+6. Where did Diego join Drake in 1572? Plymouth / **Nombre de Dios, Panama** / London / Morocco — *He ran through gunfire.*
+7. Who were the Cimarrons? Spanish soldiers / **Africans who had escaped Spanish slavery in Panama** / English sailors / Moroccan merchants — *Diego helped Drake ally with them.*
+8. Where was Mary Fillis baptised in 1597? Westminster Abbey / **St Botolph's, Aldgate** / St Paul's Cathedral / Canterbury — *In London.*
+
+**Short answers**
+
+1. Which instrument did John Blanke play? — **Trumpet**
+2. In which year did Jacques Francis give evidence in court? — **1548**
+3. Which sea captain did Diego sail with? — **Francis Drake**
+4. Which country did Mary Fillis come from? — **Morocco**
+5. In which year was Mary Fillis baptised? — **1597**
+
+**Chronology — Put these events in order** (correct order): Blanke in royal accounts → Blanke in the Tournament Roll → Mary Rose sinks → Francis gives evidence → Diego joins Drake → Diego dies near the Moluccas → Fillis is baptised
+
+**Matching — Match the person to their story**
+
+- John Blanke = Petitioned Henry VIII for a pay rise
+- Jacques Francis = Gave evidence in the High Court of Admiralty
+- Diego = Sailed around the world with Drake
+- Mary Fillis = Asked to be baptised in 1597
+
+**Matching — Match the person to their job**
+
+- John Blanke = Trumpeter
+- Jacques Francis = Salvage diver
+- Diego = Manservant and interpreter
+- Mary Fillis = Servant and seamstress
+
+**Evidence recall**
+
+- Give precise evidence that John Blanke was a valued, paid member of the royal court. — *Model:* He was paid 8d a day from 1507, more than the standard 6d, won a pay rise after petitioning Henry VIII, and received a wedding gift of cloth in January 1512.
+- Explain what Jacques Francis's court case tells us about the status of Africans in Tudor England. — *Model:* Opponents called him a slave and an infidel to discredit him, but the court accepted his evidence in 1548, which suggests Africans could be treated as free people with a voice in law.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| John Blanke | Royal trumpeter; first record November 1507, 8d a day. |  |
+| Blanke's petition | Asked Henry VIII for Dominic Justinian's post; approved. |  |
+| Westminster Tournament Roll | 1511: only known portrait of a Black Tudor. |  |
+| Blanke's wedding gift | January 1512: cloth, a hat and a bonnet from Henry VIII. |  |
+| Jacques Francis | Diver from Arguin Island, born c.1527. |  |
+| Mary Rose salvage | 1546, with Piero Paolo Corsi. |  |
+| Francis in court | 8 February 1548: first known African to give evidence in an English court. |  |
+| Diego joins Drake | 1572 at Nombre de Dios, Panama. |  |
+| Diego's roles | Manservant and interpreter (Spanish and English). |  |
+| Diego's death | Wounded on Mocha Island 1578; died 1579 near the Moluccas. |  |
+| Mary Fillis | Moroccan, arrived around 1583; servant then seamstress. |  |
+| Fillis's baptism | 1597, St Botolph's, Aldgate, aged about 20. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe the life of John Blanke using dates and evidence.
+- [Describe — red] I can describe the lives of Jacques Francis, Diego and Mary Fillis.
+- [Explain — amber] I can explain what each life tells us about Tudor England.
+- [Explain — amber] I can explain what the sources about each person can and cannot tell us.
+- [Judge — green] I can judge whose story is most significant for understanding Black Tudors.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  What does the life of John Blanke tell us about the position of Africans at the Tudor court?
+- *Teacher-created practice question*
+  Whose story tells us most about Africans in Tudor England: John Blanke, Jacques Francis, Diego or Mary Fillis?
+
+*Guide for "What does the life of John Blanke tell us about the position of Africans at the Tudor court?"*
+
+1. Give evidence of wages and the petition.
+2. Use the Tournament Roll and wedding gift.
+3. Note what we cannot know.
+
+- Precise evidence
+- Explains what it reveals
+- Notes limits
+
+**Writing frame — sentence starters**
+
+1. P: Blanke's life suggests that some Africans were valued at court…
+2. E: For example, he was paid 8d a day from 1507…
+3. E: This shows that… However, we cannot know…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+*Guide for "Whose story tells us most about Africans in Tudor England: John Blanke, Jacques Francis, Diego or Mary Fillis?"*
+
+1. Choose your strongest story and explain what it reveals.
+2. Compare with at least one other story.
+3. Judge with a qualifier.
+
+- Comparison
+- Precise evidence
+- Criterion named
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: … tells us most because…
+2. E: For example, in …
+3. E: This reveals that… whereas …
+4. J: Therefore, overall…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Own words:** Which of the four do we come closest to hearing in their own words? What stops us hearing them more?
+- **Arguin to Southampton:** Map Jacques Francis's journey. What does it show about Tudor England's links to the wider world?
+- **Diego and Drake:** Drake is famous; Diego is not. Why might that be, and should it change?
+- **Choosing baptism:** Why might Mary Fillis have chosen baptism? Give two possible reasons and say which the evidence supports better.
+
+#### Free or enslaved?: Free or enslaved? Status, experience and memory
+
+`y8-af-3` · Why did Africans come to Tudor England?
+
+Were Africans in Tudor England free or enslaved? What were their lives like? And did Elizabeth I really try to expel them? This topic weighs the evidence and the interpretations of historians.
+
+##### 1. Free or enslaved?
+
+English law in the 16th century did not clearly recognise slavery. The evidence suggests most Africans in Tudor England were treated as free people:
+
+- They were paid wages (John Blanke, Jacques Francis, Diego).
+- They were baptised, married and buried in parish churches (Mary Fillis, John Blanke).
+- They could give evidence in court (Jacques Francis, 1548).
+
+In the 1580s the Portuguese doctor Hector Nunes complained to the Court of Requests that an African man he had bought refused to serve him, and that he had no remedy under English common law. The Pearson GCSE Migrants course uses this petition as evidence about African freedom in Tudor England.
+
+This did not mean equality. Africans usually worked as servants, and words like "blackamoore" could carry negative ideas. At the same time, Englishmen such as John Hawkins began slave-trading voyages from 1562, taking Africans to Spanish America, not England.
+
+*Key terms:* status, common law, Hector Nunes, Court of Requests, John Hawkins
+
+*Precise evidence:*
+- Francis gave evidence in 1548.
+- Hawkins' first slave-trading voyage: 1562.
+
+##### 2. Experiences of everyday life
+
+Black Tudors worked in many jobs: musicians, divers, sailors, servants, seamstresses and silk weavers. Onyeka argues many were employed for specialist skills; Kaufmann shows them in households from the royal court to villages.
+
+Many were baptised and married English partners, which suggests they were part of local communities rather than separate from them. Others, like Diego, lived mobile lives at sea.
+
+Experiences varied by class, gender, job and place, just as they did for other Tudor people.
+
+*Key terms:* experience, community, integration, occupation
+
+*Precise evidence:*
+- Jobs: musicians, divers, sailors, servants, seamstresses, silk weavers.
+
+##### 3. The 1596 "expulsion" myth
+
+On 18 July 1596 the Privy Council issued an open letter allowing Caspar van Senden, a merchant from Lübeck, to take "Blackamoores" from England to Spain and Portugal, but only with their masters' consent.
+
+Masters refused, so van Senden got nothing. A harsher draft proclamation from 1601 survives among Robert Cecil's papers, but it was never issued.
+
+Kaufmann argues this was a failed business deal with one merchant, not a deportation, and Africans stayed in England. The claim that "Elizabeth I expelled all Black people" is a myth that was repeated for years.
+
+How we remember Black Tudors matters. Their stories show that Black British history did not begin in the 20th century.
+
+*Key terms:* Privy Council, Caspar van Senden, proclamation, myth, interpretation
+
+*Precise evidence:*
+- Open letter: 18 July 1596.
+- 1601 draft proclamation: never issued.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1548 | Jacques Francis gives evidence in the High Court of Admiralty. |
+| 1562 | John Hawkins begins English slave-trading voyages to Spanish America. |
+| 1580s | Hector Nunes complains to the Court of Requests that he cannot force an African man to serve him. |
+| 1596 | Privy Council open letter to Caspar van Senden (18 July). |
+| 1597 | Mary Fillis is baptised. |
+| 1601 | A harsher draft proclamation is written but never issued. |
+
+**Key people**
+
+- **Hector Nunes** — Portuguese doctor in London whose petition shows the limits of slavery in English law.
+- **Caspar van Senden** — Lübeck merchant who tried to take Africans out of England in 1596.
+- **John Hawkins** — English sea captain who began slave-trading voyages in 1562.
+- **Miranda Kaufmann** — Historian who showed the 1596 "expulsion" never happened.
+- **Onyeka Nubia** — Historian who argues Africans were valued for their skills.
+
+**Vocabulary**
+
+- **Status** — A person's position in society.
+- **Common law** — English law based on court decisions and custom.
+- **Privy Council** — The monarch's closest advisers.
+- **Proclamation** — An official public announcement by the monarch.
+- **Deportation** — Forcing people to leave a country.
+- **Myth** — A widely believed idea that is not true.
+- **Integration** — Becoming part of a community.
+
+**Misconceptions**
+
+- ✗ Elizabeth I expelled Africans in 1596 and 1601. → ✓ The 1596 letter needed masters' consent and failed; the 1601 draft was never issued.
+- ✗ Free meant equal. → ✓ Most Africans were servants, and prejudiced ideas existed.
+- ✗ England had no link to slavery in the Tudor period. → ✓ John Hawkins began English slave-trading voyages in 1562.
+- ✗ Black Tudors lived separately from English people. → ✓ Many were baptised, married and buried in local parishes.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Which evidence suggests Africans were usually free in Tudor England? They were never recorded / **They were paid wages, baptised and could give evidence in court** / They all lived at court / They could not marry — *Wages, baptism, court.*
+2. What did Hector Nunes complain about? His wages / **An African man he had bought refused to serve him and he had no remedy in English common law** / Drake's voyage / The Mary Rose — *Limits of slavery in English law.*
+3. Which Englishman began slave-trading voyages in 1562? Francis Drake / **John Hawkins** / Walter Raleigh / Robert Cecil — *To Spanish America.*
+4. Which job did Black Tudors NOT appear in, according to these records? Musician / Diver / Seamstress / **Archbishop** — *Musician, diver, sailor, servant, seamstress, silk weaver.*
+5. What does marriage and baptism in local parishes suggest? They lived separately / **They were part of local communities** / They were all enslaved / They were visitors — *Integration.*
+6. What did the 1596 open letter require before Africans could be taken? The Pope's approval / **Their masters' consent** / Payment to the Queen / Nothing — *So it failed.*
+7. What happened to the 1601 draft proclamation? It deported everyone / **It was never issued** / It became law / It was burned — *Only a draft survives.*
+8. Kaufmann describes the 1596 scheme as… A mass deportation / **A failed deal with one merchant** / A royal wedding / A trade treaty with Morocco — *Not a deportation.*
+
+**Short answers**
+
+1. Which merchant was linked to the 1596 scheme? — **Caspar van Senden**
+2. Was the 1601 proclamation ever issued? — **No**
+3. In which year did Hawkins begin slave-trading voyages? — **1562**
+4. Which doctor petitioned the Court of Requests about an African servant? — **Hector Nunes**
+5. What is a widely believed idea that is not true called? — **Myth**
+
+**Chronology — Put these in order** (correct order): Francis gives evidence in court → Hawkins begins slave-trading voyages → Nunes petition → Privy Council letter to van Senden → Fillis baptised → Draft proclamation (never issued)
+
+**Matching — Match the evidence to what it shows**
+
+- Wages paid to Blanke and Francis = Africans could be paid workers
+- Francis's testimony accepted = Africans could give evidence in court
+- Nunes's petition = English law did not enforce slavery
+- Van Senden's failure = Africans were not expelled
+
+**Evidence recall**
+
+- Give two pieces of evidence that Africans in Tudor England were usually treated as free. — *Model:* John Blanke was paid wages of 8d a day, and Jacques Francis gave evidence in court in 1548, which only free people were normally trusted to do.
+- Explain why historians reject the idea that Elizabeth I expelled Africans. — *Model:* The 1596 letter needed masters' consent, which they refused, so van Senden failed; the 1601 proclamation was only a draft that was never issued, and Africans stayed in England.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Free or enslaved? | Most evidence suggests Africans were treated as free: wages, baptism, court. |  |
+| Hector Nunes | 1580s petition: could not force an African man to serve him under English law. |  |
+| John Hawkins | Began English slave-trading voyages in 1562. |  |
+| Free ≠ equal | Most were servants; prejudice existed. |  |
+| Black Tudor jobs | Musicians, divers, sailors, servants, seamstresses, silk weavers. |  |
+| Integration evidence | Baptisms and marriages in local parishes. |  |
+| 1596 open letter | 18 July 1596: van Senden could take Africans only with masters' consent. |  |
+| 1601 proclamation | A draft only; never issued. |  |
+| Kaufmann on 1596 | A failed deal, not a deportation. |  |
+| Why memory matters | Black British history did not begin in the 20th century. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe evidence about the status of Africans in Tudor England.
+- [Describe — red] I can describe the jobs and everyday lives of Black Tudors.
+- [Explain — amber] I can explain why the 1596 "expulsion" is a myth.
+- [Explain — amber] I can explain how Onyeka and Kaufmann interpret Black Tudor lives.
+- [Judge — green] I can judge whether Africans in Tudor England were free.
+- [Judge — green] I can judge how Black Tudors should be remembered today.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "Africans in Tudor England were free." How far do you agree?
+- *Teacher-created practice question*
+  Explain why the claim that Elizabeth I expelled Africans from England is a myth.
+
+*Guide for ""Africans in Tudor England were free." How far do you agree?"*
+
+1. Evidence of freedom (wages, baptism, court, Nunes).
+2. Evidence of limits (servants, prejudice, slave trade abroad).
+3. Judge with a qualifier.
+
+- Qualified judgement
+- Named evidence both ways
+- Distinguishes free from equal
+
+**Writing frame — sentence starters**
+
+1. P: I agree to a large / some extent that Africans were free…
+2. E: For example, … in …
+3. E: This suggests that… However…
+4. J: Therefore, overall…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> I largely agree that Africans in Tudor England were free, although they were not treated as equals.
+>
+> *P: qualified.*
+
+> Jacques Francis gave evidence in the High Court of Admiralty in 1548, and in the 1580s Hector Nunes complained that English law gave him no way to force an African man to serve him.
+>
+> *E: precise.*
+
+> This suggests English law did not enforce slavery, so Africans could work for wages and use the courts; however, most worked as servants and faced prejudiced language such as "blackamoore".
+>
+> *E: explains both sides.*
+
+> Therefore they were legally free to a large extent, but their freedom had real social limits.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+*Guide for "Explain why the claim that Elizabeth I expelled Africans from England is a myth."*
+
+1. Explain the 1596 letter and its condition.
+2. Explain the 1601 draft.
+3. Explain what happened to Africans afterwards.
+
+- Accurate dates
+- Explains the consent condition
+- Notes Africans stayed
+
+**Writing frame — sentence starters**
+
+1. P: The claim is a myth because…
+2. E: The 1596 letter… only with…
+3. E: This meant that… The 1601 draft…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Why do myths spread?:** The expulsion myth was repeated in books and lessons for years. Why do myths like this spread, and how can historians correct them?
+- **Free but not equal:** Explain the difference between being legally free and being treated equally, using Tudor evidence.
+- **Hawkins and the Tudors:** How can England have had free Africans at home while Englishmen like Hawkins traded enslaved Africans abroad?
+- **Memorial:** Design a memorial plaque for one Black Tudor. What would you include, and what would you leave out because the evidence is uncertain?
 
 <a id="y9"></a>
-## Year 9: Causes of the First World War
+## Year 9: The Industrial Revolution and the causes of the First World War
 
-*Why did the First World War start?*
+*When does change become a revolution? Why did war break out in 1914?*
 
-**Assessment:** KS3 department criteria — criteria not yet supplied, so AI feedback is formative only. Focus: long-term causes, their interaction, the immediate trigger and relative significance.
+**Assessment:** KS3 department criteria — criteria not yet supplied, so AI feedback is formative only. Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added.
 
-*No topics written yet.*
+### The Industrial Revolution: when does change become a revolution? — Autumn 1
+
+#### Lessons 1–2: When does change become a revolution? Why Britain?
+
+`y9-ir-1` · The Industrial Revolution: when does change become a revolution?
+
+Britain in 1750 was mostly rural; by 1900 it was the world's first industrialised, majority-urban nation. But calling this a "revolution" is a historian's judgement, not a fact. This topic gives you the tools to judge it (Scale, Speed, Depth, Duration) and asks why industrialisation began in Britain.
+
+##### 1. Change, continuity and revolution
+
+In 1750 roughly three-quarters of people worked on the land, most goods were made by hand in homes or small workshops, and travel was slow and local. By 1900 most people worked in industry and lived in towns, and railways crossed the country in hours. England's population grew from around 6 million in 1750 to over 30 million by 1900.
+
+The phrase "Industrial Revolution" was popularised by historians looking back, notably Arnold Toynbee in the 1880s. It is a later label and an argument that needs evidence.
+
+Judge with the four criteria: Scale (how many people), Speed (how quickly), Depth (how fundamentally lives changed), Duration (how lasting). You will track every development in the unit against these criteria in your Revolution Tracker.
+
+Two traps: change is not the same as progress (it can make things worse for some people), and "revolutionary" does not mean "positive".
+
+*Key terms:* change, continuity, revolution, progress, Revolution Tracker
+
+*Precise evidence:*
+- England: about 6 million people in 1750; over 30 million by 1900.
+- Toynbee popularised "Industrial Revolution" in the 1880s.
+
+##### 2. Why Britain?
+
+Historians reject a single cause in favour of interconnected causes, a "perfect storm":
+
+- Agriculture: more food meant fewer farm workers were needed, freeing labour for industry.
+- Population: England's population roughly doubled during the 18th century, supplying workers and consumers.
+- Coal: large, accessible reserves powered steam engines and furnaces.
+- Capital: money from farming, banking, merchant trade and Atlantic and colonial trade, including trade linked to the enslavement of Africans (explored in the next topic).
+- Transport: turnpike roads and canals from the 1760s (the Bridgewater Canal opened in 1761) moved goods cheaply.
+- Institutions: stable government, secure property rights and patent law gave inventors and investors confidence.
+
+Older stories credited a few "great inventors". Historians now stress how these causes reinforced each other.
+
+*Key terms:* causation, capital, infrastructure, institution, patent
+
+*Precise evidence:*
+- Bridgewater Canal opened in 1761.
+- Causes were interconnected, not a list.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1750 | Britain is mainly rural; England has about 6 million people. |
+| 1761 | The Bridgewater Canal opens, carrying coal to Manchester. |
+| 1769 | James Watt patents his improved steam engine. |
+| 1830 | The Liverpool and Manchester Railway opens. |
+| 1880s | Arnold Toynbee popularises the phrase "Industrial Revolution". |
+| 1900 | Britain is the world's first industrialised, majority-urban nation. |
+
+**Key people**
+
+- **Arnold Toynbee** — Historian whose 1880s lectures popularised the phrase "Industrial Revolution".
+- **James Watt** — Engineer who improved the steam engine (patented 1769).
+
+**Vocabulary**
+
+- **Change** — Something becoming different over time.
+- **Continuity** — Something staying the same over time.
+- **Revolution** — A fundamental, wide-reaching change to a system or society.
+- **Progress** — Change that makes things better for people.
+- **Causation** — The relationship between causes and their effects.
+- **Capital** — Money invested to start or grow a business.
+- **Infrastructure** — Basic physical systems such as roads, canals and ports.
+- **Institution** — An established organisation or system, such as a bank or patent law.
+
+**Misconceptions**
+
+- ✗ Britain in 1750 was backward. → ✓ Use neutral, comparative language: rural/urban, agricultural/industrial. Decide for yourself whether the change was progress.
+- ✗ "Revolution" means a positive change. → ✓ A change can be revolutionary and harmful.
+- ✗ A few great inventors caused industrialisation. → ✓ Many interconnected causes worked together.
+- ✗ People in 1800 knew they were living through the "Industrial Revolution". → ✓ The label became popular later, in the 1880s.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Who popularised the phrase "Industrial Revolution" in the 1880s? James Watt / **Arnold Toynbee** / Edwin Chadwick / Karl Marx — *Toynbee, looking back.*
+2. Which is NOT one of the four criteria? Scale / Speed / Depth / **Popularity** — *Scale, Speed, Depth, Duration.*
+3. England's population in 1900 was roughly… 6 million / 10 million / **Over 30 million** / 100 million — *From about 6 million in 1750.*
+4. Which statement is most accurate? Change always means progress / **A change can be revolutionary and still harmful** / Nothing stayed the same / Revolutions happen overnight — *Revolutionary ≠ positive.*
+5. Why did agricultural change help industry? It closed factories / **More food meant fewer farm workers were needed, freeing labour** / It stopped population growth / It banned machines — *Freed labour.*
+6. Which canal opened in 1761? Suez / **Bridgewater** / Panama / Grand Union — *Carrying coal to Manchester.*
+7. What is capital? A capital city / **Money invested to start or grow a business** / A type of coal / A government — *Investment money.*
+8. How do historians now explain why Britain industrialised first? One great inventor / **Interconnected causes reinforcing each other** / Luck alone / The weather alone — *A "perfect storm".*
+
+**Short answers**
+
+1. Name the four criteria for judging a revolution. — **Scale, Speed, Depth, Duration**
+2. What do we call something staying the same over time? — **Continuity**
+3. In what year did the Bridgewater Canal open? — **1761**
+4. What law protected inventors' rights to profit? — **Patent law**
+5. Which fuel powered steam engines? — **Coal**
+
+**Chronology — Put these in order** (correct order): Britain mainly rural, 6 million in England → Bridgewater Canal opens → Watt patents his steam engine → Liverpool and Manchester Railway opens → Toynbee popularises "Industrial Revolution" → Britain majority-urban
+
+**Matching — Match the criterion to its question**
+
+- Scale = How many people were affected?
+- Speed = How quickly did it happen?
+- Depth = How fundamentally did lives change?
+- Duration = How lasting was the change?
+
+**Matching — Match the cause to the evidence**
+
+- Agriculture = Fewer farm workers needed
+- Transport = Bridgewater Canal, 1761
+- Institutions = Patent law and property rights
+- Population = Roughly doubled in the 18th century
+
+**Evidence recall**
+
+- Give precise evidence that Britain changed dramatically between 1750 and 1900. — *Model:* England's population grew from about 6 million in 1750 to over 30 million by 1900, and Britain went from about three-quarters of people working on the land to being majority-urban.
+- Explain how two causes of British industrialisation were connected. — *Model:* Agricultural change produced more food, which supported a growing population; this meant there were more workers and consumers for the new factories.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Four criteria | Scale, Speed, Depth, Duration. |  |
+| Revolution | A fundamental, wide-reaching change to a system or society. |  |
+| "Industrial Revolution" label | Popularised by Arnold Toynbee in the 1880s. |  |
+| Britain 1750 vs 1900 | Rural and agricultural → majority-urban and industrial. |  |
+| England's population | About 6 million (1750) → over 30 million (1900). |  |
+| Change vs progress | Change is not always for the better. |  |
+| Six causes | Agriculture, population, coal, capital, transport, institutions. |  |
+| Capital | Money invested to start or grow a business. |  |
+| Bridgewater Canal | Opened 1761. |  |
+| Patent law | Protected inventors' rights to profit. |  |
+| Perfect storm | Causes that reinforce each other. |  |
+| Watt's steam engine patent | 1769. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe how Britain changed between 1750 and 1900.
+- [Describe — red] I can describe the four criteria for judging a revolution.
+- [Explain — amber] I can explain why "Industrial Revolution" is a judgement, not a fact.
+- [Explain — amber] I can explain at least four causes of British industrialisation.
+- [Explain — amber] I can explain how causes were interconnected.
+- [Judge — green] I can judge which cause was most important, using a qualifier.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "Coal was the main reason industrialisation began in Britain." How far do you agree?
+- *Teacher-created practice question*
+  Explain why historians call the Industrial Revolution "a judgement, not a fact".
+
+*Guide for ""Coal was the main reason industrialisation began in Britain." How far do you agree?"*
+
+1. Explain coal's role with evidence.
+2. Explain at least two other causes and how they linked.
+3. Judge with a qualifier.
+
+- Qualified claim
+- Precise evidence
+- Shows interconnection
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: Coal was the main reason to a large / some extent because…
+2. E: For example…
+3. E: This meant that… However, it depended on…
+4. J: Therefore, overall…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> Coal was highly important, but only to some extent the main reason, because it worked with other causes.
+>
+> *P: qualified.*
+
+> Coal powered steam engines such as Watt's (patented 1769), but canals like the Bridgewater Canal (1761) were needed to move it cheaply.
+>
+> *E: precise.*
+
+> This meant coal only became decisive once transport and capital allowed it to be used on a large scale.
+>
+> *E: explains links.*
+
+> Therefore industrialisation resulted from interconnected causes, with coal as a necessary but not sufficient one.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+*Guide for "Explain why historians call the Industrial Revolution "a judgement, not a fact"."*
+
+1. Explain who popularised the label and when.
+2. Explain how the four criteria are used to test it.
+
+- Toynbee and 1880s
+- Uses criteria
+- Clear explanation
+
+**Writing frame — sentence starters**
+
+1. P: It is a judgement because…
+2. E: The label was popularised by… in…
+3. E: This means that historians must test it using…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Experienced change:** Can something be revolutionary if most people do not experience the change immediately?
+- **Counterfactual:** If Britain had coal but lacked its other advantages, would industrialisation still have happened?
+- **Necessary vs sufficient:** Which cause was necessary? Was any cause sufficient on its own?
+- **Causal web:** Draw a causal web linking all six causes. Label each arrow with how one cause strengthened another.
+
+#### Lessons 3–4: Empire, cotton and the countryside
+
+`y9-ir-2` · The Industrial Revolution: when does change become a revolution?
+
+How far was Britain's Industrial Revolution built on the world beyond Britain? And how revolutionary was the Agricultural Revolution that came before it? This topic follows cotton from enslaved labour in the Americas to Lancashire's mills, then returns to the English countryside.
+
+##### 1. The revolution behind the revolution
+
+A chain connected Britain's industry to the wider world:
+
+- Enslaved Africans were forced to grow raw cotton on plantations in the Americas.
+- Cotton was shipped through British ports such as Liverpool, Bristol and Glasgow, which grew rich on Atlantic trade.
+- It was processed into cloth in Lancashire's mills.
+- Finished cloth was sold in Britain, Europe and colonial and global markets, generating profits that could be reinvested.
+
+Profits linked to the slave trade and colonial trade also fed banking, insurance and infrastructure in port cities.
+
+This is a genuine debate. The historian Eric Williams argued in "Capitalism and Slavery" (1944) that profits from slavery were a crucial engine of British industrial capital. Other historians argue those profits were too small a share of total investment to be the main cause. The most defensible position is that global and domestic factors were interconnected: mills needed slave-grown cotton AND British capital, coal, machines and workers.
+
+*Key terms:* global commodity network, enslavement, merchant, domestic, Eric Williams
+
+*Precise evidence:*
+- Eric Williams, "Capitalism and Slavery", 1944.
+- Liverpool, Bristol and Glasgow grew rich on Atlantic trade.
+
+##### 2. Revolution in the countryside?
+
+Before enclosure, much land was farmed in open strips shared by a village, with common land for grazing and fuel. Enclosure fenced it into larger private fields. Enclosure Acts were especially numerous from the 1760s to the 1830s.
+
+- Jethro Tull's seed drill (1701) sowed seed in straight rows, using seed more efficiently than scattering by hand.
+- Viscount "Turnip" Townshend popularised four-field crop rotation (wheat, turnips, barley, clover), keeping soil fertile without leaving fields fallow, and providing winter animal feed.
+- Robert Bakewell's selective breeding produced larger, faster-maturing sheep and cattle.
+
+Food production rose, supporting a growing population and freeing workers for industry. But enclosure caused real hardship: smallholders and labourers lost rights to common land, pushing some into poverty, wage labour or migration to towns. A landowner and a labourer might disagree about whether this was a "revolution", or progress.
+
+*Key terms:* enclosure, selective breeding, crop rotation, surplus, fallow
+
+*Precise evidence:*
+- Seed drill: 1701.
+- Enclosure Acts: especially 1760s–1830s.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1701 | Jethro Tull's seed drill. |
+| 1730s | Townshend promotes four-field crop rotation. |
+| 1760s | Robert Bakewell develops selective breeding; Enclosure Acts multiply. |
+| 1760s–1830s | Peak of Parliamentary Enclosure. |
+| 1807 | Britain abolishes its slave trade. |
+| 1833 | Slavery is abolished in most of the British Empire. |
+| 1944 | Eric Williams publishes "Capitalism and Slavery". |
+
+**Key people**
+
+- **Eric Williams** — Trinidadian historian (later Prime Minister) who argued slavery profits fuelled British industry (1944).
+- **Jethro Tull** — Invented the seed drill (1701).
+- **Charles "Turnip" Townshend** — Promoted four-field crop rotation.
+- **Robert Bakewell** — Pioneer of selective breeding of livestock.
+
+**Vocabulary**
+
+- **Global commodity network** — A chain connecting raw materials, trade and manufacturing across the world.
+- **Enslavement** — Forcing people into slavery, denying them freedom and rights.
+- **Merchant** — Someone who buys and sells goods, often across long distances.
+- **Domestic** — Relating to one's own country.
+- **Enclosure** — Fencing common land into privately owned fields.
+- **Selective breeding** — Choosing the best animals to breed from.
+- **Crop rotation** — Growing different crops in a planned sequence to keep soil fertile.
+- **Surplus** — More than is immediately needed.
+
+**Misconceptions**
+
+- ✗ Slavery caused the Industrial Revolution on its own. → ✓ It was significant but interconnected with domestic factors. Historians debate how much it mattered.
+- ✗ Slavery had nothing to do with industrialisation. → ✓ Slave-grown cotton fed Lancashire's mills and Atlantic trade profits flowed into British ports.
+- ✗ Enclosure was good for everyone. → ✓ It raised output but took common rights from many villagers.
+- ✗ The Agricultural Revolution happened overnight. → ✓ It developed over roughly 1700–1850.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Who grew the raw cotton for Lancashire's mills in the Americas? Free British farmers / **Enslaved Africans on plantations** / Indian weavers / Factory children — *Slave-grown cotton.*
+2. Which port grew rich on Atlantic trade? **Liverpool** / Calicut / Venice / Hormuz — *Also Bristol and Glasgow.*
+3. What did Eric Williams argue in 1944? Slavery had no link to industry / **Slavery profits were a crucial engine of British industrial capital** / Coal was unimportant / Enclosure was fair — *The Williams thesis.*
+4. Which is the most defensible historical position? Slavery alone caused industrialisation / Slavery was irrelevant / **Global and domestic factors were interconnected** / Nobody knows anything — *Avoid both simplifications.*
+5. What did Jethro Tull's seed drill do? Harvested wheat / **Sowed seed in straight rows** / Bred sheep / Built fences — *1701.*
+6. What did four-field rotation avoid? Using turnips / **Leaving fields fallow** / Growing wheat / Keeping animals — *Soil stayed fertile.*
+7. Who lost out from enclosure? Large landowners / **Smallholders and labourers who relied on common land** / Factory owners / Nobody — *They lost traditional rights.*
+8. Robert Bakewell is known for… The steam engine / **Selective breeding** / Cholera research / The power loom — *Bigger, faster-maturing livestock.*
+
+**Short answers**
+
+1. Which historian wrote "Capitalism and Slavery"? — **Eric Williams**
+2. In which year was it published? — **1944**
+3. What did enclosure fence off? — **Common land / open fields**
+4. In which year was the seed drill introduced? — **1701**
+5. Which root crop gave Townshend his nickname? — **Turnips**
+
+**Chronology — Put these in order** (correct order): Tull's seed drill → Townshend promotes crop rotation → Bakewell's selective breeding → Britain abolishes its slave trade → Slavery abolished in most of the Empire → Williams publishes "Capitalism and Slavery"
+
+**Chronology — Follow the cotton** (correct order): Enslaved Africans forced to grow cotton in the Americas → Cotton shipped through Liverpool → Spun and woven in Lancashire mills → Cloth sold in colonial and global markets
+
+**Matching — Match the innovator to the change**
+
+- Jethro Tull = Seed drill
+- Charles Townshend = Four-field crop rotation
+- Robert Bakewell = Selective breeding
+- Eric Williams = Argued slavery funded industry
+
+**Evidence recall**
+
+- Explain the chain connecting enslaved labour to Lancashire's mills. — *Model:* Enslaved Africans were forced to grow raw cotton on plantations in the Americas; it was shipped through ports such as Liverpool to Lancashire's mills, where it was spun and woven into cloth for sale.
+- Give evidence that enclosure was both progress and hardship. — *Model:* Enclosure made new methods like crop rotation easier, increasing food production, but smallholders lost rights to common land, pushing some into poverty or migration.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Cotton chain | Enslaved labour (Americas) → British ports → Lancashire mills → global markets. |  |
+| Atlantic trade ports | Liverpool, Bristol, Glasgow. |  |
+| Williams thesis (1944) | Slavery profits were a crucial engine of British industrial capital. |  |
+| Critics of Williams | Argue slave-trade profits were too small a share of total investment to be the main cause. |  |
+| Defensible position | Global and domestic factors were interconnected. |  |
+| Enclosure | Fencing common land into private fields. |  |
+| Seed drill | Jethro Tull, 1701: seed in straight rows. |  |
+| Four-field rotation | Wheat, turnips, barley, clover; no fallow. |  |
+| Selective breeding | Robert Bakewell: larger, faster-maturing livestock. |  |
+| Enclosure Acts peak | 1760s–1830s. |  |
+| Who lost from enclosure? | Smallholders and labourers who relied on common land. |  |
+| Agricultural Revolution dates | Roughly 1700–1850. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe the chain linking enslaved labour, cotton and Lancashire's mills.
+- [Describe — red] I can describe the work of Tull, Townshend and Bakewell.
+- [Explain — amber] I can explain the debate about slavery and industrialisation.
+- [Explain — amber] I can explain how enclosure helped some people and harmed others.
+- [Judge — green] I can judge how far industrialisation depended on the world beyond Britain.
+- [Judge — green] I can judge how revolutionary the Agricultural Revolution was using the four criteria.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "Empire was necessary but not sufficient for British industrialisation." How convincing is this argument?
+- *Teacher-created practice question*
+  Would a landowner and an agricultural labourer agree that the Agricultural Revolution was a revolution? Use the four criteria.
+
+*Guide for ""Empire was necessary but not sufficient for British industrialisation." How convincing is this argument?"*
+
+1. Explain the global chain with evidence.
+2. Explain domestic factors.
+3. Use the historians' debate.
+4. Judge how convincing the claim is.
+
+- Qualified claim
+- Precise evidence for both
+- Uses the Williams debate
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: This argument is convincing to a large / some extent because…
+2. E: For example, cotton… / Williams argued…
+3. E: This meant that… However, domestic factors…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> This argument is largely convincing, because empire and slavery were essential to the cotton industry but could not have created industrialisation alone.
+>
+> *P: qualified.*
+
+> Lancashire's mills depended on raw cotton grown by enslaved Africans and shipped through Liverpool; Eric Williams (1944) argued these profits were a crucial engine of industrial capital.
+>
+> *E: precise, uses historian.*
+
+> However, the mills also needed British coal, capital, machines and workers, which meant global cotton only became industrial cloth because of domestic advantages.
+>
+> *E: explains interconnection.*
+
+> Therefore empire was necessary for the cotton industry, but not sufficient on its own.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+*Guide for "Would a landowner and an agricultural labourer agree that the Agricultural Revolution was a revolution? Use the four criteria."*
+
+1. Landowner's view with evidence.
+2. Labourer's view with evidence.
+3. Apply at least two criteria and judge.
+
+- Two perspectives
+- Criteria named
+- Precise evidence
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: They would agree it was revolutionary in… but disagree about…
+2. E: For a landowner, enclosure… / For a labourer…
+3. E: In terms of depth / speed… this meant that…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Necessary or insufficient?:** "Empire was necessary but insufficient for industrialisation." Write the strongest counterargument you can.
+- **Two perspectives:** Would a landowner and an agricultural labourer agree that this was a revolution?
+- **Historians disagree:** Research one critic of Eric Williams. What evidence do they use?
+- **Scoring:** Score the Agricultural Revolution on your Revolution Tracker and justify each score.
+
+#### Lessons 5–6: Machines, factories and cities
+
+`y9-ir-3` · The Industrial Revolution: when does change become a revolution?
+
+The Spinning Jenny, the Water Frame, the power loom and the steam engine moved work from homes into factories, and people from villages into fast-growing cities. Did machines change lives more than anything else? And did industrialisation transform life for everyone?
+
+##### 1. From hand to machine
+
+- James Hargreaves' Spinning Jenny (in use from the mid-1760s, patented 1770) let one worker spin several threads at once.
+- Richard Arkwright's Water Frame (1769) used water power to spin stronger thread. It needed a mill by a river: Cromford Mill (1771) was one of the first true factories.
+- Edmund Cartwright's power loom (1785) mechanised weaving, but was unreliable at first and took decades to spread: mechanisation was gradual.
+- James Watt's improved steam engine (patented 1769, refined in the 1770s–80s) freed factories from rivers, so industry grew in coalfield towns.
+
+The factory system mattered as much as the machines. Under the "domestic" or "putting-out" system, people worked at home at their own pace. In factories, machines, clocks, bells and fines set the pace. Some workers earned more, but many lost control over their working lives.
+
+*Key terms:* mechanisation, factory system, domestic system, textile, productivity
+
+*Precise evidence:*
+- Water Frame 1769; Cromford Mill 1771; power loom 1785.
+
+##### 2. From village to city
+
+Manchester grew from around 18,000 people in the 1750s to over 300,000 by 1850, driven by cotton.
+
+Push factors (low farm wages, loss of common land after enclosure) and pull factors (factory jobs, often higher wages) drove migration to towns.
+
+Growth was unplanned. Working-class families often lived in overcrowded back-to-back houses, sharing an outdoor toilet with many others, with no running water or rubbish removal.
+
+Experience depended on class. Middle-class factory owners, merchants and professionals lived in larger homes, enjoyed new shops, theatres and parks, and sometimes moved to suburbs away from pollution. There was no single experience of "the industrial city".
+
+*Key terms:* urbanisation, migration, push and pull factors, overcrowding, social class, back-to-back housing
+
+*Precise evidence:*
+- Manchester: about 18,000 (1750s) → over 300,000 (1850).
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| Mid-1760s | Hargreaves' Spinning Jenny comes into use. |
+| 1769 | Arkwright's Water Frame; Watt patents his steam engine. |
+| 1771 | Cromford Mill opens. |
+| 1785 | Cartwright's power loom. |
+| 1750s | Manchester has around 18,000 people. |
+| 1850 | Manchester has over 300,000 people. |
+
+**Key people**
+
+- **James Hargreaves** — Spinning Jenny (mid-1760s).
+- **Richard Arkwright** — Water Frame (1769) and Cromford Mill (1771).
+- **Edmund Cartwright** — Power loom (1785).
+- **James Watt** — Improved steam engine (patented 1769).
+
+**Vocabulary**
+
+- **Mechanisation** — Replacing human or animal labour with machines.
+- **Factory system** — Production in one building using machine-powered lines.
+- **Domestic system** — Making goods at home, at your own pace.
+- **Textile** — Cloth or woven fabric.
+- **Productivity** — How much is produced in a given time.
+- **Urbanisation** — The growth of towns and cities.
+- **Migration** — Moving from one place to live in another.
+- **Social class** — A group defined by economic and social position.
+
+**Misconceptions**
+
+- ✗ Machines spread instantly. → ✓ The power loom took decades to be widely used.
+- ✗ Factories made every worker better off. → ✓ Some earned more, but many lost control of their time and pace of work.
+- ✗ Everyone in industrial cities lived in slums. → ✓ Experience differed sharply by class.
+- ✗ Cities were planned for workers. → ✓ Growth was almost entirely unplanned.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. What did the Spinning Jenny allow? Weaving by steam / **One worker to spin several threads at once** / Sowing seed in rows / Pumping water from mines — *Hargreaves, mid-1760s.*
+2. Why did the Water Frame lead to factories? It was small enough for homes / **It needed water power, so it was housed in mills by rivers** / It ran on coal / It was invented in a city — *Cromford Mill, 1771.*
+3. What did Watt's steam engine change? **Factories no longer had to be by fast rivers** / Children no longer worked / Cotton was grown in Britain / Canals closed — *Industry moved to coalfield towns.*
+4. What does the slow spread of the power loom show? **Mechanisation was gradual and uneven** / Nobody wanted cloth / It was banned / It was invented in 1900 — *Speed varied.*
+5. Manchester's population by 1850 was over… 18,000 / 30,000 / **300,000** / 3 million — *From about 18,000 in the 1750s.*
+6. Which is a PULL factor for moving to towns? Loss of common land / Low farm wages / **Factory jobs** / Enclosure — *Pull = attraction of the town.*
+7. Back-to-back housing was typically… Spacious and planned / **Overcrowded, with shared outdoor toilets** / Only for factory owners / In the countryside — *Working-class housing.*
+8. How did middle-class experience differ? They lived in the same housing / **Larger homes, new leisure, sometimes suburbs** / They all worked in mines / No difference — *Class shaped experience.*
+
+**Short answers**
+
+1. Who invented the Water Frame? — **Richard Arkwright**
+2. In what year did Cromford Mill open? — **1771**
+3. Who invented the power loom? — **Edmund Cartwright**
+4. What word means the growth of towns and cities? — **Urbanisation**
+5. Which city grew to over 300,000 by 1850 on cotton? — **Manchester**
+
+**Chronology — Put these in order** (correct order): Spinning Jenny in use → Water Frame and Watt's patent → Cromford Mill opens → Power loom invented
+
+**Matching — Match inventor to invention**
+
+- James Hargreaves = Spinning Jenny
+- Richard Arkwright = Water Frame
+- Edmund Cartwright = Power loom
+- James Watt = Improved steam engine
+
+**Matching — Push or pull?**
+
+- Factory jobs = Pull: work available in towns
+- Loss of common land = Push: lost rights in the village
+- Higher wages = Pull: more money (often)
+- Low farm wages = Push: poor rural pay
+
+**Evidence recall**
+
+- Explain how the factory system changed the experience of work. — *Model:* Under the domestic system people worked at home at their own pace; in factories, machines, clocks, bells and fines set the pace, so workers lost control over their time.
+- Give precise evidence that urbanisation was rapid but affected classes differently. — *Model:* Manchester grew from about 18,000 in the 1750s to over 300,000 by 1850; working-class families crowded into back-to-backs while middle-class families had larger homes and moved to suburbs.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Spinning Jenny | Hargreaves, mid-1760s: several threads at once. |  |
+| Water Frame | Arkwright, 1769: water-powered, stronger thread. |  |
+| Cromford Mill | 1771: one of the first true factories. |  |
+| Power loom | Cartwright, 1785: slow to spread. |  |
+| Watt's steam engine | Patented 1769: freed factories from rivers. |  |
+| Domestic system | Work at home at your own pace. |  |
+| Factory discipline | Clocks, bells, fines; machines set the pace. |  |
+| Manchester growth | About 18,000 (1750s) → over 300,000 (1850). |  |
+| Push factors | Low farm wages, loss of common land. |  |
+| Pull factors | Factory jobs, often higher wages. |  |
+| Back-to-backs | Overcrowded working-class housing with shared toilets. |  |
+| Class difference | Middle class: larger homes, leisure, suburbs. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe four key textile and power inventions.
+- [Describe — red] I can describe how Manchester grew.
+- [Explain — amber] I can explain how the factory system changed work.
+- [Explain — amber] I can explain push and pull factors for migration.
+- [Judge — green] I can judge whether machines changed lives more than anything else.
+- [Judge — green] I can judge whether industrialisation transformed life for everyone.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "Machines changed people's lives more than anything else during the Industrial Revolution." How far do you agree?
+- *Teacher-created practice question*
+  Did industrialisation transform life for everyone?
+
+*Guide for ""Machines changed people's lives more than anything else during the Industrial Revolution." How far do you agree?"*
+
+1. Explain the impact of machines with evidence.
+2. Explain another change (factory system or urbanisation).
+3. Use at least two criteria to judge.
+
+- Qualified claim
+- Precise evidence
+- Criteria named
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: Machines changed lives to a large / some extent, but…
+2. E: For example, the Water Frame (1769)…
+3. E: In terms of depth / scale, this meant that… However, urbanisation…
+4. J: Therefore, the biggest change was…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+*Guide for "Did industrialisation transform life for everyone?"*
+
+1. Working-class experience with evidence.
+2. Middle-class experience with evidence.
+3. Judge: transformed for whom, and how?
+
+- Two classes compared
+- Precise evidence
+- Judgement about "everyone"
+
+**Writing frame — sentence starters**
+
+1. P: Industrialisation transformed life for most people, but not in the same way…
+2. E: For working-class families… whereas middle-class families…
+3. E: This meant that…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Productivity:** Does increased productivity necessarily mean progress?
+- **Living standards:** Can historians call industrialisation progress if living standards fell for some people at first?
+- **Living graph:** Plot how a hand-loom weaver's life changed from 1770 to 1840 on a living graph, annotating each turning point.
+- **Tracker:** Score mechanisation and urbanisation on your Revolution Tracker. Which scores higher on Depth, and why?
+
+#### Lessons 7–8: Children, disease and reform
+
+`y9-ir-4` · The Industrial Revolution: when does change become a revolution?
+
+How revolutionary was industrialisation for children? And how successfully did Britain respond to the filth and disease it created? This topic uses real evidence about child labour, evaluates Oliver! as a later interpretation, and follows the public health reformers.
+
+##### 1. A child's revolution
+
+Children worked long hours, often 12–14 hours a day, six days a week. In mills they pieced broken threads or crawled under machinery to clear blockages; in mines they worked as "trappers" opening ventilation doors or hauled coal tubs. Accidents from exhaustion and unguarded machines were common.
+
+For many working-class families, children's wages were essential household income. That is context, not an excuse.
+
+Government inquiries such as the Sadler Committee (1832) collected testimony from child workers. They are a key source, but were gathered to support reform, so historians read them with that purpose in mind.
+
+Reform was gradual: the 1833 Factory Act limited children's hours and set minimum ages in textile mills (enforcement was patchy), and the 1842 Mines Act banned underground work for women and children under 10.
+
+Oliver! (1968 film, based on Dickens's 1838 novel Oliver Twist) is a later interpretation, not evidence. It shows a workhouse and London pickpockets, not factory or mine work, so it blurs different experiences of poverty.
+
+*Key terms:* testimony, interpretation, workhouse, apprentice, Factory Act, Mines Act
+
+*Precise evidence:*
+- Sadler Committee 1832; Factory Act 1833; Mines Act 1842.
+- Oliver! (1968) is an interpretation, not evidence.
+
+##### 2. Filth, disease and progress
+
+Industrial towns grew faster than any planning: no piped water, no sewage removal, a few outdoor toilets for dozens of families. Cholera, a waterborne disease, caused major epidemics in 1831–32, 1848–49 and 1854, killing tens of thousands.
+
+- Edwin Chadwick's 1842 report used statistics to argue that poor sanitation caused disease and cost money. It helped lead to the 1848 Public Health Act, the first significant national public health law.
+- John Snow's 1854 investigation in Soho mapped cholera cases to the Broad Street water pump, evidence that cholera spread through water, not "bad air" (miasma). It took years to be accepted.
+- Joseph Bazalgette designed London's sewer network, built mainly in the 1860s after the "Great Stink" of 1858.
+
+The response was gradual and contested. Many feared government interference and the cost, so change came slowly and unevenly. Did industrialisation solve the problems it created, or did government action?
+
+*Key terms:* public health, sanitation, cholera, miasma, reform
+
+*Precise evidence:*
+- Chadwick report 1842; Public Health Act 1848.
+- Snow, Broad Street pump, 1854.
+- Great Stink 1858; sewers mainly 1860s.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1831–32 | First major cholera epidemic in Britain. |
+| 1832 | The Sadler Committee collects testimony from child workers. |
+| 1833 | The Factory Act limits children's hours in textile mills. |
+| 1842 | The Mines Act; Chadwick's sanitary report. |
+| 1848 | The Public Health Act. |
+| 1854 | John Snow traces cholera to the Broad Street pump. |
+| 1858 | The "Great Stink" in London. |
+
+**Key people**
+
+- **Michael Sadler** — MP whose 1832 committee collected child workers' testimony.
+- **Edwin Chadwick** — Civil servant; 1842 sanitary report.
+- **John Snow** — Doctor who linked cholera to water (1854).
+- **Joseph Bazalgette** — Engineer of London's sewers (1860s).
+- **Charles Dickens** — Novelist; Oliver Twist (1838).
+
+**Vocabulary**
+
+- **Interpretation** — A later explanation or representation of the past.
+- **Testimony** — A firsthand account given as evidence.
+- **Workhouse** — Where poor people lived and worked for basic food and shelter.
+- **Apprentice** — Someone, often a child, bound to work for an employer.
+- **Public health** — Population health and government action to protect it.
+- **Sanitation** — Clean water and safe removal of sewage and waste.
+- **Cholera** — A deadly waterborne disease.
+- **Miasma** — The old theory that disease spread through "bad air".
+
+**Misconceptions**
+
+- ✗ Oliver! shows what factory child labour was like. → ✓ It shows a workhouse and pickpockets. It is a later interpretation, not evidence.
+- ✗ The 1833 Factory Act ended child labour. → ✓ It limited hours in textile mills; enforcement was patchy and other industries were not covered.
+- ✗ Snow's discovery was accepted immediately. → ✓ Miasma theory remained dominant for years.
+- ✗ Government acted quickly on public health. → ✓ Change was slow and contested because of cost and fear of interference.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Typical working hours for factory children were… 4–6 hours / 8 hours / **12–14 hours** / 20 hours — *12–14 hours, six days a week.*
+2. Why must historians be careful with the Sadler Committee evidence? It is fiction / **It was collected to support reform** / It is from 1968 / Children could not speak — *Purpose shapes content.*
+3. What did the 1842 Mines Act do? Banned all child labour / **Banned underground work for women and children under 10** / Closed all mines / Built sewers — *After shock at the Royal Commission.*
+4. Oliver! (1968) is best described as… A primary source on factory work / **A later interpretation of workhouse poverty** / A government report / Testimony — *Interpretation, not evidence.*
+5. Cholera spread mainly through… Bad air / **Contaminated water** / Rats / Food from abroad — *Snow's 1854 evidence.*
+6. Which report helped lead to the 1848 Public Health Act? Sadler's / **Chadwick's 1842 report** / Snow's map / Toynbee's lectures — *Statistics on sanitation.*
+7. The "Great Stink" happened in… 1832 / 1848 / 1854 / **1858** — *Leading to Bazalgette's sewers.*
+8. Miasma theory said disease spread through… Water / **Bad air** / Germs / Insects — *The dominant theory before Snow was accepted.*
+
+**Short answers**
+
+1. Which Act of 1833 limited children's hours in textile mills? — **The Factory Act**
+2. Which novel by Dickens is Oliver! based on? — **Oliver Twist**
+3. Which water pump did John Snow identify? — **Broad Street**
+4. Who designed London's sewers? — **Joseph Bazalgette**
+5. In what year was the first Public Health Act? — **1848**
+
+**Chronology — Put these in order** (correct order): First cholera epidemic → Sadler Committee → Factory Act → Mines Act and Chadwick report → Public Health Act → Snow and the Broad Street pump → The Great Stink
+
+**Matching — Match the reformer to the achievement**
+
+- Edwin Chadwick = 1842 sanitary report
+- John Snow = Linked cholera to water
+- Joseph Bazalgette = London's sewers
+- Michael Sadler = Inquiry into child labour
+
+**Evidence recall**
+
+- Explain why Oliver! should not be used as evidence of factory child labour. — *Model:* It is a 1968 film based on an 1838 novel, so it is a later interpretation, and it shows a workhouse and pickpockets rather than factory or mine work.
+- Explain why John Snow's 1854 investigation was significant. — *Model:* By mapping cholera deaths to the Broad Street pump, Snow showed cholera spread through contaminated water, not bad air, a founding moment of epidemiology.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Child working hours | Often 12–14 hours a day, six days a week. |  |
+| Trappers | Children who opened and closed mine ventilation doors. |  |
+| Sadler Committee | 1832 inquiry collecting child workers' testimony. |  |
+| Factory Act 1833 | Limited children's hours in textile mills. |  |
+| Mines Act 1842 | Banned underground work for women and children under 10. |  |
+| Oliver! | 1968 film of Dickens's 1838 novel: an interpretation of workhouse poverty. |  |
+| Cholera epidemics | 1831–32, 1848–49, 1854. |  |
+| Chadwick | 1842 report → 1848 Public Health Act. |  |
+| Snow | 1854: Broad Street pump, cholera spread by water. |  |
+| Bazalgette | London sewers, mainly 1860s. |  |
+| Great Stink | 1858, London. |  |
+| Miasma | Old theory: disease from bad air. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe children's work in mills and mines.
+- [Describe — red] I can describe the work of Chadwick, Snow and Bazalgette.
+- [Explain — amber] I can explain the difference between testimony and a later interpretation like Oliver!.
+- [Explain — amber] I can explain why public health reform was slow.
+- [Judge — green] I can judge how revolutionary industrialisation was for children.
+- [Judge — green] I can judge whether government action or industrialisation solved the problems it created.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "Industrialisation was revolutionary for children." How far do you agree? Use the four criteria.
+- *Teacher-created practice question*
+  How successfully did Britain respond to the public health problems created by industrialisation?
+
+*Guide for ""Industrialisation was revolutionary for children." How far do you agree? Use the four criteria."*
+
+1. Apply Scale and Depth to child labour evidence.
+2. Consider Duration: reform from 1833 and 1842.
+3. Separate "revolutionary" from "positive".
+4. Judge.
+
+- Criteria named
+- Precise evidence (hours, Acts, dates)
+- Distinguishes revolutionary from positive
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: Industrialisation was revolutionary for children to a large / some extent…
+2. E: For example, testimony to the Sadler Committee…
+3. E: In terms of depth / scale / duration, this meant that…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> Industrialisation was revolutionary for many children in depth, though not always positive.
+>
+> *P: qualified.*
+
+> Factory children often worked 12–14 hours a day under machine discipline, very different from work at home, as testimony to the Sadler Committee (1832) showed.
+>
+> *E: precise.*
+
+> This meant the depth of change was great; reforms such as the 1833 Factory Act and 1842 Mines Act also show the change lasted long enough to force new laws.
+>
+> *E: criteria applied.*
+
+> Therefore it was revolutionary, but harmful for many children, showing that revolutionary does not mean positive.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+*Guide for "How successfully did Britain respond to the public health problems created by industrialisation?"*
+
+1. Evidence of success (1848 Act, Snow, Bazalgette).
+2. Evidence of limits (slow, miasma, cost, opposition).
+3. Judge with a qualifier.
+
+- Qualified claim
+- Precise evidence both ways
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: Britain responded successfully to some extent, but slowly…
+2. E: For example, the 1848 Public Health Act… / Snow (1854)…
+3. E: However, this meant that…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Less revolutionary or less positive?:** Does children's suffering make industrialisation less revolutionary, or simply less positive?
+- **Who solved it?:** Did industrialisation solve the problems it created, or did government intervention?
+- **Interpretation review:** Watch a clip of Oliver!. What does it get right, what does it blur, and why might film-makers make those choices?
+- **Source purpose:** How does knowing the Sadler Committee wanted reform change how you use its testimony?
+
+#### Lessons 9–14: Was it really a revolution? From steam to silicon
+
+`y9-ir-5` · The Industrial Revolution: when does change become a revolution?
+
+Time to judge. This topic brings the whole unit together with the Revolution Tracker, prepares you for the Harkness debate, then applies the same criteria to the Internet and to AI, including what the Industrial Revolution can teach us about the UAE's future.
+
+##### 1. Was it really a revolution?
+
+Use the four criteria (Scale, Speed, Depth, Duration) to compare very different changes fairly. Change that looks dramatic on one criterion can look less revolutionary on another:
+
+- Urbanisation scores very high on Scale (millions moved) but more moderately on Speed within one town (growth over decades).
+- A single invention such as the power loom had narrow immediate Scale but very high Depth for the workers it replaced.
+- Agricultural change was slower, but it was a precondition for everything else.
+
+Not every area of life changed equally. Some things showed continuity, such as the monarchy, many rural ways of life and religious practice. A strong judgement shows this unevenness rather than claiming "everything changed".
+
+*Key terms:* synthesis, criteria, overturn, continuity
+
+*Precise evidence:*
+- Compare developments on all four criteria, not just one.
+
+##### 2. The Revolution Debate (Harkness)
+
+Assessment proposition: "The Industrial Revolution changed the world more profoundly than the revolutions that followed it." How far do you agree?
+
+A Harkness discussion is student-led and evidence-based. The teacher observes. You are marked on Knowledge, Precise evidence, Historical reasoning, Responding/building/challenging, and a short written Final judgement (4 marks each, 20 in total).
+
+Prepare an Evidence Bank: your three strongest pieces of evidence, one counterargument to your own view, and two questions to ask classmates. Do not script a speech.
+
+- Build: "Building on what X said…"
+- Challenge: "I would challenge that because…"
+- Agree with nuance: "I agree to some extent, but the evidence from… suggests…"
+- Question: "What evidence supports that claim?"
+
+*Key terms:* Harkness discussion, proposition, counterargument, corroborate, qualifier
+
+*Precise evidence:*
+- Rubric: 5 strands × 4 marks = 20.
+
+##### 3. From steam to silicon: the Internet and AI
+
+Key milestones: ARPANET sent the first message between computers in 1969; Tim Berners-Lee's World Wide Web became publicly available in 1991, making the Internet usable by non-specialists; e-commerce, search and social media spread from the mid-1990s; the smartphone era (often dated from the iPhone in 2007) made constant mobile access normal for billions.
+
+Compare with the criteria: the Internet spread globally in roughly 20–30 years (Speed) to billions (Scale). Its Depth is huge, but its Duration cannot yet be judged with hindsight.
+
+Mechanisation mainly replaced physical tasks; automation and AI increasingly perform cognitive tasks too, a significant difference.
+
+The UAE is pursuing rapid economic and technological change, diversifying beyond oil and investing in education, innovation and AI, while emphasising heritage, community and national identity. History teaches caution: people in 1750 could not predict 1900, so we should be careful about confident predictions about AI.
+
+*Key terms:* digital revolution, World Wide Web, automation, artificial intelligence, economic diversification, heritage
+
+*Precise evidence:*
+- ARPANET 1969; Web public 1991; iPhone 2007.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1750 | Britain mainly rural. |
+| 1830 | Liverpool and Manchester Railway opens. |
+| 1900 | Britain majority-urban and industrial. |
+| 1969 | ARPANET sends the first message between computers. |
+| 1991 | The World Wide Web becomes publicly available. |
+| 2007 | The iPhone launches the smartphone era. |
+
+**Key people**
+
+- **Tim Berners-Lee** — Created the World Wide Web, publicly available from 1991.
+
+**Vocabulary**
+
+- **Synthesis** — Bringing separate knowledge together into one overall judgement.
+- **Criteria** — Standards used to judge something: here Scale, Speed, Depth, Duration.
+- **Overturn** — To completely change or replace something that existed before.
+- **Proposition** — A statement put forward for debate.
+- **Counterargument** — A point that challenges an argument.
+- **Digital revolution** — The shift from mechanical/analogue technology to digital computing.
+- **Automation** — Machines or systems doing tasks without direct human control.
+- **Economic diversification** — Developing many industries so an economy does not rely on one.
+
+**Misconceptions**
+
+- ✗ Everything changed in the Industrial Revolution. → ✓ Change was uneven; there were important continuities.
+- ✗ Faster change is automatically more revolutionary. → ✓ Speed is one criterion; Depth and Duration matter too.
+- ✗ We can already judge the Internet's full impact. → ✓ Its Duration cannot yet be judged with hindsight.
+- ✗ Harkness rewards whoever talks most. → ✓ It rewards evidence, reasoning and responding well to others.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Which criterion would urbanisation score highest on? Speed within one town / **Scale** / None / Popularity — *Millions moved.*
+2. What should a strong judgement about the Industrial Revolution show? Everything changed equally / **Change was uneven, with continuities** / Nothing changed / Only inventions mattered — *Unevenness.*
+3. In a Harkness discussion, the teacher… Leads and asks questions in turn / **Observes and records** / Writes the answers / Chooses who speaks — *Student-led.*
+4. How many marks is the Harkness assessment out of? 10 / 16 / **20** / 40 — *5 strands × 4.*
+5. Which is a "challenge" sentence stem? Building on what X said… / **I would challenge that because…** / Firstly… / In 1771… — *Respectful challenge.*
+6. When did the World Wide Web become publicly available? 1969 / **1991** / 2007 / 1830 — *1991.*
+7. Why is the Internet's Duration hard to judge? It is too old / **It is still unfolding, so we lack hindsight** / Nobody uses it / It ended in 2007 — *No hindsight yet.*
+8. What is a key difference between mechanisation and AI? AI replaces physical tasks only / **Mechanisation mainly replaced physical tasks; AI also performs cognitive tasks** / They are identical / Mechanisation used computers — *Physical vs cognitive.*
+
+**Short answers**
+
+1. When did ARPANET send its first message? — **1969**
+2. Who created the World Wide Web? — **Tim Berners-Lee**
+3. What is a point that challenges your own argument called? — **Counterargument**
+4. Name the four criteria. — **Scale, Speed, Depth, Duration**
+5. What does "economic diversification" mean? — **Developing many industries so an economy does not depend on one**
+
+**Chronology — Put these in order** (correct order): Britain mainly rural → Liverpool and Manchester Railway → Britain majority-urban → ARPANET first message → World Wide Web public → iPhone launches smartphone era
+
+**Matching — Match the Harkness move to its stem**
+
+- Build = Building on what X said…
+- Challenge = I would challenge that because…
+- Question = What evidence supports that claim?
+- Agree with nuance = I agree to some extent, but…
+
+**Evidence recall**
+
+- Use two criteria to show that urbanisation and the power loom were revolutionary in different ways. — *Model:* Urbanisation was huge in Scale, with millions moving to towns such as Manchester, while the power loom had narrow Scale but great Depth for the hand-loom weavers whose work it replaced.
+- Compare the Speed of the Internet with the Industrial Revolution. — *Model:* The Internet spread globally in about 20–30 years after 1991, while the Industrial Revolution unfolded over more than a century, from around 1750 to 1900.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Synthesis | Bringing knowledge together into one judgement. |  |
+| Urbanisation on the criteria | Very high Scale; moderate Speed in any one town. |  |
+| Power loom on the criteria | Narrow Scale; high Depth for weavers. |  |
+| Continuities | Monarchy, many rural ways of life, religious practice. |  |
+| Harkness | Student-led, evidence-based seminar discussion. |  |
+| Five Harkness strands | Knowledge, Evidence, Reasoning, Responding, Final judgement. |  |
+| Evidence Bank | 3 strongest pieces of evidence, 1 counterargument, 2 questions. |  |
+| ARPANET | 1969: first message between computers. |  |
+| World Wide Web | Tim Berners-Lee; public from 1991. |  |
+| Smartphone era | Often dated from the iPhone, 2007. |  |
+| Mechanisation vs AI | Physical tasks vs physical and cognitive tasks. |  |
+| Lesson from history about AI | People in 1750 could not predict 1900: be cautious about predictions. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe key milestones of the Internet.
+- [Explain — amber] I can explain how the four criteria show change was uneven.
+- [Explain — amber] I can explain the Harkness strands and use the sentence stems.
+- [Explain — amber] I can explain the difference between mechanisation and AI.
+- [Judge — green] I can judge whether the Industrial Revolution changed the world more than later revolutions.
+- [Judge — green] I can write a qualified final judgement for the Harkness debate.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  "The Industrial Revolution changed the world more profoundly than the revolutions that followed it." How far do you agree? (Harkness final judgement, about 150–200 words)
+- *Teacher-created practice question*
+  Was the Internet another Industrial Revolution? Use the four criteria.
+
+*Guide for ""The Industrial Revolution changed the world more profoundly than the revolutions that followed it." How far do you agree? (Harkness final judgement, about 150–200 words)"*
+
+1. State a qualified judgement.
+2. Use your strongest evidence, naming criteria.
+3. Acknowledge the strongest counterargument.
+4. Conclude on which criteria decide it.
+
+- Qualified judgement
+- Specific evidence
+- Criteria named
+- Counterargument addressed
+
+**Writing frame — sentence starters**
+
+1. P: The Industrial Revolution changed the world more / less profoundly, to a large / some extent, because…
+2. E: For example, …
+3. E: However, the Internet / AI… in terms of speed / scale…
+4. J: Therefore, overall… because the deciding criterion is…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> The Industrial Revolution changed the world considerably more profoundly than later revolutions, to a large extent, because its depth of change was unmatched.
+>
+> *P: qualified.*
+
+> It transformed where people lived and how they worked: Manchester grew from around 18,000 people in the 1750s to over 300,000 by 1850, and new public health laws such as the 1848 Act changed the relationship between government and citizens.
+>
+> *E: precise.*
+
+> However, the Internet and AI may prove faster and larger in scale, even if their depth and duration cannot yet be judged with hindsight.
+>
+> *E: counterargument and criteria.*
+
+> Therefore the Industrial Revolution's profundity lies in its depth and its now-provable duration, an advantage later, still-unfolding revolutions cannot yet claim.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+*Guide for "Was the Internet another Industrial Revolution? Use the four criteria."*
+
+1. Scale and Speed with evidence.
+2. Depth with examples.
+3. Explain the Duration problem.
+4. Judge.
+
+- All four criteria used
+- Milestone dates
+- Duration problem explained
+- Judgement
+
+**Writing frame — sentence starters**
+
+1. P: The Internet was / was not another Industrial Revolution, to some extent…
+2. E: For example, since 1991…
+3. E: In terms of speed / scale… however, duration…
+4. J: Therefore…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Scale or speed?:** Which matters more when deciding whether something was revolutionary: scale or speed?
+- **Faster = more revolutionary?:** Does faster change automatically make the Internet more revolutionary?
+- **Predicting AI:** If people in 1750 could not predict the world of 1900, how confident should we be when predicting the consequences of AI?
+- **UAE future:** Using the four criteria, what questions should the UAE ask about AI that the Industrial Revolution suggests?
+
+### Causes of the First World War — Unit 2
+
+#### Long-term causes: M.A.I.N.: militarism, alliances, imperialism, nationalism
+
+`y9-ww-1` · Causes of the First World War
+
+Why did Europe go to war in 1914? Historians usually start with four long-term causes, remembered as M.A.I.N.: Militarism, Alliances, Imperialism and Nationalism. Each built tension over decades. Your job is to explain how they linked, and to judge which mattered most.
+
+##### 1. Militarism
+
+Militarism is the belief that a country should build up strong armed forces and be ready to use them. The Great Powers spent heavily on armies and navies before 1914.
+
+- The naval race: Germany's Navy Laws (1898 and 1900) aimed to build a fleet to rival Britain's. Britain launched HMS Dreadnought in 1906, a battleship so advanced it made older ships out of date, and both countries raced to build more. In 1909 the British public demanded "We want eight and we won't wait".
+- Huge armies: France, Germany, Russia and Austria-Hungary relied on conscription, so millions of men could be mobilised quickly.
+- War plans: Germany's Schlieffen Plan (drawn up around 1905) planned to defeat France quickly by going through Belgium before turning on Russia. Plans like this meant that once mobilisation started, it was hard to stop.
+
+Militarism increased fear and suspicion, and it made generals' timetables part of political decisions in July 1914.
+
+*Key terms:* militarism, arms race, Dreadnought, conscription, mobilisation, Schlieffen Plan
+
+*Precise evidence:*
+- HMS Dreadnought launched 1906.
+- German Navy Laws 1898 and 1900.
+- Schlieffen Plan: around 1905.
+
+##### 2. Alliances
+
+By 1914 Europe was divided into two armed camps:
+
+- The Triple Alliance (1882): Germany, Austria-Hungary and Italy.
+- The Triple Entente: France and Russia allied in 1894; Britain and France signed the Entente Cordiale in 1904; Britain and Russia reached agreement in 1907.
+
+Alliances were meant to deter attack, but they could turn a local quarrel into a wider war, because a conflict involving one member could pull in its partners. Britain's ententes were friendly understandings rather than firm promises to fight; Britain's decision in August 1914 was strongly shaped by Germany invading Belgium, whose neutrality Britain had guaranteed in the Treaty of London (1839).
+
+Italy did not join its allies in 1914, and entered the war in 1915 on the Entente side. That shows alliances did not automatically decide what countries did.
+
+*Key terms:* alliance, Triple Alliance, Triple Entente, Entente Cordiale, Treaty of London (1839)
+
+*Precise evidence:*
+- Triple Alliance 1882.
+- Franco-Russian Alliance 1894; Entente Cordiale 1904; Anglo-Russian Entente 1907.
+
+##### 3. Imperialism
+
+Imperialism is when a powerful country builds an empire by taking control of other lands. By 1914 Britain had the largest empire in the world, and France also had a vast empire.
+
+In the "Scramble for Africa", European powers divided almost the whole continent between them, agreeing rules at the Berlin Conference (1884–85). Africans resisted, but by 1914 only Ethiopia and Liberia remained independent.
+
+Germany, united only in 1871, wanted its own empire. Under Kaiser Wilhelm II's Weltpolitik ("world policy"), it demanded "a place in the sun". Rivalry over Morocco led to two crises, in 1905 (Tangier) and 1911 (Agadir). Both times Britain backed France, which brought them closer and increased German fears of being "encircled".
+
+*Key terms:* imperialism, empire, Scramble for Africa, Weltpolitik, Moroccan Crises
+
+*Precise evidence:*
+- Berlin Conference 1884–85.
+- Moroccan Crises 1905 and 1911.
+
+##### 4. Nationalism
+
+Nationalism is a strong pride in your nation, and often the belief that each nation should rule itself.
+
+- In the Balkans, Serbian nationalists wanted to unite South Slav peoples, including those ruled by Austria-Hungary. Russia supported Slavs (Pan-Slavism).
+- In 1908 Austria-Hungary annexed Bosnia-Herzegovina, angering Serbia and Russia (the Bosnian Crisis).
+- The Balkan Wars (1912–13) made Serbia larger and more confident, alarming Austria-Hungary.
+- The Black Hand, a secret Serbian nationalist society founded in 1911, used violence to pursue its aims.
+- In France, many wanted to recover Alsace-Lorraine, lost to Germany in 1871.
+
+Nationalism also meant that, in 1914, many people in every country supported going to war.
+
+*Key terms:* nationalism, Balkans, Pan-Slavism, Bosnian Crisis, Black Hand, Alsace-Lorraine
+
+*Precise evidence:*
+- Bosnian Crisis 1908; Balkan Wars 1912–13; Black Hand founded 1911.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1871 | Germany unifies and takes Alsace-Lorraine from France. |
+| 1882 | The Triple Alliance: Germany, Austria-Hungary and Italy. |
+| 1884–85 | The Berlin Conference sets rules for the Scramble for Africa. |
+| 1894 | France and Russia form an alliance. |
+| 1898 | Germany's first Navy Law. |
+| 1904 | Britain and France sign the Entente Cordiale. |
+| 1905 | First Moroccan Crisis (Tangier). |
+| 1906 | Britain launches HMS Dreadnought. |
+| 1907 | Britain and Russia reach agreement: the Triple Entente is complete. |
+| 1908 | Austria-Hungary annexes Bosnia-Herzegovina. |
+| 1911 | Second Moroccan Crisis (Agadir); the Black Hand is founded. |
+| 1912–13 | The Balkan Wars. |
+
+**Key people**
+
+- **Kaiser Wilhelm II** — German emperor (1888–1918); pursued Weltpolitik and naval expansion.
+- **Alfred von Tirpitz** — German admiral behind the Navy Laws.
+- **Alfred von Schlieffen** — German general whose plan aimed to defeat France quickly through Belgium.
+
+**Vocabulary**
+
+- **Militarism** — Building up strong armed forces and being ready to use them.
+- **Alliance** — An agreement between countries to support each other.
+- **Imperialism** — Building an empire by taking control of other lands.
+- **Nationalism** — Strong pride in your nation; belief that a nation should rule itself.
+- **Arms race** — Countries competing to build more and better weapons.
+- **Conscription** — Compulsory military service.
+- **Mobilisation** — Getting armed forces ready for war.
+- **Entente** — A friendly understanding between countries, weaker than a full alliance.
+- **Weltpolitik** — Germany's "world policy" to gain empire and influence.
+
+**Misconceptions**
+
+- ✗ Alliances forced every country into war automatically. → ✓ Italy stayed out in 1914, and Britain's entente did not oblige it to fight. Choices still mattered.
+- ✗ One cause explains the war. → ✓ The four causes interacted, and the trigger set them off.
+- ✗ Britain went to war only because of its alliance with France. → ✓ The German invasion of Belgium, whose neutrality Britain had guaranteed, was decisive.
+- ✗ Imperialism was only about Africa and Asia. → ✓ Imperial rivalry also increased tension between European powers themselves, as in Morocco.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Which ship, launched in 1906, began a new stage of the naval race? HMS Victory / **HMS Dreadnought** / Titanic / Bismarck — *It made older battleships out of date.*
+2. The Schlieffen Plan aimed to… Invade Britain first / **Defeat France quickly through Belgium, then turn on Russia** / Avoid war / Defend Austria — *Speed against France.*
+3. Which countries formed the Triple Alliance (1882)? Britain, France, Russia / **Germany, Austria-Hungary, Italy** / Germany, Russia, Serbia / France, Italy, Britain — *Triple Alliance.*
+4. In which year did Britain and France sign the Entente Cordiale? 1882 / 1894 / **1904** / 1914 — *1904.*
+5. Which treaty guaranteed Belgian neutrality? Treaty of Versailles / **Treaty of London (1839)** / Treaty of Berlin / Entente Cordiale — *Key to Britain's decision.*
+6. What was Weltpolitik? A French alliance / **Germany's "world policy" to gain empire and influence** / A British warship / A Serbian society — *Wilhelm II's policy.*
+7. The Moroccan Crises of 1905 and 1911 led to… Germany and Britain becoming allies / **Britain backing France, increasing German fears of encirclement** / Morocco joining the Triple Alliance / Immediate war — *Entente strengthened.*
+8. What did Austria-Hungary do in 1908 that angered Serbia and Russia? Invaded Serbia / **Annexed Bosnia-Herzegovina** / Joined the Entente / Built a navy — *The Bosnian Crisis.*
+
+**Short answers**
+
+1. What does the M in M.A.I.N. stand for? — **Militarism**
+2. Which three countries made up the Triple Entente? — **Britain, France and Russia**
+3. Which secret Serbian nationalist society was founded in 1911? — **The Black Hand**
+4. Which region did France lose to Germany in 1871? — **Alsace-Lorraine**
+5. Which conference set rules for the Scramble for Africa? — **The Berlin Conference (1884–85)**
+
+**Chronology — Put these in order** (correct order): Germany unifies, takes Alsace-Lorraine → Triple Alliance → Franco-Russian Alliance → Entente Cordiale → HMS Dreadnought launched → Bosnian Crisis → Agadir Crisis → Balkan Wars
+
+**Matching — Match the cause to the evidence**
+
+- Militarism = The Anglo-German naval race
+- Alliances = Triple Alliance vs Triple Entente
+- Imperialism = Moroccan Crises, 1905 and 1911
+- Nationalism = The Black Hand and the Bosnian Crisis
+
+**Evidence recall**
+
+- Give precise evidence of militarism before 1914. — *Model:* Germany's Navy Laws of 1898 and 1900 led to a naval race with Britain, which launched HMS Dreadnought in 1906.
+- Explain how the alliance system could turn a local conflict into a European war. — *Model:* A quarrel between Austria-Hungary and Serbia could pull in Russia as Serbia's supporter, then Germany as Austria-Hungary's ally, and then France as Russia's ally.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Militarism | Building strong armed forces and being ready to use them. |  |
+| HMS Dreadnought | British battleship launched 1906. |  |
+| Schlieffen Plan | German plan to beat France quickly via Belgium, then face Russia. |  |
+| Triple Alliance | Germany, Austria-Hungary, Italy (1882). |  |
+| Triple Entente | Britain, France, Russia (complete by 1907). |  |
+| Entente Cordiale | Britain–France, 1904. |  |
+| Treaty of London 1839 | Guaranteed Belgian neutrality. |  |
+| Imperialism | Building an empire by controlling other lands. |  |
+| Weltpolitik | Germany's "world policy": a place in the sun. |  |
+| Moroccan Crises | 1905 (Tangier) and 1911 (Agadir). |  |
+| Bosnian Crisis | 1908: Austria-Hungary annexes Bosnia-Herzegovina. |  |
+| Black Hand | Secret Serbian nationalist society, founded 1911. |  |
+| Alsace-Lorraine | Lost by France to Germany in 1871. |  |
+| Balkan Wars | 1912–13: Serbia grows stronger. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe each of the four M.A.I.N. causes with evidence.
+- [Describe — red] I can describe the two alliance blocs and when they formed.
+- [Explain — amber] I can explain how the naval race increased tension.
+- [Explain — amber] I can explain how imperial rivalry drew Britain and France together.
+- [Explain — amber] I can explain why the Balkans were so dangerous.
+- [Judge — green] I can judge which long-term cause was most important.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  Describe two features of the alliance system in 1914. (4 marks)
+- *Teacher-created practice question*
+  "Militarism was the main long-term cause of the First World War." How far do you agree? (16 marks)
+
+*Guide for "Describe two features of the alliance system in 1914. (4 marks)"*
+
+1. Name the two blocs with members and dates.
+2. Add a detail for each (e.g. what an entente was).
+
+- Two features
+- Accurate members and dates
+
+**Writing frame — sentence starters**
+
+1. One feature was… For example…
+2. A second feature was… For example…
+
+*Lighter support (headings only):* Feature + detail → Feature + detail
+
+*Guide for ""Militarism was the main long-term cause of the First World War." How far do you agree? (16 marks)"*
+
+1. Explain militarism with precise evidence.
+2. Explain at least two other causes with evidence.
+3. Show links between causes.
+4. Judge which mattered most, using a qualifier.
+
+- Qualified judgement
+- Precise evidence for several causes
+- Links between causes
+- Clear conclusion
+
+**Writing frame — sentence starters**
+
+1. P: Militarism was the main cause to a large / some extent because…
+2. E: For example, the naval race… / the Schlieffen Plan…
+3. E: This meant that… However, alliances / nationalism…
+4. J: Therefore, overall the most important long-term cause was…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Annotated model answer**
+
+> Militarism was a highly important long-term cause, but to a large extent it mattered because of the alliance system.
+>
+> *P: qualified.*
+
+> The naval race, from Germany's Navy Laws of 1898 and 1900 to HMS Dreadnought in 1906, made Britain see Germany as a threat, and the Schlieffen Plan meant a war with Russia would also be a war with France through Belgium.
+>
+> *E: precise.*
+
+> This meant that once mobilisation began in July 1914, military timetables and alliance commitments turned a Balkan crisis into a European war.
+>
+> *E: explains links.*
+
+> Therefore militarism was not the main cause on its own; it was most dangerous when combined with alliances and Balkan nationalism.
+>
+> *J: judgement.*
+
+*An example, not the only way to answer.*
+
+**Stretch and challenge**
+
+- **Linking causes:** Draw a diagram linking all four M.A.I.N. causes. Which link was the most dangerous, and why?
+- **Deterrence:** Alliances were meant to prevent war. Why did they fail in 1914?
+- **Historians disagree:** Fritz Fischer (1961) blamed German ambitions; Christopher Clark (2012) argued many leaders "sleepwalked" into war. Which view does the evidence support more?
+- **Missing letter:** Is M.A.I.N. missing anything? Make the case for adding a fifth cause.
+
+#### The trigger: Sarajevo and the July Crisis, 1914
+
+`y9-ww-2` · Causes of the First World War
+
+On 28 June 1914 Archduke Franz Ferdinand was shot in Sarajevo. Within six weeks the Great Powers were at war. This topic follows the July Crisis step by step and asks how the trigger set off the long-term causes.
+
+##### 1. The assassination at Sarajevo
+
+Archduke Franz Ferdinand, heir to the throne of Austria-Hungary, visited Sarajevo, the capital of Bosnia, with his wife Sophie on 28 June 1914.
+
+A group of young Bosnian Serb nationalists, armed with help from the Black Hand, planned to kill him. A bomb attack that morning failed. Later, after the archduke's car took a wrong turn, Gavrilo Princip shot Franz Ferdinand and Sophie dead.
+
+Austria-Hungary blamed Serbia and saw a chance to crush Serbian nationalism.
+
+*Key terms:* assassination, Franz Ferdinand, Gavrilo Princip, Sarajevo, trigger
+
+*Precise evidence:*
+- 28 June 1914: assassination in Sarajevo.
+
+##### 2. The July Crisis
+
+Step by step, the crisis spread:
+
+- 5–6 July: Germany gives Austria-Hungary the "blank cheque", promising support whatever it does.
+- 23 July: Austria-Hungary sends Serbia an ultimatum with harsh demands.
+- 28 July: Austria-Hungary declares war on Serbia.
+- 30 July: Russia orders general mobilisation to support Serbia.
+- 1 August: Germany declares war on Russia.
+- 3 August: Germany declares war on France.
+- 4 August: Germany invades Belgium (the Schlieffen Plan); Britain declares war on Germany.
+
+The trigger was the assassination, but the long-term causes explain why a murder in the Balkans became a world war: nationalism created the crisis, alliances and the blank cheque widened it, and militarism (mobilisation timetables and the Schlieffen Plan) made it hard to stop. Remember Alphonse the Camel: the final straw was not the only reason for the collapse.
+
+*Key terms:* ultimatum, blank cheque, mobilisation, July Crisis, neutrality
+
+*Precise evidence:*
+- Blank cheque 5–6 July; ultimatum 23 July; Britain declares war 4 August 1914.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 28 June 1914 | Franz Ferdinand and Sophie are assassinated in Sarajevo. |
+| 5–6 July 1914 | Germany gives Austria-Hungary the "blank cheque". |
+| 23 July 1914 | Austria-Hungary sends its ultimatum to Serbia. |
+| 28 July 1914 | Austria-Hungary declares war on Serbia. |
+| 30 July 1914 | Russia orders general mobilisation. |
+| 1 August 1914 | Germany declares war on Russia. |
+| 3 August 1914 | Germany declares war on France. |
+| 4 August 1914 | Germany invades Belgium; Britain declares war on Germany. |
+
+**Key people**
+
+- **Archduke Franz Ferdinand** — Heir to the Austro-Hungarian throne, assassinated 28 June 1914.
+- **Gavrilo Princip** — Bosnian Serb nationalist who shot Franz Ferdinand.
+- **Kaiser Wilhelm II** — German emperor who backed Austria-Hungary with the "blank cheque".
+- **Tsar Nicholas II** — Russian ruler who ordered mobilisation to support Serbia.
+
+**Vocabulary**
+
+- **Assassination** — The murder of an important person for political reasons.
+- **Trigger** — The immediate event that sets off a larger event.
+- **Ultimatum** — A final set of demands, with a threat if they are refused.
+- **Blank cheque** — Germany's promise to support Austria-Hungary whatever it did.
+- **Mobilisation** — Getting armed forces ready for war.
+- **Neutrality** — Not taking sides in a war.
+
+**Misconceptions**
+
+- ✗ The assassination caused the war on its own. → ✓ It was the trigger; long-term causes explain why it became a European war.
+- ✗ War broke out the day after the assassination. → ✓ The July Crisis lasted over a month.
+- ✗ Princip acted completely alone. → ✓ He was one of a group of conspirators armed with help from the Black Hand.
+- ✗ Britain declared war to defend Serbia. → ✓ Britain declared war after Germany invaded Belgium.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. Where was Franz Ferdinand assassinated? Vienna / Belgrade / **Sarajevo** / Berlin — *Capital of Bosnia.*
+2. Who shot Franz Ferdinand? Kaiser Wilhelm II / **Gavrilo Princip** / Tsar Nicholas II / Alfred von Tirpitz — *A Bosnian Serb nationalist.*
+3. What was the "blank cheque"? A loan to Serbia / **Germany's promise to support Austria-Hungary whatever it did** / Britain's guarantee to Belgium / Russia's mobilisation — *5–6 July 1914.*
+4. On which date did Austria-Hungary declare war on Serbia? 28 June / 23 July / **28 July** / 4 August — *Exactly a month after the assassination.*
+5. Why did Britain declare war on 4 August? Serbia asked it to / **Germany invaded Belgium** / Russia attacked Britain / Italy joined Germany — *Treaty of London 1839.*
+6. Which country ordered general mobilisation on 30 July? France / **Russia** / Britain / Italy — *To support Serbia.*
+7. What is an ultimatum? A peace treaty / **A final set of demands with a threat** / A type of alliance / A battle — *Sent to Serbia on 23 July.*
+8. Which statement best links the trigger and long-term causes? The assassination alone caused the war / **The trigger set off tensions already built by militarism, alliances, imperialism and nationalism** / Long-term causes did not matter / The war started in 1918 — *Final straw.*
+
+**Short answers**
+
+1. On what date was Franz Ferdinand assassinated? — **28 June 1914**
+2. Which country invaded Belgium on 4 August 1914? — **Germany**
+3. What name is given to Germany's promise of support to Austria-Hungary? — **The blank cheque**
+4. Which country did Austria-Hungary blame for the assassination? — **Serbia**
+5. On what date did Britain declare war on Germany? — **4 August 1914**
+
+**Chronology — Put the July Crisis in order** (correct order): Assassination in Sarajevo → The blank cheque → Ultimatum to Serbia → Austria-Hungary declares war on Serbia → Russia mobilises → Germany declares war on Russia → Germany declares war on France → Germany invades Belgium; Britain declares war
+
+**Matching — Match the step to the cause it shows**
+
+- Princip's shots = Trigger (fuelled by nationalism)
+- The blank cheque = Alliances
+- Russian mobilisation and the Schlieffen Plan = Militarism
+- Britain declares war over Belgium = Treaty commitment (1839)
+
+**Evidence recall**
+
+- Explain how the blank cheque turned a local crisis into a wider one. — *Model:* Germany's promise of support (5–6 July) made Austria-Hungary confident enough to send Serbia a harsh ultimatum and declare war, which brought in Russia as Serbia's supporter.
+- Use the Alphonse the Camel idea to explain the role of the assassination. — *Model:* The assassination was the final straw, the trigger, but war only followed because Europe was already loaded with militarism, alliances, imperialism and nationalism.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Assassination at Sarajevo | 28 June 1914: Franz Ferdinand and Sophie. |  |
+| Gavrilo Princip | Bosnian Serb nationalist who fired the shots. |  |
+| Blank cheque | 5–6 July: Germany backs Austria-Hungary. |  |
+| Ultimatum | 23 July: Austria-Hungary to Serbia. |  |
+| Austria-Hungary declares war on Serbia | 28 July 1914. |  |
+| Russian mobilisation | 30 July 1914. |  |
+| Germany declares war on Russia | 1 August 1914. |  |
+| Germany declares war on France | 3 August 1914. |  |
+| Britain declares war | 4 August 1914, after Germany invades Belgium. |  |
+| Trigger vs long-term causes | The trigger set off tensions built by M.A.I.N. |  |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Describe — red] I can describe the assassination at Sarajevo.
+- [Describe — red] I can sequence the July Crisis with dates.
+- [Explain — amber] I can explain how the blank cheque widened the crisis.
+- [Explain — amber] I can explain why Britain entered the war.
+- [Judge — green] I can judge how important the assassination was compared with long-term causes.
+
+**Exam practice**
+
+- *Teacher-created practice question*
+  Explain why the assassination of Franz Ferdinand led to a European war. (6 marks)
+- *Teacher-created practice question*
+  "The assassination of Franz Ferdinand was the main cause of the First World War." How far do you agree? (16 marks)
+
+*Guide for "Explain why the assassination of Franz Ferdinand led to a European war. (6 marks)"*
+
+1. Start with the assassination and Austria's response.
+2. Explain how alliances and the blank cheque widened it.
+3. Explain how mobilisation made it hard to stop.
+
+- Clear chain with dates
+- Links to alliances and militarism
+- Explaining connectives
+
+**Writing frame — sentence starters**
+
+1. P: The assassination led to war because…
+2. E: After 28 June, Germany gave… on 5–6 July…
+3. E: This meant that… which caused…
+4. J: Therefore, the trigger only led to war because…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+*Guide for ""The assassination of Franz Ferdinand was the main cause of the First World War." How far do you agree? (16 marks)"*
+
+1. Explain the role of the assassination.
+2. Explain at least two long-term causes and how they made war likely.
+3. Judge, using the trigger/long-term distinction.
+
+- Qualified judgement
+- Precise July Crisis evidence
+- Long-term causes linked
+- Conclusion
+
+**Writing frame — sentence starters**
+
+1. P: The assassination was important as the trigger, but only to some extent the main cause…
+2. E: For example, on 28 June… then…
+3. E: However, this only led to war because alliances / militarism…
+4. J: Therefore, the main cause was…
+
+*Lighter support (headings only):* P: qualified claim (highly / partly / to some extent…) → E: precise evidence (name, date, number, source) → E: explain with a connective (because / this meant that / therefore) → J: judgement that answers the question
+
+**Stretch and challenge**
+
+- **Counterfactual:** If the archduke's car had not taken a wrong turn, would war still have happened? Use the long-term causes to argue.
+- **Responsibility:** Which country do you think bears most responsibility for the July Crisis? Use dates as evidence.
+- **Sleepwalkers:** Christopher Clark argued Europe's leaders "sleepwalked" into war. Find two moments in the July Crisis that support or challenge this.
+- **Decision map:** Map every decision in the July Crisis. At which point could war most easily have been stopped?
 
 <a id="y10"></a>
 ## Year 10: International GCSE History — Paper 1 Depth Studies
@@ -8177,6 +12384,8 @@ Others challenged segregation directly. Ida B. Wells exposed lynching in Souther
   ‘The main problems facing black Americans, in the years 1865–77 and 1883–1900, were economic rather than political.’ How far do you agree with this judgement?
   Supports the view: Freed people stayed in low-wage work similar to slavery; federal policy favoured former owners over black land ownership; unions largely excluded black workers; Southern job shortages drove migration
   Challenges the view: The 1883 rulings let states introduce Jim Crow; Plessy (1896) entrenched segregation; black voter registration in Louisiana collapsed between 1896 and 1900; lynching and KKK violence went unchecked
+- *Past paper: WHI03/1D, June 2026, Q1 (Sources 1 and 2 are in the paper)* — Section A — use two sources together, 25 marks
+  How far could the historian make use of Sources 1 and 2 together to investigate the disagreements within the Supreme Court about the Plessy v Ferguson case (1896)? Explain your answer using both sources, the information given about them and your own knowledge of the historical context.
 - *Past paper: WHI03/1D, June 2023, Q1 (Sources 1 and 2 are in the paper)* — Section A — use two sources together, 25 marks
   How far could the historian make use of Sources 1 and 2 together to investigate attitudes, in the late nineteenth century, towards voting by black Americans? Explain your answer, using both sources, the information given about them and your own knowledge of the historical context.
   Context: The Fifteenth Amendment enfranchised hundreds of thousands of freedmen; Southern states were already restricting black voting by the 1890s; Du Bois was a prominent advocate of black rights
@@ -8389,6 +12598,8 @@ An informal 'Black Cabinet' of advisers, including Mary McLeod Bethune (Director
 
 - *Teacher-created practice question* — Section B — thematic essay across periods, 25 marks
   ‘The federal government did more to help than to hinder black Americans in the years 1883–c1900 and 1933–45.’ How far do you agree with this statement?
+- *Past paper: WHI03/1D, January 2026, Q1 (Sources 1 and 2 are in the paper)* — Section A — use two sources together, 25 marks
+  How far could the historian make use of Sources 1 and 2 together to investigate the impact of the Second World War on black Americans? Explain your answer using both sources, the information given about them and your own knowledge of the historical context.
 - *Past paper: WHI03/1D, January 2023, Q1 (Sources 1 and 2 are in the paper)* — Section A — use two sources together, 25 marks
   How far could the historian make use of Sources 1 and 2 together to investigate the effectiveness of Roosevelt’s New Deal in helping black Americans? Explain your answer, using both sources, the information given about them and your own knowledge of the historical context.
   Context: The AAA (1933) paid farmers to produce less; sharecroppers were often evicted; the WPA provided work for hundreds of thousands of black Americans a year
@@ -8946,6 +13157,14 @@ Judgement prompt: resistance was most effective when it controlled state governm
 - *Past paper: WHI03/1D, January 2022, Q1 (Sources 1 and 2 are in the paper)* — Section A — use two sources together, 25 marks
   How far could the historian make use of Sources 1 and 2 together to investigate the impact of the civil rights judgements of 1883 by the US Supreme Court? Explain your answer, using both sources, the information given about them and your own knowledge of the historical context.
   Context: The cases covered discrimination in hotels, theatres and railways; the 1875 Civil Rights Act was declared unconstitutional 8–1; the decisions left black Americans exposed to private discrimination
+- *Past paper: WHI03/1D, June 2026, Q2* — Section B — thematic essay across periods, 25 marks
+  ‘Andrew Johnson’s presidency (1865–69) had much more impact on the lives of black Americans than had Lyndon Johnson’s presidency (1963–68).’ How far do you agree with this judgement?
+- *Past paper: WHI03/1D, June 2026, Q3* — Section B — thematic essay across periods, 25 marks
+  ‘Progress for black Americans was so significant in the years 1954–68 that in the years 2000–09 there was little left to achieve.’ How far do you agree with this judgement?
+- *Past paper: WHI03/1D, January 2026, Q2* — Section B — thematic essay across periods, 25 marks
+  ‘In the years 1865–77 and 1883–c1900, the most significant developments in the civil rights of black Americans were those that took place in the 1870s.’ How far do you agree with this judgement?
+- *Past paper: WHI03/1D, January 2026, Q3* — Section B — thematic essay across periods, 25 marks
+  ‘Supporters of black militancy were central to improvements in the lives of black Americans in the years 1954–2009.’ How far do you agree with this judgement?
 - *Past paper: WHI03/1D, June 2025, Q2* — Section B — thematic essay across periods, 25 marks
   ‘The Supreme Court decisions (1883) were the most significant turning point in the civil rights of black Americans in the years 1865–1900.’ How far do you agree with this judgement?
   Supports the view: The 1883 rulings opened the way to Jim Crow; Reconstruction gains were lost; businesses could discriminate

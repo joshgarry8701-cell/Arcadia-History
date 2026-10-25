@@ -1,0 +1,716 @@
+{
+  "id": "y9-ir-4",
+  "course": "y9",
+  "area": "ir",
+  "order": 4,
+  "kt": "Lessons 7–8",
+  "title": "Children, disease and reform",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "How revolutionary was industrialisation for children? And how successfully did Britain respond to the filth and disease it created? This topic uses real evidence about child labour, evaluates Oliver! as a later interpretation, and follows the public health reformers.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. A child's revolution",
+        "blocks": [
+          {
+            "p": "Children worked long hours, often 12–14 hours a day, six days a week. In mills they pieced broken threads or crawled under machinery to clear blockages; in mines they worked as \"trappers\" opening ventilation doors or hauled coal tubs. Accidents from exhaustion and unguarded machines were common."
+          },
+          {
+            "p": "For many working-class families, children's wages were essential household income. That is context, not an excuse."
+          },
+          {
+            "p": "Government inquiries such as the Sadler Committee (1832) collected testimony from child workers. They are a key source, but were gathered to support reform, so historians read them with that purpose in mind."
+          },
+          {
+            "p": "Reform was gradual: the 1833 Factory Act limited children's hours and set minimum ages in textile mills (enforcement was patchy), and the 1842 Mines Act banned underground work for women and children under 10."
+          },
+          {
+            "p": "Oliver! (1968 film, based on Dickens's 1838 novel Oliver Twist) is a later interpretation, not evidence. It shows a workhouse and London pickpockets, not factory or mine work, so it blurs different experiences of poverty."
+          }
+        ],
+        "terms": [
+          "testimony",
+          "interpretation",
+          "workhouse",
+          "apprentice",
+          "Factory Act",
+          "Mines Act"
+        ],
+        "evidence": [
+          "Sadler Committee 1832; Factory Act 1833; Mines Act 1842.",
+          "Oliver! (1968) is an interpretation, not evidence."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Filth, disease and progress",
+        "blocks": [
+          {
+            "p": "Industrial towns grew faster than any planning: no piped water, no sewage removal, a few outdoor toilets for dozens of families. Cholera, a waterborne disease, caused major epidemics in 1831–32, 1848–49 and 1854, killing tens of thousands."
+          },
+          {
+            "ul": [
+              "Edwin Chadwick's 1842 report used statistics to argue that poor sanitation caused disease and cost money. It helped lead to the 1848 Public Health Act, the first significant national public health law.",
+              "John Snow's 1854 investigation in Soho mapped cholera cases to the Broad Street water pump, evidence that cholera spread through water, not \"bad air\" (miasma). It took years to be accepted.",
+              "Joseph Bazalgette designed London's sewer network, built mainly in the 1860s after the \"Great Stink\" of 1858."
+            ]
+          },
+          {
+            "p": "The response was gradual and contested. Many feared government interference and the cost, so change came slowly and unevenly. Did industrialisation solve the problems it created, or did government action?"
+          }
+        ],
+        "terms": [
+          "public health",
+          "sanitation",
+          "cholera",
+          "miasma",
+          "reform"
+        ],
+        "evidence": [
+          "Chadwick report 1842; Public Health Act 1848.",
+          "Snow, Broad Street pump, 1854.",
+          "Great Stink 1858; sewers mainly 1860s."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1831–32",
+        "event": "First major cholera epidemic in Britain."
+      },
+      {
+        "date": "1832",
+        "event": "The Sadler Committee collects testimony from child workers."
+      },
+      {
+        "date": "1833",
+        "event": "The Factory Act limits children's hours in textile mills."
+      },
+      {
+        "date": "1842",
+        "event": "The Mines Act; Chadwick's sanitary report."
+      },
+      {
+        "date": "1848",
+        "event": "The Public Health Act."
+      },
+      {
+        "date": "1854",
+        "event": "John Snow traces cholera to the Broad Street pump."
+      },
+      {
+        "date": "1858",
+        "event": "The \"Great Stink\" in London."
+      }
+    ],
+    "people": [
+      {
+        "name": "Michael Sadler",
+        "role": "MP whose 1832 committee collected child workers' testimony."
+      },
+      {
+        "name": "Edwin Chadwick",
+        "role": "Civil servant; 1842 sanitary report."
+      },
+      {
+        "name": "John Snow",
+        "role": "Doctor who linked cholera to water (1854)."
+      },
+      {
+        "name": "Joseph Bazalgette",
+        "role": "Engineer of London's sewers (1860s)."
+      },
+      {
+        "name": "Charles Dickens",
+        "role": "Novelist; Oliver Twist (1838)."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Interpretation",
+        "def": "A later explanation or representation of the past."
+      },
+      {
+        "term": "Testimony",
+        "def": "A firsthand account given as evidence."
+      },
+      {
+        "term": "Workhouse",
+        "def": "Where poor people lived and worked for basic food and shelter."
+      },
+      {
+        "term": "Apprentice",
+        "def": "Someone, often a child, bound to work for an employer."
+      },
+      {
+        "term": "Public health",
+        "def": "Population health and government action to protect it."
+      },
+      {
+        "term": "Sanitation",
+        "def": "Clean water and safe removal of sewage and waste."
+      },
+      {
+        "term": "Cholera",
+        "def": "A deadly waterborne disease."
+      },
+      {
+        "term": "Miasma",
+        "def": "The old theory that disease spread through \"bad air\"."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Oliver! shows what factory child labour was like.",
+        "right": "It shows a workhouse and pickpockets. It is a later interpretation, not evidence."
+      },
+      {
+        "wrong": "The 1833 Factory Act ended child labour.",
+        "right": "It limited hours in textile mills; enforcement was patchy and other industries were not covered."
+      },
+      {
+        "wrong": "Snow's discovery was accepted immediately.",
+        "right": "Miasma theory remained dominant for years."
+      },
+      {
+        "wrong": "Government acted quickly on public health.",
+        "right": "Change was slow and contested because of cost and fear of interference."
+      }
+    ],
+    "sources": [
+      {
+        "id": "sadler",
+        "title": "Sadler Committee report",
+        "type": "Government inquiry (testimony)",
+        "date": "1832",
+        "origin": "A parliamentary committee led by Michael Sadler.",
+        "purpose": "To gather evidence supporting limits on children's working hours.",
+        "usefulness": "Direct testimony from child workers. Collected for a political purpose, so some accounts may have been selected to shock."
+      },
+      {
+        "id": "snowmap",
+        "title": "John Snow's cholera map",
+        "type": "Map (visual source)",
+        "date": "1854–55",
+        "origin": "Drawn by Dr John Snow.",
+        "purpose": "To show that cholera deaths clustered around the Broad Street pump.",
+        "usefulness": "Strong evidence for water-borne spread; a landmark in epidemiology."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Typical working hours for factory children were…",
+        "options": [
+          "4–6 hours",
+          "8 hours",
+          "12–14 hours",
+          "20 hours"
+        ],
+        "answer": 2,
+        "why": "12–14 hours, six days a week."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Why must historians be careful with the Sadler Committee evidence?",
+        "options": [
+          "It is fiction",
+          "It was collected to support reform",
+          "It is from 1968",
+          "Children could not speak"
+        ],
+        "answer": 1,
+        "why": "Purpose shapes content."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "What did the 1842 Mines Act do?",
+        "options": [
+          "Banned all child labour",
+          "Banned underground work for women and children under 10",
+          "Closed all mines",
+          "Built sewers"
+        ],
+        "answer": 1,
+        "why": "After shock at the Royal Commission."
+      },
+      {
+        "id": "m4",
+        "s": "s1",
+        "q": "Oliver! (1968) is best described as…",
+        "options": [
+          "A primary source on factory work",
+          "A later interpretation of workhouse poverty",
+          "A government report",
+          "Testimony"
+        ],
+        "answer": 1,
+        "why": "Interpretation, not evidence."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Cholera spread mainly through…",
+        "options": [
+          "Bad air",
+          "Contaminated water",
+          "Rats",
+          "Food from abroad"
+        ],
+        "answer": 1,
+        "why": "Snow's 1854 evidence."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Which report helped lead to the 1848 Public Health Act?",
+        "options": [
+          "Sadler's",
+          "Chadwick's 1842 report",
+          "Snow's map",
+          "Toynbee's lectures"
+        ],
+        "answer": 1,
+        "why": "Statistics on sanitation."
+      },
+      {
+        "id": "m7",
+        "s": "s2",
+        "q": "The \"Great Stink\" happened in…",
+        "options": [
+          "1832",
+          "1848",
+          "1854",
+          "1858"
+        ],
+        "answer": 3,
+        "why": "Leading to Bazalgette's sewers."
+      },
+      {
+        "id": "m8",
+        "s": "s2",
+        "q": "Miasma theory said disease spread through…",
+        "options": [
+          "Water",
+          "Bad air",
+          "Germs",
+          "Insects"
+        ],
+        "answer": 1,
+        "why": "The dominant theory before Snow was accepted."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Which Act of 1833 limited children's hours in textile mills?",
+        "accept": [
+          "factory act",
+          "the factory act",
+          "1833 factory act"
+        ],
+        "answer": "The Factory Act"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "Which novel by Dickens is Oliver! based on?",
+        "accept": [
+          "oliver twist"
+        ],
+        "answer": "Oliver Twist"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "Which water pump did John Snow identify?",
+        "accept": [
+          "broad street",
+          "broad street pump",
+          "the broad street pump"
+        ],
+        "answer": "Broad Street"
+      },
+      {
+        "id": "a4",
+        "s": "s2",
+        "q": "Who designed London's sewers?",
+        "accept": [
+          "bazalgette",
+          "joseph bazalgette"
+        ],
+        "answer": "Joseph Bazalgette"
+      },
+      {
+        "id": "a5",
+        "s": "s2",
+        "q": "In what year was the first Public Health Act?",
+        "accept": [
+          "1848"
+        ],
+        "answer": "1848"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "First cholera epidemic",
+          "Sadler Committee",
+          "Factory Act",
+          "Mines Act and Chadwick report",
+          "Public Health Act",
+          "Snow and the Broad Street pump",
+          "The Great Stink"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the reformer to the achievement",
+        "pairs": [
+          [
+            "Edwin Chadwick",
+            "1842 sanitary report"
+          ],
+          [
+            "John Snow",
+            "Linked cholera to water"
+          ],
+          [
+            "Joseph Bazalgette",
+            "London's sewers"
+          ],
+          [
+            "Michael Sadler",
+            "Inquiry into child labour"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Explain why Oliver! should not be used as evidence of factory child labour.",
+        "keywords": [
+          [
+            "1968",
+            "later",
+            "interpretation",
+            "film",
+            "novel"
+          ],
+          [
+            "workhouse",
+            "pickpocket",
+            "not factory",
+            "mine"
+          ]
+        ],
+        "model": "It is a 1968 film based on an 1838 novel, so it is a later interpretation, and it shows a workhouse and pickpockets rather than factory or mine work."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Explain why John Snow's 1854 investigation was significant.",
+        "keywords": [
+          [
+            "broad street",
+            "pump",
+            "map"
+          ],
+          [
+            "water",
+            "not air",
+            "miasma",
+            "epidemiology"
+          ]
+        ],
+        "model": "By mapping cholera deaths to the Broad Street pump, Snow showed cholera spread through contaminated water, not bad air, a founding moment of epidemiology."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Child working hours",
+      "a": "Often 12–14 hours a day, six days a week."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Trappers",
+      "a": "Children who opened and closed mine ventilation doors."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Sadler Committee",
+      "a": "1832 inquiry collecting child workers' testimony."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Factory Act 1833",
+      "a": "Limited children's hours in textile mills."
+    },
+    {
+      "id": "f5",
+      "s": "s1",
+      "q": "Mines Act 1842",
+      "a": "Banned underground work for women and children under 10."
+    },
+    {
+      "id": "f6",
+      "s": "s1",
+      "q": "Oliver!",
+      "a": "1968 film of Dickens's 1838 novel: an interpretation of workhouse poverty."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Cholera epidemics",
+      "a": "1831–32, 1848–49, 1854."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Chadwick",
+      "a": "1842 report → 1848 Public Health Act."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Snow",
+      "a": "1854: Broad Street pump, cholera spread by water."
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "Bazalgette",
+      "a": "London sewers, mainly 1860s."
+    },
+    {
+      "id": "f11",
+      "s": "s2",
+      "q": "Great Stink",
+      "a": "1858, London."
+    },
+    {
+      "id": "f12",
+      "s": "s2",
+      "q": "Miasma",
+      "a": "Old theory: disease from bad air."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe children's work in mills and mines.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe the work of Chadwick, Snow and Bazalgette.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain the difference between testimony and a later interpretation like Oliver!.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain why public health reform was slow.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge how revolutionary industrialisation was for children.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge whether government action or industrialisation solved the problems it created.",
+      "sections": [
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 15,
+        "q": "\"Industrialisation was revolutionary for children.\" How far do you agree? Use the four criteria.",
+        "sections": [
+          "s1"
+        ],
+        "asks": "Judge how revolutionary industrialisation was for children, using precise evidence and named criteria.",
+        "steps": [
+          "Apply Scale and Depth to child labour evidence.",
+          "Consider Duration: reform from 1833 and 1842.",
+          "Separate \"revolutionary\" from \"positive\".",
+          "Judge."
+        ],
+        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
+        "success": [
+          "Criteria named",
+          "Precise evidence (hours, Acts, dates)",
+          "Distinguishes revolutionary from positive",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Using Oliver! as evidence",
+          "Describing suffering without judging"
+        ],
+        "model": [
+          {
+            "t": "Industrialisation was revolutionary for many children in depth, though not always positive.",
+            "n": "P: qualified."
+          },
+          {
+            "t": "Factory children often worked 12–14 hours a day under machine discipline, very different from work at home, as testimony to the Sadler Committee (1832) showed.",
+            "n": "E: precise."
+          },
+          {
+            "t": "This meant the depth of change was great; reforms such as the 1833 Factory Act and 1842 Mines Act also show the change lasted long enough to force new laws.",
+            "n": "E: criteria applied."
+          },
+          {
+            "t": "Therefore it was revolutionary, but harmful for many children, showing that revolutionary does not mean positive.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: Industrialisation was revolutionary for children to a large / some extent…",
+            "E: For example, testimony to the Sadler Committee…",
+            "E: In terms of depth / scale / duration, this meant that…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 15,
+        "q": "How successfully did Britain respond to the public health problems created by industrialisation?",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Weigh the achievements of reformers against how slow and contested change was.",
+        "steps": [
+          "Evidence of success (1848 Act, Snow, Bazalgette).",
+          "Evidence of limits (slow, miasma, cost, opposition).",
+          "Judge with a qualifier."
+        ],
+        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Precise evidence both ways",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Saying problems were solved quickly",
+          "No dates"
+        ],
+        "frame": {
+          "full": [
+            "P: Britain responded successfully to some extent, but slowly…",
+            "E: For example, the 1848 Public Health Act… / Snow (1854)…",
+            "E: However, this meant that…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Less revolutionary or less positive?",
+      "task": "Does children's suffering make industrialisation less revolutionary, or simply less positive?"
+    },
+    {
+      "id": "t2",
+      "kind": "Who solved it?",
+      "task": "Did industrialisation solve the problems it created, or did government intervention?"
+    },
+    {
+      "id": "t3",
+      "kind": "Interpretation review",
+      "task": "Watch a clip of Oliver!. What does it get right, what does it blur, and why might film-makers make those choices?"
+    },
+    {
+      "id": "t4",
+      "kind": "Source purpose",
+      "task": "How does knowing the Sadler Committee wanted reform change how you use its testimony?"
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: how successful was the response?",
+    "rows": [
+      "Chadwick 1842 / Act 1848",
+      "Snow 1854",
+      "Bazalgette 1860s",
+      "Limits and delays"
+    ],
+    "cols": [
+      "Precise evidence",
+      "Success?",
+      "Limits"
+    ],
+    "judgement": "Britain responded … successfully because …"
+  }
+}

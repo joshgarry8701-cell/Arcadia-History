@@ -1,0 +1,703 @@
+{
+  "id": "y8-ex-5",
+  "course": "y8",
+  "area": "exp",
+  "order": 5,
+  "kt": "Lessons 10–12",
+  "title": "Winners, losers and significance",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Who gained and who lost from European expansion? This topic brings the unit together, introduces the transatlantic slave trade as a direct consequence of what you have studied, and asks who deserves to be remembered as a significant traveller, ready for your AP1 research project.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Who gained and who lost?",
+        "blocks": [
+          {
+            "p": "European expansion after 1492 had very different consequences for different groups:"
+          },
+          {
+            "ul": [
+              "EUROPEAN POWERS gained enormously: silver and gold from the Americas (especially from Spanish mines at Potosí, from 1545), new crops and new colonies.",
+              "INDIGENOUS AMERICANS faced catastrophe: population collapse from disease, loss of land and independence, forced labour and conquest. They also survived, resisted and kept their cultures alive.",
+              "ENSLAVED AFRICANS: as Indigenous populations collapsed and European demand for labour on sugar plantations grew, Europeans turned to the forced transportation of enslaved people from West and Central Africa across the Atlantic. Over more than 300 years, over 12 million Africans were forcibly transported."
+            ]
+          },
+          {
+            "p": "The transatlantic slave trade was directly connected to the processes you have studied: the Columbian Exchange, colonisation and plantation sugar."
+          },
+          {
+            "p": "\"Winners and losers\" can oversimplify. Not all Europeans gained (many ordinary sailors and soldiers died or gained little), and Indigenous and African peoples were not passive victims: they resisted, adapted and shaped outcomes."
+          }
+        ],
+        "terms": [
+          "colonisation",
+          "transatlantic slave trade",
+          "consequence",
+          "exploitation",
+          "Potosí"
+        ],
+        "evidence": [
+          "Potosí silver discovered 1545.",
+          "Over 12 million Africans were forcibly transported across the Atlantic over more than 300 years."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Who changed the world? Judging significance",
+        "blocks": [
+          {
+            "p": "Significance is judged with criteria, not popularity: scale, impact, duration, revealing and remembered (the same toolkit you used in Year 7)."
+          },
+          {
+            "p": "The criteria give surprising results. Zheng He's voyages were arguably larger in scale than Columbus's, but had less lasting global impact because China ended them. Columbus's first voyage was smaller, but its consequences, the Columbian Exchange and colonisation, were transformative and irreversible."
+          },
+          {
+            "p": "Significance also depends on whose perspective you take and which criteria you prioritise."
+          }
+        ],
+        "terms": [
+          "significance",
+          "legacy",
+          "criteria"
+        ],
+        "evidence": [
+          "Criteria: scale, impact, duration, revealing, remembered."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Ready to research: your AP1 project",
+        "blocks": [
+          {
+            "p": "For AP1 you research one traveller or explorer and answer: How significant was your traveller's journey, and how should they be remembered?"
+          },
+          {
+            "p": "Your planning sheet needs: the traveller and dates; your central argument; at least three credible sources with a bibliography; evidence about the route; motives; encounters; consequences; your chosen significance criteria; at least one alternative perspective; and an initial judgement."
+          },
+          {
+            "p": "Use credible sources (museums, universities, published historians) and record where each fact comes from."
+          }
+        ],
+        "terms": [
+          "research",
+          "credible source",
+          "bibliography",
+          "alternative perspective"
+        ],
+        "evidence": [
+          "At least three credible sources.",
+          "Apply significance criteria explicitly."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1492",
+        "event": "Columbus reaches the Caribbean."
+      },
+      {
+        "date": "1498",
+        "event": "Da Gama reaches Calicut."
+      },
+      {
+        "date": "1521",
+        "event": "Tenochtitlan falls."
+      },
+      {
+        "date": "1545",
+        "event": "Silver is discovered at Potosí in the Andes."
+      },
+      {
+        "date": "1500s–1800s",
+        "event": "The transatlantic slave trade forcibly transports over 12 million Africans."
+      },
+      {
+        "date": "1807",
+        "event": "Britain abolishes its slave trade."
+      }
+    ],
+    "people": [
+      {
+        "name": "Ibn Battuta",
+        "role": "Moroccan traveller, about 120,000 km."
+      },
+      {
+        "name": "Zheng He",
+        "role": "Ming admiral; seven voyages."
+      },
+      {
+        "name": "Christopher Columbus",
+        "role": "Reached the Caribbean in 1492."
+      },
+      {
+        "name": "Hernán Cortés",
+        "role": "Led the Spanish in the fall of the Mexica."
+      },
+      {
+        "name": "Vasco da Gama",
+        "role": "Reached India by sea in 1498."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Colonisation",
+        "def": "A state establishing control over another territory and its people."
+      },
+      {
+        "term": "Transatlantic slave trade",
+        "def": "The forced transportation of enslaved Africans to the Americas."
+      },
+      {
+        "term": "Consequence",
+        "def": "A result of an event."
+      },
+      {
+        "term": "Exploitation",
+        "def": "Using someone or something unfairly for one's own benefit."
+      },
+      {
+        "term": "Significance",
+        "def": "How important something is judged to be, using criteria."
+      },
+      {
+        "term": "Legacy",
+        "def": "What remains or is remembered after someone's actions."
+      },
+      {
+        "term": "Bibliography",
+        "def": "A list of the sources you used."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "All Europeans got rich.",
+        "right": "Many sailors and soldiers died or gained little."
+      },
+      {
+        "wrong": "Indigenous and African peoples were passive victims.",
+        "right": "They resisted, adapted and shaped outcomes."
+      },
+      {
+        "wrong": "The slave trade was a separate story from exploration.",
+        "right": "It grew directly out of colonisation, the Columbian Exchange and sugar plantations."
+      },
+      {
+        "wrong": "The most famous explorer is the most significant.",
+        "right": "Significance depends on criteria and perspective."
+      }
+    ],
+    "sources": [
+      {
+        "id": "slavevoyages",
+        "title": "Trans-Atlantic Slave Trade Database (SlaveVoyages)",
+        "type": "Database compiled by historians",
+        "date": "Built from the 1990s onwards",
+        "origin": "An international team of historians working from shipping records.",
+        "purpose": "To record as many slave-trading voyages as possible.",
+        "usefulness": "The basis for the estimate of over 12 million people forcibly transported. Records are incomplete, so totals are estimates."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Where was silver discovered in 1545?",
+        "options": [
+          "Calicut",
+          "Potosí",
+          "Tenochtitlan",
+          "Lisbon"
+        ],
+        "answer": 1,
+        "why": "Potosí, in the Andes."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Why did European demand for enslaved Africans grow?",
+        "options": [
+          "Africans asked to go",
+          "Indigenous populations collapsed and sugar plantations needed labour",
+          "There was no work in Europe",
+          "Zheng He started it"
+        ],
+        "answer": 1,
+        "why": "Disease + plantation demand."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "Roughly how many Africans were forcibly transported across the Atlantic?",
+        "options": [
+          "12,000",
+          "120,000",
+          "Over 12 million",
+          "1 billion"
+        ],
+        "answer": 2,
+        "why": "Over 12 million, over more than 300 years."
+      },
+      {
+        "id": "m4",
+        "s": "s1",
+        "q": "Why can \"winners and losers\" oversimplify?",
+        "options": [
+          "Everyone lost",
+          "Not all Europeans gained, and Indigenous and African peoples resisted",
+          "Nobody gained",
+          "It ignores dates"
+        ],
+        "answer": 1,
+        "why": "Look for nuance."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Why was Zheng He arguably less significant in the long term than Columbus?",
+        "options": [
+          "His voyages were small",
+          "China ended the voyages, so lasting impact was smaller",
+          "He never sailed",
+          "He sailed after Columbus"
+        ],
+        "answer": 1,
+        "why": "Scale vs lasting impact."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Which is a significance criterion?",
+        "options": [
+          "Popularity",
+          "Duration",
+          "Height",
+          "Wealth"
+        ],
+        "answer": 1,
+        "why": "Scale, impact, duration, revealing, remembered."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "How many credible sources does the AP1 project need at least?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Ten"
+        ],
+        "answer": 2,
+        "why": "At least three."
+      },
+      {
+        "id": "m8",
+        "s": "s3",
+        "q": "A bibliography is…",
+        "options": [
+          "A biography",
+          "A list of the sources you used",
+          "A timeline",
+          "A map"
+        ],
+        "answer": 1,
+        "why": "Record your sources."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "In which year was silver discovered at Potosí?",
+        "accept": [
+          "1545"
+        ],
+        "answer": "1545"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "Which crop's plantations drove demand for enslaved labour?",
+        "accept": [
+          "sugar"
+        ],
+        "answer": "Sugar"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "Name two significance criteria.",
+        "accept": [
+          "scale impact",
+          "scale",
+          "impact",
+          "duration",
+          "revealing",
+          "remembered"
+        ],
+        "answer": "Scale, impact, duration, revealing, remembered"
+      },
+      {
+        "id": "a4",
+        "s": "s1",
+        "q": "What word means using someone unfairly for your own benefit?",
+        "accept": [
+          "exploitation"
+        ],
+        "answer": "Exploitation"
+      },
+      {
+        "id": "a5",
+        "s": "s3",
+        "q": "What is the list of sources at the end of a project called?",
+        "accept": [
+          "bibliography",
+          "a bibliography"
+        ],
+        "answer": "Bibliography"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Columbus reaches the Caribbean",
+          "Da Gama reaches Calicut",
+          "Tenochtitlan falls",
+          "Silver discovered at Potosí",
+          "Britain abolishes its slave trade"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the group to a consequence",
+        "pairs": [
+          [
+            "European powers",
+            "Silver from Potosí and new colonies"
+          ],
+          [
+            "Indigenous Americans",
+            "Population collapse and loss of land"
+          ],
+          [
+            "Enslaved Africans",
+            "Forced transportation across the Atlantic"
+          ],
+          [
+            "Ordinary sailors",
+            "Often died or gained little"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Explain how the transatlantic slave trade was connected to earlier events in this unit.",
+        "keywords": [
+          [
+            "disease",
+            "population",
+            "collapse",
+            "indigenous"
+          ],
+          [
+            "sugar",
+            "plantation",
+            "labour",
+            "columbian exchange"
+          ]
+        ],
+        "model": "Disease collapsed Indigenous populations, while the Columbian Exchange brought sugar to the Americas. Europeans then forcibly transported enslaved Africans to work on sugar plantations."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Use two criteria to compare the significance of Zheng He and Columbus.",
+        "keywords": [
+          [
+            "scale",
+            "impact",
+            "duration"
+          ],
+          [
+            "zheng he",
+            "columbus"
+          ],
+          [
+            "ended",
+            "lasting",
+            "irreversible",
+            "exchange"
+          ]
+        ],
+        "model": "Zheng He scores highly on scale, with seven huge expeditions, but lower on duration because China ended them. Columbus's voyage was smaller in scale, but its impact and duration were enormous because it began the Columbian Exchange and colonisation."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Potosí",
+      "a": "Spanish silver mines in the Andes, from 1545."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Transatlantic slave trade",
+      "a": "Forced transportation of over 12 million Africans to the Americas over 300+ years."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Why did it grow?",
+      "a": "Indigenous population collapse + demand for plantation labour (sugar)."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "European gains",
+      "a": "Silver, gold, new crops, colonies."
+    },
+    {
+      "id": "f5",
+      "s": "s1",
+      "q": "Indigenous losses",
+      "a": "Population collapse, land, independence, forced labour."
+    },
+    {
+      "id": "f6",
+      "s": "s1",
+      "q": "Nuance",
+      "a": "Not all Europeans gained; Indigenous and African peoples resisted."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Significance criteria",
+      "a": "Scale, impact, duration, revealing, remembered."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Zheng He vs Columbus",
+      "a": "Zheng He: bigger scale, less lasting impact. Columbus: smaller scale, transformative impact."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Significance depends on…",
+      "a": "Criteria chosen and whose perspective."
+    },
+    {
+      "id": "f10",
+      "s": "s3",
+      "q": "AP1 question",
+      "a": "How significant was your traveller's journey, and how should they be remembered?"
+    },
+    {
+      "id": "f11",
+      "s": "s3",
+      "q": "Minimum sources",
+      "a": "At least three credible sources."
+    },
+    {
+      "id": "f12",
+      "s": "s3",
+      "q": "Bibliography",
+      "a": "List of sources used."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe who gained and who lost from European expansion.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain how the transatlantic slave trade grew out of colonisation and the Columbian Exchange.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain why \"winners and losers\" can oversimplify.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can apply significance criteria to a traveller.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge which traveller was most significant and justify it.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can plan a research project with credible sources and an alternative perspective.",
+      "sections": [
+        "s3"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 15,
+        "q": "How significant was your chosen traveller's journey, and how should they be remembered? (AP1 research question, practice plan)",
+        "sections": [
+          "s2",
+          "s3"
+        ],
+        "asks": "Apply significance criteria explicitly to one traveller, use precise evidence, consider another perspective, and reach a judgement about how they should be remembered.",
+        "steps": [
+          "State your traveller and dates.",
+          "Apply two or three criteria with precise evidence.",
+          "Consider an alternative perspective.",
+          "Judge how significant they were and how they should be remembered."
+        ],
+        "plan": "3 minutes planning against the checklist, 10 minutes writing, 2 minutes checking criteria are named.",
+        "success": [
+          "Criteria named and applied",
+          "Precise evidence",
+          "Alternative perspective",
+          "Qualified judgement"
+        ],
+        "mistakes": [
+          "Writing a life story instead of an argument",
+          "No criteria",
+          "Only one perspective"
+        ],
+        "frame": {
+          "full": [
+            "P: … was highly / partly significant because…",
+            "E: In terms of scale / impact / duration…, for example…",
+            "E: This meant that… However, from the perspective of…",
+            "J: Therefore, … should be remembered as…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "\"Everyone involved in European expansion was either a winner or a loser.\" How far do you agree?",
+        "sections": [
+          "s1"
+        ],
+        "asks": "Test the winners/losers model against the evidence for each group.",
+        "steps": [
+          "Show who clearly gained or lost.",
+          "Show where the model oversimplifies (ordinary Europeans; resistance).",
+          "Judge with a qualifier."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Precise evidence for several groups",
+          "Recognises resistance and agency",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Treating Indigenous and African people as passive",
+          "No precise evidence"
+        ],
+        "frame": {
+          "full": [
+            "P: I agree to some extent because…",
+            "E: For example, Spain gained… while…",
+            "E: However, this oversimplifies because…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Is it too simple?",
+      "task": "If a process created huge gains for some and catastrophe for others at the same time, is \"winners and losers\" too simple, or exactly the right way to show the inequality?"
+    },
+    {
+      "id": "t2",
+      "kind": "Different criteria",
+      "task": "Could a traveller be highly significant on scale but less significant on lasting impact? Give an example from the unit."
+    },
+    {
+      "id": "t3",
+      "kind": "Explorer World Cup",
+      "task": "Run a knockout bracket of the unit's travellers, deciding each match with one named criterion."
+    },
+    {
+      "id": "t4",
+      "kind": "Remembering",
+      "task": "How should a museum display Columbus today? Write the label."
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: AP1 research",
+    "rows": [
+      "Traveller and dates",
+      "Motives",
+      "Encounters",
+      "Consequences",
+      "Alternative perspective"
+    ],
+    "cols": [
+      "Precise evidence",
+      "Source it came from"
+    ],
+    "judgement": "My traveller was … significant and should be remembered as … because …"
+  }
+}

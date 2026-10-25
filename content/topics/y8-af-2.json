@@ -1,0 +1,792 @@
+{
+  "id": "y8-af-2",
+  "course": "y8",
+  "area": "afr",
+  "order": 7,
+  "kt": "Four lives",
+  "title": "Four Black Tudor lives: Blanke, Francis, Diego and Fillis",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Four people, four very different journeys: a royal trumpeter, a salvage diver, a sailor who crossed the world with Drake, and a Moroccan woman who chose to be baptised in London. Their stories tell us a great deal about Tudor England.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. John Blanke, royal trumpeter",
+        "blocks": [
+          {
+            "p": "John Blanke first appears in royal accounts in November 1507 as \"John Blanke the blacke Trumpet\", paid 8d a day, more than the standard 6d."
+          },
+          {
+            "p": "He may have arrived with Catherine of Aragon in 1501, but no record proves it. He played at Henry VII's funeral and Henry VIII's coronation in 1509."
+          },
+          {
+            "p": "He petitioned Henry VIII for a pay rise, asking for the post of a trumpeter who had died, Dominic Justinian. The king approved it."
+          },
+          {
+            "p": "He appears twice in the Westminster Tournament Roll of 1511, the only known portrait of a Black Tudor. In January 1512 Henry VIII gave him cloth for his wedding clothes, including violet cloth, a hat and a bonnet. After 1512 he disappears from the records."
+          }
+        ],
+        "terms": [
+          "trumpeter",
+          "petition",
+          "Westminster Tournament Roll",
+          "wages"
+        ],
+        "evidence": [
+          "First record: November 1507, 8d a day.",
+          "Tournament Roll: 1511.",
+          "Wedding gift: January 1512."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Jacques Francis, salvage diver",
+        "blocks": [
+          {
+            "p": "Jacques Francis was born around 1527, probably on Arguin Island off Mauritania, West Africa, where diving skills were common."
+          },
+          {
+            "p": "He worked for Piero Paolo Corsi, a Venetian salvage contractor in Southampton, who called him his best diver. In 1546 Corsi's team was hired to recover guns from the wreck of the Mary Rose, which sank in 1545."
+          },
+          {
+            "p": "When Corsi was accused of stealing tin from another wreck, Francis gave evidence in the High Court of Admiralty on 8 February 1548, through an interpreter. He is the first known African to give evidence in an English court."
+          },
+          {
+            "p": "Opponents tried to dismiss him as a \"slave\" and an \"infidel\", but the court accepted his evidence. He called himself Corsi's \"famulus\", a servant, and evidence suggests he was paid."
+          }
+        ],
+        "terms": [
+          "salvage",
+          "Mary Rose",
+          "High Court of Admiralty",
+          "testimony",
+          "famulus"
+        ],
+        "evidence": [
+          "Mary Rose sank 1545; salvage 1546.",
+          "Court testimony: 8 February 1548."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Diego, circumnavigator",
+        "blocks": [
+          {
+            "p": "In 1572 Diego, who had escaped Spanish enslavement, ran through gunfire to reach Francis Drake's men at Nombre de Dios, Panama."
+          },
+          {
+            "p": "He helped the English ally with the Cimarrons, Africans who had escaped Spanish slavery, and together they captured a Spanish mule train carrying silver and gold."
+          },
+          {
+            "p": "He came to Plymouth with Drake and lived there for about four years. In November 1577 he sailed with Drake on the voyage around the world, serving as Drake's manservant and as an interpreter, since he spoke Spanish and English."
+          },
+          {
+            "p": "In November 1578 he was badly wounded by arrows on Mocha Island off Chile. He died of his wounds in 1579, near the Moluccas (Spice Islands). Evidence suggests he served under a contract, like other crew members."
+          }
+        ],
+        "terms": [
+          "Cimarrons",
+          "Golden Hind",
+          "circumnavigation",
+          "interpreter"
+        ],
+        "evidence": [
+          "Joined Drake 1572; sailed from Plymouth November 1577.",
+          "Died 1579 near the Moluccas."
+        ]
+      },
+      {
+        "id": "s4",
+        "title": "4. Mary Fillis, Moroccan convert",
+        "blocks": [
+          {
+            "p": "Mary Fillis was the daughter of Fillis of Morisco, a Moroccan basket weaver and shovel maker. She came to London around 1583, aged about six or seven."
+          },
+          {
+            "p": "She worked as a servant for John Barker, a merchant, and later for Millicent Porter, a seamstress in East Smithfield."
+          },
+          {
+            "p": "In 1597, around the age of 20, she asked to be baptised. The ceremony took place at St Botolph's, Aldgate. Choosing baptism suggests she wanted to belong to her community; it may also have helped her future."
+          },
+          {
+            "p": "She lived in London while Morocco and England were building an alliance against Spain. After Porter died in 1599, we do not know what happened to her."
+          }
+        ],
+        "terms": [
+          "Morocco",
+          "servant",
+          "seamstress",
+          "baptism",
+          "convert"
+        ],
+        "evidence": [
+          "Arrived around 1583.",
+          "Baptised 1597 at St Botolph's, Aldgate."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1507",
+        "event": "John Blanke appears in royal accounts."
+      },
+      {
+        "date": "1509",
+        "event": "Blanke plays at Henry VIII's coronation; petitions for a pay rise."
+      },
+      {
+        "date": "1511",
+        "event": "Blanke is shown in the Westminster Tournament Roll."
+      },
+      {
+        "date": "1512",
+        "event": "Henry VIII gives Blanke a wedding gift."
+      },
+      {
+        "date": "1545",
+        "event": "The Mary Rose sinks."
+      },
+      {
+        "date": "1548",
+        "event": "Jacques Francis gives evidence in the High Court of Admiralty."
+      },
+      {
+        "date": "1572",
+        "event": "Diego joins Drake in Panama."
+      },
+      {
+        "date": "1577",
+        "event": "Diego sails on Drake's voyage around the world."
+      },
+      {
+        "date": "1579",
+        "event": "Diego dies near the Moluccas."
+      },
+      {
+        "date": "1597",
+        "event": "Mary Fillis is baptised at St Botolph's, Aldgate."
+      }
+    ],
+    "people": [
+      {
+        "name": "John Blanke",
+        "role": "Royal trumpeter (records 1507–1512)."
+      },
+      {
+        "name": "Jacques Francis",
+        "role": "Salvage diver, born c.1527 on Arguin Island."
+      },
+      {
+        "name": "Diego",
+        "role": "Escaped Spanish slavery; sailed with Drake; died 1579."
+      },
+      {
+        "name": "Mary Fillis",
+        "role": "Moroccan-born servant and seamstress; baptised 1597."
+      },
+      {
+        "name": "Piero Paolo Corsi",
+        "role": "Venetian salvage contractor who employed Francis."
+      },
+      {
+        "name": "Francis Drake",
+        "role": "English sea captain and privateer."
+      },
+      {
+        "name": "Millicent Porter",
+        "role": "Seamstress in East Smithfield who employed Fillis."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Petition",
+        "def": "A formal written request to someone in authority."
+      },
+      {
+        "term": "Salvage",
+        "def": "Recovering goods from a wreck."
+      },
+      {
+        "term": "Testimony",
+        "def": "Evidence given in court."
+      },
+      {
+        "term": "Circumnavigation",
+        "def": "Sailing all the way around the world."
+      },
+      {
+        "term": "Cimarrons",
+        "def": "Africans who had escaped Spanish slavery in Panama."
+      },
+      {
+        "term": "Baptism",
+        "def": "A Christian ceremony of joining the Church."
+      },
+      {
+        "term": "Convert",
+        "def": "Someone who changes religion."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "John Blanke was a slave at court.",
+        "right": "He was paid wages, petitioned for a pay rise and got it."
+      },
+      {
+        "wrong": "Africans could not give evidence in Tudor courts.",
+        "right": "Jacques Francis gave evidence in 1548 and the court accepted it."
+      },
+      {
+        "wrong": "Diego was Drake's slave.",
+        "right": "He had escaped slavery, and evidence suggests he served under a contract like other crew members."
+      },
+      {
+        "wrong": "Baptism meant someone was forced to convert.",
+        "right": "Mary Fillis asked to be baptised."
+      }
+    ],
+    "sources": [
+      {
+        "id": "roll",
+        "title": "Westminster Tournament Roll",
+        "type": "Illustrated roll (visual source)",
+        "date": "1511",
+        "origin": "Made to record the tournament celebrating the birth of Henry VIII's son; held by the College of Arms.",
+        "purpose": "A celebration of royal display and the tournament.",
+        "usefulness": "Shows John Blanke twice, the only known image of a Black Tudor. It shows him in his role, not his thoughts."
+      },
+      {
+        "id": "petition",
+        "title": "John Blanke's petition to Henry VIII",
+        "type": "Written petition",
+        "date": "Around 1509",
+        "origin": "Royal records, held by The National Archives.",
+        "purpose": "To ask for higher wages and a dead trumpeter's post.",
+        "usefulness": "Rare evidence of a Black Tudor making a request in his own name. A clerk probably wrote it down for him."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "How much was John Blanke paid per day in 1507?",
+        "options": [
+          "2d",
+          "6d",
+          "8d",
+          "£1"
+        ],
+        "answer": 2,
+        "why": "More than the standard 6d."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Where is the only known portrait of a Black Tudor?",
+        "options": [
+          "The Mary Rose",
+          "The Westminster Tournament Roll (1511)",
+          "The Bayeux Tapestry",
+          "The Catalan Atlas"
+        ],
+        "answer": 1,
+        "why": "Blanke appears twice."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "What happened when Blanke petitioned Henry VIII?",
+        "options": [
+          "He was dismissed",
+          "The king approved a pay rise and promotion",
+          "He was arrested",
+          "Nothing"
+        ],
+        "answer": 1,
+        "why": "He got Dominic Justinian's post."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "Which famous wreck did Jacques Francis dive on?",
+        "options": [
+          "The Golden Hind",
+          "The Mary Rose",
+          "The Titanic",
+          "The Santa María"
+        ],
+        "answer": 1,
+        "why": "Salvage in 1546."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Why is Jacques Francis's 1548 testimony important?",
+        "options": [
+          "He was the king's lawyer",
+          "He is the first known African to give evidence in an English court",
+          "He confessed to theft",
+          "He was a judge"
+        ],
+        "answer": 1,
+        "why": "High Court of Admiralty."
+      },
+      {
+        "id": "m6",
+        "s": "s3",
+        "q": "Where did Diego join Drake in 1572?",
+        "options": [
+          "Plymouth",
+          "Nombre de Dios, Panama",
+          "London",
+          "Morocco"
+        ],
+        "answer": 1,
+        "why": "He ran through gunfire."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "Who were the Cimarrons?",
+        "options": [
+          "Spanish soldiers",
+          "Africans who had escaped Spanish slavery in Panama",
+          "English sailors",
+          "Moroccan merchants"
+        ],
+        "answer": 1,
+        "why": "Diego helped Drake ally with them."
+      },
+      {
+        "id": "m8",
+        "s": "s4",
+        "q": "Where was Mary Fillis baptised in 1597?",
+        "options": [
+          "Westminster Abbey",
+          "St Botolph's, Aldgate",
+          "St Paul's Cathedral",
+          "Canterbury"
+        ],
+        "answer": 1,
+        "why": "In London."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Which instrument did John Blanke play?",
+        "accept": [
+          "trumpet",
+          "the trumpet"
+        ],
+        "answer": "Trumpet"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "In which year did Jacques Francis give evidence in court?",
+        "accept": [
+          "1548"
+        ],
+        "answer": "1548"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "Which sea captain did Diego sail with?",
+        "accept": [
+          "drake",
+          "francis drake",
+          "sir francis drake"
+        ],
+        "answer": "Francis Drake"
+      },
+      {
+        "id": "a4",
+        "s": "s4",
+        "q": "Which country did Mary Fillis come from?",
+        "accept": [
+          "morocco"
+        ],
+        "answer": "Morocco"
+      },
+      {
+        "id": "a5",
+        "s": "s4",
+        "q": "In which year was Mary Fillis baptised?",
+        "accept": [
+          "1597"
+        ],
+        "answer": "1597"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these events in order",
+        "items": [
+          "Blanke in royal accounts",
+          "Blanke in the Tournament Roll",
+          "Mary Rose sinks",
+          "Francis gives evidence",
+          "Diego joins Drake",
+          "Diego dies near the Moluccas",
+          "Fillis is baptised"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the person to their story",
+        "pairs": [
+          [
+            "John Blanke",
+            "Petitioned Henry VIII for a pay rise"
+          ],
+          [
+            "Jacques Francis",
+            "Gave evidence in the High Court of Admiralty"
+          ],
+          [
+            "Diego",
+            "Sailed around the world with Drake"
+          ],
+          [
+            "Mary Fillis",
+            "Asked to be baptised in 1597"
+          ]
+        ]
+      },
+      {
+        "id": "x2",
+        "title": "Match the person to their job",
+        "pairs": [
+          [
+            "John Blanke",
+            "Trumpeter"
+          ],
+          [
+            "Jacques Francis",
+            "Salvage diver"
+          ],
+          [
+            "Diego",
+            "Manservant and interpreter"
+          ],
+          [
+            "Mary Fillis",
+            "Servant and seamstress"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Give precise evidence that John Blanke was a valued, paid member of the royal court.",
+        "keywords": [
+          [
+            "8d",
+            "wages",
+            "paid",
+            "pay rise",
+            "petition"
+          ],
+          [
+            "1507",
+            "1509",
+            "1511",
+            "1512",
+            "wedding",
+            "tournament"
+          ]
+        ],
+        "model": "He was paid 8d a day from 1507, more than the standard 6d, won a pay rise after petitioning Henry VIII, and received a wedding gift of cloth in January 1512."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Explain what Jacques Francis's court case tells us about the status of Africans in Tudor England.",
+        "keywords": [
+          [
+            "court",
+            "evidence",
+            "testimony",
+            "1548"
+          ],
+          [
+            "accepted",
+            "free",
+            "paid",
+            "slave",
+            "infidel"
+          ]
+        ],
+        "model": "Opponents called him a slave and an infidel to discredit him, but the court accepted his evidence in 1548, which suggests Africans could be treated as free people with a voice in law."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "John Blanke",
+      "a": "Royal trumpeter; first record November 1507, 8d a day."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Blanke's petition",
+      "a": "Asked Henry VIII for Dominic Justinian's post; approved."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Westminster Tournament Roll",
+      "a": "1511: only known portrait of a Black Tudor."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Blanke's wedding gift",
+      "a": "January 1512: cloth, a hat and a bonnet from Henry VIII."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Jacques Francis",
+      "a": "Diver from Arguin Island, born c.1527."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Mary Rose salvage",
+      "a": "1546, with Piero Paolo Corsi."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Francis in court",
+      "a": "8 February 1548: first known African to give evidence in an English court."
+    },
+    {
+      "id": "f8",
+      "s": "s3",
+      "q": "Diego joins Drake",
+      "a": "1572 at Nombre de Dios, Panama."
+    },
+    {
+      "id": "f9",
+      "s": "s3",
+      "q": "Diego's roles",
+      "a": "Manservant and interpreter (Spanish and English)."
+    },
+    {
+      "id": "f10",
+      "s": "s3",
+      "q": "Diego's death",
+      "a": "Wounded on Mocha Island 1578; died 1579 near the Moluccas."
+    },
+    {
+      "id": "f11",
+      "s": "s4",
+      "q": "Mary Fillis",
+      "a": "Moroccan, arrived around 1583; servant then seamstress."
+    },
+    {
+      "id": "f12",
+      "s": "s4",
+      "q": "Fillis's baptism",
+      "a": "1597, St Botolph's, Aldgate, aged about 20."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe the life of John Blanke using dates and evidence.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe the lives of Jacques Francis, Diego and Mary Fillis.",
+      "sections": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain what each life tells us about Tudor England.",
+      "sections": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain what the sources about each person can and cannot tell us.",
+      "sections": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge whose story is most significant for understanding Black Tudors.",
+      "sections": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 10,
+        "q": "What does the life of John Blanke tell us about the position of Africans at the Tudor court?",
+        "sections": [
+          "s1"
+        ],
+        "asks": "Use precise evidence from Blanke's life to explain what it reveals, and its limits.",
+        "steps": [
+          "Give evidence of wages and the petition.",
+          "Use the Tournament Roll and wedding gift.",
+          "Note what we cannot know."
+        ],
+        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
+        "success": [
+          "Precise evidence",
+          "Explains what it reveals",
+          "Notes limits"
+        ],
+        "mistakes": [
+          "Retelling without explaining",
+          "Claiming he was a slave"
+        ],
+        "frame": {
+          "full": [
+            "P: Blanke's life suggests that some Africans were valued at court…",
+            "E: For example, he was paid 8d a day from 1507…",
+            "E: This shows that… However, we cannot know…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "Whose story tells us most about Africans in Tudor England: John Blanke, Jacques Francis, Diego or Mary Fillis?",
+        "sections": [
+          "s1",
+          "s2",
+          "s3",
+          "s4"
+        ],
+        "asks": "Compare at least two lives and judge which reveals most, using criteria such as what it reveals about status, reasons for coming and everyday life.",
+        "steps": [
+          "Choose your strongest story and explain what it reveals.",
+          "Compare with at least one other story.",
+          "Judge with a qualifier."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
+        "success": [
+          "Comparison",
+          "Precise evidence",
+          "Criterion named",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Describing one life only",
+          "No judgement"
+        ],
+        "frame": {
+          "full": [
+            "P: … tells us most because…",
+            "E: For example, in …",
+            "E: This reveals that… whereas …",
+            "J: Therefore, overall…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Own words",
+      "task": "Which of the four do we come closest to hearing in their own words? What stops us hearing them more?"
+    },
+    {
+      "id": "t2",
+      "kind": "Arguin to Southampton",
+      "task": "Map Jacques Francis's journey. What does it show about Tudor England's links to the wider world?"
+    },
+    {
+      "id": "t3",
+      "kind": "Diego and Drake",
+      "task": "Drake is famous; Diego is not. Why might that be, and should it change?"
+    },
+    {
+      "id": "t4",
+      "kind": "Choosing baptism",
+      "task": "Why might Mary Fillis have chosen baptism? Give two possible reasons and say which the evidence supports better."
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: four lives",
+    "rows": [
+      "John Blanke",
+      "Jacques Francis",
+      "Diego",
+      "Mary Fillis"
+    ],
+    "cols": [
+      "Why they came",
+      "Evidence of status (free, paid, baptised)",
+      "What the source cannot tell us"
+    ],
+    "judgement": "The story that tells us most is … because …"
+  }
+}

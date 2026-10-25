@@ -542,6 +542,18 @@
         "q": "‘The federal government did more to help than to hinder black Americans in the years 1883–c1900 and 1933–45.’\nHow far do you agree with this statement?"
       },
       {
+        "id": "pp-whi031d-january2026-1",
+        "qtype": "u3a",
+        "label": "Past paper: WHI03/1D, January 2026, Q1 (Sources 1 and 2 are in the paper)",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "January 2026",
+          "part": "Q1"
+        },
+        "sections": [],
+        "q": "How far could the historian make use of Sources 1 and 2 together to investigate the impact of the Second World War on black Americans?\nExplain your answer using both sources, the information given about them and your own knowledge of the historical context."
+      },
+      {
         "id": "pp-whi031d-january2023-1",
         "qtype": "u3a",
         "label": "Past paper: WHI03/1D, January 2023, Q1 (Sources 1 and 2 are in the paper)",

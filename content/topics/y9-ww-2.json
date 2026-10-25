@@ -1,0 +1,651 @@
+{
+  "id": "y9-ww-2",
+  "course": "y9",
+  "area": "ww1",
+  "order": 7,
+  "kt": "The trigger",
+  "title": "Sarajevo and the July Crisis, 1914",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "On 28 June 1914 Archduke Franz Ferdinand was shot in Sarajevo. Within six weeks the Great Powers were at war. This topic follows the July Crisis step by step and asks how the trigger set off the long-term causes.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. The assassination at Sarajevo",
+        "blocks": [
+          {
+            "p": "Archduke Franz Ferdinand, heir to the throne of Austria-Hungary, visited Sarajevo, the capital of Bosnia, with his wife Sophie on 28 June 1914."
+          },
+          {
+            "p": "A group of young Bosnian Serb nationalists, armed with help from the Black Hand, planned to kill him. A bomb attack that morning failed. Later, after the archduke's car took a wrong turn, Gavrilo Princip shot Franz Ferdinand and Sophie dead."
+          },
+          {
+            "p": "Austria-Hungary blamed Serbia and saw a chance to crush Serbian nationalism."
+          }
+        ],
+        "terms": [
+          "assassination",
+          "Franz Ferdinand",
+          "Gavrilo Princip",
+          "Sarajevo",
+          "trigger"
+        ],
+        "evidence": [
+          "28 June 1914: assassination in Sarajevo."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. The July Crisis",
+        "blocks": [
+          {
+            "p": "Step by step, the crisis spread:"
+          },
+          {
+            "ul": [
+              "5–6 July: Germany gives Austria-Hungary the \"blank cheque\", promising support whatever it does.",
+              "23 July: Austria-Hungary sends Serbia an ultimatum with harsh demands.",
+              "28 July: Austria-Hungary declares war on Serbia.",
+              "30 July: Russia orders general mobilisation to support Serbia.",
+              "1 August: Germany declares war on Russia.",
+              "3 August: Germany declares war on France.",
+              "4 August: Germany invades Belgium (the Schlieffen Plan); Britain declares war on Germany."
+            ]
+          },
+          {
+            "p": "The trigger was the assassination, but the long-term causes explain why a murder in the Balkans became a world war: nationalism created the crisis, alliances and the blank cheque widened it, and militarism (mobilisation timetables and the Schlieffen Plan) made it hard to stop. Remember Alphonse the Camel: the final straw was not the only reason for the collapse."
+          }
+        ],
+        "terms": [
+          "ultimatum",
+          "blank cheque",
+          "mobilisation",
+          "July Crisis",
+          "neutrality"
+        ],
+        "evidence": [
+          "Blank cheque 5–6 July; ultimatum 23 July; Britain declares war 4 August 1914."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "28 June 1914",
+        "event": "Franz Ferdinand and Sophie are assassinated in Sarajevo."
+      },
+      {
+        "date": "5–6 July 1914",
+        "event": "Germany gives Austria-Hungary the \"blank cheque\"."
+      },
+      {
+        "date": "23 July 1914",
+        "event": "Austria-Hungary sends its ultimatum to Serbia."
+      },
+      {
+        "date": "28 July 1914",
+        "event": "Austria-Hungary declares war on Serbia."
+      },
+      {
+        "date": "30 July 1914",
+        "event": "Russia orders general mobilisation."
+      },
+      {
+        "date": "1 August 1914",
+        "event": "Germany declares war on Russia."
+      },
+      {
+        "date": "3 August 1914",
+        "event": "Germany declares war on France."
+      },
+      {
+        "date": "4 August 1914",
+        "event": "Germany invades Belgium; Britain declares war on Germany."
+      }
+    ],
+    "people": [
+      {
+        "name": "Archduke Franz Ferdinand",
+        "role": "Heir to the Austro-Hungarian throne, assassinated 28 June 1914."
+      },
+      {
+        "name": "Gavrilo Princip",
+        "role": "Bosnian Serb nationalist who shot Franz Ferdinand."
+      },
+      {
+        "name": "Kaiser Wilhelm II",
+        "role": "German emperor who backed Austria-Hungary with the \"blank cheque\"."
+      },
+      {
+        "name": "Tsar Nicholas II",
+        "role": "Russian ruler who ordered mobilisation to support Serbia."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Assassination",
+        "def": "The murder of an important person for political reasons."
+      },
+      {
+        "term": "Trigger",
+        "def": "The immediate event that sets off a larger event."
+      },
+      {
+        "term": "Ultimatum",
+        "def": "A final set of demands, with a threat if they are refused."
+      },
+      {
+        "term": "Blank cheque",
+        "def": "Germany's promise to support Austria-Hungary whatever it did."
+      },
+      {
+        "term": "Mobilisation",
+        "def": "Getting armed forces ready for war."
+      },
+      {
+        "term": "Neutrality",
+        "def": "Not taking sides in a war."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "The assassination caused the war on its own.",
+        "right": "It was the trigger; long-term causes explain why it became a European war."
+      },
+      {
+        "wrong": "War broke out the day after the assassination.",
+        "right": "The July Crisis lasted over a month."
+      },
+      {
+        "wrong": "Princip acted completely alone.",
+        "right": "He was one of a group of conspirators armed with help from the Black Hand."
+      },
+      {
+        "wrong": "Britain declared war to defend Serbia.",
+        "right": "Britain declared war after Germany invaded Belgium."
+      }
+    ],
+    "sources": []
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Where was Franz Ferdinand assassinated?",
+        "options": [
+          "Vienna",
+          "Belgrade",
+          "Sarajevo",
+          "Berlin"
+        ],
+        "answer": 2,
+        "why": "Capital of Bosnia."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Who shot Franz Ferdinand?",
+        "options": [
+          "Kaiser Wilhelm II",
+          "Gavrilo Princip",
+          "Tsar Nicholas II",
+          "Alfred von Tirpitz"
+        ],
+        "answer": 1,
+        "why": "A Bosnian Serb nationalist."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "What was the \"blank cheque\"?",
+        "options": [
+          "A loan to Serbia",
+          "Germany's promise to support Austria-Hungary whatever it did",
+          "Britain's guarantee to Belgium",
+          "Russia's mobilisation"
+        ],
+        "answer": 1,
+        "why": "5–6 July 1914."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "On which date did Austria-Hungary declare war on Serbia?",
+        "options": [
+          "28 June",
+          "23 July",
+          "28 July",
+          "4 August"
+        ],
+        "answer": 2,
+        "why": "Exactly a month after the assassination."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Why did Britain declare war on 4 August?",
+        "options": [
+          "Serbia asked it to",
+          "Germany invaded Belgium",
+          "Russia attacked Britain",
+          "Italy joined Germany"
+        ],
+        "answer": 1,
+        "why": "Treaty of London 1839."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Which country ordered general mobilisation on 30 July?",
+        "options": [
+          "France",
+          "Russia",
+          "Britain",
+          "Italy"
+        ],
+        "answer": 1,
+        "why": "To support Serbia."
+      },
+      {
+        "id": "m7",
+        "s": "s2",
+        "q": "What is an ultimatum?",
+        "options": [
+          "A peace treaty",
+          "A final set of demands with a threat",
+          "A type of alliance",
+          "A battle"
+        ],
+        "answer": 1,
+        "why": "Sent to Serbia on 23 July."
+      },
+      {
+        "id": "m8",
+        "s": "s2",
+        "q": "Which statement best links the trigger and long-term causes?",
+        "options": [
+          "The assassination alone caused the war",
+          "The trigger set off tensions already built by militarism, alliances, imperialism and nationalism",
+          "Long-term causes did not matter",
+          "The war started in 1918"
+        ],
+        "answer": 1,
+        "why": "Final straw."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "On what date was Franz Ferdinand assassinated?",
+        "accept": [
+          "28 june 1914",
+          "28th june 1914",
+          "june 28 1914"
+        ],
+        "answer": "28 June 1914"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "Which country invaded Belgium on 4 August 1914?",
+        "accept": [
+          "germany"
+        ],
+        "answer": "Germany"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "What name is given to Germany's promise of support to Austria-Hungary?",
+        "accept": [
+          "blank cheque",
+          "the blank cheque",
+          "blank check"
+        ],
+        "answer": "The blank cheque"
+      },
+      {
+        "id": "a4",
+        "s": "s1",
+        "q": "Which country did Austria-Hungary blame for the assassination?",
+        "accept": [
+          "serbia"
+        ],
+        "answer": "Serbia"
+      },
+      {
+        "id": "a5",
+        "s": "s2",
+        "q": "On what date did Britain declare war on Germany?",
+        "accept": [
+          "4 august 1914",
+          "4th august 1914",
+          "august 4 1914"
+        ],
+        "answer": "4 August 1914"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put the July Crisis in order",
+        "items": [
+          "Assassination in Sarajevo",
+          "The blank cheque",
+          "Ultimatum to Serbia",
+          "Austria-Hungary declares war on Serbia",
+          "Russia mobilises",
+          "Germany declares war on Russia",
+          "Germany declares war on France",
+          "Germany invades Belgium; Britain declares war"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the step to the cause it shows",
+        "pairs": [
+          [
+            "Princip's shots",
+            "Trigger (fuelled by nationalism)"
+          ],
+          [
+            "The blank cheque",
+            "Alliances"
+          ],
+          [
+            "Russian mobilisation and the Schlieffen Plan",
+            "Militarism"
+          ],
+          [
+            "Britain declares war over Belgium",
+            "Treaty commitment (1839)"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Explain how the blank cheque turned a local crisis into a wider one.",
+        "keywords": [
+          [
+            "blank cheque",
+            "germany",
+            "support"
+          ],
+          [
+            "austria",
+            "ultimatum",
+            "serbia",
+            "russia",
+            "harsh",
+            "confident"
+          ]
+        ],
+        "model": "Germany's promise of support (5–6 July) made Austria-Hungary confident enough to send Serbia a harsh ultimatum and declare war, which brought in Russia as Serbia's supporter."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Use the Alphonse the Camel idea to explain the role of the assassination.",
+        "keywords": [
+          [
+            "trigger",
+            "final straw",
+            "last"
+          ],
+          [
+            "long-term",
+            "militarism",
+            "alliances",
+            "imperialism",
+            "nationalism",
+            "already"
+          ]
+        ],
+        "model": "The assassination was the final straw, the trigger, but war only followed because Europe was already loaded with militarism, alliances, imperialism and nationalism."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Assassination at Sarajevo",
+      "a": "28 June 1914: Franz Ferdinand and Sophie."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Gavrilo Princip",
+      "a": "Bosnian Serb nationalist who fired the shots."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "Blank cheque",
+      "a": "5–6 July: Germany backs Austria-Hungary."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "Ultimatum",
+      "a": "23 July: Austria-Hungary to Serbia."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Austria-Hungary declares war on Serbia",
+      "a": "28 July 1914."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Russian mobilisation",
+      "a": "30 July 1914."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Germany declares war on Russia",
+      "a": "1 August 1914."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Germany declares war on France",
+      "a": "3 August 1914."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Britain declares war",
+      "a": "4 August 1914, after Germany invades Belgium."
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "Trigger vs long-term causes",
+      "a": "The trigger set off tensions built by M.A.I.N."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe the assassination at Sarajevo.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can sequence the July Crisis with dates.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain how the blank cheque widened the crisis.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain why Britain entered the war.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge how important the assassination was compared with long-term causes.",
+      "sections": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 8,
+        "q": "Explain why the assassination of Franz Ferdinand led to a European war. (6 marks)",
+        "sections": [
+          "s1",
+          "s2"
+        ],
+        "asks": "Explain the chain from the assassination to wider war, linking to long-term causes.",
+        "steps": [
+          "Start with the assassination and Austria's response.",
+          "Explain how alliances and the blank cheque widened it.",
+          "Explain how mobilisation made it hard to stop."
+        ],
+        "plan": "1 minute planning, 6 minutes writing, 1 minute checking.",
+        "success": [
+          "Clear chain with dates",
+          "Links to alliances and militarism",
+          "Explaining connectives"
+        ],
+        "mistakes": [
+          "Only describing the assassination",
+          "Wrong order of events"
+        ],
+        "frame": {
+          "full": [
+            "P: The assassination led to war because…",
+            "E: After 28 June, Germany gave… on 5–6 July…",
+            "E: This meant that… which caused…",
+            "J: Therefore, the trigger only led to war because…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 20,
+        "q": "\"The assassination of Franz Ferdinand was the main cause of the First World War.\" How far do you agree? (16 marks)",
+        "sections": [
+          "s1",
+          "s2"
+        ],
+        "asks": "Weigh the trigger against the long-term M.A.I.N. causes and reach a judgement.",
+        "steps": [
+          "Explain the role of the assassination.",
+          "Explain at least two long-term causes and how they made war likely.",
+          "Judge, using the trigger/long-term distinction."
+        ],
+        "plan": "3 minutes planning, 15 minutes writing, 2 minutes checking.",
+        "success": [
+          "Qualified judgement",
+          "Precise July Crisis evidence",
+          "Long-term causes linked",
+          "Conclusion"
+        ],
+        "mistakes": [
+          "Agreeing completely with no long-term causes",
+          "No dates"
+        ],
+        "frame": {
+          "full": [
+            "P: The assassination was important as the trigger, but only to some extent the main cause…",
+            "E: For example, on 28 June… then…",
+            "E: However, this only led to war because alliances / militarism…",
+            "J: Therefore, the main cause was…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Counterfactual",
+      "task": "If the archduke's car had not taken a wrong turn, would war still have happened? Use the long-term causes to argue."
+    },
+    {
+      "id": "t2",
+      "kind": "Responsibility",
+      "task": "Which country do you think bears most responsibility for the July Crisis? Use dates as evidence."
+    },
+    {
+      "id": "t3",
+      "kind": "Sleepwalkers",
+      "task": "Christopher Clark argued Europe's leaders \"sleepwalked\" into war. Find two moments in the July Crisis that support or challenge this."
+    },
+    {
+      "id": "t4",
+      "kind": "Decision map",
+      "task": "Map every decision in the July Crisis. At which point could war most easily have been stopped?"
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: trigger or long-term causes?",
+    "rows": [
+      "Assassination (trigger)",
+      "Alliances and blank cheque",
+      "Militarism and mobilisation",
+      "Nationalism",
+      "Imperialism"
+    ],
+    "cols": [
+      "Precise evidence",
+      "How it led to war"
+    ],
+    "judgement": "The main cause was … because … The assassination mattered because …"
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "id": "y9-ir-1",
+  "course": "y9",
+  "area": "ir",
+  "order": 1,
+  "kt": "Lessons 1–2",
+  "title": "When does change become a revolution? Why Britain?",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Britain in 1750 was mostly rural; by 1900 it was the world's first industrialised, majority-urban nation. But calling this a \"revolution\" is a historian's judgement, not a fact. This topic gives you the tools to judge it (Scale, Speed, Depth, Duration) and asks why industrialisation began in Britain.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Change, continuity and revolution",
+        "blocks": [
+          {
+            "p": "In 1750 roughly three-quarters of people worked on the land, most goods were made by hand in homes or small workshops, and travel was slow and local. By 1900 most people worked in industry and lived in towns, and railways crossed the country in hours. England's population grew from around 6 million in 1750 to over 30 million by 1900."
+          },
+          {
+            "p": "The phrase \"Industrial Revolution\" was popularised by historians looking back, notably Arnold Toynbee in the 1880s. It is a later label and an argument that needs evidence."
+          },
+          {
+            "p": "Judge with the four criteria: Scale (how many people), Speed (how quickly), Depth (how fundamentally lives changed), Duration (how lasting). You will track every development in the unit against these criteria in your Revolution Tracker."
+          },
+          {
+            "p": "Two traps: change is not the same as progress (it can make things worse for some people), and \"revolutionary\" does not mean \"positive\"."
+          }
+        ],
+        "terms": [
+          "change",
+          "continuity",
+          "revolution",
+          "progress",
+          "Revolution Tracker"
+        ],
+        "evidence": [
+          "England: about 6 million people in 1750; over 30 million by 1900.",
+          "Toynbee popularised \"Industrial Revolution\" in the 1880s."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Why Britain?",
+        "blocks": [
+          {
+            "p": "Historians reject a single cause in favour of interconnected causes, a \"perfect storm\":"
+          },
+          {
+            "ul": [
+              "Agriculture: more food meant fewer farm workers were needed, freeing labour for industry.",
+              "Population: England's population roughly doubled during the 18th century, supplying workers and consumers.",
+              "Coal: large, accessible reserves powered steam engines and furnaces.",
+              "Capital: money from farming, banking, merchant trade and Atlantic and colonial trade, including trade linked to the enslavement of Africans (explored in the next topic).",
+              "Transport: turnpike roads and canals from the 1760s (the Bridgewater Canal opened in 1761) moved goods cheaply.",
+              "Institutions: stable government, secure property rights and patent law gave inventors and investors confidence."
+            ]
+          },
+          {
+            "p": "Older stories credited a few \"great inventors\". Historians now stress how these causes reinforced each other."
+          }
+        ],
+        "terms": [
+          "causation",
+          "capital",
+          "infrastructure",
+          "institution",
+          "patent"
+        ],
+        "evidence": [
+          "Bridgewater Canal opened in 1761.",
+          "Causes were interconnected, not a list."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1750",
+        "event": "Britain is mainly rural; England has about 6 million people."
+      },
+      {
+        "date": "1761",
+        "event": "The Bridgewater Canal opens, carrying coal to Manchester."
+      },
+      {
+        "date": "1769",
+        "event": "James Watt patents his improved steam engine."
+      },
+      {
+        "date": "1830",
+        "event": "The Liverpool and Manchester Railway opens."
+      },
+      {
+        "date": "1880s",
+        "event": "Arnold Toynbee popularises the phrase \"Industrial Revolution\"."
+      },
+      {
+        "date": "1900",
+        "event": "Britain is the world's first industrialised, majority-urban nation."
+      }
+    ],
+    "people": [
+      {
+        "name": "Arnold Toynbee",
+        "role": "Historian whose 1880s lectures popularised the phrase \"Industrial Revolution\"."
+      },
+      {
+        "name": "James Watt",
+        "role": "Engineer who improved the steam engine (patented 1769)."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Change",
+        "def": "Something becoming different over time."
+      },
+      {
+        "term": "Continuity",
+        "def": "Something staying the same over time."
+      },
+      {
+        "term": "Revolution",
+        "def": "A fundamental, wide-reaching change to a system or society."
+      },
+      {
+        "term": "Progress",
+        "def": "Change that makes things better for people."
+      },
+      {
+        "term": "Causation",
+        "def": "The relationship between causes and their effects."
+      },
+      {
+        "term": "Capital",
+        "def": "Money invested to start or grow a business."
+      },
+      {
+        "term": "Infrastructure",
+        "def": "Basic physical systems such as roads, canals and ports."
+      },
+      {
+        "term": "Institution",
+        "def": "An established organisation or system, such as a bank or patent law."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Britain in 1750 was backward.",
+        "right": "Use neutral, comparative language: rural/urban, agricultural/industrial. Decide for yourself whether the change was progress."
+      },
+      {
+        "wrong": "\"Revolution\" means a positive change.",
+        "right": "A change can be revolutionary and harmful."
+      },
+      {
+        "wrong": "A few great inventors caused industrialisation.",
+        "right": "Many interconnected causes worked together."
+      },
+      {
+        "wrong": "People in 1800 knew they were living through the \"Industrial Revolution\".",
+        "right": "The label became popular later, in the 1880s."
+      }
+    ],
+    "sources": []
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Who popularised the phrase \"Industrial Revolution\" in the 1880s?",
+        "options": [
+          "James Watt",
+          "Arnold Toynbee",
+          "Edwin Chadwick",
+          "Karl Marx"
+        ],
+        "answer": 1,
+        "why": "Toynbee, looking back."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Which is NOT one of the four criteria?",
+        "options": [
+          "Scale",
+          "Speed",
+          "Depth",
+          "Popularity"
+        ],
+        "answer": 3,
+        "why": "Scale, Speed, Depth, Duration."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "England's population in 1900 was roughly…",
+        "options": [
+          "6 million",
+          "10 million",
+          "Over 30 million",
+          "100 million"
+        ],
+        "answer": 2,
+        "why": "From about 6 million in 1750."
+      },
+      {
+        "id": "m4",
+        "s": "s1",
+        "q": "Which statement is most accurate?",
+        "options": [
+          "Change always means progress",
+          "A change can be revolutionary and still harmful",
+          "Nothing stayed the same",
+          "Revolutions happen overnight"
+        ],
+        "answer": 1,
+        "why": "Revolutionary ≠ positive."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Why did agricultural change help industry?",
+        "options": [
+          "It closed factories",
+          "More food meant fewer farm workers were needed, freeing labour",
+          "It stopped population growth",
+          "It banned machines"
+        ],
+        "answer": 1,
+        "why": "Freed labour."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Which canal opened in 1761?",
+        "options": [
+          "Suez",
+          "Bridgewater",
+          "Panama",
+          "Grand Union"
+        ],
+        "answer": 1,
+        "why": "Carrying coal to Manchester."
+      },
+      {
+        "id": "m7",
+        "s": "s2",
+        "q": "What is capital?",
+        "options": [
+          "A capital city",
+          "Money invested to start or grow a business",
+          "A type of coal",
+          "A government"
+        ],
+        "answer": 1,
+        "why": "Investment money."
+      },
+      {
+        "id": "m8",
+        "s": "s2",
+        "q": "How do historians now explain why Britain industrialised first?",
+        "options": [
+          "One great inventor",
+          "Interconnected causes reinforcing each other",
+          "Luck alone",
+          "The weather alone"
+        ],
+        "answer": 1,
+        "why": "A \"perfect storm\"."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Name the four criteria for judging a revolution.",
+        "accept": [
+          "scale speed depth duration",
+          "scale, speed, depth, duration",
+          "scale, speed, depth and duration"
+        ],
+        "answer": "Scale, Speed, Depth, Duration"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "What do we call something staying the same over time?",
+        "accept": [
+          "continuity"
+        ],
+        "answer": "Continuity"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "In what year did the Bridgewater Canal open?",
+        "accept": [
+          "1761"
+        ],
+        "answer": "1761"
+      },
+      {
+        "id": "a4",
+        "s": "s2",
+        "q": "What law protected inventors' rights to profit?",
+        "accept": [
+          "patent",
+          "patent law",
+          "patents"
+        ],
+        "answer": "Patent law"
+      },
+      {
+        "id": "a5",
+        "s": "s2",
+        "q": "Which fuel powered steam engines?",
+        "accept": [
+          "coal"
+        ],
+        "answer": "Coal"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Britain mainly rural, 6 million in England",
+          "Bridgewater Canal opens",
+          "Watt patents his steam engine",
+          "Liverpool and Manchester Railway opens",
+          "Toynbee popularises \"Industrial Revolution\"",
+          "Britain majority-urban"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the criterion to its question",
+        "pairs": [
+          [
+            "Scale",
+            "How many people were affected?"
+          ],
+          [
+            "Speed",
+            "How quickly did it happen?"
+          ],
+          [
+            "Depth",
+            "How fundamentally did lives change?"
+          ],
+          [
+            "Duration",
+            "How lasting was the change?"
+          ]
+        ]
+      },
+      {
+        "id": "x2",
+        "title": "Match the cause to the evidence",
+        "pairs": [
+          [
+            "Agriculture",
+            "Fewer farm workers needed"
+          ],
+          [
+            "Transport",
+            "Bridgewater Canal, 1761"
+          ],
+          [
+            "Institutions",
+            "Patent law and property rights"
+          ],
+          [
+            "Population",
+            "Roughly doubled in the 18th century"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Give precise evidence that Britain changed dramatically between 1750 and 1900.",
+        "keywords": [
+          [
+            "6 million",
+            "30 million",
+            "population"
+          ],
+          [
+            "rural",
+            "urban",
+            "towns",
+            "railway",
+            "factories",
+            "land"
+          ]
+        ],
+        "model": "England's population grew from about 6 million in 1750 to over 30 million by 1900, and Britain went from about three-quarters of people working on the land to being majority-urban."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Explain how two causes of British industrialisation were connected.",
+        "keywords": [
+          [
+            "coal",
+            "agriculture",
+            "population",
+            "capital",
+            "transport",
+            "canal"
+          ],
+          [
+            "because",
+            "this meant",
+            "which",
+            "therefore"
+          ]
+        ],
+        "model": "Agricultural change produced more food, which supported a growing population; this meant there were more workers and consumers for the new factories."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Four criteria",
+      "a": "Scale, Speed, Depth, Duration."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Revolution",
+      "a": "A fundamental, wide-reaching change to a system or society."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "\"Industrial Revolution\" label",
+      "a": "Popularised by Arnold Toynbee in the 1880s."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Britain 1750 vs 1900",
+      "a": "Rural and agricultural → majority-urban and industrial."
+    },
+    {
+      "id": "f5",
+      "s": "s1",
+      "q": "England's population",
+      "a": "About 6 million (1750) → over 30 million (1900)."
+    },
+    {
+      "id": "f6",
+      "s": "s1",
+      "q": "Change vs progress",
+      "a": "Change is not always for the better."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Six causes",
+      "a": "Agriculture, population, coal, capital, transport, institutions."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Capital",
+      "a": "Money invested to start or grow a business."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Bridgewater Canal",
+      "a": "Opened 1761."
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "Patent law",
+      "a": "Protected inventors' rights to profit."
+    },
+    {
+      "id": "f11",
+      "s": "s2",
+      "q": "Perfect storm",
+      "a": "Causes that reinforce each other."
+    },
+    {
+      "id": "f12",
+      "s": "s2",
+      "q": "Watt's steam engine patent",
+      "a": "1769."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe how Britain changed between 1750 and 1900.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe the four criteria for judging a revolution.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain why \"Industrial Revolution\" is a judgement, not a fact.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain at least four causes of British industrialisation.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "explain",
+      "text": "I can explain how causes were interconnected.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge which cause was most important, using a qualifier.",
+      "sections": [
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 15,
+        "q": "\"Coal was the main reason industrialisation began in Britain.\" How far do you agree?",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Weigh coal against other causes and show how they interconnected.",
+        "steps": [
+          "Explain coal's role with evidence.",
+          "Explain at least two other causes and how they linked.",
+          "Judge with a qualifier."
+        ],
+        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Precise evidence",
+          "Shows interconnection",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Listing causes without linking",
+          "No judgement"
+        ],
+        "model": [
+          {
+            "t": "Coal was highly important, but only to some extent the main reason, because it worked with other causes.",
+            "n": "P: qualified."
+          },
+          {
+            "t": "Coal powered steam engines such as Watt's (patented 1769), but canals like the Bridgewater Canal (1761) were needed to move it cheaply.",
+            "n": "E: precise."
+          },
+          {
+            "t": "This meant coal only became decisive once transport and capital allowed it to be used on a large scale.",
+            "n": "E: explains links."
+          },
+          {
+            "t": "Therefore industrialisation resulted from interconnected causes, with coal as a necessary but not sufficient one.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: Coal was the main reason to a large / some extent because…",
+            "E: For example…",
+            "E: This meant that… However, it depended on…",
+            "J: Therefore, overall…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 10,
+        "q": "Explain why historians call the Industrial Revolution \"a judgement, not a fact\".",
+        "sections": [
+          "s1"
+        ],
+        "asks": "Explain where the label came from and why it needs evidence.",
+        "steps": [
+          "Explain who popularised the label and when.",
+          "Explain how the four criteria are used to test it."
+        ],
+        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
+        "success": [
+          "Toynbee and 1880s",
+          "Uses criteria",
+          "Clear explanation"
+        ],
+        "mistakes": [
+          "Saying people at the time called it that"
+        ],
+        "frame": {
+          "full": [
+            "P: It is a judgement because…",
+            "E: The label was popularised by… in…",
+            "E: This means that historians must test it using…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Experienced change",
+      "task": "Can something be revolutionary if most people do not experience the change immediately?"
+    },
+    {
+      "id": "t2",
+      "kind": "Counterfactual",
+      "task": "If Britain had coal but lacked its other advantages, would industrialisation still have happened?"
+    },
+    {
+      "id": "t3",
+      "kind": "Necessary vs sufficient",
+      "task": "Which cause was necessary? Was any cause sufficient on its own?"
+    },
+    {
+      "id": "t4",
+      "kind": "Causal web",
+      "task": "Draw a causal web linking all six causes. Label each arrow with how one cause strengthened another."
+    }
+  ],
+  "planning": {
+    "title": "Revolution Tracker",
+    "rows": [
+      "Agricultural change",
+      "Mechanisation",
+      "Factory system",
+      "Urbanisation",
+      "Childhood and work",
+      "Public health"
+    ],
+    "cols": [
+      "Scale /5",
+      "Speed /5",
+      "Depth /5",
+      "Duration /5",
+      "How revolutionary?"
+    ],
+    "judgement": "The most revolutionary development was … because …"
+  }
+}

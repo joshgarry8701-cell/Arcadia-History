@@ -1,0 +1,651 @@
+{
+  "id": "y7-sk-4",
+  "course": "y7",
+  "area": "skills",
+  "order": 4,
+  "kt": "Lessons 7–8",
+  "title": "Perspective, interpretation and ethics",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "People at the time saw events from where they stood. People later explain them in different ways. And we have to decide whether we judge the past by today's values. This topic covers perspective, interpretation and the ethical dimension of history.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Perspective or interpretation?",
+        "blocks": [
+          {
+            "p": "Imagine a controversial decision in a football match. The referee, a winning supporter, a losing supporter and a player all see it differently, because of where they stand, what they know and what matters to them."
+          },
+          {
+            "p": "A perspective is the viewpoint of someone experiencing events at the time. An interpretation is a later explanation or representation of the past, made by a historian, film-maker or museum."
+          },
+          {
+            "p": "Mansa Musa's 1324 journey through Cairo shows both. Writers in Cairo recorded how much gold he spent, from their own perspective. In 1375 the Catalan Atlas, a map made in Europe, pictured him holding a gold nugget: a later interpretation that shows how Europeans saw Mali's wealth."
+          },
+          {
+            "p": "Historians disagree for more complicated reasons than \"everyone has an opinion\". They may ask different questions, use different evidence or weigh it differently. Qualifiers such as \"to a large extent\" help you agree or disagree without absolute language."
+          }
+        ],
+        "terms": [
+          "perspective",
+          "interpretation",
+          "viewpoint",
+          "context"
+        ],
+        "evidence": [
+          "Perspective = at the time. Interpretation = later.",
+          "Catalan Atlas, 1375: Mansa Musa shown holding gold."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. The ethical dimension",
+        "blocks": [
+          {
+            "p": "Should we judge people in the past by today's standards? Judging the past only by modern values is called presentism. But understanding the past is not the same as excusing it."
+          },
+          {
+            "p": "Historians ask: What happened? What values existed at the time? Did everybody agree? Who benefited? Who suffered? Often people at the time disagreed too, which shows that some actions were questioned even then."
+          },
+          {
+            "p": "A balanced judgement can use the frame: On one hand… However… This showed that… Therefore… Use qualifiers to avoid absolute judgements."
+          }
+        ],
+        "terms": [
+          "ethical",
+          "values",
+          "context",
+          "contemporary",
+          "presentism"
+        ],
+        "evidence": [
+          "Understanding is not excusing.",
+          "Ask: did everybody agree at the time?"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 1312",
+        "event": "Mansa Musa becomes ruler of the Mali Empire."
+      },
+      {
+        "date": "1324",
+        "event": "Mansa Musa travels through Cairo on pilgrimage to Mecca, spending and giving away large amounts of gold."
+      },
+      {
+        "date": "c. 1337",
+        "event": "Mansa Musa dies."
+      },
+      {
+        "date": "c. 1340s",
+        "event": "The scholar al-Umari records accounts from people in Cairo who remembered Mansa Musa's visit."
+      },
+      {
+        "date": "1375",
+        "event": "The Catalan Atlas, made in Majorca, shows Mansa Musa holding a gold nugget."
+      }
+    ],
+    "people": [
+      {
+        "name": "Mansa Musa",
+        "role": "Ruler of Mali, famous for his wealth and his 1324 pilgrimage."
+      },
+      {
+        "name": "al-Umari",
+        "role": "Scholar who, in the 1340s, wrote down Cairo memories of Mansa Musa's visit."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Perspective",
+        "def": "The viewpoint of someone experiencing events at the time."
+      },
+      {
+        "term": "Interpretation",
+        "def": "A later explanation or representation of the past."
+      },
+      {
+        "term": "Viewpoint",
+        "def": "The position from which someone sees something."
+      },
+      {
+        "term": "Context",
+        "def": "The circumstances surrounding an event."
+      },
+      {
+        "term": "Presentism",
+        "def": "Judging the past using only today's standards."
+      },
+      {
+        "term": "Ethical",
+        "def": "Concerned with what is right and wrong."
+      },
+      {
+        "term": "Values",
+        "def": "The beliefs a person or society holds about right and wrong."
+      },
+      {
+        "term": "Contemporary",
+        "def": "Existing or happening at the same time."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Historians disagree because everyone has an opinion.",
+        "right": "They disagree because they ask different questions, use different evidence or weigh it differently."
+      },
+      {
+        "wrong": "Understanding why people acted is the same as excusing them.",
+        "right": "Understanding is not excusing. Historians explain actions and can still judge them."
+      },
+      {
+        "wrong": "Everyone in the past agreed with the values of their time.",
+        "right": "People often disagreed then too. Look for those voices."
+      },
+      {
+        "wrong": "A perspective and an interpretation are the same.",
+        "right": "A perspective is from the time; an interpretation is made later."
+      }
+    ],
+    "sources": [
+      {
+        "id": "catalan",
+        "title": "The Catalan Atlas",
+        "type": "Illustrated map (visual source)",
+        "date": "1375",
+        "origin": "Made in Majorca, attributed to the workshop of Abraham Cresques; now held by the Bibliothèque nationale de France.",
+        "purpose": "A world map for a European royal owner, showing known places, rulers and trade.",
+        "usefulness": "Shows that Mali's wealth was famous in Europe by the 1370s. It is a European interpretation, not a Malian account."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "A perspective is…",
+        "options": [
+          "A later explanation of the past",
+          "The viewpoint of someone at the time",
+          "A type of map",
+          "A date"
+        ],
+        "answer": 1,
+        "why": "Perspective = from inside the time."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "An interpretation is…",
+        "options": [
+          "Made at the time",
+          "A later explanation or representation of the past",
+          "Always wrong",
+          "Only written by kings"
+        ],
+        "answer": 1,
+        "why": "Interpretations are made later."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "In 1375 the Catalan Atlas showed Mansa Musa…",
+        "options": [
+          "Fighting a battle",
+          "Holding a gold nugget",
+          "Sailing to America",
+          "Building a fort"
+        ],
+        "answer": 1,
+        "why": "It shows how famous Mali's wealth was in Europe."
+      },
+      {
+        "id": "m4",
+        "s": "s1",
+        "q": "Why do historians disagree?",
+        "options": [
+          "Everyone just has an opinion",
+          "They ask different questions, use different evidence or weigh it differently",
+          "Some are lying",
+          "They never read sources"
+        ],
+        "answer": 1,
+        "why": "Disagreement has reasons."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Presentism means…",
+        "options": [
+          "Studying the present",
+          "Judging the past only by today's standards",
+          "A gift",
+          "Ignoring the past"
+        ],
+        "answer": 1,
+        "why": "Presentism ignores context."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Which question helps an ethical judgement?",
+        "options": [
+          "What colour was it?",
+          "Did everybody agree at the time?",
+          "How long was the book?",
+          "What is the page number?"
+        ],
+        "answer": 1,
+        "why": "Disagreement at the time matters."
+      },
+      {
+        "id": "m7",
+        "s": "s1",
+        "q": "Which qualifier avoids absolute language?",
+        "options": [
+          "Definitely",
+          "Always",
+          "To some extent",
+          "Never"
+        ],
+        "answer": 2,
+        "why": "Qualifiers make claims precise."
+      },
+      {
+        "id": "m8",
+        "s": "s2",
+        "q": "\"Understanding is not excusing\" means…",
+        "options": [
+          "If we understand, we must forgive",
+          "Explaining why people acted does not mean approving of it",
+          "We should not study bad events",
+          "Values never change"
+        ],
+        "answer": 1,
+        "why": "Historians explain and can still judge."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "In which year did Mansa Musa pass through Cairo on pilgrimage?",
+        "accept": [
+          "1324"
+        ],
+        "answer": "1324"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "Which 1375 map pictured Mansa Musa?",
+        "accept": [
+          "catalan atlas",
+          "the catalan atlas"
+        ],
+        "answer": "The Catalan Atlas"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "What word means judging the past only by today's standards?",
+        "accept": [
+          "presentism"
+        ],
+        "answer": "Presentism"
+      },
+      {
+        "id": "a4",
+        "s": "s1",
+        "q": "A viewpoint from someone living at the time is a…",
+        "accept": [
+          "perspective"
+        ],
+        "answer": "Perspective"
+      },
+      {
+        "id": "a5",
+        "s": "s2",
+        "q": "What word means the circumstances surrounding an event?",
+        "accept": [
+          "context"
+        ],
+        "answer": "Context"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Mansa Musa becomes ruler of Mali",
+          "Mansa Musa passes through Cairo",
+          "Mansa Musa dies",
+          "al-Umari records Cairo memories",
+          "The Catalan Atlas is made"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the term to its meaning",
+        "pairs": [
+          [
+            "Perspective",
+            "Viewpoint of someone at the time"
+          ],
+          [
+            "Interpretation",
+            "Later explanation of the past"
+          ],
+          [
+            "Presentism",
+            "Judging the past by today's standards only"
+          ],
+          [
+            "Context",
+            "Circumstances surrounding an event"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Explain why the Catalan Atlas is an interpretation rather than a perspective on Mansa Musa's pilgrimage.",
+        "keywords": [
+          [
+            "1375",
+            "later",
+            "after"
+          ],
+          [
+            "europe",
+            "european",
+            "majorca",
+            "not there",
+            "did not see"
+          ]
+        ],
+        "model": "It was made in 1375, about 50 years after the pilgrimage, by mapmakers in Majorca who had not witnessed it. So it is a later European representation, not the viewpoint of someone who was there."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Explain why \"understanding historical actions is not the same as excusing them\".",
+        "keywords": [
+          [
+            "understand",
+            "explain",
+            "context"
+          ],
+          [
+            "judge",
+            "excuse",
+            "right",
+            "wrong",
+            "agree"
+          ]
+        ],
+        "model": "Understanding the context explains why people acted as they did, but historians can still judge whether actions were right, especially when people at the time disagreed too."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Perspective",
+      "a": "The viewpoint of someone experiencing events at the time."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Interpretation",
+      "a": "A later explanation or representation of the past."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Catalan Atlas",
+      "a": "1375 European map showing Mansa Musa holding gold: an interpretation."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "al-Umari",
+      "a": "1340s scholar who recorded Cairo memories of Mansa Musa."
+    },
+    {
+      "id": "f5",
+      "s": "s1",
+      "q": "Why historians disagree",
+      "a": "Different questions, evidence or weighting."
+    },
+    {
+      "id": "f6",
+      "s": "s1",
+      "q": "Qualifiers for agreeing",
+      "a": "To a large extent / to some extent / partly."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Presentism",
+      "a": "Judging the past only by today's standards."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Ethical",
+      "a": "Concerned with right and wrong."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Five ethical questions",
+      "a": "What happened? What values existed? Did everybody agree? Who benefited? Who suffered?"
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "Balanced judgement frame",
+      "a": "On one hand… However… This showed that… Therefore…"
+    },
+    {
+      "id": "f11",
+      "s": "s2",
+      "q": "Contemporary",
+      "a": "Existing or happening at the same time."
+    },
+    {
+      "id": "f12",
+      "s": "s2",
+      "q": "Understanding vs excusing",
+      "a": "Explaining why people acted is not the same as approving."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe the difference between a perspective and an interpretation.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe how Mansa Musa was seen in 1324 and in 1375.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain why historians reach different conclusions.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain what presentism is and why historians avoid it.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can reach a balanced ethical judgement using \"On one hand… However… Therefore…\".",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can agree or disagree with an interpretation using qualifiers.",
+      "sections": [
+        "s1"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "\"We should not judge people in the past by today's standards.\" How far do you agree?",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Weigh presentism against the need to judge actions, using the idea that people at the time also disagreed.",
+        "steps": [
+          "Explain why context matters.",
+          "Explain why we can still judge (e.g. people disagreed at the time).",
+          "Reach a qualified judgement."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Uses context and presentism",
+          "Balanced",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Only giving your opinion",
+          "Absolute language (\"always\", \"never\")"
+        ],
+        "frame": {
+          "full": [
+            "P: On one hand, I agree to some extent that…",
+            "E: This is because the values at the time were… For example…",
+            "E: However, this showed that… because people at the time…",
+            "J: Therefore, overall…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 10,
+        "q": "Explain why people at the time and historians later might see the same event differently. Use an example.",
+        "sections": [
+          "s1"
+        ],
+        "asks": "Explain the difference between perspective and interpretation, with a precise example.",
+        "steps": [
+          "Define perspective and interpretation.",
+          "Give an example of each (e.g. Cairo memories vs Catalan Atlas).",
+          "Explain why they differ."
+        ],
+        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
+        "success": [
+          "Accurate definitions",
+          "Precise example",
+          "Explains reasons for difference"
+        ],
+        "mistakes": [
+          "Mixing up the two terms",
+          "No example"
+        ],
+        "frame": {
+          "full": [
+            "P: People at the time saw events from their own perspective, whereas…",
+            "E: For example, in 1324… but in 1375 the Catalan Atlas…",
+            "E: This is because…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Same evidence",
+      "task": "Why might two historians using the same evidence reach different conclusions? Give two reasons."
+    },
+    {
+      "id": "t2",
+      "kind": "Ideas not yet invented",
+      "task": "Can a society be judged by ideas that had not been invented yet? Argue both sides."
+    },
+    {
+      "id": "t3",
+      "kind": "Whose interpretation?",
+      "task": "Who made the Catalan Atlas, and how might a Malian griot (oral historian) have told Mansa Musa's story differently?"
+    },
+    {
+      "id": "t4",
+      "kind": "Football to history",
+      "task": "Design your own \"same event, different seats\" scenario for a historical event, with four viewpoints."
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: perspectives on one event",
+    "rows": [
+      "Person 1",
+      "Person 2",
+      "A later interpretation"
+    ],
+    "cols": [
+      "What they knew",
+      "What mattered to them",
+      "How they saw the event"
+    ],
+    "judgement": "Their views differ mainly because …"
+  }
+}

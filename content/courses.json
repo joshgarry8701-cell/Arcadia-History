@@ -4,58 +4,98 @@
     {
       "id": "y7",
       "year": "Year 7",
-      "title": "The Norman Conquest",
-      "enquiry": "Why did William win the Battle of Hastings?",
+      "title": "What is History? and the Norman Conquest",
+      "enquiry": "How do historians find out what really happened in the past?",
       "stage": "KS3",
       "accent": "#b4532a",
       "assessment": {
         "type": "KS3 department criteria",
         "criteria_status": "missing",
-        "notes": "Department KS3 assessment criteria not yet uploaded. Practice questions are teacher-created drafts; AI feedback is formative only (no marks) until criteria are added in the Teacher area."
+        "notes": "Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added."
       },
-      "resources_received": [],
+      "resources_received": [
+        "Year 7 'What is History?' 14-lesson unit and scheme of work (2026–27)"
+      ],
       "resources_needed": [
-        "Year 7 Hastings lesson PowerPoints",
-        "KS3 History assessment criteria used by the department",
-        "Jada's teaching resource (optional)",
-        "Teacher-marked Year 7 answers (to check AI feedback against)"
+        "KS3 assessment criteria used by the department (so AI feedback can give indicative marks)",
+        "Lesson PowerPoints, to check site wording against what was taught"
+      ],
+      "areas": [
+        {
+          "id": "skills",
+          "paper": "Autumn 1",
+          "title": "What is History? How do historians find out what really happened in the past?"
+        },
+        {
+          "id": "norman",
+          "paper": "Autumn 2",
+          "title": "The Norman Conquest"
+        }
       ]
     },
     {
       "id": "y8",
       "year": "Year 8",
-      "title": "African migration to England",
-      "enquiry": "Why did Africans migrate to England?",
+      "title": "Explorers, Encounters and Black Tudors",
+      "enquiry": "How did voyages change the world, and why did Africans come to Tudor England?",
       "stage": "KS3",
       "accent": "#2f6f5e",
       "assessment": {
         "type": "KS3 department criteria",
         "criteria_status": "missing",
-        "notes": "Geographical and chronological scope must come from the teacher's resources. Distinguish voluntary and forced movement; represent African individuals' experiences and agency accurately."
+        "notes": "Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added."
       },
-      "resources_received": [],
+      "resources_received": [
+        "Year 8 'Explorers, Encounters and Empire' 14-lesson unit and scheme of work (2026–27)",
+        "Unit 2 built from Kaufmann, Black Tudors (2017); Onyeka Nubia, Blackamoores (2013); Pearson GCSE Migrants in Britain (1HI0/13)"
+      ],
       "resources_needed": [
-        "Year 8 scheme of work / lessons defining the period and places covered",
-        "Named individuals and sources used in lessons",
-        "KS3 assessment criteria and the end-of-unit task"
+        "KS3 assessment criteria used by the department (so AI feedback can give indicative marks)",
+        "Lesson PowerPoints, to check site wording against what was taught"
+      ],
+      "areas": [
+        {
+          "id": "exp",
+          "paper": "Autumn 1",
+          "title": "Explorers, Encounters and Empire"
+        },
+        {
+          "id": "afr",
+          "paper": "Unit 2",
+          "title": "Why did Africans come to Tudor England?"
+        }
       ]
     },
     {
       "id": "y9",
       "year": "Year 9",
-      "title": "Causes of the First World War",
-      "enquiry": "Why did the First World War start?",
+      "title": "The Industrial Revolution and the causes of the First World War",
+      "enquiry": "When does change become a revolution? Why did war break out in 1914?",
       "stage": "KS3",
       "accent": "#5b4a9e",
       "assessment": {
         "type": "KS3 department criteria",
         "criteria_status": "missing",
-        "notes": "Focus: long-term causes, their interaction, the immediate trigger and relative significance."
+        "notes": "Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added."
       },
-      "resources_received": [],
+      "resources_received": [
+        "Year 9 'Industrial Revolution' 14-lesson unit, scheme of work, Harkness pack and homework pack (2026–27)"
+      ],
       "resources_needed": [
-        "Year 9 lessons and any source packs",
-        "KS3 assessment criteria and the end-of-unit task"
+        "KS3 assessment criteria used by the department (so AI feedback can give indicative marks)",
+        "Lesson PowerPoints, to check site wording against what was taught"
+      ],
+      "areas": [
+        {
+          "id": "ir",
+          "paper": "Autumn 1",
+          "title": "The Industrial Revolution: when does change become a revolution?"
+        },
+        {
+          "id": "ww1",
+          "paper": "Unit 2",
+          "title": "Causes of the First World War"
+        }
       ]
     },
     {

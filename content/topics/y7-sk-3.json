@@ -1,0 +1,670 @@
+{
+  "id": "y7-sk-3",
+  "course": "y7",
+  "area": "skills",
+  "order": 3,
+  "kt": "Lessons 5–6",
+  "title": "Asking questions and explaining causes",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Good history starts with a good question. This topic shows you how to turn a simple \"when\" question into a real enquiry, how sure we can be of a claim, and how historians explain why things happen, using Alphonse the Camel.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. What makes a good historical question?",
+        "blocks": [
+          {
+            "p": "A factual question has one simple answer (\"When did the UAE form?\"). A historical enquiry asks \"why\", \"how far\" or \"how significant\", and needs evidence and judgement to answer."
+          },
+          {
+            "p": "Historians are honest about how sure they are. The certainty continuum runs: Certain → Very likely → Likely → Possible → Uncertain."
+          },
+          {
+            "p": "Qualifiers make your claims precise: \"X was important\" becomes \"X was highly significant\" or \"X was somewhat significant\". They show the strength of your argument."
+          }
+        ],
+        "terms": [
+          "enquiry",
+          "claim",
+          "certainty",
+          "qualifier"
+        ],
+        "evidence": [
+          "Good enquiry stems: Why…? How far…? How significant…? How certain…?",
+          "Certainty continuum: certain → very likely → likely → possible → uncertain."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Cause and consequence: Alphonse the Camel",
+        "blocks": [
+          {
+            "p": "Alphonse the Camel is loaded with more and more until one final straw makes him collapse. The obvious answer is \"the straw caused it\". But would that straw have mattered without everything already loaded? The final straw is the trigger, not the most important cause."
+          },
+          {
+            "p": "Historians sort causes into:"
+          },
+          {
+            "ul": [
+              "Long-term causes: building up over years.",
+              "Short-term causes: happening shortly before.",
+              "Trigger: the immediate event that sets things off.",
+              "Underlying causes: the deeper conditions that made the event possible."
+            ]
+          },
+          {
+            "p": "A consequence is a result of an event. Explaining connectives link causes to results: because, therefore, as a result, as a consequence, this meant that."
+          },
+          {
+            "p": "A real example: in 1066 the death of Edward the Confessor (January) triggered a crisis, but the deeper cause was that he had no children, leaving several rival claimants to the throne."
+          }
+        ],
+        "terms": [
+          "cause",
+          "consequence",
+          "long-term",
+          "short-term",
+          "trigger",
+          "underlying cause",
+          "explaining connectives"
+        ],
+        "evidence": [
+          "The trigger is not always the most important cause.",
+          "Edward the Confessor died in January 1066 without children."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "5 January 1066",
+        "event": "Edward the Confessor dies without children: the trigger of a succession crisis."
+      },
+      {
+        "date": "6 January 1066",
+        "event": "Harold Godwinson is crowned king."
+      },
+      {
+        "date": "25 September 1066",
+        "event": "Harold defeats Harald Hardrada at Stamford Bridge."
+      },
+      {
+        "date": "28 September 1066",
+        "event": "William of Normandy lands at Pevensey."
+      },
+      {
+        "date": "14 October 1066",
+        "event": "William wins the Battle of Hastings."
+      }
+    ],
+    "people": [
+      {
+        "name": "Alphonse the Camel",
+        "role": "An imaginary camel used to show how many causes build up before a final trigger."
+      },
+      {
+        "name": "Edward the Confessor",
+        "role": "King of England who died childless in January 1066."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Enquiry",
+        "def": "A question that drives historical investigation."
+      },
+      {
+        "term": "Claim",
+        "def": "A statement a historian argues is true."
+      },
+      {
+        "term": "Certainty",
+        "def": "How sure we can be about a claim."
+      },
+      {
+        "term": "Judgement",
+        "def": "A reasoned conclusion based on evidence."
+      },
+      {
+        "term": "Cause",
+        "def": "Something that makes an event happen."
+      },
+      {
+        "term": "Consequence",
+        "def": "A result of an event."
+      },
+      {
+        "term": "Long-term / short-term",
+        "def": "Causes building over years, or shortly before."
+      },
+      {
+        "term": "Trigger",
+        "def": "The immediate cause that sets an event off."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "The last thing that happened is the most important cause.",
+        "right": "The trigger is often the least important. Long-term causes usually matter more."
+      },
+      {
+        "wrong": "Events have one cause.",
+        "right": "Most events have several causes that work together."
+      },
+      {
+        "wrong": "\"Why\" and \"when\" questions are equally good enquiries.",
+        "right": "\"When\" questions have one answer. \"Why\" and \"how far\" questions need evidence and judgement."
+      }
+    ],
+    "sources": []
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Which is a historical ENQUIRY question?",
+        "options": [
+          "When was the UAE formed?",
+          "Why did Dubai grow so quickly after 1966?",
+          "Who was Mansa Musa?",
+          "What is a century?"
+        ],
+        "answer": 1,
+        "why": "\"Why\" questions need evidence and judgement."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "What does a qualifier do?",
+        "options": [
+          "Adds a date",
+          "Shows the strength of a claim",
+          "Names a source",
+          "Ends a paragraph"
+        ],
+        "answer": 1,
+        "why": "E.g. highly / somewhat / partly."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "Which word sits in the middle of the certainty continuum?",
+        "options": [
+          "Certain",
+          "Likely",
+          "Uncertain",
+          "Impossible"
+        ],
+        "answer": 1,
+        "why": "Certain → very likely → likely → possible → uncertain."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "In the Alphonse story, the final straw is…",
+        "options": [
+          "The most important cause",
+          "The trigger",
+          "A long-term cause",
+          "A consequence"
+        ],
+        "answer": 1,
+        "why": "It sets off the collapse but only matters because of everything already loaded."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Which is an explaining connective?",
+        "options": [
+          "Firstly",
+          "Therefore",
+          "In 1066",
+          "Next"
+        ],
+        "answer": 1,
+        "why": "Therefore explains; firstly and next are time connectives."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "A cause that builds up over many years is…",
+        "options": [
+          "A trigger",
+          "Short-term",
+          "Long-term",
+          "A consequence"
+        ],
+        "answer": 2,
+        "why": "Long-term causes build slowly."
+      },
+      {
+        "id": "m7",
+        "s": "s2",
+        "q": "What triggered the succession crisis of 1066?",
+        "options": [
+          "The Battle of Hastings",
+          "The death of Edward the Confessor",
+          "William landing at Pevensey",
+          "Stamford Bridge"
+        ],
+        "answer": 1,
+        "why": "Edward died in January 1066 without children."
+      },
+      {
+        "id": "m8",
+        "s": "s2",
+        "q": "A consequence is…",
+        "options": [
+          "A cause",
+          "A result of an event",
+          "A type of source",
+          "A date"
+        ],
+        "answer": 1,
+        "why": "Consequence = result."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s2",
+        "q": "What is the immediate cause that sets off an event called?",
+        "accept": [
+          "trigger",
+          "the trigger"
+        ],
+        "answer": "Trigger"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "What is the result of an event called?",
+        "accept": [
+          "consequence",
+          "a consequence"
+        ],
+        "answer": "Consequence"
+      },
+      {
+        "id": "a3",
+        "s": "s1",
+        "q": "Give one word that can begin a good enquiry question.",
+        "accept": [
+          "why",
+          "how far",
+          "how significant",
+          "how certain",
+          "how"
+        ],
+        "answer": "Why / How far / How significant"
+      },
+      {
+        "id": "a4",
+        "s": "s2",
+        "q": "In which month and year did Edward the Confessor die?",
+        "accept": [
+          "january 1066",
+          "jan 1066"
+        ],
+        "answer": "January 1066"
+      },
+      {
+        "id": "a5",
+        "s": "s1",
+        "q": "What do we call a word that shows the strength of a claim?",
+        "accept": [
+          "qualifier",
+          "a qualifier"
+        ],
+        "answer": "Qualifier"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put the events of 1066 in order",
+        "items": [
+          "Edward the Confessor dies",
+          "Harold is crowned",
+          "Battle of Stamford Bridge",
+          "William lands at Pevensey",
+          "Battle of Hastings"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the term to its meaning",
+        "pairs": [
+          [
+            "Trigger",
+            "Immediate cause that sets an event off"
+          ],
+          [
+            "Long-term cause",
+            "Builds up over many years"
+          ],
+          [
+            "Consequence",
+            "A result of an event"
+          ],
+          [
+            "Qualifier",
+            "Shows the strength of a claim"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Using Alphonse the Camel, explain why the final event is not necessarily the most important cause.",
+        "keywords": [
+          [
+            "straw",
+            "last",
+            "final",
+            "trigger"
+          ],
+          [
+            "already",
+            "loaded",
+            "everything else",
+            "build"
+          ]
+        ],
+        "model": "The final straw only made Alphonse collapse because he was already carrying a huge load. Without everything else, the straw would not have mattered, so it was the trigger, not the most important cause."
+      },
+      {
+        "id": "e2",
+        "s": "s1",
+        "q": "Improve this claim using a qualifier and a reason: \"Oil was important for Dubai.\"",
+        "keywords": [
+          [
+            "highly",
+            "very",
+            "extremely",
+            "partly",
+            "somewhat",
+            "significant"
+          ],
+          [
+            "because",
+            "therefore",
+            "this meant"
+          ]
+        ],
+        "model": "The discovery of oil in 1966 was highly significant for Dubai because it provided money to build infrastructure, which meant the city could grow much faster."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Enquiry",
+      "a": "A question that drives historical investigation."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Factual vs enquiry question",
+      "a": "Factual: one simple answer. Enquiry: needs evidence and judgement (why / how far)."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Certainty continuum",
+      "a": "Certain → very likely → likely → possible → uncertain."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Qualifier",
+      "a": "A word showing the strength of a claim, e.g. highly, somewhat, partly."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Trigger",
+      "a": "The immediate cause that sets an event off."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Long-term cause",
+      "a": "A cause building up over years."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Short-term cause",
+      "a": "A cause happening shortly before an event."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Underlying cause",
+      "a": "A deeper condition that made the event possible."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Consequence",
+      "a": "A result of an event."
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "Explaining connectives",
+      "a": "Because, therefore, as a result, as a consequence, this meant that."
+    },
+    {
+      "id": "f11",
+      "s": "s2",
+      "q": "Lesson of Alphonse the Camel",
+      "a": "The final straw is the trigger, not necessarily the most important cause."
+    },
+    {
+      "id": "f12",
+      "s": "s2",
+      "q": "Trigger of the 1066 crisis",
+      "a": "Edward the Confessor dying without children (January 1066)."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe the difference between a factual question and an enquiry question.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe long-term, short-term and trigger causes.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain why the trigger is not always the most important cause.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can use explaining connectives to link causes and consequences.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "explain",
+      "text": "I can use qualifiers to show how certain or how significant something is.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge which cause was most important and justify it.",
+      "sections": [
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "\"The final event is always the most important cause.\" How far do you agree? Use Alphonse the Camel and the events of 1066 in your answer.",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Judge whether triggers matter most, using both the Alphonse model and a real example.",
+        "steps": [
+          "Explain what a trigger is, using Alphonse.",
+          "Explain a deeper cause (e.g. Edward having no children).",
+          "Weigh them using qualifiers and reach a judgement."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking connectives.",
+        "success": [
+          "Uses trigger / long-term correctly",
+          "Precise 1066 evidence",
+          "Explaining connectives",
+          "Qualified judgement"
+        ],
+        "mistakes": [
+          "Retelling the Alphonse story without explaining",
+          "No real historical example",
+          "No judgement"
+        ],
+        "model": [
+          {
+            "t": "I largely disagree, because the final event is usually only the trigger.",
+            "n": "P: qualified claim."
+          },
+          {
+            "t": "Alphonse only collapsed under the final straw because he was already carrying a huge load. Similarly, Edward the Confessor's death in January 1066 triggered a crisis, but the deeper cause was that he had no children.",
+            "n": "E: model plus precise historical evidence."
+          },
+          {
+            "t": "This meant several claimants believed they had a right to the throne, so a crisis was likely whenever Edward died.",
+            "n": "E: explaining connective."
+          },
+          {
+            "t": "Therefore the long-term cause was more important than the trigger.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: I agree / disagree to a large / some extent…",
+            "E: For example, Alphonse… / In 1066…",
+            "E: This meant that… therefore…",
+            "J: Overall, the most important cause was… because…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 8,
+        "q": "Turn this factual question into two good historical enquiry questions: \"When was oil discovered in Dubai?\" Explain why your questions are better.",
+        "sections": [
+          "s1"
+        ],
+        "asks": "Write two enquiry questions (why / how far / how significant) and explain what makes them better.",
+        "steps": [
+          "Use a different enquiry stem for each.",
+          "Explain what evidence each would need.",
+          "Explain why each needs a judgement."
+        ],
+        "plan": "2 minutes drafting questions, 5 minutes explaining, 1 minute checking.",
+        "success": [
+          "Two genuine enquiry questions",
+          "Explains why they need evidence and judgement"
+        ],
+        "mistakes": [
+          "Writing another \"when\" question",
+          "Not explaining"
+        ],
+        "frame": {
+          "full": [
+            "Question 1: How significant…?",
+            "This is better because…",
+            "Question 2: Why…?",
+            "This is better because…"
+          ],
+          "some": [
+            "Two questions + why each is better"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Too uncertain?",
+      "task": "Can a question ever be too uncertain to be worth asking? Explain with an example."
+    },
+    {
+      "id": "t2",
+      "kind": "Necessary causes",
+      "task": "Which cause was necessary, rather than simply important? What is the difference?"
+    },
+    {
+      "id": "t3",
+      "kind": "Cause map",
+      "task": "Draw a cause map for one event you know, with long-term, short-term and trigger causes linked by arrows. Label each arrow with a connective."
+    },
+    {
+      "id": "t4",
+      "kind": "Counterfactual",
+      "task": "If Edward the Confessor had had a son, would 1066 still have been a crisis? Explain your reasoning."
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: ranking causes",
+    "rows": [
+      "Long-term cause",
+      "Short-term cause",
+      "Trigger"
+    ],
+    "cols": [
+      "Precise evidence",
+      "How it led to the event",
+      "Most / quite / least important"
+    ],
+    "judgement": "The most important cause was … because … This meant that … Therefore …"
+  }
+}

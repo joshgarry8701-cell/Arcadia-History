@@ -1,0 +1,717 @@
+{
+  "id": "y8-af-3",
+  "course": "y8",
+  "area": "afr",
+  "order": 8,
+  "kt": "Free or enslaved?",
+  "title": "Free or enslaved? Status, experience and memory",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Were Africans in Tudor England free or enslaved? What were their lives like? And did Elizabeth I really try to expel them? This topic weighs the evidence and the interpretations of historians.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Free or enslaved?",
+        "blocks": [
+          {
+            "p": "English law in the 16th century did not clearly recognise slavery. The evidence suggests most Africans in Tudor England were treated as free people:"
+          },
+          {
+            "ul": [
+              "They were paid wages (John Blanke, Jacques Francis, Diego).",
+              "They were baptised, married and buried in parish churches (Mary Fillis, John Blanke).",
+              "They could give evidence in court (Jacques Francis, 1548)."
+            ]
+          },
+          {
+            "p": "In the 1580s the Portuguese doctor Hector Nunes complained to the Court of Requests that an African man he had bought refused to serve him, and that he had no remedy under English common law. The Pearson GCSE Migrants course uses this petition as evidence about African freedom in Tudor England."
+          },
+          {
+            "p": "This did not mean equality. Africans usually worked as servants, and words like \"blackamoore\" could carry negative ideas. At the same time, Englishmen such as John Hawkins began slave-trading voyages from 1562, taking Africans to Spanish America, not England."
+          }
+        ],
+        "terms": [
+          "status",
+          "common law",
+          "Hector Nunes",
+          "Court of Requests",
+          "John Hawkins"
+        ],
+        "evidence": [
+          "Francis gave evidence in 1548.",
+          "Hawkins' first slave-trading voyage: 1562."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Experiences of everyday life",
+        "blocks": [
+          {
+            "p": "Black Tudors worked in many jobs: musicians, divers, sailors, servants, seamstresses and silk weavers. Onyeka argues many were employed for specialist skills; Kaufmann shows them in households from the royal court to villages."
+          },
+          {
+            "p": "Many were baptised and married English partners, which suggests they were part of local communities rather than separate from them. Others, like Diego, lived mobile lives at sea."
+          },
+          {
+            "p": "Experiences varied by class, gender, job and place, just as they did for other Tudor people."
+          }
+        ],
+        "terms": [
+          "experience",
+          "community",
+          "integration",
+          "occupation"
+        ],
+        "evidence": [
+          "Jobs: musicians, divers, sailors, servants, seamstresses, silk weavers."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. The 1596 \"expulsion\" myth",
+        "blocks": [
+          {
+            "p": "On 18 July 1596 the Privy Council issued an open letter allowing Caspar van Senden, a merchant from Lübeck, to take \"Blackamoores\" from England to Spain and Portugal, but only with their masters' consent."
+          },
+          {
+            "p": "Masters refused, so van Senden got nothing. A harsher draft proclamation from 1601 survives among Robert Cecil's papers, but it was never issued."
+          },
+          {
+            "p": "Kaufmann argues this was a failed business deal with one merchant, not a deportation, and Africans stayed in England. The claim that \"Elizabeth I expelled all Black people\" is a myth that was repeated for years."
+          },
+          {
+            "p": "How we remember Black Tudors matters. Their stories show that Black British history did not begin in the 20th century."
+          }
+        ],
+        "terms": [
+          "Privy Council",
+          "Caspar van Senden",
+          "proclamation",
+          "myth",
+          "interpretation"
+        ],
+        "evidence": [
+          "Open letter: 18 July 1596.",
+          "1601 draft proclamation: never issued."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1548",
+        "event": "Jacques Francis gives evidence in the High Court of Admiralty."
+      },
+      {
+        "date": "1562",
+        "event": "John Hawkins begins English slave-trading voyages to Spanish America."
+      },
+      {
+        "date": "1580s",
+        "event": "Hector Nunes complains to the Court of Requests that he cannot force an African man to serve him."
+      },
+      {
+        "date": "1596",
+        "event": "Privy Council open letter to Caspar van Senden (18 July)."
+      },
+      {
+        "date": "1597",
+        "event": "Mary Fillis is baptised."
+      },
+      {
+        "date": "1601",
+        "event": "A harsher draft proclamation is written but never issued."
+      }
+    ],
+    "people": [
+      {
+        "name": "Hector Nunes",
+        "role": "Portuguese doctor in London whose petition shows the limits of slavery in English law."
+      },
+      {
+        "name": "Caspar van Senden",
+        "role": "Lübeck merchant who tried to take Africans out of England in 1596."
+      },
+      {
+        "name": "John Hawkins",
+        "role": "English sea captain who began slave-trading voyages in 1562."
+      },
+      {
+        "name": "Miranda Kaufmann",
+        "role": "Historian who showed the 1596 \"expulsion\" never happened."
+      },
+      {
+        "name": "Onyeka Nubia",
+        "role": "Historian who argues Africans were valued for their skills."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Status",
+        "def": "A person's position in society."
+      },
+      {
+        "term": "Common law",
+        "def": "English law based on court decisions and custom."
+      },
+      {
+        "term": "Privy Council",
+        "def": "The monarch's closest advisers."
+      },
+      {
+        "term": "Proclamation",
+        "def": "An official public announcement by the monarch."
+      },
+      {
+        "term": "Deportation",
+        "def": "Forcing people to leave a country."
+      },
+      {
+        "term": "Myth",
+        "def": "A widely believed idea that is not true."
+      },
+      {
+        "term": "Integration",
+        "def": "Becoming part of a community."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Elizabeth I expelled Africans in 1596 and 1601.",
+        "right": "The 1596 letter needed masters' consent and failed; the 1601 draft was never issued."
+      },
+      {
+        "wrong": "Free meant equal.",
+        "right": "Most Africans were servants, and prejudiced ideas existed."
+      },
+      {
+        "wrong": "England had no link to slavery in the Tudor period.",
+        "right": "John Hawkins began English slave-trading voyages in 1562."
+      },
+      {
+        "wrong": "Black Tudors lived separately from English people.",
+        "right": "Many were baptised, married and buried in local parishes."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kaufmann",
+        "title": "Miranda Kaufmann, \"Black Tudors: The Untold Story\" (2017)",
+        "type": "Historian's interpretation (book)",
+        "date": "2017",
+        "origin": "Written by a historian who researched records such as parish registers, court cases and royal accounts.",
+        "purpose": "To tell the life stories of ten Africans in Tudor and Stuart England.",
+        "usefulness": "Built from named individuals in archives. Kaufmann has documented over 360 Africans in Britain between 1500 and 1640. Each life is known only from the records that survive."
+      },
+      {
+        "id": "onyeka",
+        "title": "Onyeka Nubia, \"Blackamoores: Africans in Tudor England, their Presence, Status and Origins\" (2013)",
+        "type": "Historian's interpretation (book)",
+        "date": "2013",
+        "origin": "Written by a British historian after about ten years studying around 250,000 documents.",
+        "purpose": "To show that Africans were present across Tudor England and to challenge the idea that they were all slaves or outsiders.",
+        "usefulness": "Argues many Africans had valued skills and that a significant minority were born in England. Like any interpretation, its arguments should be weighed against the evidence."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Which evidence suggests Africans were usually free in Tudor England?",
+        "options": [
+          "They were never recorded",
+          "They were paid wages, baptised and could give evidence in court",
+          "They all lived at court",
+          "They could not marry"
+        ],
+        "answer": 1,
+        "why": "Wages, baptism, court."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "What did Hector Nunes complain about?",
+        "options": [
+          "His wages",
+          "An African man he had bought refused to serve him and he had no remedy in English common law",
+          "Drake's voyage",
+          "The Mary Rose"
+        ],
+        "answer": 1,
+        "why": "Limits of slavery in English law."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "Which Englishman began slave-trading voyages in 1562?",
+        "options": [
+          "Francis Drake",
+          "John Hawkins",
+          "Walter Raleigh",
+          "Robert Cecil"
+        ],
+        "answer": 1,
+        "why": "To Spanish America."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "Which job did Black Tudors NOT appear in, according to these records?",
+        "options": [
+          "Musician",
+          "Diver",
+          "Seamstress",
+          "Archbishop"
+        ],
+        "answer": 3,
+        "why": "Musician, diver, sailor, servant, seamstress, silk weaver."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "What does marriage and baptism in local parishes suggest?",
+        "options": [
+          "They lived separately",
+          "They were part of local communities",
+          "They were all enslaved",
+          "They were visitors"
+        ],
+        "answer": 1,
+        "why": "Integration."
+      },
+      {
+        "id": "m6",
+        "s": "s3",
+        "q": "What did the 1596 open letter require before Africans could be taken?",
+        "options": [
+          "The Pope's approval",
+          "Their masters' consent",
+          "Payment to the Queen",
+          "Nothing"
+        ],
+        "answer": 1,
+        "why": "So it failed."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "What happened to the 1601 draft proclamation?",
+        "options": [
+          "It deported everyone",
+          "It was never issued",
+          "It became law",
+          "It was burned"
+        ],
+        "answer": 1,
+        "why": "Only a draft survives."
+      },
+      {
+        "id": "m8",
+        "s": "s3",
+        "q": "Kaufmann describes the 1596 scheme as…",
+        "options": [
+          "A mass deportation",
+          "A failed deal with one merchant",
+          "A royal wedding",
+          "A trade treaty with Morocco"
+        ],
+        "answer": 1,
+        "why": "Not a deportation."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s3",
+        "q": "Which merchant was linked to the 1596 scheme?",
+        "accept": [
+          "caspar van senden",
+          "van senden"
+        ],
+        "answer": "Caspar van Senden"
+      },
+      {
+        "id": "a2",
+        "s": "s3",
+        "q": "Was the 1601 proclamation ever issued?",
+        "accept": [
+          "no"
+        ],
+        "answer": "No"
+      },
+      {
+        "id": "a3",
+        "s": "s1",
+        "q": "In which year did Hawkins begin slave-trading voyages?",
+        "accept": [
+          "1562"
+        ],
+        "answer": "1562"
+      },
+      {
+        "id": "a4",
+        "s": "s1",
+        "q": "Which doctor petitioned the Court of Requests about an African servant?",
+        "accept": [
+          "hector nunes",
+          "nunes"
+        ],
+        "answer": "Hector Nunes"
+      },
+      {
+        "id": "a5",
+        "s": "s3",
+        "q": "What is a widely believed idea that is not true called?",
+        "accept": [
+          "myth",
+          "a myth"
+        ],
+        "answer": "Myth"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Francis gives evidence in court",
+          "Hawkins begins slave-trading voyages",
+          "Nunes petition",
+          "Privy Council letter to van Senden",
+          "Fillis baptised",
+          "Draft proclamation (never issued)"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the evidence to what it shows",
+        "pairs": [
+          [
+            "Wages paid to Blanke and Francis",
+            "Africans could be paid workers"
+          ],
+          [
+            "Francis's testimony accepted",
+            "Africans could give evidence in court"
+          ],
+          [
+            "Nunes's petition",
+            "English law did not enforce slavery"
+          ],
+          [
+            "Van Senden's failure",
+            "Africans were not expelled"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Give two pieces of evidence that Africans in Tudor England were usually treated as free.",
+        "keywords": [
+          [
+            "wages",
+            "paid",
+            "8d",
+            "contract"
+          ],
+          [
+            "baptised",
+            "court",
+            "evidence",
+            "testimony",
+            "nunes",
+            "married"
+          ]
+        ],
+        "model": "John Blanke was paid wages of 8d a day, and Jacques Francis gave evidence in court in 1548, which only free people were normally trusted to do."
+      },
+      {
+        "id": "e2",
+        "s": "s3",
+        "q": "Explain why historians reject the idea that Elizabeth I expelled Africans.",
+        "keywords": [
+          [
+            "consent",
+            "masters",
+            "failed",
+            "van senden"
+          ],
+          [
+            "1601",
+            "never issued",
+            "draft",
+            "stayed"
+          ]
+        ],
+        "model": "The 1596 letter needed masters' consent, which they refused, so van Senden failed; the 1601 proclamation was only a draft that was never issued, and Africans stayed in England."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Free or enslaved?",
+      "a": "Most evidence suggests Africans were treated as free: wages, baptism, court."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Hector Nunes",
+      "a": "1580s petition: could not force an African man to serve him under English law."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "John Hawkins",
+      "a": "Began English slave-trading voyages in 1562."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Free ≠ equal",
+      "a": "Most were servants; prejudice existed."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Black Tudor jobs",
+      "a": "Musicians, divers, sailors, servants, seamstresses, silk weavers."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Integration evidence",
+      "a": "Baptisms and marriages in local parishes."
+    },
+    {
+      "id": "f7",
+      "s": "s3",
+      "q": "1596 open letter",
+      "a": "18 July 1596: van Senden could take Africans only with masters' consent."
+    },
+    {
+      "id": "f8",
+      "s": "s3",
+      "q": "1601 proclamation",
+      "a": "A draft only; never issued."
+    },
+    {
+      "id": "f9",
+      "s": "s3",
+      "q": "Kaufmann on 1596",
+      "a": "A failed deal, not a deportation."
+    },
+    {
+      "id": "f10",
+      "s": "s3",
+      "q": "Why memory matters",
+      "a": "Black British history did not begin in the 20th century."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe evidence about the status of Africans in Tudor England.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe the jobs and everyday lives of Black Tudors.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain why the 1596 \"expulsion\" is a myth.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain how Onyeka and Kaufmann interpret Black Tudor lives.",
+      "sections": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge whether Africans in Tudor England were free.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge how Black Tudors should be remembered today.",
+      "sections": [
+        "s3"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "\"Africans in Tudor England were free.\" How far do you agree?",
+        "sections": [
+          "s1",
+          "s2"
+        ],
+        "asks": "Weigh evidence of freedom against evidence of limits and inequality, and reach a judgement.",
+        "steps": [
+          "Evidence of freedom (wages, baptism, court, Nunes).",
+          "Evidence of limits (servants, prejudice, slave trade abroad).",
+          "Judge with a qualifier."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified judgement",
+          "Named evidence both ways",
+          "Distinguishes free from equal"
+        ],
+        "mistakes": [
+          "Saying all were slaves",
+          "Ignoring limits"
+        ],
+        "model": [
+          {
+            "t": "I largely agree that Africans in Tudor England were free, although they were not treated as equals.",
+            "n": "P: qualified."
+          },
+          {
+            "t": "Jacques Francis gave evidence in the High Court of Admiralty in 1548, and in the 1580s Hector Nunes complained that English law gave him no way to force an African man to serve him.",
+            "n": "E: precise."
+          },
+          {
+            "t": "This suggests English law did not enforce slavery, so Africans could work for wages and use the courts; however, most worked as servants and faced prejudiced language such as \"blackamoore\".",
+            "n": "E: explains both sides."
+          },
+          {
+            "t": "Therefore they were legally free to a large extent, but their freedom had real social limits.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: I agree to a large / some extent that Africans were free…",
+            "E: For example, … in …",
+            "E: This suggests that… However…",
+            "J: Therefore, overall…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 10,
+        "q": "Explain why the claim that Elizabeth I expelled Africans from England is a myth.",
+        "sections": [
+          "s3"
+        ],
+        "asks": "Explain what the 1596 letter and 1601 draft actually were, and what happened.",
+        "steps": [
+          "Explain the 1596 letter and its condition.",
+          "Explain the 1601 draft.",
+          "Explain what happened to Africans afterwards."
+        ],
+        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
+        "success": [
+          "Accurate dates",
+          "Explains the consent condition",
+          "Notes Africans stayed"
+        ],
+        "mistakes": [
+          "Repeating the myth",
+          "Confusing the two documents"
+        ],
+        "frame": {
+          "full": [
+            "P: The claim is a myth because…",
+            "E: The 1596 letter… only with…",
+            "E: This meant that… The 1601 draft…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Why do myths spread?",
+      "task": "The expulsion myth was repeated in books and lessons for years. Why do myths like this spread, and how can historians correct them?"
+    },
+    {
+      "id": "t2",
+      "kind": "Free but not equal",
+      "task": "Explain the difference between being legally free and being treated equally, using Tudor evidence."
+    },
+    {
+      "id": "t3",
+      "kind": "Hawkins and the Tudors",
+      "task": "How can England have had free Africans at home while Englishmen like Hawkins traded enslaved Africans abroad?"
+    },
+    {
+      "id": "t4",
+      "kind": "Memorial",
+      "task": "Design a memorial plaque for one Black Tudor. What would you include, and what would you leave out because the evidence is uncertain?"
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: were Africans free?",
+    "rows": [
+      "Wages",
+      "Baptism and marriage",
+      "Court evidence",
+      "Nunes petition",
+      "Limits and prejudice"
+    ],
+    "cols": [
+      "Named evidence",
+      "Free or limited?"
+    ],
+    "judgement": "Africans in Tudor England were … free because …"
+  }
+}

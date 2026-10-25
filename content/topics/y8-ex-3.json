@@ -1,0 +1,707 @@
+{
+  "id": "y8-ex-3",
+  "course": "y8",
+  "area": "exp",
+  "order": 3,
+  "kt": "Lessons 6–7",
+  "title": "Columbus and the Columbian Exchange",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "In 1492 Christopher Columbus reached the Caribbean. Was he a great explorer or an invader? And what changed after 1492, and for whom? This topic puts Columbus on trial and examines the Columbian Exchange.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Columbus on trial",
+        "blocks": [
+          {
+            "p": "In October 1492 Columbus, sailing for Spain, reached islands in the Caribbean (probably the Bahamas, then Cuba and Hispaniola), believing he was near Asia. He made three more voyages (1493, 1498, 1502)."
+          },
+          {
+            "p": "The islands were home to the Taíno people, with their own societies, farming (including cassava), religion and trade. They were not an empty land."
+          },
+          {
+            "p": "Columbus's journal, which survives through later copies, shows curiosity about the Taíno but also an intention to take control: he noted they could easily be conquered and made to work. He set up Spanish settlements, took Taíno captives to Spain and began forced labour, later formalised as the encomienda system. With disease and violence, this devastated the Taíno within decades."
+          },
+          {
+            "p": "Historians can hold two ideas at once: Columbus was a skilled navigator, and his arrival began a violent colonial process. We have no written sources by the Taíno from 1492, so their history survives through archaeology, oral tradition and Spanish accounts. That gap is itself a lesson about whose voices survive."
+          }
+        ],
+        "terms": [
+          "Taíno",
+          "encounter",
+          "invader",
+          "encomienda",
+          "perspective"
+        ],
+        "evidence": [
+          "Columbus reached the Caribbean in October 1492.",
+          "Voyages: 1492, 1493, 1498, 1502."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. The Columbian Exchange",
+        "blocks": [
+          {
+            "p": "The \"Columbian Exchange\", a term coined by the historian Alfred Crosby in 1972, describes the huge transfer of plants, animals, people, diseases and ideas between the Americas and Afro-Eurasia after 1492."
+          },
+          {
+            "ul": [
+              "From the Americas: maize, potatoes, tomatoes, cacao and chilli peppers, which changed diets across Europe, Africa and Asia.",
+              "To the Americas: wheat, sugar, coffee, and animals such as horses, cattle and pigs. Horses reshaped many Plains societies.",
+              "Disease: smallpox, measles and influenza, to which Indigenous Americans had no immunity."
+            ]
+          },
+          {
+            "p": "Historians estimate that Indigenous populations in parts of the Americas fell by 80–90% within about a century of contact, caused mostly by disease, made worse by violence, forced labour and displacement."
+          },
+          {
+            "p": "The exchange was not equal. Europe gained new foods and wealth; Indigenous Americans faced catastrophe. That is why \"discovery\" is contested: for the millions already living in the Americas, 1492 was the start of invasion and disease."
+          }
+        ],
+        "terms": [
+          "Columbian Exchange",
+          "epidemic",
+          "Indigenous",
+          "immunity"
+        ],
+        "evidence": [
+          "Crosby coined \"Columbian Exchange\" in 1972.",
+          "Indigenous populations fell by an estimated 80–90% in parts of the Americas."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1492",
+        "event": "Columbus reaches the Caribbean and meets the Taíno."
+      },
+      {
+        "date": "1493",
+        "event": "Columbus's second voyage sets up Spanish settlement on Hispaniola."
+      },
+      {
+        "date": "1498",
+        "event": "Columbus's third voyage."
+      },
+      {
+        "date": "1502",
+        "event": "Columbus's fourth and final voyage."
+      },
+      {
+        "date": "1500s",
+        "event": "Smallpox and other diseases devastate Indigenous populations."
+      },
+      {
+        "date": "1972",
+        "event": "Historian Alfred Crosby coins the term \"Columbian Exchange\"."
+      }
+    ],
+    "people": [
+      {
+        "name": "Christopher Columbus",
+        "role": "Navigator sailing for Spain; reached the Caribbean in 1492."
+      },
+      {
+        "name": "The Taíno",
+        "role": "Indigenous people of the Caribbean islands Columbus reached."
+      },
+      {
+        "name": "Alfred Crosby",
+        "role": "Historian who coined \"Columbian Exchange\" in 1972."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Taíno",
+        "def": "Indigenous people Columbus encountered in the Caribbean in 1492."
+      },
+      {
+        "term": "Invader",
+        "def": "Someone who enters a place by force to take control."
+      },
+      {
+        "term": "Encounter",
+        "def": "A meeting, often unplanned or between strangers."
+      },
+      {
+        "term": "Columbian Exchange",
+        "def": "Transfer of plants, animals, people and diseases between the Americas and the rest of the world after 1492."
+      },
+      {
+        "term": "Epidemic",
+        "def": "A rapid, widespread outbreak of disease."
+      },
+      {
+        "term": "Indigenous",
+        "def": "Originating in and native to a particular place."
+      },
+      {
+        "term": "Encomienda",
+        "def": "Spanish system of forced Indigenous labour."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Columbus discovered an empty land.",
+        "right": "The Taíno and many other peoples already lived there."
+      },
+      {
+        "wrong": "Most Indigenous deaths were from Spanish weapons.",
+        "right": "Disease caused most deaths, worsened by violence and forced labour."
+      },
+      {
+        "wrong": "The exchange benefited everyone equally.",
+        "right": "Europe gained greatly; Indigenous Americans suffered catastrophe."
+      },
+      {
+        "wrong": "We have the Taíno's own written account of 1492.",
+        "right": "No Taíno-written sources survive; we rely on archaeology, oral tradition and Spanish accounts."
+      }
+    ],
+    "sources": [
+      {
+        "id": "journal",
+        "title": "Columbus's journal of the first voyage",
+        "type": "Written account",
+        "date": "1492–93 (survives in a later summary)",
+        "origin": "Columbus's log, known mainly through a summary by the friar Bartolomé de las Casas.",
+        "purpose": "A record for the Spanish monarchs who funded him.",
+        "usefulness": "Shows Columbus's intentions and first impressions. It is filtered through a later copyist and written to impress his sponsors."
+      },
+      {
+        "id": "zemi",
+        "title": "Taíno zemi carving",
+        "type": "Religious object (physical source)",
+        "date": "Before 1492",
+        "origin": "Made by Taíno people; examples are held in museums such as the British Museum.",
+        "purpose": "Represented spirits or ancestors in Taíno religion.",
+        "usefulness": "Direct evidence of Taíno beliefs and craft, from their own hands rather than Spanish writing."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Who lived on the Caribbean islands Columbus reached?",
+        "options": [
+          "The Mexica",
+          "The Taíno",
+          "The Inca",
+          "Nobody"
+        ],
+        "answer": 1,
+        "why": "The Taíno."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Where did Columbus believe he had arrived?",
+        "options": [
+          "Africa",
+          "Islands near Asia",
+          "Europe",
+          "Australia"
+        ],
+        "answer": 1,
+        "why": "He thought he was near Asia."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "Why must historians be careful with Columbus's journal?",
+        "options": [
+          "It is fiction",
+          "It survives through a later summary and was written for his sponsors",
+          "It is in Chinese",
+          "It was written in 1972"
+        ],
+        "answer": 1,
+        "why": "Provenance matters."
+      },
+      {
+        "id": "m4",
+        "s": "s1",
+        "q": "Why do we lack Taíno written sources from 1492?",
+        "options": [
+          "They were all lost in a fire",
+          "Their history survives mainly through archaeology, oral tradition and Spanish accounts",
+          "They lived after 1492",
+          "They refused to meet Columbus"
+        ],
+        "answer": 1,
+        "why": "Whose voices survive is itself a historical question."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Who coined the term \"Columbian Exchange\"?",
+        "options": [
+          "Columbus",
+          "Alfred Crosby",
+          "Zheng He",
+          "Las Casas"
+        ],
+        "answer": 1,
+        "why": "Crosby, 1972."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Which crop came FROM the Americas?",
+        "options": [
+          "Wheat",
+          "Sugar",
+          "Potatoes",
+          "Coffee"
+        ],
+        "answer": 2,
+        "why": "Potatoes, maize, tomatoes, cacao, chillies."
+      },
+      {
+        "id": "m7",
+        "s": "s2",
+        "q": "What caused most Indigenous deaths after 1492?",
+        "options": [
+          "Earthquakes",
+          "Disease",
+          "Famine only",
+          "Volcanoes"
+        ],
+        "answer": 1,
+        "why": "Disease, worsened by violence and forced labour."
+      },
+      {
+        "id": "m8",
+        "s": "s2",
+        "q": "By roughly how much did Indigenous populations fall in parts of the Americas within a century?",
+        "options": [
+          "10–20%",
+          "30–40%",
+          "80–90%",
+          "They grew"
+        ],
+        "answer": 2,
+        "why": "An estimated 80–90%."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "In what year did Columbus first reach the Caribbean?",
+        "accept": [
+          "1492"
+        ],
+        "answer": "1492"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "Name the Indigenous people Columbus met in 1492.",
+        "accept": [
+          "taino",
+          "taíno",
+          "the taino",
+          "the taíno"
+        ],
+        "answer": "The Taíno"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "Name one crop that went from the Americas to the rest of the world.",
+        "accept": [
+          "maize",
+          "potato",
+          "potatoes",
+          "tomato",
+          "tomatoes",
+          "cacao",
+          "chilli",
+          "chili",
+          "chillies"
+        ],
+        "answer": "Maize / potatoes / tomatoes / cacao / chillies"
+      },
+      {
+        "id": "a4",
+        "s": "s2",
+        "q": "Name one animal taken to the Americas.",
+        "accept": [
+          "horse",
+          "horses",
+          "cattle",
+          "pigs",
+          "pig",
+          "cows"
+        ],
+        "answer": "Horses / cattle / pigs"
+      },
+      {
+        "id": "a5",
+        "s": "s2",
+        "q": "What word means a rapid, widespread outbreak of disease?",
+        "accept": [
+          "epidemic",
+          "an epidemic"
+        ],
+        "answer": "Epidemic"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Columbus reaches the Caribbean",
+          "Second voyage: settlement on Hispaniola",
+          "Third voyage",
+          "Fourth voyage",
+          "Crosby coins \"Columbian Exchange\""
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Which way did it travel?",
+        "pairs": [
+          [
+            "Potatoes",
+            "From the Americas"
+          ],
+          [
+            "Horses",
+            "To the Americas"
+          ],
+          [
+            "Smallpox",
+            "To the Americas (disease)"
+          ],
+          [
+            "Cacao",
+            "From the Americas (food)"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Give evidence that the Caribbean was not an empty land in 1492.",
+        "keywords": [
+          [
+            "taino",
+            "taíno"
+          ],
+          [
+            "farming",
+            "cassava",
+            "religion",
+            "trade",
+            "zemi",
+            "societies"
+          ]
+        ],
+        "model": "The Taíno already lived there, with their own farming (including cassava), religion and trade, shown by objects such as zemi carvings."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Explain why the Columbian Exchange was not equal.",
+        "keywords": [
+          [
+            "europe",
+            "european",
+            "diet",
+            "wealth",
+            "food"
+          ],
+          [
+            "disease",
+            "smallpox",
+            "population",
+            "80",
+            "90",
+            "indigenous"
+          ]
+        ],
+        "model": "Europe gained new foods and wealth, but Indigenous Americans suffered population falls of an estimated 80–90% in some areas, mostly from diseases such as smallpox."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Columbus's first arrival",
+      "a": "October 1492, in the Caribbean."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Taíno",
+      "a": "Indigenous Caribbean people Columbus encountered."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Encomienda",
+      "a": "Spanish forced labour system."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Columbus's four voyages",
+      "a": "1492, 1493, 1498, 1502."
+    },
+    {
+      "id": "f5",
+      "s": "s1",
+      "q": "Explorer or invader?",
+      "a": "Historians can hold both: skilled navigator AND start of violent colonisation."
+    },
+    {
+      "id": "f6",
+      "s": "s1",
+      "q": "Missing voices",
+      "a": "No Taíno-written sources survive from 1492."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Columbian Exchange",
+      "a": "Transfer of plants, animals, people, diseases after 1492 (term: Crosby, 1972)."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "From the Americas",
+      "a": "Maize, potatoes, tomatoes, cacao, chillies."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "To the Americas",
+      "a": "Wheat, sugar, coffee, horses, cattle, pigs."
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "Main killer after 1492",
+      "a": "Disease, especially smallpox."
+    },
+    {
+      "id": "f11",
+      "s": "s2",
+      "q": "Population fall",
+      "a": "An estimated 80–90% in parts of the Americas within a century."
+    },
+    {
+      "id": "f12",
+      "s": "s2",
+      "q": "Why \"encounter\" not \"discovery\"?",
+      "a": "The Americas were already home to millions of people."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe what happened when Columbus reached the Caribbean in 1492.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe the Columbian Exchange with examples in both directions.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain why we lack Taíno-written sources and why that matters.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain why disease caused such huge population losses.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge whether Columbus should be remembered as an explorer or an invader.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge who gained and who lost from the Columbian Exchange.",
+      "sections": [
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "Christopher Columbus: explorer or invader? Reach a judgement.",
+        "sections": [
+          "s1"
+        ],
+        "asks": "Weigh Columbus as a skilled navigator against Columbus as the start of colonisation, and reach a qualified judgement.",
+        "steps": [
+          "Give evidence for \"explorer\".",
+          "Give evidence for \"invader\".",
+          "Decide, using a qualifier; you can argue he was both."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Precise evidence for both",
+          "Considers Taíno perspective",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Pure celebration or pure condemnation with no evidence",
+          "Saying he \"discovered\" an empty land"
+        ],
+        "model": [
+          {
+            "t": "Columbus is better described as an invader than simply an explorer, although he was both.",
+            "n": "P: qualified."
+          },
+          {
+            "t": "He was a skilled navigator who crossed the Atlantic in 1492, but his own journal noted that the Taíno could easily be conquered and made to work.",
+            "n": "E: precise, both sides."
+          },
+          {
+            "t": "This meant his arrival began forced labour and Spanish settlement, which, with disease, devastated the Taíno within decades.",
+            "n": "E: explains consequences."
+          },
+          {
+            "t": "Therefore, from the Taíno perspective especially, \"invader\" is the more accurate description.",
+            "n": "J: judgement with perspective."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: Columbus was mainly an explorer / invader, to a large / some extent, because…",
+            "E: For example, in 1492…",
+            "E: This meant that… However…",
+            "J: Therefore, overall…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 10,
+        "q": "Explain two consequences of the Columbian Exchange.",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Explain two different consequences, each with precise evidence.",
+        "steps": [
+          "Pick two consequences (e.g. new diets; disease and population collapse).",
+          "Give precise examples.",
+          "Explain who was affected and how."
+        ],
+        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
+        "success": [
+          "Two consequences",
+          "Precise examples",
+          "Explains effects"
+        ],
+        "mistakes": [
+          "Only listing crops",
+          "Ignoring disease"
+        ],
+        "frame": {
+          "full": [
+            "P: One consequence was…",
+            "E: For example…",
+            "E: This meant that…",
+            "J: A second consequence… Overall, the most serious was…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Both at once",
+      "task": "Can someone be both a skilled, significant navigator AND the person who began a violent process of colonisation? Does one cancel out the other?"
+    },
+    {
+      "id": "t2",
+      "kind": "Responsibility",
+      "task": "If disease, not weapons, caused most Indigenous deaths, does that change how we judge the moral responsibility of explorers and settlers?"
+    },
+    {
+      "id": "t3",
+      "kind": "Missing voices",
+      "task": "How can historians reconstruct the Taíno experience without Taíno-written sources?"
+    },
+    {
+      "id": "t4",
+      "kind": "Trial",
+      "task": "Write the prosecution and defence opening statements for \"Columbus on Trial\"."
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: explorer or invader?",
+    "rows": [
+      "Explorer",
+      "Invader"
+    ],
+    "cols": [
+      "Precise evidence",
+      "Whose perspective?",
+      "How convincing?"
+    ],
+    "judgement": "Columbus should be remembered mainly as … because …"
+  }
+}

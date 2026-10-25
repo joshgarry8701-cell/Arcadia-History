@@ -1,0 +1,708 @@
+{
+  "id": "y8-ex-1",
+  "course": "y8",
+  "area": "exp",
+  "order": 1,
+  "kt": "Lessons 1–2",
+  "title": "A world already connected",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "The years around 1400–1600 are often called the \"Age of Exploration\". But long before Columbus sailed in 1492, travellers like Ibn Battuta and Zheng He crossed huge distances, and great trade networks already linked Africa, Asia and Europe. Was there really an \"Age of Exploration\"?",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Travellers before Columbus",
+        "blocks": [
+          {
+            "p": "Ibn Battuta, a scholar from Morocco (1304–c.1368), travelled roughly 120,000 km across North and West Africa, the Middle East, India and China, further than most European explorers who came after him. His travel account is known as the Rihla."
+          },
+          {
+            "p": "Zheng He, an admiral of Ming China (1371–1433), commanded seven huge naval expeditions between 1405 and 1433 across the Indian Ocean to Southeast Asia, India, Arabia and East Africa. His largest \"treasure ships\" were far bigger than anything Europe built for another century."
+          },
+          {
+            "p": "China chose to end these voyages in the 1430s for political and economic reasons, not because it lacked the ability to continue."
+          },
+          {
+            "p": "So by 1492, long-distance travel was well established, just not by Europeans and not across the Atlantic."
+          }
+        ],
+        "terms": [
+          "Ibn Battuta",
+          "Rihla",
+          "Zheng He",
+          "treasure ships",
+          "voyage"
+        ],
+        "evidence": [
+          "Ibn Battuta travelled about 120,000 km.",
+          "Zheng He led seven expeditions, 1405–1433."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. A world already connected",
+        "blocks": [
+          {
+            "p": "Four great networks linked much of Africa and Eurasia before 1492:"
+          },
+          {
+            "ul": [
+              "The Silk Roads: overland and sea routes between China, Central Asia, the Middle East and Europe.",
+              "The Indian Ocean trade world: East Africa, Arabia, India, Southeast Asia and China, sailing with the predictable monsoon winds.",
+              "Trans-Saharan routes: West Africa to North Africa, trading especially gold and salt.",
+              "Arabian and Red Sea routes linking these systems together."
+            ]
+          },
+          {
+            "p": "West African empires (Ghana, then Mali, then Songhay) grew rich on trans-Saharan trade. Mansa Musa of Mali's 1324 pilgrimage to Mecca was so lavish that it disrupted gold prices in Cairo."
+          },
+          {
+            "p": "Port cities such as Kilwa (East Africa), Calicut (India), Malacca (Southeast Asia) and Hormuz (Persian Gulf) were busy, cosmopolitan hubs. Arab, Persian, Gujarati and Chinese merchants dominated Indian Ocean trade for centuries before Vasco da Gama arrived in 1498."
+          }
+        ],
+        "terms": [
+          "trade network",
+          "Silk Roads",
+          "Indian Ocean",
+          "trans-Saharan",
+          "monsoon",
+          "commodity"
+        ],
+        "evidence": [
+          "Mansa Musa's pilgrimage: 1324.",
+          "Kilwa, Calicut, Malacca and Hormuz were major ports."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Is \"Age of Exploration\" a fair name?",
+        "blocks": [
+          {
+            "p": "Periodisation means how historians divide the past into named ages. \"Age of Exploration\" names the period after Europeans began travelling further, treating earlier non-European voyages as background. That is a Eurocentric framing: it sees world history mainly from Europe's point of view."
+          },
+          {
+            "p": "The label is not useless: European Atlantic and Indian Ocean voyages after 1492 did change the world dramatically. But \"discovery\" language is contested, because places Europeans \"discovered\" were usually already known to, and lived in by, other peoples. In this unit we use \"encounter\" or \"arrival\" more often than \"discovery\"."
+          }
+        ],
+        "terms": [
+          "periodisation",
+          "Eurocentric",
+          "encounter",
+          "discovery"
+        ],
+        "evidence": [
+          "Europeans connected an already connected Afro-Eurasian world to the Americas."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1324",
+        "event": "Mansa Musa of Mali makes his pilgrimage to Mecca via Cairo."
+      },
+      {
+        "date": "1325",
+        "event": "Ibn Battuta sets out from Tangier on his travels."
+      },
+      {
+        "date": "1405",
+        "event": "Zheng He's first expedition sails."
+      },
+      {
+        "date": "1433",
+        "event": "Zheng He's seventh and last expedition ends."
+      },
+      {
+        "date": "1492",
+        "event": "Columbus crosses the Atlantic."
+      },
+      {
+        "date": "1498",
+        "event": "Vasco da Gama reaches Calicut."
+      }
+    ],
+    "people": [
+      {
+        "name": "Ibn Battuta",
+        "role": "Moroccan scholar and traveller (1304–c.1368); travelled about 120,000 km."
+      },
+      {
+        "name": "Zheng He",
+        "role": "Ming Chinese admiral (1371–1433); led seven Indian Ocean expeditions."
+      },
+      {
+        "name": "Mansa Musa",
+        "role": "Ruler of Mali, famous for his wealth and 1324 pilgrimage."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Periodisation",
+        "def": "How historians divide the past into named ages or periods."
+      },
+      {
+        "term": "Explorer",
+        "def": "Someone who travels to find out about unfamiliar places."
+      },
+      {
+        "term": "Voyage",
+        "def": "A long journey, usually by sea."
+      },
+      {
+        "term": "Eurocentric",
+        "def": "Seeing world history mainly from a European point of view."
+      },
+      {
+        "term": "Trade network",
+        "def": "Connected routes along which goods, people and ideas move."
+      },
+      {
+        "term": "Silk Roads",
+        "def": "Overland and sea routes linking China, Central Asia, the Middle East and Europe."
+      },
+      {
+        "term": "Trans-Saharan",
+        "def": "Crossing the Sahara, linking West Africa to North Africa."
+      },
+      {
+        "term": "Commodity",
+        "def": "A raw material or product that is bought and sold."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Europeans were the first long-distance explorers.",
+        "right": "Ibn Battuta and Zheng He travelled vast distances long before 1492."
+      },
+      {
+        "wrong": "China stopped its voyages because it could not continue them.",
+        "right": "China chose to end them in the 1430s for political and economic reasons."
+      },
+      {
+        "wrong": "Places like Calicut were \"undiscovered\".",
+        "right": "They were busy, cosmopolitan trading cities long before Europeans arrived."
+      },
+      {
+        "wrong": "Europeans created global trade.",
+        "right": "They joined, and later tried to control, networks that already existed."
+      }
+    ],
+    "sources": [
+      {
+        "id": "rihla",
+        "title": "Ibn Battuta's Rihla (travel account)",
+        "type": "Written travel account",
+        "date": "Dictated in the 1350s",
+        "origin": "Ibn Battuta's memories, written down by the scholar Ibn Juzayy in Morocco.",
+        "purpose": "To record his journeys for the ruler of Morocco and readers.",
+        "usefulness": "Rich detail on many societies. Written from memory years later and partly shaped by its writer, so details need checking."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Roughly how far did Ibn Battuta travel?",
+        "options": [
+          "1,200 km",
+          "12,000 km",
+          "120,000 km",
+          "1,200,000 km"
+        ],
+        "answer": 2,
+        "why": "About 120,000 km."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Zheng He led expeditions for which empire?",
+        "options": [
+          "Mali",
+          "Ming China",
+          "Portugal",
+          "The Ottomans"
+        ],
+        "answer": 1,
+        "why": "Ming China, 1405–1433."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "Why did China end Zheng He's voyages?",
+        "options": [
+          "It ran out of ships",
+          "Political and economic choices",
+          "Europeans stopped them",
+          "They found nothing"
+        ],
+        "answer": 1,
+        "why": "It was a choice, not a failure."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "Which network relied on predictable monsoon winds?",
+        "options": [
+          "Trans-Saharan",
+          "Indian Ocean",
+          "Silk Roads overland",
+          "Atlantic"
+        ],
+        "answer": 1,
+        "why": "Monsoons made seasonal sailing predictable."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Which two goods were especially important on trans-Saharan routes?",
+        "options": [
+          "Tea and silk",
+          "Gold and salt",
+          "Spices and cotton",
+          "Silver and sugar"
+        ],
+        "answer": 1,
+        "why": "Gold and salt."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Which of these was an East African port city?",
+        "options": [
+          "Calicut",
+          "Malacca",
+          "Kilwa",
+          "Hormuz"
+        ],
+        "answer": 2,
+        "why": "Kilwa."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "\"Eurocentric\" means…",
+        "options": [
+          "Using euros",
+          "Seeing world history mainly from Europe's point of view",
+          "About central Europe",
+          "Balanced"
+        ],
+        "answer": 1,
+        "why": "Europe at the centre."
+      },
+      {
+        "id": "m8",
+        "s": "s3",
+        "q": "Why do historians prefer \"encounter\" to \"discovery\"?",
+        "options": [
+          "It is shorter",
+          "The places were already known to and lived in by other peoples",
+          "Europeans never travelled",
+          "It sounds nicer"
+        ],
+        "answer": 1,
+        "why": "You cannot \"discover\" somewhere people already live."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Which Moroccan traveller wrote the Rihla?",
+        "accept": [
+          "ibn battuta",
+          "ibn battutah"
+        ],
+        "answer": "Ibn Battuta"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "How many expeditions did Zheng He lead?",
+        "accept": [
+          "7",
+          "seven"
+        ],
+        "answer": "Seven"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "In which year was Mansa Musa's pilgrimage?",
+        "accept": [
+          "1324"
+        ],
+        "answer": "1324"
+      },
+      {
+        "id": "a4",
+        "s": "s3",
+        "q": "What word means dividing the past into named periods?",
+        "accept": [
+          "periodisation",
+          "periodization"
+        ],
+        "answer": "Periodisation"
+      },
+      {
+        "id": "a5",
+        "s": "s2",
+        "q": "Name one Indian Ocean port city.",
+        "accept": [
+          "kilwa",
+          "calicut",
+          "malacca",
+          "hormuz"
+        ],
+        "answer": "Kilwa / Calicut / Malacca / Hormuz"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Mansa Musa's pilgrimage",
+          "Ibn Battuta sets out",
+          "Zheng He's first expedition",
+          "Zheng He's last expedition ends",
+          "Columbus crosses the Atlantic",
+          "Da Gama reaches Calicut"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the network to what it linked",
+        "pairs": [
+          [
+            "Silk Roads",
+            "China, Central Asia, Middle East and Europe"
+          ],
+          [
+            "Trans-Saharan routes",
+            "West Africa and North Africa"
+          ],
+          [
+            "Indian Ocean world",
+            "East Africa, Arabia, India and Southeast Asia"
+          ],
+          [
+            "Red Sea routes",
+            "Linked the other systems together"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Give precise evidence that long-distance travel was well established before 1492.",
+        "keywords": [
+          [
+            "ibn battuta",
+            "zheng he",
+            "mansa musa"
+          ],
+          [
+            "120,000",
+            "1405",
+            "1433",
+            "1324",
+            "seven"
+          ]
+        ],
+        "model": "Ibn Battuta travelled about 120,000 km from 1325, and Zheng He led seven expeditions across the Indian Ocean between 1405 and 1433."
+      },
+      {
+        "id": "e2",
+        "s": "s3",
+        "q": "Explain why the label \"Age of Exploration\" can be called Eurocentric.",
+        "keywords": [
+          [
+            "europe",
+            "european"
+          ],
+          [
+            "before",
+            "already",
+            "ibn battuta",
+            "zheng he",
+            "background"
+          ]
+        ],
+        "model": "It names the period after Europeans started travelling further, treating earlier non-European voyages such as Zheng He's as background rather than the main story."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Ibn Battuta",
+      "a": "Moroccan traveller (1304–c.1368); about 120,000 km."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Zheng He",
+      "a": "Ming admiral; seven expeditions, 1405–1433."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Treasure ships",
+      "a": "Zheng He's huge ships, bigger than any European ships for a century."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Why did Zheng He's voyages end?",
+      "a": "China chose to stop them in the 1430s."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Four pre-1492 networks",
+      "a": "Silk Roads, Indian Ocean, trans-Saharan, Arabian/Red Sea."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Monsoon",
+      "a": "Seasonal winds making Indian Ocean sailing predictable."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Mansa Musa",
+      "a": "Ruler of Mali; 1324 pilgrimage disrupted gold prices in Cairo."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Four port cities",
+      "a": "Kilwa, Calicut, Malacca, Hormuz."
+    },
+    {
+      "id": "f9",
+      "s": "s3",
+      "q": "Periodisation",
+      "a": "Dividing the past into named periods."
+    },
+    {
+      "id": "f10",
+      "s": "s3",
+      "q": "Eurocentric",
+      "a": "Seeing world history mainly from Europe's point of view."
+    },
+    {
+      "id": "f11",
+      "s": "s3",
+      "q": "Encounter vs discovery",
+      "a": "\"Encounter\" recognises the places were already inhabited."
+    },
+    {
+      "id": "f12",
+      "s": "s3",
+      "q": "What did Europeans do after 1492?",
+      "a": "Connected an already connected Afro-Eurasia to the Americas."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe the journeys of Ibn Battuta and Zheng He.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe four trade networks that existed before 1492.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain why port cities like Kilwa and Calicut were important.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain what \"Eurocentric\" means.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge whether \"Age of Exploration\" is a fair name for this period.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge whether \"discovery\" is the right word.",
+      "sections": [
+        "s3"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "\"Age of Exploration\" is a fair name for the period 1400–1600. How far do you agree?",
+        "sections": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "asks": "Weigh the case for the label (European voyages changed the world) against the case against (earlier non-European travel; Eurocentric).",
+        "steps": [
+          "Give the case for the label with evidence (e.g. 1492).",
+          "Give the case against with precise evidence (Ibn Battuta, Zheng He).",
+          "Reach a qualified judgement."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Precise evidence on both sides",
+          "Explaining connectives",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Only describing explorers",
+          "No judgement",
+          "Calling non-European journeys \"discoveries\""
+        ],
+        "model": [
+          {
+            "t": "The label is only partly fair, because it treats European voyages as the start of exploration.",
+            "n": "P: qualified."
+          },
+          {
+            "t": "Zheng He led seven expeditions across the Indian Ocean between 1405 and 1433, decades before Columbus sailed in 1492.",
+            "n": "E: precise."
+          },
+          {
+            "t": "This means long-distance exploration was already well established, so the label centres Europe rather than the whole world.",
+            "n": "E: explains."
+          },
+          {
+            "t": "Therefore \"Age of Exploration\" describes Europe's experience better than the world's.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: The label is fair / unfair to a large / some extent because…",
+            "E: For example, … in …",
+            "E: This means that…",
+            "J: Therefore, overall…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "describe",
+        "minutes": 6,
+        "q": "Describe two features of the Indian Ocean trade world before 1498.",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Give two accurate features, each with a precise supporting detail.",
+        "steps": [
+          "Pick two features (e.g. monsoon sailing, port cities, merchants).",
+          "Add a precise detail for each."
+        ],
+        "plan": "1 minute planning, 4 minutes writing, 1 minute checking.",
+        "success": [
+          "Two different features",
+          "Precise detail for each"
+        ],
+        "mistakes": [
+          "Writing about Europeans instead",
+          "One vague feature"
+        ],
+        "frame": {
+          "full": [
+            "One feature was… For example…",
+            "A second feature was… For example…"
+          ],
+          "some": [
+            "Feature 1 + detail",
+            "Feature 2 + detail"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Naming the past",
+      "task": "If Ibn Battuta travelled further than many later Europeans, why is 1400–1600 still often called the \"Age of Exploration\"?"
+    },
+    {
+      "id": "t2",
+      "kind": "Joining in",
+      "task": "If the Indian Ocean world was already so large and sophisticated, what does that suggest about why Europeans wanted to join it?"
+    },
+    {
+      "id": "t3",
+      "kind": "Rename it",
+      "task": "Invent a better name for the period 1400–1600 and justify it using evidence."
+    },
+    {
+      "id": "t4",
+      "kind": "Route compare",
+      "task": "Compare the routes of Ibn Battuta, Zheng He and Columbus on a map. What does the comparison reveal?"
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: was there an \"Age of Exploration\"?",
+    "rows": [
+      "For the label",
+      "Against the label"
+    ],
+    "cols": [
+      "Precise evidence",
+      "What it shows"
+    ],
+    "judgement": "The label is … fair because …"
+  }
+}

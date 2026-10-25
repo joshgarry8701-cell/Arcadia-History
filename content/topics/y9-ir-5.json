@@ -1,0 +1,717 @@
+{
+  "id": "y9-ir-5",
+  "course": "y9",
+  "area": "ir",
+  "order": 5,
+  "kt": "Lessons 9–14",
+  "title": "Was it really a revolution? From steam to silicon",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Time to judge. This topic brings the whole unit together with the Revolution Tracker, prepares you for the Harkness debate, then applies the same criteria to the Internet and to AI, including what the Industrial Revolution can teach us about the UAE's future.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Was it really a revolution?",
+        "blocks": [
+          {
+            "p": "Use the four criteria (Scale, Speed, Depth, Duration) to compare very different changes fairly. Change that looks dramatic on one criterion can look less revolutionary on another:"
+          },
+          {
+            "ul": [
+              "Urbanisation scores very high on Scale (millions moved) but more moderately on Speed within one town (growth over decades).",
+              "A single invention such as the power loom had narrow immediate Scale but very high Depth for the workers it replaced.",
+              "Agricultural change was slower, but it was a precondition for everything else."
+            ]
+          },
+          {
+            "p": "Not every area of life changed equally. Some things showed continuity, such as the monarchy, many rural ways of life and religious practice. A strong judgement shows this unevenness rather than claiming \"everything changed\"."
+          }
+        ],
+        "terms": [
+          "synthesis",
+          "criteria",
+          "overturn",
+          "continuity"
+        ],
+        "evidence": [
+          "Compare developments on all four criteria, not just one."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. The Revolution Debate (Harkness)",
+        "blocks": [
+          {
+            "p": "Assessment proposition: \"The Industrial Revolution changed the world more profoundly than the revolutions that followed it.\" How far do you agree?"
+          },
+          {
+            "p": "A Harkness discussion is student-led and evidence-based. The teacher observes. You are marked on Knowledge, Precise evidence, Historical reasoning, Responding/building/challenging, and a short written Final judgement (4 marks each, 20 in total)."
+          },
+          {
+            "p": "Prepare an Evidence Bank: your three strongest pieces of evidence, one counterargument to your own view, and two questions to ask classmates. Do not script a speech."
+          },
+          {
+            "ul": [
+              "Build: \"Building on what X said…\"",
+              "Challenge: \"I would challenge that because…\"",
+              "Agree with nuance: \"I agree to some extent, but the evidence from… suggests…\"",
+              "Question: \"What evidence supports that claim?\""
+            ]
+          }
+        ],
+        "terms": [
+          "Harkness discussion",
+          "proposition",
+          "counterargument",
+          "corroborate",
+          "qualifier"
+        ],
+        "evidence": [
+          "Rubric: 5 strands × 4 marks = 20."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. From steam to silicon: the Internet and AI",
+        "blocks": [
+          {
+            "p": "Key milestones: ARPANET sent the first message between computers in 1969; Tim Berners-Lee's World Wide Web became publicly available in 1991, making the Internet usable by non-specialists; e-commerce, search and social media spread from the mid-1990s; the smartphone era (often dated from the iPhone in 2007) made constant mobile access normal for billions."
+          },
+          {
+            "p": "Compare with the criteria: the Internet spread globally in roughly 20–30 years (Speed) to billions (Scale). Its Depth is huge, but its Duration cannot yet be judged with hindsight."
+          },
+          {
+            "p": "Mechanisation mainly replaced physical tasks; automation and AI increasingly perform cognitive tasks too, a significant difference."
+          },
+          {
+            "p": "The UAE is pursuing rapid economic and technological change, diversifying beyond oil and investing in education, innovation and AI, while emphasising heritage, community and national identity. History teaches caution: people in 1750 could not predict 1900, so we should be careful about confident predictions about AI."
+          }
+        ],
+        "terms": [
+          "digital revolution",
+          "World Wide Web",
+          "automation",
+          "artificial intelligence",
+          "economic diversification",
+          "heritage"
+        ],
+        "evidence": [
+          "ARPANET 1969; Web public 1991; iPhone 2007."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1750",
+        "event": "Britain mainly rural."
+      },
+      {
+        "date": "1830",
+        "event": "Liverpool and Manchester Railway opens."
+      },
+      {
+        "date": "1900",
+        "event": "Britain majority-urban and industrial."
+      },
+      {
+        "date": "1969",
+        "event": "ARPANET sends the first message between computers."
+      },
+      {
+        "date": "1991",
+        "event": "The World Wide Web becomes publicly available."
+      },
+      {
+        "date": "2007",
+        "event": "The iPhone launches the smartphone era."
+      }
+    ],
+    "people": [
+      {
+        "name": "Tim Berners-Lee",
+        "role": "Created the World Wide Web, publicly available from 1991."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Synthesis",
+        "def": "Bringing separate knowledge together into one overall judgement."
+      },
+      {
+        "term": "Criteria",
+        "def": "Standards used to judge something: here Scale, Speed, Depth, Duration."
+      },
+      {
+        "term": "Overturn",
+        "def": "To completely change or replace something that existed before."
+      },
+      {
+        "term": "Proposition",
+        "def": "A statement put forward for debate."
+      },
+      {
+        "term": "Counterargument",
+        "def": "A point that challenges an argument."
+      },
+      {
+        "term": "Digital revolution",
+        "def": "The shift from mechanical/analogue technology to digital computing."
+      },
+      {
+        "term": "Automation",
+        "def": "Machines or systems doing tasks without direct human control."
+      },
+      {
+        "term": "Economic diversification",
+        "def": "Developing many industries so an economy does not rely on one."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Everything changed in the Industrial Revolution.",
+        "right": "Change was uneven; there were important continuities."
+      },
+      {
+        "wrong": "Faster change is automatically more revolutionary.",
+        "right": "Speed is one criterion; Depth and Duration matter too."
+      },
+      {
+        "wrong": "We can already judge the Internet's full impact.",
+        "right": "Its Duration cannot yet be judged with hindsight."
+      },
+      {
+        "wrong": "Harkness rewards whoever talks most.",
+        "right": "It rewards evidence, reasoning and responding well to others."
+      }
+    ],
+    "sources": []
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Which criterion would urbanisation score highest on?",
+        "options": [
+          "Speed within one town",
+          "Scale",
+          "None",
+          "Popularity"
+        ],
+        "answer": 1,
+        "why": "Millions moved."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "What should a strong judgement about the Industrial Revolution show?",
+        "options": [
+          "Everything changed equally",
+          "Change was uneven, with continuities",
+          "Nothing changed",
+          "Only inventions mattered"
+        ],
+        "answer": 1,
+        "why": "Unevenness."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "In a Harkness discussion, the teacher…",
+        "options": [
+          "Leads and asks questions in turn",
+          "Observes and records",
+          "Writes the answers",
+          "Chooses who speaks"
+        ],
+        "answer": 1,
+        "why": "Student-led."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "How many marks is the Harkness assessment out of?",
+        "options": [
+          "10",
+          "16",
+          "20",
+          "40"
+        ],
+        "answer": 2,
+        "why": "5 strands × 4."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Which is a \"challenge\" sentence stem?",
+        "options": [
+          "Building on what X said…",
+          "I would challenge that because…",
+          "Firstly…",
+          "In 1771…"
+        ],
+        "answer": 1,
+        "why": "Respectful challenge."
+      },
+      {
+        "id": "m6",
+        "s": "s3",
+        "q": "When did the World Wide Web become publicly available?",
+        "options": [
+          "1969",
+          "1991",
+          "2007",
+          "1830"
+        ],
+        "answer": 1,
+        "why": "1991."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "Why is the Internet's Duration hard to judge?",
+        "options": [
+          "It is too old",
+          "It is still unfolding, so we lack hindsight",
+          "Nobody uses it",
+          "It ended in 2007"
+        ],
+        "answer": 1,
+        "why": "No hindsight yet."
+      },
+      {
+        "id": "m8",
+        "s": "s3",
+        "q": "What is a key difference between mechanisation and AI?",
+        "options": [
+          "AI replaces physical tasks only",
+          "Mechanisation mainly replaced physical tasks; AI also performs cognitive tasks",
+          "They are identical",
+          "Mechanisation used computers"
+        ],
+        "answer": 1,
+        "why": "Physical vs cognitive."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s3",
+        "q": "When did ARPANET send its first message?",
+        "accept": [
+          "1969"
+        ],
+        "answer": "1969"
+      },
+      {
+        "id": "a2",
+        "s": "s3",
+        "q": "Who created the World Wide Web?",
+        "accept": [
+          "tim berners-lee",
+          "berners-lee",
+          "tim berners lee"
+        ],
+        "answer": "Tim Berners-Lee"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "What is a point that challenges your own argument called?",
+        "accept": [
+          "counterargument",
+          "counter-argument",
+          "a counterargument"
+        ],
+        "answer": "Counterargument"
+      },
+      {
+        "id": "a4",
+        "s": "s1",
+        "q": "Name the four criteria.",
+        "accept": [
+          "scale speed depth duration",
+          "scale, speed, depth, duration",
+          "scale, speed, depth and duration"
+        ],
+        "answer": "Scale, Speed, Depth, Duration"
+      },
+      {
+        "id": "a5",
+        "s": "s3",
+        "q": "What does \"economic diversification\" mean?",
+        "accept": [
+          "developing many industries",
+          "not relying on one industry",
+          "many industries"
+        ],
+        "answer": "Developing many industries so an economy does not depend on one"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Britain mainly rural",
+          "Liverpool and Manchester Railway",
+          "Britain majority-urban",
+          "ARPANET first message",
+          "World Wide Web public",
+          "iPhone launches smartphone era"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the Harkness move to its stem",
+        "pairs": [
+          [
+            "Build",
+            "Building on what X said…"
+          ],
+          [
+            "Challenge",
+            "I would challenge that because…"
+          ],
+          [
+            "Question",
+            "What evidence supports that claim?"
+          ],
+          [
+            "Agree with nuance",
+            "I agree to some extent, but…"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Use two criteria to show that urbanisation and the power loom were revolutionary in different ways.",
+        "keywords": [
+          [
+            "scale",
+            "speed",
+            "depth",
+            "duration"
+          ],
+          [
+            "urbanisation",
+            "manchester",
+            "million"
+          ],
+          [
+            "power loom",
+            "weaver",
+            "workers"
+          ]
+        ],
+        "model": "Urbanisation was huge in Scale, with millions moving to towns such as Manchester, while the power loom had narrow Scale but great Depth for the hand-loom weavers whose work it replaced."
+      },
+      {
+        "id": "e2",
+        "s": "s3",
+        "q": "Compare the Speed of the Internet with the Industrial Revolution.",
+        "keywords": [
+          [
+            "20",
+            "30",
+            "decades",
+            "quickly",
+            "fast"
+          ],
+          [
+            "century",
+            "150",
+            "slower",
+            "1750",
+            "1900"
+          ]
+        ],
+        "model": "The Internet spread globally in about 20–30 years after 1991, while the Industrial Revolution unfolded over more than a century, from around 1750 to 1900."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Synthesis",
+      "a": "Bringing knowledge together into one judgement."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Urbanisation on the criteria",
+      "a": "Very high Scale; moderate Speed in any one town."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Power loom on the criteria",
+      "a": "Narrow Scale; high Depth for weavers."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Continuities",
+      "a": "Monarchy, many rural ways of life, religious practice."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Harkness",
+      "a": "Student-led, evidence-based seminar discussion."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Five Harkness strands",
+      "a": "Knowledge, Evidence, Reasoning, Responding, Final judgement."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Evidence Bank",
+      "a": "3 strongest pieces of evidence, 1 counterargument, 2 questions."
+    },
+    {
+      "id": "f8",
+      "s": "s3",
+      "q": "ARPANET",
+      "a": "1969: first message between computers."
+    },
+    {
+      "id": "f9",
+      "s": "s3",
+      "q": "World Wide Web",
+      "a": "Tim Berners-Lee; public from 1991."
+    },
+    {
+      "id": "f10",
+      "s": "s3",
+      "q": "Smartphone era",
+      "a": "Often dated from the iPhone, 2007."
+    },
+    {
+      "id": "f11",
+      "s": "s3",
+      "q": "Mechanisation vs AI",
+      "a": "Physical tasks vs physical and cognitive tasks."
+    },
+    {
+      "id": "f12",
+      "s": "s3",
+      "q": "Lesson from history about AI",
+      "a": "People in 1750 could not predict 1900: be cautious about predictions."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe key milestones of the Internet.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain how the four criteria show change was uneven.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain the Harkness strands and use the sentence stems.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain the difference between mechanisation and AI.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge whether the Industrial Revolution changed the world more than later revolutions.",
+      "sections": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can write a qualified final judgement for the Harkness debate.",
+      "sections": [
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 15,
+        "q": "\"The Industrial Revolution changed the world more profoundly than the revolutions that followed it.\" How far do you agree? (Harkness final judgement, about 150–200 words)",
+        "sections": [
+          "s1",
+          "s3"
+        ],
+        "asks": "Write a short, qualified final judgement using your strongest evidence and the four criteria, comparing with the Internet or AI.",
+        "steps": [
+          "State a qualified judgement.",
+          "Use your strongest evidence, naming criteria.",
+          "Acknowledge the strongest counterargument.",
+          "Conclude on which criteria decide it."
+        ],
+        "plan": "3 minutes planning from your Evidence Bank, 10 minutes writing, 2 minutes checking qualifiers.",
+        "success": [
+          "Qualified judgement",
+          "Specific evidence",
+          "Criteria named",
+          "Counterargument addressed"
+        ],
+        "mistakes": [
+          "Scripted speech",
+          "Unqualified absolutes",
+          "No comparison with later revolutions"
+        ],
+        "model": [
+          {
+            "t": "The Industrial Revolution changed the world considerably more profoundly than later revolutions, to a large extent, because its depth of change was unmatched.",
+            "n": "P: qualified."
+          },
+          {
+            "t": "It transformed where people lived and how they worked: Manchester grew from around 18,000 people in the 1750s to over 300,000 by 1850, and new public health laws such as the 1848 Act changed the relationship between government and citizens.",
+            "n": "E: precise."
+          },
+          {
+            "t": "However, the Internet and AI may prove faster and larger in scale, even if their depth and duration cannot yet be judged with hindsight.",
+            "n": "E: counterargument and criteria."
+          },
+          {
+            "t": "Therefore the Industrial Revolution's profundity lies in its depth and its now-provable duration, an advantage later, still-unfolding revolutions cannot yet claim.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: The Industrial Revolution changed the world more / less profoundly, to a large / some extent, because…",
+            "E: For example, …",
+            "E: However, the Internet / AI… in terms of speed / scale…",
+            "J: Therefore, overall… because the deciding criterion is…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 15,
+        "q": "Was the Internet another Industrial Revolution? Use the four criteria.",
+        "sections": [
+          "s3"
+        ],
+        "asks": "Apply Scale, Speed, Depth and Duration to the Internet and compare with industrialisation.",
+        "steps": [
+          "Scale and Speed with evidence.",
+          "Depth with examples.",
+          "Explain the Duration problem.",
+          "Judge."
+        ],
+        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
+        "success": [
+          "All four criteria used",
+          "Milestone dates",
+          "Duration problem explained",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Writing about technology without comparing",
+          "Ignoring Duration"
+        ],
+        "frame": {
+          "full": [
+            "P: The Internet was / was not another Industrial Revolution, to some extent…",
+            "E: For example, since 1991…",
+            "E: In terms of speed / scale… however, duration…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Scale or speed?",
+      "task": "Which matters more when deciding whether something was revolutionary: scale or speed?"
+    },
+    {
+      "id": "t2",
+      "kind": "Faster = more revolutionary?",
+      "task": "Does faster change automatically make the Internet more revolutionary?"
+    },
+    {
+      "id": "t3",
+      "kind": "Predicting AI",
+      "task": "If people in 1750 could not predict the world of 1900, how confident should we be when predicting the consequences of AI?"
+    },
+    {
+      "id": "t4",
+      "kind": "UAE future",
+      "task": "Using the four criteria, what questions should the UAE ask about AI that the Industrial Revolution suggests?"
+    }
+  ],
+  "planning": {
+    "title": "Harkness Evidence Bank",
+    "rows": [
+      "My strongest argument",
+      "Evidence 1",
+      "Evidence 2",
+      "Evidence 3",
+      "Counterargument",
+      "Questions for classmates"
+    ],
+    "cols": [
+      "Detail",
+      "Criterion it supports"
+    ],
+    "judgement": "My provisional judgement: …"
+  }
+}

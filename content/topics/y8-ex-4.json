@@ -1,0 +1,702 @@
+{
+  "id": "y8-ex-4",
+  "course": "y8",
+  "area": "exp",
+  "order": 4,
+  "kt": "Lessons 8–9",
+  "title": "Conquest and the Indian Ocean",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "How could a few hundred Spanish soldiers bring down the Mexica (Aztec) Empire? And why did the Portuguese have such a different experience when Vasco da Gama entered the Indian Ocean? This topic compares two very different encounters.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. The fall of the Mexica Empire",
+        "blocks": [
+          {
+            "p": "In 1519 Hernán Cortés landed in Mexico with roughly 500–600 Spanish soldiers. By 1521 the Mexica (Aztec) Empire, ruling millions from its capital Tenochtitlan, one of the largest cities in the world, had fallen. A small force defeating a huge empire needs several causes:"
+          },
+          {
+            "ul": [
+              "ALLIANCES: many peoples resented Mexica rule. The Tlaxcalans, long-standing enemies of the Mexica, allied with Cortés and provided tens of thousands of warriors, arguably the biggest single factor.",
+              "DISEASE: smallpox devastated the Mexica, killing the emperor Cuitláhuac in 1520 at a critical moment.",
+              "TECHNOLOGY: steel weapons, some firearms and horses gave real but often overstated advantages.",
+              "POLITICS: Mexica caution and internal tensions gave Cortés time to build alliances."
+            ]
+          },
+          {
+            "p": "Historians usually judge Indigenous alliances and disease the most significant. The popular idea that Spanish weapons alone won is a myth that erases the Indigenous allies who vastly outnumbered the Spanish."
+          }
+        ],
+        "terms": [
+          "Mexica (Aztec) Empire",
+          "Tenochtitlan",
+          "Tlaxcalans",
+          "alliance",
+          "conquest",
+          "conquistador"
+        ],
+        "evidence": [
+          "Cortés landed in 1519 with about 500–600 soldiers.",
+          "Tenochtitlan fell in 1521.",
+          "Cuitláhuac died of smallpox in 1520."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Meanwhile, in the Indian Ocean",
+        "blocks": [
+          {
+            "p": "In 1498 Vasco da Gama's fleet rounded Africa and reached Calicut on India's west coast, the first European ships to sail directly from Europe to India."
+          },
+          {
+            "p": "He did not arrive in an unconnected world. Calicut, ruled by the Zamorin, was part of the sophisticated Indian Ocean trading world. Da Gama's cheap trade goods did not impress, and established Arab merchants were rivals."
+          },
+          {
+            "p": "Because Portugal could not out-compete these merchants by trade alone, it turned to force: naval violence and fortified trading posts such as Hormuz (1507) and Goa (captured 1510) under Afonso de Albuquerque, to control key routes and tax trade."
+          },
+          {
+            "p": "The contrast matters: in the Indian Ocean, Europeans were one relatively weak newcomer trying to muscle into a powerful system. Portugal never controlled the whole of Indian Ocean trade, only parts of it, for a limited time."
+          }
+        ],
+        "terms": [
+          "Calicut",
+          "Zamorin",
+          "fort",
+          "Indian Ocean trade world",
+          "comparison"
+        ],
+        "evidence": [
+          "Da Gama reached Calicut in 1498.",
+          "Hormuz 1507; Goa 1510."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1498",
+        "event": "Vasco da Gama reaches Calicut."
+      },
+      {
+        "date": "1507",
+        "event": "The Portuguese seize Hormuz."
+      },
+      {
+        "date": "1510",
+        "event": "Albuquerque captures Goa."
+      },
+      {
+        "date": "1519",
+        "event": "Cortés lands in Mexico."
+      },
+      {
+        "date": "1520",
+        "event": "The Mexica emperor Cuitláhuac dies of smallpox."
+      },
+      {
+        "date": "1521",
+        "event": "Tenochtitlan falls."
+      }
+    ],
+    "people": [
+      {
+        "name": "Hernán Cortés",
+        "role": "Spanish conquistador who landed in Mexico in 1519."
+      },
+      {
+        "name": "Cuitláhuac",
+        "role": "Mexica emperor who died of smallpox in 1520."
+      },
+      {
+        "name": "The Tlaxcalans",
+        "role": "Indigenous nation who allied with Cortés against the Mexica."
+      },
+      {
+        "name": "Vasco da Gama",
+        "role": "Portuguese commander who reached Calicut in 1498."
+      },
+      {
+        "name": "The Zamorin",
+        "role": "Ruler of Calicut."
+      },
+      {
+        "name": "Afonso de Albuquerque",
+        "role": "Portuguese commander who seized Goa in 1510."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Mexica (Aztec) Empire",
+        "def": "Large empire centred on Tenochtitlan in central Mexico."
+      },
+      {
+        "term": "Alliance",
+        "def": "An agreement to work together, often against a common enemy."
+      },
+      {
+        "term": "Tlaxcalans",
+        "def": "Indigenous nation who allied with Cortés."
+      },
+      {
+        "term": "Conquest",
+        "def": "Taking control of a place or people by force."
+      },
+      {
+        "term": "Calicut",
+        "def": "Major Indian Ocean port on India's Malabar coast."
+      },
+      {
+        "term": "Fort",
+        "def": "A strengthened military building used to control or defend territory."
+      },
+      {
+        "term": "Comparison",
+        "def": "Examining similarities and differences."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "A few hundred Spaniards defeated the Mexica with better weapons.",
+        "right": "Tens of thousands of Indigenous allies and smallpox were usually more decisive."
+      },
+      {
+        "wrong": "Da Gama found an undeveloped world in India.",
+        "right": "He entered a sophisticated trading system that was not impressed by his goods."
+      },
+      {
+        "wrong": "Portugal controlled the Indian Ocean.",
+        "right": "It controlled only parts of the trade, for a limited time."
+      },
+      {
+        "wrong": "Exploration looked the same everywhere.",
+        "right": "Encounters in the Americas and the Indian Ocean were very different."
+      }
+    ],
+    "sources": [
+      {
+        "id": "codex",
+        "title": "Nahua pictorial accounts of the conquest (for example the Florentine Codex)",
+        "type": "Illustrated manuscript",
+        "date": "Compiled in the 1570s",
+        "origin": "Made with Nahua (Indigenous Mexican) authors and artists under the Spanish friar Bernardino de Sahagún.",
+        "purpose": "To record Nahua history and culture, partly for Spanish missionaries.",
+        "usefulness": "Gives Indigenous perspectives on the conquest. Made decades later and shaped by Spanish supervision."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Roughly how many Spanish soldiers landed with Cortés in 1519?",
+        "options": [
+          "50",
+          "500–600",
+          "50,000",
+          "500,000"
+        ],
+        "answer": 1,
+        "why": "About 500–600."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Which Indigenous nation allied with Cortés?",
+        "options": [
+          "The Taíno",
+          "The Tlaxcalans",
+          "The Inca",
+          "The Maya of Yucatán"
+        ],
+        "answer": 1,
+        "why": "The Tlaxcalans."
+      },
+      {
+        "id": "m3",
+        "s": "s1",
+        "q": "What killed the emperor Cuitláhuac in 1520?",
+        "options": [
+          "A battle wound",
+          "Smallpox",
+          "Poison",
+          "Old age"
+        ],
+        "answer": 1,
+        "why": "Smallpox."
+      },
+      {
+        "id": "m4",
+        "s": "s1",
+        "q": "Which factor do historians usually rank most significant?",
+        "options": [
+          "Spanish horses alone",
+          "Indigenous alliances (and disease)",
+          "The weather",
+          "Spanish ships"
+        ],
+        "answer": 1,
+        "why": "Allies and disease."
+      },
+      {
+        "id": "m5",
+        "s": "s1",
+        "q": "In which year did Tenochtitlan fall?",
+        "options": [
+          "1492",
+          "1519",
+          "1521",
+          "1588"
+        ],
+        "answer": 2,
+        "why": "1521."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Where did da Gama arrive in 1498?",
+        "options": [
+          "Goa",
+          "Calicut",
+          "Hormuz",
+          "Malacca"
+        ],
+        "answer": 1,
+        "why": "Calicut."
+      },
+      {
+        "id": "m7",
+        "s": "s2",
+        "q": "Why did the Portuguese turn to force in the Indian Ocean?",
+        "options": [
+          "They had nothing to trade",
+          "They could not out-compete established merchants by trade alone",
+          "The Zamorin asked them to",
+          "They wanted to explore inland"
+        ],
+        "answer": 1,
+        "why": "Force and forts instead of fair competition."
+      },
+      {
+        "id": "m8",
+        "s": "s2",
+        "q": "Which city did Albuquerque capture in 1510?",
+        "options": [
+          "Calicut",
+          "Goa",
+          "Kilwa",
+          "Tenochtitlan"
+        ],
+        "answer": 1,
+        "why": "Goa."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "What was the Mexica capital called?",
+        "accept": [
+          "tenochtitlan"
+        ],
+        "answer": "Tenochtitlan"
+      },
+      {
+        "id": "a2",
+        "s": "s1",
+        "q": "Who led the Spanish forces in Mexico?",
+        "accept": [
+          "cortes",
+          "cortés",
+          "hernan cortes",
+          "hernán cortés"
+        ],
+        "answer": "Hernán Cortés"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "What was the title of Calicut's ruler?",
+        "accept": [
+          "zamorin",
+          "the zamorin"
+        ],
+        "answer": "The Zamorin"
+      },
+      {
+        "id": "a4",
+        "s": "s2",
+        "q": "In which year did da Gama reach Calicut?",
+        "accept": [
+          "1498"
+        ],
+        "answer": "1498"
+      },
+      {
+        "id": "a5",
+        "s": "s1",
+        "q": "What disease devastated the Mexica?",
+        "accept": [
+          "smallpox"
+        ],
+        "answer": "Smallpox"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Da Gama reaches Calicut",
+          "Portuguese seize Hormuz",
+          "Albuquerque captures Goa",
+          "Cortés lands in Mexico",
+          "Cuitláhuac dies of smallpox",
+          "Tenochtitlan falls"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the factor to the evidence",
+        "pairs": [
+          [
+            "Alliances",
+            "Tens of thousands of Tlaxcalan warriors"
+          ],
+          [
+            "Disease",
+            "Smallpox killed Cuitláhuac in 1520"
+          ],
+          [
+            "Technology",
+            "Steel weapons and horses"
+          ],
+          [
+            "Politics",
+            "Mexica caution gave Cortés time"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Give precise evidence that Indigenous allies were vital to the fall of the Mexica.",
+        "keywords": [
+          [
+            "tlaxcalan",
+            "tlaxcalans",
+            "allies",
+            "alliance"
+          ],
+          [
+            "thousands",
+            "outnumbered",
+            "500",
+            "600"
+          ]
+        ],
+        "model": "The Tlaxcalans provided tens of thousands of warriors, while Cortés had only about 500–600 Spanish soldiers, so Indigenous allies vastly outnumbered the Spanish."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Explain one key difference between European experiences in the Americas and the Indian Ocean.",
+        "keywords": [
+          [
+            "americas",
+            "mexica",
+            "conquer",
+            "empire"
+          ],
+          [
+            "indian ocean",
+            "calicut",
+            "newcomer",
+            "weak",
+            "trade",
+            "forts"
+          ]
+        ],
+        "model": "In the Americas, Spain helped bring down the Mexica Empire, but in the Indian Ocean Portugal was a relatively weak newcomer that could only control parts of trade through forts like Goa."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Cortés lands in Mexico",
+      "a": "1519, with about 500–600 soldiers."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Fall of Tenochtitlan",
+      "a": "1521."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Tlaxcalans",
+      "a": "Indigenous allies of Cortés: tens of thousands of warriors."
+    },
+    {
+      "id": "f4",
+      "s": "s1",
+      "q": "Cuitláhuac",
+      "a": "Mexica emperor killed by smallpox in 1520."
+    },
+    {
+      "id": "f5",
+      "s": "s1",
+      "q": "Four causes of Mexica defeat",
+      "a": "Alliances, disease, technology, politics."
+    },
+    {
+      "id": "f6",
+      "s": "s1",
+      "q": "The weapons myth",
+      "a": "Spanish weapons alone did not win; allies and disease were more decisive."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Da Gama reaches Calicut",
+      "a": "1498."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Zamorin",
+      "a": "Ruler of Calicut."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Hormuz",
+      "a": "Seized by Portugal, 1507."
+    },
+    {
+      "id": "f10",
+      "s": "s2",
+      "q": "Goa",
+      "a": "Captured by Albuquerque, 1510."
+    },
+    {
+      "id": "f11",
+      "s": "s2",
+      "q": "Portugal in the Indian Ocean",
+      "a": "A weak newcomer using force and forts; never controlled all trade."
+    },
+    {
+      "id": "f12",
+      "s": "s2",
+      "q": "Key contrast",
+      "a": "Conquest of an empire in the Americas vs muscling into an existing system in the Indian Ocean."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe how the Mexica Empire fell between 1519 and 1521.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe what happened when da Gama reached Calicut.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain the four causes of the Mexica defeat.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain why Portugal relied on force and forts in the Indian Ocean.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge which cause was most important in the fall of the Mexica.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can compare European encounters in the Americas and the Indian Ocean.",
+      "sections": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "\"Spanish weapons were the main reason the Mexica Empire fell.\" How far do you agree?",
+        "sections": [
+          "s1"
+        ],
+        "asks": "Weigh technology against alliances, disease and politics, then judge.",
+        "steps": [
+          "Explain how technology helped, with evidence.",
+          "Explain at least one other factor with stronger evidence.",
+          "Judge with a qualifier."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Precise evidence (numbers, dates, names)",
+          "Explains links between factors",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Repeating the weapons myth",
+          "No numbers or names"
+        ],
+        "model": [
+          {
+            "t": "I largely disagree: Spanish weapons mattered, but Indigenous alliances were more important.",
+            "n": "P: qualified."
+          },
+          {
+            "t": "Cortés had only about 500–600 soldiers, but the Tlaxcalans provided tens of thousands of warriors.",
+            "n": "E: precise."
+          },
+          {
+            "t": "This meant most of the fighting was done by Indigenous forces, and smallpox, which killed Cuitláhuac in 1520, further weakened the Mexica at a crucial moment.",
+            "n": "E: explains and links."
+          },
+          {
+            "t": "Therefore weapons were a supporting factor, while alliances and disease were decisive.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: I agree / disagree to a large / some extent because…",
+            "E: For example, Cortés had… while…",
+            "E: This meant that… as a result…",
+            "J: Therefore, the most important factor was…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 10,
+        "q": "Explain why Portugal's experience in the Indian Ocean was different from Spain's in the Americas.",
+        "sections": [
+          "s1",
+          "s2"
+        ],
+        "asks": "Compare the two encounters and explain the reasons for the difference.",
+        "steps": [
+          "Describe what Portugal found in the Indian Ocean.",
+          "Describe what Spain did in Mexico.",
+          "Explain why they differed."
+        ],
+        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
+        "success": [
+          "Clear comparison",
+          "Precise evidence for both",
+          "Explains reasons"
+        ],
+        "mistakes": [
+          "Describing only one place",
+          "No reasons"
+        ],
+        "frame": {
+          "full": [
+            "P: Portugal's experience was very different because…",
+            "E: In 1498 at Calicut… whereas in 1519–21…",
+            "E: This meant that…",
+            "J: Therefore…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Naming it",
+      "task": "If Indigenous allies provided most of the fighting force, should it be called a \"Spanish conquest\" at all?"
+    },
+    {
+      "id": "t2",
+      "kind": "Force",
+      "task": "Why might arriving as a weak newcomer have led Portugal to rely on force and forts rather than fair trade?"
+    },
+    {
+      "id": "t3",
+      "kind": "Indigenous sources",
+      "task": "What can Nahua accounts tell us that Spanish accounts cannot, and what are their limits?"
+    },
+    {
+      "id": "t4",
+      "kind": "Counterfactual",
+      "task": "Without smallpox, could Cortés have won? Use evidence to argue."
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: why did the Mexica Empire fall?",
+    "rows": [
+      "Alliances",
+      "Disease",
+      "Technology",
+      "Politics"
+    ],
+    "cols": [
+      "Precise evidence",
+      "How it helped Cortés",
+      "Rank"
+    ],
+    "judgement": "The most important cause was … because … This meant that …"
+  }
+}

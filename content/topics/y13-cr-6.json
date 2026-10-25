@@ -509,6 +509,54 @@
         }
       },
       {
+        "id": "pp-whi031d-june2026-2",
+        "qtype": "u3b",
+        "label": "Past paper: WHI03/1D, June 2026, Q2",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "June 2026",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "‘Andrew Johnson’s presidency (1865–69) had much more impact on the lives of black Americans than had Lyndon Johnson’s presidency (1963–68).’\nHow far do you agree with this judgement?"
+      },
+      {
+        "id": "pp-whi031d-june2026-3",
+        "qtype": "u3b",
+        "label": "Past paper: WHI03/1D, June 2026, Q3",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "June 2026",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "‘Progress for black Americans was so significant in the years 1954–68 that in the years 2000–09 there was little left to achieve.’\nHow far do you agree with this judgement?"
+      },
+      {
+        "id": "pp-whi031d-january2026-2",
+        "qtype": "u3b",
+        "label": "Past paper: WHI03/1D, January 2026, Q2",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "January 2026",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "‘In the years 1865–77 and 1883–c1900, the most significant developments in the civil rights of black Americans were those that took place in the 1870s.’\nHow far do you agree with this judgement?"
+      },
+      {
+        "id": "pp-whi031d-january2026-3",
+        "qtype": "u3b",
+        "label": "Past paper: WHI03/1D, January 2026, Q3",
+        "pp": {
+          "paper": "WHI03/1D",
+          "series": "January 2026",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "‘Supporters of black militancy were central to improvements in the lives of black Americans in the years 1954–2009.’\nHow far do you agree with this judgement?"
+      },
+      {
         "id": "pp-whi031d-june2025-2",
         "qtype": "u3b",
         "label": "Past paper: WHI03/1D, June 2025, Q2",

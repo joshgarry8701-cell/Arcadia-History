@@ -1,0 +1,662 @@
+{
+  "id": "y7-sk-2",
+  "course": "y7",
+  "area": "skills",
+  "order": 2,
+  "kt": "Lessons 3–4",
+  "title": "Chronology and historical time",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Historians need to know when things happened, and in what order, before they can explain anything. This topic covers chronology, BC/BCE and AD/CE dates, centuries and how to spot patterns on a timeline.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Why chronology matters",
+        "blocks": [
+          {
+            "p": "Chronology means arranging events in the order they happened. It lets historians see which events came first, which overlapped and which could have caused others. If the order is wrong, the explanation falls apart: a cause must happen before its effect."
+          },
+          {
+            "p": "A period is a length of time with shared features, such as the Bronze Age. Time connectives (firstly, then, next, after, finally) help you explain a sequence clearly."
+          },
+          {
+            "p": "A global timeline shows that different societies developed at the same time. For example, Mansa Musa of Mali made his famous pilgrimage to Mecca in 1324, while England was ruled by Edward II and Edward III."
+          }
+        ],
+        "terms": [
+          "chronology",
+          "chronological",
+          "sequence",
+          "period",
+          "time connectives"
+        ],
+        "evidence": [
+          "A cause must happen before its effect.",
+          "Mansa Musa's pilgrimage: 1324."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. BC/BCE, AD/CE and centuries",
+        "blocks": [
+          {
+            "p": "Many historians use a calendar counted from year 1. Dates before it are BC (\"before Christ\") or BCE (\"before common era\"). Dates after it are AD (\"anno Domini\") or CE (\"common era\"). There is no year 0."
+          },
+          {
+            "p": "BC/BCE dates count backwards, so 500 BCE is earlier than 100 BCE. AD/CE dates count forwards, so CE 100 is earlier than CE 500."
+          },
+          {
+            "p": "A century is 100 years and a millennium is 1,000 years. The century number is one more than the \"hundreds\": 1066 is in the 11th century, 1324 in the 14th century and 1971 in the 20th century."
+          },
+          {
+            "p": "Other calendars exist too. The Islamic (Hijri) calendar counts from the Hijra in 622 CE. Calendars are human inventions, so they are part of history too."
+          }
+        ],
+        "terms": [
+          "BC / BCE",
+          "AD / CE",
+          "century",
+          "millennium",
+          "Hijri calendar"
+        ],
+        "evidence": [
+          "1066 = 11th century; 1324 = 14th century; 1971 = 20th century.",
+          "There is no year 0.",
+          "The Hijri calendar begins with the Hijra in 622 CE."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 3000 BCE",
+        "event": "Bronze Age settlement at Hili (near modern Al Ain)."
+      },
+      {
+        "date": "c. 570 CE",
+        "event": "Birth of the Prophet Muhammad in Mecca."
+      },
+      {
+        "date": "622 CE",
+        "event": "The Hijra: the start of the Islamic (Hijri) calendar."
+      },
+      {
+        "date": "1066",
+        "event": "William of Normandy wins the Battle of Hastings."
+      },
+      {
+        "date": "1324",
+        "event": "Mansa Musa of Mali makes his pilgrimage to Mecca."
+      },
+      {
+        "date": "1914–1918",
+        "event": "The First World War."
+      },
+      {
+        "date": "1939–1945",
+        "event": "The Second World War."
+      },
+      {
+        "date": "1971",
+        "event": "The United Arab Emirates is formed."
+      }
+    ],
+    "people": [
+      {
+        "name": "Mansa Musa",
+        "role": "Ruler of the Mali Empire in West Africa (c. 1312–c. 1337), famous for his wealth and his 1324 pilgrimage."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Chronology",
+        "def": "The arrangement of events in the order they happened."
+      },
+      {
+        "term": "Chronological",
+        "def": "In order of time."
+      },
+      {
+        "term": "Sequence",
+        "def": "The order in which things occur."
+      },
+      {
+        "term": "Period",
+        "def": "A length of time with shared features."
+      },
+      {
+        "term": "BC / BCE",
+        "def": "\"Before Christ\" / \"before common era\": counting back from year 1."
+      },
+      {
+        "term": "AD / CE",
+        "def": "\"Anno Domini\" / \"common era\": counting forward from year 1."
+      },
+      {
+        "term": "Century",
+        "def": "A period of 100 years."
+      },
+      {
+        "term": "Millennium",
+        "def": "A period of 1,000 years."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "1066 is in the 10th century.",
+        "right": "1066 is in the 11th century. Add one to the hundreds."
+      },
+      {
+        "wrong": "500 BCE comes after 100 BCE.",
+        "right": "BCE dates count backwards, so 500 BCE is earlier."
+      },
+      {
+        "wrong": "There was a year 0.",
+        "right": "The count goes from 1 BCE straight to 1 CE."
+      },
+      {
+        "wrong": "Chronology is just learning dates.",
+        "right": "Chronology lets you see order, overlap and possible causes. Explanations depend on it."
+      }
+    ],
+    "sources": []
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What does chronology mean?",
+        "options": [
+          "The study of maps",
+          "Arranging events in the order they happened",
+          "Writing about famous people",
+          "Judging if a source is reliable"
+        ],
+        "answer": 1,
+        "why": "Chronology is about order in time."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Why must a cause come before its effect on a timeline?",
+        "options": [
+          "It looks neater",
+          "Because something cannot be caused by an event that happened later",
+          "Teachers prefer it",
+          "It does not matter"
+        ],
+        "answer": 1,
+        "why": "Explanations depend on correct chronology."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Which century is 1066 in?",
+        "options": [
+          "10th",
+          "11th",
+          "12th",
+          "16th"
+        ],
+        "answer": 1,
+        "why": "Add one to the hundreds: 10 + 1 = 11."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "Which century is 1971 in?",
+        "options": [
+          "19th",
+          "20th",
+          "21st",
+          "17th"
+        ],
+        "answer": 1,
+        "why": "19 + 1 = 20th century."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Which date is earliest?",
+        "options": [
+          "100 BCE",
+          "500 BCE",
+          "CE 100",
+          "CE 500"
+        ],
+        "answer": 1,
+        "why": "BCE dates count backwards."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "How long is a millennium?",
+        "options": [
+          "10 years",
+          "100 years",
+          "1,000 years",
+          "10,000 years"
+        ],
+        "answer": 2,
+        "why": "Millennium = 1,000 years."
+      },
+      {
+        "id": "m7",
+        "s": "s2",
+        "q": "Which event starts the Islamic (Hijri) calendar?",
+        "options": [
+          "The birth of the Prophet",
+          "The Hijra in 622 CE",
+          "The building of the Kaaba",
+          "The formation of the UAE"
+        ],
+        "answer": 1,
+        "why": "The Hijri calendar counts from the Hijra."
+      },
+      {
+        "id": "m8",
+        "s": "s1",
+        "q": "Mansa Musa's pilgrimage to Mecca took place in…",
+        "options": [
+          "1066",
+          "1324",
+          "1492",
+          "1971"
+        ],
+        "answer": 1,
+        "why": "1324, in the 14th century."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s2",
+        "q": "Which century is 1324 in?",
+        "accept": [
+          "14th",
+          "14th century",
+          "fourteenth",
+          "the 14th century"
+        ],
+        "answer": "14th century"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "How many years in a century?",
+        "accept": [
+          "100",
+          "one hundred",
+          "a hundred"
+        ],
+        "answer": "100"
+      },
+      {
+        "id": "a3",
+        "s": "s2",
+        "q": "What does CE stand for?",
+        "accept": [
+          "common era",
+          "the common era"
+        ],
+        "answer": "Common era"
+      },
+      {
+        "id": "a4",
+        "s": "s1",
+        "q": "In which year was the UAE formed?",
+        "accept": [
+          "1971"
+        ],
+        "answer": "1971"
+      },
+      {
+        "id": "a5",
+        "s": "s1",
+        "q": "What word means \"in order of time\"?",
+        "accept": [
+          "chronological"
+        ],
+        "answer": "Chronological"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these events in order",
+        "items": [
+          "Bronze Age settlement at Hili",
+          "Birth of the Prophet Muhammad",
+          "The Hijra",
+          "Battle of Hastings",
+          "Mansa Musa's pilgrimage",
+          "First World War",
+          "Formation of the UAE"
+        ]
+      },
+      {
+        "id": "c2",
+        "title": "Earliest to latest",
+        "items": [
+          "500 BCE",
+          "100 BCE",
+          "CE 100",
+          "CE 500",
+          "1066",
+          "1971"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the date to its century",
+        "pairs": [
+          [
+            "1066",
+            "11th century"
+          ],
+          [
+            "1324",
+            "14th century"
+          ],
+          [
+            "1971",
+            "20th century"
+          ],
+          [
+            "622",
+            "7th century"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s1",
+        "q": "Explain why getting the chronology wrong would damage a historian's explanation.",
+        "keywords": [
+          [
+            "cause",
+            "causes"
+          ],
+          [
+            "before",
+            "after",
+            "order"
+          ]
+        ],
+        "model": "Causes must come before their effects. If events are in the wrong order, a historian might say something caused an event that actually happened afterwards, so the whole explanation would be wrong."
+      },
+      {
+        "id": "e2",
+        "s": "s2",
+        "q": "Explain how to work out the century of a date such as 1324.",
+        "keywords": [
+          [
+            "add",
+            "plus",
+            "one more"
+          ],
+          [
+            "14",
+            "fourteenth",
+            "hundreds"
+          ]
+        ],
+        "model": "Take the hundreds (13) and add one, so 1324 is in the 14th century."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Chronology",
+      "a": "Arranging events in the order they happened."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Period",
+      "a": "A length of time with shared features."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Time connectives",
+      "a": "Firstly, then, next, after, finally."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "BC / BCE",
+      "a": "Before Christ / before common era: counting back from year 1."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "AD / CE",
+      "a": "Anno Domini / common era: counting forward from year 1."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Century of 1066?",
+      "a": "11th century."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Century of 1971?",
+      "a": "20th century."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Is there a year 0?",
+      "a": "No: 1 BCE is followed by 1 CE."
+    },
+    {
+      "id": "f9",
+      "s": "s2",
+      "q": "Start of the Hijri calendar",
+      "a": "The Hijra, 622 CE."
+    },
+    {
+      "id": "f10",
+      "s": "s1",
+      "q": "Mansa Musa's pilgrimage",
+      "a": "1324."
+    },
+    {
+      "id": "f11",
+      "s": "s1",
+      "q": "First World War",
+      "a": "1914–1918."
+    },
+    {
+      "id": "f12",
+      "s": "s1",
+      "q": "Formation of the UAE",
+      "a": "2 December 1971."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe what chronology means.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can place key global and UAE events on a timeline.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain how BC/BCE and AD/CE dates work.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can work out the century of any date.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "explain",
+      "text": "I can explain a sequence using time connectives.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k6",
+      "level": "judge",
+      "text": "I can judge why chronology matters for historical explanations.",
+      "sections": [
+        "s1"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "explain",
+        "minutes": 6,
+        "q": "Put these events in chronological order and give the century of each: the formation of the UAE; the Battle of Hastings; Mansa Musa's pilgrimage; the Hijra.",
+        "sections": [
+          "s1",
+          "s2"
+        ],
+        "asks": "Sequence the events correctly and name the century of each.",
+        "steps": [
+          "Write the date beside each event.",
+          "Order them earliest to latest.",
+          "Work out each century (hundreds + 1)."
+        ],
+        "plan": "1 minute recalling dates, 4 minutes ordering and working out centuries, 1 minute checking.",
+        "success": [
+          "Correct order",
+          "Correct centuries",
+          "Dates included"
+        ],
+        "mistakes": [
+          "Getting the century one out (1066 is NOT the 10th century)",
+          "Forgetting a date"
+        ],
+        "frame": {
+          "full": [
+            "First came… in … (… century).",
+            "Next came… in … (… century).",
+            "Then… in … (… century).",
+            "Finally… in … (… century)."
+          ],
+          "some": [
+            "Order + date + century for each"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "\"Chronology is the most important skill a historian needs.\" How far do you agree?",
+        "sections": [
+          "s1"
+        ],
+        "asks": "Weigh chronology against other skills (evidence, inference, explaining causes) and reach a judgement.",
+        "steps": [
+          "Explain why chronology matters, with an example.",
+          "Explain another skill that also matters.",
+          "Decide which matters more, using a qualifier."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified claim",
+          "Precise examples",
+          "Explaining connectives",
+          "Judgement"
+        ],
+        "mistakes": [
+          "Only listing skills",
+          "No judgement"
+        ],
+        "frame": {
+          "full": [
+            "P: I agree to some / a large extent that…",
+            "E: For example, without chronology…",
+            "E: This means that… However…",
+            "J: Overall…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Resolving disagreement",
+      "task": "If two accounts disagree on when something happened, how would a historian resolve it?"
+    },
+    {
+      "id": "t2",
+      "kind": "Calendars",
+      "task": "Why are the systems humans use to organise time themselves historical creations? Compare the Gregorian and Hijri calendars."
+    },
+    {
+      "id": "t3",
+      "kind": "Patterns",
+      "task": "Find two events on the global timeline that happened in the same century in different parts of the world. What does comparing them tell you?"
+    },
+    {
+      "id": "t4",
+      "kind": "Who decides?",
+      "task": "Which events deserve a place on a timeline of world history, and who decides?"
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: why does chronology matter?",
+    "rows": [
+      "Ordering causes",
+      "Spotting overlaps",
+      "Comparing places"
+    ],
+    "cols": [
+      "Example",
+      "What goes wrong without it"
+    ],
+    "judgement": "Chronology matters most because …"
+  }
+}

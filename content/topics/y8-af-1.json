@@ -1,0 +1,710 @@
+{
+  "id": "y8-af-1",
+  "course": "y8",
+  "area": "afr",
+  "order": 6,
+  "kt": "Why did they come?",
+  "title": "Why did Africans come to Tudor England?",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
+  },
+  "learn": {
+    "intro": "Africans lived in England long before the 20th century. Historians have found hundreds of named Africans in Tudor and Stuart records, from royal trumpeters to sailors, divers and seamstresses. This topic asks why they came, using the push and pull factors that the Pearson GCSE Migrants in Britain course uses for every period.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. An African presence in Tudor England",
+        "blocks": [
+          {
+            "p": "Africans lived in Tudor towns such as London, Southampton, Plymouth and Bristol. Miranda Kaufmann has documented over 360 named Africans in Britain between 1500 and 1640, and Onyeka Nubia argues that some were born in England."
+          },
+          {
+            "p": "Historians find them in parish registers (baptisms, marriages, burials), royal accounts, court cases, letters and wills. Words used at the time included \"blackamoore\", \"Moor\" and \"Ethiopian\". These are historical terms, and they did not always mean the same thing."
+          },
+          {
+            "p": "This was part of England's growing international role: more trade, exploration and contact with Africa, Spain, Portugal and the Mediterranean."
+          }
+        ],
+        "terms": [
+          "Black Tudors",
+          "blackamoore",
+          "parish register",
+          "presence"
+        ],
+        "evidence": [
+          "Over 360 Africans documented in Britain, 1500–1640 (Kaufmann)."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Reasons: why did Africans come?",
+        "blocks": [
+          {
+            "p": "Reasons were often mixed. Historians group them into push and pull factors:"
+          },
+          {
+            "ul": [
+              "Royal and noble households: Catherine of Aragon arrived from Spain in 1501 with a household that included Africans. Spain and Portugal already had large African populations.",
+              "Trade: merchants traded with Morocco, West Africa and the Iberian peninsula. Mary Fillis came from Morocco around 1583.",
+              "Skills: Africans brought skills that were valued, such as music (John Blanke, trumpeter) and diving (Jacques Francis).",
+              "Escaping Spanish slavery: Diego escaped Spanish enslavement in Panama and joined Francis Drake in 1572.",
+              "Privateering: English ships attacked Spanish and Portuguese shipping, and Africans on board sometimes ended up in England."
+            ]
+          },
+          {
+            "p": "Some came by choice, some were brought by others, and some escaped. A single person's journey could involve all three."
+          }
+        ],
+        "terms": [
+          "push factor",
+          "pull factor",
+          "trade",
+          "privateering",
+          "Catherine of Aragon"
+        ],
+        "evidence": [
+          "Catherine of Aragon arrived in 1501.",
+          "Diego joined Drake in 1572."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. How historians know: Kaufmann and Onyeka",
+        "blocks": [
+          {
+            "p": "Two historians have shaped how we understand Black Tudors:"
+          },
+          {
+            "ul": [
+              "Onyeka Nubia, \"Blackamoores\" (2013): argues Africans lived across urban England, were often employed for specialist skills, and were not automatically at the bottom of society.",
+              "Miranda Kaufmann, \"Black Tudors\" (2017): tells the stories of ten individuals, showing that Africans were baptised, married, paid wages and gave evidence in court."
+            ]
+          },
+          {
+            "p": "Both use archives, but records only survive for some people, and are usually written by others. Asking whose voice survives is part of the history."
+          }
+        ],
+        "terms": [
+          "interpretation",
+          "historian",
+          "archive",
+          "evidence"
+        ],
+        "evidence": [
+          "Onyeka, Blackamoores, 2013.",
+          "Kaufmann, Black Tudors, 2017."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1501",
+        "event": "Catherine of Aragon arrives from Spain; Africans are among her household."
+      },
+      {
+        "date": "1507",
+        "event": "John Blanke, \"the blacke trumpet\", appears in royal accounts."
+      },
+      {
+        "date": "1545",
+        "event": "The Mary Rose sinks; Jacques Francis later dives on the wreck."
+      },
+      {
+        "date": "1572",
+        "event": "Diego joins Francis Drake at Nombre de Dios, Panama."
+      },
+      {
+        "date": "c.1583",
+        "event": "Mary Fillis arrives in London from Morocco."
+      },
+      {
+        "date": "1596",
+        "event": "A Privy Council letter allows Caspar van Senden to take Africans abroad, only with their masters' consent; the scheme fails."
+      }
+    ],
+    "people": [
+      {
+        "name": "John Blanke",
+        "role": "Trumpeter to Henry VII and Henry VIII."
+      },
+      {
+        "name": "Jacques Francis",
+        "role": "Salvage diver; gave evidence in court in 1548."
+      },
+      {
+        "name": "Diego",
+        "role": "Escaped Spanish slavery; sailed with Drake."
+      },
+      {
+        "name": "Mary Fillis",
+        "role": "Moroccan-born servant and seamstress in London; baptised 1597."
+      },
+      {
+        "name": "Miranda Kaufmann",
+        "role": "Historian, author of \"Black Tudors\" (2017)."
+      },
+      {
+        "name": "Onyeka Nubia",
+        "role": "Historian, author of \"Blackamoores\" (2013)."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Migration",
+        "def": "Moving from one place to live in another."
+      },
+      {
+        "term": "Push factor",
+        "def": "Something that makes people leave a place."
+      },
+      {
+        "term": "Pull factor",
+        "def": "Something that attracts people to a place."
+      },
+      {
+        "term": "Blackamoore",
+        "def": "A Tudor word used for Africans and people with dark skin."
+      },
+      {
+        "term": "Privateering",
+        "def": "Attacks on enemy ships by privately owned ships with royal permission."
+      },
+      {
+        "term": "Parish register",
+        "def": "A church record of baptisms, marriages and burials."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "There were no Black people in England before the 20th century.",
+        "right": "Hundreds of Africans are recorded in Tudor and Stuart England."
+      },
+      {
+        "wrong": "All Africans in Tudor England were enslaved.",
+        "right": "Many were free, waged and baptised; English law did not clearly recognise slavery."
+      },
+      {
+        "wrong": "Africans only came because they were forced.",
+        "right": "Reasons included royal service, trade, skills and escape from Spanish slavery."
+      },
+      {
+        "wrong": "Elizabeth I deported all Africans in 1596.",
+        "right": "The 1596 scheme needed masters' consent and failed; Africans stayed."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kaufmann",
+        "title": "Miranda Kaufmann, \"Black Tudors: The Untold Story\" (2017)",
+        "type": "Historian's interpretation (book)",
+        "date": "2017",
+        "origin": "Written by a historian who researched records such as parish registers, court cases and royal accounts.",
+        "purpose": "To tell the life stories of ten Africans in Tudor and Stuart England.",
+        "usefulness": "Built from named individuals in archives. Kaufmann has documented over 360 Africans in Britain between 1500 and 1640. Each life is known only from the records that survive."
+      },
+      {
+        "id": "onyeka",
+        "title": "Onyeka Nubia, \"Blackamoores: Africans in Tudor England, their Presence, Status and Origins\" (2013)",
+        "type": "Historian's interpretation (book)",
+        "date": "2013",
+        "origin": "Written by a British historian after about ten years studying around 250,000 documents.",
+        "purpose": "To show that Africans were present across Tudor England and to challenge the idea that they were all slaves or outsiders.",
+        "usefulness": "Argues many Africans had valued skills and that a significant minority were born in England. Like any interpretation, its arguments should be weighed against the evidence."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "Roughly how many named Africans has Kaufmann documented in Britain, 1500–1640?",
+        "options": [
+          "About 36",
+          "Over 360",
+          "About 36,000",
+          "None"
+        ],
+        "answer": 1,
+        "why": "Over 360."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Where do historians find Black Tudors in the records?",
+        "options": [
+          "Only in novels",
+          "Parish registers, royal accounts, court cases and letters",
+          "Only on social media",
+          "Only in paintings"
+        ],
+        "answer": 1,
+        "why": "Archives."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Who arrived from Spain in 1501 with a household that included Africans?",
+        "options": [
+          "Elizabeth I",
+          "Catherine of Aragon",
+          "Mary Queen of Scots",
+          "Anne Boleyn"
+        ],
+        "answer": 1,
+        "why": "To marry Prince Arthur."
+      },
+      {
+        "id": "m4",
+        "s": "s2",
+        "q": "Which is a PULL factor?",
+        "options": [
+          "Escaping Spanish slavery",
+          "Valued skills and paid work in England",
+          "War at home",
+          "Famine"
+        ],
+        "answer": 1,
+        "why": "Pull = attraction."
+      },
+      {
+        "id": "m5",
+        "s": "s2",
+        "q": "Diego came to England after…",
+        "options": [
+          "Being born in London",
+          "Escaping Spanish slavery and joining Drake",
+          "Marrying a king",
+          "Studying at Oxford"
+        ],
+        "answer": 1,
+        "why": "1572, Panama."
+      },
+      {
+        "id": "m6",
+        "s": "s2",
+        "q": "Mary Fillis came from…",
+        "options": [
+          "Spain",
+          "Morocco",
+          "Portugal",
+          "Benin"
+        ],
+        "answer": 1,
+        "why": "Around 1583."
+      },
+      {
+        "id": "m7",
+        "s": "s3",
+        "q": "Who wrote \"Blackamoores\" (2013)?",
+        "options": [
+          "Miranda Kaufmann",
+          "Onyeka Nubia",
+          "Peter Fryer",
+          "David Olusoga"
+        ],
+        "answer": 1,
+        "why": "Onyeka Nubia."
+      },
+      {
+        "id": "m8",
+        "s": "s3",
+        "q": "Who wrote \"Black Tudors\" (2017)?",
+        "options": [
+          "Miranda Kaufmann",
+          "Onyeka Nubia",
+          "Simon Schama",
+          "Mary Beard"
+        ],
+        "answer": 0,
+        "why": "Miranda Kaufmann."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s2",
+        "q": "In which year did Catherine of Aragon arrive in England?",
+        "accept": [
+          "1501"
+        ],
+        "answer": "1501"
+      },
+      {
+        "id": "a2",
+        "s": "s3",
+        "q": "Which historian wrote \"Black Tudors\"?",
+        "accept": [
+          "miranda kaufmann",
+          "kaufmann"
+        ],
+        "answer": "Miranda Kaufmann"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "Which historian wrote \"Blackamoores\"?",
+        "accept": [
+          "onyeka nubia",
+          "onyeka"
+        ],
+        "answer": "Onyeka Nubia"
+      },
+      {
+        "id": "a4",
+        "s": "s2",
+        "q": "What do we call a factor that attracts people to a place?",
+        "accept": [
+          "pull factor",
+          "pull",
+          "a pull factor"
+        ],
+        "answer": "Pull factor"
+      },
+      {
+        "id": "a5",
+        "s": "s1",
+        "q": "Name a church record where Black Tudors appear.",
+        "accept": [
+          "parish register",
+          "parish registers",
+          "baptism record",
+          "baptism"
+        ],
+        "answer": "Parish register"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Catherine of Aragon arrives",
+          "John Blanke in royal accounts",
+          "Mary Rose sinks",
+          "Diego joins Drake",
+          "Mary Fillis arrives in London",
+          "Van Senden scheme fails"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the person to the reason they came",
+        "pairs": [
+          [
+            "John Blanke",
+            "Royal service as a musician"
+          ],
+          [
+            "Jacques Francis",
+            "Valued diving skills"
+          ],
+          [
+            "Diego",
+            "Escape from Spanish slavery"
+          ],
+          [
+            "Mary Fillis",
+            "Trade links with Morocco"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Give two different reasons why Africans came to Tudor England, with an example of each.",
+        "keywords": [
+          [
+            "catherine",
+            "court",
+            "royal",
+            "trade",
+            "morocco",
+            "skills",
+            "escape",
+            "drake",
+            "privateering"
+          ],
+          [
+            "blanke",
+            "fillis",
+            "diego",
+            "francis",
+            "1501",
+            "1572"
+          ]
+        ],
+        "model": "Some came through royal households, such as Africans with Catherine of Aragon in 1501, while others escaped Spanish slavery, like Diego, who joined Drake in 1572."
+      },
+      {
+        "id": "e2",
+        "s": "s3",
+        "q": "Explain why historians must be careful with the records about Black Tudors.",
+        "keywords": [
+          [
+            "written by others",
+            "records",
+            "survive",
+            "voice"
+          ],
+          [
+            "few",
+            "only some",
+            "bias",
+            "terms",
+            "blackamoore"
+          ]
+        ],
+        "model": "Most records were written by others, such as clerks or employers, and survive only for some people, so we rarely hear Africans in their own words."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Black Tudors documented by Kaufmann",
+      "a": "Over 360 Africans in Britain, 1500–1640."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "Where Black Tudors appear",
+      "a": "Parish registers, royal accounts, court cases, letters, wills."
+    },
+    {
+      "id": "f3",
+      "s": "s1",
+      "q": "Blackamoore",
+      "a": "Tudor word used for Africans."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "Catherine of Aragon",
+      "a": "Arrived 1501 with a household including Africans."
+    },
+    {
+      "id": "f5",
+      "s": "s2",
+      "q": "Push vs pull",
+      "a": "Push: makes you leave. Pull: attracts you."
+    },
+    {
+      "id": "f6",
+      "s": "s2",
+      "q": "Privateering",
+      "a": "Licensed attacks on enemy ships."
+    },
+    {
+      "id": "f7",
+      "s": "s2",
+      "q": "Diego's reason",
+      "a": "Escaped Spanish slavery; joined Drake in 1572."
+    },
+    {
+      "id": "f8",
+      "s": "s2",
+      "q": "Mary Fillis's reason",
+      "a": "Came from Morocco via trade links, around 1583."
+    },
+    {
+      "id": "f9",
+      "s": "s3",
+      "q": "\"Blackamoores\"",
+      "a": "Onyeka Nubia, 2013."
+    },
+    {
+      "id": "f10",
+      "s": "s3",
+      "q": "\"Black Tudors\"",
+      "a": "Miranda Kaufmann, 2017."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "describe",
+      "text": "I can describe where and how historians find evidence of Black Tudors.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "describe",
+      "text": "I can describe at least four reasons Africans came to Tudor England.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "explain",
+      "text": "I can explain push and pull factors using named individuals.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain the arguments of Onyeka and Kaufmann.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge which reason was most important for Africans coming to Tudor England.",
+      "sections": [
+        "s2"
+      ]
+    }
+  ],
+  "exam": {
+    "criteria_status": "missing",
+    "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
+    "questions": [
+      {
+        "id": "q1",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "describe",
+        "minutes": 5,
+        "q": "Describe two reasons why Africans came to Tudor England.",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Two different reasons, each with a named example.",
+        "steps": [
+          "Pick two different reasons.",
+          "Add a named person or date for each."
+        ],
+        "plan": "1 minute planning, 3 minutes writing, 1 minute checking.",
+        "success": [
+          "Two different reasons",
+          "Named example for each"
+        ],
+        "mistakes": [
+          "Saying everyone was forced",
+          "No examples"
+        ],
+        "frame": {
+          "full": [
+            "One reason was… For example…",
+            "A second reason was… For example…"
+          ],
+          "some": [
+            "Reason + example",
+            "Reason + example"
+          ]
+        }
+      },
+      {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "judge",
+        "minutes": 12,
+        "q": "\"Africans came to Tudor England mainly because of royal service.\" How far do you agree?",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Weigh royal service against trade, skills, privateering and escape.",
+        "steps": [
+          "Explain royal service with evidence.",
+          "Explain at least two other reasons with named people.",
+          "Judge with a qualifier."
+        ],
+        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
+        "success": [
+          "Qualified judgement",
+          "Named individuals",
+          "Explaining connectives"
+        ],
+        "mistakes": [
+          "Only one reason",
+          "No judgement"
+        ],
+        "model": [
+          {
+            "t": "Royal service was only partly the main reason, because Africans came for many different reasons.",
+            "n": "P: qualified."
+          },
+          {
+            "t": "John Blanke was paid as a royal trumpeter from 1507, but Diego came after escaping Spanish slavery in 1572, and Mary Fillis arrived from Morocco around 1583 through trade links.",
+            "n": "E: precise, several reasons."
+          },
+          {
+            "t": "This means royal courts explain some arrivals, but trade and conflict with Spain explain more of the later ones.",
+            "n": "E: explains."
+          },
+          {
+            "t": "Therefore there was no single main reason; it changed across the Tudor period.",
+            "n": "J: judgement."
+          }
+        ],
+        "frame": {
+          "full": [
+            "P: Royal service was the main reason to a large / some extent…",
+            "E: For example, John Blanke…",
+            "E: However, … This meant that…",
+            "J: Therefore, overall…"
+          ],
+          "some": [
+            "P: qualified claim (highly / partly / to some extent…)",
+            "E: precise evidence (name, date, number, source)",
+            "E: explain with a connective (because / this meant that / therefore)",
+            "J: judgement that answers the question"
+          ]
+        }
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Choice or force?",
+      "task": "Sort the four stories by how much choice each person had. Is \"push and pull\" too simple for their journeys?"
+    },
+    {
+      "id": "t2",
+      "kind": "Historians compare",
+      "task": "What does Onyeka argue that Kaufmann also shows? Is there anything they seem to disagree on?"
+    },
+    {
+      "id": "t3",
+      "kind": "Missing records",
+      "task": "Why might women like Mary Fillis be harder to find in the records than men like John Blanke?"
+    },
+    {
+      "id": "t4",
+      "kind": "GCSE link",
+      "task": "The Pearson GCSE Migrants course studies migrants from c800 to the present. Compare Tudor African migrants with one later group: what is similar, what is different?"
+    }
+  ],
+  "planning": {
+    "title": "Planning grid: why did Africans come?",
+    "rows": [
+      "Royal service",
+      "Trade",
+      "Skills",
+      "Escape from slavery",
+      "Privateering"
+    ],
+    "cols": [
+      "Named person and date",
+      "Push or pull?",
+      "How important?"
+    ],
+    "judgement": "The most important reason was … because …"
+  }
+}
