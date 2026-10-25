@@ -708,5 +708,42 @@
       "task": "Rank Rolling Thunder, search and destroy and chemical weapons by how much they damaged the US war effort."
     }
   ],
-  "search": "Vietnam escalation"
+  "search": "Vietnam escalation",
+  "videos": [
+    {
+      "title": "Early American policy in Vietnam",
+      "url": "https://drive.google.com/file/d/1ZeQ8lQp-EBzZIv4icAwrHhdxzCvMrlgD/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "American problems and war geography",
+      "url": "https://drive.google.com/file/d/1DC62yUFu9fN-ptug5YS92qIBBq-pRt_U/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The Viet Cong: guerrilla warfare",
+      "url": "https://drive.google.com/file/d/1U23MkIeCPwv0IVhJimFOWeve7aTzumTf/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Search and destroy",
+      "url": "https://drive.google.com/file/d/1Cm_cbSJ8WAPVrLGLpfumnGvwIH9o6Hg2/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Chemical weapons, Agent Orange and Viet Cong tunnels",
+      "url": "https://drive.google.com/file/d/1W3Urg8YmesWxcJSz_zIVl8Adbx2PwDjA/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The Tet Offensive: what happened",
+      "url": "https://drive.google.com/file/d/186Rbrs1COdvZB7Y6rvTQ4oWjbrBLWNiW/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The Tet Offensive: the aftermath",
+      "url": "https://drive.google.com/file/d/1xSEj2tDHcrYI_P4vtSezw0UQvMhhGbBq/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

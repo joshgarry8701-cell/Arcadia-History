@@ -792,5 +792,42 @@
       "task": "Show how television linked Birmingham, Selma and the new laws."
     }
   ],
-  "search": "civil rights 1960s"
+  "search": "civil rights 1960s",
+  "videos": [
+    {
+      "title": "Civil rights legislation (part 1)",
+      "url": "https://drive.google.com/file/d/1Iehts_6QVEPI1ns2PSBSujJ1Gqwe4c-0/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Peaceful protest in the 1960s",
+      "url": "https://drive.google.com/file/d/1ngaSzdc9zWr4jQ2dIw84AEzLA9Hh8_E9/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The role of Martin Luther King",
+      "url": "https://drive.google.com/file/d/1FEm-5qscP3UQA_UZEPzppz5WzugsWItn/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Civil rights legislation (part 2)",
+      "url": "https://drive.google.com/file/d/1Zs2zBAp4Cv4imxvnxyuxBq3tWJVhX7NR/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Black Power",
+      "url": "https://drive.google.com/file/d/1WwSh79elsLsWK3JNXo_Lm15ACY71Ci6x/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Progress for Black Americans after 1965 (part 1)",
+      "url": "https://drive.google.com/file/d/1fKX3p0VnZ3Am-I6CiPimK0aYzRlXkif0/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Progress for Black Americans after 1965 (part 2)",
+      "url": "https://drive.google.com/file/d/1BzsukrSKC9VRxPdHfoGY3y6MEhhWUmU0/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

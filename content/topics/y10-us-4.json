@@ -768,5 +768,32 @@
       "task": "How did the civil rights movement shape the methods of the student and women's movements?"
     }
   ],
-  "search": "women's movement"
+  "search": "women's movement",
+  "videos": [
+    {
+      "title": "Opposition to the Vietnam War",
+      "url": "https://drive.google.com/file/d/1--O-1AbP-MvH0DhapWgc7PADY_1rxMnO/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Development of feminist movements",
+      "url": "https://drive.google.com/file/d/1Eil6GREwROiDd7MFxlnLt4kUzzTRAhwb/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The impact of feminism",
+      "url": "https://drive.google.com/file/d/1AP4YmFneB_tH_7JDNmVTDD_9z5S9c6mE/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Kent State University protest (1970)",
+      "url": "https://drive.google.com/file/d/1AcVGV-2eA3J3zgystWvKeXI-guFIEY43/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Student movements",
+      "url": "https://drive.google.com/file/d/1oPGHkL7FRMG16jOewG2zkHE3XgdM_5b0/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

@@ -687,5 +687,32 @@
       "task": "Why might a 1969 TV news report and a 'silent majority' speech give different views of American attitudes?"
     }
   ],
-  "search": "anti-war movement"
+  "search": "anti-war movement",
+  "videos": [
+    {
+      "title": "Opposition to the Vietnam War",
+      "url": "https://drive.google.com/file/d/1_4kODgFtaUxT1-yQsFV4BvDb9Vo-Ynob/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Problems in Vietnam in 1975",
+      "url": "https://drive.google.com/file/d/11XdO8VPIYNfkSeLN8Y2EBWdERBgeunOh/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "My Lai Massacre (1968)",
+      "url": "https://drive.google.com/file/d/1BFWvBMESSk09d3LggbrbZiCMWY6GTOuL/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Kent State University protest (1970)",
+      "url": "https://drive.google.com/file/d/1Je7lNJCWFkqNuUek9kOXu9DXNUVCcLjb/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The price of conflict for the USA",
+      "url": "https://drive.google.com/file/d/19k7oiYMVfe9CyZ5QCCBewi9DxshOCxXq/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24",
+  "generated": "2026-10-25",
   "note": "Every course and topic of Mr Garry's History Revision Hub. courses[].qtypes are question types (exam guide, mark scheme, frames, models, examiner advice); topics[].exam.questions[].qtype points to them.",
   "courses": [
     {
@@ -3077,7 +3077,34 @@
           "task": "'The Weimar Republic was doomed from the start.' Write one paragraph for and one against."
         }
       ],
-      "search": "Weimar Republic"
+      "search": "Weimar Republic",
+      "videos": [
+        {
+          "title": "Political challenges from the left and right",
+          "url": "https://drive.google.com/file/d/1-Baq9Kq3AZ_0tICrRSPr7SSSTL8DAp8o/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The nature of the Weimar Republic",
+          "url": "https://drive.google.com/file/d/1elYyUMzEeBwFezYEDXGofVKWrz_BUdfM/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Immediate impact of the First World War on Germany",
+          "url": "https://drive.google.com/file/d/1K3CjRrWx_PmlrXIFC3Dr-TeGQ5hLmYvS/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Treaty of Versailles and its effect on Germany",
+          "url": "https://drive.google.com/file/d/1T1wwXOw3glnyL_M4d3SP3Rs6k3tkiPVr/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Occupation of the Ruhr",
+          "url": "https://drive.google.com/file/d/1GsNIcIvsjBdn1YxS5asGR2oVXdTW1V-2/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y10-de-2",
@@ -3739,7 +3766,14 @@
           "task": "Which mattered more for recovery: economic measures or foreign-policy successes? Decide using how many Germans each affected."
         }
       ],
-      "search": "Stresemann"
+      "search": "Stresemann",
+      "videos": [
+        {
+          "title": "The Stresemann era",
+          "url": "https://drive.google.com/file/d/1OSv-4quGZf0cSDHWaqSSWMS5Ubeqhgg_/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y10-de-3",
@@ -4603,7 +4637,44 @@
           "task": "If the Wall Street Crash had not happened, would Hitler have become Chancellor? Use the 1928 election result."
         }
       ],
-      "search": "rise of the Nazis"
+      "search": "rise of the Nazis",
+      "videos": [
+        {
+          "title": "Hitler as chancellor",
+          "url": "https://drive.google.com/file/d/1kuepIPI0mlQVbwIeXEwYD825RpR4S2jy/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Growth in support for the Nazi Party, 1928–32",
+          "url": "https://drive.google.com/file/d/1QhHB-gvXstj7isfkITBH1LZkEMQb0AyW/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Munich Putsch",
+          "url": "https://drive.google.com/file/d/1vwI2L6qUHzhzbR4ikjqATKF8Y-4NdWbi/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The lean years, 1924–28",
+          "url": "https://drive.google.com/file/d/1v1l4sYnQumj6l_r-BJhcVxvlbyeMJYY-/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The founding of the Nazi Party",
+          "url": "https://drive.google.com/file/d/1iWL3iONNeXdKlmurLbNQrwmO4xWHlRaE/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Nazi aims and tactics",
+          "url": "https://drive.google.com/file/d/1Gl_CjMXYoEV0ddQoaUhHwDEBzA-sZT3v/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Great Depression and its effects",
+          "url": "https://drive.google.com/file/d/1pSjWS4V-mUIcKkxlrF-F66ovf7aQr0e4/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y10-de-4",
@@ -5547,7 +5618,74 @@
           "task": "How far did life change for German women in 1933–39? Think about what the Nazis wanted and what actually happened."
         }
       ],
-      "search": "Nazi Germany"
+      "search": "Nazi Germany",
+      "videos": [
+        {
+          "title": "The death of President Hindenburg",
+          "url": "https://drive.google.com/file/d/1uHAvYRNdsnBJcWVhY5CRgOCVcf34hddr/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Night of the Long Knives",
+          "url": "https://drive.google.com/file/d/1c3-mXxPwO1ASgy7SU8EFmtEkCJfTNKRb/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Enabling Act",
+          "url": "https://drive.google.com/file/d/1LAsyWsaXVcjr_A7cRb0r5G6rrn8tJaVJ/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Reichstag Fire",
+          "url": "https://drive.google.com/file/d/1fAiKRA7n0nBFZO2AkpGeriH_jCjsvmLY/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Education",
+          "url": "https://drive.google.com/file/d/1UbXFJ-TJXbefuGgnwUgqTofcM_jgp8Vt/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The persecution of minorities",
+          "url": "https://drive.google.com/file/d/1q3oE3YoBAUxRc9yGb4uwaOtWFXDVJ5sz/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Religion",
+          "url": "https://drive.google.com/file/d/1atJAJGKGCjHMbKOd2D04mu3T5UfKXTb9/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Women",
+          "url": "https://drive.google.com/file/d/1hAfz-sp1wo6u5pQve58n-TZNxFEFcMY7/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The police state",
+          "url": "https://drive.google.com/file/d/1VKqVnA-ydCi_MMxpBtk5Da3rw7LudD2d/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Propaganda",
+          "url": "https://drive.google.com/file/d/1u_XZKDG_fvdXOR6KMBnYm9O_a1TyBdx8/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Youth movements",
+          "url": "https://drive.google.com/file/d/1On_Z73p67WuIbT3zAcDfiw5KaVCAKx1r/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Unemployment and living standards",
+          "url": "https://drive.google.com/file/d/1nIOsQNPrLMBMPIUO7WXE5_H2hbyE43N2/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Kristallnacht",
+          "url": "https://drive.google.com/file/d/1jB_spA5eKCzU7v6tiRIhnVra47ahL4o-/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y10-de-5",
@@ -6349,7 +6487,29 @@
           "task": "Why did opposition never become a mass movement? Give three reasons and rank them."
         }
       ],
-      "search": "Germany Second World War home front"
+      "search": "Germany Second World War home front",
+      "videos": [
+        {
+          "title": "The Holocaust and the Final Solution",
+          "url": "https://drive.google.com/file/d/1gbasx72Q4kT0yYgWv6dpCheV0xw4ultP/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Growing opposition",
+          "url": "https://drive.google.com/file/d/12SPDtbSTtpmQTpun4-5BUcyGpIEQQgK7/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Life in Germany during the Second World War",
+          "url": "https://drive.google.com/file/d/1I6aYf-oZuKi6RjIMNHa7w_JhTuULqYlP/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The defeat of Germany",
+          "url": "https://drive.google.com/file/d/1W_XZnq7pdgbo23os8h9lzsoEl8XR92-B/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y10-us-1",
@@ -7081,7 +7241,14 @@
           "task": "Media, the army or McCarthy himself — which mattered most to his downfall?"
         }
       ],
-      "search": "McCarthyism"
+      "search": "McCarthyism",
+      "videos": [
+        {
+          "title": "McCarthyism and the Red Scare",
+          "url": "https://drive.google.com/file/d/13y-tMeFdPdCMXjI0ykMI-ThPDmEm_Y8N/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y10-us-2",
@@ -7820,7 +7987,24 @@
           "task": "Why did the federal government act so slowly in the 1950s? Give three reasons."
         }
       ],
-      "search": "civil rights 1950s"
+      "search": "civil rights 1950s",
+      "videos": [
+        {
+          "title": "The Ku Klux Klan and opposition to the civil rights movement",
+          "url": "https://drive.google.com/file/d/1C--_xroWYMad5osRVfIOqTt6a6ELyzp-/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The position of Black Americans in the early 1950s",
+          "url": "https://drive.google.com/file/d/173Coeqkm9rYlT1xUvk3945bIP26J4dTE/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Education and Black civil rights",
+          "url": "https://drive.google.com/file/d/1KMCSzhiKK7De6ftpq1qzAIbxOo8nbyrb/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y10-us-3",
@@ -8616,7 +8800,44 @@
           "task": "Show how television linked Birmingham, Selma and the new laws."
         }
       ],
-      "search": "civil rights 1960s"
+      "search": "civil rights 1960s",
+      "videos": [
+        {
+          "title": "Civil rights legislation (part 1)",
+          "url": "https://drive.google.com/file/d/1Iehts_6QVEPI1ns2PSBSujJ1Gqwe4c-0/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Peaceful protest in the 1960s",
+          "url": "https://drive.google.com/file/d/1ngaSzdc9zWr4jQ2dIw84AEzLA9Hh8_E9/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The role of Martin Luther King",
+          "url": "https://drive.google.com/file/d/1FEm-5qscP3UQA_UZEPzppz5WzugsWItn/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Civil rights legislation (part 2)",
+          "url": "https://drive.google.com/file/d/1Zs2zBAp4Cv4imxvnxyuxBq3tWJVhX7NR/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Black Power",
+          "url": "https://drive.google.com/file/d/1WwSh79elsLsWK3JNXo_Lm15ACY71Ci6x/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Progress for Black Americans after 1965 (part 1)",
+          "url": "https://drive.google.com/file/d/1fKX3p0VnZ3Am-I6CiPimK0aYzRlXkif0/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Progress for Black Americans after 1965 (part 2)",
+          "url": "https://drive.google.com/file/d/1BzsukrSKC9VRxPdHfoGY3y6MEhhWUmU0/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y10-us-4",
@@ -9388,7 +9609,34 @@
           "task": "How did the civil rights movement shape the methods of the student and women's movements?"
         }
       ],
-      "search": "women's movement"
+      "search": "women's movement",
+      "videos": [
+        {
+          "title": "Opposition to the Vietnam War",
+          "url": "https://drive.google.com/file/d/1--O-1AbP-MvH0DhapWgc7PADY_1rxMnO/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Development of feminist movements",
+          "url": "https://drive.google.com/file/d/1Eil6GREwROiDd7MFxlnLt4kUzzTRAhwb/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The impact of feminism",
+          "url": "https://drive.google.com/file/d/1AP4YmFneB_tH_7JDNmVTDD_9z5S9c6mE/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Kent State University protest (1970)",
+          "url": "https://drive.google.com/file/d/1AcVGV-2eA3J3zgystWvKeXI-guFIEY43/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Student movements",
+          "url": "https://drive.google.com/file/d/1oPGHkL7FRMG16jOewG2zkHE3XgdM_5b0/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y10-us-5",
@@ -9958,7 +10206,14 @@
           "task": "How far did the 1973–74 laws really limit presidential power?"
         }
       ],
-      "search": "Watergate"
+      "search": "Watergate",
+      "videos": [
+        {
+          "title": "The Watergate scandal",
+          "url": "https://drive.google.com/file/d/1TOvxI0LNSwrkQY-PyaT6NasgIibMvLFS/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y11-med-1",
@@ -10888,7 +11143,14 @@
           "task": "Why might chloroform have increased deaths from surgery at first? Explain the chain."
         }
       ],
-      "search": "Florence Nightingale"
+      "search": "Florence Nightingale",
+      "videos": [
+        {
+          "title": "The influence of Florence Nightingale",
+          "url": "https://drive.google.com/file/d/1lLN2sgGbA-JukiG8jDFQKlsYP_3JJAd7/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y11-med-2",
@@ -14178,7 +14440,24 @@
           "task": "Explain how the communist victory in China in 1949 changed both sides' involvement in Vietnam."
         }
       ],
-      "search": "Dien Bien Phu"
+      "search": "Dien Bien Phu",
+      "videos": [
+        {
+          "title": "Background to the Vietnam War",
+          "url": "https://drive.google.com/file/d/1hoXfm1TGY3mjy2ol50IZuccgZvdA3a9P/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The First Indochina War",
+          "url": "https://drive.google.com/file/d/1zfqhtPy1gkHwwZV4_XsAgwZqYZ0WELw_/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Dien Bien Phu and the Geneva Conference",
+          "url": "https://drive.google.com/file/d/1dIAXLChFntjqsaiTvFUG1dg_TVWMo3hZ/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y11-vn-2",
@@ -15012,7 +15291,29 @@
           "task": "How did Diem's policies help the NLF? Make a chain of three links."
         }
       ],
-      "search": "Diem Vietnam"
+      "search": "Diem Vietnam",
+      "videos": [
+        {
+          "title": "America and the Domino Theory",
+          "url": "https://drive.google.com/file/d/1MqtIe9kmp80GTnWTsH6qm1HYs6SL5vrc/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Ngo Dinh Diem",
+          "url": "https://drive.google.com/file/d/1-_6_QUNRQDzUnq574TsFZapoZAihphET/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Kennedy's escalation, 1961–63",
+          "url": "https://drive.google.com/file/d/1792Y1UNP1HP-d1N2Zhl3BEfETuCuj_OD/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Gulf of Tonkin and its consequences",
+          "url": "https://drive.google.com/file/d/1q1w4S_uMvokvuRSGi61G9PuPmLATevA7/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y11-vn-3",
@@ -15724,7 +16025,44 @@
           "task": "Rank Rolling Thunder, search and destroy and chemical weapons by how much they damaged the US war effort."
         }
       ],
-      "search": "Vietnam escalation"
+      "search": "Vietnam escalation",
+      "videos": [
+        {
+          "title": "Early American policy in Vietnam",
+          "url": "https://drive.google.com/file/d/1ZeQ8lQp-EBzZIv4icAwrHhdxzCvMrlgD/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "American problems and war geography",
+          "url": "https://drive.google.com/file/d/1DC62yUFu9fN-ptug5YS92qIBBq-pRt_U/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Viet Cong: guerrilla warfare",
+          "url": "https://drive.google.com/file/d/1U23MkIeCPwv0IVhJimFOWeve7aTzumTf/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Search and destroy",
+          "url": "https://drive.google.com/file/d/1Cm_cbSJ8WAPVrLGLpfumnGvwIH9o6Hg2/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Chemical weapons, Agent Orange and Viet Cong tunnels",
+          "url": "https://drive.google.com/file/d/1W3Urg8YmesWxcJSz_zIVl8Adbx2PwDjA/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Tet Offensive: what happened",
+          "url": "https://drive.google.com/file/d/186Rbrs1COdvZB7Y6rvTQ4oWjbrBLWNiW/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Tet Offensive: the aftermath",
+          "url": "https://drive.google.com/file/d/1xSEj2tDHcrYI_P4vtSezw0UQvMhhGbBq/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y11-vn-4",
@@ -16296,7 +16634,24 @@
           "task": "Which reason for US failure was most important? Justify your ranking of all four."
         }
       ],
-      "search": "Vietnamisation"
+      "search": "Vietnamisation",
+      "videos": [
+        {
+          "title": "Cambodia and Laos",
+          "url": "https://drive.google.com/file/d/1p1PCJV1MXj1u1dWmTESe2qjtxwL1s12Q/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The peace process and the end of the war",
+          "url": "https://drive.google.com/file/d/1lY5l1_OK8ecbBwwZCnPFsW2GnCOHquMQ/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Nixon Doctrine and Vietnamisation",
+          "url": "https://drive.google.com/file/d/1n0Pg0QSLKk1EgP4_ZCd27SCNXCCeqEIA/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y11-vn-5",
@@ -16987,7 +17342,34 @@
           "task": "Why might a 1969 TV news report and a 'silent majority' speech give different views of American attitudes?"
         }
       ],
-      "search": "anti-war movement"
+      "search": "anti-war movement",
+      "videos": [
+        {
+          "title": "Opposition to the Vietnam War",
+          "url": "https://drive.google.com/file/d/1_4kODgFtaUxT1-yQsFV4BvDb9Vo-Ynob/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Problems in Vietnam in 1975",
+          "url": "https://drive.google.com/file/d/11XdO8VPIYNfkSeLN8Y2EBWdERBgeunOh/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "My Lai Massacre (1968)",
+          "url": "https://drive.google.com/file/d/1BFWvBMESSk09d3LggbrbZiCMWY6GTOuL/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Kent State University protest (1970)",
+          "url": "https://drive.google.com/file/d/1Je7lNJCWFkqNuUek9kOXu9DXNUVCcLjb/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The price of conflict for the USA",
+          "url": "https://drive.google.com/file/d/19k7oiYMVfe9CyZ5QCCBewi9DxshOCxXq/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y12-de-1",
@@ -31866,6 +32248,43 @@
           "kind": "Turning points",
           "task": "Was 1947 or 1950 the more important turning point in the development of the Cold War?"
         }
+      ],
+      "videos": [
+        {
+          "title": "The Truman Doctrine and Marshall Plan",
+          "url": "https://drive.google.com/file/d/1VlbHJllp_kZMt6kNlxzhaE0IhGpNr0PU/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The arms race",
+          "url": "https://drive.google.com/file/d/1OYcfqLdEWd2vxXLP4HMxY11pGUExibwK/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Iron Curtain",
+          "url": "https://drive.google.com/file/d/1TYbYOkagz1l4IyLgYUjtpVp4DcZIfElw/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Ideological differences",
+          "url": "https://drive.google.com/file/d/1rC4ykhEFqO2KqBt0iwPWvYQ07MUPDyw-/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Yalta and Potsdam conferences",
+          "url": "https://drive.google.com/file/d/1hEhm0s3CE02O9wXGrqzBor2WXLUWMGa3/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "NATO",
+          "url": "https://drive.google.com/file/d/1YX-YI28kalN0YFDnOTQpR3qIJHqjULJP/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Berlin Blockade",
+          "url": "https://drive.google.com/file/d/1FoLWCKWzwuzhL7QVrezRiLEUgiBqjOlr/view",
+          "src": "GCSEPod"
+        }
       ]
     },
     {
@@ -32804,6 +33223,28 @@
           "kind": "Turning points",
           "task": "Was Cuba (1962) a turning point or the climax of a pattern? Use Berlin and Hungary as comparisons."
         }
+      ],
+      "videos": [
+        {
+          "title": "The Berlin Wall",
+          "url": "https://drive.google.com/file/d/1Aq3tgJVfmAkp73RJ8ABhm_AshCUnLsVI/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Hungary, 1956",
+          "url": "https://drive.google.com/file/d/1y8a5rlhBvBXw5WrCwoZwX3tklAiyZr6J/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Cuban Missile Crisis",
+          "url": "https://drive.google.com/file/d/18MbOCs3QCHSZgfQ__I8gMUeNJ1HXkHJf/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "The Warsaw Pact",
+          "url": "https://drive.google.com/file/d/1DYozb6c2Ib7ufEYddQqh1smYgyhjZkn4/view",
+          "src": "GCSEPod"
+        }
       ]
     },
     {
@@ -33556,6 +33997,13 @@
           "id": "t2",
           "kind": "Interpretation",
           "task": "Was détente a genuine improvement or 'superficial diplomacy' (examiners' phrase for weaker evidence)? Argue both sides."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Czechoslovakia, 1968",
+          "url": "https://drive.google.com/file/d/1qo-omrDvfySbZdgsrHaL0dJcfnmCHLUi/view",
+          "src": "GCSEPod"
         }
       ]
     },

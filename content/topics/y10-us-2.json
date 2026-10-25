@@ -735,5 +735,22 @@
       "task": "Why did the federal government act so slowly in the 1950s? Give three reasons."
     }
   ],
-  "search": "civil rights 1950s"
+  "search": "civil rights 1950s",
+  "videos": [
+    {
+      "title": "The Ku Klux Klan and opposition to the civil rights movement",
+      "url": "https://drive.google.com/file/d/1C--_xroWYMad5osRVfIOqTt6a6ELyzp-/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The position of Black Americans in the early 1950s",
+      "url": "https://drive.google.com/file/d/173Coeqkm9rYlT1xUvk3945bIP26J4dTE/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Education and Black civil rights",
+      "url": "https://drive.google.com/file/d/1KMCSzhiKK7De6ftpq1qzAIbxOo8nbyrb/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

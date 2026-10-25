@@ -798,5 +798,27 @@
       "task": "Why did opposition never become a mass movement? Give three reasons and rank them."
     }
   ],
-  "search": "Germany Second World War home front"
+  "search": "Germany Second World War home front",
+  "videos": [
+    {
+      "title": "The Holocaust and the Final Solution",
+      "url": "https://drive.google.com/file/d/1gbasx72Q4kT0yYgWv6dpCheV0xw4ultP/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Growing opposition",
+      "url": "https://drive.google.com/file/d/12SPDtbSTtpmQTpun4-5BUcyGpIEQQgK7/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Life in Germany during the Second World War",
+      "url": "https://drive.google.com/file/d/1I6aYf-oZuKi6RjIMNHa7w_JhTuULqYlP/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The defeat of Germany",
+      "url": "https://drive.google.com/file/d/1W_XZnq7pdgbo23os8h9lzsoEl8XR92-B/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

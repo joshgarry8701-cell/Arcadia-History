@@ -568,5 +568,22 @@
       "task": "Which reason for US failure was most important? Justify your ranking of all four."
     }
   ],
-  "search": "Vietnamisation"
+  "search": "Vietnamisation",
+  "videos": [
+    {
+      "title": "Cambodia and Laos",
+      "url": "https://drive.google.com/file/d/1p1PCJV1MXj1u1dWmTESe2qjtxwL1s12Q/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The peace process and the end of the war",
+      "url": "https://drive.google.com/file/d/1lY5l1_OK8ecbBwwZCnPFsW2GnCOHquMQ/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The Nixon Doctrine and Vietnamisation",
+      "url": "https://drive.google.com/file/d/1n0Pg0QSLKk1EgP4_ZCd27SCNXCCeqEIA/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

@@ -566,5 +566,12 @@
       "task": "How far did the 1973–74 laws really limit presidential power?"
     }
   ],
-  "search": "Watergate"
+  "search": "Watergate",
+  "videos": [
+    {
+      "title": "The Watergate scandal",
+      "url": "https://drive.google.com/file/d/1TOvxI0LNSwrkQY-PyaT6NasgIibMvLFS/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

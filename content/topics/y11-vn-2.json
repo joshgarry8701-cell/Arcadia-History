@@ -830,5 +830,27 @@
       "task": "How did Diem's policies help the NLF? Make a chain of three links."
     }
   ],
-  "search": "Diem Vietnam"
+  "search": "Diem Vietnam",
+  "videos": [
+    {
+      "title": "America and the Domino Theory",
+      "url": "https://drive.google.com/file/d/1MqtIe9kmp80GTnWTsH6qm1HYs6SL5vrc/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Ngo Dinh Diem",
+      "url": "https://drive.google.com/file/d/1-_6_QUNRQDzUnq574TsFZapoZAihphET/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Kennedy's escalation, 1961–63",
+      "url": "https://drive.google.com/file/d/1792Y1UNP1HP-d1N2Zhl3BEfETuCuj_OD/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The Gulf of Tonkin and its consequences",
+      "url": "https://drive.google.com/file/d/1q1w4S_uMvokvuRSGi61G9PuPmLATevA7/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

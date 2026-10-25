@@ -449,12 +449,17 @@ function topicFrame(t, tab, inner) {
 function videoPanel(t, compact) {
   const c = courseOf(t.course); const v = c.videos; const list = t.videos || [];
   if (!v && !list.length) return '';
-  const prov = (v && v.provider) || 'video';
-  return html`<section class="panel video" id="sec-watch"><span class="eyebrow">Watch</span><h2 style="margin:0">${prov} ${list.length === 1 ? 'pod' : 'pods'} for this topic</h2>
-    ${list.length ? html`<ul class="vids">${list.map((x) => html`<li><a href="${x.url}" target="_blank" rel="noopener">▶ ${x.title}</a>${x.mins ? html` <span class="small muted">${x.mins} min</span>` : ''}</li>`)}</ul>`
-      : html`<p class="small">Sign in to ${prov} with your school account and search for <b>${(t.search || t.title)}</b>.</p>`}
-    ${v && v.login ? html`<p class="row" style="gap:8px"><a class="btn sm" href="${v.login}" target="_blank" rel="noopener">Sign in to ${prov}</a>${compact ? '' : html`<span class="small muted">${v.note || ''}</span>`}</p>` : ''}
-    ${compact ? '' : html`<p class="small muted">Watch, then come back and do the quiz or flashcards for this topic to check what stuck.</p>`}</section>`;
+  const prov = (list[0] && list[0].src) || (v && v.provider) || 'Video';
+  const ks3 = !v && list.length; // e.g. GCSE-level background videos on an A level topic
+  const shown = compact ? list.slice(0, 4) : list;
+  return html`<section class="panel video" id="sec-watch"><span class="eyebrow">Watch</span><h2 style="margin:0">${prov} videos for this topic${list.length ? ` (${list.length})` : ''}</h2>
+    ${ks3 ? html`<p class="small muted">GCSE-level overviews: a quick refresher before the A level reading.</p>` : ''}
+    ${list.length ? html`<ul class="vids">${shown.map((x) => html`<li><a href="${x.url}" target="_blank" rel="noopener">▶ ${x.title}</a></li>`)}</ul>
+      ${compact && list.length > shown.length ? html`<button class="btn sm" data-act="go" data-to="${t.id}.learn">All ${list.length} videos on the Learn page</button>` : ''}
+      <p class="small muted">Videos open in Google Drive. If one will not play, sign in with the Google account Mr Garry shared them with, or ask him for access.</p>`
+      : html`<p class="small">Sign in to ${prov} with your school account and search for <b>${(t.search || t.title)}</b>.</p>
+      ${v && v.login ? html`<p class="row" style="gap:8px"><a class="btn sm" href="${v.login}" target="_blank" rel="noopener">Sign in to ${prov}</a></p>` : ''}`}
+    ${compact ? '' : html`<p class="small muted">Watch, then do the quiz or flashcards for this topic to check what stuck.</p>`}</section>`;
 }
 function viewOverview(t) {
   const st = topicStats(t);

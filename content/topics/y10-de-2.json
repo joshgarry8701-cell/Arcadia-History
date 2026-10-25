@@ -658,5 +658,12 @@
       "task": "Which mattered more for recovery: economic measures or foreign-policy successes? Decide using how many Germans each affected."
     }
   ],
-  "search": "Stresemann"
+  "search": "Stresemann",
+  "videos": [
+    {
+      "title": "The Stresemann era",
+      "url": "https://drive.google.com/file/d/1OSv-4quGZf0cSDHWaqSSWMS5Ubeqhgg_/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

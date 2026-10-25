@@ -527,5 +527,22 @@
       "task": "Explain how the communist victory in China in 1949 changed both sides' involvement in Vietnam."
     }
   ],
-  "search": "Dien Bien Phu"
+  "search": "Dien Bien Phu",
+  "videos": [
+    {
+      "title": "Background to the Vietnam War",
+      "url": "https://drive.google.com/file/d/1hoXfm1TGY3mjy2ol50IZuccgZvdA3a9P/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The First Indochina War",
+      "url": "https://drive.google.com/file/d/1zfqhtPy1gkHwwZV4_XsAgwZqYZ0WELw_/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Dien Bien Phu and the Geneva Conference",
+      "url": "https://drive.google.com/file/d/1dIAXLChFntjqsaiTvFUG1dg_TVWMo3hZ/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

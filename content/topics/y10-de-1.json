@@ -947,5 +947,32 @@
       "task": "'The Weimar Republic was doomed from the start.' Write one paragraph for and one against."
     }
   ],
-  "search": "Weimar Republic"
+  "search": "Weimar Republic",
+  "videos": [
+    {
+      "title": "Political challenges from the left and right",
+      "url": "https://drive.google.com/file/d/1-Baq9Kq3AZ_0tICrRSPr7SSSTL8DAp8o/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The nature of the Weimar Republic",
+      "url": "https://drive.google.com/file/d/1elYyUMzEeBwFezYEDXGofVKWrz_BUdfM/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Immediate impact of the First World War on Germany",
+      "url": "https://drive.google.com/file/d/1K3CjRrWx_PmlrXIFC3Dr-TeGQ5hLmYvS/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The Treaty of Versailles and its effect on Germany",
+      "url": "https://drive.google.com/file/d/1T1wwXOw3glnyL_M4d3SP3Rs6k3tkiPVr/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Occupation of the Ruhr",
+      "url": "https://drive.google.com/file/d/1GsNIcIvsjBdn1YxS5asGR2oVXdTW1V-2/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

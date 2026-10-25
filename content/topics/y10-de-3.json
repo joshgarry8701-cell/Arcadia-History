@@ -860,5 +860,42 @@
       "task": "If the Wall Street Crash had not happened, would Hitler have become Chancellor? Use the 1928 election result."
     }
   ],
-  "search": "rise of the Nazis"
+  "search": "rise of the Nazis",
+  "videos": [
+    {
+      "title": "Hitler as chancellor",
+      "url": "https://drive.google.com/file/d/1kuepIPI0mlQVbwIeXEwYD825RpR4S2jy/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Growth in support for the Nazi Party, 1928–32",
+      "url": "https://drive.google.com/file/d/1QhHB-gvXstj7isfkITBH1LZkEMQb0AyW/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The Munich Putsch",
+      "url": "https://drive.google.com/file/d/1vwI2L6qUHzhzbR4ikjqATKF8Y-4NdWbi/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The lean years, 1924–28",
+      "url": "https://drive.google.com/file/d/1v1l4sYnQumj6l_r-BJhcVxvlbyeMJYY-/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The founding of the Nazi Party",
+      "url": "https://drive.google.com/file/d/1iWL3iONNeXdKlmurLbNQrwmO4xWHlRaE/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Nazi aims and tactics",
+      "url": "https://drive.google.com/file/d/1Gl_CjMXYoEV0ddQoaUhHwDEBzA-sZT3v/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "The Great Depression and its effects",
+      "url": "https://drive.google.com/file/d/1pSjWS4V-mUIcKkxlrF-F66ovf7aQr0e4/view",
+      "src": "GCSEPod"
+    }
+  ]
 }
