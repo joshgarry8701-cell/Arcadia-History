@@ -264,3 +264,25 @@ label > select { display: block; margin-top: 4px; max-width: min(100%, 320px); }
 .caps li { font-style: italic; }
 .vids { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
 .vids a { font-weight: 700; }
+
+/* ---------- games ---------- */
+.games { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); gap: 12px; }
+.game-card { display: grid; gap: 6px; text-align: left; padding: 18px; border-radius: var(--radius); border: 2px solid var(--line); background: var(--surface); color: inherit; font: inherit; cursor: pointer; transition: transform .12s, border-color .12s; }
+.game-card:hover, .game-card:focus-visible { border-color: var(--course); transform: translateY(-2px); }
+.game-card b { font-family: var(--display); font-size: 1.15rem; }
+.gicon { font-size: 2rem; line-height: 1; }
+.game .gq { font-size: 1.2rem; font-weight: 700; margin: 6px 0; }
+.gopts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); gap: 10px; }
+.gopt { padding: 14px; border-radius: 10px; border: 2px solid var(--line); background: var(--surface); color: inherit; font: inherit; font-weight: 600; text-align: left; cursor: pointer; min-height: 56px; }
+.gopt:hover:not([disabled]) { border-color: var(--course); }
+.gopt.right { background: var(--green-bg); border-color: var(--green); color: var(--green); }
+.gopt.wrong { background: var(--red-bg, #fde8e8); border-color: var(--red); color: var(--red); }
+.gtimer { font-size: 1.3rem; font-weight: 800; color: var(--course); }
+.game-end { text-align: center; justify-items: center; }
+.game-end .big { font-size: 2.4rem; font-weight: 800; margin: 0; font-family: var(--display); }
+.mem { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(46%, 150px), 1fr)); gap: 8px; }
+.memcard { min-height: 92px; padding: 10px; border-radius: 10px; border: 2px solid var(--line); background: var(--course); color: #fff; font: inherit; font-weight: 700; cursor: pointer; overflow-wrap: anywhere; font-size: .92rem; }
+.memcard.up { background: var(--surface); color: inherit; border-color: var(--course); }
+.memcard.up.def { font-weight: 500; font-size: .85rem; }
+.memcard.done { background: var(--green-bg); border-color: var(--green); color: var(--green); cursor: default; }
+@media (prefers-reduced-motion: reduce) { .game-card { transition: none; } .game-card:hover { transform: none; } }

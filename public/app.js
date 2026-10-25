@@ -280,6 +280,7 @@ function viewCourse(c) {
     ${topics.length ? html`<section class="acts">
       ${c.qtypes ? html`<button class="act" data-act="go" data-to="${c.id}.guide"><span class="eyebrow">Exam</span><b>Exam guide</b><span class="small muted">Every question type: what to do, timings, mark scheme levels, frames and models</span></button>` : ''}
       ${c.qtypes ? html`<button class="act" data-act="go" data-to="${c.id}.past"><span class="eyebrow">Exam</span><b>Past papers</b><span class="small muted">Every past-paper question with mark scheme points and examiner comments</span></button>` : ''}
+      ${isKS3(c) ? html`<button class="act" data-act="go" data-to="${c.id}.games"><span class="eyebrow">Games</span><b>🎮 Games arcade</b><span class="small muted">Play games mixing every ${c.year} topic and earn XP</span></button>` : ''}
       <button class="act" data-act="go" data-to="${c.id}.mixed"><span class="eyebrow">Retrieval</span><b>Mixed quiz</b><span class="small muted">Questions from every topic in this course</span></button>
       <button class="act" data-act="go" data-to="${c.id}.dates"><span class="eyebrow">Retrieval</span><b>Key dates quiz</b><span class="small muted">Match events and dates from the timelines</span></button>
     </section>` : ''}
@@ -433,14 +434,15 @@ function viewGuide(c) {
 }
 
 // ---------- topic ----------
-const TABS = [['', 'Overview'], ['learn', 'Learn'], ['quiz', 'Quizzes'], ['flash', 'Flashcards'], ['check', 'Checklist'], ['exam', 'Exam practice'], ['frames', 'Writing frames'], ['stretch', 'Stretch']];
+const TABS = [['', 'Overview'], ['learn', 'Learn'], ['games', 'Games'], ['quiz', 'Quizzes'], ['flash', 'Flashcards'], ['check', 'Checklist'], ['exam', 'Exam practice'], ['frames', 'Writing frames'], ['stretch', 'Stretch']];
+const isKS3 = (c) => c && c.stage === 'KS3';
 function topicFrame(t, tab, inner) {
   const c = courseOf(t.course);
   return shell(html`
     ${crumbs([{ label: c.year, to: c.id }, { label: t.title, to: tab ? t.id : null }, ...(tab ? [{ label: TABS.find((x) => x[0] === tab)[1] }] : [])])}
     <div style="--course:${c.accent}; display:grid; gap:18px; min-width:0">
       <section class="course-head"><p class="eyebrow">${c.year} · ${t.kt ? t.kt + ' · ' : ''}${(c.areas || []).find((a) => a.id === t.area)?.title || c.title}</p><h1>${t.title}</h1></section>
-      <nav class="tabs" aria-label="Topic sections">${TABS.map(([k, l]) => html`<button data-act="go" data-to="${t.id}${k ? '.' + k : ''}" ${k === tab ? raw('aria-current="page"') : ''}>${l}</button>`)}</nav>
+      <nav class="tabs" aria-label="Topic sections">${TABS.filter(([k]) => k !== 'games' || isKS3(c)).map(([k, l]) => html`<button data-act="go" data-to="${t.id}${k ? '.' + k : ''}" ${k === tab ? raw('aria-current="page"') : ''}>${l}</button>`)}</nav>
       ${t.review && t.review.state === 'awaiting-teacher-check' ? html`<div class="notice small">Written for this site and awaiting Mr Garry's check against class lessons.</div>` : ''}
       ${inner}
     </div>`);
@@ -461,12 +463,109 @@ function videoPanel(t, compact) {
       ${v && v.login ? html`<p class="row" style="gap:8px"><a class="btn sm" href="${v.login}" target="_blank" rel="noopener">Sign in to ${prov}</a></p>` : ''}`}
     ${compact ? '' : html`<p class="small muted">Watch, then do the quiz or flashcards for this topic to check what stuck.</p>`}</section>`;
 }
+
+// ---------- games (KS3) ----------
+// Built from each topic's own content: no extra data needed. Scores and XP are saved on this device.
+const RANKS = [[0, 'Apprentice Historian'], [200, 'Source Detective'], [600, 'Evidence Hunter'], [1200, 'Chronology Champion'], [2500, 'Master Historian'], [5000, 'Legendary Historian']];
+const xpNow = () => lsGet('hub-xp', 0);
+const rankOf = (xp) => { let r = RANKS[0]; for (const x of RANKS) if (xp >= x[0]) r = x; const nx = RANKS.find((x) => x[0] > xp); return { name: r[1], next: nx ? nx[0] : null }; };
+const yearOf = (d) => { const m = String(d).match(/(\d{1,4})/); if (!m) return null; let y = +m[1]; if (/BCE|BC\b/.test(d)) y = -y; return y; };
+const GAMES = [
+  ['blitz', 'Quiz Blitz', '60 seconds. Answer as many as you can. Streaks multiply your score.', '⚡'],
+  ['memory', 'Memory Match', 'Flip the cards and match each key word to its meaning in as few moves as possible.', '🃏'],
+  ['first', 'Which Came First?', 'Two events. Tap the one that happened first. How long a streak can you build?', '⏳'],
+  ['word', 'Key Word Showdown', 'Read the meaning, pick the key word. Ten rounds.', '🔤'],
+  ['who', 'Who Am I?', 'Read the clue, name the person. Ten rounds.', '🕵️']
+];
+function poolFor(topics, kind) {
+  const P = [];
+  if (kind === 'blitz') {
+    for (const t of topics) for (const m of t.quizzes.mcq) P.push({ prompt: m.q, options: m.options, answer: m.answer, why: m.why });
+    const cards = topics.flatMap((t) => t.flashcards);
+    for (const f of cards) { const wrong = shuffle(cards.filter((x) => x.a !== f.a)).slice(0, 3).map((x) => x.a); if (wrong.length < 3) continue; const opts = shuffle([f.a, ...wrong]); P.push({ prompt: f.q, options: opts, answer: opts.indexOf(f.a) }); }
+  }
+  if (kind === 'word') {
+    const v = topics.flatMap((t) => t.learn.vocab);
+    for (const x of v) { const wrong = shuffle(v.filter((y) => y.term !== x.term)).slice(0, 3).map((y) => y.term); if (wrong.length < 3) continue; const opts = shuffle([x.term, ...wrong]); P.push({ prompt: x.def, options: opts, answer: opts.indexOf(x.term) }); }
+  }
+  if (kind === 'who') {
+    const ppl = topics.flatMap((t) => t.learn.people).filter((x) => x.role && !/^you\b/i.test(x.name));
+    for (const x of ppl) { const wrong = shuffle(ppl.filter((y) => y.name !== x.name)).slice(0, 3).map((y) => y.name); if (wrong.length < 3) continue; const clue = x.role.replace(new RegExp(x.name.split(/\s+/).slice(-1)[0].replace(/[^\w]/g, ''), 'gi'), '…'); const opts = shuffle([x.name, ...wrong]); P.push({ prompt: clue, options: opts, answer: opts.indexOf(x.name) }); }
+  }
+  if (kind === 'first') {
+    const ev = topics.flatMap((t) => t.learn.timeline).map((e) => ({ ...e, y: yearOf(e.date) })).filter((e) => e.y !== null);
+    for (let n = 0; n < 40 && ev.length > 1; n++) { const [a, b] = shuffle(ev).slice(0, 2); if (Math.abs(a.y - b.y) < 1) continue; const opts = [a.event, b.event]; P.push({ prompt: 'Which happened first?', options: opts, answer: a.y < b.y ? 0 : 1, why: `${a.event} (${a.date}) · ${b.event} (${b.date})` }); }
+  }
+  return P;
+}
+function gameAvailable(topics, kind) { if (kind === 'memory') return topics.flatMap((t) => t.learn.vocab).length >= 4; return poolFor(topics, kind).length >= (kind === 'blitz' ? 6 : 4); }
+function startGame(scope, topics, kind) {
+  const key = scope + ':' + kind; let g;
+  if (kind === 'memory') {
+    const v = shuffle(topics.flatMap((t) => t.learn.vocab)).slice(0, 6);
+    const cards = shuffle(v.flatMap((x, i) => [{ pair: i, text: x.term, kind: 'term' }, { pair: i, text: x.def, kind: 'def' }]));
+    g = { key, kind, scope, cards, open: [], matched: [], moves: 0, start: Date.now() };
+  } else {
+    const pool = shuffle(poolFor(topics, kind));
+    g = { key, kind, scope, qs: kind === 'blitz' ? pool : pool.slice(0, 10), i: 0, score: 0, streak: 0, bestStreak: 0, right: 0, missed: [], endAt: kind === 'blitz' ? Date.now() + 60000 : null };
+  }
+  S.ui.game = g; render(); if (kind === 'blitz') tickGame();
+}
+function tickGame() {
+  clearInterval(S.ui.gameTimer);
+  S.ui.gameTimer = setInterval(() => {
+    const g = S.ui.game; if (!g || g.kind !== 'blitz' || g.done) { clearInterval(S.ui.gameTimer); return; }
+    const left = Math.max(0, Math.ceil((g.endAt - Date.now()) / 1000)); const el = document.getElementById('gtimer'); if (el) el.textContent = left + 's';
+    if (left <= 0) { finishGame(); }
+  }, 250);
+}
+function finishGame() {
+  const g = S.ui.game; if (!g || g.done) return; g.done = true; clearInterval(S.ui.gameTimer);
+  const score = g.kind === 'memory' ? Math.max(10, 200 - (g.moves - 6) * 10) : g.score; g.final = score;
+  const bests = lsGet('hub-best', {}); g.newBest = score > (bests[g.key] || 0); if (g.newBest) { bests[g.key] = score; lsSet('hub-best', bests); }
+  g.xp = Math.round(score / 2); lsSet('hub-xp', xpNow() + g.xp); render();
+}
+function gameAnswer(v) {
+  const g = S.ui.game; if (!g || g.done || g.lock) return; const q = g.qs[g.i]; const ok = v === q.answer;
+  if (ok) { g.streak++; g.right++; g.bestStreak = Math.max(g.bestStreak, g.streak); g.score += 10 * (1 + Math.floor(g.streak / 3)); } else { g.streak = 0; g.missed.push(q); }
+  g.last = { ok, v, ans: q.answer, i: g.i }; g.lock = true; render();
+  setTimeout(() => { g.lock = false; g.last = null; g.i++; if (g.i >= g.qs.length) { if (g.kind === 'blitz') { g.qs = g.qs.concat(shuffle(g.qs)); } else { finishGame(); return; } } if (g.kind === 'blitz' && Date.now() >= g.endAt) { finishGame(); return; } render(); }, ok ? 450 : 1100);
+}
+function memoryFlip(idx) {
+  const g = S.ui.game; if (!g || g.done || g.lock || g.open.includes(idx) || g.matched.includes(g.cards[idx].pair)) return;
+  g.open.push(idx); if (g.open.length === 2) { g.moves++; const [a, b] = g.open.map((i) => g.cards[i]); if (a.pair === b.pair && a.kind !== b.kind) { g.matched.push(a.pair); g.open = []; if (g.matched.length === g.cards.length / 2) { finishGame(); return; } } else { g.lock = true; render(); setTimeout(() => { g.open = []; g.lock = false; render(); }, 900); return; } }
+  render();
+}
+function gameView(scope, topics, back) {
+  const g = S.ui.game && S.ui.game.scope === scope ? S.ui.game : null; const xp = xpNow(); const rk = rankOf(xp); const bests = lsGet('hub-best', {});
+  const top = html`<section class="panel game-hud"><div class="row" style="justify-content:space-between"><div><span class="eyebrow">Your rank</span><b style="display:block;font-size:1.15rem">${rk.name}</b><span class="small muted">${xp} XP${rk.next ? ` · ${rk.next - xp} XP to the next rank` : ''}</span></div><div class="meter" style="width:min(200px,40vw)" aria-hidden="true"><i style="width:${rk.next ? Math.round(100 * xp / rk.next) : 100}%"></i></div></div></section>`;
+  if (!g) return html`${top}<section class="games">${GAMES.filter(([k]) => gameAvailable(topics, k)).map(([k, name, desc, icon]) => html`<button class="game-card" data-act="g-start" data-v="${k}"><span class="gicon" aria-hidden="true">${icon}</span><b>${name}</b><span class="small muted">${desc}</span>${bests[scope + ':' + k] ? html`<span class="chip ok">Best: ${bests[scope + ':' + k]}</span>` : ''}</button>`)}</section>
+    <p class="small muted">Scores and XP are saved on this device. Challenge a friend to beat your best!</p>`;
+  if (g.done) return html`${top}<section class="panel game-end"><span class="gicon" aria-hidden="true">${g.newBest ? '🏆' : '🎯'}</span><h2>${g.newBest ? 'New personal best!' : 'Game over'}</h2>
+    <p class="big">${g.final} points</p><p class="muted">${g.kind === 'memory' ? `${g.moves} moves` : `${g.right} correct · best streak ${g.bestStreak}`} · +${g.xp} XP</p>
+    ${g.missed && g.missed.length ? html`<details class="fold" open><summary>Ones to revise (${g.missed.length})</summary><div><ul>${[...new Map(g.missed.map((q) => [q.prompt, q])).values()].slice(0, 8).map((q) => html`<li><b>${q.prompt}</b> → ${q.options[q.answer]}</li>`)}</ul></div></details>` : ''}
+    <div class="row" style="justify-content:center"><button class="btn primary" data-act="g-start" data-v="${g.kind}">Play again</button><button class="btn" data-act="g-quit">All games</button></div></section>`;
+  if (g.kind === 'memory') return html`${top}<section class="panel"><div class="row" style="justify-content:space-between"><b>Memory Match</b><span class="mono">${g.moves} move${g.moves === 1 ? "" : "s"} · ${g.matched.length}/${g.cards.length / 2} pairs</span><button class="btn sm" data-act="g-quit">Quit</button></div>
+    <div class="mem">${g.cards.map((cd, i) => { const up = g.open.includes(i) || g.matched.includes(cd.pair); return html`<button class="memcard ${up ? 'up' : ''} ${g.matched.includes(cd.pair) ? 'done' : ''} ${cd.kind}" data-act="g-flip" data-v="${i}" aria-label="${up ? cd.text : 'Hidden card'}">${up ? cd.text : '?'}</button>`; })}</div></section>`;
+  const q = g.qs[g.i]; const L = g.last;
+  return html`${top}<section class="panel game"><div class="row" style="justify-content:space-between"><span class="chip">${g.kind === 'blitz' ? 'Quiz Blitz' : `Round ${g.i + 1} of ${g.qs.length}`}</span><span class="mono">Score ${g.score}${g.streak >= 3 ? html` · 🔥 x${1 + Math.floor(g.streak / 3)}` : ''}</span>${g.kind === 'blitz' ? html`<span class="mono gtimer" id="gtimer">${Math.max(0, Math.ceil((g.endAt - Date.now()) / 1000))}s</span>` : ''}<button class="btn sm" data-act="g-quit">Quit</button></div>
+    <p class="gq">${q.prompt}</p>
+    <div class="gopts ${q.options.length === 2 ? 'two' : ''}">${q.options.map((o, i) => html`<button class="gopt ${L ? (i === L.ans ? 'right' : i === L.v ? 'wrong' : '') : ''}" data-act="g-ans" data-v="${i}" ${L ? raw('disabled') : ''}>${o}</button>`)}</div>
+    ${L && !L.ok && q.why ? html`<p class="small muted">${q.why}</p>` : ''}</section>`;
+}
+function viewGames(t) { return topicFrame(t, 'games', gameView(t.id, [t])); }
+function viewArcade(c) {
+  const ts = courseTopics(c); const missing = ts.filter((t) => !S.topics[t.id]);
+  if (missing.length) { Promise.all(missing.map((t) => ensureTopic(t.id))).then(render, (e) => toast(e.message)); return shell(html`<p class="muted">Loading games…</p>`); }
+  return shell(html`${crumbs([{ label: c.year, to: c.id }, { label: 'Games arcade' }])}<section class="course-head" style="--course:${c.accent}"><p class="eyebrow">${c.year}</p><h1>Games arcade</h1><p class="muted">Games mixing every ${c.year} topic. Earn XP and climb the historian ranks.</p></section><div style="--course:${c.accent};display:grid;gap:18px">${gameView(c.id, ts.map((t) => S.topics[t.id]))}</div>`);
+}
 function viewOverview(t) {
   const st = topicStats(t);
   const rec = recommendations(t);
   const d = daily();
   const cards = [
     ['learn', 'Learn', `${t.learn.sections.length} sections, timeline, key people and sources`],
+    ...(isKS3(courseOf(t.course)) ? [['games', '🎮 Games', 'Quiz Blitz, Memory Match, Which Came First? and more']] : []),
     ['quiz', 'Quizzes', st.quiz == null ? 'Not started' : `${st.quiz}% correct over ${st.answered} answers`],
     ['flash', 'Flashcards', `${st.due} due now · ${st.mastered}/${st.cards} mastered`],
     ['check', 'Checklist', st.rated ? `${st.rag.green} green · ${st.rag.amber} amber · ${st.rag.red} red` : 'Rate your confidence'],
@@ -1113,12 +1212,13 @@ function render() {
     else if (r.a === 'mixed') out = viewMixed();
     else if (r.a === 'account') out = viewAccount();
     else if (r.a === 'teacher' && S.user.role === 'teacher') out = viewTeacher(r.b, r.c);
-    else if (courseOf(r.a)) { const c = courseOf(r.a); out = r.b === 'guide' && c.qtypes ? viewGuide(c) : r.b === 'past' && c.qtypes ? viewPastPapers(c) : (r.b === 'mixed' || r.b === 'dates') ? viewCourseQuiz(c, r.b) : viewCourse(c); }
+    else if (courseOf(r.a)) { const c = courseOf(r.a); out = r.b === 'guide' && c.qtypes ? viewGuide(c) : r.b === 'past' && c.qtypes ? viewPastPapers(c) : r.b === 'games' && isKS3(c) ? viewArcade(c) : (r.b === 'mixed' || r.b === 'dates') ? viewCourseQuiz(c, r.b) : viewCourse(c); }
     else if (S.catalog.topics[r.a]) {
       const t = S.topics[r.a];
       if (!t) { ensureTopic(r.a).then(render, (e) => toast(e.message)); out = shell(html`<p class="muted">Loading…</p>`); }
       else if (!r.b) out = viewOverview(t);
       else if (r.b === 'learn') out = viewLearn(t);
+      else if (r.b === 'games' && isKS3(courseOf(t.course))) out = viewGames(t);
       else if (r.b === 'quiz') out = viewQuizHome(t);
       else if (r.b === 'flash') out = viewFlash(t);
       else if (r.b === 'check') out = viewCheck(t);
@@ -1217,6 +1317,10 @@ const A = {
   'sub-save': () => saveAnswer(false),
   'sub-send': () => saveAnswer('send'),
   'sub-feedback': () => saveAnswer(true),
+  'g-start': (el) => { const r = parseRoute(); const c = courseOf(r.a); const topics = c ? courseTopics(c).map((t) => S.topics[t.id]).filter(Boolean) : [S.topics[r.a]]; startGame(r.a, topics, el.dataset.v); },
+  'g-ans': (el) => gameAnswer(+el.dataset.v),
+  'g-flip': (el) => memoryFlip(+el.dataset.v),
+  'g-quit': () => { clearInterval(S.ui.gameTimer); S.ui.game = null; render(); },
   wcheck: () => {
     const text = (document.getElementById('answer') || {}).value || '';
     if (wordsIn(text) < 15) { examMsg('Write at least a few sentences first.', true); return; }
