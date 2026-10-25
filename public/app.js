@@ -772,6 +772,97 @@ function feedbackView(s, all) {
   </article>`;
 }
 
+
+// ---------- free feedback (no login, no server, no cost) ----------
+// 1) an instant check against the Arcadia / IGCSE writing model, run in the browser;
+// 2) a ready-made feedback prompt students paste into their school's AI tool.
+const WM = {
+  qualifiers: ['highly', 'considerably', 'largely', 'to a large extent', 'to some extent', 'to a limited extent', 'partly', 'partially', 'somewhat', 'arguably', 'significantly', 'mainly', 'primarily', 'most', 'least', 'slightly', 'moderately', 'particularly', 'extremely', 'relatively'],
+  explaining: ['because', 'therefore', 'as a result', 'as a consequence', 'consequently', 'this meant that', 'this means that', 'this led to', 'which led to', 'this shows', 'this suggests', 'this demonstrates', 'thus', 'hence', 'so that', 'resulting in', 'due to', 'this caused', 'which meant'],
+  time: ['firstly', 'first', 'then', 'next', 'after', 'afterwards', 'before', 'subsequently', 'meanwhile', 'eventually', 'finally', 'by the', 'later', 'initially', 'in the long term', 'in the short term', 'immediately', 'during', 'following'],
+  counter: ['however', 'on the other hand', 'although', 'whereas', 'nevertheless', 'despite', 'in contrast', 'conversely', 'yet', 'but', 'while', 'that said', 'alternatively'],
+  judgement: ['overall', 'in conclusion', 'therefore', 'most important', 'most significant', 'the main', 'more important', 'more significant', 'ultimately', 'to conclude', 'i agree', 'i disagree', 'on balance'],
+  criteria: ['duration', 'scope', 'effectiveness', 'impact', 'scale', 'speed', 'depth', 'significance', 'long-term', 'short-term', 'lasting']
+};
+const STOP = new Set('about above after again against because before being below between could during every first from have having into itself might more most other over same should some such than that their them then there these they this those through under until very were what when where which while whom with would your years year also only made many much were been ones like just make were whose against towards became become still'.split(' '));
+const hits = (txt, list) => list.filter((w) => new RegExp('(^|[^a-z])' + w.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&') + '([^a-z]|$)', 'i').test(txt));
+function msPointsOf(q) {
+  const m = q.ms || {}; const out = [];
+  for (const k of ['points', 'support', 'challenge', 'context']) for (const x of m[k] || []) out.push(x);
+  return out;
+}
+function writingCheck(q, text, c) {
+  const paras = text.split(/\n\s*\n|\n(?=\S)/).map((x) => x.trim()).filter((x) => wordsIn(x) >= 12);
+  const words = wordsIn(text);
+  const judge = /judg|how far|agree|significan|main|most|successful|accurate|convinc/i.test((q.type || '') + ' ' + q.q);
+  const target = Math.round((q.minutes || 10) * 14);
+  const per = paras.map((p, i) => ({
+    i: i + 1,
+    qual: hits(p, WM.qualifiers).length > 0,
+    evid: /\b(1[0-9]{3}|20[0-2][0-9])\b/.test(p) || /\b\d[\d,.]*\s*(%|per cent|million|thousand|miles|km|marks|d\b)/i.test(p) || (p.match(/\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+/g) || []).length > 0,
+    expl: hits(p, WM.explaining).length > 0,
+    judg: hits(p, WM.judgement).length > 0
+  }));
+  const all = { qual: hits(text, WM.qualifiers), expl: hits(text, WM.explaining), time: hits(text, WM.time), counter: hits(text, WM.counter), judg: hits(text, WM.judgement), crit: hits(text, WM.criteria) };
+  const dates = (text.match(/\b(1[0-9]{3}|20[0-2][0-9])\b/g) || []).length;
+  const lower = text.toLowerCase();
+  const pts = msPointsOf(q).map((pt) => {
+    const keys = [...new Set((pt.toLowerCase().match(/[a-z][a-z'-]{4,}/g) || []).filter((w) => !STOP.has(w)))];
+    const found = keys.filter((k) => lower.includes(k.slice(0, Math.max(5, k.length - 2))));
+    return { pt, covered: keys.length && found.length >= Math.min(2, keys.length) };
+  });
+  const good = []; const ebi = [];
+  if (all.qual.length) good.push(`You qualified your claims (${all.qual.slice(0, 3).map((x) => '"' + x + '"').join(', ')}).`); else ebi.push('Add a qualifier to your main claim, e.g. "highly", "to a large extent" or "partly", to show how strongly you argue it.');
+  if (dates >= 2 || per.filter((p) => p.evid).length >= Math.max(1, paras.length - 1)) good.push(`You used precise evidence (${dates} date${dates === 1 ? '' : 's'} plus names or figures).`); else ebi.push('Use more precisely selected evidence: a date, a named person, a number or a source in every paragraph.');
+  if (all.expl.length >= Math.max(2, paras.length)) good.push(`You explained with arguing connectives (${all.expl.slice(0, 3).map((x) => '"' + x + '"').join(', ')}).`); else ebi.push('Explain each piece of evidence with an arguing connective: "this meant that", "as a result", "therefore".');
+  if (all.time.length) good.push('You used time connectives to show sequence.'); else if (/explain|cause|consequence|change|develop/i.test(q.q)) ebi.push('Use time connectives (firstly, subsequently, by 1914, in the long term) to show how events developed.');
+  if (judge) {
+    if (all.counter.length) good.push('You considered the other side ("' + all.counter[0] + '").'); else ebi.push('Add a counterargument with "However…" or "On the other hand…" before you reach your judgement.');
+    if (per.length && per[per.length - 1].judg) good.push('You finished with a judgement.'); else ebi.push('End with a clear judgement that answers the question: "Overall, … was the most important because…".');
+    if (all.crit.length) good.push(`You judged using criteria (${all.crit.slice(0, 3).join(', ')}).`); else ebi.push('Support your judgement with criteria: duration, scope, effectiveness or impact.');
+  }
+  if (words < target * 0.5) ebi.push(`Your answer is quite short (${words} words). In ${q.minutes} minutes aim for roughly ${target} words.`);
+  const missingPts = pts.filter((p) => !p.covered).slice(0, 3);
+  const weakest = per.find((p) => !(p.qual && p.evid && p.expl));
+  const next = weakest ? `Rewrite paragraph ${weakest.i}, adding ${[!weakest.qual && 'a qualifier', !weakest.evid && 'a precise piece of evidence', !weakest.expl && 'an arguing connective that explains it'].filter(Boolean).join(' and ')}.` : (ebi[0] || 'Add one more piece of precise evidence to your weakest paragraph and explain why it matters.');
+  return { words, paras: per, good, ebi: ebi.slice(0, 3), next, pts, missingPts, dates };
+}
+function checkView(r) {
+  const tick = (b) => b ? '✓' : '—';
+  return html`<section class="panel fb" id="checkout"><span class="eyebrow">Instant writing check</span><h2 style="margin:0">How your answer matches the Arcadia writing model</h2>
+    <p class="small muted">This automatic check looks for the features of the Arcadia / IGCSE writing model: qualifiers, precise evidence, arguing and time connectives, counterargument and judgement. It cannot judge whether your history is accurate, and it does not give a mark.</p>
+    ${r.paras.length ? html`<div class="scroll-x"><table class="data"><thead><tr><th>Paragraph</th><th>Qualifier</th><th>Precise evidence</th><th>Arguing connective</th><th>Judgement</th></tr></thead><tbody>${r.paras.map((p) => html`<tr><td>${p.i}</td><td>${tick(p.qual)}</td><td>${tick(p.evid)}</td><td>${tick(p.expl)}</td><td>${tick(p.judg)}</td></tr>`)}</tbody></table></div>` : ''}
+    ${r.good.length ? html`<div><p class="small"><strong>What went well</strong></p><ul>${r.good.map((x) => html`<li>${x}</li>`)}</ul></div>` : ''}
+    ${r.ebi.length ? html`<div><p class="small"><strong>Even better if</strong></p><ul>${r.ebi.map((x) => html`<li>${x}</li>`)}</ul></div>` : ''}
+    ${r.missingPts.length ? html`<div><p class="small"><strong>Points from the mark scheme you could also use</strong> <span class="muted">(examples, not a checklist)</span></p><ul>${r.missingPts.map((x) => html`<li>${x.pt}</li>`)}</ul></div>` : ''}
+    <div class="notice info small"><strong>Next step:</strong> ${r.next}</div></section>`;
+}
+function feedbackPrompt(c, t, q, text) {
+  const ctx = (t.learn.sections || []).filter((s) => (q.sections || []).includes(s.id)).map((s) => `${s.title}: ${(s.evidence || []).join('; ')}`).join('\n');
+  const msPts = msPointsOf(q);
+  return [
+    `You are an experienced history teacher at Arcadia British School, Dubai, giving written feedback to a ${c.year} student. Write in clear, encouraging British English suitable for their age.`,
+    'IMPORTANT RULES: Do NOT give a mark, level or grade. Give formative feedback only. Do not rewrite the whole answer for me. Only correct facts you are sure are wrong. Quote my exact words when you praise or criticise something.',
+    'Judge my writing against the Arcadia writing model (PEEJ): a QUALIFIED claim (highly / to a large extent / partly); PRECISELY SELECTED evidence (dates, names, numbers, sources); ARGUING/EXPLAINING connectives (because, this meant that, as a result, therefore); TIME connectives where sequence matters; a COUNTERARGUMENT where the question asks "how far"; and a JUDGEMENT supported by criteria (duration, scope, effectiveness, impact).',
+    `Course: ${c.year} — ${c.title}. Topic: ${t.title}.`,
+    `QUESTION (${q.label}): ${q.q}`,
+    q.asks ? `What the question asks: ${q.asks}` : '',
+    (q.success || []).length ? `Success criteria:\n${q.success.map((x) => '- ' + x).join('\n')}` : '',
+    msPts.length ? `Points from Pearson's mark scheme for this question (paraphrased examples, NOT a checklist; do not penalise other valid points):\n${msPts.map((x) => '- ' + x).join('\n')}` : '',
+    q.exq ? `What examiners said about this question: ${[...(q.exq.strong || []), ...(q.exq.weak || [])].join(' ')}` : '',
+    q.sources && q.sources.length ? `Sources given with the question:\n${q.sources.map((x) => `${x.label} (${x.provenance}): ${x.text}`).join('\n')}` : (q.requires_sources ? 'The sources for this question are not included here, so do not judge how well I used their content.' + ((q.src_captions || []).length ? ' Their captions: ' + q.src_captions.join(' | ') : '') : ''),
+    ctx ? `Relevant course knowledge:\n${ctx}` : '',
+    'Reply with these headings: 1) What went well (2–3 points, quoting me). 2) Corrections (any factual errors). 3) Even better if (2–3 targets, most important first). 4) One improved sentence (take one of my sentences and show it improved). 5) Redraft task (one focused task).',
+    `MY ANSWER:\n"""${text}"""`
+  ].filter(Boolean).join('\n\n');
+}
+async function copyText(t) {
+  try { await navigator.clipboard.writeText(t); return true; } catch {
+    const ta = document.createElement('textarea'); ta.value = t; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select();
+    let ok = false; try { ok = document.execCommand('copy'); } catch {} ta.remove(); return ok;
+  }
+}
+const AI_TOOL = { name: 'Gemini', url: 'https://gemini.google.com/' };
 function viewExamQ(t, rawQ) {
   const c = courseOf(t.course);
   const q = resolveQ(c, rawQ);
@@ -803,8 +894,10 @@ function viewExamQ(t, rawQ) {
         : html`<div class="row"><span class="small muted">Work without support, in the time you'd have in a test.</span><button class="btn sm" data-act="timer" data-min="${q.minutes}">${S.ui.timer && S.ui.timer.key === key ? 'Restart timer' : `Start ${q.minutes}-minute timer`}</button><span id="timer" class="mono" aria-live="off"></span></div>`}
       <label for="answer">${ui.parentId ? 'Improve your answer using the feedback' : 'Your answer'}<textarea id="answer" data-key="${key}" spellcheck="true">${ui.text}</textarea></label>
       <div class="row" style="justify-content:space-between"><span class="small muted" id="wc">${wordsIn(ui.text)} words · draft kept on this device as you type</span>
-        <div class="row"><button class="btn" data-act="sub-save">Save draft</button>${PREVIEW ? '' : html`<button class="btn" data-act="sub-send">Send to Mr Garry</button>`}<button class="btn primary" data-act="sub-feedback" ${ai.available ? '' : raw('aria-describedby="ainote"')}>Save and get AI feedback</button></div></div>
-      ${!ai.available ? html`<p class="small muted" id="ainote">AI feedback is unavailable right now: ${ai.reasons.join(' ')} You can still save your answer${PREVIEW ? '' : ' or send it to Mr Garry'}.</p>` : html`<p class="small muted">Feedback is generated by ${ai.provider}. Limits apply each day.</p>`}
+        <div class="row"><button class="btn" data-act="sub-save">Save draft</button>${PREVIEW ? '' : html`<button class="btn" data-act="sub-send">Send to Mr Garry</button>`}<button class="btn" data-act="wcheck">Check my writing</button>${ai.available ? html`<button class="btn primary" data-act="sub-feedback">Save and get AI feedback</button>` : html`<button class="btn primary" data-act="ai-prompt">Get AI feedback (free)</button>`}</div></div>
+      ${ai.available ? html`<p class="small muted">Feedback is generated by ${ai.provider}. Limits apply each day.</p>` : html`<p class="small muted" id="ainote"><b>Check my writing</b> gives instant feedback on the Arcadia writing model, here on this device. <b>Get AI feedback</b> copies a ready-made feedback request with your answer, the question and the mark scheme points; paste it into ${AI_TOOL.name} using your school Google account. No marks are given.</p>`}
+      <div id="aiprompt"></div>
+      ${S.ui.check && S.ui.check.key === key ? checkView(S.ui.check.r) : ''}
       <div id="exammsg" aria-live="polite"></div>
     </section>
     ${mine.length ? html`<section style="display:grid;gap:12px"><h2>My attempts</h2>${mine.map((s) => feedbackView(s, mine))}</section>` : ''}
@@ -1124,6 +1217,25 @@ const A = {
   'sub-save': () => saveAnswer(false),
   'sub-send': () => saveAnswer('send'),
   'sub-feedback': () => saveAnswer(true),
+  wcheck: () => {
+    const text = (document.getElementById('answer') || {}).value || '';
+    if (wordsIn(text) < 15) { examMsg('Write at least a few sentences first.', true); return; }
+    const t = curTopic(); const c = courseOf(t.course); const q = resolveQ(c, t.exam.questions.find((x) => x.id === parseRoute().c));
+    S.ui.exam.text = text; lsSet('hub-draft-' + S.ui.exam.key, text);
+    S.ui.check = { key: S.ui.exam.key, r: writingCheck(q, text, c) }; render(); document.getElementById('checkout')?.scrollIntoView();
+  },
+  'ai-prompt': async () => {
+    const text = (document.getElementById('answer') || {}).value || '';
+    if (wordsIn(text) < 15) { examMsg('Write your answer first.', true); return; }
+    const t = curTopic(); const c = courseOf(t.course); const q = resolveQ(c, t.exam.questions.find((x) => x.id === parseRoute().c));
+    lsSet('hub-draft-' + S.ui.exam.key, text);
+    const p = feedbackPrompt(c, t, q, text); const ok = await copyText(p);
+    const box = document.getElementById('aiprompt');
+    if (box) box.innerHTML = fmt(html`<div class="panel" style="gap:10px"><p><strong>${ok ? 'Copied!' : 'Copy the text below.'}</strong> Now open ${AI_TOOL.name}, sign in with your <b>school</b> Google account, paste (Ctrl+V or long-press, Paste) and send.</p>
+      <p class="row" style="gap:8px"><a class="btn primary" href="${AI_TOOL.url}" target="_blank" rel="noopener">Open ${AI_TOOL.name}</a></p>
+      <details class="fold"><summary>Show the feedback request</summary><div><textarea readonly rows="8" style="width:100%">${p}</textarea></div></details>
+      <p class="small muted">Only use an AI tool your school allows for your age. Do not add your name or other personal details. Act on the feedback, then redraft here and check again.</p></div>`);
+  },
   'sub-load': (el) => { const s = S.subs.find((x) => x.id === el.dataset.id); Object.assign(S.ui.exam, { subId: s.id, parentId: s.parent_id, text: s.text }); render(); document.getElementById('answer')?.focus(); },
   'sub-redraft': (el) => { const s = S.subs.find((x) => x.id === el.dataset.id); Object.assign(S.ui.exam, { subId: null, parentId: s.id, text: s.text, mode: 'supported' }); render(); const a = document.getElementById('practice'); a?.scrollIntoView(); document.getElementById('answer')?.focus(); },
   'sub-del': async (el) => {

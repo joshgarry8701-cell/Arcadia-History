@@ -32,7 +32,7 @@ fs.writeFileSync(path.join(root, 'dist/preview.html'), out);
 console.log('Wrote dist/preview.html', (out.length / 1024).toFixed(0) + ' KB');
 
 // Student website for GitHub Pages (or any static host): a complete HTML document.
-const studentNote = 'Your progress is saved on this device and browser only, so use the same device each time. Write your practice answers here, then hand them to Mr Garry or paste them into your class assignment.';
+const studentNote = 'Your progress is saved on this device and browser only, so use the same device each time. On any practice question, use Check my writing for instant feedback, or Get AI feedback to send your answer to Gemini with your school account.';
 const site = `<!doctype html>
 <html lang="en-GB">
 <head>
