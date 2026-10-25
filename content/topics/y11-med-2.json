@@ -534,5 +534,17 @@
       "task": "How much had changed for women in medicine between 1854 and 1876?"
     }
   ],
-  "search": "Lister Pasteur"
+  "search": "Lister Pasteur",
+  "videos": [
+    {
+      "title": "Pasteur and germ theory",
+      "url": "https://drive.google.com/file/d/1YvkRMbhOX98z-owXb9fh6ToJISXFN2A8/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Lister and antiseptics",
+      "url": "https://drive.google.com/file/d/1Z7Sdca5RnzJdR7mmtoDHr9p_It4awQdO/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

@@ -883,5 +883,17 @@
       "task": "Compare the Public Health Acts of 1848 and 1875 with the Liberal reforms. What new idea of government responsibility appeared?"
     }
   ],
-  "search": "Liberal reforms public health"
+  "search": "Liberal reforms public health",
+  "videos": [
+    {
+      "title": "Liberal reforms",
+      "url": "https://drive.google.com/file/d/1eKsIIeLr-e2_wH7fnaxkEdfFURJKVhM6/view",
+      "src": "GCSEPod"
+    },
+    {
+      "title": "Experiments in surgery and medicine",
+      "url": "https://drive.google.com/file/d/1s-U6dK8wLqFvcEGkbNsKfGHaNOus8RQt/view",
+      "src": "GCSEPod"
+    }
+  ]
 }

@@ -11146,8 +11146,28 @@
       "search": "Florence Nightingale",
       "videos": [
         {
+          "title": "Industrialisation and its impact on health and medicine",
+          "url": "https://drive.google.com/file/d/1wJk4XpraDiT5oS_47Q5Z1v-FVMcTEtOc/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Improvements to public health in the industrial era",
+          "url": "https://drive.google.com/file/d/1u3X2w83RHdA3I6Qu4dnVhPEd6urMtDUx/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Responses to cholera in the nineteenth century",
+          "url": "https://drive.google.com/file/d/1tdQkZ3TNcKkri0VIayaxtHlTxOLddG8G/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Simpson and anaesthetics",
+          "url": "https://drive.google.com/file/d/1ml2LtFgYjyyOGR5UvlnYVLRQNlsVe2X5/view",
+          "src": "GCSEPod"
+        },
+        {
           "title": "The influence of Florence Nightingale",
-          "url": "https://drive.google.com/file/d/1lLN2sgGbA-JukiG8jDFQKlsYP_3JJAd7/view",
+          "url": "https://drive.google.com/file/d/1Y7jG8pAJf0WiHe1pbouXnTouAUlXSf4R/view",
           "src": "GCSEPod"
         }
       ]
@@ -11688,7 +11708,19 @@
           "task": "How much had changed for women in medicine between 1854 and 1876?"
         }
       ],
-      "search": "Lister Pasteur"
+      "search": "Lister Pasteur",
+      "videos": [
+        {
+          "title": "Pasteur and germ theory",
+          "url": "https://drive.google.com/file/d/1YvkRMbhOX98z-owXb9fh6ToJISXFN2A8/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Lister and antiseptics",
+          "url": "https://drive.google.com/file/d/1Z7Sdca5RnzJdR7mmtoDHr9p_It4awQdO/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y11-med-3",
@@ -12176,7 +12208,19 @@
           "task": "Show how science and technology (microscopes, dyes, X-rays) linked the discoveries of 1875–1905."
         }
       ],
-      "search": "Koch Ehrlich"
+      "search": "Koch Ehrlich",
+      "videos": [
+        {
+          "title": "Robert Koch and bacteriology",
+          "url": "https://drive.google.com/file/d/1xwbUFReD0_wYJsNydJEHs-KeKWdj1HfK/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Magic bullets and immunology",
+          "url": "https://drive.google.com/file/d/1e-dxI3ZL0X0e03-EeZ_mYhIlvOSFSWPN/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y11-med-4",
@@ -13063,7 +13107,19 @@
           "task": "Compare the Public Health Acts of 1848 and 1875 with the Liberal reforms. What new idea of government responsibility appeared?"
         }
       ],
-      "search": "Liberal reforms public health"
+      "search": "Liberal reforms public health",
+      "videos": [
+        {
+          "title": "Liberal reforms",
+          "url": "https://drive.google.com/file/d/1eKsIIeLr-e2_wH7fnaxkEdfFURJKVhM6/view",
+          "src": "GCSEPod"
+        },
+        {
+          "title": "Experiments in surgery and medicine",
+          "url": "https://drive.google.com/file/d/1s-U6dK8wLqFvcEGkbNsKfGHaNOus8RQt/view",
+          "src": "GCSEPod"
+        }
+      ]
     },
     {
       "id": "y11-med-5",
