@@ -37083,10 +37083,10 @@
                 "J: Therefore, overall…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -37747,10 +37747,10 @@
                 "J: Overall…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -38379,10 +38379,10 @@
                 "J: Overall, the most important cause was… because…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -39026,10 +39026,10 @@
                 "J: Therefore, overall…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -39067,10 +39067,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -39189,14 +39189,15 @@
             "title": "3. Writing like a historian: the Arcadia paragraph",
             "blocks": [
               {
-                "p": "A strong historical paragraph is not just a list of facts. It is an argument. The Arcadia model uses four moves, which match PEEJ:"
+                "p": "A strong historical paragraph is not just a list of facts. It is an argument. The Arcadia IGCSE writing model uses five moves, which fit into PEEJ. In lessons each one has its own colour:"
               },
               {
                 "ul": [
-                  "P: a qualified claim (QUALIFIER: highly / partly / to some extent).",
-                  "E: precisely selected evidence (a name, date, number or source).",
-                  "E: explanation with an explaining connective (because / this meant that / therefore) and time connectives where sequence matters.",
-                  "J: a judgement that answers the question."
+                  "Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                  "Time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                  "Precisely selected evidence (purple): a name, date, number or source.",
+                  "Arguing connectives (red): However … / This was more important because … / In contrast …",
+                  "Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
                 ]
               },
               {
@@ -39207,13 +39208,15 @@
               "argument",
               "claim",
               "qualifier",
+              "topic sentence",
+              "time connective",
+              "arguing connective",
               "precise evidence",
-              "reasoning",
               "judgement",
               "PEEJ"
             ],
             "evidence": [
-              "PEEJ: Point (qualified) → Evidence (precise) → Explain (connective) → Judgement."
+              "PEEJ: Point (topic sentence + qualifier) → Evidence (precise, in time order) → Explain (arguing connective) → Judgement."
             ]
           }
         ],
@@ -39284,6 +39287,18 @@
           {
             "term": "Qualifier",
             "def": "A word that shows the strength of a claim."
+          },
+          {
+            "term": "Topic sentence",
+            "def": "The first sentence of a paragraph, which states your argument with a qualifier."
+          },
+          {
+            "term": "Time connective",
+            "def": "A word or phrase that shows when or in what order things happened (Later…, Eventually…)."
+          },
+          {
+            "term": "Arguing connective",
+            "def": "A word or phrase that explains or weighs evidence (However…, This was more important because…)."
           }
         ],
         "misconceptions": [
@@ -39767,10 +39782,10 @@
                 "J: Overall, … was more significant because…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -39808,10 +39823,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -40484,10 +40499,10 @@
                 "J: Therefore, overall…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -41188,10 +41203,10 @@
                 "J: Therefore, overall…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -41229,10 +41244,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -41897,10 +41912,10 @@
                 "J: Therefore, overall…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -41938,10 +41953,10 @@
                 "J: A second consequence… Overall, the most serious was…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -42596,10 +42611,10 @@
                 "J: Therefore, the most important factor was…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -42638,10 +42653,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -43299,10 +43314,10 @@
                 "J: Therefore, … should be remembered as…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -43341,10 +43356,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -44050,10 +44065,10 @@
                 "J: Therefore, overall…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -44798,10 +44813,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -44843,10 +44858,10 @@
                 "J: Therefore, overall…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -45519,10 +45534,10 @@
                 "J: Therefore, overall…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -45560,10 +45575,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -46220,10 +46235,10 @@
                 "J: Therefore, overall…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -46259,10 +46274,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -46939,10 +46954,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -46981,10 +46996,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -47632,10 +47647,10 @@
                 "J: Therefore, the biggest change was…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -47673,10 +47688,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -48349,10 +48364,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -48390,10 +48405,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -49063,10 +49078,10 @@
                 "J: Therefore, overall… because the deciding criterion is…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -49106,10 +49121,10 @@
                 "J: Therefore…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -49902,10 +49917,10 @@
                 "J: Therefore, overall the most important long-term cause was…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }
@@ -50510,10 +50525,10 @@
                 "J: Therefore, the trigger only led to war because…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           },
@@ -50553,10 +50568,10 @@
                 "J: Therefore, the main cause was…"
               ],
               "some": [
-                "P: qualified claim (highly / partly / to some extent…)",
-                "E: precise evidence (name, date, number, source)",
-                "E: explain with a connective (because / this meant that / therefore)",
-                "J: judgement that answers the question"
+                "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
+                "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
+                "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
+                "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
               ]
             }
           }

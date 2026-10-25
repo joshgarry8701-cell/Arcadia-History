@@ -876,33 +876,54 @@ function feedbackView(s, all) {
 // 1) an instant check against the Arcadia / IGCSE writing model, run in the browser;
 // 2) a ready-made feedback prompt students paste into their school's AI tool.
 const WM = {
-  qualifiers: ['highly', 'considerably', 'largely', 'to a large extent', 'to some extent', 'to a limited extent', 'partly', 'partially', 'somewhat', 'arguably', 'significantly', 'mainly', 'primarily', 'most', 'least', 'slightly', 'moderately', 'particularly', 'extremely', 'relatively'],
-  explaining: ['because', 'therefore', 'as a result', 'as a consequence', 'consequently', 'this meant that', 'this means that', 'this led to', 'which led to', 'this shows', 'this suggests', 'this demonstrates', 'thus', 'hence', 'so that', 'resulting in', 'due to', 'this caused', 'which meant'],
-  time: ['firstly', 'first', 'then', 'next', 'after', 'afterwards', 'before', 'subsequently', 'meanwhile', 'eventually', 'finally', 'by the', 'later', 'initially', 'in the long term', 'in the short term', 'immediately', 'during', 'following'],
-  counter: ['however', 'on the other hand', 'although', 'whereas', 'nevertheless', 'despite', 'in contrast', 'conversely', 'yet', 'but', 'while', 'that said', 'alternatively'],
-  judgement: ['overall', 'in conclusion', 'therefore', 'most important', 'most significant', 'the main', 'more important', 'more significant', 'ultimately', 'to conclude', 'i agree', 'i disagree', 'on balance'],
-  criteria: ['duration', 'scope', 'effectiveness', 'impact', 'scale', 'speed', 'depth', 'significance', 'long-term', 'short-term', 'lasting']
+  // the Arcadia / IGCSE writing toolkit, in Mr Garry's colours
+  qualifiers: ['one key reason', 'a key reason', 'the main reason', 'the most important', 'one important', 'an important', 'a significant', 'highly', 'considerably', 'largely', 'to a large extent', 'to some extent', 'to a limited extent', 'partly', 'partially', 'somewhat', 'arguably', 'significantly', 'mainly', 'primarily', 'slightly', 'moderately', 'particularly', 'extremely', 'relatively', 'on the other hand', 'another reason', 'a further reason', 'a less important', 'a minor', 'more important', 'less important', 'more significant', 'less significant', 'most significant'],
+  time: ['at the start', 'at first', 'firstly', 'initially', 'to begin with', 'then', 'next', 'later', 'afterwards', 'after this', 'subsequently', 'meanwhile', 'eventually', 'finally', 'by the', 'in the short term', 'in the long term', 'immediately', 'during', 'following', 'before', 'by 1[0-9]{3}', 'in 1[0-9]{3}', 'from 1[0-9]{3}', 'until'],
+  arguing: ['however', 'this was more important because', 'more important because', 'in contrast', 'on the other hand', 'although', 'whereas', 'nevertheless', 'despite', 'conversely', 'because', 'therefore', 'as a result', 'as a consequence', 'consequently', 'this meant that', 'this means that', 'this led to', 'which led to', 'this caused', 'which meant', 'thus', 'hence', 'resulting in', 'due to', 'furthermore', 'moreover', 'similarly'],
+  counter: ['however', 'on the other hand', 'although', 'whereas', 'nevertheless', 'despite', 'in contrast', 'conversely', 'that said', 'alternatively'],
+  judgement: ['this shows that', 'this suggests that', 'this demonstrates', 'overall', 'in conclusion', 'to conclude', 'ultimately', 'on balance', 'the most important reason', 'most important', 'most significant', 'more important', 'more significant', 'i agree', 'i disagree', 'to a large extent', 'to a limited extent', 'therefore'],
+  criteria: ['duration', 'scope', 'effectiveness', 'impact', 'scale', 'speed', 'depth', 'significance', 'long-term', 'short-term', 'lasting', 'long term', 'short term']
 };
+// The five moves of the model, each with its toolkit colour and starters
+const MOVES = [
+  { k: 'qual', name: 'Topic-sentence qualifier', col: 'blue', starters: ['One key reason …', 'To a large extent …', 'On the other hand …'] },
+  { k: 'time', name: 'Time connectives', col: 'green', starters: ['At the start …', 'Later …', 'Eventually …', 'Finally …'] },
+  { k: 'evid', name: 'Precise evidence', col: 'purple', starters: ['For example, in 1066 …', 'This is shown by …'] },
+  { k: 'arg', name: 'Arguing connectives', col: 'red', starters: ['However …', 'This was more important because …', 'In contrast …'] },
+  { k: 'judg', name: 'Judgement', col: 'judge', starters: ['This shows that …', 'Overall, the most important reason was …', 'Therefore, I agree to a large/limited extent …'] }
+];
 const STOP = new Set('about above after again against because before being below between could during every first from have having into itself might more most other over same should some such than that their them then there these they this those through under until very were what when where which while whom with would your years year also only made many much were been ones like just make were whose against towards became become still'.split(' '));
-const hits = (txt, list) => list.filter((w) => new RegExp('(^|[^a-z])' + w.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&') + '([^a-z]|$)', 'i').test(txt));
+const wmRe = (w) => new RegExp('(^|[^a-z])(' + w.replace(/[.()]/g, (m) => '\\' + m) + ')(?=[^a-z]|$)', 'i');
+const hits = (txt, list) => { const f = []; for (const w of list) { const m = wmRe(w).exec(txt); if (m) { const x = m[2].toLowerCase(); if (!f.some((y) => y.includes(x))) f.push(x); } } return f; };
+const EVID_RE = /\b(1[0-9]{3}|20[0-2][0-9])\b|\b\d[\d,.]*\s*(%|per cent|million|thousand|miles|km|tons|tonnes|d\b)|\b[A-Z]{2,}\s+[A-Z][a-z]+|\b[A-Z][a-z]+-[A-Z][a-z]+|\b[A-Z][a-z]+(?:\s+(?:of\s+|the\s+|de\s+)?[A-Z][a-z]+)+|(?<=[a-z,;] )[A-Z][a-z]{2,}|\bSource [A-Z]\b|\b(?:Interpretation|Extract) [0-9A-Z]\b/;
+const firstSentence = (p) => (p.match(/^[\s\S]*?[.!?](?=\s|$)/) || [p])[0];
 function msPointsOf(q) {
   const m = q.ms || {}; const out = [];
   for (const k of ['points', 'support', 'challenge', 'context']) for (const x of m[k] || []) out.push(x);
   return out;
 }
+// Colour-code a student's answer with the toolkit (blue / green / purple / red)
+function toolkitMarkup(text) {
+  const marks = [];
+  const add = (list, cls) => { for (const w of list) { const re = new RegExp(wmRe(w).source, 'gi'); let m; while ((m = re.exec(text))) { const st = m.index + m[1].length; marks.push([st, st + m[2].length, cls]); if (re.lastIndex === m.index) re.lastIndex++; } } };
+  add(WM.qualifiers, 'tk-qual'); add(WM.time, 'tk-time'); add(WM.arguing, 'tk-arg'); add(WM.judgement.filter((w) => !WM.arguing.includes(w) && !WM.qualifiers.includes(w)), 'tk-judg');
+  const er = new RegExp(EVID_RE.source, 'g'); let m; while ((m = er.exec(text))) marks.push([m.index, m.index + m[0].length, 'tk-evid']);
+  marks.sort((x, y) => x[0] - y[0] || (y[1] - y[0]) - (x[1] - x[0]));
+  let out = ''; let pos = 0;
+  for (const [st, en, cls] of marks) { if (st < pos) continue; out += esc(text.slice(pos, st)) + `<mark class="${cls}">${esc(text.slice(st, en))}</mark>`; pos = en; }
+  return out + esc(text.slice(pos));
+}
 function writingCheck(q, text, c) {
   const paras = text.split(/\n\s*\n|\n(?=\S)/).map((x) => x.trim()).filter((x) => wordsIn(x) >= 12);
   const words = wordsIn(text);
-  const judge = /judg|how far|agree|significan|main|most|successful|accurate|convinc/i.test((q.type || '') + ' ' + q.q);
+  const judge = /judg|how far|agree|significan|main|most|successful|accurate|convinc|important/i.test((q.type || '') + ' ' + q.q);
+  const seq = /explain|cause|consequence|change|develop|why|how far|significan|important/i.test(q.q);
   const target = Math.round((q.minutes || 10) * 14);
-  const per = paras.map((p, i) => ({
-    i: i + 1,
-    qual: hits(p, WM.qualifiers).length > 0,
-    evid: /\b(1[0-9]{3}|20[0-2][0-9])\b/.test(p) || /\b\d[\d,.]*\s*(%|per cent|million|thousand|miles|km|marks|d\b)/i.test(p) || (p.match(/\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+/g) || []).length > 0,
-    expl: hits(p, WM.explaining).length > 0,
-    judg: hits(p, WM.judgement).length > 0
-  }));
-  const all = { qual: hits(text, WM.qualifiers), expl: hits(text, WM.explaining), time: hits(text, WM.time), counter: hits(text, WM.counter), judg: hits(text, WM.judgement), crit: hits(text, WM.criteria) };
+  const per = paras.map((p, i) => {
+    const ts = firstSentence(p);
+    return { i: i + 1, ts, qual: hits(ts, WM.qualifiers).length > 0, qualAny: hits(p, WM.qualifiers).length > 0, time: hits(p, WM.time).length > 0, evid: EVID_RE.test(p), arg: hits(p, WM.arguing).length > 0, judg: hits(p, WM.judgement).length > 0 };
+  });
+  const all = { qual: hits(text, WM.qualifiers), arg: hits(text, WM.arguing), time: hits(text, WM.time), counter: hits(text, WM.counter), judg: hits(text, WM.judgement), crit: hits(text, WM.criteria) };
   const dates = (text.match(/\b(1[0-9]{3}|20[0-2][0-9])\b/g) || []).length;
   const lower = text.toLowerCase();
   const pts = msPointsOf(q).map((pt) => {
@@ -910,27 +931,39 @@ function writingCheck(q, text, c) {
     const found = keys.filter((k) => lower.includes(k.slice(0, Math.max(5, k.length - 2))));
     return { pt, covered: keys.length && found.length >= Math.min(2, keys.length) };
   });
-  const good = []; const ebi = [];
-  if (all.qual.length) good.push(`You qualified your claims (${all.qual.slice(0, 3).map((x) => '"' + x + '"').join(', ')}).`); else ebi.push('Add a qualifier to your main claim, e.g. "highly", "to a large extent" or "partly", to show how strongly you argue it.');
-  if (dates >= 2 || per.filter((p) => p.evid).length >= Math.max(1, paras.length - 1)) good.push(`You used precise evidence (${dates} date${dates === 1 ? '' : 's'} plus names or figures).`); else ebi.push('Use more precisely selected evidence: a date, a named person, a number or a source in every paragraph.');
-  if (all.expl.length >= Math.max(2, paras.length)) good.push(`You explained with arguing connectives (${all.expl.slice(0, 3).map((x) => '"' + x + '"').join(', ')}).`); else ebi.push('Explain each piece of evidence with an arguing connective: "this meant that", "as a result", "therefore".');
-  if (all.time.length) good.push('You used time connectives to show sequence.'); else if (/explain|cause|consequence|change|develop/i.test(q.q)) ebi.push('Use time connectives (firstly, subsequently, by 1914, in the long term) to show how events developed.');
+  const good = []; const ebi = []; const n = Math.max(1, per.length);
+  const tsq = per.filter((p) => p.qual).length;
+  if (per.length && tsq === per.length) good.push('Every topic sentence is qualified (blue), so the reader knows how strongly you argue each point.');
+  else if (tsq) { good.push(`Some topic sentences are qualified (${all.qual.slice(0, 2).map((x) => '"' + x + '"').join(', ')}).`); ebi.push(`Start paragraph${per.filter((p) => !p.qual).length > 1 ? 's' : ''} ${per.filter((p) => !p.qual).map((p) => p.i).join(', ')} with a qualified topic sentence: "One key reason …", "To a large extent …" or "On the other hand …".`); }
+  else ebi.push('Begin each paragraph with a qualified topic sentence (blue): "One key reason was …", "To a large extent …", "On the other hand …".');
+  const tp = per.filter((p) => p.time).length;
+  if (tp >= Math.ceil(n / 2)) good.push(`You used time connectives (green) to show how events developed (${all.time.slice(0, 3).map((x) => '"' + x + '"').join(', ')}).`);
+  else if (seq) ebi.push('Add time connectives (green) to show sequence: "At the start …", "Later …", "Eventually …", "Finally …".');
+  if (dates >= 2 || per.filter((p) => p.evid).length >= Math.max(1, per.length - 1)) good.push(`You used precisely selected evidence (purple): ${dates} date${dates === 1 ? '' : 's'} plus names, figures or sources.`);
+  else ebi.push('Use precisely selected evidence (purple) in every paragraph: a date, a named person or place, a number or a source.');
+  const ap = per.filter((p) => p.arg).length;
+  if (ap >= n && all.arg.length >= 2) good.push(`You explained your evidence with arguing connectives (red): ${all.arg.slice(0, 3).map((x) => '"' + x + '"').join(', ')}.`);
+  else ebi.push('Link your evidence back to the question with arguing connectives (red): "This was more important because …", "However …", "In contrast …".');
   if (judge) {
-    if (all.counter.length) good.push('You considered the other side ("' + all.counter[0] + '").'); else ebi.push('Add a counterargument with "However…" or "On the other hand…" before you reach your judgement.');
-    if (per.length && per[per.length - 1].judg) good.push('You finished with a judgement.'); else ebi.push('End with a clear judgement that answers the question: "Overall, … was the most important because…".');
+    if (all.counter.length) good.push('You weighed up the other side ("' + all.counter[0] + '").'); else ebi.push('Weigh up the other side with "However …" or "In contrast …" before you reach your judgement.');
+    if (per.length && per[per.length - 1].judg) good.push('You finished with a judgement.'); else ebi.push('End with a judgement: "Overall, the most important reason was … because …" or "Therefore, I agree to a large/limited extent …".');
     if (all.crit.length) good.push(`You judged using criteria (${all.crit.slice(0, 3).join(', ')}).`); else ebi.push('Support your judgement with criteria: duration, scope, effectiveness or impact.');
   }
   if (words < target * 0.5) ebi.push(`Your answer is quite short (${words} words). In ${q.minutes} minutes aim for roughly ${target} words.`);
   const missingPts = pts.filter((p) => !p.covered).slice(0, 3);
-  const weakest = per.find((p) => !(p.qual && p.evid && p.expl));
-  const next = weakest ? `Rewrite paragraph ${weakest.i}, adding ${[!weakest.qual && 'a qualifier', !weakest.evid && 'a precise piece of evidence', !weakest.expl && 'an arguing connective that explains it'].filter(Boolean).join(' and ')}.` : (ebi[0] || 'Add one more piece of precise evidence to your weakest paragraph and explain why it matters.');
-  return { words, paras: per, good, ebi: ebi.slice(0, 3), next, pts, missingPts, dates };
+  const weakest = per.find((p) => !(p.qual && p.evid && p.arg));
+  const next = weakest ? `Rewrite paragraph ${weakest.i}: ${[!weakest.qual && 'open with a qualified topic sentence (blue)', !weakest.evid && 'add a precise piece of evidence (purple)', !weakest.arg && 'explain it with an arguing connective (red)'].filter(Boolean).join(', then ')}.` : (ebi[0] || 'Add one more piece of precise evidence to your weakest paragraph and explain why it matters.');
+  return { words, paras: per, good, ebi: ebi.slice(0, 3), next, pts, missingPts, dates, judge, marked: toolkitMarkup(text) };
+}
+function toolkitKey() {
+  return html`<div class="tk-key small">${MOVES.map((m) => html`<span class="tk-k tk-${m.k}"><b>${m.name}</b> ${m.starters.join(' / ')}</span>`)}</div>`;
 }
 function checkView(r) {
   const tick = (b) => b ? '✓' : '—';
   return html`<section class="panel fb" id="checkout"><span class="eyebrow">Instant writing check</span><h2 style="margin:0">How your answer matches the Arcadia writing model</h2>
-    <p class="small muted">This automatic check looks for the features of the Arcadia / IGCSE writing model: qualifiers, precise evidence, arguing and time connectives, counterargument and judgement. It cannot judge whether your history is accurate, and it does not give a mark.</p>
-    ${r.paras.length ? html`<div class="scroll-x"><table class="data"><thead><tr><th>Paragraph</th><th>Qualifier</th><th>Precise evidence</th><th>Arguing connective</th><th>Judgement</th></tr></thead><tbody>${r.paras.map((p) => html`<tr><td>${p.i}</td><td>${tick(p.qual)}</td><td>${tick(p.evid)}</td><td>${tick(p.expl)}</td><td>${tick(p.judg)}</td></tr>`)}</tbody></table></div>` : ''}
+    <p class="small muted">This automatic check looks for the five moves of the Arcadia / IGCSE writing model: a <span class="tk-qual">qualified topic sentence</span>, <span class="tk-time">time connectives</span>, <span class="tk-evid">precisely selected evidence</span>, <span class="tk-arg">arguing connectives</span> and a <span class="tk-judg">judgement</span>. It cannot judge whether your history is accurate, and it does not give a mark.</p>
+    ${r.paras.length ? html`<div class="scroll-x"><table class="data"><thead><tr><th>Paragraph</th><th class="tk-qual">Qualified topic sentence</th><th class="tk-time">Time connective</th><th class="tk-evid">Precise evidence</th><th class="tk-arg">Arguing connective</th><th class="tk-judg">Judgement</th></tr></thead><tbody>${r.paras.map((p) => html`<tr><td>${p.i}</td><td>${tick(p.qual)}</td><td>${tick(p.time)}</td><td>${tick(p.evid)}</td><td>${tick(p.arg)}</td><td>${tick(p.judg)}</td></tr>`)}</tbody></table></div>` : ''}
+    <details class="fold"><summary>See your answer colour-coded</summary><div><div class="tk-text">${raw(r.marked)}</div>${toolkitKey()}</div></details>
     ${r.good.length ? html`<div><p class="small"><strong>What went well</strong></p><ul>${r.good.map((x) => html`<li>${x}</li>`)}</ul></div>` : ''}
     ${r.ebi.length ? html`<div><p class="small"><strong>Even better if</strong></p><ul>${r.ebi.map((x) => html`<li>${x}</li>`)}</ul></div>` : ''}
     ${r.missingPts.length ? html`<div><p class="small"><strong>Points from the mark scheme you could also use</strong> <span class="muted">(examples, not a checklist)</span></p><ul>${r.missingPts.map((x) => html`<li>${x.pt}</li>`)}</ul></div>` : ''}
@@ -942,7 +975,7 @@ function feedbackPrompt(c, t, q, text) {
   return [
     `You are an experienced history teacher at Arcadia British School, Dubai, giving written feedback to a ${c.year} student. Write in clear, encouraging British English suitable for their age.`,
     'IMPORTANT RULES: Do NOT give a mark, level or grade. Give formative feedback only. Do not rewrite the whole answer for me. Only correct facts you are sure are wrong. Quote my exact words when you praise or criticise something.',
-    'Judge my writing against the Arcadia writing model (PEEJ): a QUALIFIED claim (highly / to a large extent / partly); PRECISELY SELECTED evidence (dates, names, numbers, sources); ARGUING/EXPLAINING connectives (because, this meant that, as a result, therefore); TIME connectives where sequence matters; a COUNTERARGUMENT where the question asks "how far"; and a JUDGEMENT supported by criteria (duration, scope, effectiveness, impact).',
+    'Judge my writing against the Arcadia IGCSE writing model, paragraph by paragraph (PEEJ). Each paragraph should have: 1) a TOPIC SENTENCE WITH A QUALIFIER (e.g. "One key reason …", "To a large extent …", "On the other hand …"); 2) TIME CONNECTIVES showing sequence ("At the start …", "Later …", "Eventually …", "Finally …"); 3) PRECISELY SELECTED EVIDENCE (dates, named people and places, figures, sources); 4) ARGUING CONNECTIVES that explain the evidence and link it to the question ("However …", "This was more important because …", "In contrast …"); 5) a JUDGEMENT ("This shows that …", "Overall, the most important reason was …", "Therefore, I agree to a large/limited extent …"), supported by criteria (duration, scope, effectiveness, impact). In your feedback, name which of these five moves each paragraph has and which it is missing.',
     `Course: ${c.year} — ${c.title}. Topic: ${t.title}.`,
     `QUESTION (${q.label}): ${q.q}`,
     q.asks ? `What the question asks: ${q.asks}` : '',

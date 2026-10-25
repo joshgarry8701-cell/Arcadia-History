@@ -32,9 +32,15 @@ function T(d) {
   fs.writeFileSync(path.join(out, t.id + '.json'), JSON.stringify(t, null, 2) + '\n');
   return t.id;
 }
-// PEEJ + Arcadia writing frame (qualifier, precise evidence, explaining connective, judgement)
+// PEEJ frame using the Arcadia IGCSE writing model: topic-sentence qualifier (blue), time connectives (green),
+// precisely selected evidence (purple), arguing connectives (red), judgement
 const peej = (point, evid, explain, judge) => ({
   full: [point, evid, explain, judge],
-  some: ['P: qualified claim (highly / partly / to some extent…)', 'E: precise evidence (name, date, number, source)', 'E: explain with a connective (because / this meant that / therefore)', 'J: judgement that answers the question']
+  some: [
+    'P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …',
+    'E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …',
+    'E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …',
+    'J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …'
+  ]
 });
 module.exports = { T, peej };

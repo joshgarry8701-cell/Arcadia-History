@@ -361,17 +361,17 @@ T({ ...base, id: 'y7-sk-5', order: 5, kt: 'Lessons 9–11', title: 'Significance
       'Time connectives plus explaining connectives help you explain change: Firstly… Then… As a result… This meant that… Therefore…'
     ], ['change', 'continuity', 'turning point', 'progress', 'decline'], ['Oil discovered in Dubai: 1966.', 'UAE formed: 1971.']],
     ['s3', '3. Writing like a historian: the Arcadia paragraph', [
-      'A strong historical paragraph is not just a list of facts. It is an argument. The Arcadia model uses four moves, which match PEEJ:',
-      ['P: a qualified claim (QUALIFIER: highly / partly / to some extent).', 'E: precisely selected evidence (a name, date, number or source).', 'E: explanation with an explaining connective (because / this meant that / therefore) and time connectives where sequence matters.', 'J: a judgement that answers the question.'],
+      'A strong historical paragraph is not just a list of facts. It is an argument. The Arcadia IGCSE writing model uses five moves, which fit into PEEJ. In lessons each one has its own colour:',
+      ['Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …', 'Time connectives (green): At the start … / Later … / Eventually … / Finally …', 'Precisely selected evidence (purple): a name, date, number or source.', 'Arguing connectives (red): However … / This was more important because … / In contrast …', 'Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …'],
       'Ask yourself: What is my argument? How strongly do I want to claim it? Which evidence best proves it? How do I explain the link?'
-    ], ['argument', 'claim', 'qualifier', 'precise evidence', 'reasoning', 'judgement', 'PEEJ'], ['PEEJ: Point (qualified) → Evidence (precise) → Explain (connective) → Judgement.']]
+    ], ['argument', 'claim', 'qualifier', 'topic sentence', 'time connective', 'arguing connective', 'precise evidence', 'judgement', 'PEEJ'], ['PEEJ: Point (topic sentence + qualifier) → Evidence (precise, in time order) → Explain (arguing connective) → Judgement.']]
   ],
   timeline: [
     ['1833', 'The Al Maktoum family settle at Dubai.'], ['1966', 'Oil is discovered offshore in Dubai.'], ['1971', 'The UAE is formed on 2 December.'],
     ['1979', 'The Dubai World Trade Centre opens.'], ['1985', 'Emirates airline is founded.'], ['2010', 'The Burj Khalifa opens.']
   ],
   people: [],
-  vocab: [['Significance', 'How important an event or person is judged to be.'], ['Criteria', 'The standards used to judge something.'], ['Impact', 'The effect an event had.'], ['Legacy', 'What remains or is remembered after an event.'], ['Change', 'Something becoming different over time.'], ['Continuity', 'Something staying the same over time.'], ['Turning point', 'A moment after which things changed significantly.'], ['Progress / decline', 'Change for the better / for the worse.'], ['Argument', 'A claim supported by evidence and reasoning.'], ['Qualifier', 'A word that shows the strength of a claim.']],
+  vocab: [['Significance', 'How important an event or person is judged to be.'], ['Criteria', 'The standards used to judge something.'], ['Impact', 'The effect an event had.'], ['Legacy', 'What remains or is remembered after an event.'], ['Change', 'Something becoming different over time.'], ['Continuity', 'Something staying the same over time.'], ['Turning point', 'A moment after which things changed significantly.'], ['Progress / decline', 'Change for the better / for the worse.'], ['Argument', 'A claim supported by evidence and reasoning.'], ['Qualifier', 'A word that shows the strength of a claim.'], ['Topic sentence', 'The first sentence of a paragraph, which states your argument with a qualifier.'], ['Time connective', 'A word or phrase that shows when or in what order things happened (Later…, Eventually…).'], ['Arguing connective', 'A word or phrase that explains or weighs evidence (However…, This was more important because…).']],
   myths: [
     ['Significant just means "I think it is important".', 'Significance is judged against criteria such as scale, impact and duration.'],
     ['Change always means progress.', 'Change can be decline, or progress for some and decline for others.'],

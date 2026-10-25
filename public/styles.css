@@ -286,3 +286,13 @@ label > select { display: block; margin-top: 4px; max-width: min(100%, 320px); }
 .memcard.up.def { font-weight: 500; font-size: .85rem; }
 .memcard.done { background: var(--green-bg); border-color: var(--green); color: var(--green); cursor: default; }
 @media (prefers-reduced-motion: reduce) { .game-card { transition: none; } .game-card:hover { transform: none; } }
+
+/* Arcadia writing toolkit colours: qualifiers blue, time green, evidence purple, arguing red */
+.tk-qual { --tk: #1d5fd1; } .tk-time { --tk: #1c8a4a; } .tk-evid { --tk: #7a3cc4; } .tk-arg { --tk: #c62f2f; } .tk-judg { --tk: #a86a00; }
+@media (prefers-color-scheme: dark) { .tk-qual { --tk: #7fb0ff; } .tk-time { --tk: #6fd49a; } .tk-evid { --tk: #c39bff; } .tk-arg { --tk: #ff8a8a; } .tk-judg { --tk: #f0b94a; } }
+span.tk-qual, span.tk-time, span.tk-evid, span.tk-arg, span.tk-judg, th.tk-qual, th.tk-time, th.tk-evid, th.tk-arg, th.tk-judg { color: var(--tk); font-weight: 600; }
+mark.tk-qual, mark.tk-time, mark.tk-evid, mark.tk-arg, mark.tk-judg { background: color-mix(in srgb, var(--tk) 16%, transparent); color: inherit; border-bottom: 2px solid var(--tk); padding: 0 2px; border-radius: 3px; }
+.tk-text { white-space: pre-wrap; line-height: 1.8; padding: 10px; border: 1px solid var(--line, #ddd); border-radius: 8px; }
+.tk-key { display: grid; gap: 4px; margin-top: 8px; }
+.tk-k { border-left: 4px solid var(--tk); padding-left: 8px; }
+.tk-k b { color: var(--tk); }
