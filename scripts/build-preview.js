@@ -47,4 +47,9 @@ ${body(studentNote).replace('<meta name="claude:viewport-fit-sides" content="cov
 fs.mkdirSync(path.join(root, 'dist/site'), { recursive: true });
 fs.writeFileSync(path.join(root, 'dist/site/index.html'), site);
 fs.writeFileSync(path.join(root, 'dist/site/.nojekyll'), '');
+// Copies for GitHub Pages: works whether Pages serves gh-pages, main / (root) or main /docs
+for (const dir of ['', 'docs']) {
+  fs.writeFileSync(path.join(root, dir, 'index.html'), site);
+  fs.writeFileSync(path.join(root, dir, '.nojekyll'), '');
+}
 console.log('Wrote dist/site/index.html', (site.length / 1024).toFixed(0) + ' KB');

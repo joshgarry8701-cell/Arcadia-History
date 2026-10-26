@@ -33,3 +33,14 @@ Add students in **Teacher area › Students**. AI feedback stays off until you a
 | `scripts/build-pack.sh` | Builds the Lovable / Google AI Studio build pack (`npm run build:pack`) |
 | `docs/ai-builders/` | Prompts and product spec for rebuilding the site with AI builders |
 | `public/mr-garry.webp` | Photo on the home page |
+
+
+## Publishing on GitHub Pages
+
+`npm run build:preview` writes the whole site as one self-contained `index.html` (no server, no logins) to three places, so it works with any Pages setting:
+
+- `index.html` at the repo root (Settings → Pages → Deploy from a branch → `main` / `(root)`)
+- `docs/index.html` (`main` / `/docs`)
+- `dist/site/index.html`, copied to the `gh-pages` branch (`gh-pages` / `(root)`)
+
+Each has a `.nojekyll` file beside it so GitHub serves it as-is. Live address: https://joshgarry8701-cell.github.io/Arcadia-History/
