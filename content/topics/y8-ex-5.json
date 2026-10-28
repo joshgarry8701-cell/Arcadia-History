@@ -575,49 +575,37 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
-        "id": "q1",
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
         "label": "Teacher-created practice question",
+        "minutes": 8,
         "markscheme": null,
-        "type": "judge",
-        "minutes": 15,
-        "q": "How significant was your chosen traveller's journey, and how should they be remembered? (AP1 research question, practice plan)",
+        "q": "Describe two features of the transatlantic slave trade.",
         "sections": [
-          "s2",
-          "s3"
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about who gained and who lost from European expansion?",
+        "sections": [
+          "s1",
+          "s2"
         ],
-        "asks": "Apply significance criteria explicitly to one traveller, use precise evidence, consider another perspective, and reach a judgement about how they should be remembered.",
-        "steps": [
-          "State your traveller and dates.",
-          "Apply two or three criteria with precise evidence.",
-          "Consider an alternative perspective.",
-          "Judge how significant they were and how they should be remembered."
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "Data from the Trans-Atlantic Slave Trade Database (SlaveVoyages), built by an international team of historians from shipping records since the 1990s.",
+            "text": "The database records tens of thousands of slave-trading voyages. Its estimates show that over 12 million Africans were forced onto ships across the Atlantic between the 1500s and 1800s, and that well over a million died during the crossing. It also lists the ships, their owners and the European and American ports they sailed from."
+          }
         ],
-        "plan": "3 minutes planning against the checklist, 10 minutes writing, 2 minutes checking criteria are named.",
-        "success": [
-          "Criteria named and applied",
-          "Precise evidence",
-          "Alternative perspective",
-          "Qualified judgement"
-        ],
-        "mistakes": [
-          "Writing a life story instead of an argument",
-          "No criteria",
-          "Only one perspective"
-        ],
-        "frame": {
-          "full": [
-            "P: … was highly / partly significant because…",
-            "E: In terms of scale / impact / duration…, for example…",
-            "E: This meant that… However, from the perspective of…",
-            "J: Therefore, … should be remembered as…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
       },
       {
         "id": "q2",
@@ -659,7 +647,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

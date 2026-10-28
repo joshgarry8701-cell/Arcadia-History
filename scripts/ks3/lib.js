@@ -3,6 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const out = path.join(__dirname, '..', '..', 'content', 'topics');
+const AP = require('./ap');
 const REVIEW = { state: 'awaiting-teacher-check', note: "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it." };
 function T(d) {
   const t = {
@@ -29,6 +30,7 @@ function T(d) {
     stretch: d.stretch.map(([kind, task], i) => ({ id: 't' + (i + 1), kind, task })),
     planning: d.planning
   };
+  AP.apply(t);
   fs.writeFileSync(path.join(out, t.id + '.json'), JSON.stringify(t, null, 2) + '\n');
   return t.id;
 }

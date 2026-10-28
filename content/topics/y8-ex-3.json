@@ -567,105 +567,49 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
-        "id": "q1",
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
         "label": "Teacher-created practice question",
+        "minutes": 8,
         "markscheme": null,
-        "type": "judge",
-        "minutes": 12,
-        "q": "Christopher Columbus: explorer or invader? Reach a judgement.",
+        "q": "Describe two features of the Columbian Exchange.",
+        "sections": [
+          "s2"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about Columbus's aims in the Caribbean?",
         "sections": [
           "s1"
         ],
-        "asks": "Weigh Columbus as a skilled navigator against Columbus as the start of colonisation, and reach a qualified judgement.",
-        "steps": [
-          "Give evidence for \"explorer\".",
-          "Give evidence for \"invader\".",
-          "Decide, using a qualifier; you can argue he was both."
-        ],
-        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
-        "success": [
-          "Qualified claim",
-          "Precise evidence for both",
-          "Considers Taíno perspective",
-          "Judgement"
-        ],
-        "mistakes": [
-          "Pure celebration or pure condemnation with no evidence",
-          "Saying he \"discovered\" an empty land"
-        ],
-        "model": [
+        "sources": [
           {
-            "t": "Columbus is better described as an invader than simply an explorer, although he was both.",
-            "n": "P: qualified."
-          },
-          {
-            "t": "He was a skilled navigator who crossed the Atlantic in 1492, but his own journal noted that the Taíno could easily be conquered and made to work.",
-            "n": "E: precise, both sides."
-          },
-          {
-            "t": "This meant his arrival began forced labour and Spanish settlement, which, with disease, devastated the Taíno within decades.",
-            "n": "E: explains consequences."
-          },
-          {
-            "t": "Therefore, from the Taíno perspective especially, \"invader\" is the more accurate description.",
-            "n": "J: judgement with perspective."
+            "label": "Source A",
+            "provenance": "From Columbus's journal of his first voyage, 1492, written for the Spanish monarchs who paid for the voyage. It survives mainly in a later summary by the friar Bartolomé de las Casas.",
+            "text": "In entries from October 1492, Columbus describes meeting the Taíno people. He writes that they are gentle, unarmed and generous, and that they would easily become Christians and good servants. He repeatedly asks them where gold can be found and notes the small gold ornaments some of them wear."
           }
         ],
-        "frame": {
-          "full": [
-            "P: Columbus was mainly an explorer / invader, to a large / some extent, because…",
-            "E: For example, in 1492…",
-            "E: This meant that… However…",
-            "J: Therefore, overall…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
       },
       {
-        "id": "q2",
+        "id": "ap-j",
+        "qtype": "ks3j",
+        "type": "judge",
         "label": "Teacher-created practice question",
+        "minutes": 20,
         "markscheme": null,
-        "type": "explain",
-        "minutes": 10,
-        "q": "Explain two consequences of the Columbian Exchange.",
+        "q": "\"Christopher Columbus should be remembered as an invader rather than an explorer.\" How far do you agree?",
         "sections": [
+          "s1",
           "s2"
-        ],
-        "asks": "Explain two different consequences, each with precise evidence.",
-        "steps": [
-          "Pick two consequences (e.g. new diets; disease and population collapse).",
-          "Give precise examples.",
-          "Explain who was affected and how."
-        ],
-        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
-        "success": [
-          "Two consequences",
-          "Precise examples",
-          "Explains effects"
-        ],
-        "mistakes": [
-          "Only listing crops",
-          "Ignoring disease"
-        ],
-        "frame": {
-          "full": [
-            "P: One consequence was…",
-            "E: For example…",
-            "E: This meant that…",
-            "J: A second consequence… Overall, the most serious was…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        ]
       }
     ]
   },

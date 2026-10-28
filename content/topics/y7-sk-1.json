@@ -606,46 +606,37 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
-        "id": "q1",
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
         "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "explain",
         "minutes": 8,
-        "q": "Study a photograph of Dubai Creek from the late 1940s, showing wooden dhows and people unloading goods. What can you infer about life in Dubai at that time? Give two inferences, each supported with evidence from the source.",
+        "markscheme": null,
+        "q": "Describe two features of a primary source.",
+        "sections": [
+          "s2",
+          "s3"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about life in Dubai before the discovery of oil?",
         "sections": [
           "s3"
         ],
-        "asks": "Make two inferences: things the photograph suggests but does not state. Back each one with a detail you can see.",
-        "steps": [
-          "Look closely and list three things you can SEE.",
-          "For each, ask: what does this SUGGEST about life then?",
-          "Write two inferences using \"I can see… This suggests… Therefore…\"."
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "A black-and-white photograph taken by the British explorer Wilfred Thesiger on the Trucial Coast in the late 1940s. It is now held by the Pitt Rivers Museum, Oxford.",
+            "text": "The photograph shows wooden dhows moored along Dubai Creek. Men are carrying sacks and bundles of goods from the boats onto the shore. Behind them are low buildings made of coral stone and palm fronds, with a wind tower. There are no cars, cranes or tall buildings."
+          }
         ],
-        "plan": "2 minutes looking and noting details, 5 minutes writing, 1 minute checking each inference has evidence.",
-        "success": [
-          "Two separate inferences",
-          "Each backed by a precise detail from the source",
-          "Goes beyond describing what is shown"
-        ],
-        "mistakes": [
-          "Only describing the picture (\"there are boats\")",
-          "Inferences with no evidence",
-          "Writing about modern Dubai instead"
-        ],
-        "frame": {
-          "full": [
-            "I can see…",
-            "This suggests…",
-            "Therefore I can infer…",
-            "I can also see…",
-            "This suggests…",
-            "Therefore I can infer…"
-          ],
-          "some": [
-            "Inference 1: see → suggests → infer",
-            "Inference 2: see → suggests → infer"
-          ]
-        }
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
       },
       {
         "id": "q2",
@@ -707,7 +698,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

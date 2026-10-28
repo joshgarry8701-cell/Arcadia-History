@@ -611,109 +611,49 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
-        "id": "q1",
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
         "label": "Teacher-created practice question",
+        "minutes": 8,
         "markscheme": null,
-        "type": "judge",
-        "minutes": 12,
-        "q": "Which was more significant for Dubai: the discovery of oil in 1966 or the formation of the UAE in 1971? Write one Arcadia (PEEJ) paragraph.",
+        "q": "Describe two features of the formation of the UAE in 1971.",
         "sections": [
-          "s1",
-          "s3"
-        ],
-        "asks": "Make a qualified judgement between the two, using significance criteria and precise evidence.",
-        "steps": [
-          "Decide which and how strongly (qualifier).",
-          "Choose your best piece of evidence.",
-          "Explain using a criterion and a connective.",
-          "End with a judgement that compares both."
-        ],
-        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking for the four moves.",
-        "success": [
-          "Qualified claim",
-          "Precise evidence (dates, examples)",
-          "Uses a significance criterion",
-          "Explaining connective",
-          "Judgement comparing both"
-        ],
-        "mistakes": [
-          "Describing both without deciding",
-          "No criteria",
-          "Unqualified claims"
-        ],
-        "model": [
-          {
-            "t": "The discovery of oil in 1966 was arguably more significant for Dubai than the formation of the UAE, to a large extent because of its economic impact.",
-            "n": "P: qualified claim."
-          },
-          {
-            "t": "Oil revenue paid for new infrastructure, which helped projects such as the Dubai World Trade Centre, opened in 1979.",
-            "n": "E: precise evidence."
-          },
-          {
-            "t": "This meant Dubai could grow far faster than before, and as a result it became a centre of trade and travel.",
-            "n": "E: explaining connectives."
-          },
-          {
-            "t": "However, the formation of the UAE in 1971 gave Dubai security and unity, so overall oil was more significant for growth, while 1971 was more significant politically.",
-            "n": "J: judgement that compares."
-          }
-        ],
-        "frame": {
-          "full": [
-            "P: … was highly / somewhat more significant than … because…",
-            "E: For example, in …",
-            "E: This meant that… As a result… Therefore…",
-            "J: Overall, … was more significant because…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+          "s2"
+        ]
       },
       {
-        "id": "q2",
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
         "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "explain",
         "minutes": 10,
-        "q": "\"History isn't simply a story of progress.\" Explain this statement using an example of change in Dubai.",
+        "markscheme": null,
+        "q": "What can you learn from Source A about change in Dubai?",
         "sections": [
           "s2"
         ],
-        "asks": "Show that change can be progress, decline or both, depending on who is affected.",
-        "steps": [
-          "Pick one development.",
-          "Explain how it was progress for one group.",
-          "Explain how it might be decline or loss for another, or what stayed the same."
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "Two photographs of Dubai Creek: the first taken in the late 1940s by the explorer Wilfred Thesiger, the second a modern photograph taken from the same area in the 2020s.",
+            "text": "In the first photograph, wooden dhows unload goods beside low coral-stone buildings and a wind tower. In the second, wooden dhows are still moored on the Creek and still carry cargo, but behind them are glass skyscrapers, roads full of cars and the Burj Khalifa in the distance."
+          }
         ],
-        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
-        "success": [
-          "Precise example",
-          "Progress for whom?",
-          "Continuity or decline considered"
-        ],
-        "mistakes": [
-          "Saying everything got better",
-          "No precise example"
-        ],
-        "frame": {
-          "full": [
-            "P: History is not simply progress because…",
-            "E: For example, after 1966…",
-            "E: This meant that for … it was progress, but for …",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
+        "id": "ap-j",
+        "qtype": "ks3j",
+        "type": "judge",
+        "label": "Teacher-created practice question",
+        "minutes": 20,
+        "markscheme": null,
+        "q": "\"The discovery of oil in 1966 was the most significant event in the history of Dubai.\" How far do you agree?",
+        "sections": [
+          "s1",
+          "s2"
+        ]
       }
     ]
   },

@@ -569,6 +569,38 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
+        "label": "Teacher-created practice question",
+        "minutes": 8,
+        "markscheme": null,
+        "q": "Describe two features of the railway age in Britain.",
+        "sections": [
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about how far life in Britain had changed by 1900?",
+        "sections": [
+          "s1"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "Population figures from the official census of England and Wales, published by the government.",
+            "text": "In 1801 the census counted about 9 million people in England and Wales, and most lived in the countryside. By 1901 it counted about 32.5 million, and more than three-quarters lived in towns and cities. Manchester had grown from a small town in the 1750s to a city of over 300,000 people by 1850."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
         "id": "q1",
         "label": "Teacher-created practice question",
         "markscheme": null,
@@ -629,50 +661,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
-      },
-      {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "judge",
-        "minutes": 15,
-        "q": "Was the Internet another Industrial Revolution? Use the four criteria.",
-        "sections": [
-          "s3"
-        ],
-        "asks": "Apply Scale, Speed, Depth and Duration to the Internet and compare with industrialisation.",
-        "steps": [
-          "Scale and Speed with evidence.",
-          "Depth with examples.",
-          "Explain the Duration problem.",
-          "Judge."
-        ],
-        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
-        "success": [
-          "All four criteria used",
-          "Milestone dates",
-          "Duration problem explained",
-          "Judgement"
-        ],
-        "mistakes": [
-          "Writing about technology without comparing",
-          "Ignoring Duration"
-        ],
-        "frame": {
-          "full": [
-            "P: The Internet was / was not another Industrial Revolution, to some extent…",
-            "E: For example, since 1991…",
-            "E: In terms of speed / scale… however, duration…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

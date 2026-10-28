@@ -665,90 +665,51 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
-        "id": "q1",
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
         "label": "Teacher-created practice question",
+        "minutes": 8,
         "markscheme": null,
-        "type": "explain",
+        "q": "Describe two features of John Blanke's life at the Tudor court.",
+        "sections": [
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
         "minutes": 10,
-        "q": "What does the life of John Blanke tell us about the position of Africans at the Tudor court?",
+        "markscheme": null,
+        "q": "What can you learn from Source A about John Blanke's position at the court of Henry VIII?",
         "sections": [
           "s1"
         ],
-        "asks": "Use precise evidence from Blanke's life to explain what it reveals, and its limits.",
-        "steps": [
-          "Give evidence of wages and the petition.",
-          "Use the Tournament Roll and wedding gift.",
-          "Note what we cannot know."
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "The Westminster Tournament Roll, an illustrated roll made in 1511 to record the tournament celebrating the birth of Henry VIII's son. It is held by the College of Arms.",
+            "text": "The roll shows a procession of royal trumpeters on horseback, each wearing the same royal livery and blowing a trumpet hung with a banner. One of them is a Black man wearing a turban, generally identified as John Blanke. He appears twice on the roll, riding in his place among the other trumpeters."
+          }
         ],
-        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
-        "success": [
-          "Precise evidence",
-          "Explains what it reveals",
-          "Notes limits"
-        ],
-        "mistakes": [
-          "Retelling without explaining",
-          "Claiming he was a slave"
-        ],
-        "frame": {
-          "full": [
-            "P: Blanke's life suggests that some Africans were valued at court…",
-            "E: For example, he was paid 8d a day from 1507…",
-            "E: This shows that… However, we cannot know…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
       },
       {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
+        "id": "ap-j",
+        "qtype": "ks3j",
         "type": "judge",
-        "minutes": 12,
-        "q": "Whose story tells us most about Africans in Tudor England: John Blanke, Jacques Francis, Diego or Mary Fillis?",
+        "label": "Teacher-created practice question",
+        "minutes": 20,
+        "markscheme": null,
+        "q": "\"John Blanke's story tells us more about Africans in Tudor England than any other Black Tudor life.\" How far do you agree?",
         "sections": [
           "s1",
           "s2",
           "s3",
           "s4"
-        ],
-        "asks": "Compare at least two lives and judge which reveals most, using criteria such as what it reveals about status, reasons for coming and everyday life.",
-        "steps": [
-          "Choose your strongest story and explain what it reveals.",
-          "Compare with at least one other story.",
-          "Judge with a qualifier."
-        ],
-        "plan": "2 minutes planning, 9 minutes writing, 1 minute checking.",
-        "success": [
-          "Comparison",
-          "Precise evidence",
-          "Criterion named",
-          "Judgement"
-        ],
-        "mistakes": [
-          "Describing one life only",
-          "No judgement"
-        ],
-        "frame": {
-          "full": [
-            "P: … tells us most because…",
-            "E: For example, in …",
-            "E: This reveals that… whereas …",
-            "J: Therefore, overall…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        ]
       }
     ]
   },

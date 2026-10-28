@@ -528,6 +528,38 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
+        "label": "Teacher-created practice question",
+        "minutes": 8,
+        "markscheme": null,
+        "q": "Describe two features of Mansa Musa's pilgrimage to Mecca in 1324.",
+        "sections": [
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about how Europeans saw the Mali Empire?",
+        "sections": [
+          "s1"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "A section of the Catalan Atlas, an illustrated world map made in Majorca in 1375, attributed to the workshop of Abraham Cresques. It is held by the Bibliothèque nationale de France.",
+            "text": "The map shows a crowned African ruler, Mansa Musa, seated on a throne in West Africa. He wears a golden crown, holds a golden sceptre and raises a large gold nugget. A rider on a camel approaches him. A label next to him describes him as the richest and most noble lord of the region because of the gold found in his land."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
         "id": "q1",
         "label": "Teacher-created practice question",
         "markscheme": null,
@@ -567,48 +599,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
-      },
-      {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "explain",
-        "minutes": 10,
-        "q": "Explain why people at the time and historians later might see the same event differently. Use an example.",
-        "sections": [
-          "s1"
-        ],
-        "asks": "Explain the difference between perspective and interpretation, with a precise example.",
-        "steps": [
-          "Define perspective and interpretation.",
-          "Give an example of each (e.g. Cairo memories vs Catalan Atlas).",
-          "Explain why they differ."
-        ],
-        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
-        "success": [
-          "Accurate definitions",
-          "Precise example",
-          "Explains reasons for difference"
-        ],
-        "mistakes": [
-          "Mixing up the two terms",
-          "No example"
-        ],
-        "frame": {
-          "full": [
-            "P: People at the time saw events from their own perspective, whereas…",
-            "E: For example, in 1324… but in 1375 the Catalan Atlas…",
-            "E: This is because…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

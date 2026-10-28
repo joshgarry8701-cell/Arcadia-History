@@ -659,7 +659,7 @@
         "markscheme": null,
         "type": "describe",
         "minutes": 5,
-        "q": "Describe two features of the alliance system in 1914. (4 marks)",
+        "q": "Describe two features of the alliance system in 1914.",
         "sections": [
           "s2"
         ],
@@ -686,7 +686,28 @@
             "Feature + detail",
             "Feature + detail"
           ]
-        }
+        },
+        "qtype": "ks3d"
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about the naval race between Britain and Germany?",
+        "sections": [
+          "s1"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "A description of HMS Dreadnought, the British battleship launched in February 1906.",
+            "text": "Dreadnought was faster than any battleship before her and carried ten large 12-inch guns. Her design made every older battleship out of date overnight. Germany soon began building its own dreadnoughts, and in 1909 British newspapers and politicians campaigned under the slogan \"We want eight, and we won't wait\" for more to be built."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
       },
       {
         "id": "q2",
@@ -694,7 +715,7 @@
         "markscheme": null,
         "type": "judge",
         "minutes": 20,
-        "q": "\"Militarism was the main long-term cause of the First World War.\" How far do you agree? (16 marks)",
+        "q": "\"Militarism was the main long-term cause of the First World War.\" How far do you agree?",
         "sections": [
           "s1",
           "s2",
@@ -751,7 +772,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

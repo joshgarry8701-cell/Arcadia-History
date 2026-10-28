@@ -559,6 +559,38 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
+        "label": "Teacher-created practice question",
+        "minutes": 8,
+        "markscheme": null,
+        "q": "Describe two features of Britain in 1750.",
+        "sections": [
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about why industry grew in Britain?",
+        "sections": [
+          "s2"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "A description of the Bridgewater Canal, built by the Duke of Bridgewater and the engineer James Brindley and opened in 1761.",
+            "text": "The canal carried coal from the Duke's mines at Worsley to Manchester. In places it crossed a river on an aqueduct. Once it opened, the price of coal in Manchester fell sharply, because barges could carry far more coal, more cheaply, than carts on poor roads."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
         "id": "q1",
         "label": "Teacher-created practice question",
         "markscheme": null,
@@ -616,46 +648,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
-      },
-      {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "explain",
-        "minutes": 10,
-        "q": "Explain why historians call the Industrial Revolution \"a judgement, not a fact\".",
-        "sections": [
-          "s1"
-        ],
-        "asks": "Explain where the label came from and why it needs evidence.",
-        "steps": [
-          "Explain who popularised the label and when.",
-          "Explain how the four criteria are used to test it."
-        ],
-        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
-        "success": [
-          "Toynbee and 1880s",
-          "Uses criteria",
-          "Clear explanation"
-        ],
-        "mistakes": [
-          "Saying people at the time called it that"
-        ],
-        "frame": {
-          "full": [
-            "P: It is a judgement because…",
-            "E: The label was popularised by… in…",
-            "E: This means that historians must test it using…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

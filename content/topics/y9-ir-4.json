@@ -573,6 +573,38 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
+        "label": "Teacher-created practice question",
+        "minutes": 8,
+        "markscheme": null,
+        "q": "Describe two features of working conditions for children in textile mills.",
+        "sections": [
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about children's working lives in the early 1830s?",
+        "sections": [
+          "s1"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "From the report of the Sadler Committee, 1832, a parliamentary committee led by Michael Sadler, who wanted laws to limit children's working hours.",
+            "text": "Former child workers told the committee that they began work in the mills at six or seven years old, worked shifts of fourteen hours or more, were beaten by overlookers if they fell asleep, and were fined for being late. Some described injuries from machinery and deformed legs from standing all day."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
         "id": "q1",
         "label": "Teacher-created practice question",
         "markscheme": null,
@@ -631,48 +663,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
-      },
-      {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "judge",
-        "minutes": 15,
-        "q": "How successfully did Britain respond to the public health problems created by industrialisation?",
-        "sections": [
-          "s2"
-        ],
-        "asks": "Weigh the achievements of reformers against how slow and contested change was.",
-        "steps": [
-          "Evidence of success (1848 Act, Snow, Bazalgette).",
-          "Evidence of limits (slow, miasma, cost, opposition).",
-          "Judge with a qualifier."
-        ],
-        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
-        "success": [
-          "Qualified claim",
-          "Precise evidence both ways",
-          "Judgement"
-        ],
-        "mistakes": [
-          "Saying problems were solved quickly",
-          "No dates"
-        ],
-        "frame": {
-          "full": [
-            "P: Britain responded successfully to some extent, but slowly…",
-            "E: For example, the 1848 Public Health Act… / Snow (1854)…",
-            "E: However, this meant that…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

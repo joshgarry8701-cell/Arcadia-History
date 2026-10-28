@@ -567,6 +567,38 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
+        "label": "Teacher-created practice question",
+        "minutes": 8,
+        "markscheme": null,
+        "q": "Describe two features of the factory system.",
+        "sections": [
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about how factories changed work?",
+        "sections": [
+          "s1"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "Cromford Mill, Derbyshire, opened by Richard Arkwright in 1771. It is now part of the Derwent Valley Mills World Heritage Site.",
+            "text": "A tall stone mill of several storeys beside a fast-flowing stream, with a water wheel to drive the machines. The windows are large to let in light for long shifts. Arkwright also built rows of cottages, a chapel and a market nearby for the workers and their families, many of them children."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
         "id": "q1",
         "label": "Teacher-created practice question",
         "markscheme": null,
@@ -607,48 +639,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
-      },
-      {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "judge",
-        "minutes": 15,
-        "q": "Did industrialisation transform life for everyone?",
-        "sections": [
-          "s2"
-        ],
-        "asks": "Compare working-class and middle-class experiences of industrial cities and judge.",
-        "steps": [
-          "Working-class experience with evidence.",
-          "Middle-class experience with evidence.",
-          "Judge: transformed for whom, and how?"
-        ],
-        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
-        "success": [
-          "Two classes compared",
-          "Precise evidence",
-          "Judgement about \"everyone\""
-        ],
-        "mistakes": [
-          "One single story of the city",
-          "No evidence"
-        ],
-        "frame": {
-          "full": [
-            "P: Industrialisation transformed life for most people, but not in the same way…",
-            "E: For working-class families… whereas middle-class families…",
-            "E: This meant that…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

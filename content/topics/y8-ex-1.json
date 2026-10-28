@@ -572,6 +572,63 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
+        "id": "q2",
+        "label": "Teacher-created practice question",
+        "markscheme": null,
+        "type": "describe",
+        "minutes": 6,
+        "q": "Describe two features of the Indian Ocean trade world before 1498.",
+        "sections": [
+          "s2"
+        ],
+        "asks": "Give two accurate features, each with a precise supporting detail.",
+        "steps": [
+          "Pick two features (e.g. monsoon sailing, port cities, merchants).",
+          "Add a precise detail for each."
+        ],
+        "plan": "1 minute planning, 4 minutes writing, 1 minute checking.",
+        "success": [
+          "Two different features",
+          "Precise detail for each"
+        ],
+        "mistakes": [
+          "Writing about Europeans instead",
+          "One vague feature"
+        ],
+        "frame": {
+          "full": [
+            "One feature was… For example…",
+            "A second feature was… For example…"
+          ],
+          "some": [
+            "Feature 1 + detail",
+            "Feature 2 + detail"
+          ]
+        },
+        "qtype": "ks3d"
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about travel and trade in the 14th century?",
+        "sections": [
+          "s1",
+          "s2"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "From the Rihla (travel account) of Ibn Battuta, a scholar from Morocco. He dictated it from memory in the 1350s to the writer Ibn Juzayy, for the ruler of Morocco.",
+            "text": "In this part of the Rihla, Ibn Battuta describes arriving at the East African port of Kilwa. He praises it as one of the most beautiful and well-built towns he has seen, describes its Muslim ruler giving gifts to scholars and travellers, and mentions merchants trading in gold that came from the African interior."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
         "id": "q1",
         "label": "Teacher-created practice question",
         "markscheme": null,
@@ -632,42 +689,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
-      },
-      {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "describe",
-        "minutes": 6,
-        "q": "Describe two features of the Indian Ocean trade world before 1498.",
-        "sections": [
-          "s2"
-        ],
-        "asks": "Give two accurate features, each with a precise supporting detail.",
-        "steps": [
-          "Pick two features (e.g. monsoon sailing, port cities, merchants).",
-          "Add a precise detail for each."
-        ],
-        "plan": "1 minute planning, 4 minutes writing, 1 minute checking.",
-        "success": [
-          "Two different features",
-          "Precise detail for each"
-        ],
-        "mistakes": [
-          "Writing about Europeans instead",
-          "One vague feature"
-        ],
-        "frame": {
-          "full": [
-            "One feature was… For example…",
-            "A second feature was… For example…"
-          ],
-          "some": [
-            "Feature 1 + detail",
-            "Feature 2 + detail"
-          ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

@@ -1242,71 +1242,30 @@
             "Claim 1: who + basis + detail",
             "Claim 2: who + basis + detail"
           ]
-        }
+        },
+        "qtype": "ks3d"
       },
       {
-        "id": "q2",
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
         "label": "Teacher-created practice question",
-        "type": "explain",
-        "q": "Explain why the Battle of Stamford Bridge was important for the outcome of the Battle of Hastings.",
-        "minutes": 12,
-        "sections": [
-          "s2",
-          "s3",
-          "s5"
-        ],
-        "asks": "Show how events in the north led to consequences in the south. Each paragraph needs a reason, evidence and an explanation of how it affected Hastings.",
-        "steps": [
-          "Identify two or three effects of Stamford Bridge (e.g. tiredness, losses, the south left undefended).",
-          "For each, give precise evidence.",
-          "Explain how that effect changed what happened at Hastings.",
-          "Finish by linking the effects together."
-        ],
-        "plan": "2 minutes: list effects and evidence in the planning grid. 9 minutes: two PEEJ paragraphs. 1 minute: check every paragraph links back to Hastings.",
-        "success": [
-          "Identifies at least two consequences of Stamford Bridge",
-          "Supports each with precise evidence",
-          "Explains clearly how each affected Hastings",
-          "Shows a link between the consequences"
-        ],
-        "mistakes": [
-          "Telling the story of Stamford Bridge without linking it to Hastings",
-          "Saying 'the army was tired' without evidence",
-          "Forgetting dates that prove the timing"
-        ],
+        "minutes": 10,
         "markscheme": null,
-        "model": [
+        "q": "What can you learn from Source A about how the Normans won the Battle of Hastings?",
+        "sections": [
+          "s4",
+          "s5",
+          "s6"
+        ],
+        "sources": [
           {
-            "t": "Stamford Bridge was important because it left the south coast undefended when William arrived.",
-            "n": "POINT — answers the question directly."
-          },
-          {
-            "t": "Harold was in the north defeating Hardrada on 25 September, and William landed at Pevensey on 28 September, just three days later.",
-            "n": "EVIDENCE — two precise dates show the timing."
-          },
-          {
-            "t": "This meant William could land his army and horses safely and choose where to wait, instead of fighting on the beach while his men were still unloading.",
-            "n": "EXPLAIN — shows the consequence for William."
-          },
-          {
-            "t": "So Stamford Bridge gave William a strong start before the battle even began.",
-            "n": "JUDGEMENT/LINK — ties the paragraph back to the outcome at Hastings."
+            "label": "Source A",
+            "provenance": "A scene from the Bayeux Tapestry, an embroidery probably made in the 1070s for Bishop Odo of Bayeux, William's half-brother. It tells the Norman story of 1066.",
+            "text": "In the middle of the battle, Norman knights on horseback charge an English shield wall on a hill. Some Normans are falling. Duke William pushes back his helmet to show his face to his men, because a rumour had spread that he had been killed. Bishop Odo, holding a club, rallies young soldiers. Later scenes show English soldiers being cut down as they leave the hill."
           }
         ],
-        "frame": {
-          "full": [
-            "POINT: One reason Stamford Bridge mattered was …",
-            "EVIDENCE: For example, …",
-            "EXPLAIN: This meant that … because …",
-            "JUDGEMENT: Therefore this helped William win at Hastings by …"
-          ],
-          "some": [
-            "Point",
-            "Evidence",
-            "Explain",
-            "Judgement / link back"
-          ]
-        }
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
       },
       {
         "id": "q3",
@@ -1381,7 +1340,8 @@
             "Compare (duration / scope / effectiveness / impact)",
             "Conclusion"
           ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

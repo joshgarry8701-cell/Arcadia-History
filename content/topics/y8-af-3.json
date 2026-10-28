@@ -575,6 +575,38 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
+        "label": "Teacher-created practice question",
+        "minutes": 8,
+        "markscheme": null,
+        "q": "Describe two features of the everyday lives of Africans in Tudor England.",
+        "sections": [
+          "s2"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about the status of Africans in Tudor England?",
+        "sections": [
+          "s1"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "Court records of the High Court of Admiralty, 1548, in which the African diver Jacques Francis gave evidence in a case about goods salvaged from a wrecked Venetian ship near Southampton. Francis had also worked on salvaging the Mary Rose.",
+            "text": "The records show that Jacques Francis, described as a diver born in Africa, was allowed to give sworn evidence in an English court. The opposing side tried to have his evidence rejected by calling him a slave and an infidel, but the court still recorded his testimony."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
         "id": "q1",
         "label": "Teacher-created practice question",
         "markscheme": null,
@@ -632,48 +664,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
-      },
-      {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "explain",
-        "minutes": 10,
-        "q": "Explain why the claim that Elizabeth I expelled Africans from England is a myth.",
-        "sections": [
-          "s3"
-        ],
-        "asks": "Explain what the 1596 letter and 1601 draft actually were, and what happened.",
-        "steps": [
-          "Explain the 1596 letter and its condition.",
-          "Explain the 1601 draft.",
-          "Explain what happened to Africans afterwards."
-        ],
-        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
-        "success": [
-          "Accurate dates",
-          "Explains the consent condition",
-          "Notes Africans stayed"
-        ],
-        "mistakes": [
-          "Repeating the myth",
-          "Confusing the two documents"
-        ],
-        "frame": {
-          "full": [
-            "P: The claim is a myth because…",
-            "E: The 1596 letter… only with…",
-            "E: This meant that… The 1601 draft…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

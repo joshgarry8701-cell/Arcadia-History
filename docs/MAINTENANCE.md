@@ -27,6 +27,12 @@ Rules that keep content accurate:
 - Write content in your own words; don't paste textbook passages.
 - Year 10 Germany / Civil Rights are separate topic files from Year 12 Germany and Year 13 Civil Rights. Never share question banks between them.
 
+## KS3 exam practice (Years 7–9)
+
+Every KS3 topic has three practice questions that match the AP exam and the revision guidance: **Describe two features of …**, **What can you learn from Source A about …?** and **‘[Statement].’ How far do you agree?** The guides and writing frames for these three question types are in `content/courses.json` (`ks3d`, `ks3s`, `ks3j`) and show in each year's Exam guide. The knowledge recall and chronology timeline sections of the AP paper are practised through the quizzes and the Key dates quiz.
+
+The questions live in `scripts/ks3/ap.js`. After changing it, run `node scripts/ks3/apply-ap.js` (the KS3 topic generators apply it automatically). Source questions describe a real source in our own words; never invent quotations.
+
 ## Exam details for Years 11–13
 
 Edit `courses` in Teacher area › Content. Fill `specification_version`, each option's `title`, `code`, `date_range`, then `papers`, `question_types`, `marks` and `assessment_objectives`, and set `"verified": true` only after checking against the specification. Keep `docs/CURRICULUM_MAP.md` in step.

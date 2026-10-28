@@ -573,108 +573,49 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
-        "id": "q1",
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
         "label": "Teacher-created practice question",
+        "minutes": 8,
         "markscheme": null,
-        "type": "judge",
-        "minutes": 15,
-        "q": "\"Empire was necessary but not sufficient for British industrialisation.\" How convincing is this argument?",
+        "q": "Describe two features of the Agricultural Revolution.",
+        "sections": [
+          "s2"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about the link between slavery and British industry?",
         "sections": [
           "s1"
         ],
-        "asks": "Weigh global/imperial factors against domestic ones and reach a qualified judgement on the claim.",
-        "steps": [
-          "Explain the global chain with evidence.",
-          "Explain domestic factors.",
-          "Use the historians' debate.",
-          "Judge how convincing the claim is."
-        ],
-        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
-        "success": [
-          "Qualified claim",
-          "Precise evidence for both",
-          "Uses the Williams debate",
-          "Judgement"
-        ],
-        "mistakes": [
-          "Saying slavery alone caused it",
-          "Ignoring slavery",
-          "No judgement"
-        ],
-        "model": [
+        "sources": [
           {
-            "t": "This argument is largely convincing, because empire and slavery were essential to the cotton industry but could not have created industrialisation alone.",
-            "n": "P: qualified."
-          },
-          {
-            "t": "Lancashire's mills depended on raw cotton grown by enslaved Africans and shipped through Liverpool; Eric Williams (1944) argued these profits were a crucial engine of industrial capital.",
-            "n": "E: precise, uses historian."
-          },
-          {
-            "t": "However, the mills also needed British coal, capital, machines and workers, which meant global cotton only became industrial cloth because of domestic advantages.",
-            "n": "E: explains interconnection."
-          },
-          {
-            "t": "Therefore empire was necessary for the cotton industry, but not sufficient on its own.",
-            "n": "J: judgement."
+            "label": "Source A",
+            "provenance": "From \"Capitalism and Slavery\" (1944) by the Trinidadian historian Eric Williams, based on his doctoral research at Oxford.",
+            "text": "Williams argues that the profits of the slave trade and of plantations in the Caribbean helped provide money for British banks, shipping and industry, and that ports such as Liverpool and Bristol grew rich on Atlantic trade. He also argues that Britain abolished the slave trade partly because it had become less profitable."
           }
         ],
-        "frame": {
-          "full": [
-            "P: This argument is convincing to a large / some extent because…",
-            "E: For example, cotton… / Williams argued…",
-            "E: This meant that… However, domestic factors…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
       },
       {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
+        "id": "ap-j",
+        "qtype": "ks3j",
         "type": "judge",
-        "minutes": 15,
-        "q": "Would a landowner and an agricultural labourer agree that the Agricultural Revolution was a revolution? Use the four criteria.",
+        "label": "Teacher-created practice question",
+        "minutes": 20,
+        "markscheme": null,
+        "q": "\"Empire was the main reason the Industrial Revolution happened in Britain.\" How far do you agree?",
         "sections": [
+          "s1",
           "s2"
-        ],
-        "asks": "Compare two perspectives using Scale, Speed, Depth and Duration.",
-        "steps": [
-          "Landowner's view with evidence.",
-          "Labourer's view with evidence.",
-          "Apply at least two criteria and judge."
-        ],
-        "plan": "3 minutes planning, 11 minutes writing, 1 minute checking.",
-        "success": [
-          "Two perspectives",
-          "Criteria named",
-          "Precise evidence",
-          "Judgement"
-        ],
-        "mistakes": [
-          "Only one perspective",
-          "Confusing revolution with progress"
-        ],
-        "frame": {
-          "full": [
-            "P: They would agree it was revolutionary in… but disagree about…",
-            "E: For a landowner, enclosure… / For a labourer…",
-            "E: In terms of depth / speed… this meant that…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        ]
       }
     ]
   },

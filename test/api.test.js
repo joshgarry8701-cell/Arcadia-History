@@ -69,7 +69,7 @@ test('progress persists and is private', async () => {
 
 test('submissions are private; teacher can review and override', async () => {
   const { app, a, b, t } = await setup();
-  const s = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q2', text: ANSWER });
+  const s = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q3', text: ANSWER });
   assert.equal(s.status, 200);
   const id = s.body.submission.id;
   assert.equal((await b.put('/api/submissions/' + id, { text: 'hijack' })).status, 404);
@@ -95,7 +95,7 @@ test('submissions are private; teacher can review and override', async () => {
   const mine = await a.get('/api/submissions');
   assert.equal(mine.body.submissions[0].teacher.comment, 'Good use of dates');
   // Redraft with comparison
-  const re = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q2', text: ANSWER + ' This was the most important effect.', parent_id: id });
+  const re = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q3', text: ANSWER + ' This was the most important effect.', parent_id: id });
   const fb2 = await a.post('/api/submissions/' + re.body.submission.id + '/feedback');
   assert.equal(fb2.status, 200);
   assert.equal(fb2.body.submission.ai.comparison, 'Better');
@@ -107,14 +107,14 @@ test('verified mark scheme enables an indicative mark, clamped to range', async 
   const { app, a, t } = await setup(async () => ({ text: reply, usage: { input_tokens: 100, output_tokens: 100 } }));
   await t.put('/api/teacher/settings', { price_input_per_mtok: 3, price_output_per_mtok: 15, cooldown_seconds: 0 });
   const c = await t.get('/api/teacher/content/' + encodeURIComponent('topic:y7-hastings'));
-  c.body.data.exam.questions[1].markscheme = { verified: true, source: 'Test', max_marks: 8, levels: [] };
+  c.body.data.exam.questions.find((q) => q.id === 'q3').markscheme = { verified: true, source: 'Test', max_marks: 8, levels: [] };
   assert.equal((await t.put('/api/teacher/content/' + encodeURIComponent('topic:y7-hastings'), { data: c.body.data, status: 'published' })).status, 200);
-  const s = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q2', text: ANSWER });
+  const s = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q3', text: ANSWER });
   let fb = await a.post('/api/submissions/' + s.body.submission.id + '/feedback');
   assert.equal(fb.body.submission.ai.mode, 'indicative');
   assert.equal(fb.body.submission.ai.mark, null, '9/8 is out of range so no mark shown');
   reply = JSON.stringify({ mark: 6, level: 'Level 3', improvements: ['x'] });
-  const s2 = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q2', text: ANSWER });
+  const s2 = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q3', text: ANSWER });
   fb = await a.post('/api/submissions/' + s2.body.submission.id + '/feedback');
   assert.equal(fb.body.submission.ai.mark, 6);
   assert.equal(fb.body.submission.ai.max, 8);
@@ -125,18 +125,18 @@ test('cost controls: word limit, daily limit, cooldown, hard budget ceiling', as
   let calls = 0;
   const { app, a, t } = await setup(async () => { calls++; return { text: GOOD, usage: { input_tokens: 2000, output_tokens: 500 } }; });
   await t.put('/api/teacher/settings', { price_input_per_mtok: 3, price_output_per_mtok: 15, cooldown_seconds: 0, max_words: 50, daily_marks_per_student: 2 });
-  const long = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q2', text: 'word '.repeat(70) });
+  const long = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q3', text: 'word '.repeat(70) });
   assert.equal((await a.post('/api/submissions/' + long.body.submission.id + '/feedback')).status, 413);
   for (let i = 0; i < 2; i++) {
-    const s = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q2', text: ANSWER });
+    const s = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q3', text: ANSWER });
     assert.equal((await a.post('/api/submissions/' + s.body.submission.id + '/feedback')).status, 200);
   }
-  const s3 = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q2', text: ANSWER });
+  const s3 = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q3', text: ANSWER });
   assert.equal((await a.post('/api/submissions/' + s3.body.submission.id + '/feedback')).status, 429, 'daily limit');
   assert.equal(calls, 2);
   // Budget: each call costs 0.0135; set ceiling just above spend
   await t.put('/api/teacher/settings', { daily_marks_per_student: 50, monthly_budget_usd: 0.03 });
-  const s4 = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q2', text: ANSWER });
+  const s4 = await a.post('/api/submissions', { topic_id: 'y7-hastings', question_id: 'q3', text: ANSWER });
   const r4 = await a.post('/api/submissions/' + s4.body.submission.id + '/feedback');
   assert.equal(r4.status, 503, 'worst-case estimate would exceed ceiling, so the request is never sent');
   assert.equal(calls, 2);

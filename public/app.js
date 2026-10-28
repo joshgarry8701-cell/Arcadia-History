@@ -279,7 +279,7 @@ function viewCourse(c) {
     <div style="--course:${c.accent}; display:grid; gap:18px; min-width:0">
     ${topics.length ? html`<section class="acts">
       ${c.qtypes ? html`<button class="act" data-act="go" data-to="${c.id}.guide"><span class="eyebrow">Exam</span><b>Exam guide</b><span class="small muted">Every question type: what to do, timings, mark scheme levels, frames and models</span></button>` : ''}
-      ${c.qtypes ? html`<button class="act" data-act="go" data-to="${c.id}.past"><span class="eyebrow">Exam</span><b>Past papers</b><span class="small muted">Every past-paper question with mark scheme points and examiner comments</span></button>` : ''}
+      ${c.qtypes && !isKS3(c) ? html`<button class="act" data-act="go" data-to="${c.id}.past"><span class="eyebrow">Exam</span><b>Past papers</b><span class="small muted">Every past-paper question with mark scheme points and examiner comments</span></button>` : ''}
       ${isKS3(c) ? html`<button class="act" data-act="go" data-to="${c.id}.games"><span class="eyebrow">Games</span><b>🎮 Games arcade</b><span class="small muted">Play games mixing every ${c.year} topic and earn XP</span></button>` : ''}
       <button class="act" data-act="go" data-to="${c.id}.mixed"><span class="eyebrow">Retrieval</span><b>Mixed quiz</b><span class="small muted">Questions from every topic in this course</span></button>
       <button class="act" data-act="go" data-to="${c.id}.dates"><span class="eyebrow">Retrieval</span><b>Key dates quiz</b><span class="small muted">Match events and dates from the timelines</span></button>
@@ -408,7 +408,7 @@ function qtypeGuide(c, key, qt) {
   const past = [];
   for (const t of courseTopics(c)) { const full = S.topics[t.id]; if (!full) continue; for (const q of full.exam.questions) if (q.qtype === key) past.push({ t: full, q }); }
   return html`<article class="panel" id="sec-${key}">
-    <div class="row" style="gap:6px"><span class="chip">${qt.paper}</span><span class="chip mono">${qt.marks} marks</span><span class="chip mono">~${qt.minutes} min</span><span class="chip">${qt.ao}</span></div>
+    <div class="row" style="gap:6px"><span class="chip">${qt.paper}</span>${qt.marks ? html`<span class="chip mono">${qt.marks} marks</span>` : ''}<span class="chip mono">~${qt.minutes} min</span><span class="chip">${qt.ao}</span></div>
     <h3>${qt.label}</h3>
     ${qt.template ? html`<p class="frame"><span class="eyebrow">How the question is worded</span>${qt.template}</p>` : ''}
     <details class="fold" open><summary>What it asks you to do</summary><div><p>${qt.asks}</p></div></details>
@@ -420,7 +420,7 @@ function qtypeGuide(c, key, qt) {
     <details class="fold"><summary>Writing frame${(qt.frames || []).length > 1 ? 's' : ''}</summary><div>${(qt.frames || (qt.frame ? [{ name: 'Writing frame', ...qt.frame }] : [])).map((f) => html`<div class="frame"><span class="eyebrow">${f.name}</span><ol>${f.full.map((l) => html`<li>${l}</li>`)}</ol></div>`)}</div></details>
     ${qt.model ? html`<details class="fold"><summary>Annotated model</summary><div>${modelBlock(qt)}</div></details>` : ''}
     ${qt.requires_sources ? html`<p class="small muted">This question type needs the sources or extracts from the paper. Practise with past papers from Pearson's website or the questions Mr Garry adds.</p>` : ''}
-    ${past.length ? html`<div><p class="eyebrow">Practise this question type (${past.length})</p><ul>${past.sort((a, b) => (b.q.pp ? seriesKey(b.q.pp.series) : 9e9) - (a.q.pp ? seriesKey(a.q.pp.series) : 9e9)).slice(0, 6).map(({ t, q }) => html`<li><button class="btn sm" data-act="go" data-to="${t.id}.exam.${q.id}" style="text-align:left">${oneLine(q.q, 160)}</button> <span class="small muted">${q.label}</span></li>`)}</ul>${past.length > 6 ? html`<button class="btn sm" data-act="go" data-to="${c.id}.past">See all ${past.length} in Past papers</button>` : ''}</div>` : ''}
+    ${past.length ? html`<div><p class="eyebrow">Practise this question type (${past.length})</p><ul>${past.sort((a, b) => (b.q.pp ? seriesKey(b.q.pp.series) : 9e9) - (a.q.pp ? seriesKey(a.q.pp.series) : 9e9)).slice(0, isKS3(c) ? 30 : 6).map(({ t, q }) => html`<li><button class="btn sm" data-act="go" data-to="${t.id}.exam.${q.id}" style="text-align:left">${oneLine(q.q, 160)}</button> <span class="small muted">${q.label}</span></li>`)}</ul>${past.length > 6 && !isKS3(c) ? html`<button class="btn sm" data-act="go" data-to="${c.id}.past">See all ${past.length} in Past papers</button>` : ''}</div>` : ''}
   </article>`;
 }
 function viewGuide(c) {
@@ -428,7 +428,7 @@ function viewGuide(c) {
   return shell(html`${crumbs([{ label: c.year, to: c.id }, { label: 'Exam guide' }])}
     <section class="course-head" style="--course:${c.accent}"><p class="eyebrow">${c.year} · ${ex.qualification || c.title}</p><h1>Exam guide</h1><p class="muted">${ex.codes || ''}</p></section>
     <div style="--course:${c.accent}; display:grid; gap:18px; min-width:0">
-    ${(ex.papers || []).map((pp) => html`<section style="display:grid;gap:12px"><div><h2>${pp.title}</h2><p class="muted">${pp.duration} · ${pp.marks} marks. ${pp.structure}</p></div>
+    ${(ex.papers || (c.assessment && c.assessment.papers) || []).map((pp) => html`<section style="display:grid;gap:12px"><div><h2>${pp.title}</h2><p class="muted">${pp.duration ? pp.duration + ' · ' : ''}${pp.marks ? pp.marks + ' marks. ' : ''}${pp.structure}</p></div>
       ${(pp.qtypes || []).map((k) => c.qtypes[k] ? qtypeGuide(c, k, c.qtypes[k]) : '')}</section>`)}
     </div>`);
 }
@@ -803,7 +803,7 @@ function viewCheck(t) {
 }
 
 // ---------- exam practice ----------
-const QTYPE = { describe: 'Describe', explain: 'Explain', judge: 'Judgement' };
+const QTYPE = { describe: 'Describe', explain: 'Explain', source: 'Source', judge: 'Judgement' };
 function qChips(q) {
   return html`${q.type ? html`<span class="chip lvl-${q.type}">${QTYPE[q.type]}</span>` : ''}${q.qtype ? html`<span class="chip">${q.label_short || q.paper || ''}</span>` : ''}${q.marks ? html`<span class="chip mono">${q.marks} marks</span>` : ''}<span class="chip mono">${q.minutes} min</span>`;
 }

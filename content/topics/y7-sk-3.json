@@ -532,6 +532,38 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
+        "label": "Teacher-created practice question",
+        "minutes": 8,
+        "markscheme": null,
+        "q": "Describe two features of a good historical enquiry question.",
+        "sections": [
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about the causes of the crisis of 1066?",
+        "sections": [
+          "s2"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "A scene from the Bayeux Tapestry, an embroidery probably made in the 1070s for Bishop Odo of Bayeux, William of Normandy's half-brother.",
+            "text": "The scene shows the death of King Edward the Confessor in January 1066. Edward lies in bed surrounded by his household, with one man (often identified as Harold Godwinson) reaching towards him. In the next scene, men offer Harold the crown, and he is shown sitting on the throne as king."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
         "id": "q1",
         "label": "Teacher-created practice question",
         "markscheme": null,
@@ -590,44 +622,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
-      },
-      {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "explain",
-        "minutes": 8,
-        "q": "Turn this factual question into two good historical enquiry questions: \"When was oil discovered in Dubai?\" Explain why your questions are better.",
-        "sections": [
-          "s1"
-        ],
-        "asks": "Write two enquiry questions (why / how far / how significant) and explain what makes them better.",
-        "steps": [
-          "Use a different enquiry stem for each.",
-          "Explain what evidence each would need.",
-          "Explain why each needs a judgement."
-        ],
-        "plan": "2 minutes drafting questions, 5 minutes explaining, 1 minute checking.",
-        "success": [
-          "Two genuine enquiry questions",
-          "Explains why they need evidence and judgement"
-        ],
-        "mistakes": [
-          "Writing another \"when\" question",
-          "Not explaining"
-        ],
-        "frame": {
-          "full": [
-            "Question 1: How significant…?",
-            "This is better because…",
-            "Question 2: Why…?",
-            "This is better because…"
-          ],
-          "some": [
-            "Two questions + why each is better"
-          ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

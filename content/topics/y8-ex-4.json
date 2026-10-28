@@ -559,6 +559,38 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
+        "label": "Teacher-created practice question",
+        "minutes": 8,
+        "markscheme": null,
+        "q": "Describe two features of the Mexica (Aztec) Empire before 1519.",
+        "sections": [
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about the fall of Tenochtitlan?",
+        "sections": [
+          "s1"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "From the Florentine Codex, compiled in the 1570s by Nahua (Indigenous Mexican) authors and artists working with the Spanish friar Bernardino de Sahagún.",
+            "text": "One illustration shows Mexica people lying sick with smallpox, their bodies covered in sores, while others care for them. Other pages show Spanish soldiers fighting alongside thousands of Indigenous allies, and canoes and boats on the lake around Tenochtitlan during the siege."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
         "id": "q1",
         "label": "Teacher-created practice question",
         "markscheme": null,
@@ -616,49 +648,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
-      },
-      {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "explain",
-        "minutes": 10,
-        "q": "Explain why Portugal's experience in the Indian Ocean was different from Spain's in the Americas.",
-        "sections": [
-          "s1",
-          "s2"
-        ],
-        "asks": "Compare the two encounters and explain the reasons for the difference.",
-        "steps": [
-          "Describe what Portugal found in the Indian Ocean.",
-          "Describe what Spain did in Mexico.",
-          "Explain why they differed."
-        ],
-        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
-        "success": [
-          "Clear comparison",
-          "Precise evidence for both",
-          "Explains reasons"
-        ],
-        "mistakes": [
-          "Describing only one place",
-          "No reasons"
-        ],
-        "frame": {
-          "full": [
-            "P: Portugal's experience was very different because…",
-            "E: In 1498 at Calicut… whereas in 1519–21…",
-            "E: This meant that…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

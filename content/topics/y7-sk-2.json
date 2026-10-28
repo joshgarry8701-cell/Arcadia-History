@@ -542,43 +542,37 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
-        "id": "q1",
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
         "label": "Teacher-created practice question",
+        "minutes": 8,
         "markscheme": null,
-        "type": "explain",
-        "minutes": 6,
-        "q": "Put these events in chronological order and give the century of each: the formation of the UAE; the Battle of Hastings; Mansa Musa's pilgrimage; the Hijra.",
+        "q": "Describe two features of the BCE/CE dating system.",
+        "sections": [
+          "s2"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about how historians measure time?",
         "sections": [
           "s1",
           "s2"
         ],
-        "asks": "Sequence the events correctly and name the century of each.",
-        "steps": [
-          "Write the date beside each event.",
-          "Order them earliest to latest.",
-          "Work out each century (hundreds + 1)."
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "A teacher-created timeline made for this revision task (it is not a historical source), using dates from your Year 7 lessons.",
+            "text": "The timeline runs from left to right. It starts at c. 3000 BCE (Bronze Age settlement at Hili) and passes 622 CE (the Hijra, start of the Hijri calendar), 1066 (Battle of Hastings, 11th century), 1324 (Mansa Musa's pilgrimage, 14th century) and ends at 1971 (formation of the UAE, 20th century). The gap between 3000 BCE and 622 CE is drawn the same size as the gap between 1324 and 1971."
+          }
         ],
-        "plan": "1 minute recalling dates, 4 minutes ordering and working out centuries, 1 minute checking.",
-        "success": [
-          "Correct order",
-          "Correct centuries",
-          "Dates included"
-        ],
-        "mistakes": [
-          "Getting the century one out (1066 is NOT the 10th century)",
-          "Forgetting a date"
-        ],
-        "frame": {
-          "full": [
-            "First came… in … (… century).",
-            "Next came… in … (… century).",
-            "Then… in … (… century).",
-            "Finally… in … (… century)."
-          ],
-          "some": [
-            "Order + date + century for each"
-          ]
-        }
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
       },
       {
         "id": "q2",
@@ -620,7 +614,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

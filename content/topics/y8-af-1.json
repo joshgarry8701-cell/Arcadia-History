@@ -606,7 +606,29 @@
             "Reason + example",
             "Reason + example"
           ]
-        }
+        },
+        "qtype": "ks3d"
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about Africans in Tudor England?",
+        "sections": [
+          "s1",
+          "s3"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "From Miranda Kaufmann's book \"Black Tudors: The Untold Story\" (2017). Kaufmann is a historian who researched parish registers, court cases and royal accounts.",
+            "text": "Kaufmann explains that she found records of over 360 Africans living in Britain between 1500 and 1640. They appear in baptism and burial registers, wage lists and court records, and worked as musicians, sailors, divers, servants and craftspeople in towns such as London, Bristol and Plymouth."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
       },
       {
         "id": "q2",
@@ -665,7 +687,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

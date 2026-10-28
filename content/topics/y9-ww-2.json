@@ -525,46 +525,36 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
-        "id": "q1",
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
         "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "explain",
         "minutes": 8,
-        "q": "Explain why the assassination of Franz Ferdinand led to a European war. (6 marks)",
+        "markscheme": null,
+        "q": "Describe two features of the assassination of Archduke Franz Ferdinand.",
         "sections": [
-          "s1",
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about why the July Crisis led to war?",
+        "sections": [
           "s2"
         ],
-        "asks": "Explain the chain from the assassination to wider war, linking to long-term causes.",
-        "steps": [
-          "Start with the assassination and Austria's response.",
-          "Explain how alliances and the blank cheque widened it.",
-          "Explain how mobilisation made it hard to stop."
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "A description of the ultimatum sent by the government of Austria-Hungary to Serbia on 23 July 1914.",
+            "text": "The ultimatum blamed Serbia for the assassination of Franz Ferdinand. It demanded that Serbia ban anti-Austrian groups and propaganda, sack officials named by Austria-Hungary, and allow Austro-Hungarian officials to take part in the investigation inside Serbia. Serbia was given only 48 hours to accept every demand."
+          }
         ],
-        "plan": "1 minute planning, 6 minutes writing, 1 minute checking.",
-        "success": [
-          "Clear chain with dates",
-          "Links to alliances and militarism",
-          "Explaining connectives"
-        ],
-        "mistakes": [
-          "Only describing the assassination",
-          "Wrong order of events"
-        ],
-        "frame": {
-          "full": [
-            "P: The assassination led to war because…",
-            "E: After 28 June, Germany gave… on 5–6 July…",
-            "E: This meant that… which caused…",
-            "J: Therefore, the trigger only led to war because…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
       },
       {
         "id": "q2",
@@ -572,7 +562,7 @@
         "markscheme": null,
         "type": "judge",
         "minutes": 20,
-        "q": "\"The assassination of Franz Ferdinand was the main cause of the First World War.\" How far do you agree? (16 marks)",
+        "q": "\"The assassination of Franz Ferdinand was the main cause of the First World War.\" How far do you agree?",
         "sections": [
           "s1",
           "s2"
@@ -607,7 +597,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },

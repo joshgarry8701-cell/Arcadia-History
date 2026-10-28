@@ -11,7 +11,20 @@
       "assessment": {
         "type": "KS3 department criteria",
         "criteria_status": "missing",
-        "notes": "Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added."
+        "notes": "Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added.",
+        "papers": [
+          {
+            "title": "AP exam: what the paper looks like",
+            "duration": null,
+            "marks": null,
+            "structure": "1) Short knowledge recall — quick questions on key words, people, dates and events (practise with the Quizzes and Flashcards). 2) Chronology timeline task — put key events in order (practise with the Key dates quiz and each topic's chronology quiz); use your timeline to plan the extended answer. 3) Describe two features of … 4) What can you learn from Source A about …? 5) ‘[Statement].’ How far do you agree?",
+            "qtypes": [
+              "ks3d",
+              "ks3s",
+              "ks3j"
+            ]
+          }
+        ]
       },
       "resources_received": [
         "Year 7 'What is History?' 14-lesson unit and scheme of work (2026–27)"
@@ -31,7 +44,147 @@
           "paper": "Autumn 2",
           "title": "The Norman Conquest"
         }
-      ]
+      ],
+      "qtypes": {
+        "ks3d": {
+          "label": "AP question — Describe two features of …",
+          "label_short": "Describe two features",
+          "paper": "KS3 AP exam",
+          "marks": null,
+          "minutes": 8,
+          "ao": "Knowledge and understanding",
+          "template": "Describe two features of …",
+          "asks": "Give two different, accurate features of the topic, each backed up with a precise supporting detail. You do not need to explain causes or give a judgement.",
+          "steps": [
+            "Underline what you have to describe and any dates.",
+            "Choose two different features you know well.",
+            "For each feature: say what it was in one clear sentence.",
+            "Add one precise detail for each (a date, a name, a number or an event).",
+            "Keep it to two features — no introduction or conclusion needed."
+          ],
+          "plan": "About 8 minutes: 1 minute choosing two features, 3 minutes per feature, 1 minute checking names and dates.",
+          "success": [
+            "Two different features",
+            "Each feature stated accurately",
+            "A precise supporting detail for each feature"
+          ],
+          "mistakes": [
+            "Writing about only one feature",
+            "Explaining causes or giving opinions instead of describing",
+            "Vague detail with no names, dates or numbers",
+            "Listing lots of features with no detail"
+          ],
+          "frame": {
+            "full": [
+              "One feature of … was …",
+              "For example, … (precise detail: date, name, number or event).",
+              "A second feature of … was …",
+              "For example, … (precise detail)."
+            ],
+            "some": [
+              "Feature 1 + precise detail",
+              "Feature 2 + precise detail"
+            ]
+          }
+        },
+        "ks3s": {
+          "label": "AP question — What can you learn from Source A about …?",
+          "label_short": "What can you learn from Source A",
+          "paper": "KS3 AP exam",
+          "marks": null,
+          "minutes": 10,
+          "ao": "Source skills: inference and provenance",
+          "template": "What can you learn from Source A about …?",
+          "asks": "Make inferences: say what the source suggests about the question, not just what it shows. Back each inference with a detail from the source and your own knowledge, and think about who made the source, when and why.",
+          "steps": [
+            "Underline exactly what the question asks you to learn about.",
+            "Read the provenance: who made the source, when, and why?",
+            "Find two details in the source that help answer the question.",
+            "For each detail, make an inference: 'This suggests that …'.",
+            "Support each inference with your own knowledge.",
+            "Finish with one sentence on what the provenance means for what the source can (and cannot) tell us."
+          ],
+          "plan": "About 10 minutes: 2 minutes reading the source and provenance, 7 minutes writing two inferences, 1 minute checking.",
+          "success": [
+            "At least two inferences that answer the question",
+            "Each inference supported with a detail from the source",
+            "Own knowledge used to support or test the inference",
+            "A comment on provenance: who, when, why"
+          ],
+          "mistakes": [
+            "Only describing what you can see or copying the source",
+            "Inferences with no detail from the source",
+            "Writing everything you know about the topic and ignoring the source",
+            "Saying a source is 'biased' without explaining why it matters"
+          ],
+          "frame": {
+            "full": [
+              "Source A suggests that … because it shows/says …",
+              "This is supported by my own knowledge that …",
+              "Source A also suggests that … because …",
+              "This is supported/challenged by …",
+              "Source A was made by … in … to …, so it is useful for showing … but it may not tell us …"
+            ],
+            "some": [
+              "Inference 1 + detail from the source",
+              "Own knowledge to support it",
+              "Inference 2 + detail from the source",
+              "Own knowledge to support it",
+              "Provenance: who, when, why — what can it tell us?"
+            ]
+          }
+        },
+        "ks3j": {
+          "label": "AP question — How far do you agree?",
+          "label_short": "How far do you agree",
+          "paper": "KS3 AP exam",
+          "marks": null,
+          "minutes": 20,
+          "ao": "Explanation and judgement",
+          "template": "‘[Statement].’ How far do you agree?",
+          "asks": "Weigh the factor in the statement against at least one other factor, using precise evidence, and reach a clear judgement that answers 'how far'. Use the Arcadia writing method in every paragraph.",
+          "steps": [
+            "Decide your judgement before you write: agree, partly agree or disagree.",
+            "Introduction: give your judgement with a qualifier (to a large / some / limited extent).",
+            "Paragraph 1: the factor in the statement — Point, Evidence, Explain, Judge.",
+            "Paragraph 2 (and 3): other factors — Point, Evidence, Explain, Judge.",
+            "Compare the factors: which mattered most and why? Use duration, scope, effectiveness or impact.",
+            "Conclusion: answer 'how far' and give the reason for your judgement."
+          ],
+          "plan": "About 20 minutes: 3 minutes planning (use the chronology timeline you made to order your evidence), 15 minutes writing, 2 minutes checking qualifiers and connectives.",
+          "success": [
+            "A clear judgement with a qualifier in the introduction and conclusion",
+            "The factor in the statement explained with precise evidence",
+            "At least one other factor explained with precise evidence",
+            "Factors compared directly, using a criterion",
+            "Time connectives, arguing connectives and linking phrases (Arcadia writing method)"
+          ],
+          "mistakes": [
+            "Only writing about the factor in the statement",
+            "Retelling the story instead of explaining",
+            "Listing factors without comparing them",
+            "A conclusion that sits on the fence with no reason"
+          ],
+          "frame": {
+            "full": [
+              "Introduction: I agree to a large / some / limited extent that … because …",
+              "P – Topic sentence with a qualifier: One reason … was … / To a large extent …",
+              "E – Precise evidence in time order, using time connectives: At first … / Then … / Later … / Finally …",
+              "E – Explain with arguing connectives: This meant that … / However … / This was more important because …",
+              "J – Judgement: This shows that … / Therefore …",
+              "Second paragraph: On the other hand, … was also important because … (P, E, E, J)",
+              "Conclusion: Overall, I agree to a … extent. The most important reason was … because it … (duration, scope, effectiveness or impact)."
+            ],
+            "some": [
+              "Introduction with a qualified judgement",
+              "PEEJ: the factor in the statement",
+              "PEEJ: another factor",
+              "Compare: which mattered most and why?",
+              "Conclusion that answers 'how far'"
+            ]
+          }
+        }
+      }
     },
     {
       "id": "y8",
@@ -43,7 +196,20 @@
       "assessment": {
         "type": "KS3 department criteria",
         "criteria_status": "missing",
-        "notes": "Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added."
+        "notes": "Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added.",
+        "papers": [
+          {
+            "title": "AP exam: what the paper looks like",
+            "duration": null,
+            "marks": null,
+            "structure": "1) Short knowledge recall — quick questions on key words, people, dates and events (practise with the Quizzes and Flashcards). 2) Chronology timeline task — put key events in order (practise with the Key dates quiz and each topic's chronology quiz); use your timeline to plan the extended answer. 3) Describe two features of … 4) What can you learn from Source A about …? 5) ‘[Statement].’ How far do you agree?",
+            "qtypes": [
+              "ks3d",
+              "ks3s",
+              "ks3j"
+            ]
+          }
+        ]
       },
       "resources_received": [
         "Year 8 'Explorers, Encounters and Empire' 14-lesson unit and scheme of work (2026–27)",
@@ -64,7 +230,147 @@
           "paper": "Unit 2",
           "title": "Why did Africans come to Tudor England?"
         }
-      ]
+      ],
+      "qtypes": {
+        "ks3d": {
+          "label": "AP question — Describe two features of …",
+          "label_short": "Describe two features",
+          "paper": "KS3 AP exam",
+          "marks": null,
+          "minutes": 8,
+          "ao": "Knowledge and understanding",
+          "template": "Describe two features of …",
+          "asks": "Give two different, accurate features of the topic, each backed up with a precise supporting detail. You do not need to explain causes or give a judgement.",
+          "steps": [
+            "Underline what you have to describe and any dates.",
+            "Choose two different features you know well.",
+            "For each feature: say what it was in one clear sentence.",
+            "Add one precise detail for each (a date, a name, a number or an event).",
+            "Keep it to two features — no introduction or conclusion needed."
+          ],
+          "plan": "About 8 minutes: 1 minute choosing two features, 3 minutes per feature, 1 minute checking names and dates.",
+          "success": [
+            "Two different features",
+            "Each feature stated accurately",
+            "A precise supporting detail for each feature"
+          ],
+          "mistakes": [
+            "Writing about only one feature",
+            "Explaining causes or giving opinions instead of describing",
+            "Vague detail with no names, dates or numbers",
+            "Listing lots of features with no detail"
+          ],
+          "frame": {
+            "full": [
+              "One feature of … was …",
+              "For example, … (precise detail: date, name, number or event).",
+              "A second feature of … was …",
+              "For example, … (precise detail)."
+            ],
+            "some": [
+              "Feature 1 + precise detail",
+              "Feature 2 + precise detail"
+            ]
+          }
+        },
+        "ks3s": {
+          "label": "AP question — What can you learn from Source A about …?",
+          "label_short": "What can you learn from Source A",
+          "paper": "KS3 AP exam",
+          "marks": null,
+          "minutes": 10,
+          "ao": "Source skills: inference and provenance",
+          "template": "What can you learn from Source A about …?",
+          "asks": "Make inferences: say what the source suggests about the question, not just what it shows. Back each inference with a detail from the source and your own knowledge, and think about who made the source, when and why.",
+          "steps": [
+            "Underline exactly what the question asks you to learn about.",
+            "Read the provenance: who made the source, when, and why?",
+            "Find two details in the source that help answer the question.",
+            "For each detail, make an inference: 'This suggests that …'.",
+            "Support each inference with your own knowledge.",
+            "Finish with one sentence on what the provenance means for what the source can (and cannot) tell us."
+          ],
+          "plan": "About 10 minutes: 2 minutes reading the source and provenance, 7 minutes writing two inferences, 1 minute checking.",
+          "success": [
+            "At least two inferences that answer the question",
+            "Each inference supported with a detail from the source",
+            "Own knowledge used to support or test the inference",
+            "A comment on provenance: who, when, why"
+          ],
+          "mistakes": [
+            "Only describing what you can see or copying the source",
+            "Inferences with no detail from the source",
+            "Writing everything you know about the topic and ignoring the source",
+            "Saying a source is 'biased' without explaining why it matters"
+          ],
+          "frame": {
+            "full": [
+              "Source A suggests that … because it shows/says …",
+              "This is supported by my own knowledge that …",
+              "Source A also suggests that … because …",
+              "This is supported/challenged by …",
+              "Source A was made by … in … to …, so it is useful for showing … but it may not tell us …"
+            ],
+            "some": [
+              "Inference 1 + detail from the source",
+              "Own knowledge to support it",
+              "Inference 2 + detail from the source",
+              "Own knowledge to support it",
+              "Provenance: who, when, why — what can it tell us?"
+            ]
+          }
+        },
+        "ks3j": {
+          "label": "AP question — How far do you agree?",
+          "label_short": "How far do you agree",
+          "paper": "KS3 AP exam",
+          "marks": null,
+          "minutes": 20,
+          "ao": "Explanation and judgement",
+          "template": "‘[Statement].’ How far do you agree?",
+          "asks": "Weigh the factor in the statement against at least one other factor, using precise evidence, and reach a clear judgement that answers 'how far'. Use the Arcadia writing method in every paragraph.",
+          "steps": [
+            "Decide your judgement before you write: agree, partly agree or disagree.",
+            "Introduction: give your judgement with a qualifier (to a large / some / limited extent).",
+            "Paragraph 1: the factor in the statement — Point, Evidence, Explain, Judge.",
+            "Paragraph 2 (and 3): other factors — Point, Evidence, Explain, Judge.",
+            "Compare the factors: which mattered most and why? Use duration, scope, effectiveness or impact.",
+            "Conclusion: answer 'how far' and give the reason for your judgement."
+          ],
+          "plan": "About 20 minutes: 3 minutes planning (use the chronology timeline you made to order your evidence), 15 minutes writing, 2 minutes checking qualifiers and connectives.",
+          "success": [
+            "A clear judgement with a qualifier in the introduction and conclusion",
+            "The factor in the statement explained with precise evidence",
+            "At least one other factor explained with precise evidence",
+            "Factors compared directly, using a criterion",
+            "Time connectives, arguing connectives and linking phrases (Arcadia writing method)"
+          ],
+          "mistakes": [
+            "Only writing about the factor in the statement",
+            "Retelling the story instead of explaining",
+            "Listing factors without comparing them",
+            "A conclusion that sits on the fence with no reason"
+          ],
+          "frame": {
+            "full": [
+              "Introduction: I agree to a large / some / limited extent that … because …",
+              "P – Topic sentence with a qualifier: One reason … was … / To a large extent …",
+              "E – Precise evidence in time order, using time connectives: At first … / Then … / Later … / Finally …",
+              "E – Explain with arguing connectives: This meant that … / However … / This was more important because …",
+              "J – Judgement: This shows that … / Therefore …",
+              "Second paragraph: On the other hand, … was also important because … (P, E, E, J)",
+              "Conclusion: Overall, I agree to a … extent. The most important reason was … because it … (duration, scope, effectiveness or impact)."
+            ],
+            "some": [
+              "Introduction with a qualified judgement",
+              "PEEJ: the factor in the statement",
+              "PEEJ: another factor",
+              "Compare: which mattered most and why?",
+              "Conclusion that answers 'how far'"
+            ]
+          }
+        }
+      }
     },
     {
       "id": "y9",
@@ -76,7 +382,20 @@
       "assessment": {
         "type": "KS3 department criteria",
         "criteria_status": "missing",
-        "notes": "Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added."
+        "notes": "Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added.",
+        "papers": [
+          {
+            "title": "AP exam: what the paper looks like",
+            "duration": null,
+            "marks": null,
+            "structure": "1) Short knowledge recall — quick questions on key words, people, dates and events (practise with the Quizzes and Flashcards). 2) Chronology timeline task — put key events in order (practise with the Key dates quiz and each topic's chronology quiz); use your timeline to plan the extended answer. 3) Describe two features of … 4) What can you learn from Source A about …? 5) ‘[Statement].’ How far do you agree?",
+            "qtypes": [
+              "ks3d",
+              "ks3s",
+              "ks3j"
+            ]
+          }
+        ]
       },
       "resources_received": [
         "Year 9 'Industrial Revolution' 14-lesson unit, scheme of work, Harkness pack and homework pack (2026–27)"
@@ -96,7 +415,147 @@
           "paper": "Unit 2",
           "title": "Causes of the First World War"
         }
-      ]
+      ],
+      "qtypes": {
+        "ks3d": {
+          "label": "AP question — Describe two features of …",
+          "label_short": "Describe two features",
+          "paper": "KS3 AP exam",
+          "marks": null,
+          "minutes": 8,
+          "ao": "Knowledge and understanding",
+          "template": "Describe two features of …",
+          "asks": "Give two different, accurate features of the topic, each backed up with a precise supporting detail. You do not need to explain causes or give a judgement.",
+          "steps": [
+            "Underline what you have to describe and any dates.",
+            "Choose two different features you know well.",
+            "For each feature: say what it was in one clear sentence.",
+            "Add one precise detail for each (a date, a name, a number or an event).",
+            "Keep it to two features — no introduction or conclusion needed."
+          ],
+          "plan": "About 8 minutes: 1 minute choosing two features, 3 minutes per feature, 1 minute checking names and dates.",
+          "success": [
+            "Two different features",
+            "Each feature stated accurately",
+            "A precise supporting detail for each feature"
+          ],
+          "mistakes": [
+            "Writing about only one feature",
+            "Explaining causes or giving opinions instead of describing",
+            "Vague detail with no names, dates or numbers",
+            "Listing lots of features with no detail"
+          ],
+          "frame": {
+            "full": [
+              "One feature of … was …",
+              "For example, … (precise detail: date, name, number or event).",
+              "A second feature of … was …",
+              "For example, … (precise detail)."
+            ],
+            "some": [
+              "Feature 1 + precise detail",
+              "Feature 2 + precise detail"
+            ]
+          }
+        },
+        "ks3s": {
+          "label": "AP question — What can you learn from Source A about …?",
+          "label_short": "What can you learn from Source A",
+          "paper": "KS3 AP exam",
+          "marks": null,
+          "minutes": 10,
+          "ao": "Source skills: inference and provenance",
+          "template": "What can you learn from Source A about …?",
+          "asks": "Make inferences: say what the source suggests about the question, not just what it shows. Back each inference with a detail from the source and your own knowledge, and think about who made the source, when and why.",
+          "steps": [
+            "Underline exactly what the question asks you to learn about.",
+            "Read the provenance: who made the source, when, and why?",
+            "Find two details in the source that help answer the question.",
+            "For each detail, make an inference: 'This suggests that …'.",
+            "Support each inference with your own knowledge.",
+            "Finish with one sentence on what the provenance means for what the source can (and cannot) tell us."
+          ],
+          "plan": "About 10 minutes: 2 minutes reading the source and provenance, 7 minutes writing two inferences, 1 minute checking.",
+          "success": [
+            "At least two inferences that answer the question",
+            "Each inference supported with a detail from the source",
+            "Own knowledge used to support or test the inference",
+            "A comment on provenance: who, when, why"
+          ],
+          "mistakes": [
+            "Only describing what you can see or copying the source",
+            "Inferences with no detail from the source",
+            "Writing everything you know about the topic and ignoring the source",
+            "Saying a source is 'biased' without explaining why it matters"
+          ],
+          "frame": {
+            "full": [
+              "Source A suggests that … because it shows/says …",
+              "This is supported by my own knowledge that …",
+              "Source A also suggests that … because …",
+              "This is supported/challenged by …",
+              "Source A was made by … in … to …, so it is useful for showing … but it may not tell us …"
+            ],
+            "some": [
+              "Inference 1 + detail from the source",
+              "Own knowledge to support it",
+              "Inference 2 + detail from the source",
+              "Own knowledge to support it",
+              "Provenance: who, when, why — what can it tell us?"
+            ]
+          }
+        },
+        "ks3j": {
+          "label": "AP question — How far do you agree?",
+          "label_short": "How far do you agree",
+          "paper": "KS3 AP exam",
+          "marks": null,
+          "minutes": 20,
+          "ao": "Explanation and judgement",
+          "template": "‘[Statement].’ How far do you agree?",
+          "asks": "Weigh the factor in the statement against at least one other factor, using precise evidence, and reach a clear judgement that answers 'how far'. Use the Arcadia writing method in every paragraph.",
+          "steps": [
+            "Decide your judgement before you write: agree, partly agree or disagree.",
+            "Introduction: give your judgement with a qualifier (to a large / some / limited extent).",
+            "Paragraph 1: the factor in the statement — Point, Evidence, Explain, Judge.",
+            "Paragraph 2 (and 3): other factors — Point, Evidence, Explain, Judge.",
+            "Compare the factors: which mattered most and why? Use duration, scope, effectiveness or impact.",
+            "Conclusion: answer 'how far' and give the reason for your judgement."
+          ],
+          "plan": "About 20 minutes: 3 minutes planning (use the chronology timeline you made to order your evidence), 15 minutes writing, 2 minutes checking qualifiers and connectives.",
+          "success": [
+            "A clear judgement with a qualifier in the introduction and conclusion",
+            "The factor in the statement explained with precise evidence",
+            "At least one other factor explained with precise evidence",
+            "Factors compared directly, using a criterion",
+            "Time connectives, arguing connectives and linking phrases (Arcadia writing method)"
+          ],
+          "mistakes": [
+            "Only writing about the factor in the statement",
+            "Retelling the story instead of explaining",
+            "Listing factors without comparing them",
+            "A conclusion that sits on the fence with no reason"
+          ],
+          "frame": {
+            "full": [
+              "Introduction: I agree to a large / some / limited extent that … because …",
+              "P – Topic sentence with a qualifier: One reason … was … / To a large extent …",
+              "E – Precise evidence in time order, using time connectives: At first … / Then … / Later … / Finally …",
+              "E – Explain with arguing connectives: This meant that … / However … / This was more important because …",
+              "J – Judgement: This shows that … / Therefore …",
+              "Second paragraph: On the other hand, … was also important because … (P, E, E, J)",
+              "Conclusion: Overall, I agree to a … extent. The most important reason was … because it … (duration, scope, effectiveness or impact)."
+            ],
+            "some": [
+              "Introduction with a qualified judgement",
+              "PEEJ: the factor in the statement",
+              "PEEJ: another factor",
+              "Compare: which mattered most and why?",
+              "Conclusion that answers 'how far'"
+            ]
+          }
+        }
+      }
     },
     {
       "id": "y10",

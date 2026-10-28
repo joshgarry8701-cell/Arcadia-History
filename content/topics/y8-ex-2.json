@@ -588,6 +588,38 @@
     "criteria_note": "Practice questions written for this unit. AI feedback is formative only (no marks) until department KS3 criteria are added.",
     "questions": [
       {
+        "id": "ap-d",
+        "qtype": "ks3d",
+        "type": "describe",
+        "label": "Teacher-created practice question",
+        "minutes": 8,
+        "markscheme": null,
+        "q": "Describe two features of the spice trade before 1500.",
+        "sections": [
+          "s1"
+        ]
+      },
+      {
+        "id": "ap-s",
+        "qtype": "ks3s",
+        "type": "source",
+        "label": "Teacher-created practice question",
+        "minutes": 10,
+        "markscheme": null,
+        "q": "What can you learn from Source A about where European navigators got their knowledge?",
+        "sections": [
+          "s3"
+        ],
+        "sources": [
+          {
+            "label": "Source A",
+            "provenance": "An astrolabe made in the Islamic world in the medieval period. Examples are held by the British Museum and the History of Science Museum, Oxford.",
+            "text": "A round brass instrument about the size of a large plate. It has a movable pointer and a pierced metal plate marked with the positions of stars, and the names of stars are engraved in Arabic. Lines on the back allow the user to measure the height of the sun or a star above the horizon."
+          }
+        ],
+        "sources_note": "Source A is described in our own words for revision practice. In the exam you will be given the source itself."
+      },
+      {
         "id": "q1",
         "label": "Teacher-created practice question",
         "markscheme": null,
@@ -628,48 +660,8 @@
             "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
             "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
           ]
-        }
-      },
-      {
-        "id": "q2",
-        "label": "Teacher-created practice question",
-        "markscheme": null,
-        "type": "explain",
-        "minutes": 10,
-        "q": "Explain how knowledge from beyond Europe made European voyages possible.",
-        "sections": [
-          "s3"
-        ],
-        "asks": "Explain at least two examples of borrowed knowledge or technology and how each helped.",
-        "steps": [
-          "Choose two examples (compass, astrolabe, pilots, lateen sail).",
-          "Say where each came from.",
-          "Explain how it helped ships sail further."
-        ],
-        "plan": "2 minutes planning, 7 minutes writing, 1 minute checking.",
-        "success": [
-          "Two examples",
-          "Origin of each",
-          "Explains how it helped"
-        ],
-        "mistakes": [
-          "Only saying \"Europeans invented ships\"",
-          "No origins"
-        ],
-        "frame": {
-          "full": [
-            "P: Knowledge from beyond Europe was highly important because…",
-            "E: For example, the compass from China…",
-            "E: This meant that… As a result…",
-            "J: Therefore…"
-          ],
-          "some": [
-            "P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand …",
-            "E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally …",
-            "E – Explain with arguing connectives (red): However … / This was more important because … / In contrast …",
-            "J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …"
-          ]
-        }
+        },
+        "qtype": "ks3j"
       }
     ]
   },
