@@ -1,0 +1,672 @@
+{
+  "id": "y12-ru-1",
+  "course": "y12",
+  "area": "ru",
+  "kt": "Key topic 1",
+  "order": 21,
+  "title": "Communist government in the USSR, 1917–91",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following the IAL specification (Issue 6), Unit 2 Option 1C: Russia, 1917–91. Casualty, output and literacy figures vary between historians; check against class resources."
+  },
+  "learn": {
+    "intro": "How did the Bolsheviks turn a revolution into a one-party state, how did Stalin make himself its master, and why did the system stagnate and then collapse under Gorbachev? Section B questions often ask you to compare leaders or judge change over the whole period 1917–91.",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Establishing Communist Party control, 1917–24",
+        "blocks": [
+          {
+            "p": "The Bolsheviks seized power in Petrograd in October 1917 and set up Sovnarkom (the Council of People's Commissars) with Lenin as chairman. Its first decrees on peace and land won support, but the party was a minority in the country."
+          },
+          {
+            "p": "Elections to the Constituent Assembly in November 1917 gave the Socialist Revolutionaries about 40% of the vote and the Bolsheviks only about a quarter. When the Assembly met in January 1918, Lenin closed it after one day, arguing that soviet power was a higher form of democracy."
+          },
+          {
+            "p": "The Cheka (political police) was set up in December 1917 under Felix Dzerzhinsky. During the Civil War (1918–21) the Red Terror, launched after the attempt on Lenin's life in August 1918, targeted 'class enemies'. The Left SRs left the government in March 1918 over the Treaty of Brest-Litovsk, and other parties were harassed and then banned, so Russia became a one-party state in practice."
+          },
+          {
+            "p": "The nature of government under Lenin: power moved from the soviets to the party. 'Democratic centralism' meant debate before a decision and total obedience afterwards. The Politburo (1919) made the key decisions, while the Orgburo and Secretariat controlled party organisation and appointments."
+          },
+          {
+            "p": "In March 1921 the Kronstadt sailors rebelled, demanding 'soviets without Communists'. At the Tenth Party Congress the same month Lenin introduced the NEP and the resolution 'On Party Unity', which banned factions — so open disagreement inside the party became disloyalty."
+          },
+          {
+            "p": "The growing centralisation of power: Stalin became General Secretary in April 1922 and used the Secretariat to appoint loyal officials (the nomenklatura system). The USSR was created in December 1922, with power concentrated in Moscow. Lenin, weakened by strokes, warned against Stalin in his 'Testament' but died in January 1924."
+          }
+        ],
+        "terms": [
+          "Sovnarkom",
+          "Constituent Assembly",
+          "Cheka",
+          "democratic centralism",
+          "Politburo",
+          "ban on factions",
+          "General Secretary",
+          "nomenklatura"
+        ],
+        "evidence": [
+          "October 1917: Bolsheviks seize power.",
+          "January 1918: Constituent Assembly dissolved after one day.",
+          "March 1921: Tenth Congress bans factions.",
+          "April 1922: Stalin becomes General Secretary.",
+          "January 1924: Lenin dies."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Stalin in power, 1928–53",
+        "blocks": [
+          {
+            "p": "Eliminating opponents: after Lenin's death Stalin allied first with Zinoviev and Kamenev against Trotsky, then with Bukharin against the United Opposition. Trotsky was expelled from the party in 1927 and deported in 1929; Bukharin and the 'Right' were defeated over the grain crisis in 1928–29. By 1929 Stalin was the unchallenged leader."
+          },
+          {
+            "p": "The purges of the 1930s: the murder of Sergei Kirov in December 1934 was used to justify mass repression. Show trials in Moscow (1936, 1937, 1938) convicted old Bolsheviks including Zinoviev, Kamenev and Bukharin of absurd charges. The Great Terror of 1937–38 under Yezhov saw about 680,000 people executed, according to NKVD records, and many more sent to the Gulag."
+          },
+          {
+            "p": "The party and the army were hit hardest at the top: of 139 Central Committee members elected in 1934, 98 were arrested and shot, and Marshal Tukhachevsky and much of the high command were executed in 1937."
+          },
+          {
+            "p": "Stalin's power over party and state: by the late 1930s the Politburo and Party Congress were rubber stamps. Stalin became head of government (Sovnarkom) in May 1941 and led the war effort through the State Defence Committee. After 1945 he ruled through small groups of favourites; the Leningrad Affair (1949) and the Doctors' Plot (1953) show repression continuing until his death in March 1953."
+          }
+        ],
+        "terms": [
+          "United Opposition",
+          "show trials",
+          "Great Terror",
+          "Yezhovshchina",
+          "Gulag",
+          "cult of personality"
+        ],
+        "evidence": [
+          "1927: Trotsky expelled from the party.",
+          "December 1934: Kirov murdered.",
+          "1936–38: Moscow show trials.",
+          "1937–38: about 680,000 executed.",
+          "March 1953: Stalin dies."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Reform, stability, stagnation and collapse, 1953–91",
+        "blocks": [
+          {
+            "p": "Khrushchev's attempts to reform government: after Beria was arrested and shot in 1953, Khrushchev rose through the party. His Secret Speech to the Twentieth Congress (February 1956) denounced Stalin's cult and terror — de-Stalinisation. He survived the Anti-Party Group's attempt to remove him in 1957, set up 105 regional economic councils (sovnarkhozy) and split the party into industrial and agricultural wings in 1962. These reforms angered officials, and he was ousted in October 1964."
+          },
+          {
+            "p": "Government under Brezhnev, 1964–82: Brezhnev promised 'stability of cadres' — officials kept their jobs. Khrushchev's reforms were reversed, the 1977 Constitution confirmed the party's 'leading role', and the leadership grew old and corrupt. This was later called the 'era of stagnation'. Andropov (1982–84) began an anti-corruption drive but died quickly, as did Chernenko (1984–85)."
+          },
+          {
+            "p": "Gorbachev (from March 1985) tried to revive the system through glasnost (openness), perestroika (restructuring) and democratisation. Contested elections to a Congress of People's Deputies were held in 1989, and in 1990 the party gave up its constitutional monopoly of power (Article 6). These changes released nationalist movements and criticism he could not control."
+          },
+          {
+            "p": "The significance of Yeltsin's election in June 1991: Boris Yeltsin won about 57% of the vote to become President of the Russian Republic — the first popularly elected leader in Russian history, with a mandate Gorbachev lacked. When hardliners attempted a coup in August 1991 (19–21 August), Yeltsin led resistance from the Russian parliament building. The coup's failure discredited the Communist Party, which was suspended, and the USSR was dissolved in December 1991."
+          }
+        ],
+        "terms": [
+          "de-Stalinisation",
+          "Secret Speech",
+          "sovnarkhozy",
+          "stability of cadres",
+          "stagnation",
+          "glasnost",
+          "perestroika",
+          "August coup"
+        ],
+        "evidence": [
+          "February 1956: Secret Speech.",
+          "October 1964: Khrushchev removed.",
+          "March 1985: Gorbachev becomes General Secretary.",
+          "12 June 1991: Yeltsin elected Russian President.",
+          "19–21 August 1991: failed coup.",
+          "25 December 1991: Gorbachev resigns; USSR ends."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "October 1917",
+        "event": "Bolshevik seizure of power"
+      },
+      {
+        "date": "January 1918",
+        "event": "Constituent Assembly dissolved"
+      },
+      {
+        "date": "March 1921",
+        "event": "Kronstadt rising; Tenth Congress bans factions"
+      },
+      {
+        "date": "April 1922",
+        "event": "Stalin becomes General Secretary"
+      },
+      {
+        "date": "January 1924",
+        "event": "Lenin dies"
+      },
+      {
+        "date": "1929",
+        "event": "Stalin unchallenged leader; Trotsky deported"
+      },
+      {
+        "date": "December 1934",
+        "event": "Kirov murdered"
+      },
+      {
+        "date": "1937–38",
+        "event": "The Great Terror"
+      },
+      {
+        "date": "March 1953",
+        "event": "Stalin dies"
+      },
+      {
+        "date": "February 1956",
+        "event": "Khrushchev's Secret Speech"
+      },
+      {
+        "date": "October 1964",
+        "event": "Khrushchev ousted; Brezhnev leads"
+      },
+      {
+        "date": "March 1985",
+        "event": "Gorbachev becomes General Secretary"
+      },
+      {
+        "date": "June 1991",
+        "event": "Yeltsin elected President of Russia"
+      },
+      {
+        "date": "August 1991",
+        "event": "Failed hardliners' coup"
+      },
+      {
+        "date": "December 1991",
+        "event": "USSR dissolved"
+      }
+    ],
+    "people": [
+      {
+        "name": "Vladimir Lenin",
+        "role": "Bolshevik leader; chairman of Sovnarkom 1917–24."
+      },
+      {
+        "name": "Leon Trotsky",
+        "role": "Red Army leader; Stalin's main rival, expelled 1927."
+      },
+      {
+        "name": "Joseph Stalin",
+        "role": "General Secretary from 1922; dictator c.1929–53."
+      },
+      {
+        "name": "Nikolai Bukharin",
+        "role": "Leader of the 'Right'; supported NEP; shot 1938."
+      },
+      {
+        "name": "Nikita Khrushchev",
+        "role": "First Secretary 1953–64; de-Stalinisation."
+      },
+      {
+        "name": "Leonid Brezhnev",
+        "role": "General Secretary 1964–82; 'stability of cadres'."
+      },
+      {
+        "name": "Mikhail Gorbachev",
+        "role": "General Secretary 1985–91; glasnost and perestroika."
+      },
+      {
+        "name": "Boris Yeltsin",
+        "role": "Elected President of Russia June 1991; defeated the August coup."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Democratic centralism",
+        "def": "Free debate before a decision, then strict obedience to it."
+      },
+      {
+        "term": "Ban on factions",
+        "def": "1921 rule forbidding organised groups inside the party."
+      },
+      {
+        "term": "Nomenklatura",
+        "def": "Lists of key posts filled by party appointment — a source of patronage."
+      },
+      {
+        "term": "Show trial",
+        "def": "A public trial with a fixed verdict, staged for propaganda."
+      },
+      {
+        "term": "De-Stalinisation",
+        "def": "Khrushchev's criticism of Stalin's terror and cult after 1956."
+      },
+      {
+        "term": "Stability of cadres",
+        "def": "Brezhnev's policy of keeping officials in post."
+      },
+      {
+        "term": "Glasnost",
+        "def": "'Openness' — Gorbachev's loosening of censorship."
+      },
+      {
+        "term": "Perestroika",
+        "def": "'Restructuring' — Gorbachev's reform of the economy and government."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "The Bolsheviks won power through elections.",
+        "right": "They won only about a quarter of the Constituent Assembly vote and closed it in January 1918."
+      },
+      {
+        "wrong": "Stalin was all-powerful as soon as Lenin died.",
+        "right": "He took until about 1929 to defeat his rivals, using alliances and control of appointments."
+      },
+      {
+        "wrong": "De-Stalinisation ended one-party rule.",
+        "right": "Khrushchev attacked Stalin's methods, not the party's monopoly of power."
+      },
+      {
+        "wrong": "Gorbachev meant to end Communism.",
+        "right": "He aimed to reform and revive the system; the collapse was an unintended result."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What did the Tenth Party Congress (1921) ban?",
+        "options": [
+          "Private trade",
+          "Factions inside the party",
+          "Religion",
+          "The soviets"
+        ],
+        "answer": 1,
+        "why": "The resolution 'On Party Unity'."
+      },
+      {
+        "id": "m2",
+        "s": "s1",
+        "q": "Which post did Stalin gain in April 1922?",
+        "options": [
+          "Commissar for War",
+          "Head of the Cheka",
+          "General Secretary",
+          "Chairman of Sovnarkom"
+        ],
+        "answer": 2,
+        "why": "It controlled appointments."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "Whose murder in December 1934 was used to launch the purges?",
+        "options": [
+          "Kirov",
+          "Trotsky",
+          "Bukharin",
+          "Yagoda"
+        ],
+        "answer": 0,
+        "why": "Sergei Kirov, Leningrad party boss."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "What did Khrushchev's Secret Speech (1956) attack?",
+        "options": [
+          "Lenin's NEP",
+          "Stalin's cult and terror",
+          "The Red Army",
+          "Collective farms"
+        ],
+        "answer": 1,
+        "why": "De-Stalinisation."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "Why was Yeltsin's election in June 1991 significant?",
+        "options": [
+          "He was the first popularly elected Russian leader",
+          "He became General Secretary",
+          "He restored the Tsar",
+          "He ended glasnost"
+        ],
+        "answer": 0,
+        "why": "It gave him a democratic mandate Gorbachev lacked."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "In which year was the Constituent Assembly dissolved?",
+        "accept": [
+          "1918"
+        ],
+        "answer": "1918"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "Which NKVD chief gave his name to the terror of 1937–38?",
+        "accept": [
+          "yezhov",
+          "nikolai yezhov",
+          "ezhov"
+        ],
+        "answer": "Yezhov"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "In which month and year did the hardliners' coup fail?",
+        "accept": [
+          "august 1991",
+          "aug 1991"
+        ],
+        "answer": "August 1991"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Constituent Assembly dissolved",
+          "Ban on factions",
+          "Stalin becomes General Secretary",
+          "Kirov murdered",
+          "Secret Speech",
+          "Khrushchev ousted",
+          "Yeltsin elected President of Russia"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the leader to the policy",
+        "pairs": [
+          [
+            "Lenin",
+            "Ban on factions"
+          ],
+          [
+            "Stalin",
+            "Great Terror"
+          ],
+          [
+            "Khrushchev",
+            "De-Stalinisation"
+          ],
+          [
+            "Brezhnev",
+            "Stability of cadres"
+          ],
+          [
+            "Gorbachev",
+            "Glasnost"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Give precise evidence of how Stalin removed opponents in the 1930s.",
+        "keywords": [
+          [
+            "kirov",
+            "1934",
+            "show trial",
+            "1936",
+            "1937",
+            "1938",
+            "bukharin",
+            "zinoviev",
+            "yezhov",
+            "680"
+          ]
+        ],
+        "model": "After Kirov's murder in December 1934, show trials in 1936–38 condemned Zinoviev, Kamenev and Bukharin; under Yezhov about 680,000 people were executed in 1937–38 and 98 of the 139 Central Committee members elected in 1934 were shot."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "How did the Bolsheviks create a one-party state by 1921?",
+      "a": "Closed the Constituent Assembly (1918), Cheka and Red Terror, other parties banned during the Civil War, ban on factions (1921).",
+      "hint": "Assembly, Cheka, ban."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "What was the nature of government under Lenin?",
+      "a": "Party above soviets; democratic centralism; Politburo decides; Secretariat controls appointments; growing centralisation in Moscow.",
+      "hint": "Party over soviets."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "How did Stalin defeat his rivals 1924–29?",
+      "a": "Control of appointments as General Secretary; shifting alliances against Trotsky, then the United Opposition, then Bukharin.",
+      "hint": "Left, then Right."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "What were the purges of the 1930s?",
+      "a": "Show trials 1936–38, Great Terror 1937–38 (about 680,000 executed), purge of the party and army high command.",
+      "hint": "Kirov 1934."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "Why did government stagnate under Brezhnev?",
+      "a": "Stability of cadres kept ageing officials in post; reforms reversed; corruption; little new thinking.",
+      "hint": "Gerontocracy."
+    },
+    {
+      "id": "f6",
+      "s": "s3",
+      "q": "Why did the August 1991 coup matter?",
+      "a": "Its failure made Yeltsin the hero, discredited the party and sped up the break-up of the USSR in December 1991.",
+      "hint": "Yeltsin on a tank."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain how the Bolsheviks created a one-party state and the nature of government under Lenin.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "explain",
+      "text": "I can explain how Stalin eliminated his opponents and used the purges of the 1930s.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "judge",
+      "text": "I can judge how far Khrushchev and Brezhnev changed the way the USSR was governed.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "judge",
+      "text": "I can assess the significance of Gorbachev, Yeltsin's election and the failed coup of 1991.",
+      "sections": [
+        "s3"
+      ]
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1",
+        "qtype": "u2c",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s1",
+          "s2"
+        ],
+        "q": "How accurate is it to say that the government of the Soviet Union became more centralised under Stalin than it had been under Lenin?"
+      },
+      {
+        "id": "pp-whi021c-june2024-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1C, June 2024, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2024",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the importance of Boris Yeltsin's election as President of the Russian Federation in June 1991?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2024-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2024, Q2",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2024",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1928–53, the removal of opponents in government and party was the main reason why Stalin was able to maintain control over the Soviet Union?"
+      },
+      {
+        "id": "pp-whi021c-june2023-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2023, Q4",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2023",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that Brezhnev's policy of stabilisation was the main reason for the growing stagnation in the government of the Soviet Union in the years 1964–82?"
+      },
+      {
+        "id": "pp-whi021c-june2022-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1C, June 2022, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2022",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the establishment of government under Lenin in 1917?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2021-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1C, June 2021, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2021",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the reasons why Lenin demanded Party unity in Soviet Russia in the early 1920s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-january2020-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, January 2020, Q4",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "January 2020",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that Yeltsin's election as president of Russia in June 1991 was the most significant development in the weakening of Soviet government in the years 1982–91?"
+      },
+      {
+        "id": "pp-whi021c-january2019-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, January 2019, Q2",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "January 2019",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "To what extent did the nature of the government of the USSR change in the years 1917–53?"
+      },
+      {
+        "id": "pp-whi021c-june2017-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1C, June 2017, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2017",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the reasons for Lenin's dismissal of the Constituent Assembly in January 1918?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2016-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1C, June 2016, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2016",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the reasons for the increased centralisation of power in the Soviet State by 1924?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2016-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1C, June 2016, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2016",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the reasons why Boris Yeltsin was elected as President of Russia in June 1991?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Change and continuity",
+      "task": "Was 1953 or 1985 the bigger turning point in how the USSR was governed? Use duration and impact."
+    },
+    {
+      "id": "t2",
+      "kind": "Competing arguments",
+      "task": "'Lenin built the machine that Stalin used.' Argue for and against using the ban on factions and the role of the Secretariat."
+    }
+  ]
+}

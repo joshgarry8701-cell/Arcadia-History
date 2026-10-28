@@ -1,0 +1,621 @@
+{
+  "id": "y12-ru-4",
+  "course": "y12",
+  "area": "ru",
+  "kt": "Key topic 4",
+  "order": 24,
+  "title": "Social developments, 1917–91",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following the IAL specification (Issue 6), Unit 2 Option 1C: Russia, 1917–91. Casualty, output and literacy figures vary between historians; check against class resources."
+  },
+  "learn": {
+    "intro": "Jobs, housing, welfare, the status of women and the education of young people: what did Soviet rule mean for ordinary lives, and how far did it deliver the 'stable society' its leaders promised?",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Social security",
+        "blocks": [
+          {
+            "p": "Full employment, housing and social benefits 1917–53: unemployment was high under the NEP, but the Five-Year Plans created a huge demand for labour, and unemployment benefit was abolished in 1930 as unemployment was declared 'eliminated'. Health care and education were free, and pensions and sick pay existed for workers, though not at first for collective farmers."
+          },
+          {
+            "p": "Housing was a constant problem: rapid urbanisation meant families crowded into communal flats (kommunalki), sharing kitchens and bathrooms, or lived in barracks."
+          },
+          {
+            "p": "Khrushchev, Brezhnev and the promotion of a stable society 1953–85: a 1956 law improved pensions, the working week was shortened, and a mass housing programme of prefabricated flats ('khrushchevki') moved well over 100 million people into new homes by the mid-1960s. Collective farmers received pensions from 1964 and internal passports from the mid-1970s. Brezhnev's 'social contract' offered job security, low prices for basic goods and slowly rising living standards in return for political obedience."
+          },
+          {
+            "p": "The impact of social reform 1985–91: Gorbachev's reforms disrupted supplies; shortages and rationing grew, inflation rose and open unemployment appeared. Glasnost revealed poverty, crime and environmental damage, and the miners' strikes of July 1989 showed workers' anger."
+          }
+        ],
+        "terms": [
+          "full employment",
+          "kommunalka",
+          "social contract",
+          "khrushchevki",
+          "pension",
+          "shortage"
+        ],
+        "evidence": [
+          "1930: unemployment benefit abolished.",
+          "1956: pension law.",
+          "1956–65: mass housing programme.",
+          "1964: pensions for collective farmers.",
+          "July 1989: miners' strikes."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Women and the family",
+        "blocks": [
+          {
+            "p": "The changing status of women under Lenin and Stalin: the 1918 Family Code made marriage a civil matter, allowed easy divorce and gave women equal legal rights. Abortion was legalised in 1920 — the first country to do so. The Zhenotdel (women's department of the party, 1919–30), led by figures such as Alexandra Kollontai, campaigned for women's rights."
+          },
+          {
+            "p": "Under Stalin the 'Great Retreat' restored traditional family values: abortion was banned in 1936, divorce was made harder and expensive, and from 1944 mothers of ten or more children could be honoured as 'Mother Heroine'. At the same time women entered industry in huge numbers, so many faced a 'double burden' of paid work and housework."
+          },
+          {
+            "p": "Contrasting lifestyles in town and country: urban women gained jobs, education and childcare, though housing was cramped. Rural women on collective farms did much of the heavy field labour, with fewer services and lower pay."
+          },
+          {
+            "p": "The impact of the Second World War: women made up over half the workforce, and around 800,000 served in the armed forces, including as pilots and snipers. After 1945 a huge shortage of men left many women single and responsible for rebuilding."
+          },
+          {
+            "p": "Changing government attitudes to the family since 1953: abortion was legalised again in 1955, and family law was relaxed in the 1960s. From the 1970s the government worried about low birth rates in the European republics and offered more maternity support. Women made up about half of students in higher education, but very few reached the top of the party."
+          }
+        ],
+        "terms": [
+          "Family Code",
+          "Zhenotdel",
+          "Great Retreat",
+          "Mother Heroine",
+          "double burden"
+        ],
+        "evidence": [
+          "1918: Family Code.",
+          "1920: abortion legalised.",
+          "1930: Zhenotdel abolished.",
+          "1936: abortion banned.",
+          "1944: 'Mother Heroine' award.",
+          "1955: abortion legal again."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Education and young people",
+        "blocks": [
+          {
+            "p": "The changing approaches to education in the 1920s and 30s: under Lunacharsky (Commissar for Enlightenment) the 1920s saw experimental 'unified labour schools' with mixed classes, project work, little formal testing and links to productive labour. In the 1930s Stalin returned to traditional methods: a 1931 decree demanded discipline and basic knowledge, standard textbooks and exams were restored, uniforms returned and fees were introduced for upper secondary and higher education in 1940."
+          },
+          {
+            "p": "The reduction of illiteracy to 1941: the 1919 decree on the 'liquidation of illiteracy' (likbez) set up literacy classes for adults. Literacy rose from about half the population (1926 census) to about four-fifths (1939 census), helped by compulsory primary schooling from 1930."
+          },
+          {
+            "p": "Young people were organised through the Young Pioneers (from 1922) and the Komsomol (Communist Youth League, from 1918), which trained future party members and mobilised youth for campaigns such as the Virgin Lands."
+          },
+          {
+            "p": "State control of the curriculum and the role of Marxist ideology after 1945: Marxism-Leninism was taught at every level and history was rewritten to fit the party line. Khrushchev's 1958 reform added work experience to schooling, but it was reversed after 1964."
+          },
+          {
+            "p": "The growth and achievements of Soviet higher education to 1991: student numbers grew from about 800,000 in 1940 to around 5 million by the 1980s. Strength in science and engineering made possible achievements such as Sputnik (1957) and Gagarin's spaceflight (1961), and new science cities such as Akademgorodok (1957) were built."
+          }
+        ],
+        "terms": [
+          "unified labour school",
+          "Narkompros",
+          "likbez",
+          "Komsomol",
+          "Young Pioneers",
+          "Marxism-Leninism"
+        ],
+        "evidence": [
+          "1918: Komsomol founded.",
+          "1919: decree on the liquidation of illiteracy.",
+          "1926 census: about half literate.",
+          "1939 census: about four-fifths literate.",
+          "1957: Sputnik launched.",
+          "1961: Gagarin in space."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "1918",
+        "event": "Family Code; Komsomol founded"
+      },
+      {
+        "date": "1919",
+        "event": "Likbez decree; Zhenotdel set up"
+      },
+      {
+        "date": "1920",
+        "event": "Abortion legalised"
+      },
+      {
+        "date": "1930",
+        "event": "Unemployment benefit abolished; Zhenotdel closed"
+      },
+      {
+        "date": "1936",
+        "event": "Abortion banned; family values restored"
+      },
+      {
+        "date": "1939",
+        "event": "Census: about four-fifths literate"
+      },
+      {
+        "date": "1944",
+        "event": "'Mother Heroine' award introduced"
+      },
+      {
+        "date": "1955",
+        "event": "Abortion legalised again"
+      },
+      {
+        "date": "1957",
+        "event": "Sputnik launched"
+      },
+      {
+        "date": "1964",
+        "event": "Pensions for collective farmers"
+      },
+      {
+        "date": "1989",
+        "event": "Miners' strikes"
+      }
+    ],
+    "people": [
+      {
+        "name": "Alexandra Kollontai",
+        "role": "Bolshevik campaigner for women's liberation; led the Zhenotdel."
+      },
+      {
+        "name": "Anatoly Lunacharsky",
+        "role": "Commissar for Enlightenment 1917–29; progressive education."
+      },
+      {
+        "name": "Nikita Khrushchev",
+        "role": "Housing programme, pensions and the 1958 school reform."
+      },
+      {
+        "name": "Leonid Brezhnev",
+        "role": "'Social contract': job security and low prices."
+      },
+      {
+        "name": "Yuri Gagarin",
+        "role": "First person in space, 1961."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Kommunalka",
+        "def": "A communal flat shared by several families."
+      },
+      {
+        "term": "Social contract",
+        "def": "Security and welfare in return for political obedience (Brezhnev era)."
+      },
+      {
+        "term": "Zhenotdel",
+        "def": "The party's women's department, 1919–30."
+      },
+      {
+        "term": "Great Retreat",
+        "def": "Stalin's return to traditional family and school values in the 1930s."
+      },
+      {
+        "term": "Double burden",
+        "def": "Women doing both paid work and most housework."
+      },
+      {
+        "term": "Likbez",
+        "def": "The campaign to 'liquidate illiteracy'."
+      },
+      {
+        "term": "Komsomol",
+        "def": "The Communist Youth League."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Soviet women achieved full equality.",
+        "right": "They had legal rights and jobs, but carried a double burden and were rare at the top of politics."
+      },
+      {
+        "wrong": "Soviet education stayed experimental.",
+        "right": "Stalin reversed the 1920s experiments and restored discipline, exams and textbooks."
+      },
+      {
+        "wrong": "Brezhnev's era was a time of total misery.",
+        "right": "Many people remembered it as stable and secure, even as the economy slowed."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What were 'khrushchevki'?",
+        "options": [
+          "Collective farms",
+          "Prefabricated blocks of flats",
+          "Secret police units",
+          "Youth camps"
+        ],
+        "answer": 1,
+        "why": "Mass housing from the late 1950s."
+      },
+      {
+        "id": "m2",
+        "s": "s2",
+        "q": "In which year did Stalin ban abortion?",
+        "options": [
+          "1920",
+          "1930",
+          "1936",
+          "1955"
+        ],
+        "answer": 2,
+        "why": "Part of the 'Great Retreat'."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "What did the 1918 Family Code do?",
+        "options": [
+          "Banned divorce",
+          "Made marriage civil and divorce easy",
+          "Created the Mother Heroine award",
+          "Closed the Zhenotdel"
+        ],
+        "answer": 1,
+        "why": "Equal legal rights for women."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "Who led education policy in the 1920s?",
+        "options": [
+          "Lunacharsky",
+          "Zhdanov",
+          "Beria",
+          "Kosygin"
+        ],
+        "answer": 0,
+        "why": "Commissar for Enlightenment."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "Roughly what share of the population was literate by the 1939 census?",
+        "options": [
+          "About a quarter",
+          "About half",
+          "About four-fifths",
+          "Everyone"
+        ],
+        "answer": 2,
+        "why": "Up from about half in 1926."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "In which year was unemployment benefit abolished?",
+        "accept": [
+          "1930"
+        ],
+        "answer": "1930"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "What title was given from 1944 to mothers of ten or more children?",
+        "accept": [
+          "mother heroine",
+          "heroine mother"
+        ],
+        "answer": "Mother Heroine"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "What was the Communist Youth League called?",
+        "accept": [
+          "komsomol"
+        ],
+        "answer": "Komsomol"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Family Code",
+          "Abortion legalised",
+          "Zhenotdel abolished",
+          "Abortion banned",
+          "Mother Heroine award",
+          "Abortion legal again",
+          "Pensions for collective farmers"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the leader to the social policy",
+        "pairs": [
+          [
+            "Lenin",
+            "Family Code and likbez"
+          ],
+          [
+            "Stalin",
+            "The Great Retreat"
+          ],
+          [
+            "Khrushchev",
+            "Mass housing programme"
+          ],
+          [
+            "Brezhnev",
+            "Social contract"
+          ],
+          [
+            "Gorbachev",
+            "Reforms that brought shortages"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Give precise evidence of how the status of women changed under Lenin and Stalin.",
+        "keywords": [
+          [
+            "1918",
+            "family code",
+            "1920",
+            "abortion",
+            "zhenotdel",
+            "1936",
+            "divorce",
+            "mother heroine",
+            "double burden"
+          ]
+        ],
+        "model": "The 1918 Family Code gave equal rights and easy divorce, abortion was legalised in 1920 and the Zhenotdel campaigned for women; under Stalin the Zhenotdel closed (1930), abortion was banned (1936), divorce was made harder and the 'Mother Heroine' award (1944) promoted large families, while women entered industry and carried a double burden."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "What social security did Soviet citizens have by 1953?",
+      "a": "Full employment (benefit abolished 1930), free health care and education, pensions for workers — but very poor, crowded housing.",
+      "hint": "Jobs yes, housing no."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "What was Brezhnev's 'social contract'?",
+      "a": "Job security, low prices and slowly rising living standards in exchange for political obedience.",
+      "hint": "Stability."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "How did Stalin's family policy differ from Lenin's?",
+      "a": "Lenin: easy divorce, legal abortion, Zhenotdel. Stalin: abortion banned 1936, divorce harder, Mother Heroine — but women pushed into industry.",
+      "hint": "Great Retreat."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "How did the Second World War affect Soviet women?",
+      "a": "Over half the workforce; about 800,000 in the armed forces; afterwards a shortage of men and a double burden.",
+      "hint": "Workforce and front."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "How did education change from the 1920s to the 1930s?",
+      "a": "1920s: experimental labour schools, few exams. 1930s: discipline, standard textbooks, exams, uniforms, fees from 1940.",
+      "hint": "Experiment to tradition."
+    },
+    {
+      "id": "f6",
+      "s": "s3",
+      "q": "What did Soviet higher education achieve?",
+      "a": "Students grew from about 800,000 (1940) to about 5 million (1980s); strength in science led to Sputnik (1957) and Gagarin (1961).",
+      "hint": "Science."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain how social security, jobs and housing changed from 1917 to 1991.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "judge",
+      "text": "I can judge how far Khrushchev and Brezhnev created a stable society.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "judge",
+      "text": "I can assess how the status of women changed under Lenin, Stalin and after 1953.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain the changing approaches to education and the reduction of illiteracy to 1941.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge the growth and achievements of Soviet higher education to 1991.",
+      "sections": [
+        "s3"
+      ]
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1",
+        "qtype": "u2c",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s1"
+        ],
+        "q": "How accurate is it to say that living conditions for Soviet citizens improved significantly in the years 1953–85?"
+      },
+      {
+        "id": "pp-whi021c-june2024-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1C, June 2024, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2024",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the nature of education in Russia in the 1920s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2023-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2023, Q2",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2023",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that education in the Soviet Union in the 1930s was completely different from education in the Soviet Union in the 1920s?"
+      },
+      {
+        "id": "pp-whi021c-june2022-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2022, Q2",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2022",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1918–41, the attempts to reduce illiteracy in the Soviet Union had only limited success?"
+      },
+      {
+        "id": "pp-whi021c-june2021-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2021, Q3",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2021",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that Khrushchev and Brezhnev failed to achieve a stable society in the Soviet Union in the years 1953–82?"
+      },
+      {
+        "id": "pp-whi021c-january2020-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1C, January 2020, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "January 2020",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into approaches to education in the Soviet Union in the 1920s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-january2020-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1C, January 2020, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "January 2020",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the status of women in Stalinist Russia?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-january2019-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, January 2019, Q3",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "January 2019",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "To what extent did Brezhnev achieve a stable society in the years 1964–82?"
+      },
+      {
+        "id": "pp-whi021c-june2017-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2017, Q4",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2017",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that there were significant changes to Soviet higher education in the years 1945–91?"
+      },
+      {
+        "id": "pp-whi021c-june2016-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2016, Q3",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2016",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that the status of women improved in the years 1917–53?"
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Change and continuity",
+      "task": "Was the status of women transformed or only slightly changed between 1917 and 1991? Use scope and duration."
+    },
+    {
+      "id": "t2",
+      "kind": "Causal links",
+      "task": "How did the success of Soviet education contribute to the problems the regime faced in the 1980s?"
+    }
+  ]
+}

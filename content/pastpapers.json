@@ -5,7 +5,8 @@
   "4HI1 Paper 2 June 2022 (Paper 2B) breadth-study questions were recovered from the mark schemes; check wording against the paper.",
   "June 2021 and November 2021: Papers 1A and 1B (and 2A/2B) carried the same Germany, Civil Rights, Vietnam and Medicine questions, so each appears once.",
   "WHI02/1B Section A and WHI03/1D Question 1: the enquiry is quoted from the paper; the question stem is in its standard form.",
-  "No 4HI1 November 2024 papers were available online; the examiner report for that series is used in the exam guides only."
+  "No 4HI1 November 2024 papers were available online; the examiner report for that series is used in the exam guides only.",
+  "WHI02/1C (Russia): question papers for June 2016, June 2017, January 2019, January 2020 and June 2021–June 2024 are included. Other series (including January 2024 and June 2025) were only available as mark schemes, which do not print the question wording, so they are not included."
  ],
  "papers": [
   {
@@ -11892,6 +11893,446 @@
      "q": "How far do you agree that neither the USA nor the Soviet Union were seriously committed to Détente in the 1970s?",
      "key": "How far do you agree that neither the USA nor the Soviet Union were seriously committed to Détente in the 1970s?",
      "id": "pp-whi041c-specimen-3"
+    }
+   ]
+  },
+  {
+   "course": "y12",
+   "paper": "WHI02/1C",
+   "series": "June 2024",
+   "unreadable": false,
+   "questions": [
+    {
+     "n": "1a",
+     "label": "Q1(a)",
+     "qtype": "u2a",
+     "topic": "y12-ru-1",
+     "q": "Why is Source 1 valuable to the historian for an enquiry into the importance of Boris Yeltsin's election as President of the Russian Federation in June 1991?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the importance of Boris Yeltsin's election as President of the Russian Federation in June 1991",
+     "stemNote": true,
+     "id": "pp-whi021c-june2024-1a"
+    },
+    {
+     "n": "1b",
+     "label": "Q1(b)",
+     "qtype": "u2b",
+     "topic": "y12-ru-4",
+     "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the nature of education in Russia in the 1920s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the nature of education in Russia in the 1920s",
+     "stemNote": true,
+     "id": "pp-whi021c-june2024-1b"
+    },
+    {
+     "n": "2",
+     "label": "Q2",
+     "qtype": "u2c",
+     "topic": "y12-ru-1",
+     "q": "How accurate is it to say that, in the years 1928–53, the removal of opponents in government and party was the main reason why Stalin was able to maintain control over the Soviet Union?",
+     "key": "How accurate is it to say that, in the years 1928–53, the removal of opponents in government and party was the main reason why Stalin was able to maintain control over the Soviet Union?",
+     "id": "pp-whi021c-june2024-2"
+    },
+    {
+     "n": "3",
+     "label": "Q3",
+     "qtype": "u2c",
+     "topic": "y12-ru-2",
+     "q": "How accurate is it to say that there were many positive results from Brezhnev's economic policy in the years 1964–82?",
+     "key": "How accurate is it to say that there were many positive results from Brezhnev's economic policy in the years 1964–82?",
+     "id": "pp-whi021c-june2024-3"
+    },
+    {
+     "n": "4",
+     "label": "Q4",
+     "qtype": "u2c",
+     "topic": "y12-ru-3",
+     "q": "How accurate is it to say that Khrushchev and Gorbachev had similar approaches to the control of the arts?",
+     "key": "How accurate is it to say that Khrushchev and Gorbachev had similar approaches to the control of the arts?",
+     "id": "pp-whi021c-june2024-4"
+    }
+   ]
+  },
+  {
+   "course": "y12",
+   "paper": "WHI02/1C",
+   "series": "June 2023",
+   "unreadable": false,
+   "questions": [
+    {
+     "n": "1a",
+     "label": "Q1(a)",
+     "qtype": "u2a",
+     "topic": "y12-ru-3",
+     "q": "Why is Source 1 valuable to the historian for an enquiry into the consequences of Khrushchev's liberalisation policy?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the consequences of Khrushchev's liberalisation policy",
+     "stemNote": true,
+     "id": "pp-whi021c-june2023-1a"
+    },
+    {
+     "n": "1b",
+     "label": "Q1(b)",
+     "qtype": "u2b",
+     "topic": "y12-ru-2",
+     "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the reasons for the destruction of the ‘kulaks’ during the collectivisation of farming?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the reasons for the destruction of the ‘kulaks’ during the collectivisation of farming",
+     "stemNote": true,
+     "id": "pp-whi021c-june2023-1b"
+    },
+    {
+     "n": "2",
+     "label": "Q2",
+     "qtype": "u2c",
+     "topic": "y12-ru-4",
+     "q": "How accurate is it to say that education in the Soviet Union in the 1930s was completely different from education in the Soviet Union in the 1920s?",
+     "key": "How accurate is it to say that education in the Soviet Union in the 1930s was completely different from education in the Soviet Union in the 1920s?",
+     "id": "pp-whi021c-june2023-2"
+    },
+    {
+     "n": "3",
+     "label": "Q3",
+     "qtype": "u2c",
+     "topic": "y12-ru-2",
+     "q": "How accurate is it to say that Khrushchev's policies towards industry were a success but his agricultural policies were a failure?",
+     "key": "How accurate is it to say that Khrushchev's policies towards industry were a success but his agricultural policies were a failure?",
+     "id": "pp-whi021c-june2023-3"
+    },
+    {
+     "n": "4",
+     "label": "Q4",
+     "qtype": "u2c",
+     "topic": "y12-ru-1",
+     "q": "How accurate is it to say that Brezhnev's policy of stabilisation was the main reason for the growing stagnation in the government of the Soviet Union in the years 1964–82?",
+     "key": "How accurate is it to say that Brezhnev's policy of stabilisation was the main reason for the growing stagnation in the government of the Soviet Union in the years 1964–82?",
+     "id": "pp-whi021c-june2023-4"
+    }
+   ]
+  },
+  {
+   "course": "y12",
+   "paper": "WHI02/1C",
+   "series": "June 2022",
+   "unreadable": false,
+   "questions": [
+    {
+     "n": "1a",
+     "label": "Q1(a)",
+     "qtype": "u2a",
+     "topic": "y12-ru-1",
+     "q": "Why is Source 1 valuable to the historian for an enquiry into the establishment of government under Lenin in 1917?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the establishment of government under Lenin in 1917",
+     "stemNote": true,
+     "id": "pp-whi021c-june2022-1a"
+    },
+    {
+     "n": "1b",
+     "label": "Q1(b)",
+     "qtype": "u2b",
+     "topic": "y12-ru-3",
+     "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the impact of Gorbachev's policy to allow greater freedoms in the arts?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the impact of Gorbachev's policy to allow greater freedoms in the arts",
+     "stemNote": true,
+     "id": "pp-whi021c-june2022-1b"
+    },
+    {
+     "n": "2",
+     "label": "Q2",
+     "qtype": "u2c",
+     "topic": "y12-ru-4",
+     "q": "How accurate is it to say that, in the years 1918–41, the attempts to reduce illiteracy in the Soviet Union had only limited success?",
+     "key": "How accurate is it to say that, in the years 1918–41, the attempts to reduce illiteracy in the Soviet Union had only limited success?",
+     "id": "pp-whi021c-june2022-2"
+    },
+    {
+     "n": "3",
+     "label": "Q3",
+     "qtype": "u2c",
+     "topic": "y12-ru-3",
+     "q": "How accurate is it to say that, in the years 1928–53, Beria played the most significant role in suppressing opposition to Stalin?",
+     "key": "How accurate is it to say that, in the years 1928–53, Beria played the most significant role in suppressing opposition to Stalin?",
+     "id": "pp-whi021c-june2022-3"
+    },
+    {
+     "n": "4",
+     "label": "Q4",
+     "qtype": "u2c",
+     "topic": "y12-ru-2",
+     "q": "To what extent did the priorities change for industry in the years 1964–85?",
+     "key": "To what extent did the priorities change for industry in the years 1964–85?",
+     "id": "pp-whi021c-june2022-4"
+    }
+   ]
+  },
+  {
+   "course": "y12",
+   "paper": "WHI02/1C",
+   "series": "June 2021",
+   "unreadable": false,
+   "questions": [
+    {
+     "n": "1a",
+     "label": "Q1(a)",
+     "qtype": "u2a",
+     "topic": "y12-ru-1",
+     "q": "Why is Source 1 valuable to the historian for an enquiry into the reasons why Lenin demanded Party unity in Soviet Russia in the early 1920s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the reasons why Lenin demanded Party unity in Soviet Russia in the early 1920s",
+     "stemNote": true,
+     "id": "pp-whi021c-june2021-1a"
+    },
+    {
+     "n": "1b",
+     "label": "Q1(b)",
+     "qtype": "u2b",
+     "topic": "y12-ru-2",
+     "q": "How much weight do you give to the evidence of Source 2 for an enquiry into methods used to collectivise agriculture under Stalin?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "methods used to collectivise agriculture under Stalin",
+     "stemNote": true,
+     "id": "pp-whi021c-june2021-1b"
+    },
+    {
+     "n": "2",
+     "label": "Q2",
+     "qtype": "u2c",
+     "topic": "y12-ru-3",
+     "q": "To what extent did the treatment of religion in the Soviet Union change in the years 1928–82?",
+     "key": "To what extent did the treatment of religion in the Soviet Union change in the years 1928–82?",
+     "id": "pp-whi021c-june2021-2"
+    },
+    {
+     "n": "3",
+     "label": "Q3",
+     "qtype": "u2c",
+     "topic": "y12-ru-4",
+     "q": "How accurate is it to say that Khrushchev and Brezhnev failed to achieve a stable society in the Soviet Union in the years 1953–82?",
+     "key": "How accurate is it to say that Khrushchev and Brezhnev failed to achieve a stable society in the Soviet Union in the years 1953–82?",
+     "id": "pp-whi021c-june2021-3"
+    },
+    {
+     "n": "4",
+     "label": "Q4",
+     "qtype": "u2c",
+     "topic": "y12-ru-2",
+     "q": "How accurate is it to say that, in the years 1982–91, the attempt to reform the economy was a complete failure?",
+     "key": "How accurate is it to say that, in the years 1982–91, the attempt to reform the economy was a complete failure?",
+     "id": "pp-whi021c-june2021-4"
+    }
+   ]
+  },
+  {
+   "course": "y12",
+   "paper": "WHI02/1C",
+   "series": "January 2020",
+   "unreadable": false,
+   "questions": [
+    {
+     "n": "1a",
+     "label": "Q1(a)",
+     "qtype": "u2a",
+     "topic": "y12-ru-4",
+     "q": "Why is Source 1 valuable to the historian for an enquiry into approaches to education in the Soviet Union in the 1920s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "approaches to education in the Soviet Union in the 1920s",
+     "stemNote": true,
+     "id": "pp-whi021c-january2020-1a"
+    },
+    {
+     "n": "1b",
+     "label": "Q1(b)",
+     "qtype": "u2b",
+     "topic": "y12-ru-4",
+     "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the status of women in Stalinist Russia?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the status of women in Stalinist Russia",
+     "stemNote": true,
+     "id": "pp-whi021c-january2020-1b"
+    },
+    {
+     "n": "2",
+     "label": "Q2",
+     "qtype": "u2c",
+     "topic": "y12-ru-2",
+     "q": "To what extent did Stalin's policies towards industry differ from Khrushchev's policies towards industry?",
+     "key": "To what extent did Stalin's policies towards industry differ from Khrushchev's policies towards industry?",
+     "id": "pp-whi021c-january2020-2"
+    },
+    {
+     "n": "3",
+     "label": "Q3",
+     "qtype": "u2c",
+     "topic": "y12-ru-3",
+     "q": "How accurate is it to say that Andropov was successful in suppressing dissidents in the Soviet Union in the years 1965–82?",
+     "key": "How accurate is it to say that Andropov was successful in suppressing dissidents in the Soviet Union in the years 1965–82?",
+     "id": "pp-whi021c-january2020-3"
+    },
+    {
+     "n": "4",
+     "label": "Q4",
+     "qtype": "u2c",
+     "topic": "y12-ru-1",
+     "q": "How accurate is it to say that Yeltsin's election as president of Russia in June 1991 was the most significant development in the weakening of Soviet government in the years 1982–91?",
+     "key": "How accurate is it to say that Yeltsin's election as president of Russia in June 1991 was the most significant development in the weakening of Soviet government in the years 1982–91?",
+     "id": "pp-whi021c-january2020-4"
+    }
+   ]
+  },
+  {
+   "course": "y12",
+   "paper": "WHI02/1C",
+   "series": "January 2019",
+   "unreadable": false,
+   "questions": [
+    {
+     "n": "1a",
+     "label": "Q1(a)",
+     "qtype": "u2a",
+     "topic": "y12-ru-3",
+     "q": "Why is Source 1 valuable to the historian for an enquiry into the significance of the policy of liberalisation under Khrushchev?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the significance of the policy of liberalisation under Khrushchev",
+     "stemNote": true,
+     "id": "pp-whi021c-january2019-1a"
+    },
+    {
+     "n": "1b",
+     "label": "Q1(b)",
+     "qtype": "u2b",
+     "topic": "y12-ru-2",
+     "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the impact of collectivisation in the Russian countryside in the 1930s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the impact of collectivisation in the Russian countryside in the 1930s",
+     "stemNote": true,
+     "id": "pp-whi021c-january2019-1b"
+    },
+    {
+     "n": "2",
+     "label": "Q2",
+     "qtype": "u2c",
+     "topic": "y12-ru-1",
+     "q": "To what extent did the nature of the government of the USSR change in the years 1917–53?",
+     "key": "To what extent did the nature of the government of the USSR change in the years 1917–53?",
+     "id": "pp-whi021c-january2019-2"
+    },
+    {
+     "n": "3",
+     "label": "Q3",
+     "qtype": "u2c",
+     "topic": "y12-ru-4",
+     "q": "To what extent did Brezhnev achieve a stable society in the years 1964–82?",
+     "key": "To what extent did Brezhnev achieve a stable society in the years 1964–82?",
+     "id": "pp-whi021c-january2019-3"
+    },
+    {
+     "n": "4",
+     "label": "Q4",
+     "qtype": "u2c",
+     "topic": "y12-ru-2",
+     "q": "How accurate is it to say that, in the years 1964–85, the main reason for the weaknesses of the Soviet economy was the priority given to spending on the military?",
+     "key": "How accurate is it to say that, in the years 1964–85, the main reason for the weaknesses of the Soviet economy was the priority given to spending on the military?",
+     "id": "pp-whi021c-january2019-4"
+    }
+   ]
+  },
+  {
+   "course": "y12",
+   "paper": "WHI02/1C",
+   "series": "June 2017",
+   "unreadable": false,
+   "questions": [
+    {
+     "n": "1a",
+     "label": "Q1(a)",
+     "qtype": "u2a",
+     "topic": "y12-ru-1",
+     "q": "Why is Source 1 valuable to the historian for an enquiry into the reasons for Lenin's dismissal of the Constituent Assembly in January 1918?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the reasons for Lenin's dismissal of the Constituent Assembly in January 1918",
+     "stemNote": true,
+     "id": "pp-whi021c-june2017-1a"
+    },
+    {
+     "n": "1b",
+     "label": "Q1(b)",
+     "qtype": "u2b",
+     "topic": "y12-ru-3",
+     "q": "How much weight do you give to the evidence of Source 2 for an enquiry into impact of Gorbachev's reduction of traditional controls in the late 1980s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "impact of Gorbachev's reduction of traditional controls in the late 1980s",
+     "stemNote": true,
+     "id": "pp-whi021c-june2017-1b"
+    },
+    {
+     "n": "2",
+     "label": "Q2",
+     "qtype": "u2c",
+     "topic": "y12-ru-3",
+     "q": "How accurate is it to say that, in the years 1928–53, the use of terror was the most significant factor in the control of the population of the Soviet Union?",
+     "key": "How accurate is it to say that, in the years 1928–53, the use of terror was the most significant factor in the control of the population of the Soviet Union?",
+     "id": "pp-whi021c-june2017-2"
+    },
+    {
+     "n": "3",
+     "label": "Q3",
+     "qtype": "u2c",
+     "topic": "y12-ru-2",
+     "q": "To what extent did Khrushchev's economic policies succeed in improving agriculture in the Soviet Union in the years 1953–64?",
+     "key": "To what extent did Khrushchev's economic policies succeed in improving agriculture in the Soviet Union in the years 1953–64?",
+     "id": "pp-whi021c-june2017-3"
+    },
+    {
+     "n": "4",
+     "label": "Q4",
+     "qtype": "u2c",
+     "topic": "y12-ru-4",
+     "q": "How accurate is it to say that there were significant changes to Soviet higher education in the years 1945–91?",
+     "key": "How accurate is it to say that there were significant changes to Soviet higher education in the years 1945–91?",
+     "id": "pp-whi021c-june2017-4"
+    }
+   ]
+  },
+  {
+   "course": "y12",
+   "paper": "WHI02/1C",
+   "series": "June 2016",
+   "unreadable": false,
+   "questions": [
+    {
+     "n": "1a",
+     "label": "Q1(a)",
+     "qtype": "u2a",
+     "topic": "y12-ru-1",
+     "q": "Why is Source 1 valuable to the historian for an enquiry into the reasons for the increased centralisation of power in the Soviet State by 1924?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the reasons for the increased centralisation of power in the Soviet State by 1924",
+     "stemNote": true,
+     "id": "pp-whi021c-june2016-1a"
+    },
+    {
+     "n": "1b",
+     "label": "Q1(b)",
+     "qtype": "u2b",
+     "topic": "y12-ru-1",
+     "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the reasons why Boris Yeltsin was elected as President of Russia in June 1991?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+     "key": "the reasons why Boris Yeltsin was elected as President of Russia in June 1991",
+     "stemNote": true,
+     "id": "pp-whi021c-june2016-1b"
+    },
+    {
+     "n": "2",
+     "label": "Q2",
+     "qtype": "u2c",
+     "topic": "y12-ru-2",
+     "q": "How accurate is it to say that Stalin's policies towards industry and agriculture changed the Soviet economy to a communist system in the years 1929–41?",
+     "key": "How accurate is it to say that Stalin's policies towards industry and agriculture changed the Soviet economy to a communist system in the years 1929–41?",
+     "id": "pp-whi021c-june2016-2"
+    },
+    {
+     "n": "3",
+     "label": "Q3",
+     "qtype": "u2c",
+     "topic": "y12-ru-4",
+     "q": "How accurate is it to say that the status of women improved in the years 1917–53?",
+     "key": "How accurate is it to say that the status of women improved in the years 1917–53?",
+     "id": "pp-whi021c-june2016-3"
+    },
+    {
+     "n": "4",
+     "label": "Q4",
+     "qtype": "u2c",
+     "topic": "y12-ru-3",
+     "q": "To what extent did attacks on religious beliefs and practices in the years 1929–64 result in the destruction of organised religion in the Soviet Union?",
+     "key": "To what extent did attacks on religious beliefs and practices in the years 1929–64 result in the destruction of organised religion in the Soviet Union?",
+     "id": "pp-whi021c-june2016-4"
     }
    ]
   }

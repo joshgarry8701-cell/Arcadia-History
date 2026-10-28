@@ -1081,11 +1081,11 @@
     {
       "id": "y12",
       "year": "Year 12",
-      "title": "International A Level History — Germany and China",
-      "enquiry": "Unit 1 · Germany, 1918–45 · Unit 2 · China, 1900–76",
+      "title": "International A Level History — Germany, China and Russia",
+      "enquiry": "Unit 1 · Germany, 1918–45 · Unit 2 · China, 1900–76 or Russia, 1917–91",
       "stage": "International A Level (IAS)",
       "accent": "#7a2e3a",
-      "separation_note": "Unit 1 Germany here is the IAL course; Year 10 Germany (International GCSE) is separate. Unit 2 Russia (1C) was taken by last year's cohort and is not included.",
+      "separation_note": "Unit 1 Germany here is the IAL course; Year 10 Germany (International GCSE) is separate. Unit 2 has two options: China (1B) and Russia (1C). Russia is the option the current Year 13 cohort sat in Year 12 — use the Russia pages to revise it.",
       "areas": [
         {
           "id": "de",
@@ -1096,13 +1096,18 @@
           "id": "cn",
           "title": "Option 1B: China, 1900–76",
           "paper": "Unit 2 (WHI02/1B)"
+        },
+        {
+          "id": "ru",
+          "title": "Option 1C: Russia, 1917–91: From Lenin to Yeltsin",
+          "paper": "Unit 2 (WHI02/1C) · sat by the current Year 13"
         }
       ],
       "exam": {
         "verified": true,
         "board": "Pearson Edexcel",
         "qualification": "International Advanced Subsidiary / Advanced Level in History (XHI01 / YHI01)",
-        "codes": "Unit 1: WHI01/1C · Unit 2: WHI02/1B",
+        "codes": "Unit 1: WHI01/1C · Unit 2: WHI02/1B (China) or WHI02/1C (Russia)",
         "specification_version": "Issue 6, July 2021",
         "papers": [
           {
@@ -1119,6 +1124,19 @@
           {
             "code": "WHI02/1B",
             "title": "Unit 2: Breadth Study with Source Evaluation — Option 1B: China, 1900–76",
+            "duration": "2 hours",
+            "marks": 50,
+            "weighting": "50% of IAS; 25% of IAL",
+            "structure": "Section A: Question 1, compulsory, in two parts on two sources — (a) value of Source 1, 10 marks; (b) weight of Source 2, 15 marks (AO2). Section B: ONE essay from a choice of three, 25 marks (AO1).",
+            "qtypes": [
+              "u2a",
+              "u2b",
+              "u2c"
+            ]
+          },
+          {
+            "code": "WHI02/1C",
+            "title": "Unit 2: Breadth Study with Source Evaluation — Option 1C: Russia, 1917–91: From Lenin to Yeltsin",
             "duration": "2 hours",
             "marks": 50,
             "weighting": "50% of IAS; 25% of IAL",
@@ -1183,6 +1201,13 @@
           },
           {
             "title": "How to answer WHI02/1C exam questions (your deck) — steps, starters and timings, applied to China"
+          },
+          {
+            "title": "WHI02/1C question papers, June 2016 – June 2024 (Physics & Maths Tutor copies of Pearson papers)",
+            "url": "https://www.physicsandmathstutor.com/past-papers/a-level-history/edexcel-ial-paper-2/"
+          },
+          {
+            "title": "IAL History specification Issue 6 — Unit 2 Option 1C content and nominated source areas (uploaded copy)"
           }
         ],
         "conflicts": [
@@ -1193,16 +1218,24 @@
         ],
         "open_questions": [],
         "source_focus": {
-          "title": "China Section A sources come from these nominated areas (bold italics in the specification)",
+          "title": "Unit 2 Section A sources come only from these nominated areas (bold italics in the specification)",
           "items": [
-            "The significance of the Long March; the failure to crush the Communists and the emergence of Mao Zedong; the civil war and the reasons for its outcome 1946–49",
-            "The origins and consequences of the Hundred Flowers Campaign",
-            "The Boxer Rising, its origins and impact",
-            "The origins and impact on China of the Manchurian crisis 1931–33",
-            "The significance of improving communications – railways, telegraphy and river traffic",
-            "The Great Leap Forward and its consequences; recovery and chaos 1962–76",
-            "The promotion of change by the new Communist regime 1949–66, including the Marriage Law of 1950",
-            "The Cultural Revolution 1966–76 and its significance"
+            "China: The significance of the Long March; the failure to crush the Communists and the emergence of Mao Zedong; the civil war and the reasons for its outcome 1946–49",
+            "China: The origins and consequences of the Hundred Flowers Campaign",
+            "China: The Boxer Rising, its origins and impact",
+            "China: The origins and impact on China of the Manchurian crisis 1931–33",
+            "China: The significance of improving communications – railways, telegraphy and river traffic",
+            "China: The Great Leap Forward and its consequences; recovery and chaos 1962–76",
+            "China: The promotion of change by the new Communist regime 1949–66, including the Marriage Law of 1950",
+            "China: The Cultural Revolution 1966–76 and its significance",
+            "Russia: the nature of government under Lenin; the growing centralisation of power",
+            "Russia: the significance of Yeltsin’s election in June 1991 and the failed coup of August",
+            "Russia: agricultural collectivisation and its impact, including the destruction of the ‘kulaks’",
+            "Russia: the economy under Brezhnev; the impact of Gorbachev’s attempts at economic reform 1985–91",
+            "Russia: liberalisation under Khrushchev 1953–64",
+            "Russia: the impact of the breakdown of traditional controls 1985–91",
+            "Russia: the changing status of women under Lenin and Stalin",
+            "Russia: the changing approaches to education in the 1920s and 30s"
           ]
         }
       },
@@ -1583,13 +1616,16 @@
         "WHI01 exemplars with examiner commentaries (PDF)",
         "Getting Ready to Teach IAL History Module 2 booklet and slides",
         "How to answer WHI02/1C (PPTX)",
-        "IAL History specification Issue 6 (PDF)"
+        "IAL History specification Issue 6 (PDF)",
+        "How to answer WHI02/1C (PPTX) — applies directly to Russia"
       ],
       "resources_needed": [
         "Class textbook or lesson decks for Unit 2 China (to add page references)",
         "Past-paper source booklets for WHI02/1B (so Section A practice can use real sources)",
         "Class textbook or lesson decks for Unit 1 Germany (to align explanations and add page references)",
-        "Teacher-marked Year 12 essays (to check AI feedback)"
+        "Teacher-marked Year 12 essays (to check AI feedback)",
+        "Class textbook or lesson decks for Unit 2 Russia (to add page references)",
+        "Past-paper source booklets for WHI02/1C (so Russia Section A practice can use real sources)"
       ]
     },
     {

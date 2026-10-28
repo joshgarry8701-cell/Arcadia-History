@@ -1,0 +1,655 @@
+{
+  "id": "y12-ru-3",
+  "course": "y12",
+  "area": "ru",
+  "kt": "Key topic 3",
+  "order": 23,
+  "title": "Control of the people, 1917–91",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following the IAL specification (Issue 6), Unit 2 Option 1C: Russia, 1917–91. Casualty, output and literacy figures vary between historians; check against class resources."
+  },
+  "learn": {
+    "intro": "Propaganda, censorship, the secret police and control of culture and religion kept the Communist Party in power for over seventy years. How did these methods change from Lenin to Gorbachev, and what happened when controls were relaxed?",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Media, propaganda and religion",
+        "blocks": [
+          {
+            "p": "State control of mass media: the Bolsheviks closed opposition newspapers within days of taking power. Glavlit (1922) censored all publications, and Pravda and Izvestia carried the party line. Posters, agitprop trains, film and later radio spread propaganda."
+          },
+          {
+            "p": "The personality cult of Stalin grew from his fiftieth birthday in December 1929: he was presented as Lenin's true heir, the 'father of the peoples' and the architect of victory. History was rewritten — the Short Course history of the party (1938) became compulsory reading."
+          },
+          {
+            "p": "The treatment of religion: church and state were separated in January 1918 and church property seized. The League of the Godless (1925) ran anti-religious propaganda, and the 1929 Law on Religious Associations banned religious teaching and charity. By 1939 only a few hundred Orthodox churches remained open. In 1943 Stalin allowed the Orthodox Church to elect a patriarch to win support during the war."
+          },
+          {
+            "p": "Khrushchev launched a new anti-religious campaign (1958–64) that closed about half of the remaining churches. Brezhnev was less aggressive towards religion, but tightened controls on writers and dissidents — for example the trial of Sinyavsky and Daniel (1966) — and after the Prague Spring (1968)."
+          }
+        ],
+        "terms": [
+          "Glavlit",
+          "agitprop",
+          "Pravda",
+          "cult of personality",
+          "Short Course",
+          "League of the Godless",
+          "Law on Religious Associations"
+        ],
+        "evidence": [
+          "1922: Glavlit censorship office.",
+          "December 1929: Stalin's fiftieth birthday launches the cult.",
+          "1929: Law on Religious Associations.",
+          "1943: Orthodox patriarch allowed.",
+          "1958–64: Khrushchev's anti-religious campaign."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. The secret police and attacks on opponents",
+        "blocks": [
+          {
+            "p": "The political police changed name but not purpose: Cheka (1917), GPU and OGPU (1922–23), NKVD (from 1934), and the KGB (from 1954). The Gulag system of labour camps was organised from 1930 and held around 2.5 million people in camps and colonies by 1953."
+          },
+          {
+            "p": "The roles of Yagoda, Yezhov and Beria: Genrikh Yagoda led the NKVD from 1934 and organised the first show trial, then was himself tried and shot (1938). Nikolai Yezhov ran the Great Terror of 1937–38 and was shot in 1940. Lavrenty Beria (from 1938) reduced the mass arrests but ran the camps and wartime deportations of whole nationalities; he was shot after Stalin's death in 1953."
+          },
+          {
+            "p": "Liberalisation under Khrushchev 1953–64: about 1.2 million prisoners were amnestied in 1953, millions more were released and many victims rehabilitated after 1956. The KGB was placed firmly under party control. But limits remained: the Hungarian rising was crushed (1956) and strikers at Novocherkassk were shot (1962)."
+          },
+          {
+            "p": "Suppression of dissidents 1965–82 and the significance of Andropov: as KGB chairman (1967–82) Yuri Andropov used exile, psychiatric hospitals and forced emigration rather than mass terror. Solzhenitsyn was expelled (1974) and the physicist Andrei Sakharov exiled to Gorky (1980). Samizdat (self-published writing) such as the Chronicle of Current Events spread news of abuses."
+          },
+          {
+            "p": "1982–91: the KGB continued to monitor popular discontent through informers and reports, but under glasnost Sakharov was released (December 1986) and protest became open."
+          }
+        ],
+        "terms": [
+          "Cheka",
+          "NKVD",
+          "KGB",
+          "Gulag",
+          "rehabilitation",
+          "dissident",
+          "samizdat",
+          "psychiatric abuse"
+        ],
+        "evidence": [
+          "1934: NKVD created; Yagoda in charge.",
+          "1936–38: Yezhov runs the Great Terror.",
+          "1953: Beria shot; amnesty of about 1.2 million.",
+          "1967–82: Andropov chairs the KGB.",
+          "1980: Sakharov exiled to Gorky."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. The state and cultural change",
+        "blocks": [
+          {
+            "p": "Proletkult and the avant-garde (1917–early 1930s): the Proletkult movement tried to create a new working-class culture. Avant-garde artists such as Malevich, the poet Mayakovsky and the film-maker Eisenstein (Battleship Potemkin, 1925) experimented with new forms."
+          },
+          {
+            "p": "Socialist Realism (from 1934): the First Congress of Soviet Writers made Socialist Realism compulsory — art had to be optimistic, easy to understand and show the building of socialism. All writers had to belong to the Union of Soviet Writers. After the war the Zhdanov decrees (1946) attacked writers such as Akhmatova and Zoshchenko."
+          },
+          {
+            "p": "Nonconformity from the 1950s: in Khrushchev's 'Thaw' some criticism was allowed — Solzhenitsyn's One Day in the Life of Ivan Denisovich (1962) described the Gulag. But Pasternak was forced to refuse the Nobel Prize (1958) for Doctor Zhivago, and Khrushchev attacked abstract art at the Manège exhibition (1962). Under Brezhnev an unofficial open-air art show was bulldozed (1974)."
+          },
+          {
+            "p": "The impact of the breakdown of traditional controls 1985–91: glasnost allowed banned works such as Doctor Zhivago (published 1988) and films critical of Stalinism such as Repentance (1987). Magazines exposed the crimes of the past, rock music and Western culture spread, and the party lost control of the stories Soviet people told about their own history."
+          }
+        ],
+        "terms": [
+          "Proletkult",
+          "avant-garde",
+          "Socialist Realism",
+          "Union of Soviet Writers",
+          "Zhdanovshchina",
+          "Thaw",
+          "glasnost"
+        ],
+        "evidence": [
+          "1925: Battleship Potemkin.",
+          "1934: Socialist Realism adopted.",
+          "1946: Zhdanov decrees.",
+          "1962: One Day in the Life of Ivan Denisovich.",
+          "1974: 'Bulldozer exhibition'.",
+          "1988: Doctor Zhivago published in the USSR."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "December 1917",
+        "event": "Cheka set up"
+      },
+      {
+        "date": "January 1918",
+        "event": "Separation of church and state"
+      },
+      {
+        "date": "1922",
+        "event": "Glavlit censorship office"
+      },
+      {
+        "date": "1929",
+        "event": "Law on Religious Associations; Stalin cult begins"
+      },
+      {
+        "date": "1934",
+        "event": "NKVD created; Socialist Realism adopted"
+      },
+      {
+        "date": "1937–38",
+        "event": "Great Terror under Yezhov"
+      },
+      {
+        "date": "1946",
+        "event": "Zhdanov decrees on culture"
+      },
+      {
+        "date": "1953",
+        "event": "Beria shot; mass amnesty"
+      },
+      {
+        "date": "1962",
+        "event": "Ivan Denisovich published; Manège exhibition"
+      },
+      {
+        "date": "1974",
+        "event": "Solzhenitsyn expelled"
+      },
+      {
+        "date": "1980",
+        "event": "Sakharov exiled to Gorky"
+      },
+      {
+        "date": "1986",
+        "event": "Glasnost; Sakharov released"
+      }
+    ],
+    "people": [
+      {
+        "name": "Felix Dzerzhinsky",
+        "role": "Founder and head of the Cheka."
+      },
+      {
+        "name": "Genrikh Yagoda",
+        "role": "NKVD chief 1934–36; shot 1938."
+      },
+      {
+        "name": "Nikolai Yezhov",
+        "role": "NKVD chief 1936–38; ran the Great Terror; shot 1940."
+      },
+      {
+        "name": "Lavrenty Beria",
+        "role": "NKVD chief from 1938; shot 1953."
+      },
+      {
+        "name": "Yuri Andropov",
+        "role": "KGB chairman 1967–82; leader 1982–84."
+      },
+      {
+        "name": "Andrei Sakharov",
+        "role": "Physicist and dissident; exiled 1980–86."
+      },
+      {
+        "name": "Alexander Solzhenitsyn",
+        "role": "Writer on the Gulag; expelled 1974."
+      },
+      {
+        "name": "Andrei Zhdanov",
+        "role": "Enforced cultural conformity after 1946."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Agitprop",
+        "def": "Agitation and propaganda — spreading the party message."
+      },
+      {
+        "term": "Gulag",
+        "def": "The system of forced labour camps."
+      },
+      {
+        "term": "Rehabilitation",
+        "def": "Officially clearing the name of a purge victim."
+      },
+      {
+        "term": "Dissident",
+        "def": "Someone who openly criticised the Soviet system."
+      },
+      {
+        "term": "Samizdat",
+        "def": "Illegally copied 'self-published' writing."
+      },
+      {
+        "term": "Socialist Realism",
+        "def": "Compulsory optimistic style glorifying socialism, from 1934."
+      },
+      {
+        "term": "The Thaw",
+        "def": "The relaxation of cultural controls under Khrushchev."
+      },
+      {
+        "term": "Glasnost",
+        "def": "Gorbachev's 'openness' — relaxed censorship from 1986."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "Terror was the only way the regime controlled people.",
+        "right": "Propaganda, rewards, education and genuine belief mattered as well."
+      },
+      {
+        "wrong": "Khrushchev ended repression.",
+        "right": "He released millions, but crushed Hungary (1956) and Novocherkassk (1962) and attacked the Church."
+      },
+      {
+        "wrong": "Brezhnev returned to mass terror.",
+        "right": "Repression was targeted: exile, psychiatric hospitals and expulsion of dissidents."
+      },
+      {
+        "wrong": "Religion was wiped out.",
+        "right": "Churches were closed, but belief survived and Stalin used the Church in the war."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What was Glavlit?",
+        "options": [
+          "The secret police",
+          "The censorship office",
+          "The writers' union",
+          "A propaganda film"
+        ],
+        "answer": 1,
+        "why": "Set up in 1922."
+      },
+      {
+        "id": "m2",
+        "s": "s2",
+        "q": "Who ran the NKVD during the Great Terror of 1937–38?",
+        "options": [
+          "Beria",
+          "Yagoda",
+          "Yezhov",
+          "Dzerzhinsky"
+        ],
+        "answer": 2,
+        "why": "The 'Yezhovshchina'."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "How did Andropov's KGB mainly deal with dissidents?",
+        "options": [
+          "Mass executions",
+          "Exile, psychiatric hospitals and expulsion",
+          "Public show trials of millions",
+          "Ignoring them"
+        ],
+        "answer": 1,
+        "why": "Targeted repression."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "What became compulsory for Soviet artists in 1934?",
+        "options": [
+          "Abstract art",
+          "Socialist Realism",
+          "Proletkult",
+          "Impressionism"
+        ],
+        "answer": 1,
+        "why": "Writers' Congress."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "Which novel was published in the USSR in 1988 under glasnost?",
+        "options": [
+          "Doctor Zhivago",
+          "War and Peace",
+          "The Short Course",
+          "Battleship Potemkin"
+        ],
+        "answer": 0,
+        "why": "Banned since the 1950s."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "In which year did Stalin allow the Orthodox Church to elect a patriarch?",
+        "accept": [
+          "1943"
+        ],
+        "answer": "1943"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "To which city was Sakharov exiled in 1980?",
+        "accept": [
+          "gorky",
+          "gorki",
+          "nizhny novgorod"
+        ],
+        "answer": "Gorky"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "Who wrote One Day in the Life of Ivan Denisovich?",
+        "accept": [
+          "solzhenitsyn",
+          "alexander solzhenitsyn"
+        ],
+        "answer": "Solzhenitsyn"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "Cheka set up",
+          "Glavlit created",
+          "Socialist Realism adopted",
+          "Zhdanov decrees",
+          "Mass amnesty after Stalin's death",
+          "Solzhenitsyn expelled",
+          "Sakharov released"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the person to their role",
+        "pairs": [
+          [
+            "Dzerzhinsky",
+            "Founded the Cheka"
+          ],
+          [
+            "Yezhov",
+            "Ran the Great Terror"
+          ],
+          [
+            "Andropov",
+            "KGB chairman 1967–82"
+          ],
+          [
+            "Sakharov",
+            "Dissident physicist"
+          ],
+          [
+            "Zhdanov",
+            "Cultural crackdown 1946"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Give precise evidence of liberalisation under Khrushchev, and its limits.",
+        "keywords": [
+          [
+            "1953",
+            "amnesty",
+            "1.2 million",
+            "1956",
+            "secret speech",
+            "rehabilitat",
+            "hungary",
+            "novocherkassk",
+            "1962",
+            "kgb"
+          ]
+        ],
+        "model": "About 1.2 million prisoners were amnestied in 1953 and many victims rehabilitated after the Secret Speech (1956); the KGB was put under party control. But Hungary was crushed in 1956 and strikers were shot at Novocherkassk in 1962."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "How was the Stalin cult created?",
+      "a": "From his fiftieth birthday (1929): posters, rewritten history (Short Course 1938), Stalin as Lenin's heir and 'father of the peoples'.",
+      "hint": "1929 onwards."
+    },
+    {
+      "id": "f2",
+      "s": "s1",
+      "q": "How was religion treated from Stalin to Brezhnev?",
+      "a": "Stalin: churches closed, 1929 law, then wartime concession (1943). Khrushchev: renewed campaign 1958–64. Brezhnev: less aggressive, controlled through the Council for Religious Affairs.",
+      "hint": "Attack, truce, attack."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "Compare Yagoda, Yezhov and Beria.",
+      "a": "Yagoda: first show trial, shot 1938. Yezhov: Great Terror 1937–38, shot 1940. Beria: ended mass arrests but ran the camps and deportations, shot 1953.",
+      "hint": "All three were victims too."
+    },
+    {
+      "id": "f4",
+      "s": "s2",
+      "q": "Why was Andropov significant?",
+      "a": "KGB chairman 1967–82: targeted repression of dissidents (exile, psychiatric hospitals, expulsion) instead of mass terror; then leader 1982–84.",
+      "hint": "Smarter repression."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "What was Socialist Realism?",
+      "a": "From 1934: art must be optimistic, simple and celebrate socialism; enforced through the Union of Soviet Writers.",
+      "hint": "1934 Congress."
+    },
+    {
+      "id": "f6",
+      "s": "s3",
+      "q": "What was the impact of the breakdown of controls 1985–91?",
+      "a": "Banned works published, Stalin's crimes exposed, Western culture spread — the party lost control of history and public opinion.",
+      "hint": "Glasnost."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain how the state used the media, propaganda and the Stalin cult.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "judge",
+      "text": "I can judge how far the treatment of religion changed under Stalin, Khrushchev and Brezhnev.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "judge",
+      "text": "I can assess the roles of Yagoda, Yezhov, Beria and Andropov, and the extent of liberalisation under Khrushchev.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain how state control of culture changed from Proletkult to glasnost.",
+      "sections": [
+        "s3"
+      ]
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1",
+        "qtype": "u2c",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s1",
+          "s2"
+        ],
+        "q": "How accurate is it to say that propaganda was more important than terror in controlling the Soviet people in the years 1928–53?"
+      },
+      {
+        "id": "pp-whi021c-june2024-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2024, Q4",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2024",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that Khrushchev and Gorbachev had similar approaches to the control of the arts?"
+      },
+      {
+        "id": "pp-whi021c-june2023-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1C, June 2023, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2023",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the consequences of Khrushchev's liberalisation policy?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2022-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1C, June 2022, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2022",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the impact of Gorbachev's policy to allow greater freedoms in the arts?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2022-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2022, Q3",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2022",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1928–53, Beria played the most significant role in suppressing opposition to Stalin?"
+      },
+      {
+        "id": "pp-whi021c-june2021-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2021, Q2",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2021",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "To what extent did the treatment of religion in the Soviet Union change in the years 1928–82?"
+      },
+      {
+        "id": "pp-whi021c-january2020-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, January 2020, Q3",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "January 2020",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that Andropov was successful in suppressing dissidents in the Soviet Union in the years 1965–82?"
+      },
+      {
+        "id": "pp-whi021c-january2019-1a",
+        "qtype": "u2a",
+        "label": "Past paper: WHI02/1C, January 2019, Q1(a) (Source 1 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "January 2019",
+          "part": "Q1(a)"
+        },
+        "sections": [],
+        "q": "Why is Source 1 valuable to the historian for an enquiry into the significance of the policy of liberalisation under Khrushchev?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2017-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1C, June 2017, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2017",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into impact of Gorbachev's reduction of traditional controls in the late 1980s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2017-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2017, Q2",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2017",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1928–53, the use of terror was the most significant factor in the control of the population of the Soviet Union?"
+      },
+      {
+        "id": "pp-whi021c-june2016-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2016, Q4",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2016",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "To what extent did attacks on religious beliefs and practices in the years 1929–64 result in the destruction of organised religion in the Soviet Union?"
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Comparison",
+      "task": "Compare control under Stalin and Brezhnev: which was more effective, and why? Use scope and effectiveness."
+    },
+    {
+      "id": "t2",
+      "kind": "Causal links",
+      "task": "How did the breakdown of cultural controls after 1985 contribute to the collapse of Communist rule?"
+    }
+  ]
+}

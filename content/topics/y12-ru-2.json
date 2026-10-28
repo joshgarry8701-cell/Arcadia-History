@@ -1,0 +1,662 @@
+{
+  "id": "y12-ru-2",
+  "course": "y12",
+  "area": "ru",
+  "kt": "Key topic 2",
+  "order": 22,
+  "title": "Industrial and agricultural change, 1917–91",
+  "status": "published",
+  "review": {
+    "state": "awaiting-teacher-check",
+    "note": "Original content following the IAL specification (Issue 6), Unit 2 Option 1C: Russia, 1917–91. Casualty, output and literacy figures vary between historians; check against class resources."
+  },
+  "learn": {
+    "intro": "From War Communism and the NEP to Stalin's Five-Year Plans and collectivisation, then Khrushchev's Virgin Lands, Brezhnev's stagnation and Gorbachev's failed reforms: how did the command economy develop, and why did it fall behind?",
+    "sections": [
+      {
+        "id": "s1",
+        "title": "1. Towards a command economy, 1917–28",
+        "blocks": [
+          {
+            "p": "The Decree on Land (October 1917) let peasants take landlords' estates. Large-scale industry was nationalised in June 1918, and a Supreme Council of the National Economy (VSNKh) was set up to run it."
+          },
+          {
+            "p": "War Communism (1918–21) put the economy on a war footing: grain was requisitioned from peasants, private trade was banned, and money almost lost its value. Industrial output collapsed to a fraction of its 1913 level, and the famine of 1921–22 killed about 5 million people. Peasant risings and the Kronstadt revolt showed the policy had to change."
+          },
+          {
+            "p": "The New Economic Policy (NEP, March 1921) replaced requisitioning with a tax in kind, allowed peasants to sell surplus grain and allowed small private businesses ('Nepmen'). The state kept the 'commanding heights' — heavy industry, banks, foreign trade. By about 1926 output had recovered to roughly pre-war levels, but the 'scissors crisis' (1923) and the grain procurement crisis of 1927–28 showed the tension between peasants and the state."
+          },
+          {
+            "p": "State control of industry and agriculture grew: Gosplan (state planning, 1921) and the party argued over whether to keep the NEP (Bukharin) or industrialise rapidly at the peasants' expense (the Left, later Stalin)."
+          }
+        ],
+        "terms": [
+          "Decree on Land",
+          "nationalisation",
+          "War Communism",
+          "requisitioning",
+          "NEP",
+          "Nepmen",
+          "commanding heights",
+          "Gosplan"
+        ],
+        "evidence": [
+          "June 1918: large-scale industry nationalised.",
+          "1921–22: famine kills about 5 million.",
+          "March 1921: NEP introduced.",
+          "1927–28: grain procurement crisis."
+        ]
+      },
+      {
+        "id": "s2",
+        "title": "2. Industry and agriculture in the Stalin era",
+        "blocks": [
+          {
+            "p": "The Five-Year Plans: the First Plan (1928–32, declared complete in four years) set huge targets for heavy industry. New industrial cities such as Magnitogorsk and the Dnieper dam were built. Coal output rose from about 35 million tonnes (1928) to about 128 million (1937), and steel from about 4 million to about 18 million tonnes. The Second Plan (1933–37) added transport such as the Moscow Metro; Stakhanov's record coal shift (August 1935) launched the Stakhanovite movement."
+          },
+          {
+            "p": "Preparing for war: the Third Plan (1938–41) switched resources to armaments — defence took about a third of the budget by 1940. After the German invasion in 1941, over 1,500 large factories were moved east to the Urals and Siberia."
+          },
+          {
+            "p": "Agricultural collectivisation and its impact: from late 1929 peasants were forced into collective farms (kolkhozy). Stalin declared the 'liquidation of the kulaks as a class'; about 1.8 million people were deported as kulaks in 1930–31, and many more were shot or died. Peasants slaughtered their animals rather than hand them over, so livestock numbers roughly halved. Grain procurement continued during the famine of 1932–33, which killed an estimated 5–7 million people, especially in Ukraine and Kazakhstan. By the late 1930s almost all farms were collectivised and controlled through Machine Tractor Stations."
+          },
+          {
+            "p": "Recovery from war after 1945: the Fourth Plan (1946–50) rebuilt heavy industry quickly using forced labour and reparations, but agriculture stayed weak and there was famine in 1946–47."
+          }
+        ],
+        "terms": [
+          "Five-Year Plan",
+          "Magnitogorsk",
+          "Stakhanovite",
+          "collectivisation",
+          "kolkhoz",
+          "kulak",
+          "dekulakisation",
+          "Machine Tractor Station"
+        ],
+        "evidence": [
+          "1928–32: First Five-Year Plan.",
+          "1929–30: forced collectivisation begins.",
+          "1932–33: famine, estimated 5–7 million deaths.",
+          "August 1935: Stakhanov's record.",
+          "1941: over 1,500 factories moved east."
+        ]
+      },
+      {
+        "id": "s3",
+        "title": "3. Changing priorities for industry and agriculture, 1953–91",
+        "blocks": [
+          {
+            "p": "Khrushchev promised more consumer goods, light industry and chemicals (for fertilisers, plastics and fabrics), while keeping heavy industry and the space and arms programmes. Housing construction expanded rapidly."
+          },
+          {
+            "p": "Investment in agriculture and the Virgin Lands Scheme (from 1954): young volunteers ploughed tens of millions of hectares of steppe in Kazakhstan and Siberia. The 1956 harvest was a record, but soil erosion and poor planning followed, and after the bad harvest of 1963 the USSR had to import grain. Price rises led to riots at Novocherkassk in 1962."
+          },
+          {
+            "p": "The attempts at reform 1964–91: Kosygin's reform (1965) gave factories more freedom and used profit as a measure, but it was diluted by planners. Under Brezhnev agriculture received about a quarter of all investment, yet the USSR imported grain from the 1970s. Growth slowed sharply, military spending took a very large share of output, and the 'second economy' (black market) grew. High oil prices in the 1970s hid the problems."
+          },
+          {
+            "p": "The impact of Gorbachev's economic reforms 1985–91: 'acceleration' (uskorenie) and the anti-alcohol campaign (1985) cut state revenue; the Law on State Enterprise (1987) and the Law on Cooperatives (1988) loosened planning without creating a working market. With falling oil prices after 1986, shortages, rationing, budget deficits and inflation grew, and output fell in 1990–91. Plans for a rapid move to a market (the '500 Days' programme, 1990) were not adopted."
+          }
+        ],
+        "terms": [
+          "light industry",
+          "Virgin Lands",
+          "Novocherkassk",
+          "Kosygin reform",
+          "stagnation",
+          "second economy",
+          "uskorenie",
+          "Law on State Enterprise"
+        ],
+        "evidence": [
+          "1954: Virgin Lands Scheme begins.",
+          "1962: Novocherkassk riots.",
+          "1965: Kosygin reform.",
+          "1985: anti-alcohol campaign.",
+          "1987: Law on State Enterprise.",
+          "1988: Law on Cooperatives."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "October 1917",
+        "event": "Decree on Land"
+      },
+      {
+        "date": "June 1918",
+        "event": "Nationalisation of large-scale industry"
+      },
+      {
+        "date": "March 1921",
+        "event": "NEP replaces War Communism"
+      },
+      {
+        "date": "1928",
+        "event": "First Five-Year Plan begins"
+      },
+      {
+        "date": "1929–30",
+        "event": "Forced collectivisation and dekulakisation"
+      },
+      {
+        "date": "1932–33",
+        "event": "Famine"
+      },
+      {
+        "date": "1935",
+        "event": "Stakhanovite movement"
+      },
+      {
+        "date": "1946",
+        "event": "Fourth Five-Year Plan: post-war recovery"
+      },
+      {
+        "date": "1954",
+        "event": "Virgin Lands Scheme"
+      },
+      {
+        "date": "1965",
+        "event": "Kosygin reform"
+      },
+      {
+        "date": "1985",
+        "event": "Gorbachev's acceleration and anti-alcohol campaign"
+      },
+      {
+        "date": "1987–88",
+        "event": "Laws on State Enterprise and Cooperatives"
+      }
+    ],
+    "people": [
+      {
+        "name": "Nikolai Bukharin",
+        "role": "Defended the NEP and gradual industrialisation."
+      },
+      {
+        "name": "Joseph Stalin",
+        "role": "Launched the Five-Year Plans and collectivisation."
+      },
+      {
+        "name": "Alexei Stakhanov",
+        "role": "Miner whose 1935 record became a propaganda model."
+      },
+      {
+        "name": "Nikita Khrushchev",
+        "role": "Virgin Lands, consumer goods and chemicals."
+      },
+      {
+        "name": "Alexei Kosygin",
+        "role": "Premier; 1965 economic reform."
+      },
+      {
+        "name": "Mikhail Gorbachev",
+        "role": "Perestroika: enterprise and cooperative laws."
+      }
+    ],
+    "vocab": [
+      {
+        "term": "Command economy",
+        "def": "An economy run by central state plans, not the market."
+      },
+      {
+        "term": "War Communism",
+        "def": "1918–21 policy of requisitioning, nationalisation and banning private trade."
+      },
+      {
+        "term": "NEP",
+        "def": "1921 New Economic Policy allowing limited private trade."
+      },
+      {
+        "term": "Collectivisation",
+        "def": "Forcing peasants into state-controlled collective farms."
+      },
+      {
+        "term": "Kulak",
+        "def": "A 'rich' peasant — in practice any peasant labelled an enemy."
+      },
+      {
+        "term": "Gosplan",
+        "def": "The state planning committee."
+      },
+      {
+        "term": "Virgin Lands",
+        "def": "Khrushchev's scheme to farm new land in Kazakhstan and Siberia."
+      },
+      {
+        "term": "Second economy",
+        "def": "Illegal private trade and the black market."
+      }
+    ],
+    "misconceptions": [
+      {
+        "wrong": "The NEP was a return to capitalism.",
+        "right": "The state kept the 'commanding heights'; Lenin called it a temporary retreat."
+      },
+      {
+        "wrong": "The Five-Year Plans met all their targets.",
+        "right": "Heavy industry grew fast, but many targets were missed and statistics were often exaggerated."
+      },
+      {
+        "wrong": "Kulaks were a clearly defined wealthy class.",
+        "right": "The label was applied loosely to anyone who resisted collectivisation."
+      },
+      {
+        "wrong": "The Soviet economy collapsed only because of Gorbachev.",
+        "right": "Growth had slowed since the 1970s; his reforms made the shortages worse."
+      }
+    ]
+  },
+  "quizzes": {
+    "mcq": [
+      {
+        "id": "m1",
+        "s": "s1",
+        "q": "What replaced grain requisitioning in 1921?",
+        "options": [
+          "A tax in kind",
+          "Collective farms",
+          "Rationing",
+          "Free land"
+        ],
+        "answer": 0,
+        "why": "The NEP."
+      },
+      {
+        "id": "m2",
+        "s": "s2",
+        "q": "Which new industrial city symbolised the First Five-Year Plan?",
+        "options": [
+          "Kronstadt",
+          "Magnitogorsk",
+          "Novocherkassk",
+          "Gorky"
+        ],
+        "answer": 1,
+        "why": "Built from 1929 in the Urals."
+      },
+      {
+        "id": "m3",
+        "s": "s2",
+        "q": "What did many peasants do when forced into collective farms?",
+        "options": [
+          "Joined the Red Army",
+          "Slaughtered their livestock",
+          "Moved to Ukraine",
+          "Voted against it"
+        ],
+        "answer": 1,
+        "why": "Livestock numbers roughly halved."
+      },
+      {
+        "id": "m4",
+        "s": "s3",
+        "q": "Where was the Virgin Lands Scheme mainly carried out?",
+        "options": [
+          "Ukraine and Belarus",
+          "Kazakhstan and Siberia",
+          "The Baltic states",
+          "Moscow region"
+        ],
+        "answer": 1,
+        "why": "New land on the steppe."
+      },
+      {
+        "id": "m5",
+        "s": "s3",
+        "q": "Which Gorbachev policy cut state revenue in 1985?",
+        "options": [
+          "Glasnost",
+          "The anti-alcohol campaign",
+          "The 500 Days programme",
+          "Virgin Lands"
+        ],
+        "answer": 1,
+        "why": "Vodka taxes fell."
+      }
+    ],
+    "short": [
+      {
+        "id": "a1",
+        "s": "s1",
+        "q": "Which Bolshevik leader most strongly defended the NEP?",
+        "accept": [
+          "bukharin",
+          "nikolai bukharin"
+        ],
+        "answer": "Bukharin"
+      },
+      {
+        "id": "a2",
+        "s": "s2",
+        "q": "In which year did the First Five-Year Plan begin?",
+        "accept": [
+          "1928"
+        ],
+        "answer": "1928"
+      },
+      {
+        "id": "a3",
+        "s": "s3",
+        "q": "Which Soviet premier gave his name to the 1965 economic reform?",
+        "accept": [
+          "kosygin",
+          "alexei kosygin"
+        ],
+        "answer": "Kosygin"
+      }
+    ],
+    "chronology": [
+      {
+        "id": "c1",
+        "title": "Put these in order",
+        "items": [
+          "War Communism",
+          "NEP",
+          "First Five-Year Plan",
+          "Famine of 1932–33",
+          "Virgin Lands Scheme",
+          "Kosygin reform",
+          "Law on Cooperatives"
+        ]
+      }
+    ],
+    "matching": [
+      {
+        "id": "x1",
+        "title": "Match the period to the economic policy",
+        "pairs": [
+          [
+            "1918–21",
+            "War Communism"
+          ],
+          [
+            "1921–28",
+            "New Economic Policy"
+          ],
+          [
+            "1928–41",
+            "Five-Year Plans and collectivisation"
+          ],
+          [
+            "1954–64",
+            "Virgin Lands and chemicals"
+          ],
+          [
+            "1985–91",
+            "Perestroika"
+          ]
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e1",
+        "s": "s2",
+        "q": "Give precise evidence about the impact of collectivisation.",
+        "keywords": [
+          [
+            "1.8 million",
+            "kulak",
+            "livestock",
+            "famine",
+            "1932",
+            "1933",
+            "million",
+            "ukraine",
+            "mts",
+            "kolkhoz"
+          ]
+        ],
+        "model": "About 1.8 million people were deported as kulaks in 1930–31; livestock numbers roughly halved as peasants slaughtered animals; the famine of 1932–33 killed an estimated 5–7 million, especially in Ukraine and Kazakhstan; by the late 1930s nearly all farms were kolkhozy controlled through Machine Tractor Stations."
+      }
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "f1",
+      "s": "s1",
+      "q": "Why did Lenin replace War Communism with the NEP?",
+      "a": "Output collapse, famine of 1921–22, peasant risings and Kronstadt showed the regime could not survive without peasant cooperation.",
+      "hint": "1921 crises."
+    },
+    {
+      "id": "f2",
+      "s": "s2",
+      "q": "What did the Five-Year Plans achieve?",
+      "a": "Huge growth in heavy industry (coal about 35m to 128m tonnes 1928–37, steel about 4m to 18m), new cities, war production — at great human cost.",
+      "hint": "Heavy industry."
+    },
+    {
+      "id": "f3",
+      "s": "s2",
+      "q": "Why did Stalin collectivise agriculture?",
+      "a": "Secure grain for the cities and exports, fund industry, end the 'kulak' threat and bring the peasants under party control.",
+      "hint": "Grain and control."
+    },
+    {
+      "id": "f4",
+      "s": "s3",
+      "q": "How successful was the Virgin Lands Scheme?",
+      "a": "Record harvest in 1956, but soil erosion and poor planning followed; grain had to be imported after 1963.",
+      "hint": "Boom then dust."
+    },
+    {
+      "id": "f5",
+      "s": "s3",
+      "q": "Why did the economy stagnate under Brezhnev?",
+      "a": "Reforms diluted, huge military spending, waste in agriculture, black market; oil money hid the problems.",
+      "hint": "Era of stagnation."
+    },
+    {
+      "id": "f6",
+      "s": "s3",
+      "q": "Why did Gorbachev's economic reforms fail?",
+      "a": "They weakened central planning without creating a market; anti-alcohol campaign and falling oil prices cut revenue; shortages and inflation followed.",
+      "hint": "Neither plan nor market."
+    }
+  ],
+  "checklist": [
+    {
+      "id": "k1",
+      "level": "explain",
+      "text": "I can explain the move from War Communism to the NEP and the debate over industrialisation.",
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "id": "k2",
+      "level": "judge",
+      "text": "I can judge the successes and costs of the Five-Year Plans.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k3",
+      "level": "judge",
+      "text": "I can assess the impact of collectivisation, including the destruction of the kulaks.",
+      "sections": [
+        "s2"
+      ]
+    },
+    {
+      "id": "k4",
+      "level": "explain",
+      "text": "I can explain how priorities changed under Khrushchev and Brezhnev, including the Virgin Lands Scheme.",
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "id": "k5",
+      "level": "judge",
+      "text": "I can judge the impact of Gorbachev's economic reforms 1985–91.",
+      "sections": [
+        "s3"
+      ]
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": "q1",
+        "qtype": "u2c",
+        "label": "Teacher-created practice question",
+        "sections": [
+          "s1"
+        ],
+        "q": "How accurate is it to say that the New Economic Policy was successful in restoring the Soviet economy in the years 1921–28?"
+      },
+      {
+        "id": "pp-whi021c-june2024-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2024, Q3",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2024",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that there were many positive results from Brezhnev's economic policy in the years 1964–82?"
+      },
+      {
+        "id": "pp-whi021c-june2023-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1C, June 2023, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2023",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the reasons for the destruction of the ‘kulaks’ during the collectivisation of farming?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2023-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2023, Q3",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2023",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that Khrushchev's policies towards industry were a success but his agricultural policies were a failure?"
+      },
+      {
+        "id": "pp-whi021c-june2022-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2022, Q4",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2022",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "To what extent did the priorities change for industry in the years 1964–85?"
+      },
+      {
+        "id": "pp-whi021c-june2021-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1C, June 2021, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2021",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into methods used to collectivise agriculture under Stalin?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-june2021-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2021, Q4",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2021",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1982–91, the attempt to reform the economy was a complete failure?"
+      },
+      {
+        "id": "pp-whi021c-january2020-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, January 2020, Q2",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "January 2020",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "To what extent did Stalin's policies towards industry differ from Khrushchev's policies towards industry?"
+      },
+      {
+        "id": "pp-whi021c-january2019-1b",
+        "qtype": "u2b",
+        "label": "Past paper: WHI02/1C, January 2019, Q1(b) (Source 2 is in the paper)",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "January 2019",
+          "part": "Q1(b)"
+        },
+        "sections": [],
+        "q": "How much weight do you give to the evidence of Source 2 for an enquiry into the impact of collectivisation in the Russian countryside in the 1930s?\nExplain your answer using the source, the information given about it and your own knowledge of the historical context.",
+        "stem_note": "The enquiry is quoted from the paper; the rest of the question is the standard wording."
+      },
+      {
+        "id": "pp-whi021c-january2019-4",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, January 2019, Q4",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "January 2019",
+          "part": "Q4"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that, in the years 1964–85, the main reason for the weaknesses of the Soviet economy was the priority given to spending on the military?"
+      },
+      {
+        "id": "pp-whi021c-june2017-3",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2017, Q3",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2017",
+          "part": "Q3"
+        },
+        "sections": [],
+        "q": "To what extent did Khrushchev's economic policies succeed in improving agriculture in the Soviet Union in the years 1953–64?"
+      },
+      {
+        "id": "pp-whi021c-june2016-2",
+        "qtype": "u2c",
+        "label": "Past paper: WHI02/1C, June 2016, Q2",
+        "pp": {
+          "paper": "WHI02/1C",
+          "series": "June 2016",
+          "part": "Q2"
+        },
+        "sections": [],
+        "q": "How accurate is it to say that Stalin's policies towards industry and agriculture changed the Soviet economy to a communist system in the years 1929–41?"
+      }
+    ]
+  },
+  "stretch": [
+    {
+      "id": "t1",
+      "kind": "Relative significance",
+      "task": "Which did more lasting damage to Soviet agriculture: collectivisation or the Virgin Lands Scheme? Use duration and impact."
+    },
+    {
+      "id": "t2",
+      "kind": "Change and continuity",
+      "task": "How far did the priorities of Soviet economic policy change between Stalin and Brezhnev?"
+    }
+  ]
+}

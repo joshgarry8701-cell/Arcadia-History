@@ -11,7 +11,7 @@ Updated 22 October 2026. The International GCSE is now split across two years: Y
 | 9 | *Why did the First World War start?* | KS3 — criteria **missing** | 0 | None yet |
 | 10 | International GCSE History (4HI1), Paper 1: Germany 1918–45 and Civil Rights in the USA 1945–74 | **Verified**: paper structure, marks, question types and AO weightings. Level descriptors are pre-filled (paraphrased) and awaiting your tick | 10 (Germany 5, USA 5) | Spec Issue 4; Payne IGCSE Germany textbook; Arcadia IGCSE model paragraphs; June 2025 mark scheme; examiner reports November 2024 and Summer 2025 |
 | 11 | International GCSE History (4HI1), Paper 2: A4 Vietnam 1945–75 and B2 Medicine c1848–c1948 | **Verified**: as Year 10 | 10 (Vietnam 5, Medicine 5) | Spec Issue 4; Arcadia IGCSE model paragraphs; June 2025 paper and mark scheme; Paper 2A examiner reports November 2021 and June 2022 |
-| 12 | IAL History Unit 1, Option 1C: Germany, 1918–45 (WHI01/1C); Unit 2, Option 1B: China, 1900–76 (WHI02/1B) | **Verified**: Unit 1 2 × 25-mark essays, AO1 10 + AO3 15; Unit 2 Section A 10 + 15 (AO2, two sources), Section B one 25-mark essay (AO1). Generic levels pre-filled, awaiting your tick | 8 (Germany 4, China 4) | Spec Issue 6; How to answer WHI02 deck; January and May 2025 WHI02/1B papers; Layton, *From Kaiser to Führer*; WHI01 exemplars; model-answers deck; factor-question sheet; May 2025 paper and mark scheme |
+| 12 | IAL History Unit 1, Option 1C: Germany, 1918–45 (WHI01/1C); Unit 2, Option 1B: China, 1900–76 (WHI02/1B) or Option 1C: Russia, 1917–91 (WHI02/1C) | **Verified**: Unit 1 2 × 25-mark essays, AO1 10 + AO3 15; Unit 2 Section A 10 + 15 (AO2, two sources), Section B one 25-mark essay (AO1). Generic levels pre-filled, awaiting your tick | 12 (Germany 4, China 4, Russia 4) | Spec Issue 6; How to answer WHI02 deck; January and May 2025 WHI02/1B papers; Layton, *From Kaiser to Führer*; WHI01 exemplars; model-answers deck; factor-question sheet; May 2025 paper and mark scheme |
 | 13 | IAL History Unit 3, Option 1D: Civil Rights and Race Relations in the USA, 1865–2009 (WHI03/1D); Unit 4, Option 1C: Superpower Relations, 1943–90 (WHI04/1C) | **Verified**: Unit 3 Section A 25 (AO2, two sources), Section B one of two 25-mark essays (AO1); Unit 4 Section A 25 (AO3 20 + AO1 5, two historians' extracts), Section B one of two 25-mark essays (AO1) | 10 (Civil Rights 6: five key topics + themes; Superpowers 4) | Spec Issue 6; Question 2 essay-steps deck; factor-question sheet; training booklet; January 2021 mark scheme and January 2022 paper; WHI03 Summer 2025 examiner report; WHI04/1C papers June 2022 – January 2025, June 2025 mark scheme, January and Summer 2025 examiner reports |
 
 ## Year 10 — 4HI1 Paper 1 (International GCSE)
@@ -51,7 +51,20 @@ Unit 2: Breadth Study with Source Evaluation. 2 hours, 50 marks. Section A: Q1(a
 | 3 Economic changes 1900–76 | y12-cn-3 | January 2025 Q2 (river traffic vs railways); May 2025 Q1(b) stem (Great Leap Forward); teacher-created (1927–49) |
 | 4 Social and cultural changes 1900–76 | y12-cn-4 | May 2025 Q4 (barefoot doctors); January 2025 Q4 (Cultural Revolution); teacher-created (women) |
 
-Section A stems are shown without their sources, so they get formative feedback only until a source booklet is added. Unit 2 Russia (WHI02/1C) was last year's cohort and is not included.
+Section A stems are shown without their sources, so they get formative feedback only until a source booklet is added.
+
+## Year 12 — WHI02/1C (Russia)
+
+Same paper structure as China. Russia is the Unit 2 option the current Year 13 cohort sat in Year 12. Section A sources come only from the nominated (bold-italic) areas, listed on the Year 12 page.
+
+| Spec key topic | Site topic | Practice questions |
+|---|---|---|
+| 1 Communist government in the USSR 1917–91 | y12-ru-1 | Past papers June 2016 – June 2024 (Lenin's government, centralisation, Constituent Assembly, party unity, Stalin's control, Brezhnev's stagnation, Yeltsin 1991); teacher-created (centralisation) |
+| 2 Industrial and agricultural change 1917–91 | y12-ru-2 | Past papers (collectivisation and kulaks, Stalin and Khrushchev's industry, Virgin Lands/agriculture, Brezhnev, Gorbachev's reforms); teacher-created (NEP) |
+| 3 Control of the people 1917–91 | y12-ru-3 | Past papers (Khrushchev's liberalisation, Beria, terror, religion, Andropov, the arts under Khrushchev and Gorbachev); teacher-created (propaganda vs terror) |
+| 4 Social developments 1917–91 | y12-ru-4 | Past papers (education 1920s–30s, illiteracy, higher education, women, stable society); teacher-created (living conditions 1953–85) |
+
+Past papers included: June 2016, June 2017, January 2019, January 2020, June 2021, June 2022, June 2023, June 2024 (40 questions). Other series were only available as mark schemes, which do not print the question wording, so they are not included.
 
 ## Year 13 — WHI03/1D
 
@@ -117,7 +130,7 @@ Every past-paper question that could be found and read, mapped to its topic, fro
 |---|---|---|---|---|---|---|
 | y10 | 4HI1/01 | 10 | 128 | 128 | 8 | 24 |
 | y11 | 4HI1/02 | 10 | 112 | 112 | 17 | 24 |
-| y12 | WHI01/1C, WHI02/1B | 19 | 167 | 162 | 15 | 2 |
+| y12 | WHI01/1C, WHI02/1B, WHI02/1C | 27 | 207 | 162 | 15 | 2 |
 | y13 | WHI03/1D, WHI04/1C | 20 | 105 | 99 | 18 | 0 |
 
 **Sources and extracts.** The texts are not copied onto the site because they are still in copyright. Source questions show the captions printed in the paper and, where the paper is online, a link to the PDF that contains the full sources (IGCSE papers since 2021). For IAL papers, Pearson publishes the sources booklets on its past-papers page; only WHI02 January 2017 was found at a fixed link. IGCSE June 2019 and June 2020 copies online are answer booklets only, so those questions have no captions.
