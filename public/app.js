@@ -1,4 +1,4 @@
-/* Mr Garry's History Revision Hub — client.
+/* Arcadia British School History Department website — client.
    Runs in two modes:
    - server mode (normal website): talks to /api, sign-in required, progress saved on the server.
    - preview mode (window.HUB_PREVIEW set): content bundled in the page, progress saved in this browser only,
@@ -77,6 +77,9 @@ function LocalStore() {
 
 const Store = PREVIEW ? LocalStore() : ApiStore();
 const PHOTO = (window.HUB_PREVIEW && window.HUB_PREVIEW.photo) || 'mr-garry.webp';
+const BADGE = (window.HUB_PREVIEW && window.HUB_PREVIEW.badge) || 'arcadia-badge.png';
+const KELSEY_PHOTO = 'https://arcadia.sch.ae/assets/images/teachers/kelsey_daigault.webp';
+const SITE_NAME = 'Arcadia British School History Department';
 
 // ---------- state ----------
 const S = { user: null, catalog: null, topics: {}, progress: {}, subs: null, ai: null, ui: {}, save: 'saved', teacher: {} };
@@ -199,7 +202,7 @@ function shell(inner, opts = {}) {
   const u = S.user;
   return html`
   <header class="bar"><div class="bar-in">
-    <button class="brand" data-act="go" data-to="" aria-label="Home">${raw(ICON.mark)}<div><span>Mr Garry's<i class="hide-sm"> · Arcadia British School Dubai</i></span><b>History Revision Hub</b></div></button>
+    <button class="brand" data-act="go" data-to="" aria-label="Home"><img class="badge" src="${BADGE}" alt="" width="34" height="36"><div><span>Arcadia British School<i class="hide-sm"> · Dubai</i></span><b>History Department</b></div></button>
     <span id="savestate" class="small muted hide-sm" aria-live="polite"></span>
     ${u ? html`<button class="iconbtn" data-act="search" aria-label="Search (press /)">${raw(ICON.search)}<span class="hide-sm">Search</span></button>` : ''}
     <button class="iconbtn" data-act="theme" aria-label="Switch light or dark mode">${raw(ICON.moon)}</button>
@@ -219,7 +222,7 @@ const yearNum = (c) => c.year.replace(/\D/g, '');
 
 // ---------- views: login / home / course ----------
 function viewLogin(err) {
-  return html`<header class="bar"><div class="bar-in"><span class="brand">${raw(ICON.mark)}<div><span>Mr Garry's<i class="hide-sm"> · Arcadia British School Dubai</i></span><b>History Revision Hub</b></div></span><button class="iconbtn" data-act="theme" aria-label="Switch light or dark mode">${raw(ICON.moon)}</button></div></header>
+  return html`<header class="bar"><div class="bar-in"><span class="brand"><img class="badge" src="${BADGE}" alt="" width="34" height="36"><div><span>Arcadia British School<i class="hide-sm"> · Dubai</i></span><b>History Department</b></div></span><button class="iconbtn" data-act="theme" aria-label="Switch light or dark mode">${raw(ICON.moon)}</button></div></header>
   <main><form class="panel login" id="loginform">
     <h1>Sign in</h1>
     <p class="muted">Use the username and code Mr Garry gave you.</p>
@@ -234,13 +237,17 @@ function viewLogin(err) {
 function viewHome() {
   const cs = S.catalog.courses.courses;
   return shell(html`
-    <section class="hero hero-photo">
-      <img class="teacher" src="${PHOTO}" alt="Mr Garry" width="132" height="132">
+    <section class="hero dept-hero">
+      <img class="dept-badge" src="${BADGE}" alt="Arcadia British School badge" width="92" height="96">
       <div>
-        <p class="eyebrow">History · Key Stage 3 to International A Level</p>
+        <p class="eyebrow">Arcadia British School · History Department</p>
         <h1>Choose your year</h1>
-        <p>Learn the content, test your memory, practise your writing and act on feedback.</p>
+        <p>Learn the content, test your memory, practise your writing and act on feedback — from Key Stage 3 to International A Level.</p>
       </div>
+    </section>
+    <section class="team" aria-label="Our History teachers">
+      <figure class="member"><img class="teacher" src="${KELSEY_PHOTO}" alt="Mrs Kelsey Daignault" width="104" height="104" loading="lazy" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'teacher initials',textContent:'KD'}))"><figcaption><b>Mrs Kelsey Daignault</b><span>Head of History</span></figcaption></figure>
+      <figure class="member"><img class="teacher" src="${PHOTO}" alt="Mr Joshua Garry" width="104" height="104"><figcaption><b>Mr Joshua Garry</b><span>History Teacher (A Level) · Exceptional Learners Lead</span></figcaption></figure>
     </section>
     <section class="years" aria-label="Year groups">
       ${cs.map((c) => {
@@ -1467,7 +1474,7 @@ document.addEventListener('change', async (e) => {
     } catch (err) { tmsg('Import failed: ' + err.message, true); }
   }
   if (el.id === 'restore' && el.files[0]) {
-    try { const b = JSON.parse(await el.files[0].text()); if (b.format !== 'history-hub-backup') throw new Error('Not a Revision Hub backup.'); S.teacher.pendingRestore = b; render(); } catch (err) { tmsg(err.message, true); }
+    try { const b = JSON.parse(await el.files[0].text()); if (b.format !== 'history-hub-backup') throw new Error('Not a History Department website backup.'); S.teacher.pendingRestore = b; render(); } catch (err) { tmsg(err.message, true); }
   }
 });
 document.addEventListener('submit', async (e) => {
@@ -1550,7 +1557,7 @@ async function boot() {
     await loadAllTopics();
     render();
   } catch (e) {
-    root.innerHTML = fmt(html`<main><div class="notice bad">The Revision Hub could not load: ${e.message}. Check your connection and refresh.</div></main>`);
+    root.innerHTML = fmt(html`<main><div class="notice bad">The History Department website could not load: ${e.message}. Check your connection and refresh.</div></main>`);
   }
 }
 const th = lsGet('hub-theme', null); if (th) document.documentElement.dataset.theme = th;

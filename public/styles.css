@@ -7,16 +7,19 @@
   --ink: #17202f;
   --muted: #566176;
   --line: #d9dee8;
-  --accent: #22468e;
+  --accent: #1a2b68;
   --accent-ink: #ffffff;
-  --course: #22468e;
+  --course: #1a2b68;
+  --royal: #164194;
+  --gold: #dca900;
+  --gold-ink: #7a5d00;
   --red: #b83227;
   --amber: #a8670c;
   --green: #2c7a4b;
   --red-bg: #fbe9e7;
   --amber-bg: #fdf1dc;
   --green-bg: #e3f3e9;
-  --focus: #f0a400;
+  --focus: #dca900;
   --display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
   --body: "Atkinson Hyperlegible", "Segoe UI", system-ui, -apple-system, sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
@@ -25,14 +28,14 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #0f131b; --surface: #171d28; --sunk: #1d2433; --ink: #e7ebf2; --muted: #a0aabb; --line: #2b3446;
-    --accent: #8eb0f2; --accent-ink: #0f131b; --course: #8eb0f2;
+    --accent: #8eb0f2; --accent-ink: #0f131b; --course: #8eb0f2; --royal: #8eb0f2; --gold: #f0c33c; --gold-ink: #f0c33c;
     --red: #f08a7e; --amber: #f0b45a; --green: #74c99a; --red-bg: #3a1d1b; --amber-bg: #3a2c14; --green-bg: #17331f;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #0f131b; --surface: #171d28; --sunk: #1d2433; --ink: #e7ebf2; --muted: #a0aabb; --line: #2b3446;
-  --accent: #8eb0f2; --accent-ink: #0f131b; --course: #8eb0f2;
+  --accent: #8eb0f2; --accent-ink: #0f131b; --course: #8eb0f2; --royal: #8eb0f2; --gold: #f0c33c; --gold-ink: #f0c33c;
   --red: #f08a7e; --amber: #f0b45a; --green: #74c99a; --red-bg: #3a1d1b; --amber-bg: #3a2c14; --green-bg: #17331f;
   color-scheme: dark;
 }
@@ -56,7 +59,7 @@ button, input, select, textarea { font: inherit; color: inherit; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
 /* ---------- top bar ---------- */
-.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: var(--surface); border-bottom: 1px solid var(--line); }
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: var(--surface); border-bottom: 3px solid var(--gold); }
 .bar-in { max-width: 1072px; margin: 0 auto; display: flex; align-items: center; gap: 10px; padding-block: 10px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); min-width: 0; margin-right: auto; background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
 .brand svg { flex: none; }
@@ -296,3 +299,32 @@ mark.tk-qual, mark.tk-time, mark.tk-evid, mark.tk-arg, mark.tk-judg { background
 .tk-key { display: grid; gap: 4px; margin-top: 8px; }
 .tk-k { border-left: 4px solid var(--tk); padding-left: 8px; }
 .tk-k b { color: var(--tk); }
+
+/* ---------- Arcadia British School branding: navy, royal blue and gold, school badge ---------- */
+.brand .badge { flex: none; width: 34px; height: auto; display: block; }
+.brand span { color: var(--gold-ink); }
+.brand b { color: var(--accent); }
+.dept-hero { grid-template-columns: auto minmax(0, 1fr); align-items: center; gap: 20px; padding: 22px 24px; border-radius: var(--radius);
+  background: linear-gradient(120deg, #1a2b68 0%, #164194 100%); color: #fff; border-bottom: 4px solid #dca900; }
+.dept-hero > div { display: grid; gap: 8px; min-width: 0; }
+.dept-hero .eyebrow { color: #f0c33c; }
+.dept-hero p { color: #e3e9f7; }
+.dept-hero h1 { color: #fff; }
+.dept-badge { width: 92px; height: auto; filter: drop-shadow(0 2px 6px rgba(0,0,0,.35)); }
+.team { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; }
+.member { margin: 0; display: flex; align-items: center; gap: 14px; padding: 12px 14px; background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--gold); border-radius: var(--radius); min-width: 0; }
+.member .teacher { width: 72px; height: 72px; flex: none; }
+.member figcaption { display: grid; gap: 2px; min-width: 0; }
+.member figcaption b { font-family: var(--display); color: var(--accent); }
+.member figcaption span { font-size: .9rem; color: var(--muted); }
+.teacher.initials { display: grid; place-items: center; font-family: var(--display); font-weight: 700; color: #fff; background: var(--royal); }
+@media (max-width: 560px) { .dept-hero { grid-template-columns: 1fr; padding: 18px 16px; } .dept-badge { width: 64px; } }
+/* Dark mode: lift the deep Arcadia navy and gold so course-coloured text stays readable */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) :is(.year .num, .timeline .d, .linkish, .gtimer) { color: color-mix(in srgb, var(--course) 40%, #ffffff); }
+  :root:not([data-theme="light"]) :is(.tabs button[aria-current="page"], .seg-ctl button[aria-pressed="true"]) { color: #fff; }
+  :root:not([data-theme="light"]) .dept-hero { background: linear-gradient(120deg, #13204f 0%, #123576 100%); }
+}
+:root[data-theme="dark"] :is(.year .num, .timeline .d, .linkish, .gtimer) { color: color-mix(in srgb, var(--course) 40%, #ffffff); }
+:root[data-theme="dark"] :is(.tabs button[aria-current="page"], .seg-ctl button[aria-pressed="true"]) { color: #fff; }
+:root[data-theme="dark"] .dept-hero { background: linear-gradient(120deg, #13204f 0%, #123576 100%); }

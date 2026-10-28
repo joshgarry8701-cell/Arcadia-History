@@ -1,6 +1,6 @@
-# Mr Garry's History Revision Hub
+# Arcadia British School History Department website
 
-Revision website for History at Arcadia British School Dubai: Learn pages, knowledge quizzes, flashcards with spaced review, personal learning checklists, exam practice with writing frames, stretch tasks, and optional AI feedback on written answers with teacher review.
+The History Department's revision website at Arcadia British School Dubai (formerly "Mr Garry's History Revision Hub"): Learn pages, knowledge quizzes, flashcards with spaced review, personal learning checklists, exam practice with writing frames, stretch tasks, and optional AI feedback on written answers with teacher review.
 
 - **No dependencies.** Runs on Node.js 22.5 or newer using built-in SQLite. Nothing to `npm install`.
 - **One folder = the whole site.** Code, content (JSON) and the database file (`data/hub.sqlite`).
