@@ -1,6 +1,6 @@
 # Mr Garry's History Revision Hub — Content Handbook
 
-Arcadia British School Dubai · generated 2026-10-25 · 7 courses · 59 topics
+Arcadia British School Dubai · generated 2026-11-16 · 7 courses · 63 topics
 
 Everything the site teaches, in one document: exam structures, assessment objectives, question-type guides, mark-scheme levels, examiner-report advice, writing frames (sentence starters), annotated models, and for every topic the Learn notes, timeline, key people, vocabulary, misconceptions, quizzes, flashcards, checklist, exam questions and stretch tasks.
 
@@ -13,7 +13,7 @@ Everything the site teaches, in one document: exam structures, assessment object
 - [Year 9: The Industrial Revolution and the causes of the First World War](#y9)
 - [Year 10: International GCSE History — Paper 1 Depth Studies](#y10)
 - [Year 11: International GCSE History — Paper 2 Investigation and Breadth Study](#y11)
-- [Year 12: International A Level History — Germany and China](#y12)
+- [Year 12: International A Level History — Germany, China and Russia](#y12)
 - [Year 13: International A Level History — Civil Rights and Superpowers](#y13)
 
 <a id="y7"></a>
@@ -22,6 +22,137 @@ Everything the site teaches, in one document: exam structures, assessment object
 *How do historians find out what really happened in the past?*
 
 **Assessment:** KS3 department criteria — criteria not yet supplied, so AI feedback is formative only. Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added.
+
+### Exam guide: question types
+
+#### AP question — Describe two features of … `ks3d`
+
+KS3 AP exam · null marks · about 8 minutes · Knowledge and understanding
+
+**How it is worded:** Describe two features of …
+
+**What it asks:** Give two different, accurate features of the topic, each backed up with a precise supporting detail. You do not need to explain causes or give a judgement.
+
+**Step by step**
+
+1. Underline what you have to describe and any dates.
+2. Choose two different features you know well.
+3. For each feature: say what it was in one clear sentence.
+4. Add one precise detail for each (a date, a name, a number or an event).
+5. Keep it to two features — no introduction or conclusion needed.
+
+**Planning and timing:** About 8 minutes: 1 minute choosing two features, 3 minutes per feature, 1 minute checking names and dates.
+
+**Success criteria**
+
+- Two different features
+- Each feature stated accurately
+- A precise supporting detail for each feature
+
+**Common mistakes**
+
+- Writing about only one feature
+- Explaining causes or giving opinions instead of describing
+- Vague detail with no names, dates or numbers
+- Listing lots of features with no detail
+
+**Writing frame — sentence starters**
+
+1. One feature of … was …
+2. For example, … (precise detail: date, name, number or event).
+3. A second feature of … was …
+4. For example, … (precise detail).
+
+*Lighter support (headings only):* Feature 1 + precise detail → Feature 2 + precise detail
+
+#### AP question — What can you learn from Source A about …? `ks3s`
+
+KS3 AP exam · null marks · about 10 minutes · Source skills: inference and provenance
+
+**How it is worded:** What can you learn from Source A about …?
+
+**What it asks:** Make inferences: say what the source suggests about the question, not just what it shows. Back each inference with a detail from the source and your own knowledge, and think about who made the source, when and why.
+
+**Step by step**
+
+1. Underline exactly what the question asks you to learn about.
+2. Read the provenance: who made the source, when, and why?
+3. Find two details in the source that help answer the question.
+4. For each detail, make an inference: 'This suggests that …'.
+5. Support each inference with your own knowledge.
+6. Finish with one sentence on what the provenance means for what the source can (and cannot) tell us.
+
+**Planning and timing:** About 10 minutes: 2 minutes reading the source and provenance, 7 minutes writing two inferences, 1 minute checking.
+
+**Success criteria**
+
+- At least two inferences that answer the question
+- Each inference supported with a detail from the source
+- Own knowledge used to support or test the inference
+- A comment on provenance: who, when, why
+
+**Common mistakes**
+
+- Only describing what you can see or copying the source
+- Inferences with no detail from the source
+- Writing everything you know about the topic and ignoring the source
+- Saying a source is 'biased' without explaining why it matters
+
+**Writing frame — sentence starters**
+
+1. Source A suggests that … because it shows/says …
+2. This is supported by my own knowledge that …
+3. Source A also suggests that … because …
+4. This is supported/challenged by …
+5. Source A was made by … in … to …, so it is useful for showing … but it may not tell us …
+
+*Lighter support (headings only):* Inference 1 + detail from the source → Own knowledge to support it → Inference 2 + detail from the source → Own knowledge to support it → Provenance: who, when, why — what can it tell us?
+
+#### AP question — How far do you agree? `ks3j`
+
+KS3 AP exam · null marks · about 20 minutes · Explanation and judgement
+
+**How it is worded:** ‘[Statement].’ How far do you agree?
+
+**What it asks:** Weigh the factor in the statement against at least one other factor, using precise evidence, and reach a clear judgement that answers 'how far'. Use the Arcadia writing method in every paragraph.
+
+**Step by step**
+
+1. Decide your judgement before you write: agree, partly agree or disagree.
+2. Introduction: give your judgement with a qualifier (to a large / some / limited extent).
+3. Paragraph 1: the factor in the statement — Point, Evidence, Explain, Judge.
+4. Paragraph 2 (and 3): other factors — Point, Evidence, Explain, Judge.
+5. Compare the factors: which mattered most and why? Use duration, scope, effectiveness or impact.
+6. Conclusion: answer 'how far' and give the reason for your judgement.
+
+**Planning and timing:** About 20 minutes: 3 minutes planning (use the chronology timeline you made to order your evidence), 15 minutes writing, 2 minutes checking qualifiers and connectives.
+
+**Success criteria**
+
+- A clear judgement with a qualifier in the introduction and conclusion
+- The factor in the statement explained with precise evidence
+- At least one other factor explained with precise evidence
+- Factors compared directly, using a criterion
+- Time connectives, arguing connectives and linking phrases (Arcadia writing method)
+
+**Common mistakes**
+
+- Only writing about the factor in the statement
+- Retelling the story instead of explaining
+- Listing factors without comparing them
+- A conclusion that sits on the fence with no reason
+
+**Writing frame — sentence starters**
+
+1. Introduction: I agree to a large / some / limited extent that … because …
+2. P – Topic sentence with a qualifier: One reason … was … / To a large extent …
+3. E – Precise evidence in time order, using time connectives: At first … / Then … / Later … / Finally …
+4. E – Explain with arguing connectives: This meant that … / However … / This was more important because …
+5. J – Judgement: This shows that … / Therefore …
+6. Second paragraph: On the other hand, … was also important because … (P, E, E, J)
+7. Conclusion: Overall, I agree to a … extent. The most important reason was … because it … (duration, scope, effectiveness or impact).
+
+*Lighter support (headings only):* Introduction with a qualified judgement → PEEJ: the factor in the statement → PEEJ: another factor → Compare: which mattered most and why? → Conclusion that answers 'how far'
 
 ### The Norman Conquest — Autumn 2
 
@@ -307,33 +438,13 @@ William was crowned in Westminster Abbey on Christmas Day, 25 December 1066. It 
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
   Describe two claims to the English throne in 1066.
-- *Teacher-created practice question*
-  Explain why the Battle of Stamford Bridge was important for the outcome of the Battle of Hastings.
-- *Teacher-created practice question (central enquiry)*
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about how the Normans won the Battle of Hastings?
+  > **Source A** — A scene from the Bayeux Tapestry, an embroidery probably made in the 1070s for Bishop Odo of Bayeux, William's half-brother. It tells the Norman story of 1066.: In the middle of the battle, Norman knights on horseback charge an English shield wall on a hill. Some Normans are falling. Duke William pushes back his helmet to show his face to his men, because a rumour had spread that he had been killed. Bishop Odo, holding a club, rallies young soldiers. Later scenes show English soldiers being cut down as they leave the hill.
+- *Teacher-created practice question (central enquiry)* — AP question — How far do you agree?, null marks
   'William won the Battle of Hastings mainly because of luck.' How far do you agree?
-
-*Guide for "Describe two claims to the English throne in 1066."*
-
-1. Pick the two claimants you know best.
-2. For each: name them, say who they were, and say what their claim rested on.
-3. Add one precise detail for each (a date, a person, an event).
-
-- Two different claimants named
-- The basis of each claim stated accurately
-- At least one precise supporting detail for each
-
-**Writing frame — sentence starters**
-
-1. One claim to the throne was made by … He was …
-2. His claim was based on …
-3. A precise detail that supports this is …
-4. A second claim was made by … He was …
-5. His claim was based on …
-6. A precise detail is …
-
-*Lighter support (headings only):* Claim 1: who + basis + detail → Claim 2: who + basis + detail
 
 **Annotated model answer**
 
@@ -350,71 +461,6 @@ William was crowned in Westminster Abbey on Christmas Day, 25 December 1066. It 
 > *A different claimant; two parts to the claim; notes these come from Norman sources.*
 
 *An example, not the only way to answer.*
-
-*Guide for "Explain why the Battle of Stamford Bridge was important for the outcome of the Battle of Hastings."*
-
-1. Identify two or three effects of Stamford Bridge (e.g. tiredness, losses, the south left undefended).
-2. For each, give precise evidence.
-3. Explain how that effect changed what happened at Hastings.
-4. Finish by linking the effects together.
-
-- Identifies at least two consequences of Stamford Bridge
-- Supports each with precise evidence
-- Explains clearly how each affected Hastings
-- Shows a link between the consequences
-
-**Writing frame — sentence starters**
-
-1. POINT: One reason Stamford Bridge mattered was …
-2. EVIDENCE: For example, …
-3. EXPLAIN: This meant that … because …
-4. JUDGEMENT: Therefore this helped William win at Hastings by …
-
-*Lighter support (headings only):* Point → Evidence → Explain → Judgement / link back
-
-**Annotated model answer**
-
-> Stamford Bridge was important because it left the south coast undefended when William arrived.
->
-> *POINT — answers the question directly.*
-
-> Harold was in the north defeating Hardrada on 25 September, and William landed at Pevensey on 28 September, just three days later.
->
-> *EVIDENCE — two precise dates show the timing.*
-
-> This meant William could land his army and horses safely and choose where to wait, instead of fighting on the beach while his men were still unloading.
->
-> *EXPLAIN — shows the consequence for William.*
-
-> So Stamford Bridge gave William a strong start before the battle even began.
->
-> *JUDGEMENT/LINK — ties the paragraph back to the outcome at Hastings.*
-
-*An example, not the only way to answer.*
-
-*Guide for "'William won the Battle of Hastings mainly because of luck.' How far do you agree?"*
-
-1. Decide your judgement before you write — agree, partly agree or disagree.
-2. Paragraph on luck, with evidence and explanation.
-3. Paragraphs on one or two other factors.
-4. Compare: which factor mattered most and why? Use the judgement questions.
-5. Conclusion that answers 'how far' and explains your reasoning.
-
-- Clear judgement in the introduction and conclusion
-- Luck explained with precise evidence
-- At least one other factor explained with precise evidence
-- Factors compared directly, not just listed
-- Conclusion gives a reason for the judgement
-
-**Writing frame — sentence starters**
-
-1. Introduction: I agree / partly agree / disagree because …
-2. Luck helped William because … For example, … This meant …
-3. However, another important factor was … For example, … This meant …
-4. Comparing them, … mattered more because it lasted longer / affected more of the battle / led more directly to victory …
-5. Overall, …
-
-*Lighter support (headings only):* Judgement → Luck: P–E–E–J → Other factor: P–E–E–J → Compare (duration / scope / effectiveness / impact) → Conclusion
 
 **Annotated model answer**
 
@@ -599,52 +645,13 @@ A biased source is not useless. It may be excellent evidence of what its maker b
 
 **Exam practice**
 
-- *Teacher-created practice question*
-  Study a photograph of Dubai Creek from the late 1940s, showing wooden dhows and people unloading goods. What can you infer about life in Dubai at that time? Give two inferences, each supported with evidence from the source.
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of a primary source.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about life in Dubai before the discovery of oil?
+  > **Source A** — A black-and-white photograph taken by the British explorer Wilfred Thesiger on the Trucial Coast in the late 1940s. It is now held by the Pitt Rivers Museum, Oxford.: The photograph shows wooden dhows moored along Dubai Creek. Men are carrying sacks and bundles of goods from the boats onto the shore. Behind them are low buildings made of coral stone and palm fronds, with a wind tower. There are no cars, cranes or tall buildings.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "A biased source is useless to historians." How far do you agree?
-
-*Guide for "Study a photograph of Dubai Creek from the late 1940s, showing wooden dhows and people unloading goods. What can you infer about life in Dubai at that time? Give two inferences, each supported with evidence from the source."*
-
-1. Look closely and list three things you can SEE.
-2. For each, ask: what does this SUGGEST about life then?
-3. Write two inferences using "I can see… This suggests… Therefore…".
-
-- Two separate inferences
-- Each backed by a precise detail from the source
-- Goes beyond describing what is shown
-
-**Writing frame — sentence starters**
-
-1. I can see…
-2. This suggests…
-3. Therefore I can infer…
-4. I can also see…
-5. This suggests…
-6. Therefore I can infer…
-
-*Lighter support (headings only):* Inference 1: see → suggests → infer → Inference 2: see → suggests → infer
-
-*Guide for ""A biased source is useless to historians." How far do you agree?"*
-
-1. Decide your view and how strongly (qualifier).
-2. Give one example where bias limits a source.
-3. Give one example where a biased source is still very useful.
-4. Finish with a judgement.
-
-- A qualified claim (e.g. "I largely disagree")
-- Precise examples of sources
-- Explains using "because / this meant that / therefore"
-- Reaches a clear judgement
-
-**Writing frame — sentence starters**
-
-1. P: I agree / disagree to a large / some extent that…
-2. E: For example, a source such as… shows…
-3. E: This means that… because…
-4. J: Therefore, overall…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Annotated model answer**
 
@@ -808,49 +815,13 @@ Other calendars exist too. The Islamic (Hijri) calendar counts from the Hijra in
 
 **Exam practice**
 
-- *Teacher-created practice question*
-  Put these events in chronological order and give the century of each: the formation of the UAE; the Battle of Hastings; Mansa Musa's pilgrimage; the Hijra.
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the BCE/CE dating system.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about how historians measure time?
+  > **Source A** — A teacher-created timeline made for this revision task (it is not a historical source), using dates from your Year 7 lessons.: The timeline runs from left to right. It starts at c. 3000 BCE (Bronze Age settlement at Hili) and passes 622 CE (the Hijra, start of the Hijri calendar), 1066 (Battle of Hastings, 11th century), 1324 (Mansa Musa's pilgrimage, 14th century) and ends at 1971 (formation of the UAE, 20th century). The gap between 3000 BCE and 622 CE is drawn the same size as the gap between 1324 and 1971.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "Chronology is the most important skill a historian needs." How far do you agree?
-
-*Guide for "Put these events in chronological order and give the century of each: the formation of the UAE; the Battle of Hastings; Mansa Musa's pilgrimage; the Hijra."*
-
-1. Write the date beside each event.
-2. Order them earliest to latest.
-3. Work out each century (hundreds + 1).
-
-- Correct order
-- Correct centuries
-- Dates included
-
-**Writing frame — sentence starters**
-
-1. First came… in … (… century).
-2. Next came… in … (… century).
-3. Then… in … (… century).
-4. Finally… in … (… century).
-
-*Lighter support (headings only):* Order + date + century for each
-
-*Guide for ""Chronology is the most important skill a historian needs." How far do you agree?"*
-
-1. Explain why chronology matters, with an example.
-2. Explain another skill that also matters.
-3. Decide which matters more, using a qualifier.
-
-- Qualified claim
-- Precise examples
-- Explaining connectives
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: I agree to some / a large extent that…
-2. E: For example, without chronology…
-3. E: This means that… However…
-4. J: Overall…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Stretch and challenge**
 
@@ -993,30 +964,13 @@ A real example: in 1066 the death of Edward the Confessor (January) triggered a 
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of a good historical enquiry question.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about the causes of the crisis of 1066?
+  > **Source A** — A scene from the Bayeux Tapestry, an embroidery probably made in the 1070s for Bishop Odo of Bayeux, William of Normandy's half-brother.: The scene shows the death of King Edward the Confessor in January 1066. Edward lies in bed surrounded by his household, with one man (often identified as Harold Godwinson) reaching towards him. In the next scene, men offer Harold the crown, and he is shown sitting on the throne as king.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "The final event is always the most important cause." How far do you agree? Use Alphonse the Camel and the events of 1066 in your answer.
-- *Teacher-created practice question*
-  Turn this factual question into two good historical enquiry questions: "When was oil discovered in Dubai?" Explain why your questions are better.
-
-*Guide for ""The final event is always the most important cause." How far do you agree? Use Alphonse the Camel and the events of 1066 in your answer."*
-
-1. Explain what a trigger is, using Alphonse.
-2. Explain a deeper cause (e.g. Edward having no children).
-3. Weigh them using qualifiers and reach a judgement.
-
-- Uses trigger / long-term correctly
-- Precise 1066 evidence
-- Explaining connectives
-- Qualified judgement
-
-**Writing frame — sentence starters**
-
-1. P: I agree / disagree to a large / some extent…
-2. E: For example, Alphonse… / In 1066…
-3. E: This meant that… therefore…
-4. J: Overall, the most important cause was… because…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Annotated model answer**
 
@@ -1037,24 +991,6 @@ A real example: in 1066 the death of Edward the Confessor (January) triggered a 
 > *J: judgement.*
 
 *An example, not the only way to answer.*
-
-*Guide for "Turn this factual question into two good historical enquiry questions: "When was oil discovered in Dubai?" Explain why your questions are better."*
-
-1. Use a different enquiry stem for each.
-2. Explain what evidence each would need.
-3. Explain why each needs a judgement.
-
-- Two genuine enquiry questions
-- Explains why they need evidence and judgement
-
-**Writing frame — sentence starters**
-
-1. Question 1: How significant…?
-2. This is better because…
-3. Question 2: Why…?
-4. This is better because…
-
-*Lighter support (headings only):* Two questions + why each is better
 
 **Stretch and challenge**
 
@@ -1193,49 +1129,13 @@ A balanced judgement can use the frame: On one hand… However… This showed th
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of Mansa Musa's pilgrimage to Mecca in 1324.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about how Europeans saw the Mali Empire?
+  > **Source A** — A section of the Catalan Atlas, an illustrated world map made in Majorca in 1375, attributed to the workshop of Abraham Cresques. It is held by the Bibliothèque nationale de France.: The map shows a crowned African ruler, Mansa Musa, seated on a throne in West Africa. He wears a golden crown, holds a golden sceptre and raises a large gold nugget. A rider on a camel approaches him. A label next to him describes him as the richest and most noble lord of the region because of the gold found in his land.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "We should not judge people in the past by today's standards." How far do you agree?
-- *Teacher-created practice question*
-  Explain why people at the time and historians later might see the same event differently. Use an example.
-
-*Guide for ""We should not judge people in the past by today's standards." How far do you agree?"*
-
-1. Explain why context matters.
-2. Explain why we can still judge (e.g. people disagreed at the time).
-3. Reach a qualified judgement.
-
-- Qualified claim
-- Uses context and presentism
-- Balanced
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: On one hand, I agree to some extent that…
-2. E: This is because the values at the time were… For example…
-3. E: However, this showed that… because people at the time…
-4. J: Therefore, overall…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
-
-*Guide for "Explain why people at the time and historians later might see the same event differently. Use an example."*
-
-1. Define perspective and interpretation.
-2. Give an example of each (e.g. Cairo memories vs Catalan Atlas).
-3. Explain why they differ.
-
-- Accurate definitions
-- Precise example
-- Explains reasons for difference
-
-**Writing frame — sentence starters**
-
-1. P: People at the time saw events from their own perspective, whereas…
-2. E: For example, in 1324… but in 1375 the Catalan Atlas…
-3. E: This is because…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Stretch and challenge**
 
@@ -1403,71 +1303,13 @@ Ask yourself: What is my argument? How strongly do I want to claim it? Which evi
 
 **Exam practice**
 
-- *Teacher-created practice question*
-  Which was more significant for Dubai: the discovery of oil in 1966 or the formation of the UAE in 1971? Write one Arcadia (PEEJ) paragraph.
-- *Teacher-created practice question*
-  "History isn't simply a story of progress." Explain this statement using an example of change in Dubai.
-
-*Guide for "Which was more significant for Dubai: the discovery of oil in 1966 or the formation of the UAE in 1971? Write one Arcadia (PEEJ) paragraph."*
-
-1. Decide which and how strongly (qualifier).
-2. Choose your best piece of evidence.
-3. Explain using a criterion and a connective.
-4. End with a judgement that compares both.
-
-- Qualified claim
-- Precise evidence (dates, examples)
-- Uses a significance criterion
-- Explaining connective
-- Judgement comparing both
-
-**Writing frame — sentence starters**
-
-1. P: … was highly / somewhat more significant than … because…
-2. E: For example, in …
-3. E: This meant that… As a result… Therefore…
-4. J: Overall, … was more significant because…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
-
-**Annotated model answer**
-
-> The discovery of oil in 1966 was arguably more significant for Dubai than the formation of the UAE, to a large extent because of its economic impact.
->
-> *P: qualified claim.*
-
-> Oil revenue paid for new infrastructure, which helped projects such as the Dubai World Trade Centre, opened in 1979.
->
-> *E: precise evidence.*
-
-> This meant Dubai could grow far faster than before, and as a result it became a centre of trade and travel.
->
-> *E: explaining connectives.*
-
-> However, the formation of the UAE in 1971 gave Dubai security and unity, so overall oil was more significant for growth, while 1971 was more significant politically.
->
-> *J: judgement that compares.*
-
-*An example, not the only way to answer.*
-
-*Guide for ""History isn't simply a story of progress." Explain this statement using an example of change in Dubai."*
-
-1. Pick one development.
-2. Explain how it was progress for one group.
-3. Explain how it might be decline or loss for another, or what stayed the same.
-
-- Precise example
-- Progress for whom?
-- Continuity or decline considered
-
-**Writing frame — sentence starters**
-
-1. P: History is not simply progress because…
-2. E: For example, after 1966…
-3. E: This meant that for … it was progress, but for …
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the formation of the UAE in 1971.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about change in Dubai?
+  > **Source A** — Two photographs of Dubai Creek: the first taken in the late 1940s by the explorer Wilfred Thesiger, the second a modern photograph taken from the same area in the 2020s.: In the first photograph, wooden dhows unload goods beside low coral-stone buildings and a wind tower. In the second, wooden dhows are still moored on the Creek and still carry cargo, but behind them are glass skyscrapers, roads full of cars and the Burj Khalifa in the distance.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
+  "The discovery of oil in 1966 was the most significant event in the history of Dubai." How far do you agree?
 
 **Stretch and challenge**
 
@@ -1482,6 +1324,137 @@ Ask yourself: What is my argument? How strongly do I want to claim it? Which evi
 *How did voyages change the world, and why did Africans come to Tudor England?*
 
 **Assessment:** KS3 department criteria — criteria not yet supplied, so AI feedback is formative only. Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added.
+
+### Exam guide: question types
+
+#### AP question — Describe two features of … `ks3d`
+
+KS3 AP exam · null marks · about 8 minutes · Knowledge and understanding
+
+**How it is worded:** Describe two features of …
+
+**What it asks:** Give two different, accurate features of the topic, each backed up with a precise supporting detail. You do not need to explain causes or give a judgement.
+
+**Step by step**
+
+1. Underline what you have to describe and any dates.
+2. Choose two different features you know well.
+3. For each feature: say what it was in one clear sentence.
+4. Add one precise detail for each (a date, a name, a number or an event).
+5. Keep it to two features — no introduction or conclusion needed.
+
+**Planning and timing:** About 8 minutes: 1 minute choosing two features, 3 minutes per feature, 1 minute checking names and dates.
+
+**Success criteria**
+
+- Two different features
+- Each feature stated accurately
+- A precise supporting detail for each feature
+
+**Common mistakes**
+
+- Writing about only one feature
+- Explaining causes or giving opinions instead of describing
+- Vague detail with no names, dates or numbers
+- Listing lots of features with no detail
+
+**Writing frame — sentence starters**
+
+1. One feature of … was …
+2. For example, … (precise detail: date, name, number or event).
+3. A second feature of … was …
+4. For example, … (precise detail).
+
+*Lighter support (headings only):* Feature 1 + precise detail → Feature 2 + precise detail
+
+#### AP question — What can you learn from Source A about …? `ks3s`
+
+KS3 AP exam · null marks · about 10 minutes · Source skills: inference and provenance
+
+**How it is worded:** What can you learn from Source A about …?
+
+**What it asks:** Make inferences: say what the source suggests about the question, not just what it shows. Back each inference with a detail from the source and your own knowledge, and think about who made the source, when and why.
+
+**Step by step**
+
+1. Underline exactly what the question asks you to learn about.
+2. Read the provenance: who made the source, when, and why?
+3. Find two details in the source that help answer the question.
+4. For each detail, make an inference: 'This suggests that …'.
+5. Support each inference with your own knowledge.
+6. Finish with one sentence on what the provenance means for what the source can (and cannot) tell us.
+
+**Planning and timing:** About 10 minutes: 2 minutes reading the source and provenance, 7 minutes writing two inferences, 1 minute checking.
+
+**Success criteria**
+
+- At least two inferences that answer the question
+- Each inference supported with a detail from the source
+- Own knowledge used to support or test the inference
+- A comment on provenance: who, when, why
+
+**Common mistakes**
+
+- Only describing what you can see or copying the source
+- Inferences with no detail from the source
+- Writing everything you know about the topic and ignoring the source
+- Saying a source is 'biased' without explaining why it matters
+
+**Writing frame — sentence starters**
+
+1. Source A suggests that … because it shows/says …
+2. This is supported by my own knowledge that …
+3. Source A also suggests that … because …
+4. This is supported/challenged by …
+5. Source A was made by … in … to …, so it is useful for showing … but it may not tell us …
+
+*Lighter support (headings only):* Inference 1 + detail from the source → Own knowledge to support it → Inference 2 + detail from the source → Own knowledge to support it → Provenance: who, when, why — what can it tell us?
+
+#### AP question — How far do you agree? `ks3j`
+
+KS3 AP exam · null marks · about 20 minutes · Explanation and judgement
+
+**How it is worded:** ‘[Statement].’ How far do you agree?
+
+**What it asks:** Weigh the factor in the statement against at least one other factor, using precise evidence, and reach a clear judgement that answers 'how far'. Use the Arcadia writing method in every paragraph.
+
+**Step by step**
+
+1. Decide your judgement before you write: agree, partly agree or disagree.
+2. Introduction: give your judgement with a qualifier (to a large / some / limited extent).
+3. Paragraph 1: the factor in the statement — Point, Evidence, Explain, Judge.
+4. Paragraph 2 (and 3): other factors — Point, Evidence, Explain, Judge.
+5. Compare the factors: which mattered most and why? Use duration, scope, effectiveness or impact.
+6. Conclusion: answer 'how far' and give the reason for your judgement.
+
+**Planning and timing:** About 20 minutes: 3 minutes planning (use the chronology timeline you made to order your evidence), 15 minutes writing, 2 minutes checking qualifiers and connectives.
+
+**Success criteria**
+
+- A clear judgement with a qualifier in the introduction and conclusion
+- The factor in the statement explained with precise evidence
+- At least one other factor explained with precise evidence
+- Factors compared directly, using a criterion
+- Time connectives, arguing connectives and linking phrases (Arcadia writing method)
+
+**Common mistakes**
+
+- Only writing about the factor in the statement
+- Retelling the story instead of explaining
+- Listing factors without comparing them
+- A conclusion that sits on the fence with no reason
+
+**Writing frame — sentence starters**
+
+1. Introduction: I agree to a large / some / limited extent that … because …
+2. P – Topic sentence with a qualifier: One reason … was … / To a large extent …
+3. E – Precise evidence in time order, using time connectives: At first … / Then … / Later … / Finally …
+4. E – Explain with arguing connectives: This meant that … / However … / This was more important because …
+5. J – Judgement: This shows that … / Therefore …
+6. Second paragraph: On the other hand, … was also important because … (P, E, E, J)
+7. Conclusion: Overall, I agree to a … extent. The most important reason was … because it … (duration, scope, effectiveness or impact).
+
+*Lighter support (headings only):* Introduction with a qualified judgement → PEEJ: the factor in the statement → PEEJ: another factor → Compare: which mattered most and why? → Conclusion that answers 'how far'
 
 ### Explorers, Encounters and Empire — Autumn 1
 
@@ -1633,30 +1606,13 @@ The label is not useless: European Atlantic and Indian Ocean voyages after 1492 
 
 **Exam practice**
 
-- *Teacher-created practice question*
-  "Age of Exploration" is a fair name for the period 1400–1600. How far do you agree?
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
   Describe two features of the Indian Ocean trade world before 1498.
-
-*Guide for ""Age of Exploration" is a fair name for the period 1400–1600. How far do you agree?"*
-
-1. Give the case for the label with evidence (e.g. 1492).
-2. Give the case against with precise evidence (Ibn Battuta, Zheng He).
-3. Reach a qualified judgement.
-
-- Qualified claim
-- Precise evidence on both sides
-- Explaining connectives
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: The label is fair / unfair to a large / some extent because…
-2. E: For example, … in …
-3. E: This means that…
-4. J: Therefore, overall…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about travel and trade in the 14th century?
+  > **Source A** — From the Rihla (travel account) of Ibn Battuta, a scholar from Morocco. He dictated it from memory in the 1350s to the writer Ibn Juzayy, for the ruler of Morocco.: In this part of the Rihla, Ibn Battuta describes arriving at the East African port of Kilwa. He praises it as one of the most beautiful and well-built towns he has seen, describes its Muslim ruler giving gifts to scholars and travellers, and mentions merchants trading in gold that came from the African interior.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
+  "Age of Exploration" is a fair name for the period 1400–1600. How far do you agree?
 
 **Annotated model answer**
 
@@ -1677,21 +1633,6 @@ The label is not useless: European Atlantic and Indian Ocean voyages after 1492 
 > *J: judgement.*
 
 *An example, not the only way to answer.*
-
-*Guide for "Describe two features of the Indian Ocean trade world before 1498."*
-
-1. Pick two features (e.g. monsoon sailing, port cities, merchants).
-2. Add a precise detail for each.
-
-- Two different features
-- Precise detail for each
-
-**Writing frame — sentence starters**
-
-1. One feature was… For example…
-2. A second feature was… For example…
-
-*Lighter support (headings only):* Feature 1 + detail → Feature 2 + detail
 
 **Stretch and challenge**
 
@@ -1853,49 +1794,13 @@ A popular claim says the navigator Ahmad ibn Majid guided da Gama to India. Hist
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the spice trade before 1500.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about where European navigators got their knowledge?
+  > **Source A** — An astrolabe made in the Islamic world in the medieval period. Examples are held by the British Museum and the History of Science Museum, Oxford.: A round brass instrument about the size of a large plate. It has a movable pointer and a pierced metal plate marked with the positions of stars, and the names of stars are engraved in Arabic. Lines on the back allow the user to measure the height of the sun or a star above the horizon.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "Gold was the main reason Europeans travelled further." How far do you agree?
-- *Teacher-created practice question*
-  Explain how knowledge from beyond Europe made European voyages possible.
-
-*Guide for ""Gold was the main reason Europeans travelled further." How far do you agree?"*
-
-1. Explain the gold/economic motive with spice evidence.
-2. Explain at least one other motive with evidence.
-3. Judge, using a qualifier, and say how they linked.
-
-- Qualified claim
-- Precise evidence
-- Shows links between motives
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: Gold was to a large / some extent the main reason because…
-2. E: For example, spices passed through…
-3. E: This meant that… However, God / Glory…
-4. J: Therefore, overall…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
-
-*Guide for "Explain how knowledge from beyond Europe made European voyages possible."*
-
-1. Choose two examples (compass, astrolabe, pilots, lateen sail).
-2. Say where each came from.
-3. Explain how it helped ships sail further.
-
-- Two examples
-- Origin of each
-- Explains how it helped
-
-**Writing frame — sentence starters**
-
-1. P: Knowledge from beyond Europe was highly important because…
-2. E: For example, the compass from China…
-3. E: This meant that… As a result…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Stretch and challenge**
 
@@ -2039,69 +1944,13 @@ The exchange was not equal. Europe gained new foods and wealth; Indigenous Ameri
 
 **Exam practice**
 
-- *Teacher-created practice question*
-  Christopher Columbus: explorer or invader? Reach a judgement.
-- *Teacher-created practice question*
-  Explain two consequences of the Columbian Exchange.
-
-*Guide for "Christopher Columbus: explorer or invader? Reach a judgement."*
-
-1. Give evidence for "explorer".
-2. Give evidence for "invader".
-3. Decide, using a qualifier; you can argue he was both.
-
-- Qualified claim
-- Precise evidence for both
-- Considers Taíno perspective
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: Columbus was mainly an explorer / invader, to a large / some extent, because…
-2. E: For example, in 1492…
-3. E: This meant that… However…
-4. J: Therefore, overall…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
-
-**Annotated model answer**
-
-> Columbus is better described as an invader than simply an explorer, although he was both.
->
-> *P: qualified.*
-
-> He was a skilled navigator who crossed the Atlantic in 1492, but his own journal noted that the Taíno could easily be conquered and made to work.
->
-> *E: precise, both sides.*
-
-> This meant his arrival began forced labour and Spanish settlement, which, with disease, devastated the Taíno within decades.
->
-> *E: explains consequences.*
-
-> Therefore, from the Taíno perspective especially, "invader" is the more accurate description.
->
-> *J: judgement with perspective.*
-
-*An example, not the only way to answer.*
-
-*Guide for "Explain two consequences of the Columbian Exchange."*
-
-1. Pick two consequences (e.g. new diets; disease and population collapse).
-2. Give precise examples.
-3. Explain who was affected and how.
-
-- Two consequences
-- Precise examples
-- Explains effects
-
-**Writing frame — sentence starters**
-
-1. P: One consequence was…
-2. E: For example…
-3. E: This meant that…
-4. J: A second consequence… Overall, the most serious was…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the Columbian Exchange.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about Columbus's aims in the Caribbean?
+  > **Source A** — From Columbus's journal of his first voyage, 1492, written for the Spanish monarchs who paid for the voyage. It survives mainly in a later summary by the friar Bartolomé de las Casas.: In entries from October 1492, Columbus describes meeting the Taíno people. He writes that they are gentle, unarmed and generous, and that they would easily become Christians and good servants. He repeatedly asks them where gold can be found and notes the small gold ornaments some of them wear.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
+  "Christopher Columbus should be remembered as an invader rather than an explorer." How far do you agree?
 
 **Stretch and challenge**
 
@@ -2248,30 +2097,13 @@ The contrast matters: in the Indian Ocean, Europeans were one relatively weak ne
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the Mexica (Aztec) Empire before 1519.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about the fall of Tenochtitlan?
+  > **Source A** — From the Florentine Codex, compiled in the 1570s by Nahua (Indigenous Mexican) authors and artists working with the Spanish friar Bernardino de Sahagún.: One illustration shows Mexica people lying sick with smallpox, their bodies covered in sores, while others care for them. Other pages show Spanish soldiers fighting alongside thousands of Indigenous allies, and canoes and boats on the lake around Tenochtitlan during the siege.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "Spanish weapons were the main reason the Mexica Empire fell." How far do you agree?
-- *Teacher-created practice question*
-  Explain why Portugal's experience in the Indian Ocean was different from Spain's in the Americas.
-
-*Guide for ""Spanish weapons were the main reason the Mexica Empire fell." How far do you agree?"*
-
-1. Explain how technology helped, with evidence.
-2. Explain at least one other factor with stronger evidence.
-3. Judge with a qualifier.
-
-- Qualified claim
-- Precise evidence (numbers, dates, names)
-- Explains links between factors
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: I agree / disagree to a large / some extent because…
-2. E: For example, Cortés had… while…
-3. E: This meant that… as a result…
-4. J: Therefore, the most important factor was…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Annotated model answer**
 
@@ -2292,25 +2124,6 @@ The contrast matters: in the Indian Ocean, Europeans were one relatively weak ne
 > *J: judgement.*
 
 *An example, not the only way to answer.*
-
-*Guide for "Explain why Portugal's experience in the Indian Ocean was different from Spain's in the Americas."*
-
-1. Describe what Portugal found in the Indian Ocean.
-2. Describe what Spain did in Mexico.
-3. Explain why they differed.
-
-- Clear comparison
-- Precise evidence for both
-- Explains reasons
-
-**Writing frame — sentence starters**
-
-1. P: Portugal's experience was very different because…
-2. E: In 1498 at Calicut… whereas in 1519–21…
-3. E: This meant that…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Stretch and challenge**
 
@@ -2467,51 +2280,13 @@ Use credible sources (museums, universities, published historians) and record wh
 
 **Exam practice**
 
-- *Teacher-created practice question*
-  How significant was your chosen traveller's journey, and how should they be remembered? (AP1 research question, practice plan)
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the transatlantic slave trade.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about who gained and who lost from European expansion?
+  > **Source A** — Data from the Trans-Atlantic Slave Trade Database (SlaveVoyages), built by an international team of historians from shipping records since the 1990s.: The database records tens of thousands of slave-trading voyages. Its estimates show that over 12 million Africans were forced onto ships across the Atlantic between the 1500s and 1800s, and that well over a million died during the crossing. It also lists the ships, their owners and the European and American ports they sailed from.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "Everyone involved in European expansion was either a winner or a loser." How far do you agree?
-
-*Guide for "How significant was your chosen traveller's journey, and how should they be remembered? (AP1 research question, practice plan)"*
-
-1. State your traveller and dates.
-2. Apply two or three criteria with precise evidence.
-3. Consider an alternative perspective.
-4. Judge how significant they were and how they should be remembered.
-
-- Criteria named and applied
-- Precise evidence
-- Alternative perspective
-- Qualified judgement
-
-**Writing frame — sentence starters**
-
-1. P: … was highly / partly significant because…
-2. E: In terms of scale / impact / duration…, for example…
-3. E: This meant that… However, from the perspective of…
-4. J: Therefore, … should be remembered as…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
-
-*Guide for ""Everyone involved in European expansion was either a winner or a loser." How far do you agree?"*
-
-1. Show who clearly gained or lost.
-2. Show where the model oversimplifies (ordinary Europeans; resistance).
-3. Judge with a qualifier.
-
-- Qualified claim
-- Precise evidence for several groups
-- Recognises resistance and agency
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: I agree to some extent because…
-2. E: For example, Spain gained… while…
-3. E: However, this oversimplifies because…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Stretch and challenge**
 
@@ -2546,7 +2321,7 @@ This was part of England's growing international role: more trade, exploration a
 Reasons were often mixed. Historians group them into push and pull factors:
 
 - Royal and noble households: Catherine of Aragon arrived from Spain in 1501 with a household that included Africans. Spain and Portugal already had large African populations.
-- Trade: merchants traded with Morocco, West Africa and the Iberian peninsula. Mary Fillis came from Morocco around 1583.
+- Trade: merchants traded with Morocco, West Africa and the Iberian peninsula.
 - Skills: Africans brought skills that were valued, such as music (John Blanke, trumpeter) and diving (Jacques Francis).
 - Escaping Spanish slavery: Diego escaped Spanish enslavement in Panama and joined Francis Drake in 1572.
 - Privateering: English ships attacked Spanish and Portuguese shipping, and Africans on board sometimes ended up in England.
@@ -2582,7 +2357,6 @@ Both use archives, but records only survive for some people, and are usually wri
 | 1507 | John Blanke, "the blacke trumpet", appears in royal accounts. |
 | 1545 | The Mary Rose sinks; Jacques Francis later dives on the wreck. |
 | 1572 | Diego joins Francis Drake at Nombre de Dios, Panama. |
-| c.1583 | Mary Fillis arrives in London from Morocco. |
 | 1596 | A Privy Council letter allows Caspar van Senden to take Africans abroad, only with their masters' consent; the scheme fails. |
 
 **Key people**
@@ -2590,7 +2364,6 @@ Both use archives, but records only survive for some people, and are usually wri
 - **John Blanke** — Trumpeter to Henry VII and Henry VIII.
 - **Jacques Francis** — Salvage diver; gave evidence in court in 1548.
 - **Diego** — Escaped Spanish slavery; sailed with Drake.
-- **Mary Fillis** — Moroccan-born servant and seamstress in London; baptised 1597.
 - **Miranda Kaufmann** — Historian, author of "Black Tudors" (2017).
 - **Onyeka Nubia** — Historian, author of "Blackamoores" (2013).
 
@@ -2617,7 +2390,7 @@ Both use archives, but records only survive for some people, and are usually wri
 3. Who arrived from Spain in 1501 with a household that included Africans? Elizabeth I / **Catherine of Aragon** / Mary Queen of Scots / Anne Boleyn — *To marry Prince Arthur.*
 4. Which is a PULL factor? Escaping Spanish slavery / **Valued skills and paid work in England** / War at home / Famine — *Pull = attraction.*
 5. Diego came to England after… Being born in London / **Escaping Spanish slavery and joining Drake** / Marrying a king / Studying at Oxford — *1572, Panama.*
-6. Mary Fillis came from… Spain / **Morocco** / Portugal / Benin — *Around 1583.*
+6. Jacques Francis was valued in England for his… Wealth / **Diving skills** / Royal title / Land — *Salvage diving.*
 7. Who wrote "Blackamoores" (2013)? Miranda Kaufmann / **Onyeka Nubia** / Peter Fryer / David Olusoga — *Onyeka Nubia.*
 8. Who wrote "Black Tudors" (2017)? **Miranda Kaufmann** / Onyeka Nubia / Simon Schama / Mary Beard — *Miranda Kaufmann.*
 
@@ -2629,14 +2402,14 @@ Both use archives, but records only survive for some people, and are usually wri
 4. What do we call a factor that attracts people to a place? — **Pull factor**
 5. Name a church record where Black Tudors appear. — **Parish register**
 
-**Chronology — Put these in order** (correct order): Catherine of Aragon arrives → John Blanke in royal accounts → Mary Rose sinks → Diego joins Drake → Mary Fillis arrives in London → Van Senden scheme fails
+**Chronology — Put these in order** (correct order): Catherine of Aragon arrives → John Blanke in royal accounts → Mary Rose sinks → Diego joins Drake → Van Senden scheme fails
 
 **Matching — Match the person to the reason they came**
 
 - John Blanke = Royal service as a musician
 - Jacques Francis = Valued diving skills
 - Diego = Escape from Spanish slavery
-- Mary Fillis = Trade links with Morocco
+- Africans with Catherine of Aragon = Arrived in a royal household from Spain
 
 **Evidence recall**
 
@@ -2654,7 +2427,6 @@ Both use archives, but records only survive for some people, and are usually wri
 | Push vs pull | Push: makes you leave. Pull: attracts you. |  |
 | Privateering | Licensed attacks on enemy ships. |  |
 | Diego's reason | Escaped Spanish slavery; joined Drake in 1572. |  |
-| Mary Fillis's reason | Came from Morocco via trade links, around 1583. |  |
 | "Blackamoores" | Onyeka Nubia, 2013. |  |
 | "Black Tudors" | Miranda Kaufmann, 2017. |  |
 
@@ -2668,44 +2440,13 @@ Both use archives, but records only survive for some people, and are usually wri
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
   Describe two reasons why Africans came to Tudor England.
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about Africans in Tudor England?
+  > **Source A** — From Miranda Kaufmann's book "Black Tudors: The Untold Story" (2017). Kaufmann is a historian who researched parish registers, court cases and royal accounts.: Kaufmann explains that she found records of over 360 Africans living in Britain between 1500 and 1640. They appear in baptism and burial registers, wage lists and court records, and worked as musicians, sailors, divers, servants and craftspeople in towns such as London, Bristol and Plymouth.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "Africans came to Tudor England mainly because of royal service." How far do you agree?
-
-*Guide for "Describe two reasons why Africans came to Tudor England."*
-
-1. Pick two different reasons.
-2. Add a named person or date for each.
-
-- Two different reasons
-- Named example for each
-
-**Writing frame — sentence starters**
-
-1. One reason was… For example…
-2. A second reason was… For example…
-
-*Lighter support (headings only):* Reason + example → Reason + example
-
-*Guide for ""Africans came to Tudor England mainly because of royal service." How far do you agree?"*
-
-1. Explain royal service with evidence.
-2. Explain at least two other reasons with named people.
-3. Judge with a qualifier.
-
-- Qualified judgement
-- Named individuals
-- Explaining connectives
-
-**Writing frame — sentence starters**
-
-1. P: Royal service was the main reason to a large / some extent…
-2. E: For example, John Blanke…
-3. E: However, … This meant that…
-4. J: Therefore, overall…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Annotated model answer**
 
@@ -2713,11 +2454,11 @@ Both use archives, but records only survive for some people, and are usually wri
 >
 > *P: qualified.*
 
-> John Blanke was paid as a royal trumpeter from 1507, but Diego came after escaping Spanish slavery in 1572, and Mary Fillis arrived from Morocco around 1583 through trade links.
+> John Blanke was paid as a royal trumpeter from 1507, but Diego came after escaping Spanish slavery in 1572, and Jacques Francis was valued for his diving skills.
 >
 > *E: precise, several reasons.*
 
-> This means royal courts explain some arrivals, but trade and conflict with Spain explain more of the later ones.
+> This means royal courts explain some arrivals, but skills and conflict with Spain explain more of the others.
 >
 > *E: explains.*
 
@@ -2729,16 +2470,16 @@ Both use archives, but records only survive for some people, and are usually wri
 
 **Stretch and challenge**
 
-- **Choice or force?:** Sort the four stories by how much choice each person had. Is "push and pull" too simple for their journeys?
+- **Choice or force?:** Sort the three stories by how much choice each person had. Is "push and pull" too simple for their journeys?
 - **Historians compare:** What does Onyeka argue that Kaufmann also shows? Is there anything they seem to disagree on?
-- **Missing records:** Why might women like Mary Fillis be harder to find in the records than men like John Blanke?
+- **Missing records:** Why might women be harder to find in the records than men like John Blanke?
 - **GCSE link:** The Pearson GCSE Migrants course studies migrants from c800 to the present. Compare Tudor African migrants with one later group: what is similar, what is different?
 
-#### Four lives: Four Black Tudor lives: Blanke, Francis, Diego and Fillis
+#### Three lives: Three Black Tudor lives: Blanke, Francis and Diego
 
 `y8-af-2` · Why did Africans come to Tudor England?
 
-Four people, four very different journeys: a royal trumpeter, a salvage diver, a sailor who crossed the world with Drake, and a Moroccan woman who chose to be baptised in London. Their stories tell us a great deal about Tudor England.
+Three people, three very different journeys: a royal trumpeter, a salvage diver and a sailor who crossed the world with Drake. Their stories tell us a great deal about Tudor England.
 
 ##### 1. John Blanke, royal trumpeter
 
@@ -2789,22 +2530,6 @@ In November 1578 he was badly wounded by arrows on Mocha Island off Chile. He di
 - Joined Drake 1572; sailed from Plymouth November 1577.
 - Died 1579 near the Moluccas.
 
-##### 4. Mary Fillis, Moroccan convert
-
-Mary Fillis was the daughter of Fillis of Morisco, a Moroccan basket weaver and shovel maker. She came to London around 1583, aged about six or seven.
-
-She worked as a servant for John Barker, a merchant, and later for Millicent Porter, a seamstress in East Smithfield.
-
-In 1597, around the age of 20, she asked to be baptised. The ceremony took place at St Botolph's, Aldgate. Choosing baptism suggests she wanted to belong to her community; it may also have helped her future.
-
-She lived in London while Morocco and England were building an alliance against Spain. After Porter died in 1599, we do not know what happened to her.
-
-*Key terms:* Morocco, servant, seamstress, baptism, convert
-
-*Precise evidence:*
-- Arrived around 1583.
-- Baptised 1597 at St Botolph's, Aldgate.
-
 **Timeline**
 
 | Date | Event |
@@ -2818,17 +2543,14 @@ She lived in London while Morocco and England were building an alliance against 
 | 1572 | Diego joins Drake in Panama. |
 | 1577 | Diego sails on Drake's voyage around the world. |
 | 1579 | Diego dies near the Moluccas. |
-| 1597 | Mary Fillis is baptised at St Botolph's, Aldgate. |
 
 **Key people**
 
 - **John Blanke** — Royal trumpeter (records 1507–1512).
 - **Jacques Francis** — Salvage diver, born c.1527 on Arguin Island.
 - **Diego** — Escaped Spanish slavery; sailed with Drake; died 1579.
-- **Mary Fillis** — Moroccan-born servant and seamstress; baptised 1597.
 - **Piero Paolo Corsi** — Venetian salvage contractor who employed Francis.
 - **Francis Drake** — English sea captain and privateer.
-- **Millicent Porter** — Seamstress in East Smithfield who employed Fillis.
 
 **Vocabulary**
 
@@ -2837,15 +2559,12 @@ She lived in London while Morocco and England were building an alliance against 
 - **Testimony** — Evidence given in court.
 - **Circumnavigation** — Sailing all the way around the world.
 - **Cimarrons** — Africans who had escaped Spanish slavery in Panama.
-- **Baptism** — A Christian ceremony of joining the Church.
-- **Convert** — Someone who changes religion.
 
 **Misconceptions**
 
 - ✗ John Blanke was a slave at court. → ✓ He was paid wages, petitioned for a pay rise and got it.
 - ✗ Africans could not give evidence in Tudor courts. → ✓ Jacques Francis gave evidence in 1548 and the court accepted it.
 - ✗ Diego was Drake's slave. → ✓ He had escaped slavery, and evidence suggests he served under a contract like other crew members.
-- ✗ Baptism meant someone was forced to convert. → ✓ Mary Fillis asked to be baptised.
 
 **Knowledge quiz (multiple choice)** — answer in bold
 
@@ -2856,31 +2575,26 @@ She lived in London while Morocco and England were building an alliance against 
 5. Why is Jacques Francis's 1548 testimony important? He was the king's lawyer / **He is the first known African to give evidence in an English court** / He confessed to theft / He was a judge — *High Court of Admiralty.*
 6. Where did Diego join Drake in 1572? Plymouth / **Nombre de Dios, Panama** / London / Morocco — *He ran through gunfire.*
 7. Who were the Cimarrons? Spanish soldiers / **Africans who had escaped Spanish slavery in Panama** / English sailors / Moroccan merchants — *Diego helped Drake ally with them.*
-8. Where was Mary Fillis baptised in 1597? Westminster Abbey / **St Botolph's, Aldgate** / St Paul's Cathedral / Canterbury — *In London.*
 
 **Short answers**
 
 1. Which instrument did John Blanke play? — **Trumpet**
 2. In which year did Jacques Francis give evidence in court? — **1548**
 3. Which sea captain did Diego sail with? — **Francis Drake**
-4. Which country did Mary Fillis come from? — **Morocco**
-5. In which year was Mary Fillis baptised? — **1597**
 
-**Chronology — Put these events in order** (correct order): Blanke in royal accounts → Blanke in the Tournament Roll → Mary Rose sinks → Francis gives evidence → Diego joins Drake → Diego dies near the Moluccas → Fillis is baptised
+**Chronology — Put these events in order** (correct order): Blanke in royal accounts → Blanke in the Tournament Roll → Mary Rose sinks → Francis gives evidence → Diego joins Drake → Diego dies near the Moluccas
 
 **Matching — Match the person to their story**
 
 - John Blanke = Petitioned Henry VIII for a pay rise
 - Jacques Francis = Gave evidence in the High Court of Admiralty
 - Diego = Sailed around the world with Drake
-- Mary Fillis = Asked to be baptised in 1597
 
 **Matching — Match the person to their job**
 
 - John Blanke = Trumpeter
 - Jacques Francis = Salvage diver
 - Diego = Manservant and interpreter
-- Mary Fillis = Servant and seamstress
 
 **Evidence recall**
 
@@ -2901,69 +2615,30 @@ She lived in London while Morocco and England were building an alliance against 
 | Diego joins Drake | 1572 at Nombre de Dios, Panama. |  |
 | Diego's roles | Manservant and interpreter (Spanish and English). |  |
 | Diego's death | Wounded on Mocha Island 1578; died 1579 near the Moluccas. |  |
-| Mary Fillis | Moroccan, arrived around 1583; servant then seamstress. |  |
-| Fillis's baptism | 1597, St Botolph's, Aldgate, aged about 20. |  |
 
 **Personal learning checklist** (rate red / amber / green)
 
 - [Describe — red] I can describe the life of John Blanke using dates and evidence.
-- [Describe — red] I can describe the lives of Jacques Francis, Diego and Mary Fillis.
+- [Describe — red] I can describe the lives of Jacques Francis and Diego.
 - [Explain — amber] I can explain what each life tells us about Tudor England.
 - [Explain — amber] I can explain what the sources about each person can and cannot tell us.
 - [Judge — green] I can judge whose story is most significant for understanding Black Tudors.
 
 **Exam practice**
 
-- *Teacher-created practice question*
-  What does the life of John Blanke tell us about the position of Africans at the Tudor court?
-- *Teacher-created practice question*
-  Whose story tells us most about Africans in Tudor England: John Blanke, Jacques Francis, Diego or Mary Fillis?
-
-*Guide for "What does the life of John Blanke tell us about the position of Africans at the Tudor court?"*
-
-1. Give evidence of wages and the petition.
-2. Use the Tournament Roll and wedding gift.
-3. Note what we cannot know.
-
-- Precise evidence
-- Explains what it reveals
-- Notes limits
-
-**Writing frame — sentence starters**
-
-1. P: Blanke's life suggests that some Africans were valued at court…
-2. E: For example, he was paid 8d a day from 1507…
-3. E: This shows that… However, we cannot know…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
-
-*Guide for "Whose story tells us most about Africans in Tudor England: John Blanke, Jacques Francis, Diego or Mary Fillis?"*
-
-1. Choose your strongest story and explain what it reveals.
-2. Compare with at least one other story.
-3. Judge with a qualifier.
-
-- Comparison
-- Precise evidence
-- Criterion named
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: … tells us most because…
-2. E: For example, in …
-3. E: This reveals that… whereas …
-4. J: Therefore, overall…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of John Blanke's life at the Tudor court.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about John Blanke's position at the court of Henry VIII?
+  > **Source A** — The Westminster Tournament Roll, an illustrated roll made in 1511 to record the tournament celebrating the birth of Henry VIII's son. It is held by the College of Arms.: The roll shows a procession of royal trumpeters on horseback, each wearing the same royal livery and blowing a trumpet hung with a banner. One of them is a Black man wearing a turban, generally identified as John Blanke. He appears twice on the roll, riding in his place among the other trumpeters.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
+  "John Blanke's story tells us more about Africans in Tudor England than any other Black Tudor life." How far do you agree?
 
 **Stretch and challenge**
 
-- **Own words:** Which of the four do we come closest to hearing in their own words? What stops us hearing them more?
+- **Own words:** Which of the three do we come closest to hearing in their own words? What stops us hearing them more?
 - **Arguin to Southampton:** Map Jacques Francis's journey. What does it show about Tudor England's links to the wider world?
 - **Diego and Drake:** Drake is famous; Diego is not. Why might that be, and should it change?
-- **Choosing baptism:** Why might Mary Fillis have chosen baptism? Give two possible reasons and say which the evidence supports better.
 
 #### Free or enslaved?: Free or enslaved? Status, experience and memory
 
@@ -2976,7 +2651,7 @@ Were Africans in Tudor England free or enslaved? What were their lives like? And
 English law in the 16th century did not clearly recognise slavery. The evidence suggests most Africans in Tudor England were treated as free people:
 
 - They were paid wages (John Blanke, Jacques Francis, Diego).
-- They were baptised, married and buried in parish churches (Mary Fillis, John Blanke).
+- They were baptised, married and buried in parish churches, and John Blanke married in 1512.
 - They could give evidence in court (Jacques Francis, 1548).
 
 In the 1580s the Portuguese doctor Hector Nunes complained to the Court of Requests that an African man he had bought refused to serve him, and that he had no remedy under English common law. The Pearson GCSE Migrants course uses this petition as evidence about African freedom in Tudor England.
@@ -3026,7 +2701,6 @@ How we remember Black Tudors matters. Their stories show that Black British hist
 | 1562 | John Hawkins begins English slave-trading voyages to Spanish America. |
 | 1580s | Hector Nunes complains to the Court of Requests that he cannot force an African man to serve him. |
 | 1596 | Privy Council open letter to Caspar van Senden (18 July). |
-| 1597 | Mary Fillis is baptised. |
 | 1601 | A harsher draft proclamation is written but never issued. |
 
 **Key people**
@@ -3073,7 +2747,7 @@ How we remember Black Tudors matters. Their stories show that Black British hist
 4. Which doctor petitioned the Court of Requests about an African servant? — **Hector Nunes**
 5. What is a widely believed idea that is not true called? — **Myth**
 
-**Chronology — Put these in order** (correct order): Francis gives evidence in court → Hawkins begins slave-trading voyages → Nunes petition → Privy Council letter to van Senden → Fillis baptised → Draft proclamation (never issued)
+**Chronology — Put these in order** (correct order): Francis gives evidence in court → Hawkins begins slave-trading voyages → Nunes petition → Privy Council letter to van Senden → Draft proclamation (never issued)
 
 **Matching — Match the evidence to what it shows**
 
@@ -3113,29 +2787,13 @@ How we remember Black Tudors matters. Their stories show that Black British hist
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the everyday lives of Africans in Tudor England.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about the status of Africans in Tudor England?
+  > **Source A** — Court records of the High Court of Admiralty, 1548, in which the African diver Jacques Francis gave evidence in a case about goods salvaged from a wrecked Venetian ship near Southampton. Francis had also worked on salvaging the Mary Rose.: The records show that Jacques Francis, described as a diver born in Africa, was allowed to give sworn evidence in an English court. The opposing side tried to have his evidence rejected by calling him a slave and an infidel, but the court still recorded his testimony.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "Africans in Tudor England were free." How far do you agree?
-- *Teacher-created practice question*
-  Explain why the claim that Elizabeth I expelled Africans from England is a myth.
-
-*Guide for ""Africans in Tudor England were free." How far do you agree?"*
-
-1. Evidence of freedom (wages, baptism, court, Nunes).
-2. Evidence of limits (servants, prejudice, slave trade abroad).
-3. Judge with a qualifier.
-
-- Qualified judgement
-- Named evidence both ways
-- Distinguishes free from equal
-
-**Writing frame — sentence starters**
-
-1. P: I agree to a large / some extent that Africans were free…
-2. E: For example, … in …
-3. E: This suggests that… However…
-4. J: Therefore, overall…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Annotated model answer**
 
@@ -3157,25 +2815,6 @@ How we remember Black Tudors matters. Their stories show that Black British hist
 
 *An example, not the only way to answer.*
 
-*Guide for "Explain why the claim that Elizabeth I expelled Africans from England is a myth."*
-
-1. Explain the 1596 letter and its condition.
-2. Explain the 1601 draft.
-3. Explain what happened to Africans afterwards.
-
-- Accurate dates
-- Explains the consent condition
-- Notes Africans stayed
-
-**Writing frame — sentence starters**
-
-1. P: The claim is a myth because…
-2. E: The 1596 letter… only with…
-3. E: This meant that… The 1601 draft…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
-
 **Stretch and challenge**
 
 - **Why do myths spread?:** The expulsion myth was repeated in books and lessons for years. Why do myths like this spread, and how can historians correct them?
@@ -3189,6 +2828,137 @@ How we remember Black Tudors matters. Their stories show that Black British hist
 *When does change become a revolution? Why did war break out in 1914?*
 
 **Assessment:** KS3 department criteria — criteria not yet supplied, so AI feedback is formative only. Topics built from Mr Garry's 2026–27 units. Practice questions are teacher-created; AI feedback is formative only until KS3 criteria are added.
+
+### Exam guide: question types
+
+#### AP question — Describe two features of … `ks3d`
+
+KS3 AP exam · null marks · about 8 minutes · Knowledge and understanding
+
+**How it is worded:** Describe two features of …
+
+**What it asks:** Give two different, accurate features of the topic, each backed up with a precise supporting detail. You do not need to explain causes or give a judgement.
+
+**Step by step**
+
+1. Underline what you have to describe and any dates.
+2. Choose two different features you know well.
+3. For each feature: say what it was in one clear sentence.
+4. Add one precise detail for each (a date, a name, a number or an event).
+5. Keep it to two features — no introduction or conclusion needed.
+
+**Planning and timing:** About 8 minutes: 1 minute choosing two features, 3 minutes per feature, 1 minute checking names and dates.
+
+**Success criteria**
+
+- Two different features
+- Each feature stated accurately
+- A precise supporting detail for each feature
+
+**Common mistakes**
+
+- Writing about only one feature
+- Explaining causes or giving opinions instead of describing
+- Vague detail with no names, dates or numbers
+- Listing lots of features with no detail
+
+**Writing frame — sentence starters**
+
+1. One feature of … was …
+2. For example, … (precise detail: date, name, number or event).
+3. A second feature of … was …
+4. For example, … (precise detail).
+
+*Lighter support (headings only):* Feature 1 + precise detail → Feature 2 + precise detail
+
+#### AP question — What can you learn from Source A about …? `ks3s`
+
+KS3 AP exam · null marks · about 10 minutes · Source skills: inference and provenance
+
+**How it is worded:** What can you learn from Source A about …?
+
+**What it asks:** Make inferences: say what the source suggests about the question, not just what it shows. Back each inference with a detail from the source and your own knowledge, and think about who made the source, when and why.
+
+**Step by step**
+
+1. Underline exactly what the question asks you to learn about.
+2. Read the provenance: who made the source, when, and why?
+3. Find two details in the source that help answer the question.
+4. For each detail, make an inference: 'This suggests that …'.
+5. Support each inference with your own knowledge.
+6. Finish with one sentence on what the provenance means for what the source can (and cannot) tell us.
+
+**Planning and timing:** About 10 minutes: 2 minutes reading the source and provenance, 7 minutes writing two inferences, 1 minute checking.
+
+**Success criteria**
+
+- At least two inferences that answer the question
+- Each inference supported with a detail from the source
+- Own knowledge used to support or test the inference
+- A comment on provenance: who, when, why
+
+**Common mistakes**
+
+- Only describing what you can see or copying the source
+- Inferences with no detail from the source
+- Writing everything you know about the topic and ignoring the source
+- Saying a source is 'biased' without explaining why it matters
+
+**Writing frame — sentence starters**
+
+1. Source A suggests that … because it shows/says …
+2. This is supported by my own knowledge that …
+3. Source A also suggests that … because …
+4. This is supported/challenged by …
+5. Source A was made by … in … to …, so it is useful for showing … but it may not tell us …
+
+*Lighter support (headings only):* Inference 1 + detail from the source → Own knowledge to support it → Inference 2 + detail from the source → Own knowledge to support it → Provenance: who, when, why — what can it tell us?
+
+#### AP question — How far do you agree? `ks3j`
+
+KS3 AP exam · null marks · about 20 minutes · Explanation and judgement
+
+**How it is worded:** ‘[Statement].’ How far do you agree?
+
+**What it asks:** Weigh the factor in the statement against at least one other factor, using precise evidence, and reach a clear judgement that answers 'how far'. Use the Arcadia writing method in every paragraph.
+
+**Step by step**
+
+1. Decide your judgement before you write: agree, partly agree or disagree.
+2. Introduction: give your judgement with a qualifier (to a large / some / limited extent).
+3. Paragraph 1: the factor in the statement — Point, Evidence, Explain, Judge.
+4. Paragraph 2 (and 3): other factors — Point, Evidence, Explain, Judge.
+5. Compare the factors: which mattered most and why? Use duration, scope, effectiveness or impact.
+6. Conclusion: answer 'how far' and give the reason for your judgement.
+
+**Planning and timing:** About 20 minutes: 3 minutes planning (use the chronology timeline you made to order your evidence), 15 minutes writing, 2 minutes checking qualifiers and connectives.
+
+**Success criteria**
+
+- A clear judgement with a qualifier in the introduction and conclusion
+- The factor in the statement explained with precise evidence
+- At least one other factor explained with precise evidence
+- Factors compared directly, using a criterion
+- Time connectives, arguing connectives and linking phrases (Arcadia writing method)
+
+**Common mistakes**
+
+- Only writing about the factor in the statement
+- Retelling the story instead of explaining
+- Listing factors without comparing them
+- A conclusion that sits on the fence with no reason
+
+**Writing frame — sentence starters**
+
+1. Introduction: I agree to a large / some / limited extent that … because …
+2. P – Topic sentence with a qualifier: One reason … was … / To a large extent …
+3. E – Precise evidence in time order, using time connectives: At first … / Then … / Later … / Finally …
+4. E – Explain with arguing connectives: This meant that … / However … / This was more important because …
+5. J – Judgement: This shows that … / Therefore …
+6. Second paragraph: On the other hand, … was also important because … (P, E, E, J)
+7. Conclusion: Overall, I agree to a … extent. The most important reason was … because it … (duration, scope, effectiveness or impact).
+
+*Lighter support (headings only):* Introduction with a qualified judgement → PEEJ: the factor in the statement → PEEJ: another factor → Compare: which mattered most and why? → Conclusion that answers 'how far'
 
 ### The Industrial Revolution: when does change become a revolution? — Autumn 1
 
@@ -3335,30 +3105,13 @@ Older stories credited a few "great inventors". Historians now stress how these 
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of Britain in 1750.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about why industry grew in Britain?
+  > **Source A** — A description of the Bridgewater Canal, built by the Duke of Bridgewater and the engineer James Brindley and opened in 1761.: The canal carried coal from the Duke's mines at Worsley to Manchester. In places it crossed a river on an aqueduct. Once it opened, the price of coal in Manchester fell sharply, because barges could carry far more coal, more cheaply, than carts on poor roads.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "Coal was the main reason industrialisation began in Britain." How far do you agree?
-- *Teacher-created practice question*
-  Explain why historians call the Industrial Revolution "a judgement, not a fact".
-
-*Guide for ""Coal was the main reason industrialisation began in Britain." How far do you agree?"*
-
-1. Explain coal's role with evidence.
-2. Explain at least two other causes and how they linked.
-3. Judge with a qualifier.
-
-- Qualified claim
-- Precise evidence
-- Shows interconnection
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: Coal was the main reason to a large / some extent because…
-2. E: For example…
-3. E: This meant that… However, it depended on…
-4. J: Therefore, overall…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Annotated model answer**
 
@@ -3379,24 +3132,6 @@ Older stories credited a few "great inventors". Historians now stress how these 
 > *J: judgement.*
 
 *An example, not the only way to answer.*
-
-*Guide for "Explain why historians call the Industrial Revolution "a judgement, not a fact"."*
-
-1. Explain who popularised the label and when.
-2. Explain how the four criteria are used to test it.
-
-- Toynbee and 1880s
-- Uses criteria
-- Clear explanation
-
-**Writing frame — sentence starters**
-
-1. P: It is a judgement because…
-2. E: The label was popularised by… in…
-3. E: This means that historians must test it using…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Stretch and challenge**
 
@@ -3546,71 +3281,13 @@ Food production rose, supporting a growing population and freeing workers for in
 
 **Exam practice**
 
-- *Teacher-created practice question*
-  "Empire was necessary but not sufficient for British industrialisation." How convincing is this argument?
-- *Teacher-created practice question*
-  Would a landowner and an agricultural labourer agree that the Agricultural Revolution was a revolution? Use the four criteria.
-
-*Guide for ""Empire was necessary but not sufficient for British industrialisation." How convincing is this argument?"*
-
-1. Explain the global chain with evidence.
-2. Explain domestic factors.
-3. Use the historians' debate.
-4. Judge how convincing the claim is.
-
-- Qualified claim
-- Precise evidence for both
-- Uses the Williams debate
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: This argument is convincing to a large / some extent because…
-2. E: For example, cotton… / Williams argued…
-3. E: This meant that… However, domestic factors…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
-
-**Annotated model answer**
-
-> This argument is largely convincing, because empire and slavery were essential to the cotton industry but could not have created industrialisation alone.
->
-> *P: qualified.*
-
-> Lancashire's mills depended on raw cotton grown by enslaved Africans and shipped through Liverpool; Eric Williams (1944) argued these profits were a crucial engine of industrial capital.
->
-> *E: precise, uses historian.*
-
-> However, the mills also needed British coal, capital, machines and workers, which meant global cotton only became industrial cloth because of domestic advantages.
->
-> *E: explains interconnection.*
-
-> Therefore empire was necessary for the cotton industry, but not sufficient on its own.
->
-> *J: judgement.*
-
-*An example, not the only way to answer.*
-
-*Guide for "Would a landowner and an agricultural labourer agree that the Agricultural Revolution was a revolution? Use the four criteria."*
-
-1. Landowner's view with evidence.
-2. Labourer's view with evidence.
-3. Apply at least two criteria and judge.
-
-- Two perspectives
-- Criteria named
-- Precise evidence
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: They would agree it was revolutionary in… but disagree about…
-2. E: For a landowner, enclosure… / For a labourer…
-3. E: In terms of depth / speed… this meant that…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the Agricultural Revolution.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about the link between slavery and British industry?
+  > **Source A** — From "Capitalism and Slavery" (1944) by the Trinidadian historian Eric Williams, based on his doctoral research at Oxford.: Williams argues that the profits of the slave trade and of plantations in the Caribbean helped provide money for British banks, shipping and industry, and that ports such as Liverpool and Bristol grew rich on Atlantic trade. He also argues that Britain abolished the slave trade partly because it had become less profitable.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
+  "Empire was the main reason the Industrial Revolution happened in Britain." How far do you agree?
 
 **Stretch and challenge**
 
@@ -3758,49 +3435,13 @@ Experience depended on class. Middle-class factory owners, merchants and profess
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the factory system.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about how factories changed work?
+  > **Source A** — Cromford Mill, Derbyshire, opened by Richard Arkwright in 1771. It is now part of the Derwent Valley Mills World Heritage Site.: A tall stone mill of several storeys beside a fast-flowing stream, with a water wheel to drive the machines. The windows are large to let in light for long shifts. Arkwright also built rows of cottages, a chapel and a market nearby for the workers and their families, many of them children.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "Machines changed people's lives more than anything else during the Industrial Revolution." How far do you agree?
-- *Teacher-created practice question*
-  Did industrialisation transform life for everyone?
-
-*Guide for ""Machines changed people's lives more than anything else during the Industrial Revolution." How far do you agree?"*
-
-1. Explain the impact of machines with evidence.
-2. Explain another change (factory system or urbanisation).
-3. Use at least two criteria to judge.
-
-- Qualified claim
-- Precise evidence
-- Criteria named
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: Machines changed lives to a large / some extent, but…
-2. E: For example, the Water Frame (1769)…
-3. E: In terms of depth / scale, this meant that… However, urbanisation…
-4. J: Therefore, the biggest change was…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
-
-*Guide for "Did industrialisation transform life for everyone?"*
-
-1. Working-class experience with evidence.
-2. Middle-class experience with evidence.
-3. Judge: transformed for whom, and how?
-
-- Two classes compared
-- Precise evidence
-- Judgement about "everyone"
-
-**Writing frame — sentence starters**
-
-1. P: Industrialisation transformed life for most people, but not in the same way…
-2. E: For working-class families… whereas middle-class families…
-3. E: This meant that…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Stretch and challenge**
 
@@ -3949,31 +3590,13 @@ The response was gradual and contested. Many feared government interference and 
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of working conditions for children in textile mills.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about children's working lives in the early 1830s?
+  > **Source A** — From the report of the Sadler Committee, 1832, a parliamentary committee led by Michael Sadler, who wanted laws to limit children's working hours.: Former child workers told the committee that they began work in the mills at six or seven years old, worked shifts of fourteen hours or more, were beaten by overlookers if they fell asleep, and were fined for being late. Some described injuries from machinery and deformed legs from standing all day.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "Industrialisation was revolutionary for children." How far do you agree? Use the four criteria.
-- *Teacher-created practice question*
-  How successfully did Britain respond to the public health problems created by industrialisation?
-
-*Guide for ""Industrialisation was revolutionary for children." How far do you agree? Use the four criteria."*
-
-1. Apply Scale and Depth to child labour evidence.
-2. Consider Duration: reform from 1833 and 1842.
-3. Separate "revolutionary" from "positive".
-4. Judge.
-
-- Criteria named
-- Precise evidence (hours, Acts, dates)
-- Distinguishes revolutionary from positive
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: Industrialisation was revolutionary for children to a large / some extent…
-2. E: For example, testimony to the Sadler Committee…
-3. E: In terms of depth / scale / duration, this meant that…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Annotated model answer**
 
@@ -3994,25 +3617,6 @@ The response was gradual and contested. Many feared government interference and 
 > *J: judgement.*
 
 *An example, not the only way to answer.*
-
-*Guide for "How successfully did Britain respond to the public health problems created by industrialisation?"*
-
-1. Evidence of success (1848 Act, Snow, Bazalgette).
-2. Evidence of limits (slow, miasma, cost, opposition).
-3. Judge with a qualifier.
-
-- Qualified claim
-- Precise evidence both ways
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: Britain responded successfully to some extent, but slowly…
-2. E: For example, the 1848 Public Health Act… / Snow (1854)…
-3. E: However, this meant that…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Stretch and challenge**
 
@@ -4169,31 +3773,13 @@ The UAE is pursuing rapid economic and technological change, diversifying beyond
 
 **Exam practice**
 
-- *Teacher-created practice question*
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the railway age in Britain.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about how far life in Britain had changed by 1900?
+  > **Source A** — Population figures from the official census of England and Wales, published by the government.: In 1801 the census counted about 9 million people in England and Wales, and most lived in the countryside. By 1901 it counted about 32.5 million, and more than three-quarters lived in towns and cities. Manchester had grown from a small town in the 1750s to a city of over 300,000 people by 1850.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
   "The Industrial Revolution changed the world more profoundly than the revolutions that followed it." How far do you agree? (Harkness final judgement, about 150–200 words)
-- *Teacher-created practice question*
-  Was the Internet another Industrial Revolution? Use the four criteria.
-
-*Guide for ""The Industrial Revolution changed the world more profoundly than the revolutions that followed it." How far do you agree? (Harkness final judgement, about 150–200 words)"*
-
-1. State a qualified judgement.
-2. Use your strongest evidence, naming criteria.
-3. Acknowledge the strongest counterargument.
-4. Conclude on which criteria decide it.
-
-- Qualified judgement
-- Specific evidence
-- Criteria named
-- Counterargument addressed
-
-**Writing frame — sentence starters**
-
-1. P: The Industrial Revolution changed the world more / less profoundly, to a large / some extent, because…
-2. E: For example, …
-3. E: However, the Internet / AI… in terms of speed / scale…
-4. J: Therefore, overall… because the deciding criterion is…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Annotated model answer**
 
@@ -4214,27 +3800,6 @@ The UAE is pursuing rapid economic and technological change, diversifying beyond
 > *J: judgement.*
 
 *An example, not the only way to answer.*
-
-*Guide for "Was the Internet another Industrial Revolution? Use the four criteria."*
-
-1. Scale and Speed with evidence.
-2. Depth with examples.
-3. Explain the Duration problem.
-4. Judge.
-
-- All four criteria used
-- Milestone dates
-- Duration problem explained
-- Judgement
-
-**Writing frame — sentence starters**
-
-1. P: The Internet was / was not another Industrial Revolution, to some extent…
-2. E: For example, since 1991…
-3. E: In terms of speed / scale… however, duration…
-4. J: Therefore…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
 
 **Stretch and challenge**
 
@@ -4421,46 +3986,13 @@ Nationalism also meant that, in 1914, many people in every country supported goi
 
 **Exam practice**
 
-- *Teacher-created practice question*
-  Describe two features of the alliance system in 1914. (4 marks)
-- *Teacher-created practice question*
-  "Militarism was the main long-term cause of the First World War." How far do you agree? (16 marks)
-
-*Guide for "Describe two features of the alliance system in 1914. (4 marks)"*
-
-1. Name the two blocs with members and dates.
-2. Add a detail for each (e.g. what an entente was).
-
-- Two features
-- Accurate members and dates
-
-**Writing frame — sentence starters**
-
-1. One feature was… For example…
-2. A second feature was… For example…
-
-*Lighter support (headings only):* Feature + detail → Feature + detail
-
-*Guide for ""Militarism was the main long-term cause of the First World War." How far do you agree? (16 marks)"*
-
-1. Explain militarism with precise evidence.
-2. Explain at least two other causes with evidence.
-3. Show links between causes.
-4. Judge which mattered most, using a qualifier.
-
-- Qualified judgement
-- Precise evidence for several causes
-- Links between causes
-- Clear conclusion
-
-**Writing frame — sentence starters**
-
-1. P: Militarism was the main cause to a large / some extent because…
-2. E: For example, the naval race… / the Schlieffen Plan…
-3. E: This meant that… However, alliances / nationalism…
-4. J: Therefore, overall the most important long-term cause was…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the alliance system in 1914.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about the naval race between Britain and Germany?
+  > **Source A** — A description of HMS Dreadnought, the British battleship launched in February 1906.: Dreadnought was faster than any battleship before her and carried ten large 12-inch guns. Her design made every older battleship out of date overnight. Germany soon began building its own dreadnoughts, and in 1909 British newspapers and politicians campaigned under the slogan "We want eight, and we won't wait" for more to be built.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
+  "Militarism was the main long-term cause of the First World War." How far do you agree?
 
 **Annotated model answer**
 
@@ -4621,49 +4153,13 @@ The trigger was the assassination, but the long-term causes explain why a murder
 
 **Exam practice**
 
-- *Teacher-created practice question*
-  Explain why the assassination of Franz Ferdinand led to a European war. (6 marks)
-- *Teacher-created practice question*
-  "The assassination of Franz Ferdinand was the main cause of the First World War." How far do you agree? (16 marks)
-
-*Guide for "Explain why the assassination of Franz Ferdinand led to a European war. (6 marks)"*
-
-1. Start with the assassination and Austria's response.
-2. Explain how alliances and the blank cheque widened it.
-3. Explain how mobilisation made it hard to stop.
-
-- Clear chain with dates
-- Links to alliances and militarism
-- Explaining connectives
-
-**Writing frame — sentence starters**
-
-1. P: The assassination led to war because…
-2. E: After 28 June, Germany gave… on 5–6 July…
-3. E: This meant that… which caused…
-4. J: Therefore, the trigger only led to war because…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
-
-*Guide for ""The assassination of Franz Ferdinand was the main cause of the First World War." How far do you agree? (16 marks)"*
-
-1. Explain the role of the assassination.
-2. Explain at least two long-term causes and how they made war likely.
-3. Judge, using the trigger/long-term distinction.
-
-- Qualified judgement
-- Precise July Crisis evidence
-- Long-term causes linked
-- Conclusion
-
-**Writing frame — sentence starters**
-
-1. P: The assassination was important as the trigger, but only to some extent the main cause…
-2. E: For example, on 28 June… then…
-3. E: However, this only led to war because alliances / militarism…
-4. J: Therefore, the main cause was…
-
-*Lighter support (headings only):* P – Topic sentence with a qualifier (blue): One key reason … / To a large extent … / On the other hand … → E – Precisely selected evidence (purple), in order with time connectives (green): At the start … / Later … / Eventually … / Finally … → E – Explain with arguing connectives (red): However … / This was more important because … / In contrast … → J – Judgement: This shows that … / Overall, the most important reason was … / Therefore, I agree to a large/limited extent …
+- *Teacher-created practice question* — AP question — Describe two features of …, null marks
+  Describe two features of the assassination of Archduke Franz Ferdinand.
+- *Teacher-created practice question* — AP question — What can you learn from Source A about …?, null marks
+  What can you learn from Source A about why the July Crisis led to war?
+  > **Source A** — A description of the ultimatum sent by the government of Austria-Hungary to Serbia on 23 July 1914.: The ultimatum blamed Serbia for the assassination of Franz Ferdinand. It demanded that Serbia ban anti-Austrian groups and propaganda, sack officials named by Austria-Hungary, and allow Austro-Hungarian officials to take part in the investigation inside Serbia. Serbia was given only 48 hours to accept every demand.
+- *Teacher-created practice question* — AP question — How far do you agree?, null marks
+  "The assassination of Franz Ferdinand was the main cause of the First World War." How far do you agree?
 
 **Stretch and challenge**
 
@@ -9187,18 +8683,19 @@ The war's legacy in the USA: about 58,000 Americans died; veterans often returne
 - **Source thinking:** Why might a 1969 TV news report and a 'silent majority' speech give different views of American attitudes?
 
 <a id="y12"></a>
-## Year 12: International A Level History — Germany and China
+## Year 12: International A Level History — Germany, China and Russia
 
-*Unit 1 · Germany, 1918–45 · Unit 2 · China, 1900–76*
+*Unit 1 · Germany, 1918–45 · Unit 2 · China, 1900–76 or Russia, 1917–91*
 
-Unit 1 Germany here is the IAL course; Year 10 Germany (International GCSE) is separate. Unit 2 Russia (1C) was taken by last year's cohort and is not included.
+Unit 1 Germany here is the IAL course; Year 10 Germany (International GCSE) is separate. Unit 2 has two options: China (1B) and Russia (1C). Russia is the option the current Year 13 cohort sat in Year 12 — use the Russia pages to revise it.
 
 ### The exam
 
-Pearson Edexcel International Advanced Subsidiary / Advanced Level in History (XHI01 / YHI01) · Unit 1: WHI01/1C · Unit 2: WHI02/1B · specification: Issue 6, July 2021
+Pearson Edexcel International Advanced Subsidiary / Advanced Level in History (XHI01 / YHI01) · Unit 1: WHI01/1C · Unit 2: WHI02/1B (China) or WHI02/1C (Russia) · specification: Issue 6, July 2021
 
 - **WHI01/1C Unit 1: Depth Study with Interpretations — Option 1C: Germany, 1918–45** — 2 hours, 50 marks, 50% of IAS; 25% of IAL. Four questions; answer TWO 25-mark essays. Each assesses AO1 (10 marks) and AO3 (15 marks) together with one set of levels (best fit). About 60 minutes per essay.
 - **WHI02/1B Unit 2: Breadth Study with Source Evaluation — Option 1B: China, 1900–76** — 2 hours, 50 marks, 50% of IAS; 25% of IAL. Section A: Question 1, compulsory, in two parts on two sources — (a) value of Source 1, 10 marks; (b) weight of Source 2, 15 marks (AO2). Section B: ONE essay from a choice of three, 25 marks (AO1).
+- **WHI02/1C Unit 2: Breadth Study with Source Evaluation — Option 1C: Russia, 1917–91: From Lenin to Yeltsin** — 2 hours, 50 marks, 50% of IAS; 25% of IAL. Section A: Question 1, compulsory, in two parts on two sources — (a) value of Source 1, 10 marks; (b) weight of Source 2, 15 marks (AO2). Section B: ONE essay from a choice of three, 25 marks (AO1).
 
 **Assessment objectives**
 
@@ -9206,16 +8703,24 @@ Pearson Edexcel International Advanced Subsidiary / Advanced Level in History (X
 - AO3: Analyse and evaluate, in relation to the historical context, different ways in which aspects of the past have been interpreted (15 of 25 marks per Unit 1 essay)
 - AO2: Analyse and evaluate appropriate source material, primary and/or contemporary to the period, within its historical context (Unit 2 Section A (25 marks))
 
-**China Section A sources come from these nominated areas (bold italics in the specification)**
+**Unit 2 Section A sources come only from these nominated areas (bold italics in the specification)**
 
-- The significance of the Long March; the failure to crush the Communists and the emergence of Mao Zedong; the civil war and the reasons for its outcome 1946–49
-- The origins and consequences of the Hundred Flowers Campaign
-- The Boxer Rising, its origins and impact
-- The origins and impact on China of the Manchurian crisis 1931–33
-- The significance of improving communications – railways, telegraphy and river traffic
-- The Great Leap Forward and its consequences; recovery and chaos 1962–76
-- The promotion of change by the new Communist regime 1949–66, including the Marriage Law of 1950
-- The Cultural Revolution 1966–76 and its significance
+- China: The significance of the Long March; the failure to crush the Communists and the emergence of Mao Zedong; the civil war and the reasons for its outcome 1946–49
+- China: The origins and consequences of the Hundred Flowers Campaign
+- China: The Boxer Rising, its origins and impact
+- China: The origins and impact on China of the Manchurian crisis 1931–33
+- China: The significance of improving communications – railways, telegraphy and river traffic
+- China: The Great Leap Forward and its consequences; recovery and chaos 1962–76
+- China: The promotion of change by the new Communist regime 1949–66, including the Marriage Law of 1950
+- China: The Cultural Revolution 1966–76 and its significance
+- Russia: the nature of government under Lenin; the growing centralisation of power
+- Russia: the significance of Yeltsin’s election in June 1991 and the failed coup of August
+- Russia: agricultural collectivisation and its impact, including the destruction of the ‘kulaks’
+- Russia: the economy under Brezhnev; the impact of Gorbachev’s attempts at economic reform 1985–91
+- Russia: liberalisation under Khrushchev 1953–64
+- Russia: the impact of the breakdown of traditional controls 1985–91
+- Russia: the changing status of women under Lenin and Stalin
+- Russia: the changing approaches to education in the 1920s and 30s
 
 **Conflicts found in the documents (for the teacher)**
 
@@ -9236,6 +8741,8 @@ Pearson Edexcel International Advanced Subsidiary / Advanced Level in History (X
 - WHI02/1B question paper, January 2025 — https://pmt.physicsandmathstutor.com/download/History/A-level/Past-Papers/Edexcel-IAL/Paper-2/Option-1B/QP/January%202025%20(IAL)%20QP%201B.pdf
 - WHI02/1B mark scheme, June 2025 — level ranges — https://pmt.physicsandmathstutor.com/download/History/A-level/Past-Papers/Edexcel-IAL/Paper-2/Option-1B/MS/June%202025%20(IAL)%20MS%201B.pdf
 - How to answer WHI02/1C exam questions (your deck) — steps, starters and timings, applied to China
+- WHI02/1C question papers, June 2016 – June 2024 (Physics & Maths Tutor copies of Pearson papers) — https://www.physicsandmathstutor.com/past-papers/a-level-history/edexcel-ial-paper-2/
+- IAL History specification Issue 6 — Unit 2 Option 1C content and nominated source areas (uploaded copy)
 
 ### Exam guide: question types
 
@@ -11699,6 +11206,759 @@ The Cultural Revolution 1966–76 and its significance: Red Guards attacked the 
 
 - **Change and continuity:** Urban vs rural: create a two-column comparison of women's lives in 1976. Where was change real?
 - **Synoptic:** Link the Cultural Revolution to key topic 1 (Mao's control) and key topic 3 (economic chaos). Which consequence was most significant?
+
+### Option 1C: Russia, 1917–91: From Lenin to Yeltsin — Unit 2 (WHI02/1C) · sat by the current Year 13
+
+#### Key topic 1: Communist government in the USSR, 1917–91
+
+`y12-ru-1` · Option 1C: Russia, 1917–91: From Lenin to Yeltsin
+
+How did the Bolsheviks turn a revolution into a one-party state, how did Stalin make himself its master, and why did the system stagnate and then collapse under Gorbachev? Section B questions often ask you to compare leaders or judge change over the whole period 1917–91.
+
+##### 1. Establishing Communist Party control, 1917–24
+
+The Bolsheviks seized power in Petrograd in October 1917 and set up Sovnarkom (the Council of People's Commissars) with Lenin as chairman. Its first decrees on peace and land won support, but the party was a minority in the country.
+
+Elections to the Constituent Assembly in November 1917 gave the Socialist Revolutionaries about 40% of the vote and the Bolsheviks only about a quarter. When the Assembly met in January 1918, Lenin closed it after one day, arguing that soviet power was a higher form of democracy.
+
+The Cheka (political police) was set up in December 1917 under Felix Dzerzhinsky. During the Civil War (1918–21) the Red Terror, launched after the attempt on Lenin's life in August 1918, targeted 'class enemies'. The Left SRs left the government in March 1918 over the Treaty of Brest-Litovsk, and other parties were harassed and then banned, so Russia became a one-party state in practice.
+
+The nature of government under Lenin: power moved from the soviets to the party. 'Democratic centralism' meant debate before a decision and total obedience afterwards. The Politburo (1919) made the key decisions, while the Orgburo and Secretariat controlled party organisation and appointments.
+
+In March 1921 the Kronstadt sailors rebelled, demanding 'soviets without Communists'. At the Tenth Party Congress the same month Lenin introduced the NEP and the resolution 'On Party Unity', which banned factions — so open disagreement inside the party became disloyalty.
+
+The growing centralisation of power: Stalin became General Secretary in April 1922 and used the Secretariat to appoint loyal officials (the nomenklatura system). The USSR was created in December 1922, with power concentrated in Moscow. Lenin, weakened by strokes, warned against Stalin in his 'Testament' but died in January 1924.
+
+*Key terms:* Sovnarkom, Constituent Assembly, Cheka, democratic centralism, Politburo, ban on factions, General Secretary, nomenklatura
+
+*Precise evidence:*
+- October 1917: Bolsheviks seize power.
+- January 1918: Constituent Assembly dissolved after one day.
+- March 1921: Tenth Congress bans factions.
+- April 1922: Stalin becomes General Secretary.
+- January 1924: Lenin dies.
+
+##### 2. Stalin in power, 1928–53
+
+Eliminating opponents: after Lenin's death Stalin allied first with Zinoviev and Kamenev against Trotsky, then with Bukharin against the United Opposition. Trotsky was expelled from the party in 1927 and deported in 1929; Bukharin and the 'Right' were defeated over the grain crisis in 1928–29. By 1929 Stalin was the unchallenged leader.
+
+The purges of the 1930s: the murder of Sergei Kirov in December 1934 was used to justify mass repression. Show trials in Moscow (1936, 1937, 1938) convicted old Bolsheviks including Zinoviev, Kamenev and Bukharin of absurd charges. The Great Terror of 1937–38 under Yezhov saw about 680,000 people executed, according to NKVD records, and many more sent to the Gulag.
+
+The party and the army were hit hardest at the top: of 139 Central Committee members elected in 1934, 98 were arrested and shot, and Marshal Tukhachevsky and much of the high command were executed in 1937.
+
+Stalin's power over party and state: by the late 1930s the Politburo and Party Congress were rubber stamps. Stalin became head of government (Sovnarkom) in May 1941 and led the war effort through the State Defence Committee. After 1945 he ruled through small groups of favourites; the Leningrad Affair (1949) and the Doctors' Plot (1953) show repression continuing until his death in March 1953.
+
+*Key terms:* United Opposition, show trials, Great Terror, Yezhovshchina, Gulag, cult of personality
+
+*Precise evidence:*
+- 1927: Trotsky expelled from the party.
+- December 1934: Kirov murdered.
+- 1936–38: Moscow show trials.
+- 1937–38: about 680,000 executed.
+- March 1953: Stalin dies.
+
+##### 3. Reform, stability, stagnation and collapse, 1953–91
+
+Khrushchev's attempts to reform government: after Beria was arrested and shot in 1953, Khrushchev rose through the party. His Secret Speech to the Twentieth Congress (February 1956) denounced Stalin's cult and terror — de-Stalinisation. He survived the Anti-Party Group's attempt to remove him in 1957, set up 105 regional economic councils (sovnarkhozy) and split the party into industrial and agricultural wings in 1962. These reforms angered officials, and he was ousted in October 1964.
+
+Government under Brezhnev, 1964–82: Brezhnev promised 'stability of cadres' — officials kept their jobs. Khrushchev's reforms were reversed, the 1977 Constitution confirmed the party's 'leading role', and the leadership grew old and corrupt. This was later called the 'era of stagnation'. Andropov (1982–84) began an anti-corruption drive but died quickly, as did Chernenko (1984–85).
+
+Gorbachev (from March 1985) tried to revive the system through glasnost (openness), perestroika (restructuring) and democratisation. Contested elections to a Congress of People's Deputies were held in 1989, and in 1990 the party gave up its constitutional monopoly of power (Article 6). These changes released nationalist movements and criticism he could not control.
+
+The significance of Yeltsin's election in June 1991: Boris Yeltsin won about 57% of the vote to become President of the Russian Republic — the first popularly elected leader in Russian history, with a mandate Gorbachev lacked. When hardliners attempted a coup in August 1991 (19–21 August), Yeltsin led resistance from the Russian parliament building. The coup's failure discredited the Communist Party, which was suspended, and the USSR was dissolved in December 1991.
+
+*Key terms:* de-Stalinisation, Secret Speech, sovnarkhozy, stability of cadres, stagnation, glasnost, perestroika, August coup
+
+*Precise evidence:*
+- February 1956: Secret Speech.
+- October 1964: Khrushchev removed.
+- March 1985: Gorbachev becomes General Secretary.
+- 12 June 1991: Yeltsin elected Russian President.
+- 19–21 August 1991: failed coup.
+- 25 December 1991: Gorbachev resigns; USSR ends.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| October 1917 | Bolshevik seizure of power |
+| January 1918 | Constituent Assembly dissolved |
+| March 1921 | Kronstadt rising; Tenth Congress bans factions |
+| April 1922 | Stalin becomes General Secretary |
+| January 1924 | Lenin dies |
+| 1929 | Stalin unchallenged leader; Trotsky deported |
+| December 1934 | Kirov murdered |
+| 1937–38 | The Great Terror |
+| March 1953 | Stalin dies |
+| February 1956 | Khrushchev's Secret Speech |
+| October 1964 | Khrushchev ousted; Brezhnev leads |
+| March 1985 | Gorbachev becomes General Secretary |
+| June 1991 | Yeltsin elected President of Russia |
+| August 1991 | Failed hardliners' coup |
+| December 1991 | USSR dissolved |
+
+**Key people**
+
+- **Vladimir Lenin** — Bolshevik leader; chairman of Sovnarkom 1917–24.
+- **Leon Trotsky** — Red Army leader; Stalin's main rival, expelled 1927.
+- **Joseph Stalin** — General Secretary from 1922; dictator c.1929–53.
+- **Nikolai Bukharin** — Leader of the 'Right'; supported NEP; shot 1938.
+- **Nikita Khrushchev** — First Secretary 1953–64; de-Stalinisation.
+- **Leonid Brezhnev** — General Secretary 1964–82; 'stability of cadres'.
+- **Mikhail Gorbachev** — General Secretary 1985–91; glasnost and perestroika.
+- **Boris Yeltsin** — Elected President of Russia June 1991; defeated the August coup.
+
+**Vocabulary**
+
+- **Democratic centralism** — Free debate before a decision, then strict obedience to it.
+- **Ban on factions** — 1921 rule forbidding organised groups inside the party.
+- **Nomenklatura** — Lists of key posts filled by party appointment — a source of patronage.
+- **Show trial** — A public trial with a fixed verdict, staged for propaganda.
+- **De-Stalinisation** — Khrushchev's criticism of Stalin's terror and cult after 1956.
+- **Stability of cadres** — Brezhnev's policy of keeping officials in post.
+- **Glasnost** — 'Openness' — Gorbachev's loosening of censorship.
+- **Perestroika** — 'Restructuring' — Gorbachev's reform of the economy and government.
+
+**Misconceptions**
+
+- ✗ The Bolsheviks won power through elections. → ✓ They won only about a quarter of the Constituent Assembly vote and closed it in January 1918.
+- ✗ Stalin was all-powerful as soon as Lenin died. → ✓ He took until about 1929 to defeat his rivals, using alliances and control of appointments.
+- ✗ De-Stalinisation ended one-party rule. → ✓ Khrushchev attacked Stalin's methods, not the party's monopoly of power.
+- ✗ Gorbachev meant to end Communism. → ✓ He aimed to reform and revive the system; the collapse was an unintended result.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. What did the Tenth Party Congress (1921) ban? Private trade / **Factions inside the party** / Religion / The soviets — *The resolution 'On Party Unity'.*
+2. Which post did Stalin gain in April 1922? Commissar for War / Head of the Cheka / **General Secretary** / Chairman of Sovnarkom — *It controlled appointments.*
+3. Whose murder in December 1934 was used to launch the purges? **Kirov** / Trotsky / Bukharin / Yagoda — *Sergei Kirov, Leningrad party boss.*
+4. What did Khrushchev's Secret Speech (1956) attack? Lenin's NEP / **Stalin's cult and terror** / The Red Army / Collective farms — *De-Stalinisation.*
+5. Why was Yeltsin's election in June 1991 significant? **He was the first popularly elected Russian leader** / He became General Secretary / He restored the Tsar / He ended glasnost — *It gave him a democratic mandate Gorbachev lacked.*
+
+**Short answers**
+
+1. In which year was the Constituent Assembly dissolved? — **1918**
+2. Which NKVD chief gave his name to the terror of 1937–38? — **Yezhov**
+3. In which month and year did the hardliners' coup fail? — **August 1991**
+
+**Chronology — Put these in order** (correct order): Constituent Assembly dissolved → Ban on factions → Stalin becomes General Secretary → Kirov murdered → Secret Speech → Khrushchev ousted → Yeltsin elected President of Russia
+
+**Matching — Match the leader to the policy**
+
+- Lenin = Ban on factions
+- Stalin = Great Terror
+- Khrushchev = De-Stalinisation
+- Brezhnev = Stability of cadres
+- Gorbachev = Glasnost
+
+**Evidence recall**
+
+- Give precise evidence of how Stalin removed opponents in the 1930s. — *Model:* After Kirov's murder in December 1934, show trials in 1936–38 condemned Zinoviev, Kamenev and Bukharin; under Yezhov about 680,000 people were executed in 1937–38 and 98 of the 139 Central Committee members elected in 1934 were shot.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| How did the Bolsheviks create a one-party state by 1921? | Closed the Constituent Assembly (1918), Cheka and Red Terror, other parties banned during the Civil War, ban on factions (1921). | Assembly, Cheka, ban. |
+| What was the nature of government under Lenin? | Party above soviets; democratic centralism; Politburo decides; Secretariat controls appointments; growing centralisation in Moscow. | Party over soviets. |
+| How did Stalin defeat his rivals 1924–29? | Control of appointments as General Secretary; shifting alliances against Trotsky, then the United Opposition, then Bukharin. | Left, then Right. |
+| What were the purges of the 1930s? | Show trials 1936–38, Great Terror 1937–38 (about 680,000 executed), purge of the party and army high command. | Kirov 1934. |
+| Why did government stagnate under Brezhnev? | Stability of cadres kept ageing officials in post; reforms reversed; corruption; little new thinking. | Gerontocracy. |
+| Why did the August 1991 coup matter? | Its failure made Yeltsin the hero, discredited the party and sped up the break-up of the USSR in December 1991. | Yeltsin on a tank. |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Explain — amber] I can explain how the Bolsheviks created a one-party state and the nature of government under Lenin.
+- [Explain — amber] I can explain how Stalin eliminated his opponents and used the purges of the 1930s.
+- [Judge — green] I can judge how far Khrushchev and Brezhnev changed the way the USSR was governed.
+- [Judge — green] I can assess the significance of Gorbachev, Yeltsin's election and the failed coup of 1991.
+
+**Exam practice**
+
+- *Teacher-created practice question* — Section B — breadth essay, 25 marks
+  How accurate is it to say that the government of the Soviet Union became more centralised under Stalin than it had been under Lenin?
+- *Past paper: WHI02/1C, June 2024, Q1(a) (Source 1 is in the paper)* — Section A (a) — value of a source, 10 marks
+  Why is Source 1 valuable to the historian for an enquiry into the importance of Boris Yeltsin's election as President of the Russian Federation in June 1991? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2024, Q2* — Section B — breadth essay, 25 marks
+  How accurate is it to say that, in the years 1928–53, the removal of opponents in government and party was the main reason why Stalin was able to maintain control over the Soviet Union?
+- *Past paper: WHI02/1C, June 2023, Q4* — Section B — breadth essay, 25 marks
+  How accurate is it to say that Brezhnev's policy of stabilisation was the main reason for the growing stagnation in the government of the Soviet Union in the years 1964–82?
+- *Past paper: WHI02/1C, June 2022, Q1(a) (Source 1 is in the paper)* — Section A (a) — value of a source, 10 marks
+  Why is Source 1 valuable to the historian for an enquiry into the establishment of government under Lenin in 1917? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2021, Q1(a) (Source 1 is in the paper)* — Section A (a) — value of a source, 10 marks
+  Why is Source 1 valuable to the historian for an enquiry into the reasons why Lenin demanded Party unity in Soviet Russia in the early 1920s? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, January 2020, Q4* — Section B — breadth essay, 25 marks
+  How accurate is it to say that Yeltsin's election as president of Russia in June 1991 was the most significant development in the weakening of Soviet government in the years 1982–91?
+- *Past paper: WHI02/1C, January 2019, Q2* — Section B — breadth essay, 25 marks
+  To what extent did the nature of the government of the USSR change in the years 1917–53?
+- *Past paper: WHI02/1C, June 2017, Q1(a) (Source 1 is in the paper)* — Section A (a) — value of a source, 10 marks
+  Why is Source 1 valuable to the historian for an enquiry into the reasons for Lenin's dismissal of the Constituent Assembly in January 1918? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2016, Q1(a) (Source 1 is in the paper)* — Section A (a) — value of a source, 10 marks
+  Why is Source 1 valuable to the historian for an enquiry into the reasons for the increased centralisation of power in the Soviet State by 1924? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2016, Q1(b) (Source 2 is in the paper)* — Section A (b) — weight of a source, 15 marks
+  How much weight do you give to the evidence of Source 2 for an enquiry into the reasons why Boris Yeltsin was elected as President of Russia in June 1991? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+
+**Stretch and challenge**
+
+- **Change and continuity:** Was 1953 or 1985 the bigger turning point in how the USSR was governed? Use duration and impact.
+- **Competing arguments:** 'Lenin built the machine that Stalin used.' Argue for and against using the ban on factions and the role of the Secretariat.
+
+#### Key topic 2: Industrial and agricultural change, 1917–91
+
+`y12-ru-2` · Option 1C: Russia, 1917–91: From Lenin to Yeltsin
+
+From War Communism and the NEP to Stalin's Five-Year Plans and collectivisation, then Khrushchev's Virgin Lands, Brezhnev's stagnation and Gorbachev's failed reforms: how did the command economy develop, and why did it fall behind?
+
+##### 1. Towards a command economy, 1917–28
+
+The Decree on Land (October 1917) let peasants take landlords' estates. Large-scale industry was nationalised in June 1918, and a Supreme Council of the National Economy (VSNKh) was set up to run it.
+
+War Communism (1918–21) put the economy on a war footing: grain was requisitioned from peasants, private trade was banned, and money almost lost its value. Industrial output collapsed to a fraction of its 1913 level, and the famine of 1921–22 killed about 5 million people. Peasant risings and the Kronstadt revolt showed the policy had to change.
+
+The New Economic Policy (NEP, March 1921) replaced requisitioning with a tax in kind, allowed peasants to sell surplus grain and allowed small private businesses ('Nepmen'). The state kept the 'commanding heights' — heavy industry, banks, foreign trade. By about 1926 output had recovered to roughly pre-war levels, but the 'scissors crisis' (1923) and the grain procurement crisis of 1927–28 showed the tension between peasants and the state.
+
+State control of industry and agriculture grew: Gosplan (state planning, 1921) and the party argued over whether to keep the NEP (Bukharin) or industrialise rapidly at the peasants' expense (the Left, later Stalin).
+
+*Key terms:* Decree on Land, nationalisation, War Communism, requisitioning, NEP, Nepmen, commanding heights, Gosplan
+
+*Precise evidence:*
+- June 1918: large-scale industry nationalised.
+- 1921–22: famine kills about 5 million.
+- March 1921: NEP introduced.
+- 1927–28: grain procurement crisis.
+
+##### 2. Industry and agriculture in the Stalin era
+
+The Five-Year Plans: the First Plan (1928–32, declared complete in four years) set huge targets for heavy industry. New industrial cities such as Magnitogorsk and the Dnieper dam were built. Coal output rose from about 35 million tonnes (1928) to about 128 million (1937), and steel from about 4 million to about 18 million tonnes. The Second Plan (1933–37) added transport such as the Moscow Metro; Stakhanov's record coal shift (August 1935) launched the Stakhanovite movement.
+
+Preparing for war: the Third Plan (1938–41) switched resources to armaments — defence took about a third of the budget by 1940. After the German invasion in 1941, over 1,500 large factories were moved east to the Urals and Siberia.
+
+Agricultural collectivisation and its impact: from late 1929 peasants were forced into collective farms (kolkhozy). Stalin declared the 'liquidation of the kulaks as a class'; about 1.8 million people were deported as kulaks in 1930–31, and many more were shot or died. Peasants slaughtered their animals rather than hand them over, so livestock numbers roughly halved. Grain procurement continued during the famine of 1932–33, which killed an estimated 5–7 million people, especially in Ukraine and Kazakhstan. By the late 1930s almost all farms were collectivised and controlled through Machine Tractor Stations.
+
+Recovery from war after 1945: the Fourth Plan (1946–50) rebuilt heavy industry quickly using forced labour and reparations, but agriculture stayed weak and there was famine in 1946–47.
+
+*Key terms:* Five-Year Plan, Magnitogorsk, Stakhanovite, collectivisation, kolkhoz, kulak, dekulakisation, Machine Tractor Station
+
+*Precise evidence:*
+- 1928–32: First Five-Year Plan.
+- 1929–30: forced collectivisation begins.
+- 1932–33: famine, estimated 5–7 million deaths.
+- August 1935: Stakhanov's record.
+- 1941: over 1,500 factories moved east.
+
+##### 3. Changing priorities for industry and agriculture, 1953–91
+
+Khrushchev promised more consumer goods, light industry and chemicals (for fertilisers, plastics and fabrics), while keeping heavy industry and the space and arms programmes. Housing construction expanded rapidly.
+
+Investment in agriculture and the Virgin Lands Scheme (from 1954): young volunteers ploughed tens of millions of hectares of steppe in Kazakhstan and Siberia. The 1956 harvest was a record, but soil erosion and poor planning followed, and after the bad harvest of 1963 the USSR had to import grain. Price rises led to riots at Novocherkassk in 1962.
+
+The attempts at reform 1964–91: Kosygin's reform (1965) gave factories more freedom and used profit as a measure, but it was diluted by planners. Under Brezhnev agriculture received about a quarter of all investment, yet the USSR imported grain from the 1970s. Growth slowed sharply, military spending took a very large share of output, and the 'second economy' (black market) grew. High oil prices in the 1970s hid the problems.
+
+The impact of Gorbachev's economic reforms 1985–91: 'acceleration' (uskorenie) and the anti-alcohol campaign (1985) cut state revenue; the Law on State Enterprise (1987) and the Law on Cooperatives (1988) loosened planning without creating a working market. With falling oil prices after 1986, shortages, rationing, budget deficits and inflation grew, and output fell in 1990–91. Plans for a rapid move to a market (the '500 Days' programme, 1990) were not adopted.
+
+*Key terms:* light industry, Virgin Lands, Novocherkassk, Kosygin reform, stagnation, second economy, uskorenie, Law on State Enterprise
+
+*Precise evidence:*
+- 1954: Virgin Lands Scheme begins.
+- 1962: Novocherkassk riots.
+- 1965: Kosygin reform.
+- 1985: anti-alcohol campaign.
+- 1987: Law on State Enterprise.
+- 1988: Law on Cooperatives.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| October 1917 | Decree on Land |
+| June 1918 | Nationalisation of large-scale industry |
+| March 1921 | NEP replaces War Communism |
+| 1928 | First Five-Year Plan begins |
+| 1929–30 | Forced collectivisation and dekulakisation |
+| 1932–33 | Famine |
+| 1935 | Stakhanovite movement |
+| 1946 | Fourth Five-Year Plan: post-war recovery |
+| 1954 | Virgin Lands Scheme |
+| 1965 | Kosygin reform |
+| 1985 | Gorbachev's acceleration and anti-alcohol campaign |
+| 1987–88 | Laws on State Enterprise and Cooperatives |
+
+**Key people**
+
+- **Nikolai Bukharin** — Defended the NEP and gradual industrialisation.
+- **Joseph Stalin** — Launched the Five-Year Plans and collectivisation.
+- **Alexei Stakhanov** — Miner whose 1935 record became a propaganda model.
+- **Nikita Khrushchev** — Virgin Lands, consumer goods and chemicals.
+- **Alexei Kosygin** — Premier; 1965 economic reform.
+- **Mikhail Gorbachev** — Perestroika: enterprise and cooperative laws.
+
+**Vocabulary**
+
+- **Command economy** — An economy run by central state plans, not the market.
+- **War Communism** — 1918–21 policy of requisitioning, nationalisation and banning private trade.
+- **NEP** — 1921 New Economic Policy allowing limited private trade.
+- **Collectivisation** — Forcing peasants into state-controlled collective farms.
+- **Kulak** — A 'rich' peasant — in practice any peasant labelled an enemy.
+- **Gosplan** — The state planning committee.
+- **Virgin Lands** — Khrushchev's scheme to farm new land in Kazakhstan and Siberia.
+- **Second economy** — Illegal private trade and the black market.
+
+**Misconceptions**
+
+- ✗ The NEP was a return to capitalism. → ✓ The state kept the 'commanding heights'; Lenin called it a temporary retreat.
+- ✗ The Five-Year Plans met all their targets. → ✓ Heavy industry grew fast, but many targets were missed and statistics were often exaggerated.
+- ✗ Kulaks were a clearly defined wealthy class. → ✓ The label was applied loosely to anyone who resisted collectivisation.
+- ✗ The Soviet economy collapsed only because of Gorbachev. → ✓ Growth had slowed since the 1970s; his reforms made the shortages worse.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. What replaced grain requisitioning in 1921? **A tax in kind** / Collective farms / Rationing / Free land — *The NEP.*
+2. Which new industrial city symbolised the First Five-Year Plan? Kronstadt / **Magnitogorsk** / Novocherkassk / Gorky — *Built from 1929 in the Urals.*
+3. What did many peasants do when forced into collective farms? Joined the Red Army / **Slaughtered their livestock** / Moved to Ukraine / Voted against it — *Livestock numbers roughly halved.*
+4. Where was the Virgin Lands Scheme mainly carried out? Ukraine and Belarus / **Kazakhstan and Siberia** / The Baltic states / Moscow region — *New land on the steppe.*
+5. Which Gorbachev policy cut state revenue in 1985? Glasnost / **The anti-alcohol campaign** / The 500 Days programme / Virgin Lands — *Vodka taxes fell.*
+
+**Short answers**
+
+1. Which Bolshevik leader most strongly defended the NEP? — **Bukharin**
+2. In which year did the First Five-Year Plan begin? — **1928**
+3. Which Soviet premier gave his name to the 1965 economic reform? — **Kosygin**
+
+**Chronology — Put these in order** (correct order): War Communism → NEP → First Five-Year Plan → Famine of 1932–33 → Virgin Lands Scheme → Kosygin reform → Law on Cooperatives
+
+**Matching — Match the period to the economic policy**
+
+- 1918–21 = War Communism
+- 1921–28 = New Economic Policy
+- 1928–41 = Five-Year Plans and collectivisation
+- 1954–64 = Virgin Lands and chemicals
+- 1985–91 = Perestroika
+
+**Evidence recall**
+
+- Give precise evidence about the impact of collectivisation. — *Model:* About 1.8 million people were deported as kulaks in 1930–31; livestock numbers roughly halved as peasants slaughtered animals; the famine of 1932–33 killed an estimated 5–7 million, especially in Ukraine and Kazakhstan; by the late 1930s nearly all farms were kolkhozy controlled through Machine Tractor Stations.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| Why did Lenin replace War Communism with the NEP? | Output collapse, famine of 1921–22, peasant risings and Kronstadt showed the regime could not survive without peasant cooperation. | 1921 crises. |
+| What did the Five-Year Plans achieve? | Huge growth in heavy industry (coal about 35m to 128m tonnes 1928–37, steel about 4m to 18m), new cities, war production — at great human cost. | Heavy industry. |
+| Why did Stalin collectivise agriculture? | Secure grain for the cities and exports, fund industry, end the 'kulak' threat and bring the peasants under party control. | Grain and control. |
+| How successful was the Virgin Lands Scheme? | Record harvest in 1956, but soil erosion and poor planning followed; grain had to be imported after 1963. | Boom then dust. |
+| Why did the economy stagnate under Brezhnev? | Reforms diluted, huge military spending, waste in agriculture, black market; oil money hid the problems. | Era of stagnation. |
+| Why did Gorbachev's economic reforms fail? | They weakened central planning without creating a market; anti-alcohol campaign and falling oil prices cut revenue; shortages and inflation followed. | Neither plan nor market. |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Explain — amber] I can explain the move from War Communism to the NEP and the debate over industrialisation.
+- [Judge — green] I can judge the successes and costs of the Five-Year Plans.
+- [Judge — green] I can assess the impact of collectivisation, including the destruction of the kulaks.
+- [Explain — amber] I can explain how priorities changed under Khrushchev and Brezhnev, including the Virgin Lands Scheme.
+- [Judge — green] I can judge the impact of Gorbachev's economic reforms 1985–91.
+
+**Exam practice**
+
+- *Teacher-created practice question* — Section B — breadth essay, 25 marks
+  How accurate is it to say that the New Economic Policy was successful in restoring the Soviet economy in the years 1921–28?
+- *Past paper: WHI02/1C, June 2024, Q3* — Section B — breadth essay, 25 marks
+  How accurate is it to say that there were many positive results from Brezhnev's economic policy in the years 1964–82?
+- *Past paper: WHI02/1C, June 2023, Q1(b) (Source 2 is in the paper)* — Section A (b) — weight of a source, 15 marks
+  How much weight do you give to the evidence of Source 2 for an enquiry into the reasons for the destruction of the ‘kulaks’ during the collectivisation of farming? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2023, Q3* — Section B — breadth essay, 25 marks
+  How accurate is it to say that Khrushchev's policies towards industry were a success but his agricultural policies were a failure?
+- *Past paper: WHI02/1C, June 2022, Q4* — Section B — breadth essay, 25 marks
+  To what extent did the priorities change for industry in the years 1964–85?
+- *Past paper: WHI02/1C, June 2021, Q1(b) (Source 2 is in the paper)* — Section A (b) — weight of a source, 15 marks
+  How much weight do you give to the evidence of Source 2 for an enquiry into methods used to collectivise agriculture under Stalin? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2021, Q4* — Section B — breadth essay, 25 marks
+  How accurate is it to say that, in the years 1982–91, the attempt to reform the economy was a complete failure?
+- *Past paper: WHI02/1C, January 2020, Q2* — Section B — breadth essay, 25 marks
+  To what extent did Stalin's policies towards industry differ from Khrushchev's policies towards industry?
+- *Past paper: WHI02/1C, January 2019, Q1(b) (Source 2 is in the paper)* — Section A (b) — weight of a source, 15 marks
+  How much weight do you give to the evidence of Source 2 for an enquiry into the impact of collectivisation in the Russian countryside in the 1930s? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, January 2019, Q4* — Section B — breadth essay, 25 marks
+  How accurate is it to say that, in the years 1964–85, the main reason for the weaknesses of the Soviet economy was the priority given to spending on the military?
+- *Past paper: WHI02/1C, June 2017, Q3* — Section B — breadth essay, 25 marks
+  To what extent did Khrushchev's economic policies succeed in improving agriculture in the Soviet Union in the years 1953–64?
+- *Past paper: WHI02/1C, June 2016, Q2* — Section B — breadth essay, 25 marks
+  How accurate is it to say that Stalin's policies towards industry and agriculture changed the Soviet economy to a communist system in the years 1929–41?
+
+**Stretch and challenge**
+
+- **Relative significance:** Which did more lasting damage to Soviet agriculture: collectivisation or the Virgin Lands Scheme? Use duration and impact.
+- **Change and continuity:** How far did the priorities of Soviet economic policy change between Stalin and Brezhnev?
+
+#### Key topic 3: Control of the people, 1917–91
+
+`y12-ru-3` · Option 1C: Russia, 1917–91: From Lenin to Yeltsin
+
+Propaganda, censorship, the secret police and control of culture and religion kept the Communist Party in power for over seventy years. How did these methods change from Lenin to Gorbachev, and what happened when controls were relaxed?
+
+##### 1. Media, propaganda and religion
+
+State control of mass media: the Bolsheviks closed opposition newspapers within days of taking power. Glavlit (1922) censored all publications, and Pravda and Izvestia carried the party line. Posters, agitprop trains, film and later radio spread propaganda.
+
+The personality cult of Stalin grew from his fiftieth birthday in December 1929: he was presented as Lenin's true heir, the 'father of the peoples' and the architect of victory. History was rewritten — the Short Course history of the party (1938) became compulsory reading.
+
+The treatment of religion: church and state were separated in January 1918 and church property seized. The League of the Godless (1925) ran anti-religious propaganda, and the 1929 Law on Religious Associations banned religious teaching and charity. By 1939 only a few hundred Orthodox churches remained open. In 1943 Stalin allowed the Orthodox Church to elect a patriarch to win support during the war.
+
+Khrushchev launched a new anti-religious campaign (1958–64) that closed about half of the remaining churches. Brezhnev was less aggressive towards religion, but tightened controls on writers and dissidents — for example the trial of Sinyavsky and Daniel (1966) — and after the Prague Spring (1968).
+
+*Key terms:* Glavlit, agitprop, Pravda, cult of personality, Short Course, League of the Godless, Law on Religious Associations
+
+*Precise evidence:*
+- 1922: Glavlit censorship office.
+- December 1929: Stalin's fiftieth birthday launches the cult.
+- 1929: Law on Religious Associations.
+- 1943: Orthodox patriarch allowed.
+- 1958–64: Khrushchev's anti-religious campaign.
+
+##### 2. The secret police and attacks on opponents
+
+The political police changed name but not purpose: Cheka (1917), GPU and OGPU (1922–23), NKVD (from 1934), and the KGB (from 1954). The Gulag system of labour camps was organised from 1930 and held around 2.5 million people in camps and colonies by 1953.
+
+The roles of Yagoda, Yezhov and Beria: Genrikh Yagoda led the NKVD from 1934 and organised the first show trial, then was himself tried and shot (1938). Nikolai Yezhov ran the Great Terror of 1937–38 and was shot in 1940. Lavrenty Beria (from 1938) reduced the mass arrests but ran the camps and wartime deportations of whole nationalities; he was shot after Stalin's death in 1953.
+
+Liberalisation under Khrushchev 1953–64: about 1.2 million prisoners were amnestied in 1953, millions more were released and many victims rehabilitated after 1956. The KGB was placed firmly under party control. But limits remained: the Hungarian rising was crushed (1956) and strikers at Novocherkassk were shot (1962).
+
+Suppression of dissidents 1965–82 and the significance of Andropov: as KGB chairman (1967–82) Yuri Andropov used exile, psychiatric hospitals and forced emigration rather than mass terror. Solzhenitsyn was expelled (1974) and the physicist Andrei Sakharov exiled to Gorky (1980). Samizdat (self-published writing) such as the Chronicle of Current Events spread news of abuses.
+
+1982–91: the KGB continued to monitor popular discontent through informers and reports, but under glasnost Sakharov was released (December 1986) and protest became open.
+
+*Key terms:* Cheka, NKVD, KGB, Gulag, rehabilitation, dissident, samizdat, psychiatric abuse
+
+*Precise evidence:*
+- 1934: NKVD created; Yagoda in charge.
+- 1936–38: Yezhov runs the Great Terror.
+- 1953: Beria shot; amnesty of about 1.2 million.
+- 1967–82: Andropov chairs the KGB.
+- 1980: Sakharov exiled to Gorky.
+
+##### 3. The state and cultural change
+
+Proletkult and the avant-garde (1917–early 1930s): the Proletkult movement tried to create a new working-class culture. Avant-garde artists such as Malevich, the poet Mayakovsky and the film-maker Eisenstein (Battleship Potemkin, 1925) experimented with new forms.
+
+Socialist Realism (from 1934): the First Congress of Soviet Writers made Socialist Realism compulsory — art had to be optimistic, easy to understand and show the building of socialism. All writers had to belong to the Union of Soviet Writers. After the war the Zhdanov decrees (1946) attacked writers such as Akhmatova and Zoshchenko.
+
+Nonconformity from the 1950s: in Khrushchev's 'Thaw' some criticism was allowed — Solzhenitsyn's One Day in the Life of Ivan Denisovich (1962) described the Gulag. But Pasternak was forced to refuse the Nobel Prize (1958) for Doctor Zhivago, and Khrushchev attacked abstract art at the Manège exhibition (1962). Under Brezhnev an unofficial open-air art show was bulldozed (1974).
+
+The impact of the breakdown of traditional controls 1985–91: glasnost allowed banned works such as Doctor Zhivago (published 1988) and films critical of Stalinism such as Repentance (1987). Magazines exposed the crimes of the past, rock music and Western culture spread, and the party lost control of the stories Soviet people told about their own history.
+
+*Key terms:* Proletkult, avant-garde, Socialist Realism, Union of Soviet Writers, Zhdanovshchina, Thaw, glasnost
+
+*Precise evidence:*
+- 1925: Battleship Potemkin.
+- 1934: Socialist Realism adopted.
+- 1946: Zhdanov decrees.
+- 1962: One Day in the Life of Ivan Denisovich.
+- 1974: 'Bulldozer exhibition'.
+- 1988: Doctor Zhivago published in the USSR.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| December 1917 | Cheka set up |
+| January 1918 | Separation of church and state |
+| 1922 | Glavlit censorship office |
+| 1929 | Law on Religious Associations; Stalin cult begins |
+| 1934 | NKVD created; Socialist Realism adopted |
+| 1937–38 | Great Terror under Yezhov |
+| 1946 | Zhdanov decrees on culture |
+| 1953 | Beria shot; mass amnesty |
+| 1962 | Ivan Denisovich published; Manège exhibition |
+| 1974 | Solzhenitsyn expelled |
+| 1980 | Sakharov exiled to Gorky |
+| 1986 | Glasnost; Sakharov released |
+
+**Key people**
+
+- **Felix Dzerzhinsky** — Founder and head of the Cheka.
+- **Genrikh Yagoda** — NKVD chief 1934–36; shot 1938.
+- **Nikolai Yezhov** — NKVD chief 1936–38; ran the Great Terror; shot 1940.
+- **Lavrenty Beria** — NKVD chief from 1938; shot 1953.
+- **Yuri Andropov** — KGB chairman 1967–82; leader 1982–84.
+- **Andrei Sakharov** — Physicist and dissident; exiled 1980–86.
+- **Alexander Solzhenitsyn** — Writer on the Gulag; expelled 1974.
+- **Andrei Zhdanov** — Enforced cultural conformity after 1946.
+
+**Vocabulary**
+
+- **Agitprop** — Agitation and propaganda — spreading the party message.
+- **Gulag** — The system of forced labour camps.
+- **Rehabilitation** — Officially clearing the name of a purge victim.
+- **Dissident** — Someone who openly criticised the Soviet system.
+- **Samizdat** — Illegally copied 'self-published' writing.
+- **Socialist Realism** — Compulsory optimistic style glorifying socialism, from 1934.
+- **The Thaw** — The relaxation of cultural controls under Khrushchev.
+- **Glasnost** — Gorbachev's 'openness' — relaxed censorship from 1986.
+
+**Misconceptions**
+
+- ✗ Terror was the only way the regime controlled people. → ✓ Propaganda, rewards, education and genuine belief mattered as well.
+- ✗ Khrushchev ended repression. → ✓ He released millions, but crushed Hungary (1956) and Novocherkassk (1962) and attacked the Church.
+- ✗ Brezhnev returned to mass terror. → ✓ Repression was targeted: exile, psychiatric hospitals and expulsion of dissidents.
+- ✗ Religion was wiped out. → ✓ Churches were closed, but belief survived and Stalin used the Church in the war.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. What was Glavlit? The secret police / **The censorship office** / The writers' union / A propaganda film — *Set up in 1922.*
+2. Who ran the NKVD during the Great Terror of 1937–38? Beria / Yagoda / **Yezhov** / Dzerzhinsky — *The 'Yezhovshchina'.*
+3. How did Andropov's KGB mainly deal with dissidents? Mass executions / **Exile, psychiatric hospitals and expulsion** / Public show trials of millions / Ignoring them — *Targeted repression.*
+4. What became compulsory for Soviet artists in 1934? Abstract art / **Socialist Realism** / Proletkult / Impressionism — *Writers' Congress.*
+5. Which novel was published in the USSR in 1988 under glasnost? **Doctor Zhivago** / War and Peace / The Short Course / Battleship Potemkin — *Banned since the 1950s.*
+
+**Short answers**
+
+1. In which year did Stalin allow the Orthodox Church to elect a patriarch? — **1943**
+2. To which city was Sakharov exiled in 1980? — **Gorky**
+3. Who wrote One Day in the Life of Ivan Denisovich? — **Solzhenitsyn**
+
+**Chronology — Put these in order** (correct order): Cheka set up → Glavlit created → Socialist Realism adopted → Zhdanov decrees → Mass amnesty after Stalin's death → Solzhenitsyn expelled → Sakharov released
+
+**Matching — Match the person to their role**
+
+- Dzerzhinsky = Founded the Cheka
+- Yezhov = Ran the Great Terror
+- Andropov = KGB chairman 1967–82
+- Sakharov = Dissident physicist
+- Zhdanov = Cultural crackdown 1946
+
+**Evidence recall**
+
+- Give precise evidence of liberalisation under Khrushchev, and its limits. — *Model:* About 1.2 million prisoners were amnestied in 1953 and many victims rehabilitated after the Secret Speech (1956); the KGB was put under party control. But Hungary was crushed in 1956 and strikers were shot at Novocherkassk in 1962.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| How was the Stalin cult created? | From his fiftieth birthday (1929): posters, rewritten history (Short Course 1938), Stalin as Lenin's heir and 'father of the peoples'. | 1929 onwards. |
+| How was religion treated from Stalin to Brezhnev? | Stalin: churches closed, 1929 law, then wartime concession (1943). Khrushchev: renewed campaign 1958–64. Brezhnev: less aggressive, controlled through the Council for Religious Affairs. | Attack, truce, attack. |
+| Compare Yagoda, Yezhov and Beria. | Yagoda: first show trial, shot 1938. Yezhov: Great Terror 1937–38, shot 1940. Beria: ended mass arrests but ran the camps and deportations, shot 1953. | All three were victims too. |
+| Why was Andropov significant? | KGB chairman 1967–82: targeted repression of dissidents (exile, psychiatric hospitals, expulsion) instead of mass terror; then leader 1982–84. | Smarter repression. |
+| What was Socialist Realism? | From 1934: art must be optimistic, simple and celebrate socialism; enforced through the Union of Soviet Writers. | 1934 Congress. |
+| What was the impact of the breakdown of controls 1985–91? | Banned works published, Stalin's crimes exposed, Western culture spread — the party lost control of history and public opinion. | Glasnost. |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Explain — amber] I can explain how the state used the media, propaganda and the Stalin cult.
+- [Judge — green] I can judge how far the treatment of religion changed under Stalin, Khrushchev and Brezhnev.
+- [Judge — green] I can assess the roles of Yagoda, Yezhov, Beria and Andropov, and the extent of liberalisation under Khrushchev.
+- [Explain — amber] I can explain how state control of culture changed from Proletkult to glasnost.
+
+**Exam practice**
+
+- *Teacher-created practice question* — Section B — breadth essay, 25 marks
+  How accurate is it to say that propaganda was more important than terror in controlling the Soviet people in the years 1928–53?
+- *Past paper: WHI02/1C, June 2024, Q4* — Section B — breadth essay, 25 marks
+  How accurate is it to say that Khrushchev and Gorbachev had similar approaches to the control of the arts?
+- *Past paper: WHI02/1C, June 2023, Q1(a) (Source 1 is in the paper)* — Section A (a) — value of a source, 10 marks
+  Why is Source 1 valuable to the historian for an enquiry into the consequences of Khrushchev's liberalisation policy? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2022, Q1(b) (Source 2 is in the paper)* — Section A (b) — weight of a source, 15 marks
+  How much weight do you give to the evidence of Source 2 for an enquiry into the impact of Gorbachev's policy to allow greater freedoms in the arts? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2022, Q3* — Section B — breadth essay, 25 marks
+  How accurate is it to say that, in the years 1928–53, Beria played the most significant role in suppressing opposition to Stalin?
+- *Past paper: WHI02/1C, June 2021, Q2* — Section B — breadth essay, 25 marks
+  To what extent did the treatment of religion in the Soviet Union change in the years 1928–82?
+- *Past paper: WHI02/1C, January 2020, Q3* — Section B — breadth essay, 25 marks
+  How accurate is it to say that Andropov was successful in suppressing dissidents in the Soviet Union in the years 1965–82?
+- *Past paper: WHI02/1C, January 2019, Q1(a) (Source 1 is in the paper)* — Section A (a) — value of a source, 10 marks
+  Why is Source 1 valuable to the historian for an enquiry into the significance of the policy of liberalisation under Khrushchev? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2017, Q1(b) (Source 2 is in the paper)* — Section A (b) — weight of a source, 15 marks
+  How much weight do you give to the evidence of Source 2 for an enquiry into impact of Gorbachev's reduction of traditional controls in the late 1980s? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2017, Q2* — Section B — breadth essay, 25 marks
+  How accurate is it to say that, in the years 1928–53, the use of terror was the most significant factor in the control of the population of the Soviet Union?
+- *Past paper: WHI02/1C, June 2016, Q4* — Section B — breadth essay, 25 marks
+  To what extent did attacks on religious beliefs and practices in the years 1929–64 result in the destruction of organised religion in the Soviet Union?
+
+**Stretch and challenge**
+
+- **Comparison:** Compare control under Stalin and Brezhnev: which was more effective, and why? Use scope and effectiveness.
+- **Causal links:** How did the breakdown of cultural controls after 1985 contribute to the collapse of Communist rule?
+
+#### Key topic 4: Social developments, 1917–91
+
+`y12-ru-4` · Option 1C: Russia, 1917–91: From Lenin to Yeltsin
+
+Jobs, housing, welfare, the status of women and the education of young people: what did Soviet rule mean for ordinary lives, and how far did it deliver the 'stable society' its leaders promised?
+
+##### 1. Social security
+
+Full employment, housing and social benefits 1917–53: unemployment was high under the NEP, but the Five-Year Plans created a huge demand for labour, and unemployment benefit was abolished in 1930 as unemployment was declared 'eliminated'. Health care and education were free, and pensions and sick pay existed for workers, though not at first for collective farmers.
+
+Housing was a constant problem: rapid urbanisation meant families crowded into communal flats (kommunalki), sharing kitchens and bathrooms, or lived in barracks.
+
+Khrushchev, Brezhnev and the promotion of a stable society 1953–85: a 1956 law improved pensions, the working week was shortened, and a mass housing programme of prefabricated flats ('khrushchevki') moved well over 100 million people into new homes by the mid-1960s. Collective farmers received pensions from 1964 and internal passports from the mid-1970s. Brezhnev's 'social contract' offered job security, low prices for basic goods and slowly rising living standards in return for political obedience.
+
+The impact of social reform 1985–91: Gorbachev's reforms disrupted supplies; shortages and rationing grew, inflation rose and open unemployment appeared. Glasnost revealed poverty, crime and environmental damage, and the miners' strikes of July 1989 showed workers' anger.
+
+*Key terms:* full employment, kommunalka, social contract, khrushchevki, pension, shortage
+
+*Precise evidence:*
+- 1930: unemployment benefit abolished.
+- 1956: pension law.
+- 1956–65: mass housing programme.
+- 1964: pensions for collective farmers.
+- July 1989: miners' strikes.
+
+##### 2. Women and the family
+
+The changing status of women under Lenin and Stalin: the 1918 Family Code made marriage a civil matter, allowed easy divorce and gave women equal legal rights. Abortion was legalised in 1920 — the first country to do so. The Zhenotdel (women's department of the party, 1919–30), led by figures such as Alexandra Kollontai, campaigned for women's rights.
+
+Under Stalin the 'Great Retreat' restored traditional family values: abortion was banned in 1936, divorce was made harder and expensive, and from 1944 mothers of ten or more children could be honoured as 'Mother Heroine'. At the same time women entered industry in huge numbers, so many faced a 'double burden' of paid work and housework.
+
+Contrasting lifestyles in town and country: urban women gained jobs, education and childcare, though housing was cramped. Rural women on collective farms did much of the heavy field labour, with fewer services and lower pay.
+
+The impact of the Second World War: women made up over half the workforce, and around 800,000 served in the armed forces, including as pilots and snipers. After 1945 a huge shortage of men left many women single and responsible for rebuilding.
+
+Changing government attitudes to the family since 1953: abortion was legalised again in 1955, and family law was relaxed in the 1960s. From the 1970s the government worried about low birth rates in the European republics and offered more maternity support. Women made up about half of students in higher education, but very few reached the top of the party.
+
+*Key terms:* Family Code, Zhenotdel, Great Retreat, Mother Heroine, double burden
+
+*Precise evidence:*
+- 1918: Family Code.
+- 1920: abortion legalised.
+- 1930: Zhenotdel abolished.
+- 1936: abortion banned.
+- 1944: 'Mother Heroine' award.
+- 1955: abortion legal again.
+
+##### 3. Education and young people
+
+The changing approaches to education in the 1920s and 30s: under Lunacharsky (Commissar for Enlightenment) the 1920s saw experimental 'unified labour schools' with mixed classes, project work, little formal testing and links to productive labour. In the 1930s Stalin returned to traditional methods: a 1931 decree demanded discipline and basic knowledge, standard textbooks and exams were restored, uniforms returned and fees were introduced for upper secondary and higher education in 1940.
+
+The reduction of illiteracy to 1941: the 1919 decree on the 'liquidation of illiteracy' (likbez) set up literacy classes for adults. Literacy rose from about half the population (1926 census) to about four-fifths (1939 census), helped by compulsory primary schooling from 1930.
+
+Young people were organised through the Young Pioneers (from 1922) and the Komsomol (Communist Youth League, from 1918), which trained future party members and mobilised youth for campaigns such as the Virgin Lands.
+
+State control of the curriculum and the role of Marxist ideology after 1945: Marxism-Leninism was taught at every level and history was rewritten to fit the party line. Khrushchev's 1958 reform added work experience to schooling, but it was reversed after 1964.
+
+The growth and achievements of Soviet higher education to 1991: student numbers grew from about 800,000 in 1940 to around 5 million by the 1980s. Strength in science and engineering made possible achievements such as Sputnik (1957) and Gagarin's spaceflight (1961), and new science cities such as Akademgorodok (1957) were built.
+
+*Key terms:* unified labour school, Narkompros, likbez, Komsomol, Young Pioneers, Marxism-Leninism
+
+*Precise evidence:*
+- 1918: Komsomol founded.
+- 1919: decree on the liquidation of illiteracy.
+- 1926 census: about half literate.
+- 1939 census: about four-fifths literate.
+- 1957: Sputnik launched.
+- 1961: Gagarin in space.
+
+**Timeline**
+
+| Date | Event |
+|---|---|
+| 1918 | Family Code; Komsomol founded |
+| 1919 | Likbez decree; Zhenotdel set up |
+| 1920 | Abortion legalised |
+| 1930 | Unemployment benefit abolished; Zhenotdel closed |
+| 1936 | Abortion banned; family values restored |
+| 1939 | Census: about four-fifths literate |
+| 1944 | 'Mother Heroine' award introduced |
+| 1955 | Abortion legalised again |
+| 1957 | Sputnik launched |
+| 1964 | Pensions for collective farmers |
+| 1989 | Miners' strikes |
+
+**Key people**
+
+- **Alexandra Kollontai** — Bolshevik campaigner for women's liberation; led the Zhenotdel.
+- **Anatoly Lunacharsky** — Commissar for Enlightenment 1917–29; progressive education.
+- **Nikita Khrushchev** — Housing programme, pensions and the 1958 school reform.
+- **Leonid Brezhnev** — 'Social contract': job security and low prices.
+- **Yuri Gagarin** — First person in space, 1961.
+
+**Vocabulary**
+
+- **Kommunalka** — A communal flat shared by several families.
+- **Social contract** — Security and welfare in return for political obedience (Brezhnev era).
+- **Zhenotdel** — The party's women's department, 1919–30.
+- **Great Retreat** — Stalin's return to traditional family and school values in the 1930s.
+- **Double burden** — Women doing both paid work and most housework.
+- **Likbez** — The campaign to 'liquidate illiteracy'.
+- **Komsomol** — The Communist Youth League.
+
+**Misconceptions**
+
+- ✗ Soviet women achieved full equality. → ✓ They had legal rights and jobs, but carried a double burden and were rare at the top of politics.
+- ✗ Soviet education stayed experimental. → ✓ Stalin reversed the 1920s experiments and restored discipline, exams and textbooks.
+- ✗ Brezhnev's era was a time of total misery. → ✓ Many people remembered it as stable and secure, even as the economy slowed.
+
+**Knowledge quiz (multiple choice)** — answer in bold
+
+1. What were 'khrushchevki'? Collective farms / **Prefabricated blocks of flats** / Secret police units / Youth camps — *Mass housing from the late 1950s.*
+2. In which year did Stalin ban abortion? 1920 / 1930 / **1936** / 1955 — *Part of the 'Great Retreat'.*
+3. What did the 1918 Family Code do? Banned divorce / **Made marriage civil and divorce easy** / Created the Mother Heroine award / Closed the Zhenotdel — *Equal legal rights for women.*
+4. Who led education policy in the 1920s? **Lunacharsky** / Zhdanov / Beria / Kosygin — *Commissar for Enlightenment.*
+5. Roughly what share of the population was literate by the 1939 census? About a quarter / About half / **About four-fifths** / Everyone — *Up from about half in 1926.*
+
+**Short answers**
+
+1. In which year was unemployment benefit abolished? — **1930**
+2. What title was given from 1944 to mothers of ten or more children? — **Mother Heroine**
+3. What was the Communist Youth League called? — **Komsomol**
+
+**Chronology — Put these in order** (correct order): Family Code → Abortion legalised → Zhenotdel abolished → Abortion banned → Mother Heroine award → Abortion legal again → Pensions for collective farmers
+
+**Matching — Match the leader to the social policy**
+
+- Lenin = Family Code and likbez
+- Stalin = The Great Retreat
+- Khrushchev = Mass housing programme
+- Brezhnev = Social contract
+- Gorbachev = Reforms that brought shortages
+
+**Evidence recall**
+
+- Give precise evidence of how the status of women changed under Lenin and Stalin. — *Model:* The 1918 Family Code gave equal rights and easy divorce, abortion was legalised in 1920 and the Zhenotdel campaigned for women; under Stalin the Zhenotdel closed (1930), abortion was banned (1936), divorce was made harder and the 'Mother Heroine' award (1944) promoted large families, while women entered industry and carried a double burden.
+
+**Flashcards**
+
+| Question | Answer | Hint |
+|---|---|---|
+| What social security did Soviet citizens have by 1953? | Full employment (benefit abolished 1930), free health care and education, pensions for workers — but very poor, crowded housing. | Jobs yes, housing no. |
+| What was Brezhnev's 'social contract'? | Job security, low prices and slowly rising living standards in exchange for political obedience. | Stability. |
+| How did Stalin's family policy differ from Lenin's? | Lenin: easy divorce, legal abortion, Zhenotdel. Stalin: abortion banned 1936, divorce harder, Mother Heroine — but women pushed into industry. | Great Retreat. |
+| How did the Second World War affect Soviet women? | Over half the workforce; about 800,000 in the armed forces; afterwards a shortage of men and a double burden. | Workforce and front. |
+| How did education change from the 1920s to the 1930s? | 1920s: experimental labour schools, few exams. 1930s: discipline, standard textbooks, exams, uniforms, fees from 1940. | Experiment to tradition. |
+| What did Soviet higher education achieve? | Students grew from about 800,000 (1940) to about 5 million (1980s); strength in science led to Sputnik (1957) and Gagarin (1961). | Science. |
+
+**Personal learning checklist** (rate red / amber / green)
+
+- [Explain — amber] I can explain how social security, jobs and housing changed from 1917 to 1991.
+- [Judge — green] I can judge how far Khrushchev and Brezhnev created a stable society.
+- [Judge — green] I can assess how the status of women changed under Lenin, Stalin and after 1953.
+- [Explain — amber] I can explain the changing approaches to education and the reduction of illiteracy to 1941.
+- [Judge — green] I can judge the growth and achievements of Soviet higher education to 1991.
+
+**Exam practice**
+
+- *Teacher-created practice question* — Section B — breadth essay, 25 marks
+  How accurate is it to say that living conditions for Soviet citizens improved significantly in the years 1953–85?
+- *Past paper: WHI02/1C, June 2024, Q1(b) (Source 2 is in the paper)* — Section A (b) — weight of a source, 15 marks
+  How much weight do you give to the evidence of Source 2 for an enquiry into the nature of education in Russia in the 1920s? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, June 2023, Q2* — Section B — breadth essay, 25 marks
+  How accurate is it to say that education in the Soviet Union in the 1930s was completely different from education in the Soviet Union in the 1920s?
+- *Past paper: WHI02/1C, June 2022, Q2* — Section B — breadth essay, 25 marks
+  How accurate is it to say that, in the years 1918–41, the attempts to reduce illiteracy in the Soviet Union had only limited success?
+- *Past paper: WHI02/1C, June 2021, Q3* — Section B — breadth essay, 25 marks
+  How accurate is it to say that Khrushchev and Brezhnev failed to achieve a stable society in the Soviet Union in the years 1953–82?
+- *Past paper: WHI02/1C, January 2020, Q1(a) (Source 1 is in the paper)* — Section A (a) — value of a source, 10 marks
+  Why is Source 1 valuable to the historian for an enquiry into approaches to education in the Soviet Union in the 1920s? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, January 2020, Q1(b) (Source 2 is in the paper)* — Section A (b) — weight of a source, 15 marks
+  How much weight do you give to the evidence of Source 2 for an enquiry into the status of women in Stalinist Russia? Explain your answer using the source, the information given about it and your own knowledge of the historical context.
+- *Past paper: WHI02/1C, January 2019, Q3* — Section B — breadth essay, 25 marks
+  To what extent did Brezhnev achieve a stable society in the years 1964–82?
+- *Past paper: WHI02/1C, June 2017, Q4* — Section B — breadth essay, 25 marks
+  How accurate is it to say that there were significant changes to Soviet higher education in the years 1945–91?
+- *Past paper: WHI02/1C, June 2016, Q3* — Section B — breadth essay, 25 marks
+  How accurate is it to say that the status of women improved in the years 1917–53?
+
+**Stretch and challenge**
+
+- **Change and continuity:** Was the status of women transformed or only slightly changed between 1917 and 1991? Use scope and duration.
+- **Causal links:** How did the success of Soviet education contribute to the problems the regime faced in the 1980s?
 
 <a id="y13"></a>
 ## Year 13: International A Level History — Civil Rights and Superpowers

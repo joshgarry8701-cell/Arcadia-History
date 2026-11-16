@@ -82,7 +82,7 @@ const BANK = {
     d: { q: 'Describe two features of John Blanke\'s life at the Tudor court.', sections: ['s1'] },
     s: { q: 'What can you learn from Source A about John Blanke\'s position at the court of Henry VIII?', sections: ['s1'],
       sources: [{ label: 'Source A', provenance: 'The Westminster Tournament Roll, an illustrated roll made in 1511 to record the tournament celebrating the birth of Henry VIII\'s son. It is held by the College of Arms.', text: 'The roll shows a procession of royal trumpeters on horseback, each wearing the same royal livery and blowing a trumpet hung with a banner. One of them is a Black man wearing a turban, generally identified as John Blanke. He appears twice on the roll, riding in his place among the other trumpeters.' }] },
-    j: { type: 'judge', minutes: 20, q: '"John Blanke\'s story tells us more about Africans in Tudor England than any other Black Tudor life." How far do you agree?', sections: ['s1', 's2', 's3', 's4'] }
+    j: { type: 'judge', minutes: 20, q: '"John Blanke\'s story tells us more about Africans in Tudor England than any other Black Tudor life." How far do you agree?', sections: ['s1', 's2', 's3'] }
   },
   'y8-af-3': {
     d: { q: 'Describe two features of the everyday lives of Africans in Tudor England.', sections: ['s2'] },

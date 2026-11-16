@@ -3,15 +3,15 @@
   "course": "y8",
   "area": "afr",
   "order": 7,
-  "kt": "Four lives",
-  "title": "Four Black Tudor lives: Blanke, Francis, Diego and Fillis",
+  "kt": "Three lives",
+  "title": "Three Black Tudor lives: Blanke, Francis and Diego",
   "status": "published",
   "review": {
     "state": "awaiting-teacher-check",
     "note": "Built from Mr Garry's own lessons for this unit (2026–27 scheme of work). Check wording against the lesson PowerPoints before relying on it."
   },
   "learn": {
-    "intro": "Four people, four very different journeys: a royal trumpeter, a salvage diver, a sailor who crossed the world with Drake, and a Moroccan woman who chose to be baptised in London. Their stories tell us a great deal about Tudor England.",
+    "intro": "Three people, three very different journeys: a royal trumpeter, a salvage diver and a sailor who crossed the world with Drake. Their stories tell us a great deal about Tudor England.",
     "sections": [
       {
         "id": "s1",
@@ -98,35 +98,6 @@
           "Joined Drake 1572; sailed from Plymouth November 1577.",
           "Died 1579 near the Moluccas."
         ]
-      },
-      {
-        "id": "s4",
-        "title": "4. Mary Fillis, Moroccan convert",
-        "blocks": [
-          {
-            "p": "Mary Fillis was the daughter of Fillis of Morisco, a Moroccan basket weaver and shovel maker. She came to London around 1583, aged about six or seven."
-          },
-          {
-            "p": "She worked as a servant for John Barker, a merchant, and later for Millicent Porter, a seamstress in East Smithfield."
-          },
-          {
-            "p": "In 1597, around the age of 20, she asked to be baptised. The ceremony took place at St Botolph's, Aldgate. Choosing baptism suggests she wanted to belong to her community; it may also have helped her future."
-          },
-          {
-            "p": "She lived in London while Morocco and England were building an alliance against Spain. After Porter died in 1599, we do not know what happened to her."
-          }
-        ],
-        "terms": [
-          "Morocco",
-          "servant",
-          "seamstress",
-          "baptism",
-          "convert"
-        ],
-        "evidence": [
-          "Arrived around 1583.",
-          "Baptised 1597 at St Botolph's, Aldgate."
-        ]
       }
     ],
     "timeline": [
@@ -165,10 +136,6 @@
       {
         "date": "1579",
         "event": "Diego dies near the Moluccas."
-      },
-      {
-        "date": "1597",
-        "event": "Mary Fillis is baptised at St Botolph's, Aldgate."
       }
     ],
     "people": [
@@ -185,20 +152,12 @@
         "role": "Escaped Spanish slavery; sailed with Drake; died 1579."
       },
       {
-        "name": "Mary Fillis",
-        "role": "Moroccan-born servant and seamstress; baptised 1597."
-      },
-      {
         "name": "Piero Paolo Corsi",
         "role": "Venetian salvage contractor who employed Francis."
       },
       {
         "name": "Francis Drake",
         "role": "English sea captain and privateer."
-      },
-      {
-        "name": "Millicent Porter",
-        "role": "Seamstress in East Smithfield who employed Fillis."
       }
     ],
     "vocab": [
@@ -221,14 +180,6 @@
       {
         "term": "Cimarrons",
         "def": "Africans who had escaped Spanish slavery in Panama."
-      },
-      {
-        "term": "Baptism",
-        "def": "A Christian ceremony of joining the Church."
-      },
-      {
-        "term": "Convert",
-        "def": "Someone who changes religion."
       }
     ],
     "misconceptions": [
@@ -243,10 +194,6 @@
       {
         "wrong": "Diego was Drake's slave.",
         "right": "He had escaped slavery, and evidence suggests he served under a contract like other crew members."
-      },
-      {
-        "wrong": "Baptism meant someone was forced to convert.",
-        "right": "Mary Fillis asked to be baptised."
       }
     ],
     "sources": [
@@ -362,19 +309,6 @@
         ],
         "answer": 1,
         "why": "Diego helped Drake ally with them."
-      },
-      {
-        "id": "m8",
-        "s": "s4",
-        "q": "Where was Mary Fillis baptised in 1597?",
-        "options": [
-          "Westminster Abbey",
-          "St Botolph's, Aldgate",
-          "St Paul's Cathedral",
-          "Canterbury"
-        ],
-        "answer": 1,
-        "why": "In London."
       }
     ],
     "short": [
@@ -407,24 +341,6 @@
           "sir francis drake"
         ],
         "answer": "Francis Drake"
-      },
-      {
-        "id": "a4",
-        "s": "s4",
-        "q": "Which country did Mary Fillis come from?",
-        "accept": [
-          "morocco"
-        ],
-        "answer": "Morocco"
-      },
-      {
-        "id": "a5",
-        "s": "s4",
-        "q": "In which year was Mary Fillis baptised?",
-        "accept": [
-          "1597"
-        ],
-        "answer": "1597"
       }
     ],
     "chronology": [
@@ -437,8 +353,7 @@
           "Mary Rose sinks",
           "Francis gives evidence",
           "Diego joins Drake",
-          "Diego dies near the Moluccas",
-          "Fillis is baptised"
+          "Diego dies near the Moluccas"
         ]
       }
     ],
@@ -458,10 +373,6 @@
           [
             "Diego",
             "Sailed around the world with Drake"
-          ],
-          [
-            "Mary Fillis",
-            "Asked to be baptised in 1597"
           ]
         ]
       },
@@ -480,10 +391,6 @@
           [
             "Diego",
             "Manservant and interpreter"
-          ],
-          [
-            "Mary Fillis",
-            "Servant and seamstress"
           ]
         ]
       }
@@ -595,18 +502,6 @@
       "s": "s3",
       "q": "Diego's death",
       "a": "Wounded on Mocha Island 1578; died 1579 near the Moluccas."
-    },
-    {
-      "id": "f11",
-      "s": "s4",
-      "q": "Mary Fillis",
-      "a": "Moroccan, arrived around 1583; servant then seamstress."
-    },
-    {
-      "id": "f12",
-      "s": "s4",
-      "q": "Fillis's baptism",
-      "a": "1597, St Botolph's, Aldgate, aged about 20."
     }
   ],
   "checklist": [
@@ -621,11 +516,10 @@
     {
       "id": "k2",
       "level": "describe",
-      "text": "I can describe the lives of Jacques Francis, Diego and Mary Fillis.",
+      "text": "I can describe the lives of Jacques Francis and Diego.",
       "sections": [
         "s2",
-        "s3",
-        "s4"
+        "s3"
       ]
     },
     {
@@ -635,8 +529,7 @@
       "sections": [
         "s1",
         "s2",
-        "s3",
-        "s4"
+        "s3"
       ]
     },
     {
@@ -655,8 +548,7 @@
       "sections": [
         "s1",
         "s2",
-        "s3",
-        "s4"
+        "s3"
       ]
     }
   ],
@@ -707,8 +599,7 @@
         "sections": [
           "s1",
           "s2",
-          "s3",
-          "s4"
+          "s3"
         ]
       }
     ]
@@ -717,7 +608,7 @@
     {
       "id": "t1",
       "kind": "Own words",
-      "task": "Which of the four do we come closest to hearing in their own words? What stops us hearing them more?"
+      "task": "Which of the three do we come closest to hearing in their own words? What stops us hearing them more?"
     },
     {
       "id": "t2",
@@ -728,20 +619,14 @@
       "id": "t3",
       "kind": "Diego and Drake",
       "task": "Drake is famous; Diego is not. Why might that be, and should it change?"
-    },
-    {
-      "id": "t4",
-      "kind": "Choosing baptism",
-      "task": "Why might Mary Fillis have chosen baptism? Give two possible reasons and say which the evidence supports better."
     }
   ],
   "planning": {
-    "title": "Planning grid: four lives",
+    "title": "Planning grid: three lives",
     "rows": [
       "John Blanke",
       "Jacques Francis",
-      "Diego",
-      "Mary Fillis"
+      "Diego"
     ],
     "cols": [
       "Why they came",

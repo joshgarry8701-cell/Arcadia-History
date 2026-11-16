@@ -23,7 +23,7 @@
           {
             "ul": [
               "They were paid wages (John Blanke, Jacques Francis, Diego).",
-              "They were baptised, married and buried in parish churches (Mary Fillis, John Blanke).",
+              "They were baptised, married and buried in parish churches, and John Blanke married in 1512.",
               "They could give evidence in court (Jacques Francis, 1548)."
             ]
           },
@@ -116,10 +116,6 @@
       {
         "date": "1596",
         "event": "Privy Council open letter to Caspar van Senden (18 July)."
-      },
-      {
-        "date": "1597",
-        "event": "Mary Fillis is baptised."
       },
       {
         "date": "1601",
@@ -383,7 +379,6 @@
           "Hawkins begins slave-trading voyages",
           "Nunes petition",
           "Privy Council letter to van Senden",
-          "Fillis baptised",
           "Draft proclamation (never issued)"
         ]
       }

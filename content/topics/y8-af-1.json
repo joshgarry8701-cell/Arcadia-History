@@ -47,7 +47,7 @@
           {
             "ul": [
               "Royal and noble households: Catherine of Aragon arrived from Spain in 1501 with a household that included Africans. Spain and Portugal already had large African populations.",
-              "Trade: merchants traded with Morocco, West Africa and the Iberian peninsula. Mary Fillis came from Morocco around 1583.",
+              "Trade: merchants traded with Morocco, West Africa and the Iberian peninsula.",
               "Skills: Africans brought skills that were valued, such as music (John Blanke, trumpeter) and diving (Jacques Francis).",
               "Escaping Spanish slavery: Diego escaped Spanish enslavement in Panama and joined Francis Drake in 1572.",
               "Privateering: English ships attacked Spanish and Portuguese shipping, and Africans on board sometimes ended up in England."
@@ -116,10 +116,6 @@
         "event": "Diego joins Francis Drake at Nombre de Dios, Panama."
       },
       {
-        "date": "c.1583",
-        "event": "Mary Fillis arrives in London from Morocco."
-      },
-      {
         "date": "1596",
         "event": "A Privy Council letter allows Caspar van Senden to take Africans abroad, only with their masters' consent; the scheme fails."
       }
@@ -136,10 +132,6 @@
       {
         "name": "Diego",
         "role": "Escaped Spanish slavery; sailed with Drake."
-      },
-      {
-        "name": "Mary Fillis",
-        "role": "Moroccan-born servant and seamstress in London; baptised 1597."
       },
       {
         "name": "Miranda Kaufmann",
@@ -285,15 +277,15 @@
       {
         "id": "m6",
         "s": "s2",
-        "q": "Mary Fillis came from…",
+        "q": "Jacques Francis was valued in England for his…",
         "options": [
-          "Spain",
-          "Morocco",
-          "Portugal",
-          "Benin"
+          "Wealth",
+          "Diving skills",
+          "Royal title",
+          "Land"
         ],
         "answer": 1,
-        "why": "Around 1583."
+        "why": "Salvage diving."
       },
       {
         "id": "m7",
@@ -385,7 +377,6 @@
           "John Blanke in royal accounts",
           "Mary Rose sinks",
           "Diego joins Drake",
-          "Mary Fillis arrives in London",
           "Van Senden scheme fails"
         ]
       }
@@ -408,8 +399,8 @@
             "Escape from Spanish slavery"
           ],
           [
-            "Mary Fillis",
-            "Trade links with Morocco"
+            "Africans with Catherine of Aragon",
+            "Arrived in a royal household from Spain"
           ]
         ]
       }
@@ -433,7 +424,6 @@
           ],
           [
             "blanke",
-            "fillis",
             "diego",
             "francis",
             "1501",
@@ -510,18 +500,12 @@
     },
     {
       "id": "f8",
-      "s": "s2",
-      "q": "Mary Fillis's reason",
-      "a": "Came from Morocco via trade links, around 1583."
-    },
-    {
-      "id": "f9",
       "s": "s3",
       "q": "\"Blackamoores\"",
       "a": "Onyeka Nubia, 2013."
     },
     {
-      "id": "f10",
+      "id": "f9",
       "s": "s3",
       "q": "\"Black Tudors\"",
       "a": "Miranda Kaufmann, 2017."
@@ -662,11 +646,11 @@
             "n": "P: qualified."
           },
           {
-            "t": "John Blanke was paid as a royal trumpeter from 1507, but Diego came after escaping Spanish slavery in 1572, and Mary Fillis arrived from Morocco around 1583 through trade links.",
+            "t": "John Blanke was paid as a royal trumpeter from 1507, but Diego came after escaping Spanish slavery in 1572, and Jacques Francis was valued for his diving skills.",
             "n": "E: precise, several reasons."
           },
           {
-            "t": "This means royal courts explain some arrivals, but trade and conflict with Spain explain more of the later ones.",
+            "t": "This means royal courts explain some arrivals, but skills and conflict with Spain explain more of the others.",
             "n": "E: explains."
           },
           {
@@ -696,7 +680,7 @@
     {
       "id": "t1",
       "kind": "Choice or force?",
-      "task": "Sort the four stories by how much choice each person had. Is \"push and pull\" too simple for their journeys?"
+      "task": "Sort the three stories by how much choice each person had. Is \"push and pull\" too simple for their journeys?"
     },
     {
       "id": "t2",
@@ -706,7 +690,7 @@
     {
       "id": "t3",
       "kind": "Missing records",
-      "task": "Why might women like Mary Fillis be harder to find in the records than men like John Blanke?"
+      "task": "Why might women be harder to find in the records than men like John Blanke?"
     },
     {
       "id": "t4",
